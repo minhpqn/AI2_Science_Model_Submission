@@ -1,0 +1,20 @@
+Simple diffusion does not require energy or need the assistance of a transport protein.
+Other larger or charged molecules that diffuse across a membrane may need assistance from a protein.
+Oxygen is a molecule that can freely diffuse across a cell membrane.
+For example, oxygen diffuses out of the air sacs in your lungs into your bloodstream because oxygen is more concentrated in your lungs than in your blood.
+Oxygen moves from the high concentration of oxygen in your lungs to the low concentration of oxygen in your bloodstream.
+Carbon dioxide, which is exhaled, moves in the opposite direction - from a high concentration in your bloodstream to a low concentration in your lungs.
+Passive Transport using Membrane Proteins
+Sometimes, molecules cannot move through the cell membrane on their own.
+These molecules need special transport proteins to help them move across the membrane, a process known as facilitative diffusion .
+These special proteins are called channel proteins or carrier proteins ( Figure below ), and they are attached to the cell membrane.
+In fact, they go through the cell membrane, from the inside of the cell to the outside.
+Channel proteins provide an open channel or passageway through the cell membrane for molecules to move across.
+Many channel proteins allow the diffusion of ions.
+Ions are charged atoms.
+The charge makes it difficult to cross the cell membrane without assistance.
+Channel proteins are specific for the molecule they transport.
+For example a sodium ion crosses the membrane through a channel protein specific for sodium ions.
+Carrier proteins bind and carry the molecules across the cell membrane.
+These proteins bind a molecule on one side of the membrane, change shape as they carry the molecule across the membrane, and deposit the molecule on the other side of the membrane.
+Even though a protein is involved in both these methods of transport, neither method requires energy.

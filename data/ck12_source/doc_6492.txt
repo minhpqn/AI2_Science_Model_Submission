@@ -1,0 +1,20 @@
+What would be the voltage for the reaction where Zn metal forms Zn 2+ ?
+electrolysis:
+The process in which electrical energy is used to cause a nonspontaneous chemical reaction to occur.
+electrolytic cell:
+The apparatus used for carrying out an electrolysis reaction.
+Electrolysis of Water
+Describe the experimental set-up for the electrolysis of water.
+Write equations for the reactions involved in the process.
+Photoelectrolysis is being explored as a method of generating power
+More energy from the sun?
+With fossil fuels becoming more expensive and less available, scientists are looking for other energy sources.
+Hydrogen has long been considered an ideal source, since it does not pollute when it burns.
+The problem has been finding ways to generate hydrogen economically.
+One new approach that is being studied is photoelectrolysis – the generation of electricity using photovoltaic cells to split water molecules.
+This technique is still in the research stage, but appears to be a very promising source of power in the future.
+Electrolysis of Water
+The electrolysis of water produces hydrogen and oxygen gases.
+The electrolytic cell consists of a pair of platinum electrodes immersed in water to which a small amount of an electrolyte such as H 2 SO 4 has been added.
+The electrolyte is necessary because pure water will not carry enough charge due to the lack of ions.
+At the anode, water is oxidized to oxygen gas and hydrogen ions.

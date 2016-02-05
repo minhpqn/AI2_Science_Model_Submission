@@ -1,0 +1,20 @@
+Their attachment is random, so all of the chromosomes from the mother or father do not end up in the same gamete.
+The gamete will contain some chromosomes from the mother and some chromosomes from the father.
+Anaphase I:
+The homologous chromosomes are separated as the spindle shortens, and begin to move to opposite sides (opposite poles) of the cell.
+Telophase I:
+The spindle fibers dissolves, but a new nuclear envelope does not need to form.
+This is because, after cytokinesis, the nucleus will immediately begin to divide again.
+No DNA replication occurs between meiosis I and meiosis II because the chromosomes are already duplicated.
+After cytokinesis, two haploid cells result, each with chromosomes made of sister chromatids.
+Since the separation of chromosomes into gametes is random during meiosis I, this process results in different combinations of chromosomes (and alleles) in each gamete.
+With 23 pairs of chromosomes, there is a possibility of over 8 million different combinations of chromosomes (2 23 ) in a human gamete.
+Diagram of crossing-over
+During crossing-over, segments of DNA are exchanged between non-sister chromatids of homologous chromosomes.
+Notice how this can result in an allele (A) on one chromatid being moved onto the other non-sister chromatid.
+During meiosis II, the sister chromatids are separated and the gametes are generated.
+This cell division is similar to that of mitosis , but results in four genetically unique haploid cells.
+The steps are outlined below:
+Prophase II:
+The chromosomes condense.
+Metaphase II:

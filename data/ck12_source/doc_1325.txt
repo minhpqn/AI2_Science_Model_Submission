@@ -1,0 +1,20 @@
+Scientists are a long way from being able to predict earthquakes.
+A good prediction must be detailed and accurate.
+Where will the earthquake occur?
+When will it occur?
+What will be its approximate magnitude?
+With a good prediction, authorities could get people to evacuate.
+But if the prediction were wrong, a lot of money would be lost as people closed businesses and skipped work.
+Plus people would be unlikely to believe the authorities the next time.
+Where an earthquake will occur is the easiest feature to predict.
+How would you predict this?
+Scientists know that earthquakes take place at plate boundaries.
+They tend to happen where they’ve happened before ( Figure below ).
+Map of earthquake probability regions in the United States
+This map shows earthquake probability regions in the United States.
+Fault segments behave consistently.
+A segment with frequent small earthquakes will likely continue to have frequent small earthquakes.
+A fault segment with infrequent huge earthquakes will likely have infrequent huge earthquakes.
+The image below shows the probabilities of earthquakes striking along various faults in the San Francisco area ( Figure below ).
+The time frame is between 2003 (when the work was done) and 2032.
+Map of probabilities of earthquake along faults in the San Francisco Bay Area

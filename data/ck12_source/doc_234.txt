@@ -1,0 +1,20 @@
+The increasing distances between seconds in the red ball's motion indicates that this motion is accelerating.
+A very important point here is that the vertical motion of these two balls is identical.  That is, they each fall exactly the same distance vertically in each succeeding second.
+The constant horizontal velocity of the blue ball has no effect on its accelerated vertical motion.
+Therefore, the vertical motion of the blue ball can be analyzed exactly the same as the vertical motion of the red ball.
+Example Problem:  If an arrow is fired from a bow with a perfectly horizontal velocity of 60.0 m/s and the arrow was 2.00 m above the ground when the it was released, how far will the arrow fly horizontally before it strikes the ground?
+Solution:  This problem is solved by determining how long it takes the arrow to fall to the ground in exactly the same manner as if the arrow was dropped with no horizontal velocity.
+The time required for the arrow to fall to the ground will be the same time that the arrow flies horizontally at 60.0 m/s, so
+d = \frac{1}{2} at^2 \ \text{solved for} \ t=\sqrt{\frac{2d}{a}}=\sqrt{\frac{(2)(2.00 \ \text{m})}{9.80 \ \text{m/s}^2}}=0.639 \ \text{s}
+The time required for the fall is multiplied by the horizontal velocity to get the horizontal distance.
+d_{\text{horizontal}} = (v_{\text{horizontal}})(\text{time}) = (60.0 \ \text{m/s})(0.639 \ \text{s}) = 38.3 \ \text{m}
+Example Problem:  A rock was thrown horizontally from a 100.0 m high cliff.
+It strikes the ground 90.0 m from the base of the cliff.
+At what speed was it thrown?
+Solution:  We can calculate how long it takes for a rock to free fall 100.0 m and then divide this time into the horizontal distance to get the horizontal velocity.
+t&=\sqrt{\frac{2d}{a}}=\sqrt{\frac{(2)(100.0 \ \text{m})}{9.80 \ \text{m/s}^2}}=4.52 \ \text{s} \\v&=\frac{d}{t}=\frac{90.0 \ \text{m}}{4.52 \ \text{s}}=19.9 \ \text{m/s}
+Perpendicular components of vectors do not influence each other.
+The horizontal motion of a projectile does not influence its free fall.
+The following video is a clip from Mythbusters, testing the "myth" that a bullet dropped at the same moment and from the same height as one shot from a gun will also hit the ground instantaneously.
+Click on the image above for more content
+What was the problem the mythbusters had with the dropped bullet?

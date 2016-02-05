@@ -1,0 +1,20 @@
+Describe and give the formula for Newton’s Universal Law of Gravity.
+Using Newton’s Law of Gravity and the equations of uniform circular motion, solve problems involving the force of gravity.
+Cavendish's apparatus to measure gravity
+In 1798, Henry Cavendish designed and created an apparatus and experiment to determine the density of the planet and the value of the gravitational constant,  G .
+His apparatus involved a light, rigid rod about 2-feet long with two small lead spheres attached to the ends.
+The rod was suspended by a thin wire.
+When the rod rotated, the twisting of the wire pushed  backwards to restore the rod to the original position.
+Force of Gravity
+In the mid-1600’s, Newton wrote that the sight of a falling apple made him think of the problem of the motion of the planets.
+He recognized that the apple fell straight down because the earth attracted it and thought this same force of attraction might apply to the moon.
+It further occured to him that motion of the planets might be controlled by the gravity of the sun.
+He eventually proposed the universal law of gravitational attraction as
+where  m_1 and  m_2 are the masses being attracted,  d is the distance between the centers of the masses,  G is the universal gravitational constant, and  F is the force of attraction.
+The formula for gravitational attraction applies equally to two rocks resting near each other on the earth and to the planets and the sun.
+The value for the universal gravitational constant, G , was determined by Henry Cavendish (using the apparatus described in the introduction) to be 6.67 × 10 -11 N·m 2 /kg 2 .
+The moon stays the same distance from the Earth in its orbit
+The moon is being pulled toward the earth and the earth toward the moon with the same force but in the opposite direction.
+The force of attraction between the two bodies produces a greater acceleration of the moon than the earth because the moon has smaller mass.
+Even though the moon is constantly falling toward the earth, it never gets any closer.
+This is because the velocity of the moon is perpendicular to the radius of the earth (as shown in the image above) and therefore the moon is moving away from the earth.

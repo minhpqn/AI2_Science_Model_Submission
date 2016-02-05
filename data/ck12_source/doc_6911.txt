@@ -1,0 +1,20 @@
+One can determine the number of excess electrons (or protons if positive charge) by dividing the objects charge by the fundamental charge.
+Most objects are electrically neutral (equal numbers of electrons and protons) and that's why gravity dominates on a macro scale.
+Question If an object has +0.003 C of charge, how many excess protons does the object have?
+Answer q = Ne \text{ }  0.003 \text{C} = N \times 1.6 \times 10^{-19} N =  1.875 \times 10^{16}  ; protons
+Watch this Explanation
+Click on the image above for more content
+Balloons and Static Electricity (PhET Simulation)
+After sliding your feet across the rug, you touch the sink faucet and get shocked.
+Explain what is happening.
+What is the net charge of the universe?
+Of your toaster?
+As you slide your feet along the carpet, you pick up a net charge of +4 \;\mathrm{mC} .
+Which of the following is true?
+You have an excess of 2.5 \times 10^{16} electrons
+You have an excess of 2.5 \times 10^{19} electrons
+You have an excess of 2.5 \times 10^{16} protons
+You have an excess of 2.5 \times 10^{19} protons
+You rub a glass rod with a piece of fur.
+If the rod now has a charge of -0.6\ \mu C , how many electrons have been added to the rod?
+3.75 \times 10^{18}

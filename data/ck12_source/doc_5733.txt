@@ -1,0 +1,20 @@
+A logical way to begin grouping elements together was by their chemical properties.
+In other words, putting elements in separate groups based on how they reacted with other elements.
+In 1829, a German chemist, Johann Dobereiner (1780-1849), placed various groups of three elements into groups called triads .
+One such triad was lithium, sodium, and potassium.
+Triads were based on both physical as well as chemical properties.
+Dobereiner found that the atomic masses of these three elements, as well as other triads, formed a pattern.
+When the atomic masses of lithium and potassium were averaged together \frac{(6.94 + 39.10)}{2} = 23.02 , it was approximately equal to the atomic mass of sodium (22.99).
+These three elements also displayed similar chemical reactions, such as vigorously reacting with the members of another triad: chlorine, bromine, and iodine.
+While Dobereiner’s system would pave the way for future ideas, a limitation of the triad system was that not all of the known elements could be classified in this way.
+English chemist John Newlands (1838-1898) ordered the elements in increasing order of atomic mass and noticed that every eighth element exhibited similar properties.
+He called this relationship the “Law of Octaves .” Unfortunately, there were some elements that were missing and the law did not seem to hold for elements that were heavier than calcium.
+Newlands’s work was largely ignored and even ridiculed by the scientific community in his day.
+It was not until years later that another more extensive periodic table effort would gain much greater acceptance and the pioneering work of John Newlands would be appreciated.
+Newland's Law of Octaves
+Johann Dobereiner organized elements in groups called triads.
+John Newland proposed the “Law of Octaves” for organizing the elements.
+Use the link below to answer the following questions:
+Who discovered the first element through scientific inquiry and what was the element?
+Describe the triad approach to constructing a periodic table.
+What contribution did A.E.Beguyer de Chancourtois make to the development of the periodic table?

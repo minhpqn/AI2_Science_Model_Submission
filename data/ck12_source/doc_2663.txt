@@ -1,0 +1,20 @@
+Changes of state from solid to liquid and from liquid to gas occur when matter gains energy.
+The energy allows individual molecules to separate and move apart from one another.
+It takes more energy to bring about these changes of state for polar molecules.
+Although hydrogen bonds are weak, they add to the energy needed for molecules to move apart from one another, so it takes higher temperatures for these changes of state to occur in polar compounds.
+This explains why polar compounds have relatively high melting and boiling points.
+The Table below compares melting and boiling points for some polar and nonpolar covalent compounds.
+Name of Compound (Chemical Formula)
+Polar or Nonpolar?
+Boiling Point (°C)
+Methane (CH 4 )
+Ethylene (C 2 H 2 )
+Ammonia (NH 3 )
+Water (H 2 O)
+Q:
+Which compound in the Table above do you think is more polar, ammonia or water?
+A:
+Water is more polar than ammonia.
+Its strong polarity explains why its melting and boiling points are high even for a polar covalent compound.
+Polar covalent compounds have molecules with a partial negative charge on one side and a partial positive charge on the other side.
+This occurs because the compounds contain polar bonds.

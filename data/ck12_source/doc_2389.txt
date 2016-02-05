@@ -1,0 +1,20 @@
+Therefore, a line graph would be a good choice to display the data in the Table above .
+The line graph below shows one way this could be done.
+Q:
+Based on the line graph above, describe the trend in tornado numbers by month throughout the course of a year.
+A:
+The number of tornadoes rises rapidly from a low in January to a peak in April.
+This is followed by a relatively slow decline throughout the rest of the year.
+Graphs are very useful tools in science because they display data visually.
+Three commonly used types of graphs are bar graphs, circle graphs, and line graphs.
+Each type of graph is suitable for a different type of data.
+Bar graphs are suitable for comparing values for different things, such as the average numbers of tornadoes for different cities.
+Circle graphs are used to show percents of a whole, such as the percent of all U.S. tornadoes with different strengths.
+Line graphs are especially useful for showing changes over time, such as variation in the number of tornadoes by month throughout the year.
+When you make a line graph, you need to locate x and y values on a set of axes.
+This lets you plot the points that will be connected to create the line.
+Do the frog-and-fly activity at the following URL.
+See how many flies you can catch while you practice plotting points.
+What is the advantage of displaying data in a graph rather than just listing data in a table?
+Explain what a circle graph shows.
+Examine the data in Table below .

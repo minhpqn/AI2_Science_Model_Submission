@@ -1,0 +1,20 @@
+Electrons can jump from a lower to the next higher energy level if they absorb this amount of energy.
+Conversely, if electrons jump from a higher to a lower energy level, they give off energy, often in the form of light.
+This explains the fireworks pictured above.
+When the fireworks explode, electrons gain energy and jump to higher energy levels.
+When they jump back to their original energy levels, they release the energy as light.
+Different atoms have different arrangements of electrons, so they give off light of different colors.
+You can see an animation of electrons jumping from one energy level to another at this URL:
+Energy levels in an atom
+Q:
+In the atomic model Figure above , where would you find electrons that have the most energy?
+A:
+Electrons with the most energy would be found in energy level IV.
+Energy Levels and Orbitals
+The smallest atoms are hydrogen atoms.
+They have just one electron orbiting the nucleus.
+That one electron is in the first energy level.
+Bigger atoms have more electrons.
+Electrons are always added to the lowest energy level first until it has the maximum number of electrons possible.
+Then electrons are added to the next higher energy level until that level is full, and so on.
+How many electrons can a given energy level hold?

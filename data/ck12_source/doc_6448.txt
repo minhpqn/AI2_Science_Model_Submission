@@ -1,0 +1,20 @@
+The substance that loses electrons is being oxidized and is the reducing agent.
+The substance that gains electrons is being reduced and is the oxidizing agent.
+Step 2:
+Solve .
+\text{Cl}_2(g)+ \cancel{2\text{Na}^+(aq)}+2\text{Br}^-(aq) & \rightarrow \cancel{2\text{Na}^+(aq)}+2\text{Cl}^-(aq)+\text{Br}_2(l) \\\text{Cl}_2(g)+2\text{Br}^-(aq) & \rightarrow 2\text{Cl}^-(aq)+\text{Br}_2(l) \qquad (\text{net ionic reaction})
+& \text{Oxidation:} \quad \text{Cl}_2(g)+2e^-(aq) \rightarrow 2\text{Cl}^-(aq) \\ & \text{Reduction:} \quad 2\text{Br}^-(aq) \rightarrow \text{Br}_2 (l) + 2e^-
+The Cl 2 is being reduced and is the oxidizing agent.
+The Br − is being oxidized and is the reducing agent.
+Oxidizing and reducing agents are described.
+Examples of oxidizing and reducing agents are shown.
+Do problem one at the link below:
+Define oxidizing agent.
+Define reducing agent.
+How does identifying the common ions help in the solution of a redox problem?
+oxidizing agent:
+A substance that causes oxidation by accepting electrons.
+reducing agent:
+A substance that causes reduction by losing electrons.
+Molecular Redox Reactions
+Describe molecular redox reactions.

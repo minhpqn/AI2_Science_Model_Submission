@@ -1,0 +1,20 @@
+mRNA travels to the ribosome from the nucleus.
+The following steps occur in the ribosome:
+The base code in the mRNA determines the order of the amino acids in the protein.
+The genetic code in mRNA is read in “words” of three letters (triplets), called codons.
+Each codon codes for an amino acid.
+There are 20 amino acids used to make proteins, and different codons code for different amino acids.
+For example, GGU codes for the amino acid glycine, while GUC codes for valine.
+tRNA reads the mRNA code and brings a specific amino acid to attach to the growing chain of amino acids.
+The anticodon on the tRNA binds to the codon on the mRNA.
+Each tRNA carries only one type of amino acid and only recognizes one specific codon.
+For example, a GGC anticodon will bind to a CCG codon,  and a CGA anticodon will bind to a GCU codon.
+tRNA is released from the amino acid.
+Three codons, UGA, UAA, and UAG, indicate that the protein should stop adding amino acids.
+They are called stop codons and do not code for an amino acid.
+Once tRNA comes to a stop codon, the protein is set free from the ribosome.
+The following chart ( Figure below ) is used to determine which amino acids correspond to which codons.
+Chart showing which mRNA codon corresponds to which amino acid
+This chart shows the genetic code used by all organisms.
+For example, an RNA codon reading GUU would encode for a valine (Val) according to this chart.
+Start at the center for the first base of the three base codon, and work your way out.

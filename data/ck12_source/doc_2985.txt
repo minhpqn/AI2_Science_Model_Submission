@@ -1,0 +1,20 @@
+When do rolling and sliding friction occur in the simulations?
+How does the surface affect the distance it takes for vehicle to stop?
+What role does speed of the vehicle play in stopping time?
+How is the amount of time spent sliding controlled in the simulations?
+How does it affect the ability of the vehicle to stop?
+List four types of friction.
+You can move heavy boxes by sliding them over the ground.
+Or you can put them on a dolly, like the one in the Figure below , and then roll them over the ground.
+Explain which way makes it easier to move the boxes.
+Practice problem illustrating how reducing friction can save energy
+What is a fluid?
+Give an original example of fluid friction.
+Describe Earth’s gravity.
+Relate gravity and weight.
+Long, long ago, when the universe was still young, an incredible force caused dust and gas particles to pull together to form the objects in our solar system.
+From the smallest moon to our enormous sun, this force created not only our solar system, but all the solar systems in all the galaxies of the universe.
+The force is gravity.
+Gravity has traditionally been defined as a force of attraction between things that have mass.
+According to this conception of gravity, anything that has mass, no matter how small, exerts gravity on other matter.
+Gravity can act between objects that are not even touching.

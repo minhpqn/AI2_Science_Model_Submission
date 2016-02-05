@@ -1,0 +1,20 @@
+There is a process and a set of directions to help.
+Mole Road Map
+Previously, we saw how the conversions between mass and number of particles required two steps, with moles as the intermediate.  This concept can now be extended to also include gas volume at STP.  The resulting diagram is referred to as a mole road map (see Figure below
+How to convert between moles, mass, number of particles, and volume of a gas
+The mole road map shows the conversion factors needed to interconvert between mass, number of particles, and volume of a gas.
+The mole is at the center of any calculation involving amount of a substance.  The sample problem below is one of many different problems that can be solved using the mole road map.
+Sample Problem One:  Mole Road Map
+What is the volume of 79.3 g of neon gas at STP?
+Step 1:  List the known quantities and plan the problem.
+Ne = 20.18 g/mol
+1 mol = 22.4 L
+volume = ?
+L
+The conversion factors will be grams → moles → gas volume.
+Step 2:  Calculate.
+79.3 \ \text{g Ne} \times \frac{1 \ \text{mol Ne}}{20.18 \ \text{g Ne}} \times \frac{22.4 \ \text{L Ne}}{1 \ \text{mol Ne}}=88.0 \ \text{L Ne}
+Step 3:  Think about your result.
+The given mass of neon is equal to about 4 moles, resulting in a volume that is about 4 times larger than molar volume.
+An overall process is given for calculations involving moles, grams, and gas volume.
+Use the link below to carry out some practice calculations.  Do problems 1, 2, and 5 (you can try the others if you are feeling especially brave):

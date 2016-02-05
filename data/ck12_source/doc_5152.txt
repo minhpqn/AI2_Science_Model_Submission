@@ -1,0 +1,20 @@
+How does the cell know when to divide?
+How does the cell know when to replicate its DNA?
+How does the cell know when to proceed into mitosis or cytokinesis?
+The answers to these questions have to do with the control of the cell cycle.
+But how is the cell cycle controlled or regulated?
+Regulation of the cell cycle involves processes crucial to the survival of a cell.
+These include the detection and repair of damage to DNA, as well as the prevention of uncontrolled cell division.
+Uncontrolled cell division can be deadly to an organism; its prevention is critical for survival.
+Cyclins and Kinases
+The cell cycle is controlled by a number of protein-controlled feedback processes.
+Two types of proteins involved in the control of the cell cycle are kinases and cyclins .
+Cyclins activate kinases by binding to them, specifically they activate cyclin-dependent kinases (CDK) .
+Cyclins comprise a group of proteins that are rapidly produced at key stages in the cell cycle.
+Once activated by a cyclin, CDK are enzymes that activate or inactivate other target molecules through phosphorylation.
+It is this precise regulation of proteins that triggers advancement through the cell cycle.
+Leland H.
+Hartwell, R.
+Timothy Hunt, and Paul M.
+Nurse won the 2001 Nobel Prize in Physiology or Medicine for their discovery of these critical proteins.
+Cyclin-dependent kinases (CDKs) are a family of protein kinases first discovered for their role in regulating the cell cycle.

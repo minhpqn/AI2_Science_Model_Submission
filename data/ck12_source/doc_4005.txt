@@ -1,0 +1,20 @@
+Virally coded proteins will self-assemble to form a capsid.
+Some viruses have an envelope of phospholipids and proteins.
+The envelope is made from portions of the host’s cell membrane.
+It surrounds the capsid and helps protect the virus from the host’s immune system.
+The envelope may also have receptor molecules that can bind with host cells.
+They make it easier for the virus to infect the cells.
+Diagram of a cytomegalovirus
+Diagram of a Cytomegalovirus.
+The capsid encloses the genetic material of the virus.
+The envelope which surrounds the capsid is typically made from portions of the host cell membranes (phospholipids and proteins).
+Not all viruses have a viral envelope.
+Helical capsids are made up of a single type of protein subunit stacked around a central axis to form a helical structure.
+The helix may have a hollow center, which makes it look like a hollow tube.
+This arrangement results in rod-shaped or filamentous virions.
+These virions can be anything from short and very rigid, to long and very flexible.
+The well-studied tobacco mosaic virus (TMV) is an example of a helical virus, as seen in the Figure below .
+Tobacco mosaic virus is a helical virus
+A helical virus, tobacco mosaic virus.
+Although their diameter may be very small, some helical viruses can be quite long, as shown here. 1.
+Nucleic acid; 2.

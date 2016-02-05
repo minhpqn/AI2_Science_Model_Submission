@@ -1,0 +1,20 @@
+As shown in the image below, longitudinal waves are a series of compressions and rarefactions , or expansions.
+The wavelength of longitudinal waves is measured by the distance separating the densest compressions.
+The amplitude of longitudinal waves is the difference in media density between the undisturbed density to the highest density in a compression.
+Parts of a longitudinal wave
+Example Problem:
+A sonar signal (sonar is sound waves traveling through water) of  1.00 \times 10^6 Hz frequency has a wavelength of 1.50 mm in water.  What is the speed of sound in water?
+Solution: v=\lambda f =(0.00150 \ \text{m})(1.00 \times 10^6 \ \text{s}^{-1})=1500 \ \text{m/s}
+Example Problem:
+A sound wave of wavelength 0.70 m and velocity 330 m/s is produced for 0.50 s.
+What is the frequency of the wave?
+How many complete waves are emitted in this time interval?
+After 0.50 s, how far is the wave front from the source of the sound?
+f=\frac{v}{\lambda}=\frac{330 \ \text{m/s}}{0.70 \ \text{m}}=470 \ \text{s}^{-1}
+\text{complete waves} = (470 \ \text{cycles/s})(0.50 \ \text{s}) = 235 \ \text{cycles}
+\text{distance} = (330 \ \text{m/s})(0.50 \ \text{s}) = 115 \ \text{m}
+Longitudinal waves cause the particles of medium to move parallel to the direction of the wave.
+The following video explains how a tuning fork creates sound .
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+In your own words, how are compressions and rarefactions produced by the tuning fork?

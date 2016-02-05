@@ -1,0 +1,20 @@
+The half-reactions can be written:
+& \text{Oxidation:} \quad \text{Zn} \rightarrow \text{Zn}^{2+}+2e^- \\& \text{Reduction:} \quad \text{S}+2e^- \rightarrow \text{S}^{2-}
+In the reaction above, the zinc is being oxidized by losing electrons.
+However, there must be another substance present that gains those electrons and in this case that is the sulfur.
+In other words, the sulfur is causing the zinc to be oxidized.
+Sulfur is called the oxidizing agent.
+The zinc causes the sulfur to gain electrons and become reduced and so the zinc is called the reducing agent.
+The oxidizing agent is a substance that causes oxidation by accepting electrons.
+The reducing agent is a substance that causes reduction by losing electrons.
+The simplest way to think of this is that the oxidizing agent is the substance that is reduced, while the reducing agent is the substance that is oxidized.
+The sample problem below shows how to analyze a redox reaction.
+Sample Problem:
+Oxidation-Reduction Reactions
+When chlorine gas is bubbled into a solution of sodium bromide, a reaction occurs which produces aqueous sodium chloride and bromine.
+Determine what is being oxidized and what is being reduced.
+Identify the oxidizing and reducing agents.
+\text{Cl}_2(g)+2\text{NaBr}(aq) \rightarrow 2\text{NaCl}(aq)+\text{Br}_2(l)
+Step 1:
+Plan the problem .
+Break the reaction down into a net ionic equation and then into half-reactions.

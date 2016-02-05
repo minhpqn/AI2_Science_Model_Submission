@@ -1,0 +1,20 @@
+Click on the image above for more content
+What is the shape of a planetary orbit?
+How are the areas swept out by the line able to be equal, when the line is much longer at some times than others?
+What is the T in Kepler's Third Law?
+What is the r?
+The average mean distance of the earth from the sun is 149.6 ×10 6 km and the period of the earth is 1.0 year.  The average mean distance of Saturn from the sun is 1427 ×10 6 km.
+Using Kepler’s third law, calculate the period of Saturn.
+Which of the following is one of Kepler's Laws of Planetary Motion?
+Planets move in elliptical orbits with the Sun at one focus.
+Gravitational force between two objects decreases as the distance squared.
+An object in motion remains in motion.
+Inner planets orbit in a different direction that outer ones.
+If a planet's orbital speed is 20 km/s when it's at its average distance from the sun, which is most likely orbital speed when it is nearest the sun?
+Kepler's First Law:
+The path of each planet around the sun is an ellipse with the sun at one focus.
+Kepler's Second Law:
+Each planet moves such that an imaginary line drawn from the sun to the planet sweeps out equal areas in equal periods of time.
+Kepler's Third Law:
+The ratio of the squares of the periods of any two planets revolving around the sun is equal to the ratio of the cubes of their average distance from the sun.
+Universal Law of Gravity

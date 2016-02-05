@@ -1,0 +1,20 @@
+The curve for KNO 3 , on the other hand, is very steep and so an increase in temperature dramatically increases the solubility of KNO 3 .
+Several substances – HCl, NH 3 , and SO 2 – have solubility that decreases as temperature increases.
+They are all gases at standard pressure.
+When a solvent with a gas dissolved in it is heated, the kinetic energy of both the solvent and solute increases.
+As the kinetic energy of the gaseous solute increases, its molecules have a greater tendency to escape the attraction of the solvent molecules and return to the gas phase.
+Therefore, the solubility of a gas decreases as the temperature increases.
+Solubility curves can be used to determine if a given solution is saturated or unsaturated.
+Suppose that 80 g of KNO 3 is added to 100 g of water at 30°C.
+According to the solubility curve, approximately 48 g of KNO 3 will dissolve at 30°C.
+This means that the solution will be saturated since 48 g is less than 80 g.
+We can also determine that there will be 80 - 48 = 32 g of undissolved KNO 3 remaining at the bottom of the container.
+Now suppose that this saturated solution is heated to 60°C.
+According to the curve, the solubility of KNO 3 at 60°C is about 107 g.
+Now the solution is unsaturated since it contains only the original 80 g of dissolved solute.
+Now suppose the solution is cooled all the way down to 0°C.
+The solubility at 0°C is about 14 g, meaning that 80 - 14 = 66 g of the KNO 3 will recrystallize.
+The solubility of a solid in water increases with an increase in temperature.
+Gas solubility decreases as the temperature increases.
+Read the material at the link below and answer the questions.
+Try not to look at the answers until you do your own work:

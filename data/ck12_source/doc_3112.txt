@@ -1,0 +1,20 @@
+One joule is the amount of energy needed to apply a force of 1 Newton over a distance of 1 meter.
+Runners have kinetic energy
+What about Juan’s dad?
+His mass 80 kg, and he’s running at the same velocity as Juan (1 m/s).
+Because his mass is twice as great as Juan’s, his kinetic energy is twice as great:
+\text{KE}=\frac{1}{2} \times 80 \ \text{kg} \times (1 \frac{\text{m}}{\text{s}})^2=40 \ \text{kg} \times \frac{\text{m}^2}{\text{s}^2}=40 \ \text{N} \cdot \text{m} , or 40 \ \text{J}
+Q:
+What is Juan’s kinetic energy if he speeds up to 2 m/s from 1 m/s?
+A:
+By doubling his velocity, Juan increases his kinetic energy by a factor of four:
+\text{KE}=\frac{1}{2} \times 40 \ \text{kg} \times (2 \frac{\text{m}}{\text{s}})^2=80 \ \text{kg} \times \frac{\text{m}^2}{\text{s}^2}=80 \ \text{N} \cdot \text{m} , or 80 \ \text{J}
+Review how kinetic energy is related to mass and velocity by watching this cartoon:
+Kinetic energy (KE) is the energy of moving matter.
+Anything that is moving has kinetic energy.
+The amount of kinetic energy in a moving object depends directly on its mass and velocity.
+It can be calculated with the equation: \text{KE}=\frac{1}{2}\text{mass} \times \text{velocity}^2 .
+At the following URL, review kinetic energy and how to calculate it.
+Then take the quiz at the bottom of the Web page.
+Be sure to check your answer.
+What is kinetic energy?

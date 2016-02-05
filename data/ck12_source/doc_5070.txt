@@ -1,0 +1,20 @@
+Absolutely dependent on oxygen gas, we find it difficult to imagine that its appearance must have been disastrous for the anaerobic organisms that evolved in its absence.
+But oxygen is highly reactive, and at first, its effect on evolution was so negative that some have named this period the “oxygen catastrophe.” However, as oxygen gradually formed a protective ozone layer , life rebounded.
+After the first organisms evolved to use oxygen to their advantage, the diversity of aerobic organisms exploded.
+According to the Theory of Endosymbiosis , engulfing of some of these aerobic bacteria led to eukaryotic cells with mitochondria, and multicellularity , the evolution of multicellular eukaryotic organisms, followed.
+Today, we live in an atmosphere which is 21% oxygen, and most of life follows glycolysis with the last two, aerobic stages of cellular respiration.
+Recall the purpose of cellular respiration: to release energy from glucose to make ATP, the universal molecule of energy for cellular work.
+The following equation describes the overall process, although it summarizes many individual chemical reactions.
+Once again, the first stage of this process, glycolysis, is ancient, universal, and anaerobic.
+In the cytoplasm of most cells, glycolysis breaks each 6-carbon molecule of glucose into two 3-carbon molecules of pyruvate .
+Chemical energy, which had been stored in the now broken bonds, is transferred to 2 ATP and 2 NADH molecules.
+The fate of pyruvate depends on the species and the presence or absence of oxygen.
+If oxygen is present to drive subsequent reactions, pruvate enters the mitochondrion, where the Krebs Cycle (Stage 2) and electron transport chain (Stage 3) break it down and oxidize it completely to CO 2 and H 2 O.
+The energy released builds many more ATP molecules, though of course some is lost as heat.
+Let’s explore the details of how mitochondria use oxygen to make more ATP from glucose by aerobic respiration.
+The Krebs Cycle:
+Capturing Energy from Pyruvate
+Aerobic respiration begins with the entry of the product of glycolysis, pyruvate, into the mitochondria.
+For each initial glucose molecules, two pyruvate molecules will enter the mitochondria.
+Pyruvate, however, is not the molecule that enters the Krebs cycle.
+Prior to entry into this cycle, pyruvate must be converted into a 2-carbon acetyl-CoenzymeA (acetyl-CoA) unit.

@@ -1,0 +1,20 @@
+Bombardment of nuclei with alpha particles or neutrons can often produce a nuclear reaction.
+Consider the bombardment of nitrogen-14 by an alpha particle,
+{^4_2 \text{He}}+{^{14}_{\phantom{0}7} \text{N}} \rightarrow {^1_1 \text{H}}+{^{17}_{\phantom{0}8} \text{O}}
+or the bombardment of uranium-235 by a neutron.
+{^{235}_{\phantom{0}92}\text{U}}+{^1_0 n} \rightarrow {^{89}_{36} \text{Kr}} + {^{144}_{\phantom{0}56} \text{Ba}}+3 \ {^1_0 n}
+Large unstable nuclei often become more stable by breaking into smaller pieces.
+The breakup of a larger nucleus into two or more smaller nuclei is called fission .
+Small nuclei often become more stable by joining together to form larger nuclei.
+This process is called fusion .
+Here is a reaction showing the fusion of a hydrogen-2 atom and a hydrogen-3 atom.
+{^2_1 \text{H}}+{^3_1 \text{H}} \rightarrow {^4_2 \text{He}}+{^1_0 n}
+The disintegration of unstable nuclei does not occur all at once.
+The rate of disintegration is a statistical process.
+The most convenient way to consider it is by a concept known as half-life .
+The time required for half of the atoms in any given quantity of a radioactive substance to decay is the half-life of that element.
+Each particular isotope has its own half-life.
+For example, the half-life of radium-226 is 1600 years.
+That is, beginning with 1.00 gram of radium-226, it would take 1600 years for half of it to decay and leave 0.50 gram remaining.
+After another 1600 years, only 0.25 gram would remain.
+In each half-life, exactly half of the beginning amount decays.

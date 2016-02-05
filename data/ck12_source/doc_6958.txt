@@ -1,0 +1,20 @@
+Why is a coil better than a single loop?
+If you want to make music, what should you do to the current?
+A bolt of lightening strikes the ground 200 \;\mathrm{m} away from a 100- turn coil (see above).
+If the current in the lightening bolt falls from 6.0 \times 10^6 \;\mathrm{A} to 0.0 \;\mathrm{A} in 10 \;\mathrm{ms} , what is the average voltage ,  \varepsilon , induced in the coil?
+What is the direction of the induced current in the coil? (Is it clockwise or counterclockwise?) Assume that the distance to the center of the coil determines the average magnetic induction at the coil’s position.
+Treat the lightning bolt as a vertical wire with the current flowing toward the ground.
+A coil of wire with 10 loops and a radius of 0.2 \;\mathrm{m} is sitting on the lab bench with an electro-magnet facing into the loop.
+For the purposes of your sketch, assume the magnetic field from the electromagnet is pointing out of the page.
+In 0.035 \;\mathrm{s} , the magnetic field drops from 0.42 \;\mathrm{T} to 0 \;\mathrm{T} .
+What is the voltage induced in the coil of wire?
+Sketch the direction of the current flowing in the loop as the magnetic field is turned off. (Answer as if you are looking down at the loop).
+A wire has 2 \;\mathrm{A} of current flowing in the upward direction.
+What is the value of the magnetic field 2 \;\mathrm{cm} away from the wire?
+Sketch the direction of the magnetic field lines in the picture to the right.
+If we turn on a magnetic field of 1.4 \;\mathrm{T} , pointing to the right, what is the value and direction of the force per meter acting on the wire of current?
+Instead of turning on a magnetic field, we decide to add a loop of wire (with radius 1 \;\mathrm{cm} ) with its center 2 \;\mathrm{cm} from the original wire.
+If we then increase the current in the straight wire by 3 \;\mathrm{A} per second, what is the direction of the induced current flow in the loop of wire?
+A rectangular loop of wire  8.0 \;\mathrm{m} long and 1.0 \;\mathrm{m} wide has a resistor of 5.0 \ \Omega on the 1.0 side and moves out of a 0.40 \;\mathrm{T} magnetic field at a speed of 2.0 \;\mathrm{m/s} in the direction of the 8.0 \;\mathrm{m} side.
+Determine the induced voltage in the loop.
+Determine the direction of current.

@@ -1,0 +1,20 @@
+In contrast to facilitated diffusion which does not require energy and carries molecules or ions down a concentration gradient, active transport pumps molecules and ions against a concentration gradient.
+Sometimes an organism needs to transport something against a concentration gradient, such as specific ions, or glucose and amino acids.
+The only way this can be done is through active transport which uses transport proteins and energy that is produced by cellular respiration (ATP) or through an electrochemical gradient .
+In active transport, the particles move across a cell membrane from a lower concentration to a higher concentration.
+Active transport is the energy-requiring process of pumping molecules and ions across membranes "uphill" against a gradient.
+The active transport of small molecules or ions across a cell membrane is generally carried out by transport proteins that are found in the membrane.
+These transport proteins have receptor regions that bind to specific molecules and transport them into the cell.
+Larger molecules such as starch can also be actively transported across the cell membrane by vesicular transport processes.
+During active transport, specialized integral membrane proteins recognize the substance and allows it access.
+Essentially this process is forcing a ion or molecule to cross the membrane when normally it would not.
+Moving a substance against its concentration gradient is known as primary active transport , and the proteins involved in it as "pumps".
+This process uses the energy of ATP.
+In secondary active transport , energy from an electrochemical gradient is used to transport substances.
+This process involves pore-forming proteins that form channels through the cell membrane.
+Primary Active Transport
+Primary active transport involves an integral membrane protein and the energy from ATP to transport molecules across a membrane.
+This type of transport is mainly done by ATPases.
+ATPases are a class of enzymes that catalyze the dephosphorylation of adenosine triphosphate into adenosine diphosphate (ADP) and a free phosphate ion.
+This reaction releases energy, which is used to drive other chemical reactions that would not otherwise occur.
+One ATPase necessary to all life is the sodium-potassium pump, which helps to maintain the cell potential.

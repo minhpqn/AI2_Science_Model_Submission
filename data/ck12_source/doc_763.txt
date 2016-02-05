@@ -1,0 +1,20 @@
+A standard surge protector passes the electrical current along from the outlet to a number of electrical and electronic devices plugged into the power strip.
+If the voltage from the outlet surges or spikes (rises above the accepted level) the surge protector diverts the extra electricity into the outlet's grounding wire.
+The most common type of surge protector contains a component called a metal oxide varistor , or MOV , which diverts the extra voltage.
+As you can see in the diagram below, an MOV forms a connection between the hot power line and the grounding line.
+Diagram of a surge protector
+An MOV has three parts: a piece of metal oxide material in the middle and two semiconductors that join it to the power and grounding lines.
+These semiconductors have a variable resistance that is dependent on voltage.
+When voltage is below a certain level, the electrons in the semiconductors flow in such a way as to create a very high resistance.
+When the voltage exceeds that level, the electrons behave differently, creating a much lower resistance.
+When the voltage is low, an MOV does nothing.
+When voltage is too high, an MOV can conduct a lot of current to the ground line, thus eliminating the extra voltage.
+As soon as the extra current is diverted into the MOV and to ground, the voltage in the hot line returns to a normal level, causing the MOV's resistance to shoot up again.
+In this way, the MOV only diverts the surge current, while allowing the standard current to continue powering whatever machines are connected to the surge protector.
+Essentially, the MOV acts as a pressure release valve, only opening when the voltage exceeds set values.
+An electrical fuse is a device that sacrifices itself to provide over-current protection in an electrical circuit.  If too much current flows, the fuse wire rises to a higher temperature and melts, thus opening the circuit, but destroying the fuse.
+A circuit breaker opens a circuit as soon as the current climbs to unsafe levels, and can be used repeatedly.
+A standard surge protector passes a constant electrical current forward by diverting any extra electricity into a grounding wire.
+Click on the image above for more content
+Follow up questions:
+What happens to the fuse wire when the recommended current in a circuit is exceeded?

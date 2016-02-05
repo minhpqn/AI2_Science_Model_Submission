@@ -1,0 +1,20 @@
+Sample Problem:
+Consider a satellite of the earth orbiting at 225 km above the surface of the earth.
+Keep in mind that this is NOT the radius of the satellite’s orbit.
+The satellite’s orbit is measured from the center of the earth, so its radius will be the radius of the earth, 6.37 × 10 6  m, plus the 225,000 m.  The mass of the earth is 5.98 × 10 24 kg.  What is the velocity of the satellite?
+Solution:
+Since the centripetal force keeping this satellite traveling in orbit is provided by the gravitational force of the earth, we can set the formula for centripetal force equal to the formula for gravitational force.
+F_c=\frac{mv^2}{r} \ and \ F_g=\frac{Gm_1m_2}{d^2}
+\frac{Gm_Em_s}{r^2}=\frac{m_s v^2}{r} \ so \ v=\sqrt{\frac{Gm_E}{r}}
+v=\sqrt{\frac{(6.67 \times 10^{-11} \ \text{N} \cdot \text{m}^2 / \text{kg}^2)(5.98 \times 10^{24} \ \text{kg})}{6.60 \times 10^6 \ \text{m}}}=7770 \ \text{m/s}
+Sample Problem:
+Set the equation for Newton’s law of gravity equal to the equation for centripetal force shown below and derive an equation for the period of a planet around the earth.
+F_g=\frac{Gm_Em_s}{r^2} \ \text{and} \ F_c=\frac{4 \pi^2 \ m_{sat}r}{T^2}
+\frac{Gm_Em_s}{r^2}=\frac{4 \pi^2 m_sr}{T^2} \ \text{and} \ T=2 \pi \sqrt{\frac{r^3}{Gm_E}}
+A satellite in a circular orbit accelerates toward the object it is orbiting at a rate equal to the acceleration of gravity at its orbital radius.
+As in a falling elevator, objects in orbit are in constant freefall.
+Objects in free fall have no normal force acting upon them, and thus no weight.
+Use the two resources below to answer the following questions.
+Click on the image above for more content
+The following website has a discussion of weightlessness:
+What are some of the things the astronauts are learning to do/practicing in this video?

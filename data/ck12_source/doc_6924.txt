@@ -1,0 +1,20 @@
+Current is the number of Coulomb's that flow by per second.
+Thus 1 Amp of current is equivalent to saying that 1 C of electric charge is passing every second (i.e. the rate of change of charge is 1 C/s).
+Voltage is the electrical energy density (energy divided by charge) and differences in this density (voltage) cause electric current in the circuit.
+Batteries and power supplies often provide a voltage difference across the ends of a circuit, but other voltage sources exist.
+Using the water analogy that current is a river, then differences in voltage can be thought of as pipes coming out of a water dam at different heights.
+The lower the pipe along the dam wall, the larger the water pressure, thus the higher the voltage.
+If that pipe is connected then current will flow.
+Current will be larger for the pipe with the greatest pressure (i.e. the lowest pipe on the dam wall).
+Somehow, you are able to see the electrons passing through a wire as current flows.
+Over the course of 5 seconds, you count 1.5*10^{20} electrons pass a single point in the wire.
+How much charge passed you and the current in the wire?
+We can use the known charge of an electron to answer the first part of this problem.
+Now we use the equation above to determine the current
+I&=\frac{\Delta q}{\Delta t}\\\I&=\frac{24\:\text{C}}{5\:\text{s}}\\\I&=4.8\:\text{A}\\\
+Watch this Explanation
+Click on the image above for more content
+The current in a wire is 4.5 A.
+How many coulombs per second are going through the wire?
+How many electrons per second are going through the wire?
+Which light bulb will shine brighter?

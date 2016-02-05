@@ -1,0 +1,20 @@
+You test the hardness of a mineral by scratching its surface with a mineral of a known hardness.
+Mineralogists use the Mohs Hardness Scale ( Table below ), as a reference for mineral hardness.
+The scale lists common minerals in order of their relative hardness.
+You can use the minerals in the scale to test the hardness of an unknown mineral.
+Mohs Hardness Scale
+As you can see, diamond is a 10 on the Mohs Hardness Scale.
+Diamond is the hardest mineral; no other mineral can scratch a diamond.
+Quartz is a 7.
+It can be scratched by topaz, corundum, and diamond.
+Quartz will scratch minerals that have a lower number on the scale.
+Fluorite is one.
+Suppose you had a piece of pure gold.
+You find that calcite scratches the gold.
+Gypsum does not.
+Gypsum has a hardness of 2 and calcite is a 3.
+That means the hardness of gold is between gypsum and calcite.
+So the hardness of gold is about 2.5 on the scale.
+A hardness of 2.5 means that gold is a relatively soft mineral.
+It is only about as hard as your fingernail.
+Cleavage and Fracture

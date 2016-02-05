@@ -1,0 +1,20 @@
+Ba. weight, Bb. 14.7 \;\mathrm{N} , Bc. plank’s length (0.3\mathrm{m}) left of the pivot, Bd. 4.4 \;\mathrm{N \ m} , Ca. weight, Cb. 13.6\;\mathrm{N} , Cc. plank’s length (1.00 \;\mathrm{m}) right of the pivot, Cd. 13.6 \;\mathrm{N \ m} , f) 6.5 \;\mathrm{N \ m \ CC} , g) no, net torque doesn’t equal zero
+Newton's Second Law for Rotation
+Apply Newton's 2nd law in the case of rotational dynamics.
+Students will learn to apply Newton's 2nd law in the case of rotational dynamics.
+\alpha = \tau_{net} / I
+Angular accelerations are produced by net torques,with inertia opposing acceleration; because \alpha  is the rotational version of a, linear acceleration,  \tau  is the rotational version of F, force, and I is the rotational version of mass.
+This is the rotational analog of Newton's 2nd law a = F_{net} / m
+\tau_{net} = \Sigma \tau_i = I \alpha
+The net torque is the vector sum of all the torques acting on the object.
+When adding torques it is necessary to subtract CW from CCW torques.
+Use this law just as you did in the Newton's Laws lessons.
+First choose a pivot point to take all torques around, and then add up all the torques acting on an object and that will equal the moment of inertia multiplied by the angular acceleration.
+Torques produce angular accelerations, but just as masses resist acceleration (due to inertia), there is an inertia that opposes angular acceleration.
+The measure of this inertial resistance depends on the mass, but more importantly on the distribution of the mass in a given object.
+The moment of inertia, I, is the rotational version of mass.
+Values for the moment of inertia of common objects are given above.
+Torques have only two directions: those that produce clockwise (CW) and those that produce counterclockwise (CCW) rotations.
+The angular acceleration or change in \omega would be in the direction of the torque.
+Many separate torques can be applied to an object.
+The angular acceleration produced is \alpha = \tau_{net}/I

@@ -1,0 +1,20 @@
+Analyze and solve more complicated problems involving energy conservation.
+Students will learn how to analyze and solve more complicated problems involving energy conservation.
+\sum E_{\text{initial}} = \sum E_{\text{final} } ;
+The total energy does not change in closed systems
+KE = \frac{1}{2} \ mv^2 ;
+Kinetic energy
+PE_g = mgh ;
+Potential energy of gravity
+PE_{sp} = \frac{1}{2} \ kx^2  ;
+Potential energy of a spring
+W = F_{x} \Delta x = Fd \ \cos \theta ;
+Work is equal to the distance multiplied by the component of the force in the direction it is moving.
+Guidance The main thing to always keep prescient in your mind is that the total energy before must equal the total energy after.
+If some energy has transferred out of or into the system via work, you calculate that work done and include it in the energy sum equation.
+Generally work done by friction is listed on the 'after' side and work put into the system, via a jet pack for example, goes on the 'before' side.
+Another important point is that on turns or going over hills or in rollercoaster loops, one must include the centripetal motion equations -for example to insure that you have enough speed to make the loop.
+Click on the image above for more content
+Watch this Explanation
+Click on the image above for more content
+A rock with mass m is dropped from a cliff of height h .

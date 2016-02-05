@@ -1,0 +1,20 @@
+The product of the concentrations of ions in a solution.
+Common Ion Effect
+Define common ion.
+Define common ion effect.
+Perform calculations involving the common ion effect.
+Lithium batteries are enhanced by the common ion effect
+Quite a charge
+Lithium carbonate is an essential component of lithium batteries, which tend to be longer-lasting than regular alkaline batteries.
+The material is obtained from lithium ores by adding CO 2 under high pressure to form the more soluble LiHCO 3 .
+The mixture is then depressurized to remove the carbon dioxide and the lithium carbonate precipitates out of solution.
+Common Ion Effect
+In a saturated solution of calcium sulfate, an equilibrium exists between the solid calcium sulfate and its ions in solution.
+\text{CaSO}_4(s) \rightleftarrows \text{Ca}^{2+}(aq)+\text{SO}_4^{2-}(aq) \qquad K_{sp}=2.4 \times 10^{-5}
+Suppose that some calcium nitrate were added to this saturated solution.
+Immediately, the concentration of the calcium ion in the solution would increase.
+As a result, the ion product of the [Ca 2+ ] times the [SO 4 2− ] would increase and now be greater than the K_{sp} .
+According to LeChâtelier’s principle, the equilibrium above would shift to the left in order to relieve the stress of the added calcium ion.
+Additional calcium sulfate would precipitate out of the solution until the ion product once again becomes equal to the K_{sp} .
+Note that in the new equilibrium the concentrations of the calcium ion and the sulfate ion would no longer be equal to each other.
+The calcium ion concentration would be larger than the sulfate ion concentration.

@@ -1,0 +1,20 @@
+A species which appears in the mechanism of a reaction, but not in the overall balanced equation.
+Give reaction examples to illustrate the definition.
+Jigsaw puzzles, like complex chemical reactions, occur one step at a time
+One piece at a time
+Many people enjoy putting jigsaw puzzles together.
+Often these puzzles come in a box, so you have to spread all the pieces out before you start.
+Nowadays you can also find internet sites that have jigsaw puzzles.
+You can choose the level of difficulty, the shape of the pieces – and you can time yourself to see how well you did compare to others that tried the puzzle.
+The puzzle looks complicated with the final product often numbering hundreds of pieces.
+However, in assembling the puzzle, you have a series of elementary steps and the puzzle goes together one piece at a time.
+Molecularity of a Reaction
+The molecularity of a reaction is the number of molecules reacting in an elementary step.
+A unimolecular reaction is one in which only one reacting molecule participates in the reaction.
+Two reactant molecules collide with one another in a bimolecular reaction.
+A termolecular reaction involves three reacting molecules in one elementary step.
+Termolecular reactions are relatively rare because they involve the simultaneous collision of three molecules in the correct orientation, a rare event.
+When termolecular reactions do occur, they tend to be very slow.
+If we have the reaction:
+2 \text{NO}(g) + \text{O}_2(g) \rightarrow 2 \text{NO}_2(g)
+We might guess that the reaction was termolecular since it appears that three molecules of reactants are involved.  However, our definition of molecularity states that we need to look at an elementary step and not the overall reaction.

@@ -1,0 +1,20 @@
+You have a 20 gram piece of aluminum and a 40 gram piece of aluminum sitting in the sun.
+Which piece will arm by ten degrees first?
+heat capacity:
+The amount of heat required to raise the temperature of an object by 1°C.
+specific heat:
+The amount of energy required to raise the temperature of 1 gram of the substance by 1°C.
+Specific Heat Calculations
+Perform specific heat calculations.
+Water has a very high heat capacity, which makes it useful for radiators
+Does water have a high capacity for absorbing heat?
+Yes.
+In a car radiator, it serves to keep the engine cooler than it would otherwise run. (In the picture above, the radiator is the black object on the left.) As the water circulates through the engine, it absorbs heat from the engine block.
+When it passes through the radiator, the cooling fan and the exposure to the outside environment allow the water to cool somewhat before it makes another passage through the engine.
+Specific Heat Calculations
+The specific heat of a substance can be used to calculate the temperature change that a given substance will undergo when it is either heated or cooled.
+The equation that relates heat  (q) to specific heat (c_p) , mass (m) , and temperature change   (\Delta{T}) is shown below.
+q=c_p \times m \times \Delta{T}
+The heat that is either absorbed or released is measured in joules.
+The mass is measured in grams.
+The change in temperature is given by \Delta{T}= T_f - T_i , where  T_f is the final temperature and  T_i is the initial temperature.

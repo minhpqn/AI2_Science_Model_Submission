@@ -1,0 +1,20 @@
+The weak nuclear force is transferred by the exchange of force-carrying fundamental particles called W and Z bosons.
+This force is also a very short-range force that works only within the nucleus of the atom.
+It is much weaker than the strong force or electromagnetic force that are also at work inside the atom.
+Unlike these other two forces, the weak nuclear force does not bind subatomic particles together in an atom.
+Instead, it changes subatomic particles from one type to another.
+The Figure below shows one way this can happen.
+In this figure, an up quark in a proton is changed by the weak force to a down quark.
+This changes the proton (uud) to a neutron (udd).
+Diagram of weak nuclear force
+Q:
+If the weak force causes a proton to change to a neutron, how does this change the atom?
+A:
+The resulting atom represents a different element.
+That’s because each element has a unique number of protons.
+For example, all atoms of helium have two protons.
+If one of the protons in a helium atom changes to a neutron, the resulting atom would have just one proton, so the atom would no longer be a helium atom.
+Instead it would be a hydrogen atom, because all hydrogen atoms have a single proton.
+The electromagnetic force of attraction between negative electrons and positive protons in the nucleus keeps electrons in the area surrounding the nucleus.
+The electromagnetic force of repulsion between positive protons in the nucleus is overcome by the strong nuclear force between protons and neutrons.
+This force holds the nucleus together.

@@ -1,0 +1,20 @@
+Wind patterns, historical data, barometric pressure – these and many other data are fed into computers that then use a set of rules to predict what will happen based on past history.
+Predicting Precipitates Using Solubility Rules
+Some combinations of aqueous reactants result in the formation of a solid precipitate as a product.
+However, some combinations will not produce such a product.
+If solutions of sodium nitrate and ammonium chloride are mixed, no reaction occurs.
+One could write a molecular equation showing a double-replacement reaction, but both products, sodium chloride and ammonium nitrate, are soluble and would remain in the solution as ions.
+Every ion is a spectator ion and there is not net ionic equation at all.
+It is useful to be able to predict when a precipitate will occur in a reaction.
+To do so, you can use a set of guidelines called the solubility rules (see Table below ).
+Solubility Rules for Ionic Compounds in Water
+Compounds containing the alkali metal ions (Li + , Na + , K + , Rb + , Cs + ) and ammonium ion (NH 4 + )
+Compounds containing the nitrate ion (NO 3 − ), acetate ion (CH 3 COO − ), chlorate ion (ClO 3 − ), and bicarbonate ion (HCO 3 − )
+Compounds containing the chloride ion (Cl − ), bromide ion (Br − ), and iodide ion (I − ) -- Exceptions are those of silver (Ag + ), mercury(I) (Hg 2 2+ ), and lead(II) (Pb 2+ )
+Compounds containing the sulfate ion (SO 4 2− ) -- Exceptions are those of silver (Ag + ), calcium (Ca 2+ ), strontium (Sr 2+ ), barium (Ba 2+ ), mercury(I) (Hg 2 2+ ), and lead(II) (Pb 2+ )
+Compounds containing the carbonate ion (CO 3 2− ), phosphate ion (PO 4 3− ), chromate ion (CrO 4 2− ), sulfide ion (S 2− ), and silicate ion (SiO 3 2− ) -- Exceptions are those of the alkali metals and ammonium
+Compounds containing the hydroxide ion (OH − ) -- Exceptions are those of the alkali metals and the barium ion (Ba 2+ )
+As an example on how to use the solubility rules, predict if a precipitate will form when solutions of cesium bromide and lead(II) nitrate are mixed.
+\text{Cs}^+(aq)+\text{Br}^-(aq)+\text{Pb}^{2+} (aq)+\text{2NO}^-_3 (aq) \rightarrow ?
+The potential precipitates from a double-replacement reaction are cesium nitrate and lead(II) bromide.
+According to the solubility rules table, cesium nitrate is soluble because all compounds containing the nitrate ion, as well as all compounds containing the alkali metal ions, are soluble.

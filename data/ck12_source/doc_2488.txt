@@ -1,0 +1,20 @@
+A:
+In the graph, the pressure of the gas increases as its temperature increases.
+According to Amontons’ law, increasing the temperature of a gas while holding its volume constant increases the pressure of the gas.
+When gas particles heat up and gain energy, they move faster.
+This increases their collisions with each other and their container, causing greater pressure.
+Watch the following simple demonstration, and then answer the questions below.
+Click on the image above for more content
+In this demonstration, when is the pressure of air inside the can greatest?
+Why?
+How is the volume of air inside the can kept constant after the can is heated?
+How can you tell that air pressure inside the can is lower after the can cools?
+State Amontons’ law.
+Assume you have a sealed jug that contains only air.
+If you heat the air in the jug, it will have a higher temperature.
+What other property of the air will also change?
+A father does a classic experiment for his son, which is pictured in the Figure below .
+First, he put a small piece of paper in a glass bottle and lit the paper with a match.
+He immediately placed a shelled, hard-boiled egg over the bottle opening.
+The paper soon burned out, and after a few seconds, the egg slipped inside the bottle.
+Apply Amontons’ law to explain why.

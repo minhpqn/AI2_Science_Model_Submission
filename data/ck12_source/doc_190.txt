@@ -1,0 +1,20 @@
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+The velocity versus time graph in the video is divided into six sections.
+In how many of these sections is the velocity constant?
+In how many sections of the graph is the velocity zero?
+What does the area under the curve of a velocity versus time graph represent?
+On a one day vacation, Jane traveled 340 miles in 8.0 hours.
+What was her average speed?
+An object on a number line moved from x = 12 m to x = 124 m and moved back to x = 98 m.
+The time interval for all the motion was 10 s.  What was the average velocity of the object?
+An object on a number line moved from x = 15 cm to x = 165 cm and then moved back to x = 25 cm, all in a time of 100 seconds.
+What was the average velocity of the object?
+What was the average speed of the object?
+speed:
+Distance travelled per unit time.
+velocity:
+A vector measurement of the rate and direction of motion or, in other terms, the rate and direction of the change in the position of an object.
+Define instantaneous velocity.
+Plot and interpret position vs time graphs.
+Determine the slope of a curve on a position vs time graph.

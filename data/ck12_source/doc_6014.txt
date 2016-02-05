@@ -1,0 +1,20 @@
+Perform calculations involving volume-volume relationships among gases.
+Stoichiometry is needed in order to find out how much propane you have in a tank
+How much propane is left in the tank?
+As the weather gets warmer, more and more people want to cook out on the back deck or back yard.
+Many folks still use charcoal for grilling because of the added flavor.
+But increasing numbers of back yard cooks like to use a propane grill.
+The gas burns clean, the grill is ready to go as soon as the flame is lit – but how do you know how much propane is left in the tank?
+You can buy gauges at hardware stores that measure gas pressure and tell you how much is left in the tank.
+Avogadro’s hypothesis states that equal volumes of all gases at the same temperature and pressure contain the same number of gas particles.
+Further, one mole of any gas at standard temperature and pressure (0°C and 1 atm) occupies a volume of 22.4 L.
+These characteristics make stoichiometry problems involving gases at STP very straightforward.
+Consider the reaction of nitrogen and oxygen cases to form nitrogen dioxide.
+& \text{N}_2 (g) \qquad \ \ + \quad \ 2\text{O}_2 (g) \qquad \rightarrow \quad 2\text{NO}_2 (g)\\& 1 \ \text{molecule} \qquad \quad 2 \ \text{molecules} \qquad \quad 2 \ \text{molecules}\\& 1 \ \text{mol} \qquad \qquad \quad \ 2 \ \text{mol} \qquad \qquad \quad \ 2 \ \text{mol}\\& 1 \ \text{volume} \qquad \quad \ \ 2 \ \text{volumes} \qquad \quad \ \ 2 \ \text{volumes}
+Because of Avogadro’s work, we know that the mole ratios between substances in a gas-phase reaction are also volume ratios.
+The six possible volume ratios for the above equation are:
+\frac{1 \ \text{volume N}_2}{2 \ \text{volumes O}_2} \ \ \quad or \ \quad \frac{2 \ \text{volumes O}_2}{1 \ \text{volume N}_2}
+\frac{1 \ \text{volume N}_2}{2 \ \text{volumes NO}_2} \ \quad or \ \quad\frac{2 \ \text{volumes NO}_2}{1 \ \text{volume N}_2}
+\frac{2 \ \text{volumes O}_2}{2 \ \text{volumes NO}_2} \ \quad or \ \quad \frac{2 \ \text{volumes NO}_2}{2 \ \text{volumes O}_2}
+The volume ratios above can easily be used when the volume of one gas in a reaction is known and you need to determine the volume of another gas that will either react with or be produced from the first gas.
+The pressure and temperature conditions of both gases need to be the same.

@@ -1,0 +1,20 @@
+If tryptophan levels are high, the leader peptide is translated fully and the ribosome continues through to the stop codon.
+The ribosome physically sits on segments 1 and 2 of the leader sequence, allowing the 3-4 hairpin structure to form, which terminates transcription as RNA polymerase falls off the DNA.
+The operon is only transcribed when tryptophan is unavailable for the ribosome.
+The transcriptional attenuation of the trp operon involves the formation of mRNA stem-loops from the trpL leader region.
+In the presence of tryptophan the 3-4 hairpin structure acts as a termination structure, while with low levels of tryptophan the 2-3 hairpin structure allows transcription to continue.
+A similar attenuation mechanism regulates the synthesis of histidine, phenylalanine, and threonine.
+allolactose :
+A disaccharide similar to lactose; it is an inducer of the lac operon in E. coli.
+anti-termination hairpin :
+RNA structure of an operon leader region that allows transcription to continue.
+attenuation :
+A regulatory mechanism in some bacterial operons which results in premature termination of transcription.
+allosteric site :
+The place on an enzyme where a molecule that is not a substrate may bind, thus changing the shape of the enzyme and influencing its ability to be active.
+attenuator sequence :
+A nucleotide sequence in DNA that can lead to premature termination of transcription.
+inducer :
+An agent capable of activating specific genes; a molecule that inhibits the action of the repressor of an operon, preventing it from freely binding with the operator gene and disabling its function.
+induction :
+Involves determining a general statement that is very likely to be true, from several facts; the relief of repression for a gene or set of genes under negative control.

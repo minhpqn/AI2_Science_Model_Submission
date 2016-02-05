@@ -1,0 +1,20 @@
+How do restriction enzymes function?
+What is a plasmid and how is it involved in producing recombinant DNA?
+Describe how a gene library is screened.
+What are restriction endonucleases?
+How are gene cloning and recombinant DNA related?
+Describe the process of gene cloning.
+How does gel electrophoresis analyze DNA?
+The Polymerase Chain Reaction - Advanced
+What is PCR?
+Describe the processes involved in PCR.
+How do you make a scientific process easier?
+Use a machine.
+The polymerase chain reaction has revolutionized biological and biomedical research and applications.
+Luckily many machines have been developed that allow this process to be performed rapidly and with precision.
+The Polymerase Chain Reaction
+The Polymerase Chain Reaction (PCR) is used to amplify specific regions of a DNA strand millions of times.
+A region may be a number of loci, a single gene, a part of a gene, or a non-coding sequence.
+This technique produces a useful quantity of DNA for analysis, be it medical, forensic or some other form of analysis.
+Amplification of DNA from as little as a single cell is possible.
+Whole genome amplification is also possible.

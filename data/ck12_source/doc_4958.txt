@@ -1,0 +1,20 @@
+The F 1 region of the protein has ATP synthesis activity, catalyzing the formation of ATP from ADP and inorganic phosphate.
+Hence, ATP synthase is both an ion channel protein and enzyme.
+The synthesis reaction is driven by the proton flow, which forces the rotation of a part of the enzyme; the ATP synthase is a rotary mechanical motor.
+Bacteria may also have a version of this enzyme, where it, of course, is embedded in the cell membrane.
+During electron transport within the mitochondria (during cellular respiration) or chloroplast (during photosynthesis) (discussed in the Concept Metabolism (Advanced) concept), a proton gradient is formed when protons are pumped across the membrane by active transport.
+These hydrogen ions flow back across the membrane by facilitated diffusion through ATP synthase, releasing energy which is then used to convert ADP to ATP (by phosphorylation).
+Chemiosmosis is the diffusion of protons across the biological membrane through ATP synthase, due to a proton gradient that forms across the membrane during electron transport.
+ATP synthase :
+Ion channel and enzyme complex; chemically bonds a phosphate group to ADP, producing ATP as H + ions flow through the ion channel.
+chemiosmosis :
+Process in cellular respiration or photosynthesis which produces ATP; uses the energy of hydrogen ions diffusing through ATP synthase.
+chemiosmotic potential :
+A difference in concentration of hydrogen ions across a membrane within the mitochondrion or chloroplast; established using energy from an electron transport chain; also known as a chemiosmotic gradient.
+electrochemical gradient :
+Difference across a membrane due to both a chemical force and an electrical force; drives the movement of ions across the membrane.
+membrane potential :
+The voltage difference across a membrane; the basis for the conduction of nerve impulses along the cell membrane of neurons.
+oxidative phosphorylation :
+A metabolic process that uses energy released by the oxidation of nutrients to produce adenosine triphosphate (ATP).
+proton gradient :

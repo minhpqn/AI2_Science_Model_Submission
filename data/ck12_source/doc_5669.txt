@@ -1,0 +1,20 @@
+Number of neutrons = mass number - atomic number
+Atoms of the element chromium (Cr) have an atomic number of 24 and a mass number of 52.
+How many neutrons are in the nucleus of a chromium atom?
+To determine this, you would subtract as shown:
+52 - 24 = 28 neutrons in a chromium atom
+The composition of any atom can be illustrated with a shorthand notation using the atomic number and the mass number.
+Both are written before the chemical symbol, with the mass number written as a superscript and the atomic number written as a subscript.
+The chromium atom discussed above would be written as:
+Another way to refer to a specific atom is to write the mass number of the atom after the name, separated by a hyphen.
+The above atom would be written as chromium-52.
+The mass number is defined as the total number of protons and neutrons in an atom.
+The number of neutrons = mass number - atomic number.
+Use the link below to answer the following questions:
+What data in the periodic table tells you the number of protons in an atom?
+How do you determine the number of neutrons in an atom?
+What is the mass number for an atom?
+Who first determined atomic weights for elements?
+What were the original atomic weights based on?
+Why were calculations based on numbers of protons not valid for determining atomic weights?
+A tin atom has an atomic number of 50 and a mass number of 118.

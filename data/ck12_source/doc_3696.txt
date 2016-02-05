@@ -1,0 +1,20 @@
+Only bacteria that contain the recombinant DNA are selected for further use.
+Ligation.
+DNA ligase joins together an isolated gene and plasmid DNA.
+This produces recombinant DNA.
+Recombinant DNA technology is discussed in the following videos and animations:  (4.36),
+The experiments of Stanley Cohen and Herbert Boyer, pioneers of genetic engineering, are explained in the video at .
+More on these pioneers can be found at
+Click on the image above for more content
+Polymerase Chain Reaction
+The polymerase chain reaction (PCR) makes many copies of a gene or other DNA segment.
+This might be done in order to make large quantities of a gene for genetic testing.
+PCR involves three steps: denaturing , annealing , and extension .
+The three steps are illustrated in Figure below .
+They are repeated many times in a cycle to make large quantities of the gene.
+You can watch animations of PCR at these links:
+Click on the image above for more content
+Denaturing involves heating DNA to break the bonds holding together the two DNA strands.
+This yields two single strands of DNA.
+Annealing involves cooling the single strands of DNA and mixing them with short DNA segments called primers .
+Primers have base sequences that are complementary to segments of the single DNA strands.

@@ -1,0 +1,20 @@
+Writing Formulas for Acids
+Like other compounds that we have studied, acids are electrically neutral.  Therefore, the charge of the anion part of the formula must be exactly balanced out by the H + ions.  Since H + ions carry a single negative charge, the number of H + ions in the formula is equal to the quantity of the negative charge on the anion.
+Two examples from the table above illustrate this point.
+The chloride ion carries a 1− charge, so only one H is needed in the formula of the acid (HCl).
+The sulfate ion carries a 2− charge, so two H’s are needed in the formula of the acid (H 2 SO 4 ).  Another way to think about writing the correct formula is to utilize the crisscross method, shown below for sulfuric acid.
+How to write the formula for sulfuric acid
+Criss-cross approach to writing formula for sulfuric acid.
+Acids are molecular compounds that release hydrogen ions.
+A binary acid consists of hydrogen and one other element.
+Oxoacids contain hydrogen, oxygen, and one other element.
+The name of the acid is based on the anion attached to the hydrogen.
+Writing formulas for acids follows the same rules as for binary ionic compounds.
+Use the link below to answer the following questions:
+When naming acids, is the hydrogen named?
+What prefix is added to the anion root?
+What suffix is added to the anion root?
+How are oxo acids named?
+What is a binary acid?
+What is an oxoacid?
+Name the following acids:

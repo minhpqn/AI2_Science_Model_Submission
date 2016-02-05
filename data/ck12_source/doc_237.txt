@@ -1,0 +1,20 @@
+Or, we could calculate the time it would take gravity to change the initial velocity from +70.7 m/s to -70.0 m/s.  Yet another way would be to calculate the time it takes for the object to return to its original height.
+v_f = v_i + at \quad \text{so} \quad t=\frac{v_f-v_i}{a}
+If we calculate the time required for the ball to rise up to its highest point and come to rest, the initial velocity is 70.7 m/s and the final velocity is 0 m/s.
+Since we have called the upward velocity positive, then the acceleration must be negative or -9.80 m/s 2 .
+t=\frac{v_f-v_i}{a}=\frac{0 \ \text{m/s}-70.7 \ \text{m/s}}{-9.80 \ \text{m/s}^2}=7.21 \ \text{s}
+Since this is the time required for the cannon ball to rise up to its highest point and come to rest, then the time required for the entire trip up and down would be double this value, or 14.42 s.
+The maximum height reached can be calculated by multiplying the time for the upward trip by the average vertical velocity.
+Since the object's velocity at the top is 0 m/s, the average upward velocity during the trip up is one-half the initial velocity.
+v_{\text{up}-\text{ave}} = \left(\frac{1}{2}\right)(70.7 \ \text{m/s}) = 35.3 \ \text{m/s}
+\text{height} = (v_{\text{up}-\text{ave}})(t_{\text{up}}) = (35.3 \ \text{m/s})(7.21 \ \text{s}) = 255 \ \text{m}
+The horizontal distance traveled during the flight is calculated by multiplying the total time by the constant horizontal velocity.
+d_{\text{horizontal}} = (14.42 \ \text{s})(70.7 \ \text{m/s}) = 1020 \ \text{m}
+Example Problem:
+A golf ball was hit into the air with an initial velocity of 4.47 m/s at an angle of 66° above
+the horizontal.
+How high did the ball go and how far did it fly horizontally?
+v_{\text{i}-\text{up}} = (4.47 \ \text{m/s})(\sin 66^\circ) = (4.47 \ \text{m/s})(0.913) = 4.08 \ \text{m/s}
+v_{\text{i}-\text{hor}} = (4.47 \ \text{m/s})(\cos 66^\circ) = (4.47 \ \text{m/s})(0.407) = 1.82 \ \text{m/s}
+t_{\text{up}}=\frac{v_f-v_i}{a}=\frac{0 \ \text{m/s} - 4.08 \ \text{m/s}}{-9.80 \ \text{m/s}^2}=0.416 \ \text{s}
+v_{\text{up}-\text{ave}} = \left(\frac{1}{2}\right)(4.08 \ \text{m/s}) = 2.04 \ \text{m/s}

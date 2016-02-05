@@ -1,0 +1,20 @@
+Photograph of radioactive uranium ore
+Invest in uranium!
+Uranium is going to be worth more on the open market after a steep decline in prices several years ago.
+So people are out there looking for more uranium.
+But they are not waving Geiger counters around to find this material.
+All the surface uranium has been found.
+Instead, they must study geology, such as the rocks in the picture above.
+Deep holes are drilled to explore the underground geology of a site and the rocks obtained are chemically analyzed.
+No more clicking – just modern-day geology and chemistry.
+Detection of Radioactivity
+Radioactivity is determined by measuring the number of decay processes per unit time.
+Perhaps the easiest way is simply to determine the number of counts/minute, with each count measuring a single decay process, such as the emission of an α-particle.
+A particular isotope may have an activity of 5,000 counts/minute (cpm) while another isotope might only have 250 cpm.
+The amount of activity gives a rough indication of the amount of the radioisotope present – the higher the activity, the more radioactive isotope in the sample.
+Units of measurement
+The curie (Ci) is one measure of the rate of decay (named after Pierre and Marie Curie).
+One curie is equivalent to 3.7 × 10 10 disintegrations per second.
+Since this is obviously a large and unwieldy number, radiation is often expressed in millicuries or microcuries (still very large numbers).
+Another measure is the becquerel (Bq) , named after Henri Becquerel.
+The becquerel is defined as an activity of one disintegration/second.

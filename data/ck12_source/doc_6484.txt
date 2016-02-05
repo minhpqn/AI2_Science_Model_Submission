@@ -1,0 +1,20 @@
+In order to function, any electrochemical cell must consist of two half-cells.
+The Table below can be used to determine the reactions that will occur and the standard cell potential for any combination of two half-cells without actually constructing the cell.
+The half-cell with the higher reduction potential according to the table will undergo reduction within the cell.
+The half-cell with the lower reduction potential will undergo oxidation within the cell.
+If those specifications are followed, the overall cell potential will be a positive value.
+The cell potential must be positive in order for redox reaction of the cell to be spontaneous.
+If a negative cell potential were to be calculated, that reaction would be spontaneous in the reverse direction.
+Click on the image above to view the table
+Sample Problem:
+Calculating Standard Cell Potentials
+Calculate the standard cell potential of a voltaic cell that uses the Ag/Ag + and Sn/Sn 2+ half-cell reactions.
+Write the balanced equation for the overall cell reaction that occurs.
+Identify the anode and the cathode.
+Step 1:
+List the known values and plan the problem.
+E^0_{\text{Ag}}=+0.80 \text{ V}
+E^0_{\text{Sn}}=-0.14 \text{ V}
+E^0_{\text{cell}}=? \text{ V}
+The silver half-cell will undergo reduction because its standard reduction potential is higher.
+The tin half-cell will undergo oxidation.

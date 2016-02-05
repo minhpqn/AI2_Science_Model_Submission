@@ -1,0 +1,20 @@
+Consider the series circuit sketched above.
+This circuit has a voltage drop for the entire circuit of 120 V and has three resistors connected in series.
+The current in this circuit is drawn in terms of electron flow.
+The electrons leave the potential difference source at the negative terminal and flow through the three resistors, starting with R_3 .
+Though they have a small amount of resistance, the resistance of the connecting wires is so small in relation to the resistors that we ignore it.
+Therefore, we say that there is no voltage drop when the current passes through the connecting wires.
+The voltage drops occur when the current passes through each of the resistors and the total voltage drop for the entire circuit is equal to the sum of the voltage drops through the three resistors.
+The current through each of the resistors must be exactly the same because the current in a series circuit is the same everywhere.
+The current is moving in the entire circuit at the same time.
+Since the current passes through each resistor, the total resistance in the circuit is equal to the sum of the resistors.
+In the circuit above, the total resistance is:
+R_T=R_1+R_2+R_3=30 \ \Omega + 15 \ \Omega + 15 \ \Omega = 60 \ \Omega
+Therefore, the total current and the current through each resistor is
+I=\frac{V}{R}=\frac{120 \ V}{60 \ \Omega}=2.0 \ A .
+The individual voltage drops can be calculated using the current through each resistor and each resistor's individual resistance.
+V_1=I_1R_1=(2.0 \ A)(30 \ \Omega)=60 \ V
+V_2=I_2R_2=(2.0 \ A)(15 \ \Omega)=30 \ V
+V_3=I_3R_3=(2.0 \ A)(15 \ \Omega)=30 \ V
+Example Problem:
+Four 15 Ω resistors are connected in series with a 45 V battery.

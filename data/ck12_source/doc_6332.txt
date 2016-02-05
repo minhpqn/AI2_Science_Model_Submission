@@ -1,0 +1,20 @@
+After some time passes, equilibrium is reestablished with new concentrations of all three substances.
+As can be seen in the Figure below , if more N 2 is added, a new equilibrium is achieved by the system.
+The new concentration of NH 3 is higher because of the favoring of the forward reaction.
+The new concentration of the H 2 is lower.
+The concentration of N 2 is higher than in the original equilibrium, but went down slightly following the addition of the N 2 that disturbed the original equilibrium.
+By responding in this way, the value of the equilibrium constant for the reaction, K_{eq} , does not change as a result of the stress to the system.
+Adding more nitrogen in the Haber-Bosch process generates additional ammonia
+The Haber-Bosch process is an equilibrium between reactant N 2 and H 2 and product NH 3 .
+If more NH 3 were added, the reverse reaction would be favored.
+This “favoring” of a reaction means temporarily speeding up the reaction in that direction until equilibrium is reestablished.
+Recall that once equilibrium is reestablished, the rates of the forward and reverse reactions are again equal.
+The addition of NH 3 would result in increased formation of the reactants, N 2 and H 2 .
+An equilibrium can also be disrupted by the removal of one of the substances.
+If the concentration of a substance is decreased, the system will respond by favoring the reaction that replaces that substance.
+In the industrial Haber-Bosch process, NH 3 is removed from the equilibrium system as the reaction proceeds.
+As a result, the forward reaction is favored so that more NH 3 will be produced.
+The concentrations of N 2 and H 2 decrease.
+Continued removal of NH 3 will eventually force the reaction to go to completion until all of the reactants are used up.
+If either N 2 or H 2 were removed from the equilibrium system, the reverse reaction would be favored and the concentration of NH 3 would decrease.
+The effect of changes in concentration on an equilibrium system according to Le Châtelier’s Principle is summarized in the Table below

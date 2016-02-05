@@ -1,0 +1,20 @@
+Mendel’s Second Set of Experiments
+After observing the results of his first set of experiments, Mendel wondered whether different characteristics are inherited together.
+For example, are purple flowers and tall stems always inherited together?
+Or do these two characteristics show up in different combinations in offspring?
+To answer these questions, Mendel next investigated two characteristics at a time.
+For example, he crossed plants with yellow round seeds and plants with green wrinkled seeds.
+The results of this cross, which is a dihybrid cross , are shown in Figure below .
+Dihybrid Punnett square
+This chart represents Mendel's second set of experiments.
+It shows the outcome of a cross between plants that differ in seed color (yellow or green) and seed form (shown here with a smooth round appearance or wrinkled appearance).
+The letters R, r, Y, and y represent genes for the characteristics Mendel was studying.
+Mendel didn’t know about genes, however.
+Genes would not be discovered until several decades later.
+This experiment demonstrates that in the F2 generation, 9/16 were round yellow seeds, 3/16 were wrinkled yellow seeds, 3/16 were round green seeds, and 1/16 were wrinkled green seeds.
+F1 and F2 Generations
+In this set of experiments, Mendel observed that plants in the F1 generation were all alike.
+All of them had yellow and round seeds like one of the two parents.
+When the F1 generation plants self-pollinated, however, their offspring—the F2 generation—showed all possible combinations of the two characteristics.
+Some had green round seeds, for example, and some had yellow wrinkled seeds.
+These combinations of characteristics were not present in the F1 or P generations.

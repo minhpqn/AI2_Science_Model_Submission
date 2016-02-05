@@ -1,0 +1,20 @@
+Assume that a point mutation changes the codon AUU to AUC.
+Why is this a neutral mutation?
+Look at the mutation shown here.
+The base A was inserted following the start codon AUG.
+Describe how this mutation affects the encoded amino acid sequence:
+AUG-GUC-CCU-AAA → AUG-AGU-CCC-UAA-A.
+Compare and contrast germline mutations and somatic mutations.
+DNA Repair - Advanced
+Define and discuss the importance of DNA repair.
+Describe common DNA repair mechanism.
+How is DNA repaired?
+Not by nanobots.
+But luckily the cell does have mechanisms to repair mistakes in the DNA.
+And these mechanisms involve proteins.
+DNA repair refers to a collection of processes by which a cell identifies and corrects damage to DNA.
+Many mutations have no effect on the organism because they are repaired before protein synthesis occurs.
+Cells have multiple repair mechanisms to fix mutations in DNA.
+One way DNA can be repaired, called nucleotide excision repair is illustrated in Figure below .
+If a cell’s DNA is permanently damaged and cannot be repaired, the cell is likely to be prevented from dividing.
+See Some types of mutations are automatically repaired at for an animation on mutation repair.

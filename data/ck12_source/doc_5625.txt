@@ -1,0 +1,20 @@
+But they are only as good as the numbers put into them.
+The calculator cannot determine how accurate each of a set of numbers is and the answer given on the screen must be assessed by the user for reliability.
+Uncertainty in Addition and Subtraction
+Consider two separate mass measurements: 16.7 g and 5.24 g.
+The first mass measurement (16.7 g) is known only to the tenths place or to one digit after the decimal point.
+There is no information about its hundredths place and so that digit cannot be assumed to be zero.
+The second measurement (5.24 g) is known to the hundredths place or to two digits after the decimal point.
+When these masses are added together, the result on a calculator is 16.7 + 5.24 = 21.94 g.
+Reporting the answer as 21.94 g suggests that the sum is known all the way to the hundredths place.
+However that cannot be true because the hundredths place of the first mass was completely unknown.
+The calculated answer needs to be rounded in such a way as to reflect the certainty of each of the measured values that contributed to it.
+For addition and subtraction problems, the answer should be rounded to the same number of decimal places as the measurement with the least number of decimal places.
+The sum of the above masses would be properly rounded to a result of 21.9 g.
+When working with whole numbers, pay attention to the last significant digit that is to the left of the decimal point and round your answer to that same point.
+For example, consider the subtraction: 78,500 m – 362 m.
+The calculated result is 78,138 m.
+However, the first measurement is known only to the hundreds place, as the 5 is the last significant digit.
+Rounding the result to that same point means that the correct result is 78,100 m.
+For addition and subtraction problems, the answer should be rounded to the same number of decimal places as the measurement with the least number of decimal places.
+Read the information and work on the problems at the following web site:

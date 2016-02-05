@@ -1,0 +1,20 @@
+A spherical mirror is called a concave mirror if the center of the mirror is further from the viewer than the edges are.
+A spherical mirror is called a convex mirror if the center of the mirror is closer to the viewer than the edges are.
+To see how a concave mirror forms an image, consider an object that is very far from the mirror so that the incoming rays are essentially parallel.
+For an object that is infinitely far away, the incoming rays would be exactly parallel.
+Each ray would strike the mirror and reflect according to the law of reflection (angle of reflection is equal to the angle of incidence).
+As long as the section of mirror is small compared to its radius of curvature, all the reflected rays will pass through a common point, called the focal point ( f) .
+Illustrates how a concave mirror forms an image
+If too large a piece of the mirror is used, the rays reflected from the top and bottom edges of the mirror will not pass through the focal point and the image will be blurry.
+This flaw is called spherical aberration and can be avoided either by using very small pieces of the spherical mirror or by using parabolic mirrors.
+A line drawn to the exact center of the mirror and perpendicular to the mirror at that point is called the principal axis .
+The distance along the principle axis from the mirror to the focal point is called the focal length .
+The focal length is also exactly one-half of the radius of curvature of the spherical mirror.
+That is, if the spherical mirror has a radius of 8 cm, then the focal length will be 4 cm.
+Objects Outside the Center Point
+Object located outside the center point
+Above is a spherical mirror with the principle axis, the focal point, and the center of curvature ( C)  identified on the image.
+An object has been placed well beyond C,  and we will treat this object as if it were infinitely far away.
+There are two rays of light leaving any point on the object that can be traced without any drawing tools or measuring devices.
+The first is a ray that leaves the object and strikes the mirror parallel to the principle axis that will reflect through the focal point.
+The second is a ray that leaves the object and strikes the mirror by passing through the focal point; this ray will reflect parallel to the principle axis.

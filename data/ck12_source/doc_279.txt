@@ -1,0 +1,20 @@
+Often, the resistance force is the force of gravity, and the resistance distance is how far you move the object.
+The ideal mechanical advantage  of a simple machine is the ratio between the distances:
+\text{IMA}=\frac{\text{effort distance}}{\text{resistance distance}}
+Again, the IMA assumes that there is no friction.
+In reality, the mechanical advantage is limited by friction; you must overcome the frictional forces in addition to the resistance force.
+Therefore, the actual mechanical advantage  is the ratio of the forces:
+\text{AMA}=\frac{\text{resistance force}}{\text{effort force}}
+When simple machines are combined to form compound machines, the product of each simple machine's IMA gives the compound machine's IMA.
+A lever consists of an inflexible length of material placed over a pivot point called a fulcrum .
+The resistance is the object to be moved (shown here in red), and is placed to one side of the fulcrum.
+The resistance distance in a lever is called the resistance arm.
+The effort is exerted elsewhere on the lever, and the effort distance is called the effort arm or effort lever arm.
+The lever shown here is the most common type of lever, a Class One Lever, but there are two other types of levers.
+If you would like to learn about the other types of levers, visit this website:
+Diagram of a class one lever
+The effort work is the effort force times the effort lever arm.
+Similarly, the resistance work is the resistance force times the resistance lever arm.
+If we ignore any friction that occurs where the lever pivots over the fulcrum, this is an ideal machine.
+Suppose the resistance force is 500.
+N, the resistance arm is 0.400 m, and the effort arm is 0.800m.

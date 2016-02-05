@@ -1,0 +1,20 @@
+Click on the image above for more content
+Q :
+If a compound pulley has four rope segments pulling up on the load, by what factor does it multiply the force applied to the pulley?
+A :
+With four rope segments, the ideal mechanical advantage is 4.
+This means that the compound pulley multiplies the force applied to it by a factor of 4.
+For example if 400 Newtons of force were applied to the pulley, the pulley would apply 1600 Newtons of force to the load.
+A pulley is a simple machine that consists of a rope wrapped around a grooved wheel.
+Pulleys are generally used to lift a load.
+There are three types of pulleys: fixed pulleys, moveable pulleys, and compound pulleys.
+Compound pulleys consist of two or more fixed and moveable pulleys.
+The ideal mechanical advantage of a pulley equals the number of rope segments pulling up on the load.
+Watch video number 15 at the following URL, and then answer the questions below.
+If you apply 600 N of input force to a single fixed pulley, the output force is __________, and the mechanical advantage of the pulley is __________.
+To get an output force of 600 N with a single moveable pulley, you must apply an input force to the pulley of __________, and the pulley’s mechanical advantage is __________.
+If you apply an input force of 200 N to a pulley system has three rope segments lifting the load, then the output force is __________, and the mechanical advantage is __________.
+What is a pulley?
+What work do pulleys do?
+Compare and contrast pulleys A and B in the illustration below.
+In the compound pulley pictured below, how many Newtons of force are applied to the load if 200 Newtons of effort force are applied to the pulley?

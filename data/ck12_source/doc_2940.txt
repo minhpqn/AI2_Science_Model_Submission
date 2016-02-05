@@ -1,0 +1,20 @@
+One done inside the body ( in vivo ).
+One done outside the body ( ex vivo ).
+Both types of gene therapy use a vector , or carrier molecule for the gene.
+The vector helps incorporate the desired gene into the patient's DNA.
+Usually this vector is modified viral DNA in which the viral genes have been removed.
+Don't worry, the virus used in gene therapy has been deactivated.
+In Vivo Gene Therapy
+During in vivo gene therapy, done inside the body, the vector with the gene of interest is introduced directly into the patient and taken up by the patient’s cells ( Figure below ).
+For example, cystic fibrosis gene therapy is targeted at the respiratory system, so a solution with the vector can be sprayed into the patient’s nose.
+Recently, in vivo gene therapy was also used to partially restore the vision of three young adults with a rare type of eye disease.
+Diagram of in vivo gene therapy using an adenovirus
+During gene therapy, adenovirus is a possible vector to carry the desired gene and insert it into the patient's DNA.
+A deactivated virus makes a useful vector for this purpose.
+Ex Vivo Gene Therapy
+In ex vivo gene therapy, done outside the body, cells are removed from the patient and the proper gene is inserted using a virus as a vector.
+The modified cells are placed back into the patient.
+One of the first uses of this type of gene therapy was in the treatment of a young girl with a rare genetic disease, adenosine deaminase deficiency, or ADA deficiency.
+People with this disorder are missing the ADA enzyme, which breaks down a toxin called deoxyadenosine.
+If the toxin is not broken down, it accumulates and destroys immune cells.
+As a result, individuals with ADA deficiency do not have a healthy immune system to fight off infections.

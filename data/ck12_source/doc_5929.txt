@@ -1,0 +1,20 @@
+Their embrace allowed no other person to be a part of it – they only wanted to be with each other.
+It took outside intervention (parents are like that!) to get them away from one another.
+Paired electrons are similar to the lovers.
+They do not bond covalently until they are unpaired.
+Then they can become a part of a larger chemical structure.
+Hybrid Orbitals – sp and sp 2
+A beryllium hydride (BeH 2 ) molecule is predicted to be linear by VSEPR.  The beryllium atom contains all paired electrons and so must also undergo hybridization.  One of the 2s electrons is first promoted to the empty 2p x orbital (see Figure below ).
+Promotion of the beryllium 2s electron
+Promotion of Be 2s electron.
+Now the hybridization takes place only with the occupied orbitals and the result is a pair of sp hybrid orbitals.  The two remaining p orbitals ( p y and p z ) do not hybridize and remain unoccupied (see Figure below ).
+Beryllium hybrid sp orbitals
+Be hybrid orbitals.
+The geometry of the sp hybrid orbitals is linear, with the lobes of the orbitals pointing in opposite directions along one axis, arbitrarily defined as the x-axis (see Figure below ).  Each can bond with a 1s orbital from a hydrogen atom to form the linear BeH 2 molecule.
+Image of how an s and p orbital combine to form sp orbitals
+The process of sp hybridization is the mixing of an s orbital with a single p orbital (the pxorbital by convention), to form a set of two sp hybrids.
+The two lobes of the sp hybrids point opposite one another to produce a linear molecule.
+Other molecules whose electron domain geometry is linear and for whom hybridization is necessary also form sp hybrid orbitals.  Examples include CO 2 and C 2 H 2 , which will be discussed in further detail later.
+sp 2  Hybridization
+Boron trifluoride (BF 3 ) is predicted to have a trigonal planar geometry by VSEPR.  First a paired 2s electron is promoted to the empty 2p y orbital (see  Figure below ).
+Promotion of the boron 2s electron

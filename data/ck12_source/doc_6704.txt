@@ -1,0 +1,20 @@
+The Big Idea
+Applied forces may cause objects to accelerate.
+All forces come in pairs because they arise in the interaction of two objects — you can’t push without being pushed back!
+The more force applied, the greater the acceleration that is produced.
+Objects with high masses are difficult to accelerate without a large force.
+In the absence of applied forces, objects move in a straight line at a constant speed (or remain at rest).
+In formal language:
+Newton's First Law Every body continues in its state of rest, or of uniform motion in a right (straight) line, unless it is compelled to change that state by forces impressed upon it.
+Newton's Second Law The change of motion is proportional to the motive force impressed; and is made in the direction of the right (straight) line in which that force is impressed.
+Newton's Third Law To every action there is always opposed an equal reaction: or, the mutual actions of two bodies upon each other are always equal, and directed to contrary parts.
+(Taken from the Principia in modern English, Isaac Newton, University of California Press, 1934).
+Understanding motion comes in two stages.
+The first stage you’ve already seen: you can figure out where something will go, and how fast it will get there, if you know its acceleration.
+The second stage is much more interesting: where did the acceleration come from?
+How can you predict the amount of acceleration?
+Mastering both stages is the key to understanding motion.
+Newton's First Law
+Describe Newton's first law.
+The First Law is about inertia; objects at rest stay at rest unless acted upon and objects in motion continue that motion in a straight line unless acted upon .
+Prior to Newton and Galileo, the prevailing view on motion was still Aristotle's.

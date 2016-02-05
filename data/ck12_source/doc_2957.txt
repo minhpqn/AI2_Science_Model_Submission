@@ -1,0 +1,20 @@
+The average speed for the trip is:
+\text{speed} & =\frac{120 \ \text{mi}}{3 \ \text{h}}\\\& =40 \ \text{mi/h}
+Q:
+Terri rode her bike very slowly to the top of a big hill.
+Then she coasted back down the hill at a much faster speed.
+The distance from the bottom to the top of the hill is 3 kilometers.
+It took Terri ¼ hour to make the round trip.
+What was her average speed for the entire trip? ( Hint :
+The round-trip distance is 6 km.)
+A:
+Terri’s speed can be calculated as follows:
+\text{speed} & =\frac{6 \ \text{km}}{0.25 \ \text{h}}\\\& =24 \ \text{km/h}
+When you travel by car, you usually don’t move at a constant speed.
+Instead you go faster or slower depending on speed limits, traffic lights, the number of vehicles on the road, and other factors.
+For example, you might travel 65 miles per hour on a highway but only 20 miles per hour on a city street (see the pictures in the Figure below .) You might come to a complete stop at traffic lights, slow down as you turn corners, and speed up to pass other cars.
+Therefore, your speed at any given instant, or your instantaneous speed, may be very different than your speed at other times.
+Instantaneous speed is much more difficult to calculate than average speed.
+If you want to learn more about calculating speed, watch the video at this URL:
+Cars on a highway have a greater speed than cars in city traffic
+Cars race by in a blur of motion on an open highway but crawl at a snail’s pace when they hit city traffic.

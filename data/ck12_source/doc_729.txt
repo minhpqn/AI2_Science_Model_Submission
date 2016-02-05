@@ -1,0 +1,20 @@
+A fundamental sub-atomic particle, meaning it cannot be broken into smaller particles.
+Electrons are found in the “electron cloud” surrounding an atomic nucleus, or they may break free and exist as a free electron.
+protons:
+A stable, positively charged, sub-atomic particle, found in atomic nuclei in numbers equal to the atomic number of the element.
+neutral:
+A neutral particle, object, or system is one that has a net electric charge of zero.
+conductors:  Materials through which electric charge can pass.
+insulator:  Substances that block or retard the flow of electrical current or charge.
+positive ions:
+An atom or a group of atoms that has acquired a net positive charge by losing one or more electrons.
+negative ions:
+An atom or a group of atoms that has acquired a net negative charge by gaining one or more electrons.
+ions:
+An atom or a group of atoms that has acquired a net electric charge by gaining or losing one or more electrons.
+electroscope:
+An instrument used to detect the presence and sign of an electric charge by the mutual attraction or repulsion of metal foils.
+charging by conduction:
+Involves the contact of a charged object to a neutral object.
+charging by induction:
+A method used to charge an object without actually touching the object to any other charged object.

@@ -1,0 +1,20 @@
+Review how to calculate velocity from a position-time graph at the following URL.
+Then solve the two problems at the bottom of the Web page.
+Be sure to check your answers and read the explanations for the correct solutions.
+Describe how to make a position-time graph.
+What is the slope of a line graph?
+What does the slope of a position-time graph represent?
+Can a line on a position-time graph have a negative slope, that is, can it slope downward from left to right?
+Why or why not?
+In Graph 1 in the Figure above , what is the object’s average velocity?
+Distinguish between velocity and speed.
+Represent velocity with vector arrows.
+Describe objects that have different velocities.
+Show how to calculate average velocity when direction is constant.
+Ramey and her mom were driving down this highway at 45 miles per hour, which is the speed limit on this road.
+As they approached this sign, Ramey’s mom put on the brakes and started to slow down so she could safely maneuver the upcoming curves in the road.
+This speed limit sign actually represents two components of motion: speed and direction.
+Speed and Direction
+Speed tells you only how fast or slow an object is moving.
+It doesn’t tell you the direction the object is moving.
+The measure of both speed and direction is called velocity .

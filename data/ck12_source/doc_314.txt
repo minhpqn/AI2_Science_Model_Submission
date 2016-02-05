@@ -1,0 +1,20 @@
+2.66 \times 10^5
+6.29 \times 10^6
+1.09 \times 10^5
+8.78 \times 10^5
+3.34 \times 10^5
+2.26 \times 10^6
+When the temperature of a substance is changing, we can use the specific heat to determine the amount of heat that is being gained or lost.
+When a substance is changing phase, we can use the heat of fusion or heat of vaporization to determine the amount of heat being gained or lost.
+When a substance freezes from liquid to solid, the amount of heat given off is exactly the same as the amount of heat absorbed when the substance melts from solid to liquid.
+The equations for heat gained or lost are given here:
+The heat gained or lost during a temperature change:  Q = mc \Delta t
+The heat gained or lost during a phase change of solid to liquid:
+Q = mH_f .
+The heat gained or lost during a phase change of liquid to gas:
+Q = mH_v .
+Example Problem: 5000.
+Joules of heat is added to ice at 273 K.
+All the heat goes into changing solid ice into liquid water.
+How much ice is melted?
+Solution: m=\frac{Q}{H_f}=\frac{5000 \ J}{3.34 \times 10^5 \ J/kg}=0.0150 \ kg

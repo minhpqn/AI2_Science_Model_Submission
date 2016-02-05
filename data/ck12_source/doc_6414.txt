@@ -1,0 +1,20 @@
+The [OH − ] is then found from 10 -1.69 = 2.04 × 10 -2  M.
+The ICE table is then set up as shown below.
+[C 2 H 5 NH 2 ]
+[C 2 H 5 NH 3 + ]
+[OH − ]
+Substituting into the  K_b expression yields the  K_b for ethylamine.
+K_b=\frac{[\text{C}_2\text{H}_5\text{NH}^+_3][\text{OH}^-]}{[\text{C}_2\text{H}_5\text{NH}_2]}=\frac{(2.04 \times 10^{-2})(2.04 \times 10^{-2})}{0.730}=5.7 \times 10^{-4}
+Calculations of  K_a and  K_b are described.
+Read the material at the link below and answer the following questions:
+What does an Arrhenius base dissociate to?
+What does a Brønsted-Lowry base form in water?
+How is percent ionization determined?
+What approach is used for calculation of ionization constants?
+What initial assumptions are made?
+What equilibrium assumptions are made?
+pH meter:
+A device for accurate measurement of pH.
+Calculating pH of Weak Acid and Base Solutions
+Perform calculations to determine the pH of a weak acid or base solution.
+Sodium bicarbonate can be used to help alleviate a bee sting

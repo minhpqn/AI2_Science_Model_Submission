@@ -1,0 +1,20 @@
+How does the number of particles influence vapor pressure?
+Silver chloride is a non-volatile material, but does not dissolve in water.
+What effect will it have on the vapor pressure of water?
+colligative property:
+A property of a solution that depends only on the number of solute particles dissolved in the solution and not on their identity.
+non-volatile:
+Does not evaporate easily.
+Freezing Point Depression
+Define freezing point depression.
+Calculate the freezing point of a solution when given the molal freezing-point depression constant.
+Salting roads lowers the freezing point, which will cause ice to melt more quickly
+Why salt icy roads?
+Colligative properties have practical applications, such as the salting of roads in cold-weather climates.
+By applying salt to an icy road, the melting point of the ice is decreased, and the ice will melt more quickly, making driving safer.
+Sodium chloride (NaCl) and either calcium chloride (CaCl 2 ) or magnesium chloride (MgCl 2 ) are used most frequently, either alone or in a mixture.
+Sodium chloride is the least expensive option, but is less effective because it only dissociates into two ions instead of three.
+Freezing Point Depression
+The Figure below shows the phase diagram for a pure solvent and how it changes when a solute is added to it.
+The solute lowers the vapor pressure of the solvent resulting in a lowering of the freezing point of the solution compared to the solvent.
+The freezing point depression is the difference in temperature between the freezing point of the pure solvent and that of the solution.

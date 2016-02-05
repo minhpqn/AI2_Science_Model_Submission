@@ -1,0 +1,20 @@
+Now suppose 2 people both randomly chose 1 student from the grade 12 class.
+Assume that it's possible for them to choose the same student. (c) What is the probability that the first person chooses a student who is female and the second person chooses a student who is going to university?
+Solution: \text{Probabilities:} \ P(\text{female}) &= \frac{80}{164} \swarrow \fbox{164 \ \text{total students}}\\P(\text{female}) &= \frac{20}{41}\\P(\text{going to university}) &= \frac{71}{164}\\\\P(\text{female}) \times P(\text{going to university})&= \frac{20}{41} \times \frac{71}{164}\\&= \frac{1420}{6724}\\&= \frac{355}{1681}\\&= 0.211 Therefore, there is a 21.1% probability that the first person chooses a student who is female and the second person chooses a student who is going to university.
+How do you make sure a compound is pure?
+When compounds are synthesized, they often have contaminating materials mixed in with them.
+The process of recrystallization can be used to remove these impurities.
+The crystals are dissolved in a hot solvent, forming a solution.
+When the solvent is cooled the compound is no longer as soluble and will precipitate out of solution, leaving other materials still dissolved.
+Saturated and Unsaturated Solutions
+Table salt (NaCl) readily dissolves in water.
+Suppose that you have a beaker of water to which you add some salt, stirring until it dissolves.
+So you add more and that dissolves.
+You keep adding more and more salt, eventually reaching a point that no more of the salt will dissolve no matter how long or how vigorously you stir it.
+Why?
+On the molecular level, we know that action of the water causes the individual ions to break apart from the salt crystal and enter the solution, where they remain hydrated by water molecules.
+What also happens is that some of the dissolved ions collide back again with the crystal and remain there.
+Recrystallization is the process of dissolved solute returning to the solid state.
+At some point the rate at which the solid salt is dissolving becomes equal to the rate at which the dissolved solute is recrystallizing.
+When that point is reached, the total amount of dissolved salt remains unchanged.
+Solution equilibrium is the physical state described by the opposing processes of dissolution and recrystallization occurring at the same rate.

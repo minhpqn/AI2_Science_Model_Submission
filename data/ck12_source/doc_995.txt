@@ -1,0 +1,20 @@
+That is, if an object experiences no net force due to other bodies, the object either remains at rest or remains in motion with constant velocity in a straight line.
+A Closer Look at Postulate 1
+Consider dropping a child’s toy block in a railroad boxcar.
+Toy block dropping in a stationary car
+The block will fall straight down and come to rest on a spot directly underneath the position from which it was dropped.
+For an observer inside a stationary boxcar, there will be a measureable distance the block fell, a time required to fall and an average velocity for the fall.
+If the boxcar is moving at a constant horizontal velocity 10 m/s, the observer inside the boxcar will find the all measurements to be exactly the same as when the boxcar was stationary, including the spot where the block came to rest.
+For an observer inside the boxcar, the frame of reference is the same whether the car is moving or not and all the laws of physics will be the same in both cases.
+Toy block dropping in a moving car
+Consider the block falling in the moving boxcar as observed by a stationary observer outside the boxcar.
+As observed in this frame of reference, the block does NOT fall straight down but rather follows a parabolic path.
+The distance it falls is NOT the same and the average velocity calculated is NOT the same.
+For the outside observer, the block has a constant horizontal velocity equal to the velocity of the boxcar and the vector sum of the horizontal velocity and the vertical fall result in the parabolic path sketched.
+For the inside observer, there is no horizontal velocity.
+For the outside observer, the distance traveled along the parabolic path is longer than the path straight down but the time for the fall is the same.
+For the outside observer, the average velocity is greater.
+Inside each frame of reference, all the laws of physics hold, but the measurements are not the same between the two frames of reference.
+A Closer Look at Postulate 2
+Suppose you are sitting on the hood of a stationary car and your brother is standing alongside the road some 50 feet ahead of the car.
+If you throw a ball to your brother with a velocity of 10 m/s, it will travel, relative to you, at a velocity of 10 m/s and it will travel, relative to your brother, as 10 m/s.

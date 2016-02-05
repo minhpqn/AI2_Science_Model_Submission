@@ -1,0 +1,20 @@
+The ability to allow only certain molecules in or out of the cell is referred to as selective permeability or semipermeability .
+To understand how the plasma membrane controls what crosses into or out of the cell, you need to know its composition.
+The plasma membrane is discussed at
+A Phospholipid Bilayer
+The plasma membrane is composed mainly of phospholipids, which consist of fatty acids and alcohol.
+The phospholipids in the plasma membrane are arranged in two layers, called a phospholipid bilayer .
+As shown in Figure below , each phospholipid molecule has a head and two tails.
+The head “loves” water ( hydrophilic ) and the tails “hate” water ( hydrophobic ).
+The water-hating tails are on the interior of the membrane, whereas the water-loving heads point outwards, toward either the cytoplasm or the fluid that surrounds the cell.
+Molecules that are hydrophobic can easily pass through the plasma membrane, if they are small enough, because they are water-hating like the interior of the membrane.
+Molecules that are hydrophilic, on the other hand, cannot pass through the plasma membrane—at least not without help—because they are water-loving like the exterior of the membrane, and are therefore excluded from the interior of the membrane.
+The phospholipid bilayer, the structure of the plasma membrane
+Phospholipid Bilayer.
+The phospholipid bilayer consists of two layers of phospholipids, with a hydrophobic, or water-hating, interior and a hydrophilic, or water-loving, exterior.
+The hydrophilic (polar) head group and hydrophobic tails (fatty acid chains) are depicted in the single phospholipid molecule.
+The polar head group and fatty acid chains are attached by a 3-carbon glycerol unit.
+See Insights into cell membranes via dish detergent at
+for additional information on the cell membrane.
+The plasma membrane forms a barrier between the cytoplasm and the environment outside the cell.
+The plasma membrane has selective permeability.

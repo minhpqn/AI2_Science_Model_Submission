@@ -1,0 +1,20 @@
+For a ball rolling without slipping with a radius of 0.10 \;\mathrm{m} , a moment of inertia of 25.0 \;\mathrm{kg}m^2 , and a linear velocity of 10.0 \;\mathrm{m/s} calculate the following:
+The angular velocity.
+The rotational kinetic energy.
+The angular momentum.
+The torque needed to double its linear velocity in 0.2 sec.
+a = 2gsinθ/3 b. (tan θ) /3 c.
+The translational, or linear speed increases because some of the energy that would have gone into rotational kinetic energy now goes to linear kinetic energy, hence making the linear speed greater.
+a. 100 \;\mathrm{rad/s} b. 1.25 \times 10^5 \;\mathrm{J} c. 2500 \;\mathrm{Js} d. 12,500 \;\mathrm{Nm}
+Rolling Energy Problems
+Use energy conservation in situations that include rotating objects.
+Students will learn how to use energy conservation in situations that include rotating objects.
+Remember, conservation of energy still holds.
+A rolling object has two parts to its kinetic energy: the linear kinetic energy that you've already done, and this rotational kinetic energy.
+The method to calculate the rotational energy from the moment of inertia and rotational velocity is shown below.
+\sum E_{\text{initial}} = \sum E_{\text{final}} \; \; \text{The total energy does not change in closed systems}
+KE_{rot} = \frac{1}{2} I\omega^2
+Guidance You can use energy conservation in rotation problems just like you did in the energy conservation lessons for linear motion.
+Note that rotating objects also have kinetic energy of rotation and this must be included when accounting for energy conservation.
+A hoop of mass 1 kg and radius .75 m, begins at rest at the top of a ramp, 3m above the ground.
+What is it's rotational velocity at the bottom of the ramp if the hoop rolls down the ramp without slipping?

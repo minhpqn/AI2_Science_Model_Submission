@@ -1,0 +1,20 @@
+The technological design process is a step-by-step approach to finding a solution to a problem.
+Often, the main challenge in technological design is finding a solution that works within the constraints, or limits, on the design.
+All technological designs have constraints.
+Q:
+Assume you want to design a kite.
+What might be some constraints on your design?
+A:
+Possible constraints might include the shape and size of the kite and the materials you use to make it.
+Physical and Social Constraints
+Technological design constraints may be physical or social.
+Physical design constraints include factors such as natural laws and properties of materials.
+A kite, for example, will fly only if its shape allows air currents to lift it.
+Otherwise, gravity will keep it on the ground.
+Social design constraints include factors such as ease of use, safety, attractiveness, and cost.
+For example, a kite string should be easy to unwind as the wind carries the kite higher.
+Weighing the Options
+All technological designs have trade-offs because no design is perfect.
+For example, a design might be very good at solving a problem, but it might be too expensive to be practical.
+Or a design might be very attractive, but it might not be safe to use.
+Choosing the best design often involves weighing the pros and cons of different options and deciding which ones are most important.

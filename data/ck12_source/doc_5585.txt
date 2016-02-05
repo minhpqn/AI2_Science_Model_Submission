@@ -1,0 +1,20 @@
+There are 10 millimeters in 1 centimeter and 100 centimeters in 1 meter.
+Metric prefixes are used to distinguish between units of different size.
+These prefixes all derive from either Latin or Greek terms.
+For example, mega comes from the Greek word \mu \acute{\varepsilon} \gamma\alpha\varsigma , meaning “great”
+Table below lists the most common metric prefixes and their relationship to the central unit that has no prefix.
+Length is used as an example to demonstrate the relative size of each prefixed unit.
+1 gigameter (Gm) = 10 9 m
+1 megameter (Mm) = 10 6 m
+1 kilometer (km) = 1000 m
+1 hectometer (hm) = 100 m
+1 dekameter (dam) = 10 m
+1 meter (m)
+1 decimeter (dm) = 0.1 m
+1 centimeter (cm) = 0.01 m
+1 millimeter (mm) = 0.001 m
+1 micrometer (μm) = 10 -6 m
+1 nanometer (nm) = 10 -9 m
+1 picometer (pm) = 10 -12 m
+There are more prefixes - some of them rarely used.
+Have you ever heard of a zeptometer?

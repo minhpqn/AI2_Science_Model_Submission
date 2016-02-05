@@ -1,0 +1,20 @@
+permanent magnet:
+A piece of magnetic material that retains its magnetism after it is removed from a magnetic field.
+Electric Currents and Magnetic Fields
+Understand the shape of magnetic fields produced by moving current.
+Understand the effect of a magnetic field on a moving charged particle.
+Explain the direction of the force on a current-carrying wire in a magnetic field.
+Solve problems involving using the right and left hand rules.
+Electromagnet lifting scrap metal
+Powerful electromagnets are commonly used for industrial lifting.
+Here, a magnet is lifting scrap iron and loading it onto a railroad car for transporting to a scrap iron recovery plant.
+Other uses for lifting magnets include moving cars in a junk yard, lifting rolls of steel sheeting, and lifting large steel parts for various machines.
+Electromagnets are usually used for these jobs because they are magnets only when the electric current is on.
+The magnet will hold the iron object when the current is on and release it when the current is off.
+Electric Currents and Magnetic Fields
+Electricity and magnetism are inextricably linked.
+Under certain conditions, electric current causes a magnetic field.
+Under other conditions, a magnetic field can cause an electric current.
+A moving charged particle creates a magnetic field around it.
+Additionally, when a moving charged particle moves through a different magnetic field, the two magnetic fields will interact.
+The result is a force exerted on the moving charged particle.

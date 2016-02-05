@@ -1,0 +1,20 @@
+Bernoulli’s law provides the answer.
+Look at the wings of the plane and hawk in the Figure below .
+The shape of the wings causes air to flow more slowly below them than above them.
+This causes air pressure to be greater below the wings than above them.
+The difference in air pressure lifts the plane or bird above the ground.
+Airplanes and birds fly using Bernoulli's law
+Q :
+How does a spoiler on a racecar use Bernoulli’s law?
+A :
+A spoiler on a racecar is like an upside-down wing.
+Its shape causes air to flow more slowly—and air pressure to be greater—above the spoiler than below it.
+As a result, air pressure pushes the car downward, helping it to stay on the track.
+Bernoulli’s law states that the pressure of a moving fluid such as air is less when the fluid is moving faster.
+Bernoulli’s law explains how wings of airplanes and birds create lift and allow them to fly.
+Use Bernoulli’s law to explain what you observe in the demonstrations at this URL:
+Click on the image above for more content
+What is Bernoulli’s law?
+Explain how the wings of an airplane create lift that allows the plane to leave the ground.
+Define buoyant force.
+Explain how weight and buoyant force determine whether an object floats.

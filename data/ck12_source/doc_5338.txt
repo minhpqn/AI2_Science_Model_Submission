@@ -1,0 +1,20 @@
+This process begins with the information in a gene being transcribed into an RNA molecule, a process called transcription.
+Gene Expression.
+Shown is the process beginning with the DNA molecule in the nucleus and ending with the protein in the cytoplasm.
+Transcription produces the mRNA molecule, which carries the genetic instructions from the nucleus to the cytoplasm.
+gene :
+A segment of DNA that contains the information necessary to encode an RNA molecule or a protein.
+gene expression :
+The process by which the information in a gene is "decoded" to produce a functional gene product, such as an RNA molecule or a polypeptide/protein molecule.
+protein synthesis :
+The process in which cells make proteins; includes transcription of DNA and translation of mRNA.
+Ribonucleic acid (RNA) :
+Single-stranded nucleic acid; involved in protein synthesis.
+transcription :
+The process of making mRNA from the information in the DNA (gene) sequence.
+RNA is the middle player in the central dogma of molecular biology.
+RNA carries the genetic instructions from the nucleus to the cytoplasm.
+Use this resource to answer the questions that follow.
+What did this year's winners of the Nobel Prize in medicine discover? at
+What did Andrew Fire and Craig Mello discover to receive the Nobel Prize?
+What is the function of mRNA?

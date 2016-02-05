@@ -1,0 +1,20 @@
+Use the order of fill diagram to draw an orbital filling diagram with a total of six electrons.
+Follow Hund’s rule.
+Write the electron configuration.
+Step 2:
+Construct Diagram
+Orbital filling diagram of carbon
+Orbital filling diagram for carbon.
+Electron configuration 1 s 2 2 s 2 2 p 2
+Step 3:
+Think about your result.
+Following the 2 s sublevel is the 2 p , and p sublevels always consist of three orbitals.
+All three orbitals need to be drawn even if one or more is unoccupied.
+According to Hund’s rule, the sixth electron enters the second of those p orbitals and with the same spin as the fifth electron.
+Second Period Elements
+Periods refer to the horizontal rows of the periodic table.
+Looking at a periodic table you will see that the first period contains only the elements hydrogen and helium.
+This is because the first principal energy level consists of only the s sublevel and so only two electrons are required in order to fill the entire principal energy level.
+Each time a new principal energy level begins, as with the third element lithium, a new period is started on the periodic table.
+As one moves across the second period, electrons are successively added.
+With beryllium (Z = 4), the 2 s sublevel is complete and the 2 p sublevel begins with boron (Z = 5).

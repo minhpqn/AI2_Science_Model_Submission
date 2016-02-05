@@ -1,0 +1,20 @@
+Write the products of decomposition reactions when given the reactant.
+Write the reactant of a decomposition reaction when given the products.
+Apparatus used by Lavoisier to study the decomposition of mercuric oxide
+How does a decomposition reaction work?
+Antoine Lavoisier is widely known as the “father of modern chemistry”.
+He was one of the first to study chemical reactions in detail.
+Lavoisier reacted mercury with oxygen to form mercuric oxide as part of his studies on the composition of the atmosphere.
+He was then able to show that the decomposition of mercuric oxide produced mercury and oxygen.
+The diagram above shows the apparatus used by Lavoisier to study the formation and decomposition of mercuric oxide.
+A decomposition reaction is a reaction in which a compound breaks down into two or more simpler substances.
+The general form of a decomposition reaction is:
+AB \rightarrow A+B
+Most decomposition reactions require an input of energy in the form of heat, light, or electricity.
+Binary compounds are compounds composed of just two elements.
+The simplest kind of decomposition reaction is when a binary compound decomposes into its elements.
+Mercury(II) oxide, a red solid, decomposes when heated to produce mercury and oxygen gas.
+2\text{HgO}(s) \rightarrow 2\text{Hg}(l)+\text{O}_2(g)
+Mercury oxide decomposes into mercury and oxygen
+Mercury(II) oxide is a red solid.
+When it is heated, it decomposes into mercury metal and oxygen gas.

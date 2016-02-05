@@ -1,0 +1,20 @@
+What is its speed when it gets to the bottom of the cliff?
+\sqrt{ \frac{2g}{h} }
+None of the above
+In the picture above, a 9.0 \;\mathrm{kg} baby on a skateboard is about to be launched horizontally.
+The spring constant is 300 \;\mathrm{N/m} and the spring is compressed 0.4 \;\mathrm{m} .
+For the following questions, ignore the small energy loss due to the friction in the wheels of the skateboard and the rotational energy used up to make the wheels spin.
+What is the speed of the baby after the spring has reached its uncompressed length?
+After being launched, the baby encounters a hill 7 \;\mathrm{m} high.
+Will the baby make it to the top?
+If so, what is his speed at the top?
+If not, how high does he make it?
+Are you finally convinced that your authors have lost their minds?
+Look at that picture!
+When the biker is at the top of the ramp shown above, he has a speed of 10 \;\mathrm{m/s} and is at a height of 25\;\mathrm{m} .
+The bike and person have a total mass of 100 \;\mathrm{kg} .
+He speeds into the contraption at the end of the ramp, which slows him to a stop.
+What is his initial total energy? (Hint:
+Set U_g = 0 at the very bottom of the ramp.)
+What is the length of the spring when it is maximally compressed by the biker? (Hint:
+The spring does not compress all the way to the ground so there is still some gravitational potential energy.

@@ -1,0 +1,20 @@
+Your class is building boats out of aluminum foil.
+One group fashions a boat with a square 10 \;\mathrm{cm} by 10\;\mathrm{cm} bottom and sides 1 \;\mathrm{cm} high.
+They begin to put 2.5 \;\mathrm{g} coins in the boat, adding them until it sinks.
+Assume they put the coins in evenly so the boat doesn’t tip.
+How many coins can they put in? (You may ignore the mass of the aluminum boat … assume it is zero.)
+You are riding a hot air balloon.
+The balloon is a sphere of radius 3.0 \;\mathrm{m} and it is filled with hot air.
+The density of hot air depends on its temperature: assume that the density of the hot air is 0.925 \;\mathrm{kg/m}^3 , compared to the usual 1.29 \;\mathrm{kg/m}^3 for air at room temperature.
+The balloon and its payload (including you) have a combined mass of 100 \;\mathrm{kg} .
+Draw a free body diagram for the cube.
+Is the balloon accelerating upward or downward?
+What is the magnitude of the acceleration?
+Why do hot air ballooners prefer to lift off in the morning?
+What would limit the maximum height attainable by a hot air balloon?
+You are doing an experiment in which you are slowly lowering a tall, empty cup into a beaker of water.
+The cup is held by a string attached to a spring scale that measures tension.
+You collect data on tension as a function of depth.
+The mass of the cup is 520 \;\mathrm{g} , and it is long enough that it never fills with water during the experiment.
+The data Table ( below was collected; use it to complete the following problems:
+Complete the chart ( Table below ) by calculating the buoyant force acting on the cup at each depth.

@@ -1,0 +1,20 @@
+\Delta H_5=1.87 \text{ J/g}^\circ \text{C} \times 36.04 \text{ g} \times 40^\circ \text{C} \times \frac{1 \text{ kJ}}{1000 \text{ J}}=2.70 \text{ kJ}
+\Delta H_{\text{total}}= \Delta H_1+ \Delta H_2+\Delta H_3+ \Delta H_4+ \Delta H_5=113.4 \text{ kJ}
+Step 3:
+Think about your result .
+The total heat absorbed as the ice at -30°C is heated to steam at 140°C is 113.4 kJ.
+The largest absorption of heat comes during the vaporization of the liquid water.
+Multi-step calculations for changes of state are described.
+Watch the video below and answer the following questions:
+Click on the image above for more content
+What is the specific heat of ice?
+Why do you need the mass of ice?
+What happens if you leave out the energy for a phase change?
+Why are two different sets of units used?
+What other units problem do you need to be aware of?
+What would you need to know to do calculations like this for acetone?
+Heat of Solution
+Define heat of solution.
+Perform heat of solution calculations.
+Acid should always be added to water because a large amount of heat can be released
+How do you make solutions safely?

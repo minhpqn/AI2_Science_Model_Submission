@@ -1,0 +1,20 @@
+Simple Harmonic Motion
+The Big Idea
+The development of devices to measure time, like the pendulum, led to the analysis of periodic motion .
+Such motion repeats itself in equal intervals of time (called periods) and is also referred to as harmonic motion.
+When an object moves back and forth over the same path in harmonic motion it is said to be oscillating.
+If the distance such an object travels in one oscillation remains constant, it is called simple harmonic motion (SHM).
+A grandfather clock’s pendulum and the quartz crystal in a modern watch are examples of SHM.
+Harmonic Period and Frequency
+Describe the concepts of period and frequency.
+Read the period and frequency off a graph and calculate them for systems in harmonic motion.
+Students will learn the concepts of period and frequency and how to read them off a graph and how to calculate them for systems in harmonic motion.
+In addition, students will learn how to graph simple harmonic motion.
+\mathrm{Period~Equations} \begin{cases} T = \frac{1}{f} & \mathrm{Period~is~the~inverse~of~frequency}\\\ T_{\mathrm{spring}} = 2\pi\sqrt{\frac{m}{k}} & \mathrm{Period~of~mass~} m \mathrm{~on~a~spring~with~constant~} k\\\ T_{\mathrm{pendulum}} = 2\pi\sqrt{\frac{L}{g}} & \mathrm{Period~of~a~pendulum~of~length~} L \end{cases}
+\mathrm{Kinematics~of~SHM} \begin{cases} x(t) = x_0 + A\cos{2\pi f(t-t_0)} & \mathrm{Position~of~an~object~in~SHM~of~Amplitude~}A\\\ v(t) = -2\pi f A\cos{2\pi f(t-t_0)} & \mathrm{Velocity~of~an~object~in~SHM~of~Amplitude~}A \end{cases}
+A bee flaps its wings at a rate of approximately 190 Hz.
+How long does it take for a bee to flap its wings once (down and up)?
+Question:
+T = ? [sec]
+Given: f = 190 \ Hz
+Equation:

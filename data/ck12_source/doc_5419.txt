@@ -1,0 +1,20 @@
+repressor :
+A protein that binds to non-coding sequences on the DNA (operator) that are close to or overlap the promoter region, impeding RNA polymerase's progress along the strand.
+specificity factor :
+Protein that alters the specificity of RNA polymerase for a promoter or set of promoters, making it more or less likely to bind to the promoter and begin transcription.
+TATA box :
+A cis-regulatory element found in the promoter of most eukaryotic genes; when the appropriate cellular signals are present, RNA polymerase binds to the TATA box, completing the initiation complex.
+trans-acting factor :
+A protein involved in regulating gene expression that binds to a cis-regulatory element.
+transcription factor :
+A protein involved in regulating gene expression; usually bound to a cis-regulatory element on the DNA; also known as a regulatory protein or a trans-acting factor.
+A cis-regulatory element is a region of DNA which regulates the expression of a gene or multiple genes located on that same strand of DNA.
+The cis-regulatory elements are often binding sites for one or more trans-acting factors, usually a regulatory protein which interacts with RNA polymerase.
+Repressor proteins bind to non-coding sequences on the DNA that are close to or overlap the promoter region, impeding RNA polymerase's progress along the strand.
+Enhancers are sites on the DNA strand that are bound by activators.
+Common cis-regulatory elements include the TATA box, Pribnow box and CCAAT box.
+How do cis-regulatory elements and a trans-acting factors work together?
+Define a transcription factor.
+Describe common cis-regulatory elements.
+Compare the TATA box, Pribnow box and CCAAT box.
+Identify the five mechanisms of transcriptional regulation.

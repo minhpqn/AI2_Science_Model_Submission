@@ -1,0 +1,20 @@
+The translational machinery “reads” the mRNA base by base until a AUG start codon is identified.
+The mRNA is then translated codon by codon until it reaches a stop codon .
+Stop codons are not associated with a tRNA or amino acid and signal the end of translation.
+There are three stop codons:
+UAG, UGA, UAA.
+Stop codons are also known as termination codons.
+The Reading Frame
+The reading frame is the frame of three bases in which the mRNA is read and translated.
+Every sequence can be read in three reading frames, each of which will produce a different amino acid sequence.
+For example, in the sequence GCAUGGGGGUCUAG, the reading frame can begin with either the first G, the first C, or the first A.
+As stated above, translation starts with the start codon which consists of the three bases AUG.
+Each subsequent codon is translated until an "in-frame" stop codon is reached.
+In the example above, the polypeptide sequence would be: methionine – glycine – valine – stop.
+Mutations that disrupt the reading frame by insertions or deletions of a non-multiple of 3 nucleotide bases are known as frameshift mutations .
+Take the example THEBIGFATCATATETHEREDRAT.
+Broken into codons, this example would be easily read as:
+THE BIG FAT CAT ATE THE RED RAT.
+However, a deletion mutation that disrupts the reading frame, results in a message that does not make any sense.
+If the ‘B’ is deleted:
+THE IGF ATC ATA TET HER EDR AT.

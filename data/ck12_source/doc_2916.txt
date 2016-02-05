@@ -1,0 +1,20 @@
+Sometimes an individual has a phenotype between the two parents because one allele is not dominant over another.
+This pattern of inheritance is called incomplete dominance .
+For example, snapdragon flowers show incomplete dominance.
+One of the genes for flower color in snapdragons has two alleles, one for red flowers and one for white flowers.
+A plant that is homozygous for the red allele ( RR ) will have red flowers, while a plant that is homozygous for the white allele will have white flowers ( WW ).
+But the heterozygote will have pink flowers ( RW ) ( Figure below ) as both alleles are expressed.
+Neither the red nor the white allele is dominant, so the phenotype of the offspring is a blend of the two parents.
+Pink snapdragons are an example of incomplete dominance
+Pink snapdragons are an example of incomplete dominance.
+Another example of incomplete dominance is with sickle cell anemia, a disease in which a blood protein called hemoglobin is produced incorrectly.
+This causes the red blood cells to have a sickle shape, making it difficult for these misshapen cells to pass through the smallest blood vessels.
+A person that is homozygous recessive ( ss ) for the sickle cell trait will have red blood cells that all have the incorrect hemoglobin.
+A person who is homozygous dominant ( SS ) will have normal red blood cells.
+What type of blood cells do you think a person who is heterozygous ( Ss ) for the trait will have?
+They will have some misshapen cells and some normal cells ( Figure below ).
+Both the dominant and recessive alleles are expressed, so the result is a phenotype that is a combination of the recessive and dominant traits.
+Image of blood cell caused by sickle-cell anemia
+Sickle cell anemia causes red blood cells to become misshapen and curved unlike normal, rounded red blood cells.
+Another exception to Mendel's laws is a phenomenon called codominance .
+For example, our blood type shows codominance.

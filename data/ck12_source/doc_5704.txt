@@ -1,0 +1,20 @@
+State the deBroglie wave equation.
+What happens as the speed of the electron decreases?
+de Broglie wave equation: \lambda=\frac{h}{mv} .
+quantize:
+Limit the possible values of (a magnitude or quantity) to a discrete set of values by quantum mechanical rules.
+How do you study something that seemingly makes no sense?
+We talk about electrons being in orbits and it sounds like we can tell where that electron is at any moment.
+We can draw pictures of electrons in orbit, but the reality is that we just don’t know exactly where they are.
+We are going to take a quick look at an area of science that even leaves scientists puzzled.
+When asked about quantum mechanics, Niels Bohr (who proposed the Bohr model of the atom) said: “Anyone who is not shocked by quantum theory has not understood it”.
+Richard Feynman (one of the founders of modern quantum theory) stated: “I think I can safely say that nobody understands quantum theory”.
+So, let’s take a short trip into a land that challenges our every-day world.
+The study of motion of large objects such as baseballs is called mechanics, or more specifically classical mechanics.
+Because the quantum nature of the electron and other tiny particles moving at high speeds, classical mechanics is inadequate to accurately describe their motion.
+Quantum mechanics is the study of the motion of objects that are atomic or subatomic in size and thus demonstrate wave-particle duality.
+In classical mechanics, the size and mass of the objects involved effectively obscures any quantum effects so that such objects appear to gain or lose energies in any amounts.
+Particles whose motion is described by quantum mechanics gain or lose energy in the small pieces called quanta .
+One of the fundamental (and hardest to understand) principles of quantum mechanics is that the electron is both a particle and a wave.
+In the everyday macroscopic world of things we can see, something cannot be both.
+But this duality can exist in the quantum world of the submicroscopic at the atomic scale.

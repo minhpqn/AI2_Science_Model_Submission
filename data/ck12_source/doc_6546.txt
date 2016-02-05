@@ -1,0 +1,20 @@
+The Figure below shows two possibilities for the puckered cyclohexane molecule.
+Each of the structures is called a conformation.
+The conformation on the right is called the boat conformation, while the one on the left is called the chair conformation.
+Chair and boat conformations of cyclohexane
+Chair (left) and boat (right) conformations for cyclohexane.
+While both conformations reduce the ring strain compared to a planar molecule, the chair is preferred.
+This is because the chair conformation results in fewer repulsive interactions between the hydrogen atoms.
+However, interconversion readily occurs between the two conformations.
+Larger cycloalkanes also exist, but are less common.
+Cyclic hydrocarbons may also be unsaturated.
+A cycloalkene is a cyclic hydrocarbon with at least one carbon-carbon double bond.
+A cycloalkyne is a cyclic hydrocarbon with at least one carbon-carbon triple bond.
+Shown below are the simplified structural formulas for cyclohexene and cyclooctyne.
+Examples of a cycloalkene and a cycloalkyne
+Definition of cyclic hydrocarbon and cyclic alkane are given.
+Names and structures of typical cyclic hydrocarbons are given.
+Name the compounds at the link below:
+Why is cyclopropane so reactive?
+Why is cyclopentane stable?
+Name the two forms of cyclohexane.

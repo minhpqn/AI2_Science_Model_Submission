@@ -1,0 +1,20 @@
+Kinetic energy is the energy of moving matter.
+Anything that is moving has kinetic energy—from atoms in matter to stars in outer space.
+Things with kinetic energy can do work.
+For example, the spinning saw blade in the photo above is doing the work of cutting through a piece of metal.
+Calculating Kinetic Energy
+The amount of kinetic energy in a moving object depends directly on its mass and velocity.
+An object with greater mass or greater velocity has more kinetic energy.
+You can calculate the kinetic energy of a moving object with this equation:
+\mathrm{Kinetic\;
+Energy\; (KE)=\frac{1}{2} mass \times velocity^2}
+This equation shows that an increase in velocity increases kinetic energy more than an increase in mass.
+If mass doubles, kinetic energy doubles as well, but if velocity doubles, kinetic energy increases by a factor of four.
+That’s because velocity is squared in the equation.
+Let’s consider an example.
+The Figure below shows Juan running on the beach with his dad.
+Juan has a mass of 40 kg and is running at a velocity of 1 m/s.
+How much kinetic energy does he have?
+Substitute these values for mass and velocity into the equation for kinetic energy:
+\text{KE}=\frac{1}{2} \times 40 \ \text{kg} \times (1\frac{\text{m}}{\text{s}})^2=20 \ \text{kg} \times \frac{\text{m}^2}{\text{s}^2}=20 \ \text{N} \cdot \text{m}, or 20 \ \text{J}
+Notice that the answer is given in joules (J), or N • m, which is the SI unit for energy.

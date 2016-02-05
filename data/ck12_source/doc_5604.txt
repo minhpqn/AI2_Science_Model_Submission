@@ -1,0 +1,20 @@
+How many liters of solution should he prepare?
+Step 1:
+List the known quantities and plan the problem.
+1 exp requires 120 mL
+1 L = 1000 mL
+L of solution for 40 exp
+Since each experiment requires 120 ml of solution and the teacher needs to prepare enough for 40 experiments, multiply 120 by 40 to get 4800 mL of solution needed.
+Now you must convert ml to L by using a conversion factor.
+Step 2:
+Calculate
+4800 \ \text{mL} \times \frac{1 \ \text{L}}{1000 \ \text{mL}}=4.8 \ \text{L}
+Note that conversion factor is arranged so that the mL unit is in the denominator and thus cancels out, leaving L as the remaining unit in the answer.
+Step 3:
+Think about your result.
+A liter is much larger than a milliliter, so it makes sense that the number of liters required is less than the number of milliliters.
+Two-Step Metric Unit Conversions
+Some metric conversion problems are most easily solved by breaking them down into more than one step.
+When both the given unit and the desired unit have prefixes, one can first convert to the simple (unprefixed) unit, followed by a conversion to the desired unit.
+An example will illustrate this method.
+Sample Problem 3.3:

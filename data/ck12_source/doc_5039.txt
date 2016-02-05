@@ -1,0 +1,20 @@
+How Do Chloroplasts Convert Light Energy to Chemical Energy?
+Excited electrons which have absorbed light energy are unstable.
+However, the highly organized electron carrier molecules embedded in chloroplast membranes order the flow of these electrons, directing them through electron transport chains (ETCs).
+At each transfer, small amounts of energy released by the electrons are captured and put to work or stored.
+Some is also lost as heat with each transfer, but overall the light reactions are extremely efficient at capturing light energy and transforming it to chemical energy.
+Two sequential transport chains harvest the energy of excited electrons, as shown in Figure below .
+First, starting with photosystem II, electrons pass down an ETC which captures their energy and uses it to pump hydrogen ions by active transport into the thylakoids.
+These concentrated ions store potential energy by forming a chemiosmotic gradient or electrochemical gradient – a higher concentration of both positive charge and hydrogen inside the thylakoid than outside.
+The gradient formed by the H + ions is known as a chemiosmotic gradient.
+Picture this energy buildup of H + as a dam holding back a waterfall.
+Like water flowing through a hole in the dam, hydrogen ions “slide down” their concentration gradient through a membrane protein which acts as both ion channel and enzyme.
+As they flow, the ion channel/enzyme ATP synthase uses their energy to chemically bond a phosphate group to ADP, making ATP.
+Light re-energizes the electrons in photosystem I, and they travel down a second electron transport chain (ETC), eventually bonding hydrogen ions to NADP + to form a more stable energy storage molecule, NADPH.
+NADPH is sometimes called “hot hydrogen,” and its energy and hydrogen atoms will be used to help build sugar in the second stage of photosynthesis.
+Whereas photosystem II has an absorption maximum at 680nm, photosystem I has an absorption maximum at 700nm, and is known as P700.
+Membrane architecture:
+The large colored carrier molecules form electron transport chains that capture small amounts of energy from excited electrons in order to store it in ATP and NADPH.
+Follow the energy pathways: light → electrons → NADPH (blue line) and light → electrons → concentrated H + → ATP (red line).
+Note the intricate organization of the chloroplast.
+NADPH and ATP molecules now store the energy from excited electrons – energy which was originally sunlight – in chemical bonds.

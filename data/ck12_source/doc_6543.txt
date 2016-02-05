@@ -1,0 +1,20 @@
+In order for geometric isomers to exist, there must be a rigid structure in the molecule to prevent free rotation around a bond.
+If the double bond in an alkene was capable of rotating, the two geometric isomers above would not exist.
+In addition, the two carbon atoms must each have two different groups attached in order for there to be geometric isomers.
+Propene has no geometric isomers because one of the carbon atoms has two single hydrogens bonded to it.
+Propene has no structural isomers
+Physical and chemical properties of geometric isomers are generally different.
+While cis -2-butene is a polar molecule, trans -2-butene is nonpolar.
+Heat or irradiation with light can be used to bring about the conversion of one geometric isomer to another.
+The input of energy must be large enough to break the pi bond between the two carbon atoms, which is weaker than the sigma bond.
+At that point, the now single bond is free to rotate and the isomers can interconvert.
+As with alkenes, alkynes display structural isomerism beginning with 1-butyne and 2-butyne.
+However, there are no geometric isomers with alkynes because there is only one other group bonded to the carbon atoms that are involved in the triple bond.
+Structural and geometric isomers are defined.
+Examples of alkane and alkene isomers are given.
+Watch the video at the link below and answer the following questions:
+Click on the image above for more content
+What does the molecular formula tell us?
+What does the structural formula tell us?
+What do you add to the name if two double bonds are present in the molecule?
+What is a structural isomer?

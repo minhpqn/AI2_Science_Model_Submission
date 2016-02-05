@@ -1,0 +1,20 @@
+Not all colors of light are used in photosynthesis (solid line).
+Most plants, algae, and photosynthetic bacteria appear green because they reflect green wavelengths.
+Their pigments have absorbed the violet-blue and red wavelengths.
+The amount of photosynthesis depends on the wavelength of light available.
+Beta-carotene is another type of pigment that absorbs sunlight.
+The pigment molecule chlorophyll of leaf cells appears green because its electrons absorb blue-violet and red light and reflect green, orange, and yellow light.
+There are actually several different kinds of chlorophyll (a,b, and d) in plants.
+Each kind of pigment absorbs specific wavelengths (colors) of light.
+Sunlight contains many different wavelengths, which you see when they separate into a rainbow.
+Not all colors of light are used in photosynthesis.
+Most plants, algae, and photosynthetic bacteria appear green because they reflect green wavelengths.
+Their pigments have absorbed the violet-blue and red wavelengths.
+The amount of photosynthesis depends on the wavelength of light available.
+Cartenoids are also pigments that absorb sunlight.
+When light strikes chlorophyll (or an accessory pigment) within the chloroplast, the energy is absorbed and transferred to electrons in the chlorophyll.
+Essentially, sunlight energizes or "excites," electrons within the chlorophyll molecule.
+Photosystem II is also known as P680, with P standing for pigment and 680 referring to the absorption maximum in the red part of the visible spectrum (680 nm).
+The primary electron donor in P680 receives excitation energy by absorbing a photon of light.
+These excited electrons jump up to higher energy levels and enter the electron transport chain ; they have absorbed or captured, and now carry, that energy.
+These high energy electrons are holding the energy that will be be transferred to glucose.

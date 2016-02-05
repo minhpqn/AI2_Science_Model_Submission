@@ -1,0 +1,20 @@
+What does Le Châtelier’s principle state?
+If the forward reaction is favored in the equilibrium, what will increase?
+If the reverse reaction is favored in the equilibrium, what will increase?
+Le Châtelier’s principle:
+When a chemical system that is at equilibrium is disturbed by a stress, the system will respond in order to relieve the stress.
+Effect of Concentration
+Describe the effects of concentration changes on the equilibrium of a reaction.
+The pH in a solution can be influenced by the addition or removal of H+ ions
+Phenolphthalein is one of those chemicals that has one structure in a high acid environment and another structure in a low acid environment.
+If the hydrogen ion concentration is high, the compound is colorless, but turns red if the hydrogen ion concentration is low.
+By adding hydrogen ions to the solution or removing them through a chemical reaction, we can vary the color of the dye.
+Effect of Concentration
+A change in concentration of one of the substances in an equilibrium system typically involves either the addition or the removal of one of the reactants or products.
+Consider the Haber-Bosch process for the industrial production of ammonia from nitrogen and hydrogen gases.
+\text{N}_2(g)+3\text{H}_2(g) \rightleftarrows 2\text{NH}_3(g)
+If the concentration of one substance in a system is increased, the system will respond by favoring the reaction that removes that substance.
+When more N 2 is added, the forward reaction will be favored because the forward reaction uses up N 2 and converts it to NH 3 .
+The forward reaction speeds up temporarily as a result of the addition of a reactant.
+The position of equilibrium shifts as more NH 3 is produced.
+The concentration of NH 3 increases, while the concentrations of N 2 and H 2 decrease.

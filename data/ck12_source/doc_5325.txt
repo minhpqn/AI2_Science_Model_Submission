@@ -1,0 +1,20 @@
+This molecular diversity added evidence that DNA could be the genetic material.
+The following Table below is a representation of Erwin Chargaff's 1952 data.
+This table lists the base composition of DNA from various organisms.
+Data from this table supports both of Chargaff's rules.
+Click on the image above to view the table
+adenine :
+A purine base found in DNA paired with thymine and in RNA paired with uracil.
+base pair :
+Two nitrogenous bases on opposite complementary DNA strands; connected by hydrogen bonds; may also occur in certain types of RNAs.
+Chargaff's rules :
+State that DNA from any cell of all organisms should have a 1:1 ratio of pyrimidine and purine bases; specifically, the amount of guanine is equal to cytosine and the amount of adenine is equal to thymine.
+cytosine :
+A pyrimidine base found in DNA and RNA paired with guanine.
+guanine :
+A purine base found in DNA and RNA paired with cytosine.
+nucleotide :
+Monomer of nucleic acids, composed of a nitrogen-containing base, a five-carbon sugar, and a phosphate group.
+purine :
+Nitrogenous bases consisting of two ring structures; adenine and guanine.
+pyrimidine :

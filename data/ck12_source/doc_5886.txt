@@ -1,0 +1,20 @@
+Another characteristic property of ionic compounds is their electrical conductivity.  The figure below shows three experiments in which two electrodes that are connected to a light bulb are placed in beakers containing three different substances.
+Electrical conductivity of pure water, a solid ionic compound, and an ionic solution
+(A) Distilled water does not conduct electricity. (B) A solid ionic compound also does not conduct. (C) A water solution of an ionic compound conducts electricity well.
+In the first beaker, distilled water does not conduct a current because water is a molecular compound.  In the second beaker, solid sodium chloride also does not conduct a current.  Despite being ionic and thus composed of charges particles, the solid crystal lattice does not allow the ions to move between the electrodes.  Mobile charged particles are required for the circuit to be complete and the light bulb to light up.  In the third beaker, the NaCl has been dissolved into the distilled water.  Now the crystal lattice has been broken apart and the individual positive and negative ions can move.  Cations move to one electrode, while anions move to the other, allowing electricity to flow (see Figure below ).  Melting an ionic compound also frees the ions to conduct a current.  Ionic compounds conduct an electric current when melted or dissolved in water.
+Diagram of ions in an ionic solution when an electrical current is applied
+In an ionic solution, the A + ions migrate toward the negative electrode, while the B − ions migrate toward the positive electrode.
+Ionic compounds have high melting points.
+Ionic compounds are hard and brittle.
+Solutions of ionic compounds and melted ionic compounds conduct electricity, but solid materials do not.
+Watch the video at the link below and answer the following questions:
+Click on the image above for more content
+Do all ionic compounds form crystals?
+Will melted ionic compounds conduct electricity?
+What are the melting and boiling points of KI?
+Why are ionic compounds brittle?
+Why are melting points high for ionic compounds?
+What happens when an electric current is passed through a solution of an ionic compound?
+brittle:
+Easily broken, cracked, or snapped.
+electrical conductivity:

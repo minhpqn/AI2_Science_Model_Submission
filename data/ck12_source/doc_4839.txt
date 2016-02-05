@@ -1,0 +1,20 @@
+In photosynthesis, cells use the energy in sunlight to change water and carbon dioxide into glucose (C 6 H 12 O 6 ) and oxygen (O 2 ).
+This is an anabolic reaction, represented by the chemical equation:
+6 CO 2 + 6 H 2 O + energy → C 6 H 12 O 6 + 6 O 2 .
+In cellular respiration, cells break down glucose in the presence of oxygen and release energy, water, and carbon dioxide.
+This is a catabolic reaction, represented by the chemical equation:
+C 6 H 12 O 6 + 6 O 2 → 6 CO 2 + 6 H 2 O + energy
+Two other types of reactions that occur in organisms and involve water are dehydration and hydration reactions.
+A dehydration reaction occurs when molecules combine to form a single, larger molecule and also a molecule of water. (If some other small molecule is formed instead of water, the reaction is called by the more general term, condensation reaction .) It is a type of anabolic reaction.
+An example of a dehydration reaction is the formation of peptide bonds between amino acids in a polypeptide chain.
+When two amino acids bond together, a molecule of water is lost.
+This is shown in Figure below .
+In this dehydration reaction, two amino acids form a peptide bond.
+A water molecule also forms.
+A hydration reaction is the opposite of a dehydration reaction.
+A hydration reaction adds water to an organic molecule and breaks the large molecule into smaller molecules.
+Hydration reactions occur in an acidic water solution.
+An example of hydration reaction is the breaking of peptide bonds in polypeptides.
+A hydroxide ion (OH - ) and a hydrogen ion (H + ) (both from a water molecule) bond to the carbon atoms that formed the peptide bond.
+This breaks the peptide bond and results in two amino acids.
+Water is essential for all of these important chemical reactions in organisms.

@@ -1,0 +1,20 @@
+Bohr proposed that electrons do not radiate energy as they orbit the nucleus, but exist in states of constant energy which he called stationary states .
+This means that the electrons orbit at fixed distances from the nucleus (see Figure below ).
+Bohr’s work was primarily based on the emission spectra of hydrogen.
+This is also referred to as the planetary model of the atom.
+It explained the inner workings of the hydrogen atom.
+Bohr was awarded the Nobel Prize in physics in 1922 for his work.
+Bohr's atomic model hydrogen emission spectra
+Bohr’s atomic model hydrogen emission spectra.
+Bohr explained that electrons can be moved into different orbits with the addition of energy.
+When the energy is removed, the electrons return back to their ground state, emitting a corresponding amount of energy – a quantum of light, or photon.
+This was the basis for what later became known as quantum theory .
+This is a theory based on the principle that matter and energy have the properties of both particles and waves.
+It accounts for a wide range of physical phenomena, including the existence of discrete packets of energy and matter, the uncertainty principle, and the exclusion principle.
+According to the Bohr model, often referred to as a planetary model , the electrons encircle the nucleus of the atom in specific allowable paths called orbits.
+When the electron is in one of these orbits, its energy is fixed.
+The ground state of the hydrogen atom, where its energy is lowest, is when the electron is in the orbit that is closest to the nucleus.
+The orbits that are further from the nucleus are all of successively greater energy.
+The electron is not allowed to occupy any of the spaces in between the orbits.
+An everyday analogy to the Bohr model is the rungs of a ladder.
+As you move up or down a ladder, you can only occupy specific rungs and cannot be in the spaces in between rungs.

@@ -1,0 +1,20 @@
+What is an electrochemical reaction?
+What type of chemical reaction is involved?
+What needs to be able to move in an electrochemical reaction?
+electrochemical cell:
+Any device that converts chemical energy into electrical energy or electrical energy into chemical energy.
+electrochemistry:
+A branch of chemistry that deals with the interconversion of chemical energy and electrical energy.
+Describe the structure and function of a voltaic cell.
+Luigi Galvani made the first voltaic cell
+What made it twitch?
+Luigi Galvani (1737-1798) was an Italian physician and scientist who did research on nerve conduction in animals.
+His accidental observation of the twitching of frog legs when they were in contact with an iron scalpel while the legs hung on copper hooks led to studies on electrical conductivity in muscles and nerves.
+He believed that animal tissues contained an “animal electricity” similar to the natural electricity that caused lightning to form.
+A voltaic cell is an electrochemical cell that uses a spontaneous redox reaction to produce electrical energy.
+Structure of a voltaic cell
+The voltaic cell (see Figure above ) consists of two separate compartments.
+A half-cell is one part of a voltaic cell in which either the oxidation or reduction half-reaction takes place.
+The left half-cell is a strip of zinc metal in a solution of zinc sulfate.
+The right half-cell is a strip of copper metal in a solution of copper(II) sulfate.
+The strips of metal are called electrodes.

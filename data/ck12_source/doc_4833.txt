@@ -1,0 +1,20 @@
+In pure water, the hydronium ion concentration is very low.
+Only about one in ten million water molecules naturally dissociates to form a hydronium ion in pure water.
+This gives water a pH of 7.
+The hydronium ions in pure water are also balanced by hydroxide ions, so pure water is neutral (neither an acid nor a base).
+Because pure water is neutral, any other solution with the same hydronium ion concentration and pH is also considered to be neutral.
+If a solution has a higher concentration of hydronium ions and lower pH than pure water, it is called an acid .
+If a solution has a lower concentration of hydronium ions and higher pH than pure water, it is called a base .
+Several acids and bases and their pH values are identified on the pH scale, which ranges from 0 to 14, in Figure below
+Acidity and the pH Scale.
+Water has a pH of 7, so this is the point of neutrality on the pH scale.
+Acids have a pH less than 7, and bases have a pH greater than 7.
+Approximate pHs of examples are depicted.
+The pH scale is a negative logarithmic scale.
+Because the scale is negative, as the ion concentration increases, the pH value decreases.
+In other words, the more acidic the solution, the lower the pH value.
+Because the scale is logarithmic, each one-point change in pH reflects a ten-fold change in the hydronium ion concentration and acidity.
+For example, a solution with a pH of 6 is ten times as acidic as pure water with a pH of 7.
+An acid can be defined as a hydrogen ion donor.
+The hydrogen ions bond with water molecules, leading to a higher concentration of hydronium ions than in pure water.
+For example, when hydrochloric acid (HCl) dissolves in pure water, it donates hydrogen ions (H + ) to water molecules, forming hydronium ions (H 3 O + ) and chloride ions (Cl - ).

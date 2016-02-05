@@ -1,0 +1,20 @@
+The second factor is the magnitude of the force pushing the top block down onto the lower block.
+It is reasonable that the more forcefully the blocks are pushed together, the more difficult it will be for one to slide over the other.
+The force pushing these blocks together is the result of gravity acting on the top block and pressing it against the bottom block, which resists the weight with an equal and opposite force called the normal force .
+The force of friction can be calculated by
+F_{\text{friction}} = \mu \times F_{\text{normal}} and the normal force will be equal to the force of gravity on the object, if the object is on a flat surface (one parallel to the ground).
+This is an approximate but reasonably useful and accurate relationship.
+It is not exact because \mu depends on a variety of factors, including whether the surface is wet or dry.
+The frictional force we have been discussing is referred to as sliding friction ; it is involved when one surface is sliding over another.
+If you have ever tried to slide a heavy object across a rough surface, you may be aware that it is a great deal easier to keep an object sliding than it is to start the object sliding in the first place.
+When the object to slide is resting on a surface with no movement, the force of friction is called static friction and it is somewhat greater than sliding friction.
+Surfaces that move against one another will have both a coefficient of static friction and a coefficient of sliding friction, and the two values will not be the same.
+For example, the coefficient of sliding friction for ice on ice is 0.03 whereas the coefficient of static friction for ice on ice is 0.10—more than three times as great .
+Example Problem:
+A box weighing 2000.
+N is sliding across a cement floor.
+The force pushing the box is 500.
+N, and the coefficient of sliding friction between the box and the floor is 0.20.
+What is the acceleration of the box?
+Solution:
+In this case, the box is sliding along the ground, so the normal force for the box is equal to its weight.

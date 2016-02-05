@@ -1,0 +1,20 @@
+Why?
+What can you infer about a species that has a random pattern of distribution over space?
+A uniform pattern?
+Define population growth.
+Describe age-sex structures.
+Relate population pyramids and survivorship curves to population structure.
+Young vs. old.
+Does it matter?
+When it comes to populations, yes it does.
+The age structure (and the sex structure) of a population influences population growth.
+Can you explain why?
+Population growth is the change in the size of the population over time.
+An important factor in population growth is age-sex structure .
+This is the number of individuals of each sex and age in the population.
+The age-sex structure influences population growth.
+This is because younger people are more likely to reproduce, while older people have higher rates of dying.
+Age-sex structure is represented by a population pyramid .
+This is a bar graph, like the one Figure below .
+In this example, the bars become narrower from younger to older ages.
+Can you explain why?

@@ -1,0 +1,20 @@
+The genetic information is a set of instructions that tell your cells what to do.
+DNA is an abbreviation for deoxyribonucleic acid .
+As you may recall, nucleic acids are a type of macromolecule that store information.
+The deoxyribo part of the name refers to the name of the sugar that is contained in DNA, deoxyribose.
+DNA may provide the instructions to make up all living things, but it is actually a very simple molecule.
+DNA is made of a very long chain of nucleotides.
+In fact, in you, the smallest DNA molecule has well over 20 million nucleotides.
+Nucleotides are composed of three main parts:
+a phosphate group.
+a 5-carbon sugar (deoxyribose in DNA).
+a nitrogen-containing base.
+The only difference between each nucleotide is the identity of the base.
+There are only four possible bases that make up each DNA nucleotide: adenine (A), guanine (G), thymine (T), and cytosine (C).
+The Genetic Code
+The various sequences of the four nucleotide bases make up the genetic code of your cells.
+It may seem strange that there are only four letters in the “alphabet” of DNA.
+But since your chromosomes contain millions of nucleotides, there are many, many different combinations possible with those four letters.
+But how do all these pieces fit together?
+James Watson and Francis Crick won the Nobel Prize in 1962 for piecing together the structure of DNA.
+Together with the work of Rosalind Franklin and Maurice Wilkins, they determined that DNA is made of two strands of nucleotides formed into a double helix , or a two-stranded spiral, with the sugar and phosphate groups on the outside, and the paired bases connecting the two strands on the inside of the helix ( Figure below ).

@@ -1,0 +1,20 @@
+This energy in NADPH is then used in the Calvin cycle.
+Where do the protons used in the light reactions come from?
+The protons used in the light reactions come from photolysis, the splitting of water, in which H 2 O molecules are broken into hydrogen ions, electrons, and oxygen atoms.
+In addition, the energy from sunlight is used to pump protons into the thylakoid lumen during the first electron transport chain, forming a chemiosmotic gradient.
+How do you distinguish between the Calvin cycle and the Krebs cycle?
+The Calvin cycle is part of the light-independent reactions of photosynthesis.
+The Calvin cycle uses ATP and NADPH.
+The Krebs cycle is part of cellular respiration.
+This cycle makes ATP and NAPH.
+Do photosynthesis and cellular respiration occur at the same time in a plant?
+Yes.
+Photosynthesis occurs in the chloroplasts, whereas cellular respiration occurs in the mitochondria.
+Photosynthesis makes glucose and oxygen, which are then used as the starting products for cellular respiration.
+Cellular respiration makes carbon dioxide and water (and ATP), which are the starting products (together with sunlight) for photosynthesis.
+A common student misconception is that plants photosynthesize only during daylight and conduct cellular respiration only at night.
+Some teaching literature even states this.
+Though it is true the light reactions can only occur when the sun is out, cellular respiration occurs continuously in plants, not just at night.
+The “dark reactions” of photosynthesis are a misnomer that often leads students to believe that photosynthetic carbon fixation occurs at night.
+This is not true.
+It is preferable to use the term Calvin cycle or light-independent reactions instead of dark reactions.

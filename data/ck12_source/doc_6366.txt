@@ -1,0 +1,20 @@
+When \Delta H is positive and \Delta S is negative, the sign of \Delta G will always be positive, and the reaction can never be spontaneous.
+This corresponds to both driving forces working against product formation.
+When one driving force favors the reaction, but the other does not, it is the temperature that determines the sign of \Delta G .
+Consider first an endothermic reaction (positive \Delta H ) that also displays an increase in entropy (positive \Delta S ).
+It is the entropy term that favors the reaction.
+Therefore, as the temperature increases, the T \Delta S term in the Gibbs free energy equation will begin to predominate and \Delta G will become negative.
+A common example of a process which falls into this category is the melting of ice.
+At a relatively low temperature (below 273 K), the melting is not spontaneous because the positive \Delta H term “outweighs” the T \Delta S term.
+When the temperature rises above 273 K, the process becomes spontaneous because the larger T value has tipped the sign of \Delta G over to being negative.
+When the reaction is exothermic (negative \Delta H ) but undergoes a decrease in entropy (negative \Delta S ), it is the enthalpy term that favors the reaction.
+In this case, a spontaneous reaction is dependent upon the T \Delta S term being small relative to the \Delta H term, so that \Delta G is negative.
+The freezing of water is an example of this type of process.
+It is spontaneous only at a relatively low temperature.
+Above 273 K, the larger T \Delta S value causes the sign of \Delta G to be positive, and freezing does not occur.
+Free energy is defined.
+Relationships between enthalpy, entropy, and free energy are described.
+Watch the video at the link and answer the following questions:
+Click on the image above for more content
+What is another term for free energy?
+What happens to the total energy when the ball rolls down the slide?

@@ -1,0 +1,20 @@
+Therefore, the density of matter can be calculated with this formula:
+\text{Density} = \frac{\text{mass}}{\text{volume}}
+Assume, for example, that a book has a mass of 500 g and a volume of 1000 cm 3 .
+Then the density of the book is:
+\text{Density} = \frac{500 \ \text{g}}{1000 \ \text{cm}^3} = 0.5 \ \text{g/cm}^3
+Q:
+What is the density of a liquid that has a volume of 30 mL and a mass of 300 g?
+A:
+The density of the liquid is:
+\text{Density} = \frac{300 \ \text{g}}{30 \ \text{mL}} = 10 \ \text{g/mL}
+Density is an important physical property of matter.
+It reflects how closely packed the particles of matter are.
+The density of matter can be calculated by dividing its mass by its volume.
+Go to this URL and take the calculating-density quiz.
+Be sure to check your answers!
+What is density?
+Find the density of an object that has a mass of 5 kg and a volume of 50 cm 3 .
+Create a sketch that shows the particles of matter in two substances that differ in density.
+Label the sketch to show which substance has greater density.
+Chemical Properties of Matter

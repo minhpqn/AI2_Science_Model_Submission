@@ -1,0 +1,20 @@
+When the carboxylic acid butanoic acid is heated with an excess of methanol and a few drops of sulfuric acid, the ester methyl butanoate is produced.
+Methyl butanoate has the scent of pineapples.
+The reaction is shown below with both molecular and structural formulas.
+Structure of an esterification reaction
+The esterification reaction is reversible.
+When an ester is heated in the presence of a strong base such as sodium hydroxide, the ester breaks down.
+The products are an alcohol and the conjugate base of the carboxylic acid as a salt.
+& \text{CH}_3\text{COOCH}_2 \text{CH}_3 + \text{NaOH} \rightarrow \text{CH}_3\text{COO}^- \text{Na}^+ + \text{CH}_3 \text{CH}_2 \text{OH}\\& \ \ \text{ethyl ethanoate} \qquad \qquad \qquad \quad \text{sodium acetate} \qquad \quad \text{ethanol}
+The sodium hydroxide is not acting as a catalyst, but is consumed in the reaction.
+Saponification describes the alkaline hydrolysis reaction of an ester.
+The term saponification originally described the hydrolysis of long-chain esters called fatty acid esters to produce soap molecules, which are the salts of fatty acids.
+One such soap molecule is sodium stearate, formed from the hydrolysis of ethyl stearate.
+& \text{C}_{17} \text{H}_{35} \text{COOC}_2 \text{H}_5 + \text{NaOH} \rightarrow \text{C}_{17} \text{H}_{35} \text{COO}^- \text{Na}^+ + \text{C}_2 \text{H}_5 \text{OH}\\& \quad \text{ethyl stearate} \qquad \qquad \qquad \qquad \ \ \text{sodium stearate (soap)}
+Condensation reaction is defined and an example is given.
+Esterification reaction is defined and an example is given.
+Read the material at the link below and answer the following questions:
+What is the catalyst for the ester synthesis reaction using a carboxylic acid and an alcohol?
+How can you get more ester product while preventing the reverse reaction from occurring?
+What other compounds could you react with alcohols' acids to form esters?
+What is a condensation reaction?

@@ -1,0 +1,20 @@
+The distance the moon moves away from the orbit line is exactly the same distance that the moon falls in the time period.
+This is true of all satellites and is the reason objects remain in orbit.
+In the case of orbiting bodies, the centripetal force is the gravitational force, and they undergo imperfect circular motion.
+Example Problem:
+Since we know the force of gravity on a 1.00 kg ball resting on the surface of the earth is 9.80 N, and we know the radius of the earth is 6380 km, we can use the equation for gravitational force to calculate the mass of the earth.
+Solution: m_e=\frac{Fd^2}{Gm_1}=\frac{(9.80 \ \text{m/s}^2)(6.38 \times 10^{6} \ \text{m})^2}{(6.67 \times 10^{-11} \ \text{N} \cdot \text{m}^2 / \text{kg}^2)(1.00 \ \text{kg})}=5.98 \times 10^{24} \ \text{kg}
+Sample Problem:
+John and Jane step onto the dance floor about 20. m apart at the Junior Prom and they feel an attraction to each other.
+If John’s mass is 70. kg and Jane’s mass is 50. kg, assume the attraction is gravity and calculate its magnitude.
+Solution:
+F_g=\frac{Gm_1m_2}{d^2}=\frac{(6.67 \times 10^{-11} \ \text{N} \cdot \text{m}^2 / \text{kg}^2)(70. \ \text{kg})(50. \ \text{kg})}{(20. \ \text{m})^2}=1.2 \times 10^{-8} \ \text{N}
+This is an extremely weak force; it is probably not the force of attraction they truly felt.
+Second Floor Gravity
+Does gravity effect everything at the same rate?
+Shown in this MIT video is an experiment that helps to answer that question:
+Click on the image above for more content
+Newton proposed the universal law of gravitational attraction as F=G \frac{m_1 m_2}{d^2} .
+The universal gravitational constant, G , was determined by Cavendish to be 6.67 × 10 -11 N·m 2 /kg 2 .
+Use this resource to answer the questions that follow.
+Click on the image above for more content

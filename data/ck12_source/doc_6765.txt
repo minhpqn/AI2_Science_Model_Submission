@@ -1,0 +1,20 @@
+Students will learn how to apply energy conservation in a closed system.
+\sum E_{\text{initial}} = \sum E_{\text{final}} \; \; \text{The total energy does not change in closed systems}
+Guidance Energy is conserved in a closed system.
+That is, if you add up all the energy of an object(s) at one time it will equal all the energy of said object(s) at a later time.
+A closed system is a system where no energy is transferred in or out.
+The total energy of the universe is a constant (i.e. it does not change).
+The problems below do not consider the situation of energy transfer (called work).
+So friction and other sources where energy leaves the system are not present.
+Thus, one simply adds up all the potential energy and kinetic energy before and sets it equal to the addition of the total potential energy and kinetic energy after .
+Billy is standing at the bottom of a ramp inclined at 30 degrees.
+Billy slides a 2 kg puck up the ramp with an initial velocity of 4 m/s.
+How far up the ramp does the ball travel before it begins to roll back down?
+Ignore the effects of friction.
+The potential energy of the puck when it stops at the top of it's path will be equal to the kinetic energy that it was initially rolled with.
+We can use this to determine the how high above the ground the puck will be above the ground when it stops, and then use trigonometry to find out how far up the ramp the puck will be when it stops.
+PE_i + KE_i &= PE_f + KE_f && \text{start with conservation of energy}\\0 + \frac{1}{2}mv^2 &= mgh + 0 && \text{take out the energy terms we know will be zero and substitute the equations for potential and kinetic energy.}\\\frac{1}{2}v^2 &= gh && \text{simplify the equation}\\h&=\frac{v^2}{2g} && \text{solve for h}\\h&=\frac{(4\;\text{m/s})^2}{2*9.8\;\text{m/s}^2} && \text{substitute in the known values}\\h&=0.82\;\text{m}\\
+Now we can find the distance up the ramp the ball traveled since we know the angle of the ramp and the height of the ball above the ground.
+Watch this Explanation
+Click on the image above for more content
+Energy Skate Park (PhET Simulation)

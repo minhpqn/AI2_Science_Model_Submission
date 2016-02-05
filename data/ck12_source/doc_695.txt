@@ -1,0 +1,20 @@
+These two rays can be seen in the image below.
+The two reflected rays intersect after reflection at a point between C  and F .
+Since these two rays come from the tip of the object, they will form the tip of the image.
+Reflected rays off a concave mirror
+If the image is actually drawn in at the intersection of the two rays, it will be smaller and inverted, as shown below.
+Rays from every point on the object could be drawn so that every point could be located to draw the image.
+The result would be the same as shown here.
+This is true for all concave mirrors with the object outside C : the image will be between C  and F , and the image will be inverted and diminished (smaller than the object).
+Image formed by a concave mirror
+The heights of the object and the image are related to their distances from the mirror.
+In fact, the ratio of their heights is the same ratio as their distances from the mirror.
+If d_o  is object distance, d_i the image distance, h_o  the object height and h_i  the image height, then
+It can also be shown that \frac{d_o}{d_i}=\frac{d_o-f}{f}  and from this, we can derive the mirror equation ,
+In this equation, f  is the focal length d o  is the object distance, and d i  is the image distance.
+The magnification equation for a mirror is the image size divided by the object size, where  m  gives the magnification of the image.
+Example Problem:
+A 1.50 cm tall object is placed 20.0 cm from a concave mirror whose radius of curvature is 30.0 cm.
+What is the image distance and what is the image height?
+Solution: \frac{1}{d_o}+\frac{1}{d_i}=\frac{1}{f} The focal length is one-half the center of curvature so it is 15.0 cm. \frac{1}{20.0}+\frac{1}{x}=\frac{1}{15}  multiply both sides by 60x to get  3x + 60 = 4x  and x = 60.0 \ cm .
+The image distance is 60.0 cm.

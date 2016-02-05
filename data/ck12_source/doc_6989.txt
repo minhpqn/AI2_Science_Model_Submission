@@ -1,0 +1,20 @@
+Leaves tip, reflects off center of mirror with an angle of reflection equal to the angle of incidence.
+( convex )
+Ray #1:
+Leaves tip, travels parallel to optic axis, reflects OUTWARD by lining up with focus on the OPPOSITE side as the candle.
+Ray #2:
+Leaves tip, heads toward the focus on the OPPOSITE side, and emerges parallel to the optic axis.
+Ray #3:
+Leaves tip, heads straight for the mirror center, and reflects at an equal angle.
+In the situation illustrated below, the object is set up .5 m away from a converging mirror.
+If the focal length of the lens is .2 m, determine (a) the location of the real image, and (b) the magnification of the image.
+(a):
+In order to determine the location of the image, we'll use the lens maker's equation.
+\frac{1}{f}&=\frac{1}{d_o} + \frac{1}{d_i}\\\\frac{1}{d_i}&=\frac{1}{f} - \frac{1}{d_o}\\\\frac{1}{d_i}&=\frac{1}{.2\;\text{m}} - \frac{1}{.5\;\text{m}}\\\d_i&=.33\;\text{m}\\\
+(b):
+Now that we have the location of the image, we can find the magnification.
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+Here’s an example of the “flat mirror problem.” Marjan is looking at herself in the mirror.
+Assume that her eyes are 10 cm below the top of her head, and that she stands 180 \;\mathrm{cm} tall.

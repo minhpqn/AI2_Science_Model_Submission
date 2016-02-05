@@ -1,0 +1,20 @@
+The teen in the picture on the right is working hard studying for an exam.
+It’s obvious who is doing work—or is it?
+Would it surprise you to learn that the teens who are working are the ones who are having fun playing basketball, while the teen who is studying isn’t doing any work at all?
+The reason why has to do with how work is defined in physics.
+Work is defined differently in physics than in everyday language.
+In physics, work means the use of force to move an object.
+The teens who are playing basketball in the picture above are using force to move their bodies and the basketball, so they are doing work.
+The teen who is studying isn’t moving anything, so she isn’t doing work.
+Not all force that is used to move an object does work.
+For work to be done, the force must be applied in the same direction that the object moves.
+If a force is applied in a different direction than the object moves, no work is done.
+The Figure below illustrates this point.
+Work is not done when a force is applied in a different direction than the direction of movement
+Q :
+If the box the man is carrying is very heavy, does he do any work as he walks across the room with it?
+A :
+Regardless of the weight of the box, the man does no work on it as he holds it while walking across the room.
+However, he does more work when he first lifts a heavier box to chest height.
+Work, Force, and Distance
+Work is directly related to both the force applied to an object and the distance the object moves.

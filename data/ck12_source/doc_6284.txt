@@ -1,0 +1,20 @@
+So the heat of reaction for the combination of carbon with hydrogen to produce acetylene is 228.3 kJ.
+When one mole of acetylene is produced, 228.3 kJ of heat are absorbed, making the reaction endothermic.
+Hess’ Law is used to calculate the heat of reaction for processes that cannot be measured directly.
+Do the problems (as many as you have time for) at the link below:
+List two reasons direct measurement of a heat of reaction may not be feasible.
+State Hess’ law.
+If a combustion reaction is reversed, what needs to happen to the  \triangle \text{H} value?
+Hess’s law of heat summation:
+If two or more thermochemical equations can be added together to give a final equation, then the heats of reaction can also be added to give a heat of reaction for the final equation.
+Standard Heat of Formation
+Define standard heat of formation.
+List some factors affecting the standard heat of formation.
+The heat of formation for diamond is different than that of graphite
+Is the Hope diamond just a very expensive pencil?
+The Hope diamond is a very expensive piece of jewelry, currently worth about $350 million.
+A pencil can be purchased for less than a dollar.
+Both items contain carbon, but there is a big difference in how that carbon is organized.
+The diamond was formed under very different reaction conditions than the graphite, so it has a different heat of formation.
+Standard Heat of Formation
+A relatively straightforward chemical reaction is one in which elements are combined to form a compound.

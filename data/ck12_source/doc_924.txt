@@ -1,0 +1,20 @@
+These large machines are electric generators.
+This particular row of generators is installed in a hydroelectric power station.
+The insides of these generators are coils of wire spinning in a magnetic field.
+The relative motion between the wire and the magnetic field is what generates electric current.
+In all generators, some mechanical energy is used to spin the coil of wire in the generator.
+In the case of hydroelectric power, the coil of wire is spun by water falling from higher  PE to lower PE .
+Windmills and steam turbines are used in other types of power generators to spin the coil.
+Electric generators convert mechanical energy to electric energy.
+The generator consists of some number of wire loops wrapped around an iron core and placed in a strong magnetic field.
+The loops of wire and the iron core are called the armature .
+The armature is mounted so that it can rotate freely inside the magnetic field.
+Mechanical energy is used to spin the armature in the field so that the wire loops cut across the field and produce electric current.
+The  EMF of this current is calculated by EMF = Blv .
+Diagram of an electrical generator
+Consider the coil and magnetic field sketched above.
+When the right hand side of the coil moves up through the field, the left hand rule indicates that the electron flow will be from the front to the back in that side of the coil.
+The current generated will have the greatest EMF as the wire is cutting perpendicularly across the field.
+When the wire reaches the top of its arc, it is moving parallel to the field and therefore, not cutting across the field at all.  The  EMF at this point will be zero.
+As that same wire then cuts down through the field as it continues to spin, the left hand rule indicates that the electron flow will be from the back to the front in that side of the coil.
+In this second half of the arc, the direction of the electron flow has reversed.

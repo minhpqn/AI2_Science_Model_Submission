@@ -1,0 +1,20 @@
+In the absence of any force, an object will continue to move at the same constant speed and in the same straight line.
+If the object is at rest, in the absence of any force, it will remain at rest.
+Newton’s First Law states that an object with no force acting on it moves with constant velocity. (The constant velocity could, of course, be 0 m/s.)
+Newton’s First Law is equivalent to saying that “if there is no net force on an object, there will be no acceleration.” In the absence of acceleration, an object will remain at rest or will move with constant velocity in a straight line.
+The acceleration of an object is the result of an unbalanced force.
+If an object undergoes two forces, the motion of the object is determined by the net force.
+The magnitude of the acceleration is directly proportional to the magnitude of the unbalanced force.
+The direction of the acceleration is the same direction as the direction of the unbalanced force.
+The magnitude of the acceleration is inversely proportional to the mass of the object; the more massive the object, the smaller the acceleration produced by the same force.
+These relationships are stated in Newton’s Second Law of Motion : "the acceleration of an object is directly proportional to the net force on the object and inversely proportional to the mass of the object."
+Newton’s Second Law can be summarized in an equation:
+a=\frac{F}{m} or more commonly, \ F=ma
+According to Newton’s Second Law, a new force on an object causes it to accelerate.
+However, the larger the mass, the smaller the acceleration.
+We say that a more massive object has a greater inertia.
+The units for force are defined by the equation for Newton’s Second Law.
+Suppose we wish to express the force that will give a 1.00 kg object an acceleration of 1.00 m/s 2 .
+F = ma = (1.00 \ \text{kg})(1.00 \ \text{m/s}^2) = 1.00 \ \text{kg}\cdot\text{m/s}^2
+This unit is defined as 1.00 newton or 1.00 N.
+\frac{kg \cdot m}{s^2}=\text{newton}

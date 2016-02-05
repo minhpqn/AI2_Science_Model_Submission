@@ -1,0 +1,20 @@
+The red arrows on the map in the Figure above are vectors for Jordan’s route from his house to the school and from the school to the post office.
+If you want to learn more about vectors, watch the video at this URL:
+Click on the image above for more content
+Q:
+How would you draw arrows to represent the distances and directions from the post office to the park on the map in the Figure above ?
+A:
+The vectors would look like this:
+Direction is an important component of motion.
+A compass rose shows cardinal directions on a map.
+A vector is a measurement that has both size and direction and may be represented by an arrow.
+A vector can be used to represent both distance and direction of motion.
+At the following URL, read the introduction to vectors and try the animations.
+Then answer the questions below.
+Compare scalars and vectors.
+Give an example of each that is related to motion.
+How can the direction part of a vector be expressed as a number?
+Think of a short route you commonly take, such as the route from your home to a friend’s house or your school.
+Describe the direction(s) and distance(s) you travel over this route.
+What is a vector?
+How can an arrow represent distance and direction of motion?

@@ -1,0 +1,20 @@
+They haven’t localized the love site, but they’re working on it.
+One of the more interesting and useful approaches to radioisotope use in medicine is positron emission tomography (PET) , often referred to as a PET scan.
+This technique is especially useful in studying the processes in the brain.
+Many compounds do not enter the brain because of what is called the “ blood-brain barrier ,” a filtering system to block material from being transported into brain tissue.
+This mechanism serves to protect the brain from a wide variety of harmful substances.
+In order to get a good picture of what is happening in the brain, radiolabels are attached to different compounds that will enter the brain.
+Since the brain uses about 25% of the glucose found in the body, this molecule is often labeled with a positron emitter such as F-18 (half-life of 109.8 minutes) to study brain function in general.
+Other labels are attached to specific compounds that will localize in certain areas of the brain to look at specific structures.
+The PET scanner detects gamma emissions from the collision of a positron with an electron (see Figure below ).
+As the positron is released from the nucleus of the atom, it will collide with an electron.
+This meeting of matter (electron) with antimatter (positron) results in annihilation of both particles and the release of two gamma emissions that are 180° apart from one another.
+The apparatus detects these gamma rays and stores the data in a computer.
+From this information, a detailed picture of the brain can be developed.
+Positron emission scanner
+Scanner used to detect positron emissions.
+One useful application of PET scanning is in the diagnosis of Alzheimer’s disease.
+This debilitating memory loss condition primarily occurs in elderly individuals.
+A protein known as beta-amyloid gradually forms deposits in the brain called plaque.
+Memory loss and impaired movement are the result of the plaque growth.
+The compound known as Pittsburgh compound B is often used to identify areas of plaque in the brain.

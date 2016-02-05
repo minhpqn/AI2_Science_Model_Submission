@@ -1,0 +1,20 @@
+The dominant allele appeared 705 times out of a possible 929 times (705+224=929).
+Probability = (705/929)
+Probability is normally expressed in a range between 0 and 1, but it can also be expressed as a percentage, fraction, or ratio.
+Expressed as a percentage, the probability that a plant of the F 2 generation will have purple flowers is 76%.
+Expressed as a fraction it is about ¾,and as a ratio it is roughly 3:1.
+The probability of the expression of the dominant allele for other characteristics can also be calculated the same way.
+In fact, Mendel found that all the other dominant “factors” had approximately a ¾ probability of being expressed in the F 2 hybrid generation.
+Review the Table below for the results for the other six characteristics.
+Results of F1 Generation Crosses for Seven Characteristics in
+F2 Generation (Dominant:Recessive)
+Flower Position on Stem
+wrinkled or angular
+The probability the recessive trait will appear in the F 2 hybrid generation is calculated in the same way.
+Probability = (224/929)
+The probability of the recessive trait appearing in the F 2 generation is 24% or about ¼.
+Results predicted by probability are most accurate when many trials are done.
+The best way to illustrate this idea is to toss a coin.
+Because a coin has two sides, every time you toss it the chance of tossing heads or tossing tails is 50%.
+The outcome of each separate toss is unaffected by any previous or future result.
+For example, imagine you tossed seven heads in a row.

@@ -1,0 +1,20 @@
+The first discovery of a subatomic particle was a result of experiments into the nature of the relationship between electricity and matter.
+The first cathode ray tube prototype was developed by Heinrich Geissler, a German glassblower and physicist.  He used a mercury pump to create a vacuum in a tube.
+Geissler explored a number of techniques to remove air from the tube and to prevent leaks, as well as ways to get good connections of the wires in the tubes.
+In 1878, Sir William Crookes , a British scientist, displayed the first cathode rays using a modification of the Geissler apparatus.
+His major contribution to construction of the tube was to develop ways to evacuate almost all the air from the tube.
+Crookes also carried out many experiments using more reliable equipment to confirm earlier finding about the properties of cathode rays.
+He discovered two things which supported the hypothesis that the cathode ray consisted of a stream of particles:
+When an object was placed between the cathode and the opposite end of the tube, it cast a shadow on the glass.
+The shadow caused by the object indicates that particles were being blocked on their way from the cathode to the anode.
+Diagram of a cathode ray tube
+A cathode ray tube was constructed with a small metal rail between the two electrodes.
+Attached to the rail was a paddle wheel capable of rotating along the rail.
+Upon starting up the cathode ray tube, the wheel rotated from the cathode towards the anode.
+Notice that the cathode and anode are positioned so that the rays will strike the top of the paddle wheel.
+Crookes concluded that the cathode ray was made of particles which must have mass.
+Old drawing of a cathode ray tube
+The cathode ray tube was first invented by Sir William Crookes.
+Further Research with the Crookes Tube
+Crookes’ work opened the door to a number of important discoveries.
+Other scientists were able to demonstrate that the “cathode ray” was actually a stream of electrons .  In 1897, Karl Ferdinand Braun developed the first oscilloscope, using a cathode ray tube to see an electrical pulse as it passed through the instrument.  The invention of television would not have been possible without the cathode ray tube.  Work with a modified system led to the discovery of X-rays in 1895 by the German physicist Wilhelm Roentgen.  This simple device has led to major advances in science and technology.

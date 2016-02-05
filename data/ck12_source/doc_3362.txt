@@ -1,0 +1,20 @@
+Magnetism produced by electricity is called electromagnetism.
+In 1820, Oersted discovered by accident that electric current creates a magnetic field.
+Prior to that, scientists thought that electricity and magnetism were unrelated.
+Oersted also used a compass to find the direction of the magnetic field around a wire carrying current.
+Around 1830, Michael Faraday discovered that a magnetic field can generate an electric current if a conductor crosses the lines of force in a magnetic field.
+This is known as Faraday’s law.
+At the following URL, review Oersted’s discovery of electromagnetism.
+Also read how the famous magician Houdini used electromagnetism in one of his most famous magic tricks.
+Then take the quiz at the bottom of the Web page.
+What observation led Oersted to conclude that electricity and magnetism are related?
+How did Oersted find the direction of the magnetic field around a wire carrying current?
+What did Faraday discover?
+Describe a solenoid.
+Explain how to strengthen the magnetic field of a solenoid.
+List some uses of solenoids.
+Splat!
+This paintball player took a direct hit!
+Did you ever play this extreme game?
+The trigger on a paintball gun is electronic and uses a device called a solenoid.
+What Is a Solenoid?

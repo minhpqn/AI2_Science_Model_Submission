@@ -1,0 +1,20 @@
+However, in some cases, your predictions will not succeed (changing the light bulb does not fix the problem), and you will have to start over again with a new hypothesis.
+Perhaps there is a short circuit somewhere in the house, or the power might be out.
+The general process of a scientific investigation is summed up in Figure below .
+A simple summary of the steps of a scientific investigation
+The general pathway of a scientific investigation.
+A scientific investigation typically has these steps, though the pathway is often modified for a specific scientific investigation.
+A broader summary of how scientific investigations move from observation of a phenomena to a theory
+The general process of scientific investigations.
+This diagram illustrates how scientific investigations move from observation of phenomenon to a theory.
+The progress is not as straightforward as it looks in this diagram.
+Many times the hypothesis is falsified, which means the investigator will have to redevelop/revise a hypothesis.
+The process of scientific investigation.
+The act of noting or detecting phenomenon by the senses.
+For example, taking measurements is a form of observation.
+A suggested explanation based on evidence that can be tested by observation or experimentation.
+The process of looking for scientific reasons for observations.
+A test that is used to rule out a hypothesis or validate something already known.
+An explanation that is ruled out by experimentation.
+An explanation that is not ruled out by repeated experimentation, and makes predictions that are shown to be true.
+Developing new knowledge based upon old knowledge.

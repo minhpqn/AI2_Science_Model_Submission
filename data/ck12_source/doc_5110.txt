@@ -1,0 +1,20 @@
+During binary fission, the chromosome copies itself, forming two genetically identical copies.
+Then, the cell enlarges and divides into two new daughter cells.
+The two daughter cells are identical to the parent cell.
+Binary fission can happen very rapidly.
+Some species of bacteria can double their population in less than ten minutes!
+Sexual reproduction does not occur in bacteria.
+But not all new bacteria are clones.
+This is because bacteria can acquire new DNA.
+This process occurs in three different ways:
+Conjugation :
+In conjugation, DNA passes through an extension on the surface of one bacterium and travels to another bacterium ( Figure below ).
+Bacteria essential exchange DNA via conjugation.
+Transformation :
+In transformation, bacteria pick up pieces of DNA from their environment.
+Transduction :
+In transduction, viruses that infect bacteria carry DNA from one bacterium to another.
+Conjugation in bacteria
+Bacteria can exchange small segments of DNA through conjugation.
+Notice two bacterial cells are attached by a short extension.
+DNA can be exchanged through this extension.

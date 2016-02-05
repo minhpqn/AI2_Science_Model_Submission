@@ -1,0 +1,20 @@
+B.
+Ammonium ion and nitrate ion are 1+ and 1− respectively, while barium and sulfate are 2+ and 2−.
+This must be taken into account when exchanging partners and writing the new formulas.
+Then, the equation is balanced.
+(\text{NH}_4)_2\text{SO}_4 (aq)+\text{Ba(NO}_3)_2(aq) \rightarrow 2\text{NH}_4\text{NO}_3(aq)+\text{BaSO}_4(s)
+Step 3:
+Think about your result
+Both are double-replacement reactions.
+All formulas are correct and the equations are balanced.
+Occasionally, a reaction will produce both a gas and a molecular compound.
+The reaction of a sodium carbonate solution with hydrochloric acid produces aqueous sodium chloride, carbon dioxide gas, and water.
+\text{Na}_2 \text{CO}_3 (aq)+2\text{HCl}(aq) \rightarrow 2\text{NaCl}(aq)+\text{CO}_2(g)+\text{H}_2\text{O}(l)
+The double-replacement reaction is described.
+Examples of the double-replacement reaction are shown.
+Read the material at the web site below and do the practice problems:
+What are the usual reactants in a double-replacement reaction?
+List the three possible types of products.
+Why would you not expect two ionic products?
+double-replacement reaction:
+A reaction in which the positive and negative ions of two ionic compounds exchange places to form two new compounds.

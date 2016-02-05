@@ -1,0 +1,20 @@
+The ribosome has three tRNA binding sites: the A site, the P site, and the E site ( Figure below ).
+The A site binds a tRNA with an attached amino acid.
+The P site contains the tRNA with the growing polypeptide chain attached, and the E site contains the tRNA that no longer has an attached amino acid.
+This tRNA is preparing to exit the ribosome.
+A single mRNA can be translated simultaneously by multiple ribosomes.
+For an animation of translation, see
+This cartoon depicts the relative location of the E, P, and A sites within the ribosome.
+The A site binds a tRNA bound to an amino acid, the P site binds a tRNA bound to the polypeptide being synthesized, and the E site binds a tRNA without an attached amino acid before the tRNA exits the ribosome.
+Role of tRNA
+Transfer RNAs or tRNAs bring or tansfer the proper amino acid to the ribosome based on the genetic code.
+The anticodon at the bottom of the tRNA molecule binds to the codon on the mRNA.
+The codon on the mRNA is specific for an amino acid or stop codon.
+Stop codons do not have corresponding tRNA molecules, and signify the end of translation.
+The amino acid is attached to the 3' end of the tRNA.
+Only one amino acid can be attached to a tRNA, based on that tRNA's anticodon.
+Because there are 61 separate codons (actually 64, but three are stop codons) that can bind to anticodons, there must be 61 different tRNAs in a cell.
+The covalent attachment of an amino acid to the tRNA is catalyzed by enzymes called aminoacyl-tRNA syntheses through a process called aminoacylation.
+Aminoacyl tRNA synthetase, through aminoacylation, produces aminoacyl-tRNA molecules with an amino acid attached to their 3- ends.
+There is a single aminoacyl tRNA synthetase for each amino acid.
+This process is also known as "charging" the tRNA with the amino acid.

@@ -1,0 +1,20 @@
+A toy truck moves off the edge of a table that is 1.25 \;\mathrm{m} high and lands 0.40 \;\mathrm{m} from the base of the table.
+How much time passed between the moment the car left the table and the moment it hit the floor?
+What was the horizontal velocity of the car when it hit the ground?
+A hawk in level flight 135\;\mathrm{m} above the ground drops the fish it caught.
+If the hawk’s horizontal speed is 20.0 \;\mathrm{m/s} , how far ahead of the drop point will the fish land?
+A pistol is fired horizontally toward a target 120\;\mathrm{m} away, but at the same height.
+The bullet’s velocity is 200 \;\mathrm{m/s} .
+How long does it take the bullet to get to the target?
+How far below the target does the bullet hit?
+A bird, traveling at 20 \;\mathrm{m/s} , wants to hit a waiter 10 \;\mathrm{m} below with his dropping (see image).
+In order to hit the waiter, the bird must release his dropping some distance before he is directly overhead.
+What is this distance?
+Joe Nedney of the San Francisco 49ers kicked a field goal with an initial velocity of 20 \;\mathrm{m/s} at an angle of 60^\circ .
+How long is the ball in the air?
+Hint: you may assume that the ball lands at same height as it starts at.
+What are the range and maximum height of the ball?
+A racquetball thrown from the ground at an angle of 45^\circ and with a speed of 22.5 \;\mathrm{m/s} lands exactly 2.5 \;\mathrm{s} later on the top of a nearby building.
+Calculate the horizontal distance it traveled and the height of the building.
+Donovan McNabb throws a football.
+He throws it with an initial velocity of 30 \;\mathrm{m/s} at an angle of 25^\circ .

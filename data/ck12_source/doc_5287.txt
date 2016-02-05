@@ -1,0 +1,20 @@
+An AB heterozygous individual has type AB blood.
+Hemoglobin Beta Gene
+Hemoglobin is the iron-containing oxygen-transport protein in the red blood cells of all vertebrates.
+The hemoglobin molecule is an assembly of four globular protein subunits, each tightly associated with a non-protein heme group.
+The heme group binds to the iron ion.
+The most common hemoglobin is hemoglobin A, a tetramer consisting of two alpha and two beta subunits, denoted as α2β2.
+Another example of codominance in humans is with the locus for the Beta-globin component of hemoglobin.
+The two alleles Hb A and Hb S produce three polypeptides complexes based on the combinations of alleles:
+Hb A /Hb A , Hb A /Hb S , and Hb S /Hb S .
+In heterozygous individuals, both the alleles are expressed.
+Normal hemoglobin is produced with the Hb A allele, while Hb S turns normal, round red blood cells into abnormally curved (sickle) shapes.
+Hb S /Hb S results in sickle-cell disease , whereas the heterozygous Hb A /Hb S results in the phenotypically distinct sickle-cell trait .
+Sickle cell disease confers some resistance to malaria parasitization of red blood cells, so that individuals with sickle-cell trait (heterozygotes), who do not have sickle-cell disease, have a selective advantage in some environments.
+Sickle cell anemia
+In sickle cell disease or sickle cell anemia, Hb S /Hb S homozygotes have sickle shaped red blood cells which block blood flow.
+Due to codominance, Hb A /Hb S heterozygotes have a mixture of normal and sickle shaped cells.
+Incomplete dominance is seen in heterozygous individuals with an intermediate phenotype.
+For example, if Mendel had ever observed a medium stem length plant when a tall and short plant were crossed, that would have suggested incomplete dominance.
+In incomplete dominant situations, the phenotype expression is dependent on the dosage of the genes.
+Two copies of the gene result in full expression, while only one copy produces partial expression and an intermediate phenotype.

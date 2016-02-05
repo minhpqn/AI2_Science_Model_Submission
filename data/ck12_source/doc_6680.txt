@@ -1,0 +1,20 @@
+The letter g is used as the symbol for the acceleration of gravity.
+When talking about an object's acceleration, whether it is due to gravity or not, the acceleration of gravity is sometimes used as a unit of measurement where 1g=9.8m/s^2 .
+So an object accelerating at 2g's is accelerating at 2*9.8m/s^2 or 19.6m/s^2
+Deceleration is the term used when an object’s speed (i.e. magnitude of its velocity) is decreasing due to acceleration in the opposite direction of its velocity.
+A Top Fuel dragster can accelerate from 0 to 100 mph (160 km/hr) in 0.8 seconds.
+What is the average acceleration in m/s^2 ?
+Question: a_{avg} = ? \ [m/s^2]
+Given: v_i = 0 \ m/s
+{\;} \qquad \ \ v_f = 160 \ km/hr
+{\;} \qquad \ \quad t = 0.8 \ s
+Equation: a_{avg} = \frac{\Delta v }{t}
+Plug n’ Chug:
+Step 1:
+Convert km/hr to m/s
+v_f = \left( 160 \frac{km}{hr} \right ) \left( \frac{1,000 \ m}{1 \ km} \right ) \left ( \frac{1 \ hr}{3,600 \ s} \right ) = 44.4 \ m/s
+Step 2:
+Solve for average acceleration:
+a_{avg} = \frac{\Delta v}{t} = \frac{v_f - v_i}{t} = \frac{44.4 \ m/s - 0 \ m/s}{0.8 \ s} = 56 \ m/s^2
+Answer: \boxed {\mathbf{56 \ m/s^2}} Note that this is over 5 \frac{1}{2} g’s!
+Watch this Explanation

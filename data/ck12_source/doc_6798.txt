@@ -1,0 +1,20 @@
+We'll start by applying Newton's second law to the bowling ball.
+The force of friction is the only force in the x-direction.
+\Sigma F_x&=ma_x && \text{start with Newton's second law}\\\f&=ma && \text{put in friction for the net force}\\\f&=m\frac{\Delta v}{\Delta t} && \text{substitute in the definition of acceleration. } \Delta t \text{ is the time it takes for the ball to begin rolling}\\\f&=m\frac{v_f-v_o}{\Delta t} && \text{substitute in } v_f \text{ and } v_o \text{, where } v_f \text{ is the velocity at the moment the ball begins rolling without sliding}\\\
+We now have two unknowns in our equation so we'll use Newton's second law for rotation as our second equation to help us solve this problem.
+Using Newton's second law for rotation, we're going to determine a value for v_f in terms of the other values.
+\Sigma\tau&=I\alpha && \text{start Newton's second law for rotation}\\\fr&=I\alpha&& \text{substitute in friction for the net torque}\\\fr&=I\frac{\Delta\omega}{\Delta t} && \text{substitute in the definition of angular acceleration. } \Delta t \text{ is the time it takes for the ball to begin rolling}\\\fr&=I\frac{\omega_f - w_o}{\Delta t} && \text{substitute in } \omega_f \text{ and } \omega_o \text{ for } \Delta\omega\\\fr&=I\frac{\omega_f}{\Delta t} && \omega_o \text{ is zero so we an simplify the equation}\\\fr&=I\frac{v_f}{r\Delta t} && \text{since } \omega_f \text{ is the angular speed when the ball begins rolling without sliding, we can express it in terms of } v_f\\\v_f&=\frac{fr^2\Delta t}{I} && \text{solving for }v_f\\\
+Now, we can put that value we just found back into our Newton's second law equation and solve for \Delta t .
+f&=m\frac{\frac{fr^2\Delta t}{I} - v_o}{\Delta t} && \text{making the substitution}\\\\Delta t&=\frac{mv_o}{\frac{mfr^2}{I} - f} && \text{solving for } \Delta t\\\\Delta t&=\frac{mv_o}{\frac{\mu_km^2gr^2}{I} - \mu_kmg} && \text{substitute the known values for } f \\\\Delta t&=\frac{mv_o}{\frac{\mu_km^2gr^2}{\frac{2}{5}mr^2} - \mu_kmg} && \text{substitute the known value for } I\\\\Delta t&=\frac{2}{3}\frac{v_o}{\mu_kg} && \text{simplify to get the answer}\\\
+Watch this Explanation
+Click on the image above for more content
+A solid cylinder of mass, M, and radius R rolls without slipping down an inclined plane that makes an angle  \theta  .
+The cylinder starts from rest at a height H.
+The inclined plane makes an angle \theta  with the horizontal.
+Express all solutions in terms of M, \theta  , R, H, and g.
+Draw the free body diagram for the cylinder.
+Determine the acceleration of the center of mass of the cylinder while it is rolling down the inclined plane.
+Determine the minimum coefficient of friction between the cylinder and the inclined plane that is required for the cylinder to roll without slipping.
+The coefficient of friction μ is now made less than the value determined in part d so that the cylinder both rotates and slips.
+How does the translational speed change from above (i.e. larger, smaller, same).
+Justify your answer.

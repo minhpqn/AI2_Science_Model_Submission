@@ -1,0 +1,20 @@
+One copy comes from each parent.
+The gene for a characteristic may have different versions, but the different versions are always at the same locus.
+The different versions are called alleles .
+For example, in pea plants, there is a purple-flower allele ( B ) and a white-flower allele ( b ).
+Different alleles account for much of the variation in the characteristics of organisms.
+Chromosome, Gene, Locus, Allele
+Chromosome, Gene, Locus, and Allele.
+This diagram shows how the concepts of chromosome, gene, locus, and allele are related.
+What is the different between a gene and a locus?
+Between a gene and an allele?
+During meiosis, homologous chromosomes separate and go to different gametes.
+Thus, the two alleles for each gene also go to different gametes.
+At the same time, different chromosomes assort independently.
+As a result, alleles for different genes assort independently as well.
+In these ways, alleles are shuffled and recombined in each parent’s gametes.
+Genotype and Phenotype
+When gametes unite during fertilization, the resulting zygote inherits two alleles for each gene.
+One allele comes from each parent.
+The alleles an individual inherits make up the individual’s genotype .
+The two alleles may be the same or different.

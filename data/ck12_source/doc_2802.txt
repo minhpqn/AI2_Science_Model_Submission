@@ -1,0 +1,20 @@
+Strength of Acids
+The strength of acids is measured on a scale called the pH scale.
+The pH value of a solution represents its concentration of hydrogen ions.
+A pH value of 7 indicates a neutral solution, and a pH value less than 7 indicates an acidic solution.
+The lower the pH value is, the greater is the concentration of hydrogen ions and the stronger the acid.
+The strongest acids, such as battery acid, have pH values close to zero.
+Uses of Acids
+Acids have many important uses, especially in industry.
+For example, sulfuric acid is used to manufacture a variety of different products, including paper, paint, and detergent.
+Some other uses of acids are be seen in the Figure below .
+Uses of acid
+Nitric acid and Phosphoric acid:
+Both nitric acid and phosphoric acid are used to make fertilizer.
+Hydrochloric acid:
+Hydrochloric acid is used to clean swimming pools, bricks, and concrete.
+Sulfuric acid:
+Sulfuric Acid is an important component of car batteries.
+Acids are ionic compounds that produce positive hydrogen ions (H + ) when dissolved in water.
+Acids taste sour, conduct electricity when dissolved in water, and react with metals to produce hydrogen gas.
+Certain indicator compounds, such as litmus, can be used to detect acids.

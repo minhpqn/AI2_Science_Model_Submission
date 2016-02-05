@@ -1,0 +1,20 @@
+The potential difference in the case of moving a wire through a magnetic field is produced by the work done on the charges by whatever is pushing the wire through the field.
+The  EMF (or voltage) depends on the magnetic field strength, B , the length of the wire in the magnetic field, l , and the velocity of the wire in the field.
+EMF = Blv
+This calculation is based on the wire moving perpendicularly through the field.
+If the wire moves an angle to the field, then only the component of the wire perpendicular to the field will generate EMF .
+Example Problem:
+A 0.20 m piece of wire that is part of a complete circuit moves perpendicularly through a magnetic field whose magnetic induction is 0.0800 T.
+If the speed of the wire is 7.0 m/s, what  EMF is induced in the wire?
+Solution:
+EMF = Blv = (0.0800 \ N/A \cdot m)(0.20 \ m)(7.0 \ m/s) = 0.11 \ N \cdot m/C = 0.11 \ J/C = 0.11 \ V
+If a wire that is part of a complete circuit is moved through a magnetic field, the magnetic field exerts a force on the individual electrons in the wire, which causes a current to flow.
+The potential difference in the case of moving a wire through a magnetic field is produced by the work done on the charges by whatever is pushing the wire through the field.
+The EMF (or voltage) depends on the magnetic field strength, B , the length of the wire in the magnetic field, l , and the velocity of the wire in the field, EMF = Blv .
+Click on the image above for more content
+Follow up questions:
+We have been discussing the process of generating electricity by moving a wire through a magnetic field.  What happens if the wire is held steady and the magnetic field moves instead?
+When a loop of wire is turned circularly in a magnetic field, what type of current is produced?
+Which of the following units are equivalent to those of  EMF produced in a generator?
+T \cdot m/s
+V \cdot m^2/s

@@ -1,0 +1,20 @@
+Benzene is a fairly stable and unreactive molecule due to the electron delocalization around the six-membered ring.
+The treatment of benzene with a halogen in the presence of an iron catalyst causes the substitution of a halogen atom for a hydrogen atom.
+The resulting molecule is called an aryl halide.
+\text{C}_6\text{H}_{\text{6}}(l)+\text{Br}_2(l) \xrightarrow{\text{FeBr}_3} \text{C}_6\text{H}_5\text{Br}(l)+\text{HBr}(g)
+Substitution of bromine onto benzene
+Alkyl groups can be introduced onto a benzene ring by the reaction of benzene with an alkyl halide, using aluminum chloride as the catalyst.
+In the reaction below, benzene reacts with chloroethane to produce ethylbenzene.
+\text{C}_6\text{H}_6(l)+\text{CH}_3\text{CH}_2\text{Cl}(g) \xrightarrow{\text{AlCl}_3} \text{C}_6\text{H}_5\text{CH}_2\text{CH}_3(l)+\text{HCl}(g)
+Substitution of ethane onto benzene
+The reaction of an alkyl halide with an inorganic hydroxide base at elevated temperature produces an alcohol.
+The molecular reaction to produce methanol from iodomethane and sodium hydroxide is shown below.
+\text{CH}_3\text{I}(l)+\text{NaOH}(aq) \xrightarrow{100^\circ \text{C}} \text{CH}_3\text{OH}(l)+\text{NaI}(aq)
+Substitution reaction is defined.
+Examples of substitution reactions are given.
+Check out the substitution reaction possibilities at the link below.
+Look for reactants and products described in this concept.
+See what you can predict:
+What is common to all of the reactions shown above?
+Name the product of the reaction between ethane and chlorine gas.
+What molecule would you use to react with benzene if you wanted to make propylbenzene?

@@ -1,0 +1,20 @@
+Variables that are kept constant to prevent influencing the effect of the independent variable on the dependent variable.
+dependent variable :
+Variable that changes in response to the independent variable.
+double blind experiment:
+Experiment in which neither the researcher nor the subjects know who receives the independent variable; common in drug trials.
+error :
+A boundary on the precision and accuracy of the result of a measurement.
+experiment :
+A test that is used to rule out a hypothesis or validate something already known; a test that is used to eliminate one or more of the possible hypotheses until one hypothesis remains.
+hypothesis (plural, hypotheses ):
+A suggested explanation based on evidence that can be tested by observation or experimentation.
+independent variable :
+Factor(s) whose values are controlled by the experimenter to determine its relationship to an observed phenomenon (the dependent variable).
+Occam’s razor :
+States that the explanation for a phenomenon should make as few assumptions as possible.
+precision :
+The degree to which repeated measurements under unchanged conditions show the same results; reproducibility or repeatability.
+prediction :
+A statement that tells what will happen under specific conditions.
+variable :

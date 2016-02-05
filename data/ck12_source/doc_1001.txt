@@ -1,0 +1,20 @@
+An electron has a rest mass of 9.1 \times 10^{-31} \ \text{kg} .
+If the electron were traveling at 0.50 c relative to an observer, what electron mass would the observer measure?
+M=\frac{m_o}{\sqrt{1-\frac{v^2}{c^2}}}=\frac{9.1 \times 10^{-31} \ \text{kg}}{\sqrt{1-\frac{(0.50 \ c)^2}{c^2}}}=\frac{9.1 \times 10^{-31} \ \text{kg}}{\sqrt{1-0.25}}=1.1 \times 10^{-30} \ \text{kg}
+The Ultimate Speed Limit
+A result of the special theory of relativity is that no physical object can equal or exceed the speed of light.
+From the equation for relativistic mass, it can be seen that as the object is accelerated faster and faster, its mass becomes greater and greater.
+The greater mass would require an even greater force to accelerate it.
+If the velocity of the mass ever reached the speed of light, the denominator of the equation would become zero and the mass would become infinite.
+The energy required to accelerate an infinite mass would also be infinite.
+The fact that light itself travels at the speed c , implies that light has a zero rest mass.
+Of course, light is never at rest.
+The Equivalence of Mass and Energy
+The special theory of relativity is also the origin of Einstein’s most famous equation, E = mc^2 , and the concept that mass and energy are different forms of the same thing.
+Einstein himself described the equivalence of mass and energy as the “most important upshot of the special theory of relativity”.
+The idea is not that mass and energy can be mathematically related but that they two are, in fact, simply different forms of the same thing.
+Each may be converted into the other and the conversion factor is the speed of light squared.
+Example Problem:
+How much energy would be released if a  \pi meson (\text{rest mass}= 2.4 \times 10^{-28} \ \text{kg}) was transformed by decay completely into energy?
+Solution:
+E = mc^2 = (2.4 \times 10^{-28} \ \text{kg})(3.0 \times 10^8 \ \text{m/s})^2 = 2.2 \times 10^{-11} \ \text{joules}

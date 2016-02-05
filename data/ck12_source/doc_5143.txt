@@ -1,0 +1,20 @@
+Proteins produced include those needed for DNA replication.
+If a cell is not dividing, the cell enters the G 0 phase from this phase.
+The G 0 phase is a resting phase where the cell has left the cycle and has stopped dividing.
+Non-dividing cells in multicellular eukaryotic organisms enter G 0 from G 1 .
+These cells may remain in G 0 for long periods of time, even indefinitely, such as with neurons.
+Cells that are completely differentiated may also enter G 0 .
+Some cells stop dividing when issues of sustainability or viability of their daughter cells arise, such as with DNA damage or degradation, a process called cellular senescence .
+Cellular senescence occurs when normal diploid cells lose the ability to divide, normally after about 50 cell divisions.
+Dividing cells enter the Synthesis (S) phase from G 1 .
+For two genetically identical daughter cells to be formed, the cell’s DNA must be copied through DNA replication.
+When the DNA is replicated, both strands of the double helix are used as templates to produce two new complementary strands.
+These new strands then hydrogen bond to the template strands and two double helices form.
+During this phase, the amount of DNA in the cell has effectively doubled, though the cell remains in a diploid state.
+The second gap (growth) (G 2 ) phase is a shortened growth period in which many organelles are reproduced or manufactured.
+Parts necessary for mitosis and cell division are made during G 2 , including microtubules used in the mitotic spindle.
+Mitosis is the phase of nuclear division, in which one nucleus divides and becomes two nuclei.
+Mitosis itself is a multi-phase process and will be the focus of the Cell Cycle:
+Mitosis (Advanced) concept.
+Immediately following mitosis is cytokinesis, in which the cytoplasm divides in half, producing two daughter cells, each containing a complete set of genetic material.
+Cell Cycle Summary

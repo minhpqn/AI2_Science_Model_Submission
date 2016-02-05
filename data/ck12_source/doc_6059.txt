@@ -1,0 +1,20 @@
+Sodium chloride (NaCl) is an ionic compound that consists of a multitude of strong ionic bonds.
+Sodium chloride melts at 801°C.
+Ice (solid H 2 O) is a molecular compound whose molecules are held together by hydrogen bonds.
+Though hydrogen bonds are the strongest of the intermolecular forces, the strength of hydrogen bonds is much less than that of ionic bonds.
+The melting point of ice is 0°C.
+The melting point of a solid is the same as the freezing point of the liquid.
+At that temperature, the solid and liquid states of the substance are in equilibrium.
+For water, this equilibrium occurs at 0°C.
+\text{H}_2\text{O}\text{(s)} \rightleftarrows \text{H}_2\text{O}\text{(l)}
+We tend to think of solids as those materials that are solid at room temperature.
+However, all materials have melting points of some sort.
+Gases become solids at extremely low temperatures, and liquids will also become solid if the temperature is low enough.
+The Table below gives the melting points of some common materials.
+Melting Points of Common Materials
+Melting Point (°C)
+The melting point is the temperature at which a solid changes into a liquid.
+Intermolecular forces have a strong influence on melting point.
+Use the link below to answer the following questions
+To what degree of accuracy can melting points be measured?
+How can we use melting point data to help identify a compound?

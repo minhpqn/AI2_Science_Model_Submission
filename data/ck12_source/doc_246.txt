@@ -1,0 +1,20 @@
+Calculate any of the variables in the equation F = kx , when given the other two.
+Understand the relationship between simple harmonic motion and circular motion.
+A Foucault pendulum demonstrates simple harmonic motion
+A Foucault pendulum is a pendulum suspended from a long wire, that is sustained in motion over long periods.
+Due to the axial rotation of the Earth, the plane of motion of the pendulum shifts at a rate and direction dependent on its latitude: clockwise in the Northern Hemisphere and counterclockwise in the Southern Hemisphere.
+At the poles the plane rotates once per day, while at the equator it does not rotate at all.
+Simple Harmonic Motion
+Many objects vibrate or oscillate – an object on the end of a spring, a tuning fork, the balance wheel of a watch, a pendulum, the strings of a guitar or a piano.
+When we speak of a vibration or oscillation, we mean the motion of an object that repeats itself, back and forth, over the same path.
+This motion is also known as simple harmonic motion , often denoted as SHM.
+A useful design for examining SHM is an object attached to the end of a spring and laid on a surface.
+The surface supports the object so its weight (the force of gravity) doesn't get involved in the forces.
+The spring is considered to be weightless.
+Simple harmonic motion with a spring and block
+The position shown in the illustration is the equilibrium position .
+This position is the middle, where the spring is not exerting any force either to the left or to the right.
+If the object is pulled to the right, the spring will be stretched and exert a restoring force to return to the weight to the equilibrium position.
+Similarly, if the object is pushed to the left, the spring will be compressed and will exert a restoring force to return the object to its original position.
+The magnitude of the restoring force, F , in either case must be directly proportional to the distance, x , the spring has been stretched or compressed. (A spring must be chosen that obeys this requirement.)
+F = -kx

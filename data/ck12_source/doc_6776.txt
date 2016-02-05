@@ -1,0 +1,20 @@
+Thus this is not a closed system during a collision of two objects.
+Thus you cannot use energy conservation immediately before the collision to immediately after the collision.
+However, momentum is conserved during the collision.
+Thus break the problem into two parts.
+For the collision part use momentum conservation.
+You can use energy conservation for the other parts, where it is conserved.
+Click on the image above for more content
+Watch this Explanation
+Click on the image above for more content
+You throw a 0.5\;\mathrm{kg} lump of clay with a speed of 5\;\mathrm{m/s} at a 15\;\mathrm{kg} bowling ball hanging from a vertical rope.
+The bowling ball swings up to a height of 0.01\;\mathrm{m} compared to its initial height.
+Was this an elastic collision?
+Justify your answer.
+The 20\;\mathrm{g} bullet shown above is traveling to the right with a speed of 20\;\mathrm{m/s} .
+A 1.0\;\mathrm{kg} block is hanging from the ceiling from a rope 2.0\;\mathrm{m} in length.
+What is the maximum height that the bullet-block system will reach, if the bullet embeds itself in the block?
+What is the maximum angle the rope makes with the vertical after the collision?
+A new fun foam target on wheels for archery students has been invented.
+The arrow of mass, m , and speed, v_0 , goes through the target and emerges at the other end with reduced speed, v_0/2 .
+The mass of the target is 7\;\mathrm{m} .

@@ -1,0 +1,20 @@
+In regular reflection, all the rays are reflected in the same direction.
+This explains why regular reflection forms a clear image.
+In diffuse reflection, the rays are reflected in many different directions.
+This is why diffuse reflection forms, at best, a blurry image.
+You can see animations of both types of reflection at this URL:
+Schematic of regular and diffuse reflection
+Law of Reflection
+One thing is true of both regular and diffuse reflection.
+The angle at which the reflected rays leave the surface is equal to the angle at which the incident rays strike the surface.
+This is known as the law of reflection .
+The law is illustrated in the Figure below and also in this animation:
+Law of reflection
+According to the law of reflection, the angle of reflection always equals the angle of incidence.
+The angles of both reflected and incident light are measured relative to an imaginary line, called normal, that is perpendicular (at right angles) to the reflective surface.
+Reflection is one of several ways that light can interact with matter.
+When light is reflected from a smooth surface, it may form an image.
+An image is a copy of an object that is formed by reflected (or refracted) light.
+Regular reflection occurs when light reflects off a very smooth surface and forms a clear image.
+Diffuse reflection occurs when light reflects off a rough surface and forms a blurry image or no image at all.
+According to the law of reflection, the angle at which light rays reflect off a surface is equal to the angle at which the incident rays strike the surface.

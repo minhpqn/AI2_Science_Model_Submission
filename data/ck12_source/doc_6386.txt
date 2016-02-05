@@ -1,0 +1,20 @@
+All alkali metals react readily with water to produce the metal hydroxide and hydrogen gas.
+The resulting solutions are basic.
+2\text{K}(s) + 2\text{H}_2\text{O}(l) \rightarrow 2\text{KOH}(aq) + \text{H}_2(g)
+Bases that consist of an alkali metal cation and the hydroxide anion are all very soluble in water.
+Compounds of the Group 2 metals (the alkaline earth metals) are also basic.
+However, these compounds are generally not as soluble in water.
+Therefore the dissociation reactions for these compounds are shown as equilibrium reactions.
+\text{Mg(OH)}_2(s) \overset{\text{H}_2\text{O}}{\rightleftharpoons} \text{Mg}^{2+}(aq)+2\text{OH}^-(aq)
+These relatively insoluble hydroxides were some of the compounds discussed in the context of the solubility product constant (K_{sp}) .
+The solubility of magnesium hydroxide is 0.0084 g per liter of water at 25°C.
+Because of its low solubility, magnesium hydroxide is not as dangerous as sodium hydroxide.
+In fact, magnesium hydroxide is the active ingredient in a product called milk of magnesia, which is used as an antacid or a mild laxative.
+Arrhenius base is defined.
+Examples of Arrhenius bases are given.
+Read the material at the link below and then take the quiz:
+What is an Arrhenius base?
+What is one reaction that will form an Arrhenius base?
+Are alkaline earth bases very water-soluble?
+alkaline solution:
+Another name for a solution that is basic.

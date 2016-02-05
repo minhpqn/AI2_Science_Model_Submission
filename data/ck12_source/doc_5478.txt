@@ -1,0 +1,20 @@
+In medicine, modern biotechnology provides significant applications in such areas as pharmacogenomics, genetic testing (and prenatal diagnosis), and gene therapy.
+These applications use our knowledge of biology to improve our health and our lives.
+Many of these medical applications are based on the findings of the Human Genome Project.
+Genetically Engineering Bacteria to Produce a Human Protein.
+Bacteria can be genetically engineered to produce a human protein, such as a cytokine.
+A cytokine is a small protein that helps fight infections.
+Currently, millions of individuals with high cholesterol take a similar type of drug, known as a statin.
+The drug, an inhibitor of HMG-CoA reductase (3-hydroxy-3-methyl-glutaryl-CoA reductase), the rate limiting enzyme in cholesterol biosynthesis, decreases blood levels of cholesterol by induce the expression of low density lipoprotein (LDL) receptors in the liver.
+The increased levels of the LDL-receptors stimulate the catabolism of plasma LDL, removing cholesterol from plasma, which is an important determinant of atherosclerosis.
+You may know of people who take a statin to help with their cholesterol levels.
+However, these drugs probably work slightly differently in many of those people.
+In some, it lowers their cholesterol significantly; in others it may lower it only moderately; and in some, it may have no significant effect at all. (Luckily for those individuals, there are multiple versions of the statins, so different drugs can be tested to find the proper combination for that individual.) Why the difference?
+Because of the genetic background of all people; the different single nucleotide polymorphisms that make us all different.
+Pharmacogenomics, a combination of pharmacology and genomics (the study of the genome) that refers to the study of the relationship between pharmaceuticals and genetics, may explain and simplify this problem.
+Pharmacogenomics is the study of how the genetic inheritance of an individual affects his or her body’s response to drugs.
+In other words, pharmacogenomics will lead to the design and production of drugs that are adapted to each person’s genetic makeup.
+Pharmacogenomics has applications in illnesses such as cancer, cardiovascular disorders, depression, attention deficit disorders, HIV, asthma, and diabetes, among others.
+Pharmacogenomics will result in the following benefits:
+Development of tailor-made medicines.
+Using pharmacogenomics, pharmaceutical companies will be able to create drugs based on the proteins, enzymes and RNA molecules that are associated with specific genes and diseases.

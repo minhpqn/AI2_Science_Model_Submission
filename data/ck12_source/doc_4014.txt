@@ -1,0 +1,20 @@
+The viral mRNA is then translated into viral proteins.
+These viral proteins then assemble to form new viral particles.
+A reverse-transcribing virus is any virus which replicates using reverse transcription, the formation of DNA from an RNA template.
+Some reverse-transcribing viruses have genomes made of single-stranded RNA and use a DNA intermediate to replicate.
+Others in this group have genomes that have double-stranded DNA and use an RNA intermediate during genome replication.
+The retroviruses, as mentioned above, are included in this group, of which HIV is a member.
+Some double-stranded DNA viruses replicate using reverse transcriptase.
+The hepatitis B virus is one of these viruses.
+Bacteriophages are viruses that infect bacteria.
+They bind to surface receptor molecules of the bacterial cell and then their genome enters the cell.
+The protein coat does not enter the bacteria.
+Within a short amount of time, in some cases, just minutes, bacterial polymerase starts translating viral mRNA into protein.
+These proteins go on to become either new virions within the cell, helper proteins which help assembly of new virions, or proteins involved in cell lysis.
+Viral enzymes aid in the breakdown of the cell membrane.
+With some phages, just over twenty minutes after the phage infects the bacterium, over three hundred phages can be assembled and released from the host.
+After infecting a host cell, a virus uses the cell’s machinery and metabolism to produce new copies of itself.
+Use this resource to answer the questions that follow.
+\rightarrow Non-Majors Biology* \rightarrow Search:
+Viruses
+Describe viral structure after it enters a host cell.

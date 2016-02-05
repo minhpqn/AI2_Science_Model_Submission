@@ -1,0 +1,20 @@
+The energy for these processes come from an electrochemical gradient.
+In such a gradient, one of the two substances is transported in the direction of their concentration gradient,and the energy derived is used to transport the second substance against its concentration gradient.
+Thus, energy stored in the electrochemical gradient of an ion is used to drive the transport of another solute against a concentration or electrochemical gradient.
+In antiport, one substance moves along its electrochemical gradient, allowing a different substance to move against its own electrochemical gradient.
+This movement is in contrast to primary active transport, in which all solutes are moved against their concentration gradients, fueled by ATP.
+In symport, one substance moves down the electrochemical gradient, allowing the other molecule(s) to move against its concentration gradient.
+One substance moves by facilitated diffusion, which is coupled with the active transport of the other substance.
+active transport :
+Transport of molecules and ions across membranes against a concentration gradient; requires energy.
+antiport :
+The secondary active transport process of transporting two or more different molecules or ions across a phospholipid membrane in opposite directions.
+antiporter :
+An integral membrane protein involved in secondary active transport; transports two or more different molecules or ions across a phospholipid membrane in opposite directions.
+ATPase :
+A class of enzymes that catalyze the decomposition of adenosine triphosphate (ATP) into adenosine diphosphate (ADP) and a free phosphate ion.
+cotransport :
+The simultaneous or sequential transport of more than one molecule or ion across biological membranes; also known as secondary active transport.
+electrochemical gradient :
+Difference across a membrane due to both a chemical force and an electrical force; drives the movement of ions across the membrane.
+primary active transport :

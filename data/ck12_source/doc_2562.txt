@@ -1,0 +1,20 @@
+That’s because the table keeps repeating from row to row, and periodic means “repeating.”
+The Modern Periodic Table
+A periodic table is still used today to organize the elements.
+You can see a simple version of the modern periodic table in the Figure below .
+The modern table is based on Mendeleev’s table, except the modern table arranges the elements by increasing atomic number instead of atomic mass.
+Atomic number is the number of protons in an atom, and this number is unique for each element.
+The modern table has more elements than Mendeleev’s table because many elements have been discovered since Mendeleev’s time.
+You can explore an interactive version of the modern periodic table at this URL:
+Reading the Table
+In the Figure above , each element is represented by its chemical symbol, which consists of one or two letters.
+The first letter of the symbol is always written in upper case, and the second letter—if there is one—is always written in lower case.
+For example, the symbol for copper is Cu.
+It stands for cuprum , which is the Latin word for copper.
+The number above each symbol in the table is its unique atomic number.
+Notice how the atomic numbers increase from left to right and from top to bottom in the table.
+Q:
+Find the symbol for copper in the Figure above .
+What is its atomic number?
+What does this number represent?
+A:

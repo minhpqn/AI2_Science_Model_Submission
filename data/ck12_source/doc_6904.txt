@@ -1,0 +1,20 @@
+For instance, the fundamental standing sound wave produced in a tube closed at one end is shown below.
+In this case, the amplitude of the standing wave is referring to the magnitude of the air pressure variations.
+This standing wave is the first harmonic and one can see that the wavelength is \lambda = 4L .
+Since v = \lambda f , the frequency of oscillation is f = v/4L .
+In general, the frequency of oscillation is f = nv/4L , where n is always odd.
+Question The objects A, B, and C below represent graduated cylinders of length 50 cm which are filled with water to the depths of 10, 20 and 30 cm, respectively as shown.
+a) If you blow in each of these tubes, which (A,B,C) will produce the highest frequency sound?
+b) What is the wavelength of the 1st harmonic (i.e. fundamental) of tube B?
+c) The speed of sound at room temperature is about 343 m/s.
+What is the frequency of the 1st harmonic for tube B?
+a) The water forms the bottom of the tube and thus where the node of the wave will be.
+Thus the air column is where the sound wave can exist.
+The larger the air column, the larger the wavelength.
+Frequency is inversely proportional to wavelength, thus the tube with the smallest air column will have the highest frequency.
+So the answer is tube C.
+b) The air column is 50 cm - 20 cm = 30 cm.
+The first harmonic has a quarter wavelength in the tube.
+Thus  \lambda = 4 \times L  .
+Thus, \lambda = 4 \times 30 \text{cm} = 120 \text{cm}
+c) Using the wave equation for the first harmonic (thus, n = 1) of a tube open at one end we get f = \frac{v}{4L} = \frac{343 \text{m/s}}{1.2 \text{m}}= 286 \text{Hz}

@@ -1,0 +1,20 @@
+Describe the unit called the horsepower.
+Did you ever sweep a floor with a broom, like the woman in the picture on the left?
+It can take a lot of effort to do the job.
+But if you use an electric vacuum cleaner, like the woman in the picture on the right, you can do the same work more easily and quickly.
+That’s because the vacuum cleaner provides more power.
+What Is Power?
+Power is a measure of the amount of work that can be done in a given amount of time.
+Power can be represented by the equation:
+In this equation, work is measured in joules (J) and time is measured in seconds (s), so power is expressed in joules per second (J/s).
+This is the SI unit for power, also known as the watt (W) .
+A watt equals 1 joule of work per second.
+You’re probably already familiar with watts.
+Light bulbs and small appliances such as microwave ovens are labeled with the watts of power they provide.
+For example, the package of light bulbs in the Figure below is labeled “14 watts.”
+Q :
+Assume you have two light bulbs of the same type, such as two compact fluorescent light bulbs like the one pictured in the Figure above .
+If one light bulb is a 25-watt bulb and the other is a 60-watt bulb, which bulb produces brighter light?
+A :
+The 60-watt bulb is more powerful, so it produces brighter light.
+Compared with a less powerful device, a more powerful device can either do more work in the same time or do the same work in less time.

@@ -1,0 +1,20 @@
+When they order a pizza (either by phone, on-line, or in a restaurant), they don’t just order “pizza.” Even the simplest “binary” pizza will have a topping and cheese – maybe pepperoni, maybe something else.
+However, many pizzas quickly become more complex.
+One person may want pepperoni and sausage, another may wish to order Canadian bacon and pineapple, and then you have the folks that can’t decide, so they order half-this and half-that.
+The combinations may be more complex, but the same basic ideas about pizza are valid.
+Ternary Ionic Compounds
+Not all ionic compounds are composed of only monatomic ions.
+A ternary ionic compound is an ionic compound composed of three or more elements.
+In a typical ternary ionic compound, there is still one type of cation and one type of anion involved.
+The cation, the anion, or both, is a polyatomic ion.
+Naming Ternary Ionic Compounds
+The process of naming ternary ionic compounds is the same as naming binary ionic compounds.
+The cation is named first, followed by the anion.
+Some examples are shown in the Table below :
+Examples of Ternary Ionic Compounds
+NH 4 Cl
+When more than one polyatomic ion is present in a compound, the formula of the ion is placed in parentheses with a subscript outside of the parentheses that indicates how many of those ions are in the compound.
+In the last example above, there is one Fe 3+ cation and three OH - anions.
+Writing Formulas for Ternary Ionic Compounds
+Writing a formula for a ternary ionic compound also involves the same steps as for a binary ionic compound.
+Write the symbol and charge of the cation followed by the symbol and charge of the anion.

@@ -1,0 +1,20 @@
+Discover the physics of light and how an invisible cloak could theoretically work at
+Click on the image above for more content
+The law of reflection states that, when a light ray strikes a reflecting surface, the angle of incidence (measured from the normal line) is equal to the angle of reflection (also measured from the normal line).
+If the reflecting surface is a very smooth surface, the reflection will be regular, in which the light rays maintain their position relative to each other.
+If the reflecting surface is rough, the reflection will be diffuse and objects will be distorted in the reflection.
+Images in a plane mirror are reversed left and right but not reversed top and bottom.
+Use the video on reflection to answer the questions that follow.
+Both the angle of incidence and the angle of reflection are measured from the _________.
+In reflection, the angle of incidence _________  the angle of reflection.
+How does regular reflection differ from diffuse reflection?
+If a light ray strikes a mirrored surface at an angle of 25° to the surface, what is the angle of incidence?
+For problem #2, what will be the angle of reflection?
+A dry cement road is a diffuse reflector.  When it rains, the water fills in all the little holes and cracks in the cement road and it becomes a smooth regular reflector.  At night, when you are depending on the light from your headlights to show you the lines on the road, a wet road becomes much darker and it is more difficult to see the lines.  Explain why this occurs.
+law of reflection:
+The law of reflection says that the angle at which the wave is incident on the surface equals the angle at which it is reflected.
+regular reflection:
+If a parallel beams of light falls on a smooth surface, the reflected beams are also parallel.
+diffuse reflection:
+When the reflecting surface is rough, parallel incident beams of light would be reflected in non-parallel, random directions.
+Refraction of Light

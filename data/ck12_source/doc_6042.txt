@@ -1,0 +1,20 @@
+The collision of the bat with the ball changes the direction and speed of the ball, with the idea of kinetic energy being involved again.
+Kinetic Energy and Temperature
+As stated in the kinetic-molecular theory, the temperature of a substance is related to the average kinetic energy of the particles of that substance.
+When a substance is heated, some of the absorbed energy is stored within the particles, while some of the energy increases the motion of the particles.
+This is registered as an increase in the temperature of the substance.
+Average Kinetic Energy
+At any given temperature, not all of the particles of a sample of matter have the same kinetic energy.
+Instead, the particles display a wide range of kinetic energies.
+Most of the particles have a kinetic energy near the middle of the range.
+However, a small number of particles have kinetic energies a great deal lower or a great deal higher than the average (see Figure below ).
+Graph of the distribution of molecular kinetic energies at high and low temperatures
+A distribution of molecular kinetic energies as a function of temperature.
+The blue curve is for a low temperature, while the red curve is for a high temperature.
+The blue curve in the figure above is for a sample of matter at a relatively low temperature, while the red curve is for a sample at a relatively high temperature.
+In both cases, most of the particles have intermediate kinetic energies, close to the average.
+Notice that as temperature increases, the range of kinetic energies increases and the distribution curve “flattens out.” At a given temperature, the particles of any substance have the same average kinetic energy.
+As a sample of matter is continually cooled, the average kinetic energy of its particles decreases.
+Eventually, one would expect the particles to stop moving completely.
+Absolute zero is the temperature at which the motion of particles theoretically ceases.
+Absolute zero has never been attained in the laboratory, but temperatures on the order of 1 × 10 -10 K have been achieved.

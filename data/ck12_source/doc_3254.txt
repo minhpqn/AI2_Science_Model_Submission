@@ -1,0 +1,20 @@
+When electric current passes through a wire filament inside an incandescent bulb, the wire gets so hot that it glows.
+Do you see the glowing filament inside the incandescent light bulb in the Figure below ?
+Incandescent lightbulb with glowing filament
+Q:
+What are some other sources of incandescent light?
+A:
+Flames also produce incandescent light.
+For example, burning candles, oil lamps, and bonfires produce light in this way.
+Some objects produce light without becoming very hot.
+They generate light through chemical reactions or other processes.
+Producing light without heat is called luminescence .
+Luminescence, in turn, can occur in several different ways:
+One type of luminescence is called fluorescence.
+In this process, a substance absorbs shorter-wavelength ultraviolet light and then gives off light in the visible range of wavelengths.
+Certain minerals produce light in this way, including gemstones such as amethyst, diamond, and emerald.
+At the following URL, move your mouse over the minerals in the picture to see the magic of fluorescence:  .
+Another type of luminescence is called electroluminescence.
+In this process, a substance gives off light when an electric current passes through it.
+Gases such as neon, argon, and krypton produce light by this means.
+The car dash lights in the Figure below are produced by electroluminescence.

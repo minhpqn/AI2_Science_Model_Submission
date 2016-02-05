@@ -1,0 +1,20 @@
+Explain the process of passive transport.
+Distinguish between a channel protein and a carrier protein.
+Summarize the functions of channel proteins and carrier proteins.
+Can any molecule move freely through your cell membranes?
+The cell regulates most molecules that pass through the cell membrane.
+If a molecule is charged or very big, it won't make it through the cell membrane on its own.
+However, small, non-charged molecules like oxygen, carbon dioxide, and water, can pass through the cell membrane freely.
+Recall that the cell membrane is semipermeable.
+It does not allow everything to pass through.
+Some molecules can pass easily through your cell membranes, while others have more difficulty.
+Sometimes molecules need the help of special transport proteins to move across the cell membrane.
+Some molecules even need an input of energy to help get them across the cell membrane.
+The movement of molecules across a membrane without the input of energy is known as passive transport .
+When energy (ATP) is needed, the movement is known as active transport .
+Active transport moves molecules against their concentration gradient, from an area of low concentration to an area of high concentration.
+One example of passive transport is diffusion , when molecules move from an area of high concentration (large amount) to an area of low concentration (low amount).
+Molecules are said to naturally flow down their concentration gradient.
+This type of diffusion proceeds without an input of energy.
+In simple diffusion , molecules that are small and uncharged can freely diffuse across a cell membrane.
+They simply flow through the cell membrane.

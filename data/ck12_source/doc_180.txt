@@ -1,0 +1,20 @@
+It is proper to estimate one place beyond the calibrations of the measuring instrument.
+This ruler is calibrated to 0.1 inches, so we can estimate the hundredths place.
+This reading should be reported as 1.25 or 1.26 inches.
+This measurement is read as 1.00 inch, which has three significant figures
+In this second case (sketch above), it is apparent that the object is, as nearly as we can read, 1 inch.
+Since we know the tenths place is zero and can estimate the hundredths place to be zero, the measurement should be reported as 1.00 inch.
+It is vital that you include the zeros in your reported measurement because these are measured places and are significant figures.
+This measurement is read as 1.15 or 1.16 inches, which has three significant figures
+This measurement is read as 1.15 or 1.16 inches.
+This measurement is read as 1.50 inches, which has three significant figures
+This measurement is read as 1.50 inches.
+In all of these examples, the measurements indicate that the measuring instrument had subdivisions of a tenth of an inch and that the hundredths place is estimated.
+There is some uncertainty about the last, and only the last, digit.
+In our system of writing measurements to show significant figures, we must distinguish between measured zeros and place-holding zeros.
+Here are the rules for determining the number of significant figures in a measurement.
+Rules for Determining the Number of Significant Figures:
+All non-zero digits are significant.
+All zeros between non-zero digits are significant.
+All beginning zeros are not significant.
+Ending zeros are significant if the decimal point is written in but not significant if the decimal point is an understood decimal (the decimal point is not written in).

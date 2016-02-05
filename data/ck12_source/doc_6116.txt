@@ -1,0 +1,20 @@
+The partial pressure of a gas is the contribution that gas makes to the total pressure when the gas is part of a mixture.
+The partial pressure of a gas is indicated by a  P with a subscript that is the symbol or formula of that gas.
+The partial pressure of nitrogen is represented by  P_{N_2} .
+Dalton’s law of partial pressures states that the total pressure of a mixture of gases is equal to the sum of all of the partial pressures of the component gases.
+Dalton’s law can be expressed with the following equation:
+The Figure below shows two gases that are in separate, equal-sized containers at the same temperature and pressure.
+Each exerts a different pressure,  P_1 and P_2 , reflective of the number of particles in the container.
+On the right, the two gases are combined into the same container, with no volume change.
+The total pressure of the gas mixture is equal to the sum of the individual pressures.
+If P_1 = 300 \text{ mmHg} and P_2 = 500 \text{ mmHg} , then P_{\text{Total}}=800 \text{ mmHg} .
+Dalton's law states that the pressure of a gas mixture is equal to the partial pressure of the components
+Dalton’s law says that the pressure of a gas mixture is equal to the partial pressures of the combining gases.
+The total pressure in a system is equal to the sums of the partial pressures of the gases present.
+Review the concepts at the link below and work the sample problems:
+What is the foundation for Dalton’s law?
+Argon makes up about 0.93% of our atmosphere.
+If the atmospheric pressure is 760 mm Hg, what is the pressure contributed by argon?
+On a given day, the water vapor in the air is 2.5%.
+If the partial pressure of the vapor is 19.4 mm Hg, what is the atmospheric pressure?
+Partial pressure:

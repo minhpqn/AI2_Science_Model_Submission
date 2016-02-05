@@ -1,0 +1,20 @@
+Visible light (commonly referred to simply as light) is electromagnetic radiation that is visible to the human eye, and is responsible for the sense of sight.
+Visible light has a wavelength in the range of about 380 nanometres to about 740 nm – between the invisible infrared and the invisible ultraviolet.
+spectrum:
+The electromagnetic spectrum is the range of all possible frequencies of electromagnetic radiation.
+transparent:
+Capable of transmitting light so that objects or images can be seen as if there were no intervening material.
+translucent:
+Transmitting light but causing sufficient diffusion to prevent perception of distinct images.
+opaque:
+Impenetrable by light; neither transparent nor translucent.
+luminous:
+Emitting self-generated light.
+illuminated:
+An object upon which electromagnetic radiation from some source is falling.
+polarized light:
+A phenomenon in which the waves of light or other electromagnetic radiation are restricted to certain directions of vibration, usually specified in terms of the electric field vector.
+Reflection of Light
+State the law of reflection.
+Describe the difference between regular and diffuse reflection.
+Reflection of a sign in water

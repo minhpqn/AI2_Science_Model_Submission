@@ -1,0 +1,20 @@
+Q:
+Why do you think charges flow in an electric current?
+A:
+Electric charges flow when they have electric potential energy.
+Potential energy is stored energy that an object has due to its position or shape.
+Electric Potential Energy
+Electric potential energy comes from the position of a charged particle in an electric field.
+For example, when two negative charges are close together, they have potential energy because they repel each other and have the potential to push apart.
+If the charges actually move apart, their potential energy decreases.
+Electric charges always move spontaneously from a position where they have higher potential energy to a position where they have lower potential energy.
+This is like water falling over a dam from an area of higher to lower potential energy due to gravity.
+For an electric charge to move from one position to another, there must be a difference in electric potential energy between the two positions.
+A difference in electric potential energy is called voltage .
+The SI unit for voltage is the volt (V).
+Look at the Figure below .
+It shows a simple circuit.
+The source of voltage in the circuit is a 1.5-volt battery.
+The difference of 1.5 volts between the two battery terminals results in a spontaneous flow of charges, or electric current, between them.
+Notice that the current flows from the negative terminal to the positive terminal, because electric current is a flow of electrons.
+Flow of electrons in a circuit

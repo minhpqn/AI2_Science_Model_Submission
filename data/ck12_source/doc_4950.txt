@@ -1,0 +1,20 @@
+This pump will be discussed in the Active Transport:
+The Sodium-Potassium Pump (Advanced) concept.
+Other sources of energy for primary active transport are redox energy and photon energy (light energy).
+Redox energy is used in the mitochondrial electron transport chain during cellular respiration.
+In this transport, the reduction energy of NADH is used to move protons across the inner mitochondrial membrane against their concentration gradient.
+An example of primary active transport using photon energy occurs during photosynthesis.
+During photosynthesis, proteins use the energy of photons to create a proton gradient across the chloroplast thylakoid membrane.
+That energy is used to pump H + ions into the thylakoid.
+Secondary Active Transport
+In secondary active transport, which is also known as cotransport , energy is used to transport molecules across a membrane.
+However, in contrast to primary active transport, there is no direct coupling of ATP.
+Instead, the electrochemical potential difference created by pumping ions out of the cell is used.
+The process is called cotransport because one carrier protein mediates the transport of both substances.
+The two main forms of this are antiport and symport.
+Antiport and Symport
+The difference between the two types of cotransport depends on the direction of transport of the molecules.
+A system in which one substance moves in one direction while cotransporting another substance in the other direction is called antiport .
+Symport is transport of two substrates in the same direction across the membrane.
+The protein involved in this transport is a symporter.
+The protein involved in antiport is an antiporter.

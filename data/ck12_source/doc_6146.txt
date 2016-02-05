@@ -1,0 +1,20 @@
+The Tyndall effect allows sunlight to be seen as it passes through a fine mist
+The Tyndall effect allows sunlight to be seen as it passes through a fine mist.
+Examples of Colloids
+The Table below lists examples of colloidal systems, most of which are very familiar.  The dispersed phase describes the particles, while the dispersion medium is the material in which the particles are distributed.
+Classes of Colloids
+Class of Colloid
+Sol and gel
+paint, jellies, blood, gelation, mud
+smoke, dust in air
+fog, mist, clouds, aerosol spray
+whipped cream, shaving cream
+Another property of a colloidal system is the observed when the colloids are studied under a light microscope.  The colloids scintillate, reflecting brief flashes of light because the colloidal particles move in a rapid and random fashion.  This phenomenon, called Brownian motion, is caused by collisions between the small colloidal particles and the molecules of the dispersion medium.
+Butter and mayonnaise are examples of a class of colloids called emulsions .  An emulsion is a colloidal dispersion of a liquid in either a liquid or a solid.  A stable emulsion requires an emulsifying agent to be present.  Mayonnaise is made in part of oil and vinegar.
+Since oil is nonpolar and vinegar is an aqueous solution and polar, the two do not mix and would quickly separate into layers.  However, the addition of egg yolk causes the mixture to become stable and not separate.  Egg yolk is capable of interacting with both the polar vinegar and the nonpolar oil.  The egg yolk is called the emulsifying agent.  Soap acts as an emulsifying agent between grease and water.
+Grease cannot be simply rinsed off your hands or another surface because it is insoluble.  However, the soap stabilizes a grease-water mixture because one end of a soap molecule is polar and the other end is nonpolar.  This allows the grease to be removed from your hands or your clothing by washing with soapy water.
+A colloid is a heterogeneous mixture whose particle size is intermediate between those of a solution and a suspension.
+The Tyndall effect is the scattering of visible light by colloidal particles.
+An emulsion is a colloidal dispersion of a liquid in either a liquid or a solid.
+Use the link below to answer the following questions:
+What is one property of colloids that distinguishes them from true solutions?

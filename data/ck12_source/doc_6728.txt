@@ -1,0 +1,20 @@
+Spinal implant problem — this is a real life bio-med engineering problem!
+Here’s the situation: both springs are compressed by an amount x_o .
+The rod of length L is fixed to both the top plate and the bottom plate.
+The two springs, each with spring constant k , are wrapped around the rod on both sides of the middle plate, but are free to move because they are not attached to the rod or the plates.
+The middle plate has negligible mass, and is constrained in its motion by the compression forces of the top and bottom springs.
+The medical implementation of this device is to screw the top plate to one vertebrae and the middle plate to the vertebrae directly below.
+The bottom plate is suspended in space.
+Instead of fusing broken vertebrates together, this implant allows movement somewhat analogous to the natural movement of functioning vertebrae.
+Below you will do the exact calculations that an engineer did to get this device patented and available for use at hospitals.
+Find the force, F , on the middle plate for the region of its movement \triangle x \le x_o .
+Give your answer in terms of the constants given. ( Hint:
+In this region both springs are providing opposite compression forces .)
+Find the force, F , on the middle plate for the region of its movement \triangle x \ge x_o .
+Give your answer in terms of the constants given. ( Hint:
+In this region, only one spring is in contact with the middle plate. )
+Graph F vs. x .
+Label the values for force for the transition region in terms of the constants given.
+You design a mechanism for lifting boxes up an inclined plane by using a vertically hanging mass to pull them, as shown in the figure below.
+The pulley at the top of the incline is massless and frictionless.
+The larger mass, M , is accelerating downward with a measured acceleration a.

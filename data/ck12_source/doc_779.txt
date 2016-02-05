@@ -1,0 +1,20 @@
+Properties of Magnets
+Describe magnetic fields around permanent magnets.
+Understand ferromagnetism and magnetic domains.
+Describe some properties of magnets.
+Maglev trains are held up using magnetic fields
+Some countries are using powerful electromagnets to develop high-speed trains, called maglev, or magnetic levitation, trains.
+These trains use the repulsive force of magnets to float over a guide way, removing the friction of steel wheels and train tracks.
+Reducing this friction allows the trains to travel at much higher speeds.
+Properties of Magnets
+Any magnet , regardless of its shape, has two ends called poles where the magnetic effect is strongest.
+If a magnet is suspended by a fine thread, it is found that one pole of the magnet will always point toward the north.
+This fact has been made use of in navigation since the eleventh century.
+The pole of the magnet that seeks the north pole is called the north pole of the magnet, while the opposite side is the south pole.
+It is a familiar fact that when two magnets are brought near one another, the magnets exert a force on each other.  The magnetic force can be either attractive or repulsive.
+If two north poles or two south poles are brought near each other, the force will be repulsive.
+If a north pole is brought near a south pole, the force will be attractive.
+Illustration of magnetic north compared to geographic north
+The Earth's geographic north pole (which is close to, but not exactly at the magnetic pole) attracts the north poles of magnets.
+We know, therefore, that this pole is actually the Earth's magnetic south pole.
+This can be seen in the image above; the geographic north and south poles are labeled with barber shop poles, and the Earth's magnetic poles are indicated with the double-headed arrow.

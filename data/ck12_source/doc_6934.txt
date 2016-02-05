@@ -1,0 +1,20 @@
+How many joules of heat are developed after 5 minutes?
+Answers to Selected Problems
+b. 8.3 \;\mathrm{W}
+0.8\mathrm{A} and the 50 \ \Omega on the left
+part 2 43200\mathrm{J} .
+Apply knowledge on Ohm's law, resistors in series and resistors in parallel to understand and solve more complicated resistor circuits.
+Students will use what they have learned from the previous lessons (ohm's law, resistors in series and resistors in parallel) and apply that knowledge to understand and solve more complicated resistor circuits.
+R_{total} = R_1 + R_2 + R_3 + \ldots
+\frac{1} {R_{total}} = \frac{1} {R_1} + \frac{1}{R_2} + \frac{1} {R_3} + \ldots
+Click on the image above to view the table
+A more complicated circuit is analyzed.
+Question:
+What is the total resistance of the circuit?
+Answer:
+In order to find the total resistance we do it in steps (see pictures.
+First add the 90 \Omega and 10\Omega in series to make one equivalent resistance of 100\Omega (see diagram at below).
+Then add the 100\Omega to the 10\Omega in parallel to get one resistor of 9.1\Omega .
+Now we have two resistors in series, simply add them to get the total resistance of 29.1\Omega .
+Question:
+What is the total current coming out of the power supply?

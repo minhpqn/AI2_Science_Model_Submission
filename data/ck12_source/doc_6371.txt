@@ -1,0 +1,20 @@
+Rather, at lower temperatures, the amount of products formed is simply not great enough to say that the products are favored.
+When this reaction is performed, the amount of products can be detected by monitoring the pressure of the CO 2 gas that is produced.
+Above about 700°C, measurable amounts of CO 2 are produced.
+The pressure of CO 2 at equilibrium gradually increases with increasing temperature.
+Above 835°C, the pressure of CO 2 at equilibrium begins to exceed 1 atm, the standard-state pressure.
+This is an indication that the products of the reaction are now favored above that temperature.
+When quicklime is manufactured, the CO 2 is constantly removed from the reaction mixture as it is produced.
+This causes the reaction to be driven towards the products according to LeChâtelier’s principle.
+The influence of temperature on free energy is described.
+Read the material at the link below and answer the following questions:
+Is an exothermic reaction where entropy increases spontaneous or nonspontaneous?
+Give an example of a process where a process proceeds spontaneously only below a certain temperature.
+If  \Delta H > 0 and \Delta S < 0 , can the reaction ever be spontaneous?
+If you increased the pressure of CO 2 in the quicklime reaction, what would happen to the equilibrium?
+Why do we calculate the situation where  \Delta G is zero?
+At temperatures below 835°C, is any product formed?
+Changes of State and Free Energy
+Describe how a change of state influences free energy.
+An increase in the level of energy can cause a change in state
+How are energy and changes of state related?

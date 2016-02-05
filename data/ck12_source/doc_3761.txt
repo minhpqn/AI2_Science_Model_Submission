@@ -1,0 +1,20 @@
+Relative Dating Using Rock Layers.
+Relative dating establishes which of two fossils is older than the other.
+It is based on the rock layers in which the fossils formed.
+Evidence from the fossil record can be combined with data from molecular clocks.
+A molecular clock uses DNA sequences (or the proteins they encode) to estimate relatedness among species.
+Molecular clocks estimate the time in geologic history when related species diverged from a common ancestor.
+Molecular clocks are based on the assumption that mutations accumulate through time at a steady average rate for a given region of DNA.
+Species that have accumulated greater differences in their DNA sequences are assumed to have diverged from their common ancestor in the more distant past.
+Molecular clocks based on different regions of DNA may be used together for more accuracy.
+Consider the example in Table below .
+The table shows how similar the DNA of several animal species is to human DNA.
+Based on these data, which organism do you think shared the most recent common ancestor with humans?
+Similarity with Human DNA (percent)
+Geologic Time Scale
+Another tool for understanding the history of Earth and its life is the geologic time scale , shown in Figure below .
+The geologic time scale divides Earth’s history into divisions (such as eons, eras, and periods) that are based on major changes in geology, climate, and the evolution of life.
+It organizes Earth’s history and the evolution of life on the basis of important events instead of time alone.
+It also allows more focus to be placed on recent events, about which we know the most.
+The geologic time scale
+Geologic Time Scale.

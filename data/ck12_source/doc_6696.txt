@@ -1,0 +1,20 @@
+Answers to Selected Problems
+28.9 \;\mathrm{m} south of starting point
+No, even if you swim directly north the river will still take you south at 1 m/s
+Explain the parabolic motion of a thrown object.
+The aim here is to understand and explain the parabolic motion of a thrown object, known as projectile motion.
+Motion in one direction is unrelated to motion in other perpendicular directions.
+Once the object has been thrown, the only acceleration is in the y (up/down) direction due to gravity.
+The x (right/left) direction velocity remains unchanged.
+In projectile motion, the horizontal displacement of an object from its starting point is called its range.
+Vertical (  y  ) speed is zero only at the highest point of a thrown object's flight.
+Since in the absence of air resistance there is no acceleration in the horizontal direction, this component of velocity does not change over time.
+This is a counter-intuitive notion for many. (Air resistance will cause velocity to decrease slightly or significantly depending on the object.
+But this factor is ignored for the time being.)
+Motion in the vertical direction must include the acceleration due to gravity, and therefore the velocity in the vertical direction changes over time.
+The shape of the path of an object undergoing projectile motion in two dimensions is a parabola.
+Watch this Explanation
+Click on the image above for more content
+Projectile Motion (PhET Simulation)
+Determine which of the following is in projectile motion.
+Remember that “projectile motion” means that gravity is the only means of acceleration for the object.

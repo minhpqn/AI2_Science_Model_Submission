@@ -1,0 +1,20 @@
+We will discuss each of these stresses separately.
+The change to the equilibrium position in every case is either a favoring of the forward reaction or a favoring of the reverse reaction.
+When the forward reaction is favored, the concentrations of products increases, while the concentrations of reactants decreases.
+When the reverse reaction is favored, the concentrations of products decreases, while the concentrations of reactants increases.
+A \rightleftarrows B
+forward:
+A \rightarrow B
+[A] decreases; [B] increases
+A \rightleftarrows B
+reverse:
+A \leftarrow B
+[A] increases; [B] decreases
+Henri LeChatelier postulated that a chemical system moves to release stress from the system
+Henri Le Châtelier
+Le Châtelier’s principle describes how a reaction system at equilibrium is influenced by stress.
+Read Le Châtelier’s biography at the link below and answer the following questions:
+Who gave him his early training in math and chemistry?
+What was his first area of investigation?
+What was another area of interest?
+When did he first propose his principle?

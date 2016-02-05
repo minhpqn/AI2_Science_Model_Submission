@@ -1,0 +1,20 @@
+anaerobic respiration :
+Cellular respiration in the absence of oxygen; produces 2 ATP molecules/glucose; fermentation.
+electron transport chain :
+Series of electron-transport molecules that pass high-energy electrons from molecule to molecule and capture their energy.
+fermentation :
+Type of anaerobic respiration that includes glycolysis followed by the conversion of pyruvic acid to one or more other compounds and the formation of NAD + ; the process of producing ATP in the absence of oxygen through glycolysis.
+glycogen :
+A carbohydrate used for long-term energy storage in animal cells; human muscle and liver cells store energy in this form.
+glycolysis :
+The process of “splitting glucose”; stage 1 of aerobic cellular respiration and also the basis of anaerobic respiration; splits glucose into two 3-carbon pyruvate molecules, producing 2 (net) ATP.
+Krebs Cycle :
+Stage 2 of aerobic cellular respiration; a series of chemical reactions which completes the breakdown of glucose begun in stage 1, releasing more chemical energy and producing carbon dioxide; also called the Citric Acid Cycle.
+NADH :
+Short-term energy carrier; temporarily stores energy during cellular respiration; nicotinamide adenine dinucleotide.
+pyruvate :
+The 3-carbon product of glycolysis; also known as pyruvic acid.
+The process of cellular respiration is actually many separate reactions, which can be divided into three stages: glycolysis, the Krebs Cycle, and the electron transport chain.
+During glycolysis, glucose is split into two 3-carbon pyruvate molecules, using 2 ATP but generating 4 ATP, for a net gain of 2 ATP.
+During glycolysis, 2 NADH are also produced.
+Glycolysis at  .

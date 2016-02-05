@@ -1,0 +1,20 @@
+Some solutions are acids and some are bases.
+To understand acids and bases, you need to know more about pure water.
+In pure water (such as distilled water), a tiny fraction of water molecules naturally breaks down to form ions.
+An ion is an electrically charged atom or molecule.
+The breakdown of water is represented by the chemical equation
+2 H 2 O → H 3 O + + OH -
+The products of this reaction are a hydronium ion (H 3 O + ) and a hydroxide ion (OH - ).
+The hydroxide ion, which has a negative charge, forms when a water molecule gives up a positively charged hydrogen ion (H + ).
+The hydronium ion, which has positive charge, forms when another water molecule accepts the hydrogen ion.
+Acidity and pH
+The concentration of hydronium ions in a solution is known as acidity .
+In pure water, the concentration of hydronium ions is very low; only about 1 in 10 million water molecules naturally breaks down to form a hydronium ion.
+As a result, pure water is essentially neutral.
+Acidity is measured on a scale called pH , as shown in Figure below .
+Pure water has a pH of 7, so the point of neutrality on the pH scale is 7.
+The pH Scale
+Acidity and the pH Scale Water has a pH of 7, so this is the point of neutrality on the pH scale.
+Acids have a pH less than 7, and bases have a pH greater than 7.
+Approximate pHs of examples are shown.
+If a solution has a higher concentration of hydronium ions than pure water, it has a pH lower than 7.

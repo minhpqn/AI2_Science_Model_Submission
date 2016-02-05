@@ -1,0 +1,20 @@
+Explain the concept of DNA sequencing and the chain-termination method.
+Gene Cloning - Advanced
+Describe gene cloning and the processes involved.
+What does it mean to clone?
+A genetically exact copy.
+A clone can be a gene, a cell, an animal or plant.
+And these clones are produced all the time.
+Theoretically, a clone could also be a human.
+But would that be a smart thing to do?
+Is it ethical?
+Is it even legal?
+You probably have heard of cloning.
+A clone is a genetically exact copy.
+It can be a clone of a gene, a cell or an organism.
+Even a human.
+However, whereas cloning of humans has many ethical issues associated with it and is illegal throughout most of the world, the cloning of genes has been ongoing for well over 30 or 40 years, with cloning of animals occurring more recently.
+Gene cloning , also known as molecular cloning, refers to the process of isolating a DNA sequence of interest for the purpose of making multiple copies of it.
+The identical copies are clones.
+In 1973, Stanley Cohen and Herbert Boyer developed techniques to make recombinant DNA, a form of artificial DNA.
+They talk about their work in Genes can be moved between species at  .

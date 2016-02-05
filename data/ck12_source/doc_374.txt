@@ -1,0 +1,20 @@
+The key shows which food group each color represents.
+Which colored band of MyPyramid is widest?
+Which food group does it represent?
+In MyPyramid, each food group is represented by a band of a different color.
+For example, grains are represented by an orange band, and vegetables are represented by a green band.
+The wider the band, the more foods you should choose from that food group each day.
+The orange band in MyPyramid is the widest band.
+This means that you should choose more foods from the grain group than from any other single food group.
+The green, blue, and red bands are also relatively wide.
+Therefore, you should choose plenty of foods from the vegetable, dairy, and fruit groups as well.
+You should choose the fewest foods from the food group with the narrowest band.
+Which band is narrowest?
+Which food group does it represent?
+Are you wondering where foods like ice cream, cookies, and potato chips fit into MyPyramid?
+The white tip of MyPyramid represents foods such as these.
+These are foods that should be eaten only in very small amounts and not very often.
+Such foods contain very few nutrients and are called nutrient-poor.
+Instead, they are high in fats, sugars, and sodium, which are nutrients that you should limit in a healthy eating plan.
+Ice cream, cookies, and potato chips are also high in calories.
+Eating too much of them may lead to unhealthy weight gain.

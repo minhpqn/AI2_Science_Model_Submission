@@ -1,0 +1,20 @@
+This pattern is typical of plants, invertebrates, and many species of fish.
+See  for an overview of survivorship curves.
+The Type I strategy occurs more often in stable environments.
+The Type III strategy is more likely in unstable environments.
+Can you explain why?
+The age-sex structure of a population is the number of individuals of each sex and age in the population.
+Age-sex structure influences population growth.
+It is represented by a population pyramid.
+The number of survivors at each age is plotted on a survivorship curve.
+Use this resource to answer the questions that follow.
+Population structure and population pyramids at
+What does a population structure explain about a population?
+What information can be interpreted from a population pyramid?
+How do pyramids change over time?
+How does the age-sex structure of a population influence growth?
+Assume that a population pyramid has a very broad base.
+What does that tell you about the population it represents?
+Compare and contrast Type I and Type III survivorship curves.
+Identify factors that determine population growth rate.
+Give the formula for the population growth rate.

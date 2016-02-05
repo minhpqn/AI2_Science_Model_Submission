@@ -1,0 +1,20 @@
+Define a transcription factor.
+Describe common cis-regulatory elements.
+What turns a gene on?
+Many times it involves a protein binding to DNA.
+Shown here is a model of p53 protein bound to DNA. p53 is a transcription factor whose inactivation can trigger the onset of cancer.
+Mechanisms of Gene Regulation
+Any step of gene expression may be modulated, from the initiation of transcription to the post-translational modification of a protein.
+Following is a list of stages where gene expression is regulated:
+Chemical and structural modification of DNA or chromatin.
+In this concept, we will focus on regulation at the level of transcription.
+During transcription, RNA polymerase binds to a gene and reads the DNA template to make a complementary strand of RNA.
+How does RNA polymerase know which genes to bind to, when to bind to those genes, and where on the gene to bind?
+Concerning the binding of RNA polymerase, the which, when and where is a highly regulated process.
+When RNA polymerase binds to a gene, it binds to the promoter , a segment of DNA that allows a gene to be transcribed.
+The promoter helps RNA polymerase find the start of a gene.
+cis and trans
+Gene regulation at the level of transcription controls when transcription occurs as well as how much RNA is created.
+This regulation is controlled by cis-regulatory elements ( cis from the Latin word meaning "on the same side as") and trans-acting factors ( trans from the Latin root meaning "across from").
+A cis-regulatory element is a region of DNA which regulates the expression of a gene or multiple genes located on that same strand of DNA.
+These cis-regulatory elements are often the binding sites of one or more trans-acting factors, usually a regulatory protein which interacts with RNA polymerase.

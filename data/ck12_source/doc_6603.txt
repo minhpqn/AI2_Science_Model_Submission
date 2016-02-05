@@ -1,0 +1,20 @@
+Some protein molecules consist of multiple protein subunits.
+The quaternary structure of a protein refers to the specific interaction and orientation of the subunits of that protein Hemoglobin is a very large protein found in red blood cells and whose function is to bind and carry oxygen throughout the bloodstream.
+Hemoglobin consists of four subunits – two α subunits (yellow) and two β subunits (gray) – which then come together in a specific and defined way through interactions of the side chains (see Figure below ).
+Hemoglobin also contains four iron atoms, located in the middle of each of the four subunits.
+The iron atoms are part of a structure called a porphyrin, shown in red in the figure.
+Ribbon diagram of hemoglobin
+Some proteins consist of only one subunit and thus do not have a quaternary structure.
+The Figure below diagrams the interaction of the four levels of protein structure.
+Diagram of the four levels of protein structure
+The four levels of protein structure.
+Peptide and proteins are defined.
+The four levels of protein structure are listed and defined.
+Watch the video at the link below and answer the following questions:
+Click on the image above for more content
+What is part of what determines how a protein folds?
+What holds secondary structure together?
+What holds the tertiary structure together?
+A protein has the following sequence: ser-his-thr-tyr.
+What component of protein structure is this?
+What do we call the overall three-dimensional shape of a protein?

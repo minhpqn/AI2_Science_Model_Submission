@@ -1,0 +1,20 @@
+The resulting ions that are formed are then attracted to one another in an ionic bond.
+Another example of an oxidation-reduction reaction involving electron transfer is the well-known combination of metallic sodium and chlorine gas to form sodium chloride:
+2\text{Na} + \text{Cl}_2 \rightarrow 2 \text{NaCl}
+The half-reactions are as follows:
+& \text{Oxidation:} \ \text{Na} \rightarrow \text{Na}^+ + e^- \\& \text{Reduction:} \ \text{Cl} + e^- \rightarrow \text{Cl}^-
+We will concern ourselves with the balancing of these equations at another time.
+Definitions are given for oxidation and reduction processes.
+Examples of oxidation-reduction reactions are shown.
+In each reaction below, identify the material that is oxidized and the material that is reduced:
+2 \ \text{AgCl}(s) + \text{H}_2(g) \rightarrow 2 \ \text{H}^+(aq) + 2 \ \text{Ag}(s) + 2 \ \text{Cl}^-
+\text{H}_2 + \text{F}_2 \rightarrow 2 \ \text{HF}
+\text{Fe} + \text{CuSO}_4 \rightarrow \text{FeSO}_4 + \text{Cu}
+In the Zn + S reaction, why do we say that the Zn was oxidized?
+In that reaction, why do we say that S was reduced?
+In a reaction, we see the following half-reaction: \text{K}^0 \rightarrow \text{K}^+ .
+Was K oxidized or reduced?
+half-reaction:
+An equation that shows either the oxidation or the reduction reaction that occurs during a redox reaction.
+oxidation:
+The full or partial loss of electrons or the gain of oxygen.

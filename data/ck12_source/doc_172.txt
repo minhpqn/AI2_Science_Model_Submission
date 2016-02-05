@@ -1,0 +1,20 @@
+These are called fundamental units because they have an actual physical standard.
+The standard SI unit for length is the meter , and is denoted by "m".
+Originally, the meter was defined as the length between two scratches on a piece of metal which was stored in a secure vault under controlled conditions.
+The meter's definition has changed over time, but it is now accepted to be the distance light travels in a vacuum over 1/299792458 of a second.
+The standard unit of time, the second , was once defined as a fraction of the time it takes the earth to complete an orbit around the sun, but has now been redefined in terms of the frequency of one type of radiation emitted by a cesium-133 atom.
+Seconds are denoted by "s" or, less commonly, "sec."
+The standard unit for mass is the kilogram .
+The kilogram's standard is a block of platinum-iridium metal kept near Paris, France.
+Other countries, of course, keep copies.
+A kilogram is denoted "kg" and is a multiple of the smaller unit of mass, the gram ("g").
+Meters, seconds, and kilograms are not the only unit entities.
+Take, for example, speed.
+Speed is a derived unit, measured in meters per second (m/s).
+Derived units are units that are expressed using combinations of the fundamental units.
+As mentioned earlier, the SI system is a decimal system.
+Prefixes are used to change SI units by powers of ten.
+Thus, one hundredth of a meter is a centimeter and one thousandth of a gram is a milligram.
+The metric units for all quantities use the same prefixes.
+One thousand meters is a kilometer and one thousand grams is a kilogram.
+The common prefixes are shown in the Table below .

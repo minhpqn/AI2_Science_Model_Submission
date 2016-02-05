@@ -1,0 +1,20 @@
+Interphase of the eukaryotic cell cycle can be subdivided into the following three phases, which are represented in Figure above :
+Growth Phase 1 (G1): during this phase, the cell grows rapidly, while performing routine metabolic processes.
+It also makes proteins needed for DNA replication and copies some of its organelles in preparation for cell division.
+A cell typically spends most of its life in this phase.
+This phase is sometimes referred to as Gap 1.
+Synthesis Phase (S): during this phase, the cell’s DNA is copied in the process of DNA replication .
+Growth Phase 2 (G2): during this phase, the cell makes final preparations to divide.
+For example, it makes additional proteins and organelles.
+This phase is sometimes referred to as Gap 2.
+Control of the Cell Cycle
+If the cell cycle occurred without regulation, cells might go from one phase to the next before they were ready.
+What controls the cell cycle?
+How does the cell know when to grow, synthesize DNA, and divide?
+The cell cycle is controlled mainly by regulatory proteins.
+These proteins control the cycle by signaling the cell to either start or delay the next phase of the cycle.
+They ensure that the cell completes the previous phase before moving on.
+Regulatory proteins control the cell cycle at key checkpoints, which are shown in Figure below .
+There are a number of main checkpoints.
+The G1 checkpoint, just before entry into S phase, makes the key decision of whether the cell should divide.
+The S checkpoint determines if the DNA has been replicated properly.

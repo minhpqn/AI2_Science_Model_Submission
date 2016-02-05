@@ -1,0 +1,20 @@
+Heat Capacity and Specific Heat
+Define heat capacity.
+Define specific heat.
+Perform calculations involving specific heat.
+The large swimming pool will warm up more slowly because of its size
+Which pool will warm up faster?
+If a swimming pool and wading, both full of water at the same temperature were subjected to the same input of heat energy, the wading pool would certainly rise in temperature more quickly than the swimming pool.
+The heat capacity of an object depends both on its mass and its chemical composition.
+Because of its much larger mass, the swimming pool of water has a larger heat capacity than the bucket of water.
+Heat Capacity and Specific Heat
+Different substances respond to heat in different ways.
+If a metal chair sits in the bright sun on a hot day, it may become quite hot to the touch.
+An equal mass of water in the same sun will not become nearly as hot.
+We would say that water has a high heat capacity (the amount of heat required to raise the temperature of an object by 1°C.) Water is very resistant to changes in temperature, while metals in general are not.
+The specific heat of a substance is the amount of energy required to raise the temperature of 1 gram of the substance by 1°C.
+Table below lists the specific heats of some common substances.
+The symbol for specific heat is c p , with the p subscript referring to the fact that specific heats are measured at constant pressure.
+The units for specific heat can either be joules per gram per degree (J/g°C) or calories per gram per degree (cal/g°C).
+This text will use J/g°C for specific heat.
+Specific Heats of Some Common Substances

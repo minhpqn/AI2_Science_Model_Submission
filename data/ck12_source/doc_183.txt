@@ -1,0 +1,20 @@
+The answer must be rounded to three significant figures.
+Therefore, the decimal must be written in to show that the two ending zeros are significant.
+If the decimal is omitted (left as an understood decimal), the two zeros will not be significant and the answer will be wrong.
+Example: (5.444 \ \text{cm})(22 \ \text{cm}) = 119.768 \ \text{cm}^2 = 120 \ \text{cm}^2
+In this case, the answer must be rounded back to two significant figures.
+We cannot have a decimal after the zero in 120 cm 2 because that would indicate the zero is significant, whereas this answer must have exactly two significant figures.
+Mathematics is a major tool for doing physics.
+The very large and very small measurements in physics make it useful to express numbers in scientific notation.
+There is uncertainty in all measurements.
+The use of significant figures is one way to keep track of uncertainty.
+Measurements must be written with the proper number of significant figures and the results of calculations must show the proper number of significant figures.
+Rules for Determining the Number of Significant Figures:
+All non-zero digits are significant.
+All zeros between non-zero digits are significant.
+All beginning zeros are not significant.
+Ending zeros are significant if the decimal point is actually written in but not significant if the decimal point is an understood decimal (the decimal point is not written in).
+This resource is very helpful in explaining units, scientific notation, and significant figures.
+Use it to answer the questions below:
+Click on the image above for more content
+How many base units are there?

@@ -1,0 +1,20 @@
+Radioisotopes and Radioactive Decay
+A radioisotope has atoms with unstable nuclei.
+Unstable nuclei naturally decay, or break down.
+They lose energy and particles and become more stable.
+As nuclei decay, they gain or lose protons, so the atoms become different elements.
+This is illustrated in the Figure below .
+The original, unstable nucleus is called the parent nucleus.
+After it loses a particle (in this case a type of particle called an alpha particle), it forms a daughter nucleus, with a different number of protons.
+The nucleus of a given radioisotope decays at a constant rate that is unaffected by temperature, pressure, or other conditions outside the nucleus.
+This rate of decay is called the half-life.
+The half-life is the length of time it takes for half of the original amount of the radioisotope to decay to another element.
+Q:
+How can the half-life of a radioisotope be used to date a rock?
+A:
+After a rock forms, nuclei of a radioisotope inside the rock start to decay.
+As they decay, the amount of the original, or parent, isotope decreases, while the amount of its stable decay product, or daughter isotope, increases.
+By measuring the relative amounts of parent and daughter isotopes and knowing the rate of decay, scientists can determine how long the parent isotope has been decaying.
+This provides an estimate of the rock’s age.
+Different Isotopes, Different Half-Lives
+Different radioisotopes decay at different rates.

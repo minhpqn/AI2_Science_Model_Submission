@@ -1,0 +1,20 @@
+Electronic configuration of the carbon atom
+Orbital configuration for carbon atom.
+According to the description of valence bond theory so far, carbon would be expected to form only two bonds, corresponding to its two unpaired electrons.
+However, methane is a common and stable molecule, with four equivalent C−H bonds.
+To account for this, one of the 2s electrons is promoted to the empty 2p orbital (see Figure below ).
+Promotion of an electron from the s orbital to the p orbital in carbon
+Promotion of carbon s electron to empty p orbital.
+Now, four bonds are possible.
+The promotion of the electron “costs” a small amount of energy, but recall that the process of bond formation is accompanied by a decrease in energy.
+The two extra bonds that can now be formed results in a lower overall energy and thus greater stability to the CH 4 molecule.  Carbon normally forms four bonds in most of its compounds.
+The number of bonds is now correct, but the geometry is wrong.  The three p orbitals (p x , p y , p z ) are oriented at 90 o relative to one another.
+However, as was seen from VSEPR theory, the observed H−C−H bond angle in the tetrahedral CH 4 molecule is actually 109.5 o .  Therefore, the methane molecule cannot be adequately represented by simple overlap of the 2s and 2p orbitals of carbon with the 1s orbitals of each hydrogen atom.
+To explain the bonding in methane, it is necessary to introduce the concept of hybridization and hybrid atomic orbitals.  Hybridization is the mixing of the atomic orbitals in an atom to produce a set of hybrid orbitals.  When hybridization occurs, it must do so as a result of the mixing of nonequivalent orbitals.  In other words, s and p orbitals can hybridize but p orbitals cannot hybridize with other p orbitals.
+Hybrid orbitals are the atomic orbitals obtained when two or more nonequivalent orbitals form the same atom combine in preparation for bond formation.  In the current case of carbon, the single 2s orbital hybridizes with the three 2p orbitals to form a set of four hybrid orbitals, called sp 3 hybrids (see Figure below ).
+Hybrid sp3 orbitals in carbon
+Carbon sp 3 hybrid orbitals.
+The sp 3 hybrids are all equivalent to one another.  Spatially, the hybrid orbitals point towards the four corners of a tetrahedron (see Figure below ).
+Image of how s and p orbitals combine to form sp3 orbitals
+The process of sp 3 hybridization is the mixing of an s orbital with a set of three p orbitals to form a set of four sp 3 hybrid orbitals.
+Each large lobe of the hybrid orbitals points to one corner of a tetrahedron.

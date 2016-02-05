@@ -1,0 +1,20 @@
+Instead the arrow is called a yield sign and so the equation is described as “reactants yield products”.
+You can describe a chemical reaction by writing a word equation .
+When silver metal is exposed to sulfur it reacts to form silver sulfide.
+Silver sulfide is commonly known as tarnish and turns the surface of silver objects dark and streaky black (see Figure below ).
+The sulfur that contributes to tarnish can come from traces of sulfur in the air or from food such as eggs.
+The word equation for the process is:
+\text{Silver} + \text{sulfur} \rightarrow \text{Silver sulfide}
+The silver and the sulfur are the reactants in the equation, while the silver sulfide is the product.
+Tarnished silver contains silver sulfide
+The coffee percolator on the left has been tarnished from exposure to sulfur.
+Tarnish is the chemical compound silver sulfide.
+The same percolator on the right has been polished with a tarnish removal product in order to restore its silver finish.
+Another common chemical reaction is the burning of methane gas.
+Methane is the major component of natural gas and is commonly burned on a gas stove or in a Bunsen burner ( Figure below ).
+Burning is a chemical reaction in which some type of fuel is reacted with oxygen gas.
+The products of the reaction in the burning of methane as well as other fuels are carbon dioxide and water.
+The word equation for this reaction is:
+\text{Methane}+\text{oxygen} \rightarrow \text{carbon dioxide}+\text{water}
+A Bunsen burner reacts methane with oxygen to form water and carbon dioxide
+A Bunsen burner is commonly used to heat substances in a chemistry lab.

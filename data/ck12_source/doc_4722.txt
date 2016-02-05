@@ -1,0 +1,20 @@
+An abstract model is a theoretical construct that represents something.
+Models are developed to allow reasoning within a simplified framework that is similar to the phenomena being investigated.
+The simplified model may assume certain things that are known to be incomplete in some details.
+Such assumptions can be useful in that they simplify the model, while at the same time, allowing the development of acceptably accurate solutions.
+These models play an important role in developing scientific theories.
+A simulation is a model that runs over time.
+A simulation brings a model to life and shows how a particular object or phenomenon will behave.
+It is useful for testing, analysis or training where real-world systems or concepts can be represented by a model.
+For the scientist, a model also provides a way for calculations to be expanded to explore what might happen in different situations.
+This method often takes the form of models that can be programmed into computers.
+The scientist controls the basic assumptions about the variables in the model, and the computer runs the simulation, eventually coming to a complex answer.
+Examples of models include:
+Weather forecast models
+One of the main aims of scientific modeling is to allow researchers to quantify their observations about the world.
+In this way, researchers hope to see new things that may have escaped the notice of other researchers.
+There are many techniques that model builders use which allow us to discover things about a phenomenon that may not be obvious to everyone.
+The National Weather Service Enhanced Radar Images web site (  ) is an excellent example of a simulation.
+The site exhibits current weather forecasts across the United States.
+These two food chains represent the flow of energy in complex systems in nature.
+These conceptual models make the systems easier to understand.

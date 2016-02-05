@@ -1,0 +1,20 @@
+Step 3:
+Think about your result
+The number of moles of oxygen is far less than one mole, so the volume should be fairly small compared to molar volume (22.4 L/mol) since the pressure and temperature are reasonably close to standard.
+The result has three significant figures because of the values for  T and P .
+Since a joule (J) = kPa • L, the units cancel correctly, leaving a volume in liters.
+The ideal gas constant is calculated.
+An example of calculations using the ideal gas law is shown.
+Work on the problems at the link below:
+Which value of  R will you use if the pressure is given in atm?
+You are doing a calculation where the pressure is given in mm Hg.
+You select 8.314 J/K • mol as your value for R .
+Will you get a correct answer?
+How would you check that you have chosen the correct value of  R for your problem?
+ideal gas constant:
+The variable  R in the ideal gas law equation.
+ideal gas law:
+A single equation which relates the pressure, volume, temperature, and number of moles of an ideal gas.
+Calculating the Molar Mass of a Gas
+Calculate the molar mass of a gas.
+Calculate the density of a gas.

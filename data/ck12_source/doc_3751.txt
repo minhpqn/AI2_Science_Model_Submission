@@ -1,0 +1,20 @@
+In eukaryotic cells, the start of transcription is one of the most complicated parts of gene regulation.
+There may be many regulatory proteins and regulatory elements involved.
+Regulation may also involve enhancers.
+Enhancers are distant regions of DNA that can loop back to interact with a gene’s promoter.
+The TATA Box
+Different types of cells have unique patterns of regulatory elements that result in only the necessary genes being transcribed.
+That’s why a skin cell and nerve cell, for example, are so different from each other.
+However, some patterns of regulatory elements are common to all genes, regardless of the cells in which they occur.
+An example is the TATA box , so named because it has a core sequence of TATAAA .
+This is a regulatory element that is part of the promoter of most eukaryotic genes.
+A number of regulatory proteins bind to the TATA box, forming a multi-protein complex.
+It is only when all of the appropriate proteins are bound to the TATA box that RNA polymerase recognizes the complex and binds to the promoter.
+Once RNA polymerase binds, transcription begins.
+To see a video showing the role of the TATA box in the initiation of transcription, go to this link:
+Regulation During Development
+The regulation of gene expression is extremely important during the development of an organism.
+Regulatory proteins must turn on certain genes in particular cells at just the right time so the organism develops normal organs and organ systems.
+Homeobox genes are an example of genes that regulate development.
+They code for regulatory proteins that switch on whole series of major developmental genes.
+In insects, homeobox genes called hox genes ensure that body parts such as limbs develop in the correct place.

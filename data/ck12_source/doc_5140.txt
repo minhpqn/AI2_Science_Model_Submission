@@ -1,0 +1,20 @@
+homologues :
+A pair of chromosomes (one from each parent) consisting of two chromosomes that are similar in size, shape, and genes; also known as homologous chromosomes.
+loci (singular, locus ):
+The specific location of a gene or DNA sequence on a chromosome.
+sex chromosome :
+A chromosome involved with determining the sex of an organism, typically one of two kinds.
+transcription :
+The process of making mRNA from the information in the DNA (gene) sequence.
+translation :
+The process of synthesizing a polypeptide/protein from the information in a mRNA sequence; occurs on ribosomes.
+zygote :
+A fertilized egg; the first cell of a new organism.
+As a eukaryotic cell prepares to divide, the DNA and associated proteins coil into a structure, known as a chromosome.
+After DNA replication, a resulting chromosome will consist of two identical sister chromatids, attached at a region called the centromere.
+Any cell containing two sets of chromosomes is said to be diploid; the zygote forms from the fusion of two haploid gametes.
+Use this resource to answer the questions that follow.
+Chromosomes at  .
+What is a chromosome?
+What is chromatin?
+What is a histone?

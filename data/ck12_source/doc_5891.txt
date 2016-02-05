@@ -1,0 +1,20 @@
+Brass alloys have long been employed in musical instruments.
+Steel alloys are strong and durable.
+Use the link below to answer the following questions:
+What alloys are extensively used in the production of cars and engine parts?
+Why are copper alloys used in electrical equipment?
+Why are titanium alloys used in chemical, petrochemical, and biomaterial applications?
+What is brass made of?
+What is bronze made of?
+Why is steel widely used in construction?
+What is a substitutional alloy?
+alloy:
+A mixture composed of two or more elements, at least one of which is a metal.
+brass:
+An alloy of copper and zinc.
+bronze:
+An alloy of copper and tin.
+interstitial alloy:
+The smaller atoms such as carbon fit in between the larger atoms in the crystal packing arrangement.
+substitutional alloy:
+The various atoms simply replace each other in the crystal structure.

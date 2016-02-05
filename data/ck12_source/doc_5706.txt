@@ -1,0 +1,20 @@
+Laser measuring distance from Earth to the Moon
+What are the different uses of lasers?
+Lasers have numerous applications outside the physics lab.
+These devices can be employed to measure distances accurately and many commercial instruments are used in construction for laying out a building site.
+When the light beam strikes a solid object, it is reflected back and the device determines how far away the object is.
+There is such a significant difference between the mass of the light beam (photons) and the mass of the object, the beam does not disturb the object at all.
+One measurement of interest was the use of a laser to measure the distance from the Earth to the moon (see figure above).
+The impact of the photons from the laser on the moon had absolutely no effect on the moon’s orbit.
+Heisenberg Uncertainty Principle
+Another feature that is unique to quantum mechanics is the uncertainty principle.
+The Heisenberg Uncertainty Principle states that it is impossible to determine simultaneously both the position and the velocity of a particle.
+The detection of an electron, for example, would be made by way of its interaction with photons of light.
+Since photons and electrons have nearly the same energy, any attempt to locate an electron with a photon will knock the electron off course, resulting in uncertainty about where the electron is located (see Figure below ).
+We do not have to worry about the uncertainty principle with large everyday objects because of their mass.
+If you are looking for something with a flashlight, the photons coming from the flashlight are not going to cause the thing you are looking for to move.
+This is not the case with atomic-sized particles, leading scientists to a new understanding about how to envision the location of the electrons within atoms.
+Diagram of the Heisenberg Uncertainty Principle
+Heisenberg Uncertainty Principle:
+The observation of an electron with a microscope requires reflection of a photon off of the electron.
+This reflected photon causes a change in the path of the electron.

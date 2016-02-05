@@ -1,0 +1,20 @@
+The units of resistance can be determined using the units of the other terms in the equation, namely that the potential difference is in volts (J/C) and current in amperes (C/s):
+R=\frac{\text{volts}}{\text{amperes}}=\frac{\text{joules/coulomb}}{\text{coulombs/second}}=\frac{\text{joules} \cdot \text{seconds}}{\text{coulombs}^2}=ohms
+The units for resistance have been given the name ohms and the abbreviation is the Greek letter omega, Ω. 1.00 Ω is the resistance that will allow 1.00 ampere of current to flow through the resistor when the potential difference is 1.00 volt.
+Most conductors have a constant resistance regardless of the potential difference; these are said to obey Ohm's Law.
+There are two ways to control the current in a circuit.
+Since the current is directly proportional to the potential difference and inversely proportional to the resistance, you can increase the current in a circuit by increasing the potential or by decreasing the resistance.
+Example Problem:
+A 50.0 V battery maintains current through a 20.0 Ω resistor.
+What is the current through the resistor?
+Solution:
+I=\frac{V}{R}=\frac{50.0 \ V}{20.0 \ \Omega}=2.50 \ amps
+Resistance is the property that determines the amount of current flow through a particular material.
+V = IR is known as Ohm’s Law.
+The unit for resistance is the ohm, and it has the abbreviation
+The following video covers Ohm's Law.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+What happens to current flow when voltage is increased?
+What happens to current flow when resistance is increased?
+This website contains instruction and guided practice for Ohm’s Law:

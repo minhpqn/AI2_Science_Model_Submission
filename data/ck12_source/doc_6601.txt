@@ -1,0 +1,20 @@
+A combination of amino acids in which the amino group of one amino acid has undergone a reaction with the carboxyl group of another amino acid.
+peptide bond:
+The amide bond that occurs between the amino nitrogen of one amino acid and the carboxyl carbon of another amino acid.
+List and describe the four levels of protein structure.
+Illustration of sickle cell anemia
+A Serious Shift
+Hemoglobin is a complex protein which has a quaternary structure and contains iron.
+There are four subunits in the hemoglobin molecule – two alpha subunits and two beta subunits.
+Each subunit contains one iron ion, whose oxidation state changes from +2 to +3 and back again, depending upon the environment around the iron.
+When the oxygen binds to the iron, the three-dimensional shape of the molecule changes.
+Upon release of the oxygen to the cells, the shape changes again.
+With hemoglobin of normal structure, this shift in conformation does not present any problems.
+However, individuals with hemoglobin S do experience serious complications.
+This hemoglobin has one amino acid in the two beta chains that is different from the amino acid at that point in the primary structure of normal hemoglobin.
+The result of this one structural change is aggregation of the individual protein molecules when oxygen is released.
+Adjacent hemoglobin molecules come in contact with one another and clump up, causing the red cells to deform and break.
+This abnormality, known as sickle cell, is genetic in nature.
+A person may inherit the gene from one parent and have sickle cell trait (only some of the hemoglobin is hemoglobin S), which is usually not life-threatening.
+Inheriting the gene from both parents will result in sickle cell disease, a very serious condition.
+A polypeptide is a sequence of amino acids between ten and one hundred in length.

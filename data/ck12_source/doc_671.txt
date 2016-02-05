@@ -1,0 +1,20 @@
+The ratio of the \sin\theta _r to  \sin\theta _i is 0.769 .  If the wavelength of a wave in a new medium is 5.00 \times 10^{-9} \ m , what is its wavelength in the original medium?
+0.769=\frac{\lambda _r}{\lambda _i} \ so \ \lambda _i=\frac{5.00\times10^{-9} \ m}{0.769}=6.50\times10^{-9} \ m
+When any wave strikes a boundary between media, some of the energy is reflected and some is transmitted.
+When a wave strikes the media interface at an angle, the transmitted wave will move in a different direction than the incident wave.
+This phenomenon is known as refraction.
+At any media interface, \frac{\sin\theta_r}{\sin\theta_i}=\frac{v_r}{v_i}=\frac{\lambda _r}{\lambda _i}
+Click on the image above for more content
+Follow up questions.
+What causes refraction?
+What doesn’t change during refraction?
+A laser beam passes through water and enters a glass block at an angle.  The ratio of the speed of the wave in glass to the speed in water is 0.866 .  If the angle of incidence to the interface is 60^\circ  , what is the angle of refraction?
+A ray of light is traveling from air into glass at an angle of 30.0^\circ  to the normal line.  The speed of the light in air is 3.00 \times 10^8 \ m/s and in glass the speed drops to 2.00 \times 10^8 \ m/s .  What is the angle of refraction?
+Which of the following change when a water wave moves across a boundary at an angle between deep water and shallow water?
+Which of the following change when a water wave moves across a boundary exactly along the media interface between deep water and shallow water?
+The speed of sound is 340 m/s.  A particular sound wave has a frequency of 320.
+Hz.
+What is the wavelength of this sound in air?
+If this sound refracts into water where the speed of sound is 4 times faster, what will be the new wavelength?
+What will be the new frequency?
+When a light ray passes from air into diamond, the angle of incidence is  45.0^\circ  and the angle of refraction is 16.7^\circ  .  If the speed of light in air is 3.00 \times 10^8 \ \text{m/s} , what is the speed of light in diamond?

@@ -1,0 +1,20 @@
+Our modern understanding of DNA and chromosomes helped to explain how Mendel's rules worked.
+Mendel laid the foundation for modern genetics, but there were still a lot of questions he left unanswered.
+What exactly are the dominant and recessive factors that determine how all organisms look?
+And how do these factors work?
+Since Mendel’s time, scientists have discovered the answers to these questions.
+Genetic material is made out of DNA .
+It is the DNA that makes up the hereditary factors that Mendel identified.
+By applying our modern knowledge of DNA and chromosomes, we can explain Mendel’s findings and build on them.
+In this concept, we will explore the connections between Mendel’s work and modern genetics.
+Traits, Genes, and Alleles
+Recall that our DNA is wound into chromosomes .
+Each of our chromosomes contains a long chain of DNA that encodes hundreds, if not thousands, of genes.
+Each of these genes can have slightly different versions from individual to individual.
+These variants of genes are called alleles .
+Each parent only donates one allele for each gene to an offspring.
+For example, remember that for the height gene in pea plants there are two possible factors.
+These factors are alleles.
+There is a dominant allele for tallness (T) and a recessive allele for shortness (t) .
+Genotype and Phenotype
+Genotype is a way to describe the combination of alleles that an individual has for a certain gene ( Table below ).

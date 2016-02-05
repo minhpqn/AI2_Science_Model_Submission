@@ -1,0 +1,20 @@
+A solution in which the concentration of hydrogen ions is greater than the concentration of hydroxide ions.
+basic solution:
+A solution in which the concentration of hydroxide ions is greater than the concentration of hydrogen ions.
+ion-product of water (K_w) :
+The mathematical product of the concentration of hydrogen ions and hydroxide ions.
+self-ionization of water:
+The process in which water ionizes to hydronium ions and hydroxide ions.
+The pH Scale
+List pH values of common materials.
+Grapefruit juice is quite acidic
+Why is grapefruit juice acidic?
+Grapefruit juice has a pH of somewhere between 2.9-3.3, depending on the specific product.
+Excessive exposure to this juice can cause erosion of tooth enamel and can lead to tooth damage.
+The acids in grapefruit juice are carbon-based, with citric acid being one of the major constituents.
+This compound has three ionizable hydrogens on each molecule which contribute to the relatively low pH of the juice.
+Another component of grape juice is malic acid, containing two ionizable hydrogens per molecule.
+The pH Scale
+Expressing the acidity of a solution by using the molarity of the hydrogen ion is cumbersome because the quantities are generally very small.
+Danish scientist Søren Sørenson (1868-1939) proposed an easier system for indicating the concentration of H + called the pH scale.
+The letters pH stand for the power of the hydrogen ion.

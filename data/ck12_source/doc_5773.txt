@@ -1,0 +1,20 @@
+How many dolls are in this picture?
+Russian “nesting dolls” (often known as matryoshka dolls) have a long history in Russia.
+These dolls are designed to nest inside of one another.
+When we open the largest doll, we find a somewhat smaller doll inside it.
+These dolls can often go down seven or eight layers.
+The set seen above is unusual in that it has over thirty-five layers.
+Lanthandies and Actinides
+We see some hidden “layers” in chemistry.
+As we look at the periodic table below, we see two pink boxes – one between Ba (element 56) and Hf (element 72) and the other between Ra (88) and Rf (104).
+These elements all have unfilled f -sublevels.  Because of the uniqueness of the electron configurations, these elements fit into the two boxes in the larger periodic table.
+As the number of elecrons in an atom increases, we begin to see some strange behaviors.
+Due to the way the electron energy levels work, some inner levels fill after one or more outer levels do.
+We see this in two similar groups of elements – the lanthanides and the actinides
+Lanthanides and actinides on the periodic table
+The first of the f sublevels to begin filling is the 4 f sublevel.
+It fills after the 6 s sublevel, meaning that f sublevels are two principal energy levels behind.
+The general electron configuration for elements in the f block is ( n -  2 )f 1-14 ns 2 .
+The seven orbitals of the f sublevel accommodate 14 electrons, so the f block is 14 elements in length.
+It is pulled out of the main body of the period table and is shown at the very bottom.
+Because of that, the elements of the f block do not belong to a group, being wedged in between Groups 3 and 4.

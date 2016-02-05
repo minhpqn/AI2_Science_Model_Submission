@@ -1,0 +1,20 @@
+With higher frequencies, they also have more energy.
+That’s why microwaves are useful for heating food in microwave ovens.
+Microwaves have other important uses as well, including cell phone transmissions and radar.
+These uses are described below.
+You can learn more about microwaves and their uses in the video at this URL:
+Click on the image above for more content
+Cell phone signals are carried through the air as microwaves.
+You can see how this works in the Figure below .
+A cell phone encodes the sounds of the caller’s voice in microwaves by changing the frequency of the waves.
+This is called frequency modulation.
+The encoded microwaves are then sent from the phone through the air to a cell tower.
+From the cell tower, the waves travel to a switching center.
+From there they go to another cell tower and from the tower to the receiver of the person being called.
+The receiver changes the encoded microwaves back to sounds.
+Diagram of how a cell phone works
+Q:
+Cell towers reach high above the ground.
+Why do you think such tall towers are used?
+A:
+Microwaves can be interrupted by buildings and other obstructions, so cell towers must be placed high above the ground to prevent the interruption of cell phone signals.

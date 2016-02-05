@@ -1,0 +1,20 @@
+They are the most common of the four major types of organic compounds.
+There are thousands of different carbohydrates, but they all consist of one or more smaller units called monosaccharides.
+Monosaccharides and Disaccharides
+The general formula for a monosaccharide is (CH 2 O) n , where n can be any number greater than two.
+For example, if n is 6, then the formula can be written C 6 H 12 O 6 .
+This is the formula for the monosaccharide glucose.
+Another monosaccharide, fructose, has the same chemical formula as glucose, but the atoms are arranged differently.
+Molecules with the same chemical formula but with atoms in a different arrangement are called isomers .
+Compare the glucose and fructose molecules in Figure below .
+Can you identify their differences?
+The only differences are the positions of some of the atoms.
+These differences affect the properties of the two monosaccharides.
+Monosaccharides can be classified by the number of carbon atoms they contain: diose (2), triose (3), tetrose (4), pentose (5), hexose (6), heptose (7), and so on.
+In addition to glucose, other common monosaccharides include fructose ("fruit sugar"), galactose, xylose ("wood sugar") and ribose (in RNA) and deoxyribose (in DNA).
+If two monosaccharides bond together, they form a carbohydrate called a disaccharide .
+Two monosaccharides will bond together through a dehydration reaction, in which a water molecule is lost.
+A dehydration reaction is a condensation reaction , a chemical reaction in which two molecules combine to form one single molecule, losing a small molecule in the process.
+In the dehydration reaction, this small molecule is water.
+The bond between two monosaccharides is known as a glycosidic bond .
+An example of a disaccharide is sucrose (table sugar), which consists of the monosaccharides glucose and fructose ( Figure below ).

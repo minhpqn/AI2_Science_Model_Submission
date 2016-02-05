@@ -1,0 +1,20 @@
+Question:
+What is the total current coming out of the power supply?
+Answer:
+Use Ohm’s Law (V=IR) but solve for current (I=V/R) .
+Question:
+How much power does the power supply dissipate?
+Answer:
+P=IV , so the total power equals the total voltage multiplied by the total current.
+Thus, P_{total}=I_{total}V_{total}=(0.20\;A)(20V)=4.0\;W .
+So the Power Supply is outputting 4W (i.e. 4 Joules of energy per second).
+Question:
+How much power does each resistor dissipate?
+Answer:
+Each resistor has different voltage across it, but the same current.
+So, using Ohm’s law, convert the power formula into a form that does not depend on voltage.
+P&=IV=I(IR)=I^2R.\\\P_{90 \:\Omega} &= I^2_{90\:\Omega}R_{90\:\Omega}=(0.2\:A)^2(90\:\Omega)=3.6\:W\\\P_{10 \:\Omega} &= I^2_{10\:\Omega}R_{10\:\Omega}=(0.2\:A)^2(10\:\Omega)=0.4\:W
+^* Note:
+If you add up the power dissipated by each resistor, it equals the total power outputted, as it should–Energy is always conserved.
+Question:
+How much voltage is there across each resistor?

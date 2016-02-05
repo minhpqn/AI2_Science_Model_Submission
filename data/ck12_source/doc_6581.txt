@@ -1,0 +1,20 @@
+A condensation polymer is a polymer formed by condensation reactions.
+Monomers of condensation polymers must contain two functional groups so that each monomer can link up with two other monomers.
+One type of condensation polymer is called a polyamide.
+An amide is characterized by the functional group shown below wherein the carbon of a carbonyl group is bonded to the nitrogen of an amine.
+Structure of an amide
+One pair of monomers that can form a polyamide is adipic acid and hexanediamine.
+Adipic acid is a carboxylic acid with two carboxyl groups on either end of the molecule.
+Hexanediamine has amino groups on either end of a six-carbon chain.
+When these molecules react with each other, a molecule of water is eliminated, classifying it as a condensation reaction ( Figure below ).
+Example of a condensation reaction to form a polyamide
+The polymer that results from the repetition of the condensation reaction is a polyamide called nylon-66.
+Nylon-66 was first invented in 1935 and has been used in all sorts of products.
+It and other polyamides are commonly found in fibers and clothing, cooking utensils, fishing line, and carpeting, among many other applications.
+Nylon-66 is a commonly used polymer
+Polyester is another common type of condensation polymer.
+Recall that esters are formed from the reaction of an alcohol with a carboxylic acid.
+When both the acid and alcohol have two functional groups, the ester is capable of being polymerized.
+One such polyester is called polyethylene terephthalate (PET) and is formed from the reaction of ethylene glycol with terephthalic acid.
+The structure of PET is shown below.
+Polyethylene terephthalate (PET) is a polyester

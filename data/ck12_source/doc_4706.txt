@@ -1,0 +1,20 @@
+An experiment is a test that is used to eliminate one or more of the possible hypotheses until one hypothesis remains.
+A scientific experiment must have all of the following features:
+a control, so variables that could affect the outcome are reduced,
+the variable being tested reflects the phenomenon being studied,
+the variable being tested can be measured accurately, to avoid experimental error,
+the experiment must be reproducible.
+The experiment is a cornerstone in the scientific approach to gaining deeper knowledge about the natural world.
+Scientists use the principles of their hypothesis to make predictions, and then test them to see if their predictions are to be confirmed or rejected.
+A laboratory experiment studying plant growth.
+What might this experiment involve?
+Scientific experiments involve controls , or subjects that are not tested during the investigation.
+In this way, a scientist limits the factors, or variables that can cause the results of an investigation to differ.
+A variable is a factor that can change over the course of an experiment.
+Independent variables are factors whose values are controlled by the experimenter to determine their relationship with an observed phenomenon.
+Dependent variables are the observed phenomenon, and change in response to the independent variable.
+Controlled variables are also important to identify in experiments.
+They are the variables that are kept constant to prevent them from influencing the effect of the independent variable on the dependent variable.
+For example, if you were to measure the effect that different amounts of fertilizer has on plant growth, the independent variable would be the amount of fertilizer used (the changing factor of the experiment).
+The dependent variables would be the growth in height and/or mass of the plant (the factors that are influenced in the experiment).
+The controlled variables include the type of plant, the type of fertilizer, the amount of sunlight the plant gets, the size of the pots you use.

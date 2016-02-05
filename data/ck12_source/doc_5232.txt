@@ -1,0 +1,20 @@
+If the genes are linked, then alleles will sort as a pair and not individually.
+Proper determination of genotypic and phenotypic ratios will not be possible without additional genetic analysis.
+This is the basis of linkage maps and determining how close genes are to each other, and will be discussed in additional concepts.
+Heterozygous Dihybrid Cross
+The phenotypes of the offspring from a heterozygous dihybrid cross with two independent traits, such as the RrYy x RrYy example, show a 9:3:3:1 ratio.
+In a cross involving pea plants heterozygous for green flat pods ( GgFf ), 9/16 plants have green flat pods, 3/16 have green constricted pods, 3/16 have yellow flat pods, and 1/16 have yellow constricted pods.
+Notice that two of these combinations are the original parental phenotypes (green flat pods, and yellow constricted pods) and two are new phenotypic combinations (green constricted pods, and yellow flat pods).
+What would be the suggestion if the 9:3:3:1 ratio was not obtained?
+Punnett Square for Two Characteristics.
+This Punnett square represents a cross between two pea plants that are heterozygous for two characteristics.
+G represents the dominant allele for green pod color, and g represents the recessive allele for yellow pod color.
+F represents the dominant allele for full pod form, and f represents the recessive allele for constricted pod form.
+dihybrid cross :
+A cross in which the inheritance of two characteristics are tracked at the same time.
+linked genes :
+Genes that are inherited together because they are located on the same chromosome.
+Law of Independent Assortment :
+States that the inheritance of one trait will not affect the inheritance of another trait.
+linkage map :
+A genetic map that shows the position of genes or genetic markers relative to each other in terms of recombination frequency; critical for identifying the location of genes that cause genetic diseases.

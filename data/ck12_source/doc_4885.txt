@@ -1,0 +1,20 @@
+This self-organization of phospholipids results in a semipermeable membrane which allows only certain molecules in or out of the cell.
+The cell membrane also decides what may enter or leave a cell.
+The membrane is said to be semipermeable or selectively permeable, allowing only certain ions and organic molecules to cross the membrane.
+The plasma membrane contain many proteins, as well as other lipids called sterols.
+The proteins have various functions, such as channels (channel proteins) that allow certain molecules into the cell, and receptors (receptor proteins) that bind to signal molecules.
+In Figure above , the smaller (green) molecules shown between the phospholipids are cholesterol molecules.
+Cholesterol helps keep the plasma membrane firm and stable over a wide range of temperatures.
+At least ten different types of lipids are commonly found in plasma membranes.
+Each type of cell or organelle will have a different percentage of each lipid, protein and carbohydrate.
+cholesterol :
+A steroid alcohol that is present in animal cells and body fluids, regulates membrane fluidity, and functions as a precursor molecule in various metabolic pathways.
+hydrophilic :
+Characteristic of the phospholipid head group; water-loving.
+hydrophobic :
+Characteristic of the phospholipid tails; water-hating.
+phospholipid :
+A major component of the cell membrane; consists of two hydrophobic tails and a hydrophilic phosphate head group.
+phospholipid bilayer :
+A bilayer (2 layers) of phospholipids that surrounds and encloses a cell; physical boundary between the intracellular space and the extracellular environment.
+plasma membrane :

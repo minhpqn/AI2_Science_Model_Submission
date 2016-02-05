@@ -1,0 +1,20 @@
+B. 0.000416 has three significant figures.
+Zeros that appear after all nonzero digits are called right-end zeros.  Right-end zeros in a number that lacks a decimal point are not significant.
+A. 140 has two significant figures.
+B. 75,210 has four significant figures.
+Right-end zeros in a number with a decimal point are significant.
+This is true whether the zeros occur before or after the decimal point.
+A. 620.0 has four significant figures.
+B. 19.000 has five significant figures
+It needs to be emphasized that to say a certain digit is not significant does not mean that it is not important or can be left out.
+Though the zero in a measurement of 140 may not be significant, the value cannot simply be reported as 14.
+An insignificant zero functions as a placeholder for the decimal point.
+When numbers are written in scientific notation, this becomes more apparent.
+The measurement 140 can be written as 1.4 × 10 2 with two significant figures in the coefficient.
+For a number with left-end zeros, such as 0.000416, it can be written as 4.16 × 10 −4 with 3 significant figures.
+In some cases, scientific notation is the only way to correctly indicate the correct number of significant figures.
+In order to report a value of 15,000,000 with four significant figures, it would need to be written as 1.500 × 10 7 .
+The right-end zeros after the 5 are significant.
+The original number of 15,000,000 only has two significant figures.
+Significant figures give an indication of the certainty of a measurement.
+Rules allow decisions to be made about how many digits to use in any given situation.

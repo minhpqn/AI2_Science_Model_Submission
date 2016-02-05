@@ -1,0 +1,20 @@
+Part 12.11A :
+First, we will calculate the theoretical yield based on the stoichiometry.
+Step 1:
+List the known quantities and plan the problem.
+given: mass of KClO 3 = 40.0 g
+molar mass KClO 3 = 122.55 g/mol
+molar mass O 2 = 32.00 g/mol
+theoretical yield O 2 = ? g
+Apply stoichiometry to convert from the mass of a reactant to the mass of a product:
+\text{g KClO}_3 \rightarrow \text{mol KClO}_3 \rightarrow \text{mol O}_2 \rightarrow \text{g O}_2
+Step 2:
+Solve.
+40.0 \text{ g KClO}_3 \times \frac{1 \text{ mol KClO}_3}{122.55 \text{ g KClO}_3} \times \frac{3 \text{ mol O}_2}{2 \text{ mol KClO}_3} \times \frac{32.00 \text{ g O}_2}{1 \text{ mol O}_2}=15.7 \text{ g O}_2
+The theoretical yield of O 2 is 15.7 g.
+Step 3:
+Think about your result.
+The mass of oxygen gas must be less than the 40.0 g of potassium chlorate that was decomposed.
+Part 12.11B :  Now we use the actual yield and the theoretical yield to calculate the percent yield.
+Step 1:
+List the known quantities and plan the problem.

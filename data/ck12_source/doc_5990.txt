@@ -1,0 +1,20 @@
+The formula for ethanol is C 2 H 5 OH.
+Write the balanced equation for the combustion of ethanol.
+Step 1:
+Plan the problem
+Ethanol and oxygen are the reactants.
+As with a hydrocarbon, the products of the combustion of an alcohol are carbon dioxide and water.
+Step 2:
+Solve
+Write the skeleton equation:
+\text{C}_2\text{H}_5 \text{OH}(l)+\text{O}_2(g) \rightarrow \text{CO}_2 (g)+\text{H}_2\text{O}(g)
+Balance the equation.
+\text{C}_2\text{H}_5\text{OH}(l)+3\text{O}_2(g) \rightarrow 2\text{CO}_2(g)+3\text{H}_2\text{O}(g)
+Step 3:
+Think about your result
+Combustion reactions must have oxygen as a reactant.
+Note that the water that is produced is in the gas rather than the liquid state because of the high temperatures that accompany a combustion reaction.
+Combustion reaction is defined and examples are given.
+Write the reactions and balance the equations for the questions on the sheet found on this web site:
+What is needed for a combustion reaction to take place?
+What is formed in any combustion reaction?

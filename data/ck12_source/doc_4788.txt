@@ -1,0 +1,20 @@
+chemical compound :
+Unique substance with a fixed composition that forms when atoms of two or more elements react.
+chemical reaction :
+A process that changes some chemical substances into other chemical substances.
+chemical substance :
+A material that has a definite chemical composition; may be an element or a chemical compound.
+element :
+Pure substance made up of just one type of atom.
+ion :
+An atom that has gained or lost at least one electron.
+matter :
+All the substances of which things are made.
+mixture :
+Combination of chemical substances that does not have a fixed composition and does not result from a chemical reaction.
+organic compound :
+Compound found in living organisms; contains mainly carbon.
+periodic table :
+A tabular display of the chemical elements; organized on the basis of their atomic numbers, electron configurations, and chemical properties.
+Matter consists of elements and compounds.
+A compound forms when elements combine in fixed proportions and undergo a chemical reaction.

@@ -1,0 +1,20 @@
+Note that k=1.38\times10^{-23}\;\mathrm{J/K}
+The pressure of a gas is the force the gas exerts on a certain area.
+For a gas in a container, the amount of pressure is directly related to the number and intensity of atomic collisions on a container wall.
+An ideal gas is a gas for which interactions between molecules are negligible, and for which the gas atoms or molecules themselves store no potential energy.
+For an “ideal” gas, the pressure, temperature, and volume are simply related by the ideal gas law.
+Atmospheric pressure ( 1 \;\mathrm{atm} = 101,000 Pascals) is the pressure we feel at sea level due to the weight of the atmosphere above us.
+As we rise in elevation, there is less of an atmosphere to push down on us and thus less pressure.
+How many molecules of gas does it take to equalize the pressure inside a 1 liter box, that originally starts with no gas inside, with the atmospheric pressure at room temperature (300 K)?
+To solve this problem, we just plug in the given values into the ideal gas law.
+PV&=NkT\\\N&=\frac{PV}{kT}\\\N&=\frac{101000\;\text{Pa} * 1\;\text{L}}{1.38*10^{-23}\;\text{J/K} * 300\;\text{K}}\\\N&=2.44*10^{25}\;\text{molecules}\\\
+Watch this Explanation
+Click on the image above for more content
+If the number of molecules is increased, how is the pressure on a particular area of the box affected?
+Explain conceptually, in words rather than with equations.
+Use the formula P = F / A to argue why it is easier to pop a balloon with a needle than with a finger (pretend you don’t have long fingernails).
+Take an empty plastic water bottle and suck all the air out of it with your mouth.
+The bottle crumples.
+Why, exactly, does it do this?
+You will notice that if you buy a large drink in a plastic cup, there will often be a small hole in the top of the cup, in addition to the hole that your straw fits through.
+Why is this small hole necessary for drinking?

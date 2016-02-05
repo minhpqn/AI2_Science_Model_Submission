@@ -1,0 +1,20 @@
+An equation that shows only the formulas of the reactants and products with nothing to indicate the relative amounts.
+Balance chemical equations when given the skeleton information.
+Portrait of John Dalton
+When you cook a meal, quite often there are leftovers because you prepared more than people would eat at one sitting.
+Sometimes when you repair a piece of equipment, you end up with what are called “pocket parts”, small pieces you put in your pocket because you’re not sure where they belong.
+Chemistry tries to avoid leftovers and pocket parts.
+In normal chemical processes, we cannot create or destroy matter (law of conservation of mass).
+If we start out with ten carbon atoms, we need to end up with ten carbon atoms.
+John Dalton’ atomic theory said that chemical reactions basically involve the rearrangement of atoms.
+Chemical equations need to follow these principles in order to be correct.
+Balancing Chemical Equations
+A balanced equation is a chemical equation in which mass is conserved and there are equal numbers of atoms of each element on both sides of the equation.
+We can write a chemical equation for the reaction of carbon with hydrogen gas to form methane (CH 4 ).
+& \quad \ \text{C}(s) \quad \quad + \quad \text{H}_2 (g) \quad \quad \rightarrow \quad \quad \quad \quad \text{CH}_4(g)\\& 2 \ \text{C atoms} \quad \quad 2 \ \text{H atoms} \quad \quad \quad 1 \ \text{C atom}, 4 \ \text{H atoms}
+In order to write a correct equation, you must first write the correct skeleton equation with the correct chemical formulas.
+Recall that hydrogen is a diatomic molecule and so is written as H 2 .
+When we count the number of atoms of both elements, shown under the equation, we see that the equation is not balanced.
+There are only 2 atoms of hydrogen on the reactant side of the equation, while there are 4 atoms of hydrogen on the product side.
+We can balance the above equation by adding a coefficient of 2 in front of the formula for hydrogen.
+\text{C}(s)+2\text{H}_2(g) \rightarrow \text{CH}_4 (g)

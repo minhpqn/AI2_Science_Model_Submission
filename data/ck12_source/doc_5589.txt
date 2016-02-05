@@ -1,0 +1,20 @@
+exponent:
+A number placed to the right and above another number, symbol, or expression to indicate the power to which the expression is raised.
+leading zero:
+The zero to the left of the decimal point which is there to help you see the decimal point more clearly.
+SI Length and Volume Units
+Describe standard measure of length and volume.
+Ships used fathoms to measure depth
+How were sailors able to measure the depths of seas?
+Back in the days before all the electronic gadgets for measuring depth and locating undersea objects existed, the "fathom" was the unit of measurement for depth.
+A rope was knotted every six feet and the end was dropped over the side of the ship.
+You could tell how deep the water was by how many knots went under the water before the rope hit bottom.
+Today we just turn on an instrument and read the depth to a high level of accuracy.
+Length and Volume
+Length is the measurement of the extent of something along its greatest dimension.
+The SI basic unit of length, or linear measure, is the meter (m).
+All measurements of length may be made in meters, though the prefixes listed in various tables will often be more convenient.
+The width of a room may be expressed as about 5 meters (m), whereas a large distance, such as the distance between New York City and Chicago, is better expressed as 1150 kilometers (km).
+Very small distances can be expressed in units such as the millimeter or the micrometer.
+The width of a typical human hair is about 20 micrometers (μm).
+Volume is the amount of space occupied by a sample of matter.

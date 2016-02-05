@@ -1,0 +1,20 @@
+On the other hand, the hammer decreases the distance over which the force is applied.
+The hand pushing down on the handle moves the handle over a distance of several inches, whereas the hammer pulls up on the nail only an inch or two.
+Q :
+Where is the fulcrum of the hammer when it is used to pull a nail out of a board?
+In other words, around what point does the hammer rotate?
+A :
+The fulcrum is the point where the head of the hammer rests on the surface of the board.
+Classes of Levers
+Other levers change force or distance in different ways than a hammer removing a nail.
+How a lever changes force or distance depends on the location of the input and output forces relative to the fulcrum.
+The input force is the force applied by the user to the lever.
+The output force is the force applied by the lever to the object.
+Based on the location of input and output forces, there are three basic types of levers, called first-class, second-class, and third-class levers.
+The Table below describes the three classes.
+You can see animations of the classes, as well as more examples, at this URL:
+Click on the image above to view the table
+Δ = fulcrum I = input force O = output force
+The Table above includes the ideal mechanical advantage of each class of lever.
+The mechanical advantage is the factor by which a machine changes the input force.
+The ideal mechanical advantage is the increase or decrease in force that would occur if there were no friction to overcome in the use of the machine.

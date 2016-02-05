@@ -1,0 +1,20 @@
+Find the direction and magnitude of the force on the car.
+If the car has a mass of 2050 \;\mathrm{kg} , what is its velocity after 10 \;\mathrm{s} , assuming it starts at rest?
+If you want double the force for the same magnetic field, how should the current change?
+A horizontal wire carries a current of 48\;\mathrm{A} towards the east.
+A second wire with mass 0.05 \;\mathrm{kg} runs parallel to the first, but lies 15 \;\mathrm{cm} below it.
+This second wire is held in suspension by the magnetic field of the first wire above it.
+If each wire has a length of half a meter, what is the magnitude and direction of the current in the lower wire?
+Show that the formula for the force between two current carrying wires is  F = \frac {\mu_{o} L i_1 i_2} {2 \pi d}  , where d is the distance between the two wires,  i_1  is the current of first wire and L is the segment of length of the second wire carrying a current  i_2  . (Hint: find magnetic field emanating from first wire and then use the formula for a wire immersed in that magnetic field in order to find the force on the second wire.)
+Two long thin wires are on the same plane but perpendicular to each other.
+The wire on the y- axis carries a current of 6.0 \;\mathrm{A} in the -y direction.
+The wire on the x- axis carries a current of 2.0 \;\mathrm{A} in the + x direction.
+Point, P has the co-ordinates of (2.0, 2,0) in meters.
+A charged particle moves in a direction of 45^o away from the origin at point, P , with a velocity of 1.0 \times 10^7 \;\mathrm{m/s}.
+Find the magnitude and direction of the magnetic field at point, P .
+If there is a magnetic force of 1.0 \times 10^{-6} \;\mathrm{N} on the particle determine its charge.
+Determine the magnitude of an electric field that will cancel the magnetic force on the particle.
+A long straight wire is on the x- axis and has a current of 12 \;\mathrm{A} in the -x direction.
+A point P , is located 2.0 \;\mathrm{m} above the wire on the y- axis.
+What is the magnitude and direction of the magnetic field at P .
+If an electron moves through P in the -x direction at a speed of 8.0 \times 10^7 \;\mathrm{m/s} what is the magnitude and direction of the force on the electron?

@@ -1,0 +1,20 @@
+electrode:
+A conductor in a circuit that is used to carry electrons to a nonmetallic part of the circuit.
+half-cell:
+One part of a voltaic cell in which either the oxidation or reduction half-reaction takes place.
+voltaic cell:
+An electrochemical cell that uses a spontaneous redox reaction to produce electrical energy.
+Define electrical potential.
+Define reduction potential.
+Define cell potential.
+Multimeters can be used to measure voltage
+How many volts is that?
+The voltmeter doesn’t measure volts directly; it measures electric current flow.
+But don’t worry – current flow and voltage can be directly related to one another.
+The first meters were called galvanometers and they used basic laws of electricity to determine voltage.
+They were heavy and hard to work with, but got the job done.
+The first multimeters were developed in the 1920s, but true portability had to wait until printed circuits and transistors replaced the cumbersome wires and vacuum tubes.
+Electrical potential is a measurement of the ability of a voltaic cell to produce an electric current.
+Electrical potential is typically measured in volts (V).
+The voltage that is produced by a given voltaic cell is the electrical potential difference between the two half-cells.
+It is not possible to measure the electrical potential of an isolated half-cell.

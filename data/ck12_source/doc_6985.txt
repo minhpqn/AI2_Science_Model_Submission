@@ -1,0 +1,20 @@
+If her friend, James, were at the bottom and shined a light back, hitting the same spot as Nisha’s, how far from the edge would he have to be so that the light never leaves the water?
+You are to design an experiment to determine the index of refraction of an unknown liquid.
+You have a small square container of the liquid, the sides of which are made of transparent thin plastic.
+In addition you have a screen, laser, ruler and protractors.
+Design the experiment.
+Give a detailed procedure; include a diagram of the experiment.
+Tell which equations you would use and give some sample calculations.
+Finally, tell in detail what level of accuracy you can expect and explain the causes of lab error in order of importance.
+Answers to Selected Problems
+b. vacuum & air c. 1.96 \times 10^8 \;\mathrm{m/s}
+6.99 \times 10^{-7}\;\mathrm{m}; 5.26 \times 10^-7\;\mathrm{m}
+b. 11.4\;\mathrm{m} c. 11.5\;\mathrm{m}
+Total Internal Reflection
+Describe total internal reflection and the critical angle.
+Derive the critical angle and solve for it in real life applications.
+Students will learn about total internal reflection.
+More specifically, they will learn what the critical angle is, how it is derived and how to solve for it in real life applications.
+\theta_C = sin^{-1}\frac{n_2}{n_1} \;  ; where  \theta_C  is the critical angle, n 1 is the index of refraction of the material where the light emanates from and n 2 is the index of the material outside.
+Guidance Total internal reflection occurs when light goes from a slow (high index of refraction) medium to a fast (low index of refraction) medium.
+With total internal reflection, light refracts so much it actually refracts back into the first medium.

@@ -1,0 +1,20 @@
+Magnetic Field Around a Current Carrying Wire
+Illustration of the direction of a magnetic field around a wire
+In sketch (a) above, a current is being pushed through a straight wire.
+Small compasses placed around the wire point in a circle, instead of all towards the north pole.
+This demonstrates the presence of a magnetic field around the wire.
+If the current is turned off, the compass points return to pointing north.
+The current moving in a straight wire produces a circular magnetic field around the wire.
+When using conventional current, the direction of the magnetic field is determined by using the  right hand rule .
+The rule says to curl your right hand around the wire such that your thumb points in the direction of the conventional current.
+Having done this, your fingers will curl around the wire in the direction of the magnetic field.
+Note that the right hand rule is for conventional current.
+If you are dealing with an electron flow current, the charges are flowing in the opposite direction, so you must use your left hand.
+That is, curl your left hand around the wire with your thumb pointing in the direction of the electron flow and your fingers will point in the direction of the magnetic field.
+Charged Particles Moving Through a Magnetic Field
+When a charged particle moves through a magnetic field at right angles to the field, the field exerts a force on the charged particle in a different direction.
+Illustration of an electron moving through a magnetic field
+In the case sketched above, an electron is moving downward through a magnetic field.
+The motion of the electron is perpendicular to the magnetic field.
+The force exerted on the electron can be calculated by the equation,
+F=Bqv , where B  is the strength of the field, q  is the charge on the particle and v  is the velocity of the particle.

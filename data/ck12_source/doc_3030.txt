@@ -1,0 +1,20 @@
+For example, assume that a rock weighs 5000 N and is resting on the ground on an area of 0.5 m 2 .
+The pressure exerted on the ground by the rock is:
+\text{Pressure}=\frac{5000 \ \text{N}}{0.5 \ \text{m}^2}=10000 \ \text{N/m}^2=10000 \ \text{Pa, or } 10 \ \text{kPa}
+Sometimes pressure but not force is known.
+To calculate force, the equation for pressure can be rewritten as:
+Force = Pressure × Area
+For example, suppose another rock exerts 10 kPa of pressure over an area of 0.4 m 2 .
+How much does the rock weigh?
+Change 10 kPa (10,000 Pa) to 10,000 N/m 2 .
+Then substitute this value for pressure in the force equation as follows:
+Force (Weight) = 10,000 N/m 2 × 0.4 m 2 = 4,000 N
+Q :
+The break-dancer in the Figure below has a weight of 800 N.
+He is balancing on the palm of one hand.
+If the palm of his hand has an area of 0.02 m 2 , how much pressure is he exerting on the ground?
+A :
+Use the equation for pressure:
+\text{Pressure}=\frac{800 \ \text{N}}{0.02 \ \text{m}^2} = 40000 \ \text{Pa, or } 40 \ \text{kPa}
+This break-dancer is concentrating his weight on his hand
+Q :

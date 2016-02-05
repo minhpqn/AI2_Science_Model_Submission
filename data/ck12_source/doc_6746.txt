@@ -1,0 +1,20 @@
+Using the fact that the satellite will have the same period of revolution as Earth, calculate the radius of its orbit.
+What is the ratio of the radius of this orbit to the radius of the Earth?
+Draw a sketch, to scale, of the Earth and the orbit of this digital TV satellite.
+If the mass of the satellite were to double, would the radius of the satellite’s orbit be larger, smaller, or the same?
+Why?
+A top secret spy satellite is designed to orbit the Earth twice each day ( i.e., twice as fast as the Earth’s rotation).
+What is the height of this orbit above the Earth’s surface?
+Two stars with masses 3.00\times10^{31} \;\mathrm{kg} and 7.00\times10^{30} \;\mathrm{kg} are orbiting each other under the influence of each other’s gravity.
+We want to send a satellite in between them to study their behavior.
+However, the satellite needs to be at a point where the gravitational forces from the two stars are equal.
+The distance between the two stars is 2.0\times10^{10} \;\mathrm{m} .
+Find the distance from the more massive star to where the satellite should be placed. ( Hint:
+Distance from the satellite to one of the stars is the variable.)
+Calculate the mass of the Earth using only: (i) Newton’s Universal Law of Gravity; (ii) the Moon-Earth distance (Appendix B ); and (iii) the fact that it takes the Moon 27 days to orbit the Earth.
+A space station was established far from the gravitational field of Earth.
+Extended stays in zero gravity are not healthy for human beings.
+Thus, for the comfort of the astronauts, the station is rotated so that the astronauts feel there is an internal gravity.
+The rotation speed is such that the apparent acceleration of gravity is 9.8 \;\mathrm{m/s}^2 .
+The direction of rotation is counter-clockwise.
+If the radius of the station is 80 \;\mathrm{m} , what is its rotational speed, v ?

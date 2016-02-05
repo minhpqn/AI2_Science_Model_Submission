@@ -1,0 +1,20 @@
+When a satellite, space shuttle, or some other object is orbiting a planet, it maintains a circular orbit around the planet a constant distance off the surface.
+Manmade satellites typically orbit between 200 and 400 miles.
+For example, the International Space Station (ISS) orbits at 370 km, or 230 miles.
+The ISS has an average velocity of 7.66 km/sec tangential to its orbit.
+An orbiting satellite is close enough to be acted upon by Earth’s gravity.
+This force is constantly pulling the satellite in toward the center of the earth – it is a centripetal force and causes a centripetal acceleration.
+At this height, however, Earth’s gravity is only about 8.7 m/s 2 .
+As was discussed in Motion in Two Dimensions:
+Circular Motion, the velocity and centripetal acceleration are perpendicular.
+NASA scientists, in designing this and all other satellites, must carefully calculate the velocity necessary to keep the satellite orbiting.
+To keep the satellite from falling back to Earth, the horizontal velocity must be large enough.
+The satellite must travel far enough horizontally that it follows the curve of the planet, as shown below.
+When the satellite is orbiting in this way, it is falling straight down towards Earth.
+Imagine standing in an elevator when the bottom drops out from under you.
+The elevator, you, and anything you might have had with you all fall straight down.
+If you had a backpack on your back, the weight of the books can no longer be felt because the books are in free fall as well.
+A similar thing is happening in the space shuttle or orbiting satellite, where objects are weightless.
+For a full description of weight, look at Forces:
+Mass versus Weight.
+In sum, weight is the result of the force of gravity being opposed by the normal force.  As we just learned, objects in orbit are in freefall; they have nothing exerting a normal force against them and thus no weight.

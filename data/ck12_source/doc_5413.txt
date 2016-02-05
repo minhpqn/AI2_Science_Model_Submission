@@ -1,0 +1,20 @@
+Thus, gene regulation is the basis for cellular differentiation and morphogenesis.
+Though gene regulation occurs at the cellular level, it controls the versatility and adaptability of any organism, from single celled organisms to organisms made of trillions of cells.
+Gene regulation also has a role in natural selection and evolution, as the timing, location, and amount of gene expression can have a significant effect on the functions of the gene product, which can have a profound effect on the functions of a cell, tissue, organ, organ system or even organism.
+Gene regulation of the bacterial lac operon was the first genetic regulatory mechanism to be identified and described.
+François Jacob and Jacques Monod (together with André Lwoff) were awarded the 1965 Nobel Prize in Physiology or Medicine for their work (see
+gene expression :
+The process by which the information in a gene is "decoded" to produce a functional gene product, such as an RNA molecule or a polypeptide/protein molecule.
+gene regulation :
+The process that activates the expression of a specific gene.
+lac operon :
+An operon required for the transport and metabolism of lactose in E. coli.
+operon :
+A region of prokaryotic DNA with a promoter, an operator, and one or more genes that encode proteins needed to perform a certain task.
+The regulation of gene expression determines which genes are expressed and when those genes are expressed.
+This regulatory process is instrumental in determining the structure and function of a cell.
+What is meant by gene expression, and why is this an important cellular mechanism?
+At what stages of gene expression is regulation possible?
+What is the lac operon?
+Regulation of Gene Expression Mechanisms - Advanced
+Differentiate between a cis-regulatory element and a trans-acting factor.

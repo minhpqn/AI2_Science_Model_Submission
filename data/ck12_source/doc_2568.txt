@@ -1,0 +1,20 @@
+A:
+The properties of metals—as well as of elements in the other classes—depend mainly on the number and arrangement of their electrons.
+Explaining the Properties of Metals
+To understand why metals can conduct electricity, consider the metal lithium as an example.
+An atom of lithium is modeled below.
+Look at lithium’s electrons.
+There are two electrons at the first energy level.
+This energy level can hold only two electrons, so it is full in lithium.
+The second energy level is another story.
+It can hold a maximum of eight electrons, but in lithium it has just one.
+A full outer energy level is the most stable arrangement of electrons.
+Lithium would need to gain seven electrons to fill its outer energy level and make it stable.
+It’s far easier for lithium to give up its one electron in energy level 2, leaving it with a full outer energy level (now level 1).
+Electricity is a flow of electrons.
+Because lithium (like most other metals) easily gives up its “extra” electron, it is a good conductor of electricity.
+This tendency to give up electrons also explains other properties of metals such as lithium.
+Metals are elements that can conduct electricity.
+Most elements are metals.
+All metals except for mercury are solids at room temperature.
+Many metals are shiny, ductile, and malleable.

@@ -1,0 +1,20 @@
+The ratio of the squares of the periods of any two planets revolving around the sun is equal to the ratio of the cubes of their average distance from the sun.
+This is the only one of Kepler's three laws that deals with more than one planet at a time.
+This equation can be reworked to reveal that the ratio between the period and the radius of the planet's orbit is always the same:
+In truth, it has been calculated that this ratio holds for all the planets in our solar system, in addition to moons and other satellites.
+Example Problem:
+The planet Venus has a mean distance from the sun of 108.2 ×10 6 km and a period of 0.615 years.
+The planet Mars has an average mean distance from the sun of 227.9 ×10 6 km and a period of 1.88 years.
+Do these planets follow Kepler’s third law?
+Solution:
+The average mean distance of Venus divided by the average mean distance of Mars = 0.475.  The period of Venus divided by the period of Mars = 0.327.
+The square of the period ratio is 0.107 and the cube of the mean distance ratio is 0.107.
+It is clear that these two planets follow Kepler’s third law.
+Kepler’s First Law:
+The path of each planet around the sun is an ellipse with the sun at one focus.
+Kepler’s Second Law:
+Each planet moves such that an imaginary line drawn from the sun to the planet sweeps out equal areas in equal periods of time.
+Kepler’s Third Law:
+The ratio of the squares of the periods of any two planets revolving around the sun is equal to the ratio of the cubes of their average distance from the sun.
+The following is a video about Kepler’s three laws.
+Use this resource to answer the questions that follow.

@@ -1,0 +1,20 @@
+Lasers are used in spectroscopy, range finding, photochemistry, and microscopy.
+Military uses for lasers may include target designation, communications, and directed energy weapons.
+Light is emitted by atoms that have been excited by thermal excitation, electron collision, or collisions with photons of exactly the right frequency.
+Light is emitted by an incandescent source at many different wavelengths and in all directions.
+Light produced by an atomic gas consists of only a few different wavelengths but still in all directions.  Both of these light sources produce light waves that are not in step or at the same point in their cycle.
+Groups of light waves that are not at the same point in their cycle are called incoherent light .
+Einstein considered what would happen to an atom already in an excited state that is struck by another photon of the same energy as the original photon that put the atom in the excited state.
+He showed that the atom will emit a photon of the same energy and go to a lower state.
+This process is called stimulated emission .
+The two photons leaving the atom will not only have the same wavelength, they will also be in step (at the same point in their cycle).
+Either of the two photons can now strike other excited atoms and produce additional photons that are also in step.
+This group of light rays are called coherent light.
+A device that produces such light was invented in 1959 and is called a laser .  The word laser is an acronym.
+It stands for L ight A mplification by S timulated E mission of R adiation.
+A continuous electric discharge like that in a neon sign can be used to put atoms in the excited state.
+The laser light resulting from this process is continuous rather than pulsed.
+The helium-neon lasers often seen in science classrooms and used as laser pointers are continuous lasers.
+The photons emitted by the atoms are collected by placing the glass tube containing the atoms between two parallel mirrors.
+One mirror reflects all the light striking it while the other mirror allows some small percentage of the light to pass through.
+The light which passes out of the tube produces the laser beam.

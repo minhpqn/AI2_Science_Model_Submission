@@ -1,0 +1,20 @@
+Mixing these colors will produce the secondary , or complementary colors: magenta, cyan and yellow, as well as white.
+On the diagram below label colors to show how this works:
+Color printers use a different method of color mixing: color mixing by subtraction .
+What colors are used in this process? (HINT: look at the ink colors in an ink-jet printer, CYMB).
+The idea here is that each color subtracts from the reflected light – for example, cyan ink reflects blue and green but SUBTRACTS red.
+Explain with diagrams how CYM can be combined to produce red, blue, and green.
+Answer the following light transmission questions
+A beam of cyan light passes into a yellow filter.
+What color emerges?
+A beam of yellow light passes into a magenta filter.
+What color emerges?
+What color results when two beams of light, one cyan and one magenta, are made to overlap on a white screen?
+White light passes through a cyan filter followed by a magenta filter.
+What color emerges?
+Answers to Selected Problems
+a. blue, black b. yellow c. red
+a. green b. red c. blue d. blue
+Define what an electromagnetic wave is.
+Solve problems involving basic properties of electromagnetic waves.
+Students will learn what an electromagnetic wave is, gain a feel for the main parts of the spectrum and work problems involving basic properties of electromagnetic waves.

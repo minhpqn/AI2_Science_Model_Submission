@@ -1,0 +1,20 @@
+Using Chemical Symbols and Formulas
+When scientists write chemical equations, they use chemical symbols and chemical formulas instead of names to represent reactants and products.
+Look at the chemical reaction illustrated in the Figure below .
+In this reaction, carbon reacts with oxygen to produce carbon dioxide.
+Carbon is represented by the chemical symbol C.
+The chemical symbol for oxygen is O, but pure oxygen exists as diatomic (“two-atom”) molecules, represented by the chemical formula O 2 .
+A molecule of the compound carbon dioxide consists of one atom of carbon and two atoms of oxygen, so carbon dioxide is represented by the chemical formula CO 2 .
+Carbon and oxygen combine to form carbon dioxide
+Q:
+What is the chemical equation for this reaction?
+A:
+The chemical equation is:
+C + O 2 → CO 2
+Q:
+How have the atoms of the reactants been rearranged in the products of the reaction?
+What bonds have been broken, and what new bonds have formed?
+A:
+Bonds between the oxygen atoms in the oxygen molecule have been broken, and new bonds have formed between the carbon atom and the two oxygen atoms.
+Is It Balanced?
+All chemical equations, like equations in math, must balance.

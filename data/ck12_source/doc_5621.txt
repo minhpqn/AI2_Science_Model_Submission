@@ -1,0 +1,20 @@
+Take a quiz at the link below:
+What does a significant figure tell us?
+What is a left-end zero?
+What is a right-end zero?
+What does an insignificant zero do?
+significant figures:
+All the certain digits in that measurement plus one uncertain or estimated digit.
+Learn and apply rules for rounding numbers.
+Have you ever been fishing?
+People who fish often are a little unreliable when it comes to describing what they caught and how much it weighed.
+It’s easier to say your fish weighed ten pounds than it is to accurately describe the weight of 8 pounds 11 ounces.
+Ten pounds is “close enough” when you are talking about your catch.
+Before dealing with the specifics of the rules for determining the significant figures in a calculated result, we need to be able to round numbers correctly.
+To round a number, first decide how many significant figures the number should have.
+Once you know that, round to that many digits, starting from the left.
+If the number immediately to the right of the last significant digit is less than 5, it is dropped and the value of the last significant digit remains the same.
+If the number immediately to the right of the last significant digit is greater than or equal to 5, the last significant digit is increased by 1.
+Consider the measurement 207.518 m.
+Right now, the measurement contains six significant figures.
+How would we successively round it to fewer and fewer significant figures?

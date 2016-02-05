@@ -1,0 +1,20 @@
+Calculating Distance or Time from Speed
+If you know the average speed of a moving object, you can calculate the distance it will travel in a given period of time or the time it will take to travel a given distance.
+To calculate distance from speed and time, use this version of the average speed formula given above:
+distance = speed × time
+For example, if a car travels at an average speed of 60 km/h for 5 hours, then the distance it travels is:
+distance = 60 km/h × 5 h = 300 km
+To calculate time from speed and distance, use this version of the formula:
+Q:
+If you walk 6 km at an average speed of 3 km/h, how much time does it take?
+A:
+Use the formula for time as follows:
+\text{time} & =\frac{\text{distance}}{\text{speed}}\\\& =\frac{6 \ \text{km}}{3 \ \text{km/h}}\\\& =2 \ \text{h}
+How fast or slow something moves is its speed.
+The SI unit for speed is meters per second (m/s).
+Average speed is calculated with this formula: \text{speed}=\frac{\text{distance}}{\text{time}}
+Speed may be constant, but often it varies from moment to moment.
+Speed at any given instant is called instantaneous speed.
+It is much more difficult to calculate than average speed.
+Distance or time can be calculated by solving the average speed formula for distance or time.
+Do problems 1–3 on the average speed worksheet at the following URL.

@@ -1,0 +1,20 @@
+Because valence electrons are shared in covalent compounds, rather than transferred between atoms as they are in ionic compounds, covalent compounds have very different properties than ionic compounds.
+Many covalent compounds, especially those containing carbon and hydrogen, burn easily.
+In contrast, many ionic compounds do not burn.
+Many covalent compounds do not dissolve in water, whereas most ionic compounds dissolve well in water.
+Unlike ionic compounds, covalent compounds do not have freely moving electrons, so they cannot conduct electricity.
+The individual molecules of covalent compounds are more easily separated than the ions in a crystal, so most covalent compounds have relatively low boiling points.
+This explains why many of them are liquids or gases at room temperature.
+You can compare the boiling points of some covalent and ionic compounds in the Table below .
+Name of Compound(Chemical Formula)
+Type of Compound
+Boiling Point (°C)
+Methane (CH 4 )
+Nitrogen oxide (NO)
+Sodium chloride (NaCl)
+Lithium fluoride (LiF)
+Q:
+The two covalent compounds in the table are gases at room temperature, which is 20°C.
+For a compound to be a liquid at room temperature, what does its boiling point have to be?
+A:
+To be a liquid at room temperature, a covalent compound has to have a boiling point higher than 20°C.

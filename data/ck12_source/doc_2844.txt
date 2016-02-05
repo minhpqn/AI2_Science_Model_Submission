@@ -1,0 +1,20 @@
+Diagram illustrating carbon-14 dating
+Q:
+Why can’t carbon-14 dating be used to date specimens older than about 60,000 years?
+A:
+Carbon-14 has a half-life of 5700 years.
+After about 60,000 years, too little carbon-14 is left in a specimen to be measured.
+The age of a rock or other specimen can be estimated from the remaining amount of a radioisotope it contains and the radioisotope’s known rate of decay, or half-life.
+This method of dating specimens is called radioactive dating.
+Radioisotopes with longer half-lives are used to date older specimens, and those with shorter half-lives are used to date younger ones.
+Carbon-14 dating is used to date specimens younger than about 60,000 years old.
+It is commonly used to date fossils of living things and human artifacts.
+Play the radioactive dating game at the following URL, and then answer the questions below.
+What is the half-life of carbon-14?
+What is the half-life of uranium-238?
+Compare the decay rates of carbon-14 and uranium-238.
+How long does it take for 75 percent of a sample of carbon-14 atoms to decay?
+How long does it take for 75 percent of a sample of uranium-238 to decay?
+Do these rates depend on the number of atoms in the samples?
+What percentage of carbon-14 remains in a sample after 10,000 years?
+How many years does it take for uranium-238 to decay to this same percentage?

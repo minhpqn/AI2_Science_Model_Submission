@@ -1,0 +1,20 @@
+Step 1:
+List the known quantities and plan the problem.
+& \text{molecular formula of sulfate ion} = \text{SO}{_4}^{2-} \\& \text{1 S atom} = 6 \ \text{valence electrons} \\& \text{4 O atoms} = 4 \times 6 = 24 \ \text{valence electrons} \\& \text{add 2 electrons for the} \ 2 - \ \text{charge of the ion} \\& \text{total of 32 valence electrons}
+The less electronegative sulfur atom is the central atom in the structure.  Place the oxygen atoms around the sulfur atom, each with a single covalent bond.  Distribute lone pairs to each oxygen atom in order to satisfy the octet rule.  Count the total number of atoms.  If there are too many electrons in the structure, make multiple bonds between the S and O.
+Step 2:
+Solve.
+Structure of the sulfate ion
+The sulfate ion.
+Step 3:  Think about your result.
+The Lewis structure for the sulfate ion consists of a central sulfur atom with four single bonds to oxygen atoms.  This yields the expected total of 32 electrons.  Since the sulfur atom started with six valence electrons, two of the S-O bonds are coordinate covalent.
+Lewis structures for polyatomic ions follow the same rules as those for other covalent compounds.
+Do problem 2 on the web site below:
+What are two characteristics of polyatomic ions?
+Which atom becomes the central atom in the structure?
+Where is the charge on the ion placed?
+polyatomic ion:
+A group of atoms that are covalently bonded together and which carry an overall electrical charge.
+Draw resonance structures of appropriate compounds.
+Mirror images give different perspectives of a room, like resonance
+Which image is real?

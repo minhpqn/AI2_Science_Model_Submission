@@ -1,0 +1,20 @@
+Ba 3 (PO 4 ) 2
+[Ba 2+ ] 3 [PO 4 3− ] 2
+The  K_{sp} expressions in terms of  s can be used to solve problems in which the  K_{sp} is used to calculate the molar solubility as in the examples above.
+Molar solubility can then be converted to solubility.
+The process of determining solubilities using  K_{sp} values is described.
+Read the material at the link below and do the problems at the end.
+What information is needed to carry out these calculations?
+What allows the calculation of molar solubility?
+How is solubility determined?
+Predict solubility of a compound based on the comparison between the ion product and the K_{sp} .
+Barium sulfate is used to obtain clear images of the digestive tract
+What do you see?
+The invention of the X-ray machine had radically improved medical diagnosis and treatment.
+For the first time, it was possible to see inside a person’s body to detect broken bones, tumors, obstructions, and other types of problems.
+Barium sulfate is often used to examine patients with problems of the esophagus, stomach, and intestines.
+This insoluble compound coats the inside of the tissues and absorbs X-rays, allowing a clear picture of the interior structure of these organs.
+Knowledge of  K_{sp} values will allow you to be able to predict whether or not a precipitate will form when two solutions are mixed together.
+For example, suppose that a known solution of barium chloride is mixed with a known solution of sodium sulfate.
+Barium sulfate is a mostly insoluble compound and so could potentially precipitate from the mixture.
+However, it is first necessary to calculate the ion product , [Ba 2+ ][SO 4 2− ] for the solution.

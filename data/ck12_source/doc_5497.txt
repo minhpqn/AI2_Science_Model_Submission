@@ -1,0 +1,20 @@
+This failure rate may be due to a number of circumstances.
+Keep in mind that somatic cell nuclear transfer is an artificial process.
+It is not a natural process, and there may still be components of the fertilization and development process that are not well understood.
+The enucleated egg and the transferred nucleus may not be compatible.
+An egg with a newly transferred nucleus may not begin to divide or develop properly.
+Implantation of the embryo into the surrogate mother might fail.
+The pregnancy itself might fail.
+Large Offspring Syndrome
+Cloned animals that do survive tend to be much bigger at birth than their natural conceived animals of the same species.
+This is known as "Large Offspring Syndrome".
+Cloned animals with this syndrome have abnormally large organs, which can lead to breathing, blood flow and other associated problems.
+However this syndrome is unpredictable; it does not always occur, so scientists cannot predict which clones will be affected.
+Abnormal Gene Expression
+Though surviving clones have identical genomes to their "parent," are they truly clones?
+Will they express the necessary genes at the proper times?
+Gene expression is an extremely complicated and highly regulated cellular process (see the Regulation of Gene Expression (Advanced) concepts).
+One significant issue is to reprogram the transferred nucleus so that it thinks it is in the zygote, mimicking the natural processes that must be initiated at fertilization, including the expression of the appropriate genes.
+The cell must be programmed so that the genes that must be expressed in that zygote are truly expressed.
+The nucleus cannot think it is in a differentiated cell, such as the somatic cell it came from.
+See Click and Clone at to test your knowledge of somatic cell nuclear transfer.

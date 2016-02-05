@@ -1,0 +1,20 @@
+An unsaturated hydrocarbon is a hydrocarbon that contains less than the maximum number of hydrogen atoms that can possibly bond with the number of carbon atoms present.
+The location of the carbon-carbon double bond can vary.
+The 4-carbon alkene generic name is butene.
+Since the double bond can be located in more than one place, we have 1-butene and 2-butene:
+Nomenclature of monoalkenes
+Molecules with multiple double bonds are also quite common.
+The formula below shows a four-carbon chain with double bonds between carbons 1 and 2 and between carbons 3 and 4.
+This molecule is called 1,3-butadiene.
+Nomenclature of dienes
+An alkyne is a hydrocarbon with one or more carbon-carbon triple covalent bonds .
+The simplest alkyne consists of two carbon atoms and is called ethyne (common name: acetylene).
+Ethyne is the simplest alkyne
+The ethyne molecule is linear, with sp hybridization for each carbon atom.
+The general formula of alkynes with one triple bond is C n H 2n-2 .
+Alkynes are also unsaturated hydrocarbons.
+Other alkynes exist, such as 2-pentyne:
+Example of another alkyne
+Structures of alkene and alkyne are given.
+Structures of typical alkenes and alkynes are shown.
+Answer the questions at the site below:

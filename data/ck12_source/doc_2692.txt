@@ -1,0 +1,20 @@
+Coefficients are used to balance chemical equations.
+A coefficient is a number placed in front of a chemical symbol or formula.
+It shows how many atoms or molecules of the substance are involved in the reaction.
+To balance a chemical equation, place coefficients as needed in front of the symbols or formulas so the same number of each type of atom occurs in both reactants and products.
+Practice balancing chemical equations by completing the worksheet at this URL:  .
+Which of the following chemical equations is balanced?
+Zn + HCl → ZnCl 2 + H 2
+2 Zn + 2 HCl → ZnCl 2 + H 2
+2 Zn + HCl → ZnCl 2 + H 2
+Zn + 2 HCl → ZnCl 2 + H 2
+Balance this chemical equation:
+CH 4 + O 2 → CO 2 + H 2 O
+Sam was given the following equation to balance:
+H 2 O → H 2 + O 2 .
+She balanced it as follows: 2 HO → H 2 + O 2 .
+What did she do wrong?
+What is the correct way to balance the equation?
+Conservation of Mass in Chemical Reactions
+Explain why chemical equations must be balanced.
+State the law of conservation of mass.

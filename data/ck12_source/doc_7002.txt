@@ -1,0 +1,20 @@
+The Big Idea
+In studying fluids we apply the concepts of force, momentum, and energy — which we have learned previously — to new phenomena.
+Since fluids are made from a large number of individual molecules, we have to look at their behavior as an ensemble and not individually.
+For this reason, we use the concept of conservation of energy density in place of conservation of energy.
+Energy density is energy divided by volume.
+Newtonian fluids (the normal type and only type we deal with here) are non-compressible.
+This leads to Pascal's and Archimedes' Principles discussed below.
+Define the Buoyant force and calculate problems involving buoyancy and Archimedes principle.
+Students will learn about the Buoyant force, how to calculate problems involving buoyancy and Archimedes principle.
+F_{\text{buoy}}= \rho_{\text{water}} g V_{\text{displaced}} && \text{Archimedes' principle}
+Guidance Archimedes’ Principle states that the upward buoyant force on an object in the water is equal to the weight of the displaced volume of water.
+The reason for this upward force is that the bottom of the object is at lower depth, and therefore higher pressure, than the top.
+If an object has a higher density than the density of water, the weight of the displaced volume will be less than the object’s weight, and the object will sink.
+Otherwise, the object will float.
+The ratio of an object or substance's density to the density of water is called it's specific gravity.
+A simple boat (really a metal box with an open top) is floating at rest in a pond.
+The boat is 3 m long, 2 m wide, and has walls 1.5 m high and has an empty mass of 500 kg.
+If you begin filling the boat with gravel of density 1922 kg/m 3 at a constant rate of .1 m 3 /s, how long will it be before your boat sinks?
+To solve this problem, we're going to start out by determining the maximum mass that the boat can support.
+The weight of the maximum mass is equal to the buoyant force when the boat is submerged all the way up the the edge of the side wall.

@@ -1,0 +1,20 @@
+-" x "-direction
++" x "-direction
+-" y "-direction (towards the bottom of the page)
++" z "-direction (i.e. out of the page)
+none of the above
+Protons with momentum 5.1 \times 10^{-20} \;\mathrm{kg} \cdot \;\mathrm{m/s} are magnetically steered clockwise in a circular path.
+The path is 2.0 \;\mathrm{km} in diameter. (This takes place at the Dann International Accelerator Laboratory, to be built in 2057 in San Francisco.) Find the magnitude and direction of the magnetic field acting on the protons.
+An electron is accelerated from rest through a potential difference of 1.67 \times 10^5 volts.
+It then enters a region traveling perpendicular to a magnetic field of 0.25 \;\mathrm{T} .
+Calculate the velocity of the electron.
+Calculate the magnitude of the magnetic force on the electron.
+Calculate the radius of the circle of the electron’s path in the region of the magnetic field
+A beam of charged particles travel in a straight line through mutually perpendicular electric and magnetic fields.
+One of the particles has a charge, q ; the magnetic field is B and the electric field is E .
+Find the velocity of the particle.
+A positron (same mass, opposite charge as an electron) is accelerated through 35,000 volts and enters the center of a 1.00 \;\mathrm{cm} long and 1.00 \;\mathrm{mm} wide capacitor, which is charged to 400 volts.
+A magnetic filed is applied to keep the positron in a straight line in the capacitor.
+The same field is applied to the region (region II) the positron enters after the capacitor.
+What is the speed of the positron as it enters the capacitor?
+Show all forces on the positron.

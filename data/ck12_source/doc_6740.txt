@@ -1,0 +1,12 @@
+Neutron stars are the corpses of stars left over after supernova explosions.
+They are the size of a small city, but can spin several times per second. (Try to imagine this in your head.) Consider a neutron star of radius 10\;\mathrm{km} that spins with a period of 0.8 seconds.
+Imagine a person is standing at the equator of this neutron star.
+Calculate the centripetal acceleration of this person and express it as a multiple of the acceleration g due to gravity (on Earth).
+Now, find the minimum acceleration due to gravity that the neutron star must have in order to keep the person from flying off.
+Answers to Selected Problems
+a. 100 \;\mathrm{N} b. 10 \;\mathrm{m/s}^2
+a. 25 \;\mathrm{N} towards her b. 25 \;\mathrm{N} towards you
+a. 14.2 \;\mathrm{m/s}^2 b. 7.1 \times 10^3 \;\mathrm{N} c. friction between the tires and the road
+a. 6.3 \times 10^4g\;\mathrm{m/s}^2 b.
+The same as a.
+In this chapter students will learn about circular motion, centripetal acceleration and how to think about and solve problems on centripetal forces and motion.

@@ -1,0 +1,20 @@
+Step 3:
+Use a line to connect the atoms that are undergoing a change in oxidation number.
+On the line, write the oxidation-number change.
+Walkthrough of connecting atoms that are oxidized or reduced in a redox reaction
+The carbon atom’s oxidation number increases by 2, while the iron atom’s oxidation number decreases by 3.
+As written, the number of electrons lost does not equal the number of electrons gained.
+In a balanced redox equation, these must be equal.
+So, the increase in oxidation number of one atom must be made equal to the decrease in oxidation number of the other.
+Step 4:
+Use coefficients to make the total increase in oxidation number equal to the total decrease in oxidation number .
+In this case, the least common multiple of 2 and 3 is 6.
+So the oxidation-number increase should be multiplied by 3, while the oxidation-number decrease should be multiplied by 2.
+The coefficient is also applied to the formulas in the equation.
+So a 3 is placed in front of the CO and in front of the CO 2 .
+A 2 is placed in front of the Fe on the right side of the equation.
+The Fe 2 O 3 does not require a coefficient because the subscript of 2 after the Fe indicates that there are already two iron atoms.
+Walkthrough of balancing the atoms being reduced or oxidized
+Step 5:
+Check the balancing for both atoms and charge.
+Occasionally, a coefficient may need to be placed in front of a molecular formula that was not involved in the redox process.

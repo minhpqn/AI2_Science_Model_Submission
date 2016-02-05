@@ -1,0 +1,20 @@
+Net Ionic Equations
+We can write a molecular equation for the formation of silver chloride precipitate:
+\text{NaCl}+\text{AgNO}_3 \rightarrow \text{NaNO}_3+\text{AgCl}
+The corresponding ionic equation is:
+\text{Na}^+(aq)+\text{Cl}^-(aq)+\text{Ag}^+(aq)+\text{NO}^-_3(aq) \rightarrow \text{Na}^+(aq)+\text{NO}^-_3(aq)+\text{AgCl}(s)
+If you look carefully at the ionic equation, you will notice that the sodium ion and the nitrate ion appear unchanged on both sides of the equation.
+When the two solutions are mixed, neither the Na + nor the NO 3 − ions participate in the reaction.
+They can be eliminated from the reaction.
+\cancel{\text{Na}^ + (aq)}+\text{Cl}^-(aq)+\text{Ag}^ + (aq)+\cancel{\text{NO}^-_3(aq)} \rightarrow \cancel{\text{Na}^+(aq)} + \cancel{\text{NO}^-_3(aq)} + \text{AgCl}(s)
+A spectator ion is an ion that does not take part in the chemical reaction and is found in solution both before and after the reaction.
+In the above reaction, the sodium ion and the nitrate ion are both spectator ions.
+The equation can now be written without the spectator ions.
+\text{Ag}^+(aq)+\text{Cl}^-(aq) \rightarrow \text{AgCl}(s)
+The net ionic equation is the chemical equation that shows only those elements, compounds, and ions that are directly involved in the chemical reaction.
+Notice that in writing the net ionic equation, the positively-charged silver cation was written first on the reactant side, followed by the negatively-charged chloride anion.
+This is somewhat customary because that is the order in which the ions must be written in the silver chloride product.
+However, it is not absolutely necessary to order the reactants in this way.
+Net ionic equations must be balanced by both mass and charge.
+Balancing by mass means making sure that there are equal numbers of each element.
+Balancing by charge means making sure that the overall charge is the same on both sides of the equation.

@@ -1,0 +1,20 @@
+double helix :
+The double spiral shape of the DNA molecule; resembles a spiral staircase.
+genome :
+The complete set of an organism's hereditary information; may be either DNA or, for many types of virus, RNA; includes both the genes and the non-coding sequences of the DNA/RNA.
+hydrogen bond :
+A weak bond between two molecules resulting from an electrostatic attraction between a proton in one molecule and an electronegative atom in the other; always involves a hydrogen atom.
+nucleotide :
+Monomer of nucleic acids, composed of a nitrogen-containing base, a five-carbon sugar, and a phosphate group.
+purine :
+Nitrogenous bases consisting of two ring structures; adenine and guanine.
+pyrimidine :
+Nitrogenous bases consisting of one ring structure; thymine and cytosine.
+sugar-phosphate backbone :
+The major structural component of the DNA molecule; formed of alternating deoxyribose sugars and phosphate groups joined by ester bonds.
+Watson and Crick demonstrated the double helix model of DNA.
+The two strands of the DNA double helix are complementary and run in anti-parallel directions.
+Use this resource to answer the questions that follow.
+\rightarrow Non-Majors Biology \rightarrow Search:
+DNA Structure and Function
+Describe the structure of a single strand of DNA.

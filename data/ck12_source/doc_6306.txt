@@ -1,0 +1,20 @@
+The rate law must reflect the rate dependence on both reactants.
+This reaction is said to be first order with respect to  A and first order with respect to B .
+Overall, it is a second-order reaction.
+The rate law and the order of a reaction must be determined experimentally.
+A first-order reaction is described.
+Read the material at the link below and answer the following questions:
+What is a zero-order reaction?
+What is a second-order reaction?
+How is the order of a two-reactant reaction determined?
+What is a first-order reaction?
+How is the instantaneous rate determined?
+How do we determine rate law and reaction order?
+first-order reaction:
+A reaction in which the rate is proportional to the concentration of only one reactant.
+Determining the Rate Law from Experimental Data
+Use experimental data to determine the rate law for a reaction.
+Measuring time precisely is important in kinetic studies
+Determining the amount of time a process requires calls for a timer.
+These devices can be simple kitchen timers (not very precise) or complex systems that can measure to a fraction of a second.
+Accurate time measurement is essential in kinetics studies for assessing rates of chemical reactions.

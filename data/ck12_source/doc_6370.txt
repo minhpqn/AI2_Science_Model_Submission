@@ -1,0 +1,20 @@
+How is steel produced?
+Iron ore (Fe 2 O 3 ) and coke (an impure form of carbon) are heated together to make iron and carbon dioxide.
+The reaction is non-spontaneous at room temperature, but becomes spontaneous at temperature above 842 K.
+The iron can then be treated with small amounts of other materials to make a variety of steel products.
+Temperature and Free Energy
+Consider the reversible reaction in which calcium carbonate decomposes into calcium oxide and carbon dioxide gas.
+The production of CaO (called quicklime) has been an important reaction for centuries.
+\text{CaCO}_3(s) \rightleftarrows \text{CaO}(s) +\text{CO}_2(g)
+The  \Delta H^\circ for the reaction is 177.8 kJ/mol, while the \Delta S^\circ is 160.5 J/K • mol.
+The reaction is endothermic with an increase in entropy due to the production of a gas.
+We can first calculate the \Delta G^\circ at 25°C in order to determine if the reaction is spontaneous at room temperature.
+\Delta G^\circ=\Delta H^\circ -T \Delta S^\circ=177.8 \ \text{kJ}/ \text{mol} - 298 \ K (0.1605 \ \text{kJ} / \text{K} \cdot \text{mol})=130.0 \ \text{kJ} / \text{mol}
+Since the  \Delta G^\circ is a large positive quantity, the reaction strongly favors the reactants and very little products would be formed.
+In order to determine a temperature at which  \Delta G^\circ will become negative, we can first solve the equation for the temperature when  \Delta G^\circ is equal to zero.
+0 &=\Delta H^\circ - T \Delta S^\circ \\T &=\frac{\Delta H^\circ}{\Delta S^\circ}=\frac{177.8 \ \text{kJ} / \text{mol}}{0.1605 \ \text{kJ} / \text{K} \cdot \text{mol}}=1108 \text{ K}=835^\circ \text{ C}
+So at any temperature higher than 835°C, the value of  \Delta G^\circ will be negative and the decomposition reaction will be spontaneous.
+At high temperatures, reactions with positive Delta S can become thermodynamically favorable
+This lime kiln in Cornwall was used to produce quicklime (calcium oxide), an important ingredient in mortar and cement.
+Recall that the assumption that  \Delta H^\circ and  \Delta S^\circ are independent of temperature means that the temperature at which the sign of  \Delta G^\circ switches from being positive to negative (835°C) is an approximation.
+It is also important to point out that one should not assume that absolutely no products are formed below 835°C and that at that temperature decomposition suddenly begins.

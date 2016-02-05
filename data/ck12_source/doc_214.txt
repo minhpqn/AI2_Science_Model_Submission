@@ -1,0 +1,20 @@
+Define the coefficient of friction.
+Calculate frictional forces.
+Calculate net forces when friction is involved.
+Matches on different tennis court surfaces feel like distinct experiences as a result of friction
+Tennis is played on a variety of court surfaces: grass, clay, hardcourt, and even carpet.
+Players know that matches on different surfaces are distinctly different games.
+The ball bounces differently, and shoes slip on some surfaces but stick on others.
+These differences are a result of friction.
+Friction is the force that resists motion.
+In most beginning physics classes, friction is ignored.
+Concepts can be understood and calculations made assuming friction to be nonexistent.
+Whenever physics intersects with the real world, however, friction must be taken into account.
+Friction exists between two touching surfaces because even the smoothest looking surface is quite rough on a microscopic scale.
+Sliding the two blocks over each other will result in frictional force between the two surfaces
+Every surface has microscopic bumps, lumps, and imperfections, emphasized as in the image above.
+If we try to slide the top block over the lower block, there will be numerous collisions as the bumps impact each other.
+The forward motion causes the collisions with bumps which then exert a force in opposite way the block is moving.
+The force of friction always opposes whatever motion is causing the friction.
+The force of friction between these two blocks is related to two factors.
+The first factor is the roughness of the surfaces that are interacting, which is called the coefficient of friction , \mu (Greek letter mu).

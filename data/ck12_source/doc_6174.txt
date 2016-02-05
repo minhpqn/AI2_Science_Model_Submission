@@ -1,0 +1,20 @@
+Click on the image above for more content
+What is a solution?
+What is the solute?
+What is the solvent?
+What safety precautions need to be taken?
+Why do you add the solute to the flask only partially filled with solvent?
+How much solvent do you add at the end?
+Why do you invert the flask a few times after diluting to the mark?
+volumetric flask:
+A calibrated long-necked flask design for the accurate preparation of solutions.
+Perform calculations involving dilutions.
+Diluted muriatic acid (HCl) is used to clean concrete
+How do you clean concrete?
+Muriatic acid (another name for HCl) is widely used for cleaning concrete and masonry surfaces.
+The acid must be diluted before use to get it down to a safer strength.
+Commercially available at concentrations of about 18%, this compound can be used to remove scales and deposits (usually composed of basic materials).
+When additional water is added to an aqueous solution, the concentration of that solution decreases.
+This is because the number of moles of the solute does not change, while the volume of the solution increases.
+We can set up an equality between the moles of the solute before the dilution (1) and the moles of the solute after the dilution (2).
+Since the moles of solute in a solution is equal to the molarity multiplied by the liters, we can set those equal.

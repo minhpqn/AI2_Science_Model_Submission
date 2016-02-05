@@ -1,0 +1,20 @@
+Specialized integral membrane protein that take part in communication between the cell and the extracellular environment.
+cyclic adenosine monophosphate (cAMP, cyclic AMP) :
+A second messenger important in many biological processes; used for intracellular signal transduction, such as transferring into cells the effects of hormones.
+G protein (guanine nucleotide-binding protein) :
+Guanine nucleotide-binding proteins; a family of proteins involved in transmitting chemical signals outside the cell, causing changes inside the cell.
+G-protein linked receptor :
+A large protein family of transmembrane receptors that bind molecules outside the cell and activate signal transduction pathways inside the cell; also known as G protein coupled receptors and seven-transmembrane domain receptors.
+kinase :
+A type of enzyme that transfers phosphate groups from high-energy donor molecules, such as ATP, to specific substrates, a process known as phosphorylation.
+ligand :
+A small molecule that binds to a larger molecule.
+nuclear receptor :
+A class of proteins found within cells that are responsible for binding steroid and thyroid hormones; may act as a transcription factor.
+second messenger :
+A molecule that relays a signal from a receptor on the cell surface to target molecules inside the cell.
+signal transduction :
+The process that occurs when an extracellular signaling molecule activates a cell surface receptor, which then alters intracellular molecules creating a response.
+transcription factor :
+A protein involved in regulating gene expression; usually bound to a cis-regulatory element on the DNA; also known as a regulatory protein or a trans-acting factor.
+tyrosine kinase receptor :

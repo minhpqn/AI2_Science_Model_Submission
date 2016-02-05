@@ -1,0 +1,20 @@
+Recombinant DNA is engineered through the combination of two or more DNA strands, combining DNA sequences which would not normally occur together.
+In other words, selected DNA (or the DNA of "interest") is inserted into an existing organismal genome, such as a bacterial plasmid DNA, or some other sort of vector.
+The recombinant DNA can then be inserted into another cell, such as a bacterial cell, for amplification and possibly production of the resulting protein.
+This process is called transformation , the genetic alteration of a cell resulting from the uptake, incorporation, and expression of foreign genetic material.
+Recombinant DNA technology was made possible by the discovery of restriction endonucleases.
+In The RNA message is sometimes edited at , Rich Rioberts and Phil Sharp discuss the development of tools and techniques to analyze DNA.
+Restriction Enzyme Digestion and Ligation
+Restriction enzymes or restriction endonucleases are prokaryotic enzymes that recognize and cut DNA at specific sequences, called restriction sites.
+It is believed that they evolved as a defense mechanism against foreign DNA, such as viral DNA.
+Over 3,000 restriction enzymes have been identified.
+Some of the more common restriction enzymes are shown in the table below, where up and down arrows show the sites of cleavage.
+Restriction enzymes are named based on the prokaryotic organism they are isolated from.
+For example, those isolated from Escherichia coli would begin with Eco.
+As the Table below shows, digestion with the restriction enzymes will result in overlapping or blunt ends.
+EcoRI produces overlapping "sticky" ends: the enzyme cleaves between the G and A on both strands.
+On the other hand, SmaII restriction enzyme cleavage produces "blunt" ends.
+The enzyme cleaves between the G and C on both strands.
+Common Restriction Endonucleases
+5'---G AATTC---3'3'---CTTAA G---5'
+5'---G GATCC---3'3'---CCTAG G---5'

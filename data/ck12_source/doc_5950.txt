@@ -1,0 +1,20 @@
+How much gas is there?
+Avogadro was interested in studying gases.  He theorized that equal volumes of gases under the same conditions contained the same number of particles.  Other researchers studied how many gas particles were in a specific volume of gas.
+Eventually, scientists were able to develop the relationship between number of particles and mass using the idea of moles.
+Conversions Between Mass and Number of Particles
+In "Conversions between Moles and Mass", you learned how to convert back and forth between moles and the number of representative particles.  Now you have seen how to convert back and forth between moles and mass of a substance in grams.  We can combine the two types of problems into one.  Mass and number of particles are both related to grams.  In order to convert from mass to number of particles or vice-versa, it will first require a conversion to moles.
+Flowchart of conversion between number of particles, moles, and mass
+Conversion from number of particles to mass or from mass to number of particles requires two steps
+Sample Problem:
+Converting Mass to Particles
+How many molecules is 20.0 g of chlorine gas, Cl 2 ?
+Step 1:
+List the known quantities and plan the problem.
+molar mass Cl 2 = 70.90 g/mol
+20.0 g Cl 2
+number of molecules of Cl 2
+Use two conversion factors.  The first converts grams of Cl 2 to moles.  The second converts moles of Cl 2 to the number of molecules.
+Step 2:
+Calculate.
+20.0 \ \text{g} \ \text{Cl}_2 \times \frac{1 \ \text{mol} \ \text{Cl}_2}{70.90 \ \text{g} \ \text{Cl}_2} \times \frac{6.02 \times 10^{23} \ \text{molecules Cl}_2}{1 \ \text{mol} \ \text{Cl}_2}=1.70 \times 10^{23} \ \text{molecules Cl}_2
+The problem is done using two consecutive conversion factors.

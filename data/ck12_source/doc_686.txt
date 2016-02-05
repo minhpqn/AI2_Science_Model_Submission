@@ -1,0 +1,20 @@
+Optical fibers make interesting lamps but they are also used to transport telephone and television signals.
+Total Internal Reflection
+We already know that when light passes from one medium into a second medium where the index of refraction is smaller, the light refracts away from the normal.
+In the image below, the light rays are passing into an optically less dense medium; therefore, the rays bend away from the normal.  As the angle of incidence increases, the light ray bends even further away from the normal.  Eventually, the angle of incidence will become large enough that the angle of refraction equals 90^\circ  , meaning the light ray will not enter the new medium at all.
+Diagram illustrating the conditions for total internal reflection
+Consider a ray of light passing from water into air.
+The index of refraction for air is 1.00 and for water is 1.36.
+Using Snell’s Law, n_i \sin \theta_i=n_r \sin \theta_r , and allowing the angle of refraction to be 90^\circ , we can solve for the angle of incidence which would cause the light ray to stay in the old medium.
+n_i \sin \theta_i = n_r \sin \theta_r
+(1.36)(\sin \theta_i) = (1.00)(\sin 90^\circ)
+\sin \theta_i = 0.735 and \theta_i=47^\circ
+This result tells us that when light is passing from water into air, if the angle of incidence exceeds 47^\circ , the light ray will not enter the new medium.
+The light ray will be completely reflected back into the original medium.  This is called total internal reflection .
+The minimum angle of incidence for total internal reflection to occur is called the critical angle .
+Total internal reflection is the principle behind fiber optics .
+A bundle of fibers made out of glass or plastic only a few micrometers in diameter is called a light pipe since light can be transmitted along it with almost no loss.
+Light passing down the fibers makes glancing collisions with the walls so that total internal reflection occurs.
+When light passes from one medium into a second medium with a smaller index of refraction, the light refracts away from the normal.
+If the angle of incidence becomes large enough that the angle of refraction equals 90^\circ , the light ray will not enter the new medium with the smaller angle of refraction.
+Total internal reflection means the light ray will not enter the new medium but will be completely reflected back into the original medium.

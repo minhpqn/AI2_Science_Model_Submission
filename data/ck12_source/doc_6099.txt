@@ -1,0 +1,20 @@
+This heat is then dissipated through the coils into the outside air.
+As the compressed gas is pumped through the system again, the process repeats itself.
+Combined Gas Law
+To this point, we have examined the relationships between any two of the variables of P , V , and T , while the third variable is held constant.
+However, situations arise where all three variables change.
+The combined gas law expresses the relationship between the pressure, volume, and absolute temperature of a fixed amount of gas.
+For a combined gas law problem, only the amount of gas is held constant.
+\frac{P \times V}{T}=k \quad \text{and} \quad \frac{P_1 \times V_1}{T_1}=\frac{P_2 \times V_2}{T_2}
+Sample Problem:
+Combined Gas Law
+2.00 L of a gas at 35°C and 0.833 atm is brought to standard temperature and pressure (STP).
+What will be the new gas volume?
+Step 1:
+List the known quantities and plan the problem.
+P_1=0.833 \text{ atm}
+V_1=2.00 \text{ L}
+T_1=35^\circ \text{C}=308 \text{ K}
+P_2=1.00 \text{ atm}
+T_2=0^\circ \text{C}=273 \text{ K}
+V_2=? \text{ L}

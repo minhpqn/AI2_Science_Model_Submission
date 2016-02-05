@@ -1,0 +1,20 @@
+Green light has a higher frequency than microwaves.
+It is possible to calculate it, but since the speed of an electromagnetic wave is constant we know that waves with higher wavelengths must have a lower frequency based on the wave equation.
+Calculate the frequency for an ultraviolet wave of wavelength 10^{-7}\;\text{m} and compare it to the frequency of a radio wave (about 3*10^9\;\text{Hz} ).
+Which type of wave do you think takes more energy to generate?
+We'll use the wave equation to determine the wave length of ultraviolet light.
+The oscillating charged particles that create UV light are vibrating much more violently than the ones that create radio waves so they take more energy to generate.
+Watch this Explanation
+Click on the image above for more content
+Which corresponds to light of longer wavelength, UV rays or IR rays?
+Which corresponds to light of lower frequency, x- rays or millimeter-wavelength light?
+Approximately how many blue wavelengths would fit end-to-end within a space of one millimeter?
+Approximately how many short (“hard”) x- rays would fit end-to-end within the space of a single red wavelength?
+Calculate the frequency in Hz of a typical green photon emitted by the Sun.
+What is the physical interpretation of this (very high) frequency? (That is, what is oscillating?)
+FM radio stations list the frequency of the light they are emitting in MHz, or millions of cycles per second.
+For instance, 90.3 \;\mathrm{FM} would operate at a frequency of 90.3 \times 10^6 \;\mathrm{Hz} .
+What is the wavelength of the radio-frequency light emitted by this radio station?
+Compare this length to the size of your car’s antenna, and make an argument as to why the length of a car’s antenna should be about the wavelength of the light you are receiving.
+Answers to Selected Problems
+2200 blue wavelengths

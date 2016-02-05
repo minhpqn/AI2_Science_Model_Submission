@@ -1,0 +1,20 @@
+Proto-oncogenes may be growth factors, transcription factors, or other proteins involved in regulation.
+A very common oncogene, ras , is normally a regulatory GTPase that switches a signal transduction chain on and off.
+Ras and Ras-related proteins are products of oncogenes found in 20% to 30% of human tumors.
+The transcription factor myc is an oncogene often seen mutated in Burkitt’s lymphoma, a rare type of lymphoma, a cancer of the lymphocytes.
+Ras is a G protein , a regulatory GTP hydrolase that cycles between an activated and inactivated form.
+When a growth factor binds to its receptor on the outside of the cell, a signal is relayed to Ras.
+As a G protein, Ras is activated when GTP is bound to it.
+The active Ras then passes the signal to a series of protein kinases, regulatory proteins that eventually activate transcription factors to alter gene expression and produce proteins that stimulate the cell cycle ( Figure below ).
+One important recipient of Ras signaling is the mitogen-activated protein kinases (MAPK) .
+Once activated, MAPK transmit signals downstream to other protein kinases and gene regulatory proteins.
+This cascade of reactions is typical of a signal transaction pathway.
+Many of the genes and proteins involved in signal transduction pathways are interconnected to Ras.
+Any mutation that makes Ras more active or otherwise interrupts the normal signal transduction pathways ( Figure below ) may result in excessive cell division and cancer.
+In Living things share common genes at , Michael Wigler discusses his work on ras, and 1989 Nobel Prize awardees Harold Varmus and Michael Bishop discuss their work retroviruses.
+Tumor Suppressor Genes
+Tumor suppressor genes, as their name implies, normally suppress tumorigenesis.
+When this process is disturbed, such as by a mutation, tumor suppression may not be inhibited as normal.
+An example of a tumor suppressor gene is p53 , which encodes a 53,000 dalton (53kd) protein, The p53 gene is activated by DNA damage.
+DNA may be damaged by ultraviolet light, and any damaged DNA may be harmful to the cell.
+Mutations causing problems with any of the components of Figure below , may lead to the development of cancer.

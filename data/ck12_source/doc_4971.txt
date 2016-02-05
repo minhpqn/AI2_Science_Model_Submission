@@ -1,0 +1,20 @@
+It starts with the ligand binding its receptor.
+Once the signal is internalized, the second messenger then begins a cascade of reactions that can greatly change the behavior of the cell.
+A signal-transduction pathway is the signaling mechanism by which a cell changes a signal on its surface into a specific response inside the cell.
+This process begins when a ligand binds to its receptor.
+The receptor may either be a cell-surface receptor in the cell membrane or a nuclear receptor in the cytoplasm of the cell.
+See DNA responds to signals from outside the cell at to see James Darnall speak about signal transduction.
+Signal transduction most often involves an ordered sequence of chemical reactions inside the cell which is carried out by enzymes and other molecules.
+In many signal transduction processes, the number of proteins and other molecules participating in these events increases as the process progresses from the binding of the signal.
+A "signal cascade" begins.
+Think of a signal cascade as a chemical domino-effect inside the cell, in which one domino knocks over two dominoes, which in turn knock over four dominoes, and so on.
+The advantage of this type of signaling to the cell is that the message from one little signal molecule can be greatly amplified and have a dramatic effect.
+How a G-protein linked receptor works with the help of a G-protein.
+G proteins (guanine nucleotide-binding proteins) are a family of GTPases involved in transmitting chemical signals outside the cell, and causing changes inside the cell.
+When a ligand binds to a G protein coupled receptor, an intracellular domain of the receptor activates a G protein.
+The G protein then activates additional intracellular pathways, resulting in an altered intracellular environment.
+G proteins function as molecular switches.
+When they bind guanosine triphosphate (GTP), they are 'on', and, when they bind guanosine diphosphate (GDP), they are 'off'.
+G Protein Coupled Receptors and Cyclic AMP
+G protein linked receptors are only found in higher eukaryotes, including yeast, plants, and animals.
+Your senses of sight and smell are dependent on G-protein linked receptors.

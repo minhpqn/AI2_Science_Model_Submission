@@ -1,0 +1,20 @@
+A template is a model provided for others to copy.
+The process of constructing an mRNA molecule from DNA is known as transcription ( Figure below and Figure below ).
+Transcription is similar to DNA replication, except in transcription, single stranded RNA is produced instead of double stranded DNA.
+In transcription, only one strand of DNA is used as a template.
+First, the double helix of DNA unwinds and an enzyme, RNA Polymerase, builds the mRNA using the DNA as a template.
+The nucleotides follow basically the same base pairing rules as in DNA to form the correct sequence in the mRNA.
+This time, however, uracil (U) pairs with each adenine (A) in the DNA.
+For example, a DNA sequence ACGGGTAAGG will be transcribed into the mRNA sequence UGCCCAUUCC.
+In this manner, the information of the DNA is passed on to the mRNA.
+The mRNA will carry this code to the ribosomes to tell them how to make a protein.
+As not all genes are used in every cell, a gene must be "turned on" or expressed when the gene product is needed by the cell.
+Only the information in a gene that is being expressed is transcribed into an mRNA.
+Overview of transcription
+Transcription is when RNA is created from a DNA template.
+Each gene (a) contains triplets of bases (b) that are transcribed into RNA (c).
+Every triplet in the DNA, or codon in the mRNA, encodes for a unique amino acid.
+Diagram of transcription of DNA to mRNA
+Base-pairing ensures the accuracy of transcription.
+Notice how the helix must unwind for transcription to take place.
+The new mRNA is shown in green.

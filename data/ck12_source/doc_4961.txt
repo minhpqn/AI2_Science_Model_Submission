@@ -1,0 +1,20 @@
+The plasma membrane engulfs the solid material, forming a phagocytic vesicle.
+Pinocytosis or "cellular drinking," occurs when the plasma membrane folds inward to form a channel allowing dissolved substances to enter the cell, as shown in Figure below .
+When the channel is closed, the liquid is encircled within a pinocytic vesicle.
+Transmission electron microscope image of brain tissue that shows pinocytotic vesicles.
+Pinocytosis is a type of endocytosis.
+Exocytosis describes the process of vesicles fusing with the plasma membrane and releasing their contents to the outside of the cell, as shown in Figure below .
+Exocytosis occurs when a cell produces substances for export, such as a protein, or when the cell is getting rid of a waste product or a toxin.
+Newly made membrane proteins and membrane lipids are moved to the plasma membrane by exocytosis.
+Illustration of the two types of vesicle transport, exocytosis and endocytosis.
+Endocytosis and exocytosis are types of vesicle transport that carry very large molecules across the cell membrane.
+For a detailed animation on cellular secretion, see
+Axon signaling using exocytosis
+Illustration of an axon releasing dopamine by exocytosis.
+Some substances are internalized after binding to a membrane-bound receptor.
+This process is known as receptor-mediated endocytosis (RME).
+RME is a process by which cells internalize molecules by endocytosis.
+This occurs by the inward budding of plasma membrane vesicles containing proteins with receptor sites specific to the molecules being internalized.
+After the binding of a ligand to the plasma membrane-spanning receptors, a signal is sent through the membrane, leading to membrane coating by the protein clathrin , and formation of a membrane invagination.
+The receptor and its ligand are then internalized in clathrin-coated vesicles.
+RME is also known as clathrin-dependent endocytosis, named after the clathrin protein that accumulates on the internal segment of membrane that will form a vesicle.

@@ -1,0 +1,20 @@
+A game of tug-o-war is played … but with a twist (ha!).
+Each team has its own rope attached to a merry-go-round.
+One team pulls clockwise, the other counterclockwise.
+Each pulls at a different point and with a different force, as shown.
+By how much?
+That is, what is the net torque?
+Assume that the merry-go-round is weighted down with a large pile of steel plates.
+It is so massive that it has a moment of inertia of 2000 \;\mathrm{kg}\cdot m^2 .
+What is its angular acceleration?
+How long will it take the merry-go-round to spin around once completely?
+A spherical Yo-Yo is given to you for Christmas.
+Being the good physicist that you are, you immediately calculate it’s acceleration and then test it with a motion detector.
+The Yo-Yo, of mass of 200g and a radius of 10cm. is a solid sphere (I = 2/5MR2), with two strings attached, both at a 20° from the top.
+See figure.
+The string thickness is negligible compared to the Sphere radius.
+Calculate the final linear velocity of the Yo-Yo when dropped from a height of 0.5m.
+Calculate the angular acceleration of the Yo-Yo.
+If the string thickness is not ignored, how would this change your results in parts a. and b.
+a. 200 \;\mathrm{N} team b. 40 \;\mathrm{Nm} c. 0.02 \;\mathrm{rad/s}^2 d. 25 \;\mathrm{s}
+a. 2.6 m/s b. 72 {rad/s}^2 c.

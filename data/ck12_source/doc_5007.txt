@@ -1,0 +1,20 @@
+Click on the image above for more content
+How Enzymes Work
+How do enzymes speed up biochemical reactions so dramatically?
+Like all catalysts, enzymes work by lowering the activation energy of chemical reactions.
+This is illustrated in Figure below .
+The biochemical reaction shown in the figure requires about three times as much activation energy without the enzyme as it does with the enzyme.
+An animation of how enzymes work can be seen at
+Click on the image above for more content
+The reaction represented by this graph is a combustion reaction involving the reactants glucose (C 6 H 12 O 6 ) and oxygen (O 2 ).
+The products of the reaction are carbon dioxide (CO 2 ) and water (H 2 O).
+Energy is also released during the reaction.
+The enzyme speeds up the reaction by lowering the activation energy needed for the reaction to start.
+Compare the activation energy with and without the enzyme.
+Enzymes generally lower activation energy by reducing the energy needed for reactants to come together and react.
+For example:
+Enzymes bring reactants together so they don’t have to expend energy moving about until they collide at random.
+Enzymes bind both reactant molecules (called substrates ), tightly and specifically, at a site on the enzyme molecule called the active site ( Figure below ).
+This forms an enzyme-substrate complex.
+By binding reactants at the active site, enzymes also position reactants correctly, so they do not have to overcome intermolecular forces that would otherwise push them apart.
+This allows the molecules to interact with less energy.

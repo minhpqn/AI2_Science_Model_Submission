@@ -1,0 +1,20 @@
+Food irradiation is a sensitive subject for many people.
+The practice involves exposing the food to ionizing radiation in order to kill harmful bacteria (such as salmonella) that cause sickness.
+The food is essentially unchanged and does not lose any nutritive value.
+Parasites and insect pests are easily destroyed by this process, while bacteria take longer to kill.
+Viruses are not affected by the radiation treatment.
+But don’t worry – the food is not radioactive and you will not glow in the dark if you eat it.
+Nuclear Decay Processes
+Radioactive decay involves the emission of a particle and/or energy as one atom changes into another.
+In most instances, the atom changes its identity to become a new element.
+There are four different types of emissions that occur.
+Alpha (α) decay involves the release of helium ions from the nucleus of an atom.
+This ion consists of two protons and two neutrons and has a 2+ charge.
+Release of an α-particle produces a new atom that has an atomic number two less than the original atom and an atomic weight that is four less.
+A typical alpha decay reaction is the conversion of uranium-238 to thorium:
+{^{238}_{\phantom{0}92}\text{U}} \rightarrow {^{234}_{\phantom{0}90}\text{Th}} + {^4_2 \alpha^+}
+We see a decrease of two in the atomic number (uranium to thorium) and a decrease of four in the atomic weight (238 to 234).
+Usually the emission is not written with atomic number and weight indicated since it is a common particle whose properties should be memorized.
+Quite often the alpha emission is accompanied by gamma (γ) radiation, a form of energy release.
+Many of the largest elements in the periodic table are alpha-emitters.
+Example of alpha decay

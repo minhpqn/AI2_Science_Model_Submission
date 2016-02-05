@@ -1,0 +1,20 @@
+This situation describes the common ion effect.
+A common ion is an ion that is in common to both salts in a solution.
+In the above example, the common ion is Ca 2+ .
+The common ion effect is a decrease in the solubility of an ionic compound as a result of the addition of a common ion.
+Adding calcium ion to the saturated solution of calcium sulfate causes additional CaSO 4 to precipitate from the solution, lowering its solubility.
+The addition of a solution containing sulfate ion, such as potassium sulfate, would result in the same common ion effect.
+Sample Problem:
+The Common Ion Effect
+What is the concentration of zinc ion in 1.00 L of a saturated solution of zinc hydroxide to which 0.040 mol of NaOH has been added?
+Step 1:
+List the known quantities and plan the problem .
+K_{sp}= 3.0 \times 10^{-16} (from table in  "Conversion of Ksp to Solubility" )
+moles of added NaOH = 0.040 mol
+volumes of solution = 1.00 L
+[Zn 2+ ] = ?
+M
+Express the concentrations of the two ions relative to the variable s .
+The concentration of the zinc ion will be equal to s , while the concentration of the hydroxide ion will be equal to 0.040 + 2s .
+Step 2:
+Solve .

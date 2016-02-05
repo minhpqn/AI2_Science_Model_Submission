@@ -1,0 +1,20 @@
+Distinguish between thermophiles, mesophiles, and psychrophiles.
+Where do you find lots of bacteria?
+Practically all surfaces.
+Bacteria can live and grow in practically any environment.
+It is this ability that has made bacteria the most numerous species on the planet.
+Prokaryotes have a wide range of metabolisms, and this determines where they live.
+They live in a particular habitat because they are able to “eat” whatever is around them.
+For example, there are bacteria and archaea that break down hydrogen sulfide to produce ATP.
+Hydrogen sulfide is the gas that gives rotten eggs and sewage their distinctive smell.
+It is poisonous to animals, but some prokaryotes depend on it for life.
+Organisms that are obligate aerobes need oxygen to live.
+That is, they use oxygen as a terminal electron acceptor while making ATP (see the “Cellular Respiration” concept).
+Humans are obligate aerobes, and so are Mycobacterium tuberculosis bacteria.
+M. tuberculosis causes tuberculosis (TB).
+Obligate aerobes are found only in places with molecular oxygen.
+An anaerobic organism is any organism that does not need oxygen for growth and even dies in its presence.
+Obligate anaerobes will die when exposed to atmospheric levels of oxygen.
+Clostridium perfringens bacteria, which are commonly found in soil around the world, are obligate anaerobes.
+Infection of a wound by C. perfringens bacteria causes the disease gas gangrene.
+Obligate anaerobes use molecules other than oxygen as terminal electron acceptors.

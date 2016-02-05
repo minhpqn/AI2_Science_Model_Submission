@@ -1,0 +1,20 @@
+Describe Newton's Second Law and explain the relationship between acceleration, applied force, and mass.
+Determine the net force when multiple forces act on an object.
+The acceleration experienced by an object will be proportional to the applied force and inversely proportional to its mass.
+If there are multiple forces, they can be added as vectors and it is the net force that matters.
+Newton's Second Law describes his famous equation for the motion of an object
+The change of motion is proportional to the motive force impressed; and is made in the direction of the right (straight) line in which that force is impressed.
+The "motion" Newton mentions in the Second Law is, in his language, the product of the mass and velocity of an object --- we call this quantity momentum --- so the Second Law is actually the famous equation : \vec{F} = \frac{\Delta(m\vec{v})}{\Delta t} = \frac{m\Delta \vec{v}}{\Delta t} =m\vec{a} && \text{[1]}
+\text{Force Sums} \begin{cases}\vec{F_{\text{net}}} = \sum_{i} F_i = m \vec{a} & \text{Net force is the vector sum of all the forces}\\\F_{\text{net,}x} = \sum_{i} {F_{ix}} = m{a}_{x} & \text{Horizontal components add also}\\\F_{\text{net,}y} = \sum_{i} {F_{iy}} = m{a}_{y} & \text{As do vertical ones}\end{cases}
+Guidance To calculate the net force on an object, you need to calculate all the individual forces acting on the object and then add them as vectors.
+This requires some mathematical skill.
+A 175-g bluebird slams into a window with a force of 19.0 N.
+What is the bird’s acceleration?
+Question: a = ? [m/s^2]
+Given: m = 175\ grams = 0.175\ kg
+{\;}\qquad \quad F = 19.0 \ N
+Equation: a = \frac{F_{net}}{m}
+Plug n’ Chug: a = \frac{F_{net}}{m} = \frac{19.0 \ N}{0.175 \ kg} = \frac{19.0 \frac{kg \cdot m}{s^2}}{0.175\ kg} = 109 \frac{m}{s^2}
+Answer: \boxed{\mathbf{109 \ m/s^2}}
+Calculate the acceleration of a rocket that has 500N of thrust force and a mass of 10kg.
+Question: a = ? [m/s^2]

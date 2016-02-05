@@ -1,0 +1,20 @@
+For energy level 2, the maximum number of electrons is 8 (2 \times 2^2) , and for the 3rd energy level, the maximum number of electrons is 18 (2 \times 3^2) .
+The Table below lists the number of sub-levels and electrons for the first four principal quantum numbers.
+Number of Sub-Levels and Electrons by Principal Quantum Number
+Principal Quantum Number
+Number of Sub-Levels
+Total Number of Electrons
+The largest known atom contains slightly more than 100 electrons.
+Quantum mechanics sets no limit as to how many energy levels exist, but no more than 7 principal energy levels are needed to describe all the electrons of all the known atoms.
+Each energy level can have as many sub-levels as the principal quantum number, as discussed above, and each sub-level is identified by a letter.
+Beginning with the lowest energy sub-level, the sub-levels are identified by the letters s , p , d , f , g , h , i , and so on.
+Every energy level will have an  s sub-level, but only energy levels 2 and above will have  p sub-levels.
+Similarly,  d sub-levels occur in energy level 3 and above, and  f sub-levels occur in energy level 4 and above.
+Energy level 5 could have a fifth sub-energy level named g , but all the known atoms can have their electrons described without ever using the g sub-level.
+Therefore, we often say there are only four sub-energy levels, although theoretically there can be more than four sub-levels.
+The principal energy levels and sub-levels are shown in the following diagram.
+The principal energy levels and sub-levels that we use to describe electrons are in red.
+The energy levels and sub-levels in black are theoretically present but are never used for known atoms.
+Diagram of the principal energy levels and sublevels
+The sub-energy levels are identified by the azimuthal quantum number, l .
+When the azimuthal quantum number l=0 , the sub-level = s .

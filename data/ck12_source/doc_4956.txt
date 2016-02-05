@@ -1,0 +1,20 @@
+The voltage across a membrane is the membrane potential .
+Membrane potential is very important for the conduction of electrical impulses along nerve cells.
+The membrane potential of a cell at rest is known as its resting potential , and is discussed below.
+A non-excited nerve cell is an example of a cell at rest.
+Because of the ion gradient, there are less positive ions inside the cell, the inside of the cell is negative compared to outside the cell.
+This resulting membrane potential favors the movement of positively charged ions (cations) into the cell, and the movement of negative ions (anions) out of the cell.
+So, there are two forces that drive the diffusion of ions across the plasma membrane—a chemical force (the ions' concentration gradient), and an electrical force (the effect of the membrane potential on the ions’ movement).
+These two forces working together are called an electrochemical gradient .
+The electrochemical gradient determines the direction an ion moves by diffusion or active transport across a membrane.
+In mitochondria and chloroplasts, proton gradients are used to generate a chemiosmotic potential that is also known as a proton motive force , due to both the proton gradient and voltage gradient across the membrane.
+This potential energy is used for the synthesis of ATP by oxidative phosphorylation .
+The Resting Potential
+In order to maintain the membrane potential, cells maintain a low concentration of sodium ions (Na + ) and high levels of potassium ions (K + ) within the cell (intracellular).
+The sodium-potassium pump moves three Na + ions out of the cell and brings two K + ions into the cell.
+This essentially removes one positive charge from the intracellular space.
+The resulting membrane potential is known as the resting potential.
+Ionic basis of resting membrane potential
+This diagram shows how ions maintain the membrane potential.
+The sodium-potassium pump is shown in the membrane, transporting three Na + ions (green) out of the cell and bringing two K + ions (blue) into the cell.
+The Ion Gradient

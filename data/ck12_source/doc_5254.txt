@@ -1,0 +1,20 @@
+Other tandem repeat elements include minisatellite and microsatellite DNA.
+Both of these are also known as which is also known as VNTRs , for variable number of tandem repeats.
+Their analysis is useful in genetics and biology research, forensic science, and DNA fingerprinting.
+Minisatellite DNA is a section of DNA that consists of a short segments of repeating units 10-60 bp long.
+These occur at more than 1,000 locations in the human genome.
+Microsatellite DNA has smaller repeating units.
+Microsatellites are also known as simple sequence repeats (SSRs) or short tandem repeat (STR) polymorphisms.
+STR analysis forms the basis of identification in forensic DNA analysis. 13 STRs are routinely analyzed from throughout the human genome as part of CODIS , the Combined DNA Index System database maintained by the FBI.
+This diagram is an example of DNA fingerprinting.
+The colored bands represent segments of DNA, separated based on size. 10 individuals are tested for 6 STRs.
+Lanes 3 and 10 represent size ladders.
+Notice that the pattern of bands is unique for each individual.
+DNA sequences that repeat a number of times are known as repetitive sequences or repetitive elements.
+For example the sequence CACACACACACACA would be a dinucleotide (2 base) repeat, or the sequence GATCGATCGATCGATCGATC would be a tetranucleotide (4 base) repeat.
+The genomic loci and length of certain types of repetitive sequences are highly variable from person to person, which is the basis of DNA fingerprinting and DNA paternity testing technologies.
+Longer repetitive elements are also common in the human genome.
+Examples of repeat polymorphisms are described in Table below .
+Repeat Polymorphisms (bp = base pair)
+repeats of one bp
+repeats of two bp sequences

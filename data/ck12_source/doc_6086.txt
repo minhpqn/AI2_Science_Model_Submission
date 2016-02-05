@@ -1,0 +1,20 @@
+Explain these effects in terms of the kinetic-molecular theory of gases.
+The pressure in a basketball in a game must be kept in a certain range
+How high does a basketball bounce?
+The pressure of the air in a basketball has to be adjusted so that the ball bounces to the correct height.
+Before a game, the officials check the ball by dropping it from shoulder height and seeing how far back up it bounces.
+What would the official do if the ball did not bounce up as far as it is supposed to?
+What would he do if it bounced too high?
+The pressure inside a container is dependent on the amount of gas inside the container.
+If the basketball does not bounce high enough, the official could remedy the situation by using a hand pump and adding more air to the ball.
+Conversely, if it bounces too high, he could let some air out of the ball.
+Factors Affecting Gas Pressure
+Recall from the kinetic-molecular theory that gas particles move randomly and in straight lines until they elastically collide with either other gas particles or with one of the walls of the container.
+It is these collisions with the walls of the container that defines the pressure of the gas.
+Four variables are used to describe the condition of a gas.
+They are pressure (P) , volume (V) , temperature (T) , and the amount of the gas as measured by the number moles (n) .
+We will examine separately how the volume, temperature, and amount of gas each affect the pressure of an enclosed gas sample.
+Amount of Gas
+The Figure below shows what happens when air is added to a rigid container .
+A rigid container is one that is incapable of expanding or contracting.
+A steel canister is an example of a rigid container.

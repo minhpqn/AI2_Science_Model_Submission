@@ -1,0 +1,20 @@
+How does oxygen move across the membrane?
+Define active transport.
+Describe the process of active transport.
+Summarize the role of the sodium-potassium pump.
+What does it take to roll a stone uphill?
+This round stone tends to roll downhill due to the force of gravity.
+It takes an input of energy to push it uphill.
+Due to diffusion, molecules tend to move from an area of a large amount to an area of a small amount.
+So guess what it takes to move molecules the opposite way, from an area of low concentration to an area of high concentration?
+Energy, of course!
+During active transport, molecules move from an area of low concentration to an area of high concentration.
+This is the opposite of diffusion , and these molecules are said to flow against their concentration gradient.
+Active transport is called "active" because this type of transport requires energy to move molecules.
+ATP is the most common source of energy for active transport.
+As molecules are moving against their concentration gradients, active transport cannot occur without assistance.
+A carrier protein is always required in this process.
+Like facilitated diffusion, a protein in the membrane carries the molecules across the membrane, except this protein moves the molecules from a low concentration to a high concentration.
+These proteins are often called "pumps" because they use energy to pump the molecules across the membrane.
+There are many cells in your body that use pumps to move molecules.
+For example, your nerve cells (neurons) would not send messages to your brain unless you had protein pumps moving molecules by active transport.

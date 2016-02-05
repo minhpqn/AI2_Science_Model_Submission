@@ -1,0 +1,20 @@
+Laser light is highly directional because of the parallel mirrors.
+The laser beam is very small, typically around  \frac{1}{2} mm in diameter.
+The light is monochromatic , coherent, and very intense.
+The concentrated power of laser light is used in a variety of ways.
+In medicine, lasers can be used to repair the retina in an eye.
+Lasers can also be used in surgery in place of a knife to cut flesh with little loss of blood (the laser cauterizes as it cuts).
+In industry, lasers are used to cut steel and to weld materials together.
+Lasers may, in the future, be used to start nuclear fusion reactions.
+The word laser is an acronym.
+It stands for L ight A mplification by S timulated E mission of R adiation.
+A continuous electric discharge like that in a neon sign can be used to put atoms in the excited state.
+The helium-neon lasers often seen in science classrooms and used as laser pointers are continuous lasers.
+The photons emitted by the atoms are collected by placing the glass tube containing the atoms between two parallel mirrors.
+One mirror reflects all the light striking it while the other mirror allows some small percentage of the light to pass through.
+The light which passes out of the tube produces the laser beam.
+The light from a laser is monochromatic, coherent, and very intense.
+Click on the image above for more content
+Follow up questions:
+What substance was used to make the first laser?
+What additions are needed on the ruby tube to get a narrow beam of light?

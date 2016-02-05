@@ -1,0 +1,20 @@
+magnet, force lines, and magnetic field
+EMF , conductor, and magnetic field
+conducting wire, magnetic field, and relative motion
+conducting wire, electrical field, and relative motion
+none of these will produce  EMF mechanically
+Increasing which of the following will increase the output of a generator?
+strength of the magnetic field
+resistance of the conductor
+load on the meter
+none of these
+The current in the rotating coil of all generators is
+A generator in a power plant develops a maximum voltage of 170.
+V.
+What is the effective voltage?
+A 60.0 W light bulb is placed across the generator.
+A maximum current of 0.70 A flows through the bulb.
+What effective current flows through the bulb?
+What is the resistance of the light bulb when it is working?
+The effective voltage of a particular AC household outlet is 117 V.
+What is the maximum voltage across a lamp connected to the outlet?

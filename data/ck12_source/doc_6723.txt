@@ -1,0 +1,20 @@
+Remember that Newton's 3^{rd} Law, calling for “equal and opposite forces,” does not apply to a single object.
+None of your forces should be “equal and opposite” on the same object in the sense of Newton's 3^{rd} Law.
+Third law pairs act on two different objects.
+Recall that scales (like a bathroom scale you weigh yourself on) read out the normal force acting on you, not your weight.
+If you are at rest on the scale, the normal force equals your weight.
+If you are accelerating up or down, the normal force had better be higher or lower than your weight, or you won’t have an unbalanced force to accelerate you.
+Never include “m a ” as a force acting on an object. “m a ” is the result of the net force F_{net} which is found by summing all the forces acting on your object of interest.
+Determine how to orient your axes
+A good rule to generally follow is that you want one axis (usually the x-axis) to be parallel to the surface your object of interest is sitting on.
+If your object is on a ramp, tilt your axes so that the x-axis is parallel to the incline and the y-axis is perpendicular.
+In this case, this will force you to break the force of gravity on the object into its components.
+But by tilting your axes, you will generally have to break up fewer vectors, making the whole problem simpler.
+Identify which forces are in the  x- direction, which are in the y- direction, and which are at an angle.
+If a force is upward, make it in the y- direction and give it a positive sign.
+If it is downward, make it in the y- direction and give it a negative sign.
+Same thing applies for right vs. left in the x- direction.
+Make rightward forces positive.
+If forces are at an angle, draw them at an angle.
+A great example is that when a dog on a leash runs ahead, pulling you along, it’s pulling both forward and down on your hand.
+Draw the free body diagram (FBD).

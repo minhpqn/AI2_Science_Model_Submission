@@ -1,0 +1,20 @@
+Brønsted-Lowry Acid-Base Reactions
+An acid-base reaction according to the Brønsted-Lowry definition is a transfer of a proton from one molecule or ion to another.
+When ammonia is dissolved in water, it undergoes the following reversible reaction.
+& \text{NH}_3(aq)+\text{H}_2\text{O}(l) \rightleftarrows \text{NH}_4^+(aq)+\text{OH}^-(aq) \\& \text{base} \qquad \quad \ \ \text{acid} \quad \qquad \text{acid} \qquad \quad \ \ \text{base}
+In this reaction, the water molecule is donating a proton to the ammonia molecule.
+The resulting products are the ammonium ion and the hydroxide ion.
+The water is acting as a Brønsted-Lowry acid, while the ammonia is acting as a Brønsted-Lowry base.
+The hydroxide ion that is produced causes the solution to be basic.
+We can also consider the reverse reaction in the above equation.
+In that reaction, the ammonium ion donates a proton to the hydroxide ion.
+The ammonium ion is a Brønsted-Lowry acid, while the hydroxide ion is a Brønsted-Lowry base.
+Most Brønsted-Lowry acid-base reactions can be analyzed in this way.
+There is one acid and one base as reactants, and one acid and one base as products.
+In the above reaction, water acted as an acid, which may seem a bit unexpected.
+Water can also act as a base in a Brønsted-Lowry acid-base reaction, as long as it reacts with a substance that is a better proton donor.
+Shown below is the reaction of water with the hydrogen sulfate ion.
+& \text{HSO}_4^-(aq)+\text{H}_2\text{O}(l) \rightleftarrows \text{H}_3\text{O}^+(aq)+\text{SO}_4^{2-}(aq) \\& \text{acid} \qquad \qquad \ \ \text{base} \ \ \qquad \text{acid} \qquad \quad \ \ \text{base}
+So, water is capable of being either an acid or a base, a characteristic called amphoterism.
+An amphoteric substance is one that is capable of acting as either an acid or a base by donating or accepting hydrogen ions.
+Conjugate Acids and Bases

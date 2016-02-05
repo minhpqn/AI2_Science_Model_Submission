@@ -1,0 +1,20 @@
+The breakup of a larger nucleus into two or more smaller nuclei is called fission.
+fusion:
+The joining together of two or more smaller nuclei to form a larger one is called fusion.
+half-life:
+The time required for half of the atoms in any given quantity of a radioactive substance to decay is the half-life of that element.
+Describe the quark content of the proton and neutron.
+Describe the additional quarks in the quark model.
+Diagram illustrating quarks
+The first suggestion of the existence of quarks was presented in 1964 by Murray Gell-Mann and George Zweig.
+They suggested that protons and neutrons were composed of three quarks called up (u), down (d), and strange (s).
+A fourth quark was hypothesized just for reasons of symmetry and the name “charm” was suggested for the fourth quark by Sheldon Glashow and James Bkorken.
+The first evidence for quarks was produced by an experiment in the Stanford Linear Accelerator by James Bkorken and Richard Feynman in 1968.
+In 1974, Burton Richter and Samuel Ting, separately, announce on the same day that they discovered the same new particle.
+Ting and his collaborators at Brookhaven called this particle the “J” particle, whereas Richter and his collaborators at SLAC called this particle the psi particle.
+Since the discoveries are given equal weight, the particle is commonly known as the J/psi particle.
+The J/psi particle is a charm-anti-charm meson.
+After eighteen years of searching at many accelerators, experiments at Fermilab in 1995 discovered the top quark.
+When the atomic theory was first suggested, the atoms were considered to be indivisible.
+Sometime later, it was determined that, in fact, atoms were not indivisible but had component parts, namely protons, neutrons, and electrons.
+At the time those particles were hypothesized, they were considered to be indivisible, having no smaller parts.

@@ -1,0 +1,20 @@
+Note that the image formed by a concave lens is on the same side of the lens as the object.
+It is also smaller than the object and right-side up.
+However, it isn’t a real image.
+It is a virtual image.
+Your brain “tricks” you into seeing an image there.
+The light rays actually pass through the glass to the other side and spread out in all directions.
+You can explore the formation of images by a concave lens at this URL:
+A convex lens is thicker in the middle than at the edges.
+You can see the shape of a convex lens in the Figure below .
+A convex lens causes rays of light to converge, or meet, at a point called the focus (F).
+A convex lens forms either a real or virtual image.
+It depends on how close the object is to the lens relative to the focus.
+You can interact with an animated convex lens at this URL:
+Q:
+An example of a convex lens is a hand lens.
+Which of the three convex lens diagrams in the Figure above shows how a hand lens makes an image?
+A:
+You’ve probably looked through a hand lens before.
+If you have, then you know that the image it produces is right-side up.
+Therefore, the first diagram must show how a hand lens makes an image.

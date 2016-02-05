@@ -1,0 +1,20 @@
+Nuclear fusion reactions in the laboratory have been extraordinarily difficult to achieve.
+Extremely high temperatures (in the millions of degrees) are required.
+Methods must be developed to force the atoms together and hold them together long enough to react.
+The neutrons released during the fusion reactions can interact with atoms in the reactor and convert them to radioactive materials.
+There has been some success in the field of nuclear fusion reactions, but the journey to feasible fusion power is still a long and uncertain one.
+The process of nuclear fusion is described.
+Examples of nuclear fusion reactions are given.
+Read the material at the ling below and answer the following questions:
+What temperatures are needed for fusion to occur?
+Why is high pressure needed?
+What does a magnetic confinement reactor do?
+How does an inertial confinement method work?
+What is nuclear fusion?
+Why is nuclear fusion of interest today?
+What is one problem with studying nuclear fusion in the laboratory?
+nuclear fusion:
+A process in which atomic nuclei are fused together to form heavier nuclei.
+Penetrating Ability of Emissions
+Define penetrating ability.
+Describe the penetrating ability of different radioactive emissions.

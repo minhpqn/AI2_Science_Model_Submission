@@ -1,0 +1,20 @@
+Electron affinities are negative numbers because energy is released.
+The elements of the halogen group (Group 17) gain electrons most readily, as can be seen from their large negative electron affinities.
+This means that more energy is released in the formation of a halide ion than for the anions of any other elements.
+Considering electron configuration, it is easy to see why.
+The outer configuration of all halogens is ns 2 np 5 .
+The addition of one more electron gives the halide ions the same electron configuration as a noble gas, which we have seen is particularly stable.
+Period and group trends for electron affinities are not nearly as regular as for ionization energy.
+In general, electron affinities increase (become more negative) from left to right across a period and decrease (become less negative) from top to bottom down a group.
+However, there are many exceptions, owing in part to inherent difficulties in accurately measuring electron affinities.
+Electron affinity is a measure of the energy released when an extra electron is added to an atom.
+Electron affinities are measured in the gaseous state.
+In general, electron affinities become more negative as we move from left to right on the periodic table.
+In general, electron affinities become less negative from top to bottom of a group.
+Use the link below to answer the following questions:
+Which groups (using the old Roman numeral system) of elements are primarily involved with issues of electron affinity?
+What does a negative energy imply?
+Why is the electron affinity value for fluorine less than that of chlorine?
+Define “electron affinity."
+Does addition of an electron to a neutral atom require energy or release energy?
+Describe the general trend for electron affinity values moving from left to right on the periodic table.

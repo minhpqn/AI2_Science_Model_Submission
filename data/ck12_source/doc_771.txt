@@ -1,0 +1,20 @@
+\frac{1}{R_T} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}
+Consider the parallel circuit sketched below.
+The voltage drop for the entire circuit is 90.
+V.
+Therefore, the voltage drop in each of the resistors is also 90.
+V.
+Three resistors in parallel
+The current through each resistor can be found using the voltage drop and the resistance of that resistor:
+I_1=\frac{V_T}{R_1}=\frac{90. \ V}{60. \ \Omega}=1.5 \ A \qquad I_2=\frac{V_T}{R_2}=\frac{90. \ V}{30. \ \Omega}=3.0 \ A \qquad I_3=\frac{V_T}{R_3}=\frac{90. \ V}{30. \ \Omega} = 3.0 \ A
+The total current through the circuit would be the sum of the three currents in the individual resistors.
+I_T=I_1+I_2=I_3=1.5 \ A + 3.0 \ A + 3.0 \ A = 7.5 \ A
+The equivalent resistance for this circuit is found using the equation above.
+\frac{1}{R_T} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} = \frac{1}{60. \ \Omega} + \frac{1}{30. \ \Omega} + \frac{1}{30. \ \Omega} = \frac{1}{60. \ \Omega} + \frac{2}{60. \ \Omega} + \frac{2}{60. \ \Omega} = \frac{5}{60. \ \Omega}
+R_T=\frac{60. \ \Omega}{5}=12 \ \Omega
+The equivalent resistance for the circuit could also be found by using the total voltage drop and the total current.
+R_T=\frac{V_T}{I_T}=\frac{90. \ \Omega}{7.5 \ A}=12 \ \Omega
+Parallel electrical circuits have multiple paths the current may take.
+V_T = V_1 = V_2 = V_3 .
+I_T = I_1 + I_2 + I_3 .
+The video below demonstrates the differences between series and parallel circuits.

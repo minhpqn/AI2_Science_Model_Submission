@@ -1,0 +1,20 @@
+What is a common mistake made by homeowners when replacing burned fuses?
+As a wire conductor increases in diameter, the resistance
+stays the same
+The purpose of a fuse in an electrical circuit is to
+add another resistor
+increase the circuit voltage
+limit the maximum current in the circuit
+none of these
+What is the purpose of a circuit breaker in an electrical circuit?
+In some wire-in-glass fuses, the wire is not the same diameter all the way across the fuse.
+Many such fuses have one part of the wire that is considerably more narrow than the remainder of the wire.
+What is the purpose of this narrowing of the fuse wire?
+short circuit:
+A device in a circuit is said to be short-circuited if it is by-passed by a conductor of nearly zero resistance so that the voltage across the device drops to almost zero and the current in the by-pass circuit becomes huge.
+electrical fuse:
+A safety device that protects an electric circuit from excessive current, consisting of or containing a metal element that melts when current exceeds a specific amperage, thereby opening the circuit.
+circuit breaker:
+A reusable device used to interrupt an electrical circuit if the current flow exceeds a chosen level and becomes dangerous.
+surge protector:
+A device used to eliminate sudden surges or spikes of electrical power in a circuit.

@@ -1,0 +1,20 @@
+The mass of Sun is about 2.0 \times 10^{30} \ kg
+The Earth-Sun distance is about 1.5 \times 10^{11} \ m
+The Earth-Moon distance is about 3.8 \times 10^8 \ m
+When using the Universal Law of Gravity formula and the constant G above, make sure to use units of meters and kilograms.
+The direction of the force of gravity is in a straight line between two objects.
+It is always attractive.
+Newton invented calculus in order to prove that for a spherical object (like Earth) one can assume all of its mass is at the center of the sphere (thus in his formula, one can use the radius of Earth for the distance between a falling rock and Earth).
+Newton's Laws apply to all forces; but when he developed them only one was known: gravity.
+Newton's major insight --- and one of the greatest in the history of science --- was that the same force that causes objects to fall when released is also responsible for keeping the planets in orbit.
+Any two objects in the universe, with masses  m_1  and  m_2  with their centers of mass at a distance  r  apart will experience a force of mutual attraction along the line joining their centers of mass equal to: \vec{F_G}=\frac{Gm_1m_2}{r^2} && \text{Universal Gravitation, }\intertext{where G is the Gravitational constant:}G = 6.67300\times10^{-11} \mathrm{m^3 kg^{-1} s^{-2}}
+Here is an illustration of this law for two objects, for instance the earth and the sun:
+Gravity on the Earth's Surface
+On the surface of a planet --- such as earth --- the  r  in formula [3] is very close to the radius of the planet, since a planet's center of mass is --- usually --- at its center.
+It also does not vary by much: for instance, the earth's radius is about 6,000 km, while the heights we consider for this book are on the order of at most a few kilometers --- so we can say that for objects near the surface of the earth, the  r  in formula [3] is constant and equal to the earth's radius.
+This allows us to say that gravity is more or less constant on the surface of the earth.
+Here's an illustration:
+For any object a height  h  above the surface of the earth, the force of gravity may be expressed as:
+\vec{F_G} = \frac{Gm_{earth}m_{obj}}{(r_{earth}+h)^2} \intertext{Now we make the approximation that}r_{earth}+h \approx r_{earth}\intertext{then, we can rewrite the force of gravity equation as}\vec{F_G} = \underbrace{\frac{Gm_{earth}}{r_{earth}^2}}_{\vec{g_{earth}}}\times m_{obj} = m_{obj}\times{\vec{g}}
+We can do this because the quantity in braces only has constants; we can combine them and call their product  g  .
+Remember, this is an approximation that holds only when the  r  in formula [3] is more or less constant.

@@ -1,0 +1,20 @@
+The number of neutrons, N , is N = A - Z .
+Nuclei that have the same number of protons in the nucleus but a different number of neutrons are called isotopes.
+Each element has its own square in the periodic table.
+Each elemental square on the periodic table contains the chemical symbol for the element, the atomic number, and the atomic weight.
+The atomic weight of an element is a weighted average of its isotopes.
+Follow up questions:
+Nucleus #1 has 6 protons and a mass number of 14 while nucleus #2 has 7 protons and a mass number of 14.  Are these isotopes or are they nuclei of different elements?
+Nucleus #1 has 5 protons and a mass number of 12 while nucleus #2 has 5 protons and a mass number of 13.  Are these isotopes or are they nuclei of different elements?
+What do different isotopes of a given element have in common?
+How are they different?
+What is the element name of the atom represented by ^{232}_{92} X ?
+How many protons and how many neutrons does the nucleus in problem #2 have?
+Using the following data, calculate the atomic weight of magnesium.
+Magnesium-24 = 78.70%
+Magnesium-25 = 10.13%
+Magnesium-26 = 11.17%
+nucleus:
+The nucleus is the very dense region consisting of protons and neutrons at the center of an atom.
+neutron:
+A neutron is an uncharged elementary particle that has a mass nearly equal to that of the proton and is present in all known atomic nuclei except the hydrogen-1 atom.

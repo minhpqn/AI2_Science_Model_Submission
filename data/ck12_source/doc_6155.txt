@@ -1,0 +1,20 @@
+Therefore, A \cap B is the intersection of events A and B and can be used to find the probability of both events occurring.
+If, in a Venn diagram, either A or B occurs, the symbol is \cup.
+This symbol would represent the union of events A and B, where the outcome would be in either A or B.
+Example 3 You are asked to roll a die.
+Event A is the event of rolling a 1, 2, or a 3.
+Event B is the event of rolling a 3, 4, or a 5.
+Draw a Venn diagram to represent this example.
+What is A \cap B?
+What is A \cup B?
+Solution:
+We know that:
+S = \{1, 2, 3, 4, 5, 6\}\!\\A = \{1, 2, 3\}\!\\B = \{3, 4, 5\} A \cap B = \{3\}\!\\A \cup B = \{1, 2, 3, 4, 5\} Independent Events In mathematics, the term independent means to have one event not dependent on the other.
+It is similar to the English definition.
+Suppose you are trying to convince your parent/guardian to let you go to the movies on your own.
+Your parent/guardian is thinking that if you go, you will not have time to finish your homework.
+For this reason, you have to convince him/her that you are independent enough to go to the movies and finish your homework.
+Therefore, you are trying to convince your parent/guardian that the 2 events, going to the movies and finishing your homework, are independent.
+This is similar to the mathematical definition.
+Say you were asked to pick a particular card from a deck of cards and roll a 6 on a die.
+It does not matter if you choose the card first and roll a 6 second, or vice versa.

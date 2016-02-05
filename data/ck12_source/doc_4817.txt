@@ -1,0 +1,20 @@
+See DNA and proteins are key molecules of the cell nucleus at for a description of early work (starting in 1869) on DNA and proteins.
+Adenosine Triphosphate ( ATP ):
+Energy-carrying molecule that cells use to power their metabolic processes; energy-currency of the cell.
+codon :
+A sequence of three nucleotides within mRNA; encodes for a specific amino acid or termination (stop) sequence.
+complementary bases :
+A pair of nucleotide bases that bond together—either adenine and thymine (or uracil) or cytosine and guanine; complementary base pair.
+deoxyribonucleic acid ( DNA ):
+Double-stranded nucleic acid that composes genes and chromosomes; the hereditary material.
+double helix :
+The double spiral shape of the DNA molecule; resembles a spiral staircase.
+genetic code :
+The universal code of three-base codons; encodes the genetic instructions for the amino acid sequence of proteins.
+nucleic acid : organic compound such as DNA or RNA
+nucleotide :
+Monomer of nucleic acids, composed of a nitrogen-containing base, a five-carbon sugar, and a phosphate group.
+ribonucleic acid ( RNA ):
+Single-stranded nucleic acid; involved in protein synthesis.
+Nucleic acids are organic compounds that consist of carbon, hydrogen, oxygen, nitrogen, and phosphorus.
+DNA, RNA and ATP are important nucleic acids.

@@ -1,0 +1,20 @@
+A:
+The steps represent the base pairs.
+Functions of Nucleic Acids
+DNA stores genetic information in the cells of all living things.
+It contains the genetic code.
+This is the code that instructs cells how to make proteins.
+The instructions are encoded in the sequence of nitrogen bases in the nucleotide chains of DNA.
+RNA copies and interprets the genetic code in DNA and is also involved in the synthesis of proteins based on the code.
+You can watch these events unfolding at the following URL.
+Click on the image above for more content
+Q:
+DNA is found only in the nucleus of cells, but proteins are synthesized in the cytoplasm of cells, outside of the nucleus.
+How do you think the instructions encoded in DNA reach the cytoplasm so they can be used to make proteins?
+A:
+After RNA copies the instructions in DNA, it carries them from the nucleus to a site of protein synthesis in the cytoplasm, where the instructions are translated into a protein.
+Nucleic acids are one of four classes of biochemical molecules.
+Nucleic acids include RNA (ribonucleic acid) and DNA (deoxyribonucleic acid).
+Nucleic acids consist of chains of small molecules called nucleotides, which are held together by covalent bonds.
+RNA is made of one nucleotide chain, and DNA is made of two.
+The two chains of DNA are held together by hydrogen bonds in the shape of a double helix.

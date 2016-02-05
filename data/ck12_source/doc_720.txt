@@ -1,0 +1,20 @@
+A good diffraction grating has 2500 lines/cm.
+What is the distance between two lines on the grating?
+Solution: d =\frac{1}{2500 \ cm^{-1}}=0.00040 \ cm
+Example Problem:
+Using a diffraction grating with a spacing of 0.00040 cm, a red line appears 16.5 cm from the central line on the screen.
+The screen is 1.00 m from the grating.
+What is the wavelength of the light?
+Solution: \lambda=\frac{xd}{L}=\frac{(0.165 \ m)(4.0 \times 10^{-6} \ m)}{1.00 \ m}=6.6 \times 10^{-7} \ m
+Diffraction gratings can be made by blocking light from traveling through a translucent medium; the clear places behave as slits similar to the slits in a double slit experiment.
+Diffraction gratings form interference patterns much like double slits, though brighter and with more space between the lines.
+The equation used with double slit experiments to measure wavelength is adjusted slightly to work with diffraction gratings.  \lambda=\frac{xd}{L}=d \sin \theta
+Follow up questions:
+How does a diffraction grating differ from single or double slit?
+What happens when you increase the number of slits in a diffraction grating?
+White light is directed toward a diffraction grating and that light passes through the grating, causing its monochromatic bands appear on the screen.
+Which color will be closest to the central white?
+Three discrete spectral lines occur at angles of 10.1°, 13.7°, and 14.8° respectively in the first order spectrum.
+If the grating has 3660 lines/cm, what are the wavelengths of these three colors of light?
+A 20.0 mm section of diffraction grating has 6000 lines.
+At what angle will the maximum bright band appear if the wavelength is 589 nm?

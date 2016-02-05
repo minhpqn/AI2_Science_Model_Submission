@@ -1,0 +1,20 @@
+If the object goes around once in 1.18 s, what is the centripetal acceleration?
+circular motion:
+A movement of an object along the circumference of a circle or rotation along a circular path.
+centripetal acceleration:
+The acceleration toward the center that keeps an object following a circular path.
+Define centripetal force.
+Solve problems involving centripetal force.
+Explain the difference between centripetal and centrifugal forces.
+Jupiter's moons and rings obey centripetal force
+Jupiter's moons and ring materials follow all the laws of physics, including centripetal force and centripetal acceleration.
+Centripetal force is, simply, the force that causes centripetal acceleration.
+Objects that move in uniform circular motion all have an acceleration toward the center of the circle and therefore, they must also suffer a force toward the center of the circle.  That force is the centripetal force.
+For orbiting satellites, such as the moon orbiting the earth or the earth orbiting the sun, the centripetal force is produced by gravity.
+When an Olympic hammer thrower whirls a massive ball on a chain, the centripetal force is created by the athlete and transmitted by the chain.
+Newton's second law shows the relationship between force and acceleration, F = ma .  Since we have formulas expressing the relationships for centripetal acceleration, they can easily be altered to show the relationships for centripetal force.
+a_c=\frac{v^2}{r} \ and \ F=ma \ so \ F_c=\frac{mv^2}{r}
+a_c=\frac{4 \pi^2 r}{T^2} \ \text{so} \ F_c=\frac{4 \pi^2 rm}{T^2}
+Many people incorrectly use the term centrifugal force  instead of centripetal force .
+Often, you will hear the term centrifugal force used to describe the outward force pushing an object away from the center of a circle.
+In reality, however, centrifugal forces are inertial, or fictional, forces.

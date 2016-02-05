@@ -1,0 +1,20 @@
+A truck with mass 500 kg and originally carrying 200 kg of dirt is rolling forward with the transmission in neutral and shooting out the dirt backwards at 2 m/s (so that the dirt is at relative speed of zero compared with the ground).
+If the truck is originally moving at 2 m/s, how fast will it be moving after it has shot out all the dirt.
+You may ignore the effects of friction.
+To solve this problem we will apply conservation of momentum to the truck when it is full of dirt and when it has dumped all the dirt.
+m_iv_i&=m_fv_f && \text{start by setting the initial momentum equal to the final momentum}\\(m_t+m_d)v_i&=m_tv_f && \text{substitute the mass of the truck plus the mass of the dirt in the truck at the initial and final states}\\v_f&=\frac{(m_t+m_d)v_i}{m_t} && \text{solve for the final velocity}\\v_f&=\frac{(500\;\text{kg} + 200\;\text{kg})*2\;\text{m/s}}{500\;\text{kg}} && \text{plug in the numerical values}\\v_f&=2.8\;\text{m/s}\\
+John and Bob are standing at rest in middle of a frozen lake so there is no friction between their feet and the ice.
+Both of them want to get to shore so they simultaneously push off each other in opposite directions.
+If John's mass is 50 kg and Bob's mass is 40 kg and John moving at 5 m/s after pushing off Bob, how fast is Bob moving?
+For this problem, we will apply conservation of momentum to the whole system that includes both John and Bob.
+Since both of them are at rest to start, we know that the total momentum of the whole system must always be zero.
+Therefore, we know that the sum of John's and Bob's momentum after they push off each other is also zero.
+We can use this to solve for Bob's velocity.
+The answer is negative because Bob is traveling in the opposite direction to John.
+Watch this Explanation
+Click on the image above for more content
+You find yourself in the middle of a frozen lake.
+There is no friction between your feet and the ice of the lake.
+You need to get home for dinner.
+Which strategy will work best?
+Press down harder with your shoes as you walk to shore.

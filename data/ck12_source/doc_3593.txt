@@ -1,0 +1,20 @@
+However, many living things can also make ATP without oxygen.
+This is true of some plants and fungi and also of many bacteria.
+These organisms use aerobic respiration when oxygen is present, but when oxygen is in short supply, they use anaerobic respiration instead.
+Certain bacteria can only use anaerobic respiration.
+In fact, they may not be able to survive at all in the presence of oxygen.
+An important way of making ATP without oxygen is called fermentation .
+It involves glycolysis, but not the other two stages of aerobic respiration.
+Many bacteria and yeasts carry out fermentation.
+People use these organisms to make yogurt, bread, wine, and biofuels.
+Human muscle cells also use fermentation.
+This occurs when muscle cells cannot get oxygen fast enough to meet their energy needs through aerobic respiration.
+There are two types of fermentation: lactic acid fermentation and alcoholic fermentation.
+Both types of fermentation are described below.
+You can also watch animations of both types at this link:
+Lactic Acid Fermentation
+In lactic acid fermentation , pyruvic acid from glycolysis changes to lactic acid.
+This is shown in Figure below .
+In the process, NAD + forms from NADH.
+NAD + , in turn, lets glycolysis continue.
+This results in additional molecules of ATP.

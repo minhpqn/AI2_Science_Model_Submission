@@ -1,0 +1,20 @@
+A hypothesis cannot be proven conclusively to be true.
+This is because you can never examine all of the possible evidence, and someday evidence might be found that disproves the hypothesis.
+Nonetheless, the more evidence that supports a hypothesis, the more likely the hypothesis is to be true.
+The last step in a scientific investigation is communicating what you have learned with others.
+This is a very important step because it allows others to test your hypothesis.
+If other researchers get the same results as yours, they add support to the hypothesis.
+However, if they get different results, they may disprove the hypothesis.
+When scientists share their results, they should describe their methods and point out any possible problems with the investigation.
+Results can be communicated in various ways.
+A scientist usually contributes material through publication in a peer-reviewed scientific journal.
+Peer-review ensures the material is of an acceptable quality for the scientific community.
+Scientists also write review articles, book chapters, and even whole books.
+They also regularly participate in scientific meetings, presenting their material in front of large audiences of their peers.
+accuracy :
+The measure of how close a calculated or measured quantity is to its actual value.
+control :
+Something that is not tested during the investigation.
+controlled experiment :
+Two identical experiments are carried out side-by-side; in one of the experiments the independent variable being tested is used, in the other experiment, the control, or the independent variable is not used.
+controlled variables :

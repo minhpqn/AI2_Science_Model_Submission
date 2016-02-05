@@ -1,0 +1,20 @@
+The aqueous sodium chloride that is produced in the reaction is called a salt.
+A salt is an ionic compound composed of a cation from a base and an anion from an acid.
+A salt is essentially any ionic compound that is neither an acid nor a base.
+Strong Acid-Strong Base Reactions
+When equal amounts of a strong acid such as hydrochloric acid are mixed with a strong base such as sodium hydroxide, the result is a neutral solution.
+The products of the reaction do not have the characteristics of either an acid or a base.
+Here is the balanced molecular equation.
+\text{HCl}(aq)+\text{NaOH}(aq) \rightarrow \text{NaCl}(aq)+\text{H}_2\text{O}(l)
+Chemical reactions occurring in aqueous solution are more accurately represented with a net ionic equation.
+The full ionic equation for the neutralization of hydrochloric acid by sodium hydroxide is written as follows:
+\text{H}^+(aq)+\text{Cl}^-(aq)+\text{Na}^+(aq)+\text{OH}^-(aq) \rightarrow \text{Na}^+(aq)+\text{Cl}^-(aq)+\text{H}_2\text{O}(l)
+Since the acid and base are both strong, they are fully ionized and so are written as ions, as is the NaCl formed as a product.
+The sodium and chloride ions are spectator ions in the reaction, leaving the following as the net ionic reaction.
+\text{H}^+(aq)+\text{OH}^-(aq) \rightarrow \text{H}_2\text{O}(l)
+All neutralization reactions of a strong acid with a strong base simplify to the net ionic reaction of hydrogen ion combining with hydroxide ion to produce water.
+What if the acid is a diprotic acid such as sulfuric acid?
+The balanced molecular equation now involves a 1:2 ratio between acid and base.
+\text{H}_2\text{SO}_4(aq)+2\text{NaOH}(aq) \rightarrow \text{Na}_2\text{SO}_4(aq)+2\text{H}_2\text{O}(l)
+In order for the reaction to be a full neutralization, twice as many moles of NaOH must react with the H 2 SO 4 .
+The sodium sulfate salt is soluble, and so the net ionic reaction is again the same.

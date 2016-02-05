@@ -1,0 +1,20 @@
+However, assuming no friction, less effort (a smaller effort force) is required to slide the box up the incline.
+We know this intuitively; when movng boxes into a truck or onto a platform, we use angled platforms instead of lifting it straight up.
+The red triangle that hangs below the yellow box is a similar triangle to the inclined plane.
+The vector perpendicular to the inclined surface is the normal force and this normal force is equal to the portion of the weight of the box that is supported by the surface of the plane.
+The parallel force is the portion of the weight pushing the box down the plane and is, therefore, the effort force necessary to push the box up the plane.
+Box on an inclined plane
+The effort distance, in the case of an inclined plane, is the length of the incline and the resistance distance is the vertical height the box would rise when it is pushed completely up the incline.
+The mechanical advantages for an inclined plane are
+\text{IMA}=\frac{\text{effort distance}}{\text{resistance distance}}=\frac{\text{length}}{\text{vertical height}}=\frac{1}{\sin\theta}
+\text{IMA}=\frac{\text{resistance force}}{\text{effort force}}=\frac{\text{weight}}{\text{applied force}}
+Example Problem:
+Suppose, in the sketch above, the weight of the box is 400.
+N, the angle of the incline is 35°, and the surface is frictionless.
+Find the normal force (by finding the portion of the weight acting perpendicular to the plane), the parallel force, and the IMA for the box on this incline.
+\text{Normal force} = (400. \ \text{N})(\cos 35^\circ) = (400. \ \text{N})(0.82) = 330 \ \text{N}
+\text{Parallel force} = (400. \ \text{N})(\sin 35^\circ) = (400. \ \text{N})(0.57) = 230 \ \text{N}
+\text{IMA} = \frac{1}{\sin \theta} = \frac{1}{\sin 35^\circ}= \frac{1}{0.57}=1.74
+A wedge is essentially two inclined planes back to back.
+Like an inclined plane, the IMA of a wedge is the ratio between the length of the wedge and the width of the wedge.
+Unlike an inclined plane, a wedge does not have a right angle; the IMA of a wedge cannot be found with sines.

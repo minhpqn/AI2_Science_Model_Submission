@@ -1,0 +1,20 @@
+But if we accelerate the leftmost block to the right, this will create a normal force between the little block and the big block, and if there is a coefficient of friction between them, then the little block won’t slide down!
+Clever, eh?
+The mass of the little block is 0.15 \;\mathrm{kg} .
+What frictional force is required to keep it from falling? (State a magnitude and direction.)
+If both blocks are accelerating to the right with an acceleration a = 14.0 \;\mathrm{m/s}^2 , what is the normal force on the little block provided by the big block?
+What is the minimum coefficient of static friction required?
+b.
+F_x = 87 \ N, F_y = 50 \ N c.
+N = 750 \ N d. f = 60 \ N e. 0.34 \ m/s^2
+a. 1.5 \;\mathrm{N}; 2.1 \;\mathrm{N}; 0.71
+Pressure and Force
+Explain the difference between pressure and force.
+Calculate the pressure in a variety of problems.
+Students will learn the difference between pressure and force and how to calculate the pressure in a variety of problems
+P = \frac{F}{A} ;
+Pressure is a force exerted over some area
+Guidance Pressure is often confused with force.
+Pressure is force spread out over an area; a small force exerted on a very small area can create a very large pressure; i.e., poke a pin into your arm!
+How much pressure does a 340-g Coke can exert on a table if the diameter of the can is 8.0 cm?
+Question:

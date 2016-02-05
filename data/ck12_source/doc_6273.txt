@@ -1,0 +1,20 @@
+Calculate problems 6-7 at the link below:
+What is common to all the substance in the table except oxygen?
+How much heat is needed to convert 2.7 moles of ethanol at its boiling point from liquid to vapor?
+How many moles of water will condense from vapor to liquid if 45 Kj are removed?
+molar heat of condensation (\Delta H_{\text{cond}}) :
+The heat released by one mole of a substance as it is converted from a gas to a liquid.
+molar heat of vaporization (\Delta H_{\text{vap}}) :
+The heat absorbed by one mole of a substance as it is converted from a liquid to a gas.
+Multi-Step Problems with Changes of State
+Perform energy calculations involving multiple changes of state.
+A large amount of heat is needed to make a substance undergo a change of state
+Which takes more heat – melting or boiling?
+You have a cube of ice.
+Which process will take more energy – the melting of that ice cube or the conversion of the water to steam?
+The short answer is that more energy is needed to convert the water to steam.
+The long answer is really a question: how do you get from one point to the other?
+What is the temperature of the ice?
+What is the mass of that ice cube?
+A lot goes into taking the material from the starting point to the end-point.
+Multi-Step Problems with Changes of State

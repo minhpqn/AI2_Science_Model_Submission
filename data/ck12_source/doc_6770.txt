@@ -1,0 +1,20 @@
+W&=Fd\\\W&=10\text{N} * 5\text{m}\\\W&=50\text{J}\\\
+A block of mass 5kg is sliding down a ramp inclined at 45 degrees.
+If the coefficient of kinetic friction between the ramp and the block is 0.3, how much work does the force of friction do as the block slides 3m down to the bottom of the ramp.
+In order to find the work done by friction, we first want to find out the magnitude of the force of friction.
+f&=\mu_kN && \text{start with the equation for the force of friction}\\\f&=\mu_kmg\cos(30) && \text{substitute the y-component of the weight of the block for the normal force}\\\
+Now that we have the magnitude of the force of friction, we can plug that into the equation for work.
+Watch this Explanation
+Click on the image above for more content
+You slide down a hill on top of a big ice block as shown in the diagram.
+Your speed at the top of the hill is zero.
+The coefficient of kinetic friction on the slide down the hill is zero (\mu_k = 0) .
+The coefficient of kinetic friction on the level part just beneath the hill is 0.1 (\mu_k = 0.1) .
+What is your speed just as you reach the bottom of the hill?
+How far will you slide before you come to a stop?
+Marciel is at rest on his skateboard (total mass 50\;\mathrm{kg} ) until he catches a ball traveling with a speed of 50\;\mathrm{m/s} .
+The baseball has a mass of 2\;\mathrm{kg} .
+What percent of the original kinetic energy is transferred into heat, sound, deformation of the baseball, and other non-mechanical forms when the collision occurs?
+Investigating a traffic collision, you determine that a fast-moving car (mass 600\;\mathrm{kg} ) hit and stuck to a second car (mass 800\;\mathrm{kg} ), which was initially at rest.
+The two cars slid a distance of 30.0\;\mathrm{m} over rough pavement with a coefficient of friction of 0.60 before coming to a halt.
+What was the speed of the first car?

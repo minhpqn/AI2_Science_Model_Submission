@@ -1,0 +1,20 @@
+One way to get more speed is to burn the gasoline in the car engine more efficiently.
+Methyl-t-butyl ether (MTBE) has been used for this purpose, but is being discontinued due to concerns about contamination of drinking water by leaking fuel tanks that contained this compound.
+An ether is an organic compound in which two hydrocarbon groups are bonded to the same atom of oxygen.
+An ether is represented by the general formula R−O−R’.
+The R’ in the formula means that the hydrocarbon group can be the same as R or it can be different.
+The steps for naming ethers are listed below.
+The parent compound is given by the word ether , which appears at the end of the name.
+The names of each alkyl group come before the word ether.
+If the two alkyl groups are the same, the prefix – di is used.
+If the two alkyl groups are different, they are listed in alphabetical order.
+Spaces are left between the names of the alkyl groups (if different) and before the word ether .
+Shown below are two examples of ethers with their IUPAC names.
+Nomenclature of two ethers
+Properties of Ethers
+Like alcohols, ethers are also quite soluble in water.
+The lone-pair electrons on the oxygen atom of the ether can form a hydrogen bond with the hydrogen atoms of water molecules.
+As with alcohols, the solubility is greater for ethers that have shorter length R groups.
+The boiling points of ethers are much lower than the boiling points of alcohols.
+Ether molecules do not have hydrogen atoms that are covalently bonded to a highly electronegative atom, and so ether molecules cannot form hydrogen bonds with each other.
+The weaker intermolecular force acting between ether molecules results in boiling points which are much closer to alkanes of similar molar mass than to alcohols.

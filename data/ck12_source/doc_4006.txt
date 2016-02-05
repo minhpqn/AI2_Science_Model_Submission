@@ -1,0 +1,20 @@
+Viral protein units, 3.
+Capsid.
+TMV causes tobacco mosaic disease in tobacco, cucumber, pepper, and tomato plants.
+Icosahedral capsid symmetry gives viruses a spherical appearance at low magnification, but the protein subunits are actually arranged in a regular geometrical pattern, similar to a soccer ball; they are not truly spherical.
+An icosahedral shape is the most efficient way of creating a hardy structure from multiple copies of a single protein.
+This shape is used because it can be built from a single basic unit protein which is used over and over again.
+This saves space in the viral genome.
+Adenovirus is a icosahedral virus
+Adenovirus, an icosahedral virus.
+An icosahedron is a three-dimensional shape made up of 20 equilateral triangles.
+Viral structures are built of repeated identical protein subunits, making the icosahedron the easiest shape to assemble using these subunits.
+Complex viruses possess a capsid which is neither purely helical, nor purely icosahedral, and which may have extra structures such as protein tails or a complex outer wall.
+Viral protein subunits will self-assemble into a capsid, but the complex viruses DNA also codes for proteins which help in building the viral capsid.
+Many phage viruses are complex-shaped; they have an icosahedral head bound to a helical tail.
+The tail may have a base plate with protein tail fibers.
+Some complex viruses do not have tail fibers.
+This “moon lander”-shaped complex virus infects Escherichia coli bacteria.
+Some viruses are able to surround (envelop) themselves in a portion of the cell membrane of their host.
+The virus can use either the outer membrane of the host cell, or an internal membrane such as the nuclear membrane or endoplasmic reticulum.
+In this way the virus gains an outer lipid bilayer known as a viral envelope .

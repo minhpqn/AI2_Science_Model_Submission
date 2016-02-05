@@ -1,0 +1,20 @@
+Since models are simpler than real objects or systems, they have limitations.
+A model deals with only a portion of a system.
+It may not predict the behavior of the real system very accurately.
+But the more computing power that goes into the model and the care with which the scientists construct the model can increase the chances that a model will be accurate.
+A model is a representation of a more complex system.
+Models can be manipulated more easily than the system.
+Models can be used to make predictions.
+Models may be physical, conceptual, or mathematical.
+Use the resource below to answer the questions that follow.
+Taking Earth's Temperature at
+Click on the image above for more content
+What is a model?
+How do scientists create models?
+How are models checked for accuracy?
+How did Dr.
+Hansen check his model?
+What are the challenges associated with modeling?
+Why do scientists use models?
+Describe the types of models mentioned.
+Why are computers often used to make models?

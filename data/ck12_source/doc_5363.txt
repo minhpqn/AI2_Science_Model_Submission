@@ -1,0 +1,20 @@
+Structure of intron RNA during splicing process.
+polyadenylation :
+The addition of a string of adenines to the mRNAs 3’-end; signals the termination of translation in eukaryotes.
+pre-mRNA :
+Newly transcribed eukaryotic mRNA; not yet ready for translation.
+spliceosome :
+RNA-protein complex that usually performs splicing of the pre-mRNA.
+splicing :
+The process by which introns are removed from pre-mRNA.
+Newly transcribed eukaryotic mRNA is not ready for translation; this mRNA requires extensive processing, including splicing and polyadenylation.
+Use this resource to answer the questions that follow.
+mRNA Processing at
+What is the first step in mRNA processing?
+What is a methylated cap?
+What is the role of cleavage and stabilizing factors?
+What happens to cleaved mRNA sequences?
+What is poly(A) polymerase?
+What is pre-mRNA?
+Define introns and exons.
+Describe processes of RNA modification before it leaves the nucleus?

@@ -1,0 +1,20 @@
+When a substance that is acting as a Brønsted-Lowry acid donates its proton, it becomes a base in the reverse reaction.
+In the reaction above, the hydrogen sulfate ion (HSO 4 − ) donates a proton to water and becomes a sulfate ion (SO 4 2− ).
+The HSO 4 − and the SO 4 2− are linked to one another by the presence or absence of the H + ion.
+A conjugate acid-base pair is a pair of substances related by the loss or gain of a single hydrogen ion.
+A conjugate acid is the particle produced when a base accepts a proton.
+The hydrogen sulfate ion is the conjugate acid of the sulfate ion.
+A conjugate base is the particle produced when an acid donates a proton.
+The sulfate ion is the conjugate base of the hydrogen sulfate ion.
+In the reaction illustrated below, water serves both as acid and base simultaneously.
+One water molecule serves as an acid and donates a proton.
+The other water molecule functions as a base by accepting the proton.
+Water self-ionizes to form a Bronsted acid/base pair
+Water molecules as a conjugate acid-base pair.
+A typical Brønsted-Lowry acid-base reaction contains two conjugate acid-base pairs as shown below.
+\text{HNO}_2(aq)+\text{PO}_4^{3-}(aq) \rightleftarrows \text{NO}_2^-(aq)+\text{HPO}_4^{2-}(aq)
+One conjugate acid-base pair is HNO 2 / NO 2 − , while the other pair is HPO 4 2− / PO 4 3− .
+Conjugate acids and bases are defined.
+Examples of conjugate acid-base pairs are given.
+Read the material at the link below and do the problems at the end of the selection:
+In the reaction between ammonia and water, how does the ammonia serve as a base on the left-hand side of the equation?

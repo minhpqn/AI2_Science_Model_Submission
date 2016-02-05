@@ -1,0 +1,20 @@
+A hydrogen bond in water occurs between the hydrogen atom of one water molecule and the lone pair of electrons on an oxygen atom of a neighboring water molecule.
+A hydrogen bond is an intermolecular attractive force in which a hydrogen atom that is covalently bonded to a small, highly electronegative atom is attracted to a lone pair of electrons on an atom in a neighboring molecule.
+Hydrogen bonds are very strong compared to other dipole interactions.  The strength of a typical hydrogen bond is about 5% of that of a covalent bond.
+Hydrogen bonding occurs only in molecules where hydrogen is covalently bonded to one of three elements: fluorine, oxygen, or nitrogen.  These three elements are so electronegative that they withdraw the majority of the electron density in the covalent bond with hydrogen, leaving the H atom very electron-deficient.  The H atom nearly acts as a bare proton, leaving it very attracted to lone pair electrons on a nearby atom.
+The hydrogen bonding that occurs in water leads to some unusual, but very important properties.  Most molecular compounds that have a mass similar to water are gases at room temperature.  Because of the strong hydrogen bonds, water molecules are able to stay condensed in the liquid state.  The Figure below shows how the bent shape and two hydrogen atoms per molecule allows each water molecule to be able to hydrogen bond to two other molecules.
+Multiple hydrogen bond between water molecules
+Multiple hydrogen bonds occur simultaneously in water because of its bent shape and the presence of two hydrogen atoms per molecule.
+In the liquid state, the hydrogen bonds of water can break and reform as the molecules flow from one place to another.  When water is cooled, the molecules begin to slow down.  Eventually, when water is frozen to ice, the hydrogen bonds become permanent and form a very specific network (see Figure below ).
+The hydrogen bonding network in ice
+When water freezes to ice, the hydrogen bonding network becomes permanent.
+Each oxygen atom has an approximately tetrahedral geometry – two covalent bonds and two hydrogen bonds.
+The bent shape of the molecules leads to gaps in the hydrogen bonding network of ice.  Ice has the very unusual property that its solid state is less dense than its liquid state.  Ice floats in liquid water.  Virtually all other substances are denser in the solid state than in the liquid state.  Hydrogen bonds play a very important biological role in the physical structures of proteins and nucleic acids.
+Hydrogen bonds form when a H attached to a N, O, or F atom interacts with another N, O, or F atom.
+Use the link below to answer the following questions:
+What are the features of N and O that cause then to form H bonds with H?
+Will all H atoms form H-bonds?
+What is the length of an H-bond compared to the length of a covalent bond?
+How strong is a hydrogen bond?
+What happens when H is covalently bonded to N, O, or F?
+How does the shape of the water molecule affect its properties?

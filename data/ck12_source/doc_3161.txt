@@ -1,0 +1,20 @@
+Warm air heating system
+Warm-air heating system.
+Q:
+How does a home heating system “know” when to run and when to stop running?
+A:
+A home heating system is turned on or off by a thermostat.
+How a Thermostat Works
+A thermostat , like the one seen in the Figure below , is an important part of any home heating system.
+It is like the “brain” of the entire system.
+It constantly monitors the temperature in the home and “tells” the boiler or furnace when to turn on or off.
+The thermostat is set at a selected temperature, say 71 °F.
+When the temperature in the home starts to fall below this point, the thermostat triggers the boiler or furnace to start running.
+When the temperature starts to rise above this point, the thermostat triggers the boiler or furnace to stop running.
+In this way, the thermostat maintains the home’s temperature at the set point.
+Thermostats help regulate temperature
+Types of home heating systems include hot-water, warm-air, and solar heating systems.
+All of them have the same basic function: producing thermal energy and transferring it to air throughout the house.
+A hot-water heating system burns fuel in a boiler to produce thermal energy.
+The thermal energy is used to heat water, which is pumped through a system of pipes and radiators.
+A warm-air heating system burns fuel in a furnace to produce thermal energy.

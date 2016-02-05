@@ -1,0 +1,20 @@
+As decibel levels get higher, sound waves have greater intensity and sounds are louder.
+For every 10-decibel increase in the intensity of sound, loudness is 10 times greater.
+Therefore, a 30-decibel “quiet” room is 10 times louder than a 20-decibel whisper, and a 40-decibel light rainfall is 100 times louder than the whisper.
+High-decibel sounds are dangerous.
+They can damage the ears and cause loss of hearing.
+Relationship between decibel level and intensity
+Q:
+How much louder than a 20-decibel whisper is the 60-decibel sound of a vacuum cleaner?
+A:
+The vacuum cleaner is 10,000 times louder than the whisper!
+Amplitude and Distance
+The intensity of sound waves determines the loudness of sounds, but what determines intensity?
+Intensity results from two factors: the amplitude of the sound waves and how far they have traveled from the source of the sound.
+Amplitude is a measure of the size of sound waves.
+It depends on the amount of energy that started the waves.
+Greater amplitude waves have more energy and greater intensity, so they sound louder.
+For a video demonstration of the amplitude and loudness of sounds, go to this URL:
+As sound waves travel farther from their source, the more spread out their energy becomes.
+You can see how this works in the Figure below .
+As distance from the sound source increases, the area covered by the sound waves increases.

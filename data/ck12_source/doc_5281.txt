@@ -1,0 +1,20 @@
+Many diet foods and diet soft drinks that contain the sweetener aspartame must also be avoided, as aspartame consists of two amino acids: phenylalanine and aspartic acid.
+Supplementary infant formulas are used in these patients to provide the amino acids and other necessary nutrients that would otherwise be lacking in their diet.
+Since phenylalanine is required for the synthesis of many proteins, it is necessary to have some of this amino acid, but levels must be strictly controlled.
+In addition, the amino acid tyrosine, which is normally derived from phenylalanine, must also be supplemented.
+Whereas cystic fibrosis, Tay-Sachs, and phenylketonuria are all autosomal recessive disorders, achondroplasia is an autosomal dominant disorder.
+Achondroplasia is the most common cause of dwarfism in humans.
+Achondroplasia is a result of an autosomal dominant mutation in the fibroblast growth factor receptor gene 3 (FGFR3), which causes an abnormality of cartilage formation.
+FGFR3 normally has a negative regulatory effect on bone growth.
+In achondroplasia, the mutated form of the receptor is constitutively active (constantly “turned on”) and this leads to severely shortened bones.
+Individuals with achondroplasia are heterozygous for the mutation (one mutant copy, one normal copy).
+Homozygous for the achondroplasia mutation is lethal prior to birth or shortly after birth.
+For autosomal dominant disorders, a person with the disorder has a 50% chance of passing on the gene to their offspring.
+For achondroplasia, this means there will be a 50% chance that each child will have achondroplasia.
+Since two copies are fatal, if two people with achondroplasia have a child, there is a 25% chance of the child dying shortly after birth, a 50% chance the child will have achondroplasia, and a 25% chance the child will have a normal phenotype.
+However, in 3 out of 4 cases, people with achondroplasia are born to parents who don't have the condition.
+This is the result of a new mutation.
+New achondroplasis mutations are associated with increasing paternal age (over 35 years).
+Studies have demonstrated that new gene mutations are exclusively inherited from the father and occur during spermatogenesis.
+More than 98% of achondroplasia is caused by a G to A point mutation at nucleotide 1138 of the FGFR3 gene, which causes a glycine to arginine substitution.
+This makes this particular nucleotide one of the most, if not the most, mutable base in the human genome.

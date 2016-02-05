@@ -1,0 +1,20 @@
+Zooming in on chromosome and chromatids
+The human genome has 23 pairs of chromosomes located in the nucleus of somatic cells.
+Each chromosome is composed of genes and other DNA wound around histones (proteins) into a tightly coiled molecule.
+The human species is characterized by 23 pairs of chromosomes, as shown in Figure below .
+You can watch a short animation about human chromosomes at this link:
+Karyotype, showing 23 chromosomes
+Human Chromosomes.
+Humans have 23 pairs of chromosomes.
+Pairs 1-22 are autosomes.
+Females have two X chromosomes, and males have an X and a Y chromosome.
+Of the 23 pairs of human chromosomes, 22 pairs are autosomes (numbers 1–22 in Figure above ).
+Autosomes are chromosomes that contain genes for characteristics that are unrelated to sex.
+These chromosomes are the same in males and females.
+The great majority of human genes are located on autosomes.
+At the link below, you can click on any human chromosome to see which traits its genes control.
+The remaining pair of human chromosomes consists of the sex chromosomes , X and Y.
+Females have two X chromosomes, and males have one X and one Y chromosome.
+In females, one of the X chromosomes in each cell is inactivated and known as a Barr body.
+This ensures that females, like males, have only one functioning copy of the X chromosome in each cell.
+As you can see from Figure above and Figure above , the X chromosome is much larger than the Y chromosome.

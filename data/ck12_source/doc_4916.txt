@@ -1,0 +1,20 @@
+Clathrin coats are found on vesicles trafficking between the Golgi and plasma membrane, the Golgi and endosomes, and the plasma membrane and endosomes.
+COPI ( coat protein complex) coated vesicles are responsible for transport from the cis -Golgi to the ER (retrograde transport), while COPII coated vesicles are responsible for transport from the ER to the Golgi (anterograde transport).
+Low-density lipoprotein (LDL) receptors aggregate in clathrin coated pits prior to internalization.
+The vesicle fuses to the membrane phospholipids to release its materials.
+This process is mediated by a class of proteins known as SNAREs , for Soluble NSF Attachment Protein Receptors.
+SNAREs are divided into two categories, depending on their location.
+Vesicle or v-SNAREs are incorporated into the membranes of transport vesicles, and target or t-SNAREs are located in the membranes of target compartments.
+The v-SNAREs identify the vesicle's cargo, while the t-SNAREs on the target membrane cause the fusion of the vesicle with the target membrane.
+For a vesicle to release its contents to a cell organelle or to the outside of the cell, the vesicle and target membrane must fuse.
+This process is called vesicle fusion.
+Fusion between the vesicle and a target membrane occurs in one of two ways: full fusion or "kiss-and-run" fusion.
+In a full fusion process, the vesicle phospholipids fully incorporate into the plasma membrane.
+The vesicle can only be reformed and by a clathrin-coat-dependent process.
+With kiss-and-run fusion, the vesicle reforms after the release of its material.
+This allows the rapid release of materials from a synaptic vesicle.
+In this type of fusion, the vesicle forms a fusion pore or porosome in the presynaptic membrane and releases its neurotransmitters across the synapse, after which the vesicle reforms, allowing it to be reused.
+Vacuoles are membrane-bound organelles that can have secretory, excretory, and storage functions.
+Vacuoles are usually much larger than vesicles.
+Many organisms will use vacuoles as storage areas and some plant cells have very large vacuoles.
+The large central vacuole of the plant cell is used for osmotic control (storage of water) and nutrient storage.

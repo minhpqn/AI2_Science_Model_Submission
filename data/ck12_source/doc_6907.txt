@@ -1,0 +1,20 @@
+Nodes are the places where the rope doesn’t move at all; antinodes occur where the motion is greatest.
+For this wave, the wavelength is .
+Since , the frequency of oscillation is .
+Higher harmonics can also form.
+Note that each end, where the rope is attached, must always be a node.
+Below is an example of a rope in a 5 th harmonic standing wave.
+In general, the frequency of oscillation is , where n is the number of antinodes.
+The thick, dotted lines represent the wave envelope : these are the upper and lower limits to the motion of the string.
+Importantly, each of the above standing wave examples can also apply to sound waves in a closed tube, electromagnetic waves in a wire or fiber optic cable, and so on.
+In other words, the standing wave examples can apply to any kind of wave, as long as nodes are forced at both ends by whatever is containing/reflecting the wave back on itself.
+Resonance is a phenomenon that occurs when something that has a natural frequency of vibration (pendulum, guitar, glass, etc.) is shaken or pushed at a frequency that is equal to its natural frequency of vibration.
+The most dramatic example is the collapse of the Tacoma Narrows bridge due to wind causing vibrations at the bridge's natural frequency.
+The result is the dramatic collapse of a very large suspension bridge.
+You want to create a 4th harmonic standing wave standing wave of frequency 10 Hz on a rope.
+Prior to conducting your experiment, you are able to create a 1st harmonic standing wave with the exact same kind of rope at the same tension and you measure the frequency to be 3 Hz.
+What length of rope will you need to use in order to create your 4th harmonic standing wave at 10 Hz?
+This is a two step problem.
+We'll start by finding how fast waves travel along the rope using the information from the prior test.
+f_1&=\frac{nv}{2L}\\v&=\frac{f_12L}{n}\\v&=\frac{3\:\text{Hz} * 2 * 1\:\text{m}}{1}\\v&=6\text{m/s}\\
+Now that we have the speed of waves on the rope, we can use that to find the length we need.

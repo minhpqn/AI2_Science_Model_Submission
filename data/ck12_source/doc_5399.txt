@@ -1,0 +1,20 @@
+And any change to a stop codon will extend translation until the next in-frame stop codon.
+Once again, a mutation is the change in the DNA or RNA sequence.
+In multicellular organisms, mutations can be subdivided into germline mutations and somatic mutations.
+Germline mutations occur in the DNA of sex cells, or gametes, and are therefore potentially very serious.
+These mutations can be passed to the next generation.
+If the zygote contains the mutation, every cell in the resulting organism will have that mutation.
+If the mutation results in a disease phenotype, the mutation causes what is called a hereditary disease.
+Somatic mutations , which occur in somatic, or body, cells, cannot be passed to the next generation (offspring).
+Mutations present in a somatic cell of an organism will be present (by DNA replication and mitosis) in all descendants of that cell.
+If the mutation is present in a gene that is not used in that cell type, the mutation may have no effect.
+On the other hand, the mutation may lead to a serious medical condition such as cancer.
+Mutations and Evolution
+A gene pool is the complete set of unique alleles in a species or population.
+Mutations create variation in the gene pool.
+Populations with a large gene pool are said to be genetically diverse and very robust.
+They are able to survive intense times of natural selection against certain phenotypes.
+During these times of selection, individuals with less favorable phenotypes resulting from deleterious alleles (due to mutations) may be selected against and removed from the population.
+Concurrently, the more favorable mutations that cause beneficial or advantageous phenotypes tend to accumulate in that population, resulting, over time, in evolution.
+In fact, without any change in the gene pool, without any new alleles added due to new mutations, evolution could not occur.
+Genetic change is the driving force of evolution.

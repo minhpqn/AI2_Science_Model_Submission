@@ -1,0 +1,20 @@
+Relate the density of an object to its ability to float.
+What could be more refreshing than floating in cool water on a hot summer day?
+Water and other fluids have a special force that allows people and things to float in them.
+The force is called buoyant force.
+What Is Buoyant Force?
+Buoyant force is an upward force that fluids exert on any object that is placed in them.
+The ability of fluids to exert this force is called buoyancy .
+What explains buoyant force?
+A fluid exerts pressure in all directions, but the pressure is greater at greater depth.
+Therefore, the fluid below an object, where the fluid is deeper, exerts greater pressure on the object than the fluid above it.
+You can see in the Figure below how this works.
+Buoyant force explains why the girl pictured above can float in water.
+Diagram illustrating fluid pressure
+Q :
+You’ve probably noticed that some things don’t float in water.
+For example, if you drop a stone in water, it will sink to the bottom rather than floating.
+If buoyant force applies to all objects in fluids, why do some objects sink instead of float?
+A :
+The answer has to do with their weight.
+Weight and Buoyant Force

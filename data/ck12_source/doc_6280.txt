@@ -1,0 +1,20 @@
+Molar Heat of Combustion
+Many chemical reactions are combustion reactions.  It is often important to know the energy produced in such a reaction so we can determine which fuel might be the most efficient for a given purpose.
+The molar heat of combustion (He)  is the heat released when one mole of a substance is completely burned.
+Typical combustion reactions involve the reaction of a carbon-containing material with oxygen to form carbon dioxide and water as products.  If methanol is burned in air, we have:
+\text{CH}_3\text{OH} + \text{O}_2 \rightarrow \text{CO}_2 + 2\text{H}_2\text{O} \quad \text{He}= 890 \text{ kJ/mol}
+In this case, one mole of oxygen reacts with one mole of methanol to form one mole of carbon dioxide and two moles of water.
+It should be noted that inorganic substances can also undergo a form of combustion reaction:
+2\text{Mg} + \text{O}_2 \rightarrow 2 \ \text{Mg}
+In this case there is no water and no carbon dioxide formed.  These reactions are generally not what we would be talking about when we discuss combustion reactions.
+Sample Problem:
+Calculation of Heat of Combustion
+Heats of combustion are usually determined by burning a known amount of the material in a bomb calorimeter with an excess of oxygen.  By measuring  the temperature change, the heat of combustion can be determined.
+A 1.75 gram sample of ethanol is burned and produced a temperature increase of 55°C in 200 grams of water.  Calculate the molar heat of combustion.
+Step 1:  List the known quantities and plan the problem.
+mass of ethanol = 1.55 grams
+molar mass of ethanol = 46.1 g/mol
+mass of water = 200 grams
+c_{p} \ \text{water}: 4.18 \text{ J/g}^\circ \text{C}
+temperature increase = 55°C
+He of ethanol

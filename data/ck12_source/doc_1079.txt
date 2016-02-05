@@ -1,0 +1,20 @@
+There are many types of maps.
+They can show social and political information; they can show scientific information.
+Use the resource below to answer the questions that follow.
+Maps and Map Tools at
+What are maps?
+What is cartography?
+What is GPS?
+What is GIS?
+What are the two main types of maps?
+Explain each.
+Using the road map of Florida ( Figure above ), in what direction would you go to get from Fort Lauderdale to Tampa?
+Why do most maps begin with a portion of Earth's surface?
+When might they use something different as their base?
+What types of maps are most useful to Earth scientists?
+Identify and define types of map projections.
+Describe a Mercator projection.
+How does Greenland change size?
+Greenland does not change size!
+Different map projections make Greenland appear to be a different size.
+The Mercator projection makes everything that is near the polar areas appear too large.

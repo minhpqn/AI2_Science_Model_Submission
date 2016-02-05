@@ -1,0 +1,20 @@
+This is the place where a new day first arrives.
+Lines of latitude and longitude on a map
+Lines of latitude and longitude form convenient reference points on a map.
+You can remember latitude and longitude by doing jumping jacks.
+When your hands are above your head and your feet are together, say longitude (your body is long!).
+When you put your arms out to the side horizontally, say latitude (your head and arms make a cross, like the “t” in latitude).
+While you are jumping, your arms are going the same way as each of these grid lines: horizontal for latitude and vertical for longitude.
+Using Latitude and Longitude on a Map
+If you know the latitude and longitude of a place, you can find it on a map.
+Simply place one finger on the latitude on the vertical axis of the map.
+Place your other finger on the longitude along the horizontal axis of the map.
+Move your fingers along the latitude and longitude lines until they meet.
+For example, say the location you want to find is at 30°N and 90°W.
+Place your right finger along 30°N at the right of the map.
+Place your left finger along the bottom at 90°W.
+Move your fingers along the lines until they meet.
+Your location should be near New Orleans, Louisiana, along the Gulf coast of the United States.
+Now can you locate Old Faithful, 44°30'N and 110°150'W, on a map?
+What if you want to know the latitude and longitude of your location?
+If you know where you are on a map, point to the place with your fingers.

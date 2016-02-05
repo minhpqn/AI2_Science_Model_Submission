@@ -1,0 +1,20 @@
+Define kinetic energy.
+Given the mass and speed of an object, calculate its kinetic energy.
+Solve problems involving kinetic energy.
+Jet taking off from aircraft carrier has a high velocity and kinetic energy
+This military jet, like all jets, requires a large amount of work to get into the air; unlike most jets, this one is taking off from the deck of aircraft carrier.
+This requires careful coordination of the plane's engines and the ship's catapults and harnesses to accelerate the jet to about 270 km per hour in just two seconds.
+This incredible feat requires huge energy conversions.
+Energy  is the capacity of an object to do work, and like work, energy's unit is the joule (J).
+Energy exists in many different forms, but the one we think of most often when we think of energy is kinetic energy .
+Kinetic energy is often thought of as the energy of motion because it is used to describe objects that are moving.
+Remember, though, that energy is the ability of an object to do work.
+Any moving object has the capacity to cause another object to move if they collide.
+This ability is what we mean when we refer to an object's kinetic energy: the ability to change another object's motion or position simply by colliding with it.
+The equation of an object's kinetic energy depends on its mass and velocity:
+KE = \frac{1}{2} \ mv^2 ,
+The kinetic energy of a moving object is directly proportional to its mass and directly proportional to the square of its velocity.
+This means that an object with twice the mass and equal speed will have twice the kinetic energy while an object with equal mass and twice the speed will have quadruple the kinetic energy.
+The kinetic energy of an object can be changed by doing work on the object.
+The work done on an object equals the kinetic energy gain or loss by the object.
+This relationship is expressed in the work-energy theorem W_{\text{NET}} = \Delta KE .

@@ -1,0 +1,20 @@
+What is the period T of oscillation (in seconds) of an electron that is bouncing up and down in response to the passage of a packet of red light?
+Is the electron moving rapidly or slowly?
+Radio signals are carried by electromagnetic waves (i.e. light waves).
+The radio waves from San Francisco radio station KMEL (106.1 FM) have a frequency of 106.1 MHz.
+When these waves reach your antenna, your radio converts the motions of the electrons in the antenna back into sound.
+What is the wavelength of the signal from KMEL?
+What is the wavelength of a signal from KPOO (89.5 FM)?
+If your antenna were broken off so that it was only 2 cm long, how would this affect your reception?
+a. 1.0s, 1 Hz b. 0.5s, 2 Hz c. 3 m
+a. 0.1 Hz, 10.0 s b. 7.5 m/s, 75 m
+a.
+About 11 years b.
+About 2014 (see for more info)
+a. 1.7 cm b.17 m
+2230 \;\mathrm{Hz}; 2780 \;\mathrm{Hz}; 2970 \;\mathrm{Hz}
+a.  4.3 \times 10^{14} \ Hz  b.  2.3 \times 10^{-15} \ s
+a. 2.83 m b. 3.35 m c. rule of thumb, antenna should be \frac{1}{4} \lambda , thus quality of reception will suffer
+Explain the concept of destructive and constructive interference in the context of beat frequencies.
+Students will learn the concept of destructive and constructive interference in the context of beat frequencies.
+f_{\text{beat}} = |f_1 -f_2| ; two interfering waves create a beat wave with frequency equal to the difference in their frequencies

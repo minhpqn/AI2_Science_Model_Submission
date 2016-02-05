@@ -1,0 +1,20 @@
+Sample Problem:
+Calculating Specific Heat
+A 15.0 g piece of cadmium metal absorbs 134 J of heat while rising from 24.0°C to 62.7°C.
+Calculate the specific heat of cadmium.
+Step 1:
+List the known quantities and plan the problem .
+heat = q = 134 J
+mass =  m = 15.0 g
+\Delta{\text{T}} = 62.7^\circ \text{C} - 24.0^\circ \text{C} = 38.7^\circ \text{C}
+c_p \ \text{of cadmium}= ? \ \text{J}/ \text{g}^\circ \text{C} \\
+The specific heat equation can be rearranged to solve for the specific heat.
+Step 2:
+Solve .
+c_p=\frac{q}{m \times \Delta{T}}=\frac{134 \text{ J}}{15.0 \text{ g} \times 38.7^\circ \text{C}}=0.231 \text{ J/g}^\circ \text{C}
+Step 3:
+Think about your result .
+The specific heat of cadmium, a metal, is fairly close to the specific heats of other metals.
+The result has three significant figures.
+Since most specific heats are known, they can be used to determine the final temperature attained by a substance when it is either heated or cooled.
+Suppose that a 60.0 g sample of water at 23.52°C was cooled by the removal of 813 J of heat.

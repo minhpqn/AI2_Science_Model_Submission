@@ -1,0 +1,20 @@
+Consider the following situation:
+A 20.0 liter vessel contains 1.0 mol of hydrogen gas at a pressure of 600 mmHg.
+Another 20.0 liter vessel contains 3.0 mol of helium at a pressure of 1800 mmHg.
+These two gases are mixed together in an identical 20.0 liter vessel.
+Because each will exert its own pressure according to Dalton’s law, we can express the partial pressures as follows:
+P_{H_2}=X_{H_2} \times P_{\text{Total}} \quad \text{and} \quad P_{He}=X_{He} \times P_{\text{Total}}
+The partial pressure of a gas in a mixture is equal to its mole fraction multiplied by the total pressure.
+For our mixture of hydrogen and helium:
+X_{H_2}=\frac{1.0 \ \text{mol}}{1.0 \ \text{mol}+3.0 \ \text{mol}}=0.25 \quad \text{and} \quad X_{He}=\frac{3.0 \ \text{mol}}{1.0 \ \text{mol} + 3.0 \ \text{mol}}=0.75
+The total pressure according to Dalton’s law is 600 \text{ mmHg} + 1800 \text{ mmHg} = 2400 \text{ mmHg} .
+So, each partial pressure will be:
+& P_{H_2}=0.25 \times 2400 \text{ mmHg}=600 \text{ mmHg} \\& P_{He}=0.75 \times 2400 \text{ mmHg}=1800 \text{ mmHg}
+The partial pressures of each gas in the mixture don’t change since they were mixed into the same size vessel and the temperature was not changed.
+Sample Problem:
+Dalton’s Law
+A flask contains a mixture of 1.24 moles of hydrogen gas and 2.91 moles of oxygen gas.
+If the total pressure is 104 kPa, what is the partial pressure of each gas?
+Step 1:
+List the known quantities and plan the problem .
+1.24 mol H 2

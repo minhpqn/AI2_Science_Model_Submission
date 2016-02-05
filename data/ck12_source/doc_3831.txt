@@ -1,0 +1,20 @@
+It also shows that fitness may depend on the environment.
+What do you think might happen if malaria was eliminated in an African population with a relatively high frequency of the S allele?
+How might the fitness of the different genotypes change?
+How might this affect the frequency of the S allele?
+Natural Selection and Polygenic Traits
+Sickle-cell trait is controlled by a single gene.
+Natural selection for polygenic traits is more complex, unless you just look at phenotypes.
+Three ways that natural selection can affect phenotypes are shown in Figure below .
+You can also watch an animation comparing the three ways at the link below.
+Stabilizing selection occurs when phenotypes at both extremes of the phenotypic distribution are selected against.
+This narrows the range of variation.
+An example is human birth weight.
+Babies that are very large or very small at birth are less likely to survive.
+This keeps birth weight within a relatively narrow range.
+Directional selection occurs when one of two extreme phenotypes is selected for.
+This shifts the distribution toward that extreme.
+This is the type of natural selection that the Grants observed in the beak size of Galápagos finches.
+Disruptive selection occurs when phenotypes in the middle of the range are selected against.
+This results in two overlapping phenotypes, one at each end of the distribution.
+An example is sexual dimorphism .

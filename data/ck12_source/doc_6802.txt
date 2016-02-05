@@ -1,0 +1,11 @@
+What is its angular velocity after collapse?
+A merry-go-round consists of a uniform solid disc of 225 \;\mathrm{kg} and a radius of 6.0 \;\mathrm{m} .
+A single 80 \;\mathrm{kg} person stands on the edge when it is coasting at 0.20 revolutions per sec.
+How fast would the device be rotating after the person has walked 3.5 \;\mathrm{m} toward the center. (The moments of inertia of compound objects add.)
+a.
+Coin with the hole b.
+Coin with the hole
+a. 7.27 \times 10^{-6} \;\mathrm{rad/s} b. 7.27 \;\mathrm{rad/s}
+The lessons here cover rotational motion, including important problem solving techniques.
+Flickr:psyberartis. .
+CC BY 2.0

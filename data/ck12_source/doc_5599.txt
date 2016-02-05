@@ -1,0 +1,20 @@
+The Celsius scale sets the freezing point and boiling point of water at 0°C and 100°C respectively.
+The Kelvin scale is based on molecular motion, with the temperature of 0 K, also known as absolute zero, being the point where all molecular motion ceases.
+Use the link below to answer the following questions:
+What mixture did Fahrenheit use to set his thermometer at zero degrees?
+Why is the Celsius scale preferred in scientific work over the Fahrenheit scale?
+What was the idea behind the establishment of the Kelvin temperature scale?
+What is the advantage of using the Kelvin scale at low temperatures?
+What is absolute zero on the Celsius temperature scale?
+What are the freezing and boiling points of water in the Celsius scale?
+Convert the following Kelvin temperatures to degrees Celsius.
+Temperature in degrees Fahrenheit can be converted to Celsius by first subtracting 32, then dividing by 1.8.
+What is the Celsius temperature outside on a warm day (88°F)?
+Why is the Celsius scale sometimes called “centigrade”?
+kinetic energy:
+The energy due to motion
+temperature:
+A measure of the average kinetic energy of the particles in matter.
+In everyday usage, temperature is how hot or cold an object is
+temperature scale:
+A way of measuring temperature quantitatively.

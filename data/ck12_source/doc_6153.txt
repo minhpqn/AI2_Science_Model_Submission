@@ -1,0 +1,20 @@
+What’s in a Word?
+The words dependent and independent are used by students and teachers on a daily basis.
+In fact, they are probably used quite frequently.
+You may tell your parent or guardian that you are independent enough to go to the movies on your own with your friends.
+You could say that when you bake a cake or make a cup of hot chocolate, the taste of these are dependent on what ingredients you use.
+In the English language, the term dependent means to be unable to do without, whereas independent means to be free from any outside influence.
+What about in mathematics?
+What do the terms dependent and independent actually mean?
+This lesson will explore the mathematics of independence and dependence.
+What are Venn Diagrams and Why are They Used?
+In probability, a Venn diagram is a graphic organizer that shows a visual representation for all possible outcomes of an experiment and the events of the experiment in ovals.
+Normally, in probability, the Venn diagram will be a box with overlapping ovals inside.
+Look at the diagram below:
+The S represents all of the possible outcomes of an experiment.
+It is called the sample space.
+The ovals A and B represent the outcomes of the events that occur in the sample space.
+Let’s look at an example.
+Let’s say our sample space is the numbers from 1 to 10.
+Event A is randomly choosing one of the odd numbers from 1 to 10, and event B is randomly choosing one of the prime numbers from 1 to 10.
+Remember that a prime number is a number whose only factors are 1 and itself.

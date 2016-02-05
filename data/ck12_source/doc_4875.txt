@@ -1,0 +1,20 @@
+A virus is essentially genetic material surrounded by protein.
+That's it.
+So, is a virus prokaryotic or eukaryotic?
+Or neither?
+Or both?
+Are Viruses Prokaryotic or Eukaryotic?
+A virus is a sub-microscopic particle that can infect living cells.
+Viruses are much smaller than prokaryotic organisms.
+In essence, a virus is simply a nucleic acid surrounded by a protein coat, as seen in the Figure below .
+This outer coat is called a capsid .
+Viruses will be discussed in more detail in the Viruses concepts.
+Are viruses prokaryotic or eukaryotic?
+Neither.
+Viruses are not made up of cells, so they do not have a cell membrane or any cytoplasm, ribosomes, or other organelles, nor do they have their own metabolism.
+The viral DNA (or sometimes RNA) encodes for proteins that make the capsid.
+However, viruses cannot make their own proteins; they use the ribosomes of a host cell to make proteins.
+A host cell is a cell infected by a virus.
+Viruses do not reproduce by themselves, instead, they use their host cell to make additional copies of themselves.
+The host cell both replicates the viral genome (DNA) and produces the viral capsid.
+The viral genome is then packaged into the capsid, resulting in new viruses.

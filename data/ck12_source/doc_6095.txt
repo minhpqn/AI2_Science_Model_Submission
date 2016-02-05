@@ -1,0 +1,20 @@
+T_2=71^\circ \text{C}=344 \text{ K}
+V_2= ? \text{ L}
+Use Charles’s law to solve for the unknown volume (V_2) .
+The temperatures have first been converted to Kelvin.
+Step 2:
+Solve.
+First, rearrange the equation algebraically to solve for V_2 .
+V_2=\frac{V_1 \times T_2}{T_1}
+Now substitute the known quantities into the equation and solve.
+V_2=\frac{2.20 \text{ L} \times 344 \text{ K}}{295 \text{ K}}=2.57 \text{ L}
+Step 3:
+Think about your result.
+The volume increases as the temperature increases.
+The result has three significant figures.
+Increasing the temperature of a gas at constant pressure will produce and increase in the volume.
+Perform the calculations at the web site below:
+Explain Charles’ Law in terms of the kinetic molecular theory.
+Why does the temperature need to be in Kelvin?
+Does Charles’ law hold when the gas becomes a liquid?
+Charles’s law:

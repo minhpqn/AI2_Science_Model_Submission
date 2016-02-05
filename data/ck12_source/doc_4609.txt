@@ -1,0 +1,20 @@
+This causes the cell to burst, destroying both the cell and the viruses inside it.
+You can watch an animation of the actions of cytotoxic T cells at this link:  .
+Click on the image above for more content
+Cytotoxic T cell mechanism
+A cytotoxic T cell releases toxins that destroy an infected body cell and the viruses it contains.
+After an infection has been brought under control, most cytotoxic T cells die off.
+However, a few remain as memory cells.
+If the same pathogen enters the body again, the memory cells mount a rapid immune response.
+They quickly produce many copies of cytotoxic T cells specific to the antigen of that pathogen.
+Regulatory T Cells
+Regulatory T cells are responsible for ending the cell-mediated immune response after an infection has been curbed.
+They also suppress T cells that mistakenly react against self antigens.
+What might happen if these T cells were not suppressed?
+Activated T cells destroy certain cancer cells and cells infected by viruses.
+Memory T cells remain in the body after the immune response and provide antigen-specific immunity to the virus.
+Use this resource to answer the questions that follow.
+Humoral and Cell-Mediated Immune Responses  at
+Briefly describe the cell-mediated response.
+Once T cells proliferate, what cells are produced?
+What is the role of cytotoxic T cells?

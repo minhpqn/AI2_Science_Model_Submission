@@ -1,0 +1,20 @@
+Who is accelerating?
+Explain.
+Who is going fastest at  t = 0.3 \;\mathrm{s} ?
+Explain.
+Which car has a constant velocity throughout?
+Explain.
+Graph x vs. t and v vs. t .
+Put both cars on same graph; label which line is which car.
+Which car is going faster at t = 0.2 \;\mathrm{s} (Hint:
+Assume they travel the same distance between 0.1 and 0.2 seconds)?
+a. 49 m b. 2 m/s, 4 m/s, 14 m/s
+discuss in class
+See Video above
+Graph motion vs. time and relate the slope to the instantaneous velocity or acceleration for position or velocity graphs, respectively.
+Use the area of a velocity vs. time graph in order to calculate the displacement.
+Students will learn how to graph motion vs time.
+Specifically students will learn how to take the slope of a graph and relate that to the instantaneous velocity or acceleration for position or velocity graphs, respectively.
+Finally students will learn how to take the area of a velocity vs time graph in order to calculate the displacement.
+For a graph of position vs. time.
+The slope is the rise over the run, where the rise is the displacement and the run is the time. thus,

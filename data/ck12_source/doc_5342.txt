@@ -1,0 +1,20 @@
+Discuss the role of the three main types of RNA: mRNA, rRNA, and tRNA.
+How does the information move from the nucleus, where the DNA is located, to the cytoplasm, where the ribosomes are?
+RNA, the other nucleic acid, that's how.
+Specifically mRNA or messenger RNA.
+RNA, the middle player in the central dogma.
+This image is an abstract representation of transfer RNA, which brings the amino acid to the ribosome.
+Without tRNA, mRNA, and rRNA, proteins cannot be made.
+Types of RNAs
+So what is the role of?
+We know that RNA is the middle player in the central dogma of molecular biology, but is that all it does?
+There are three types of RNA involved in protein synthesis: messenger RNA (mRNA), transfer RNA (tRNA), and ribisomal RNA (rRNA).
+All three of these nucleic acids work together to produce a protein.
+The mRNA takes the genetic instructions from the nucleus to the cytoplasm, where the ribosomes are located.
+Ribosomes are the organelles where the proteins are made.
+The ribosomes themselves are made out of rRNA and other proteins.
+The mRNA binds to the ribosome, bringing the genetic instructions to order the amino acids to the site of protein synthesis.
+Finally, the tRNA brings the correct amino acid to the ribosome ( Figure below and Figure below ).
+In mRNA, the four nucleotides (A, C, G, and U) are arranged into codons of three bases each.
+Each codon encodes for a specific amino acid, except for the stop codons , which terminate protein synthesis. tRNA, which has a specific “3-leaf clover structure,” contains a three base region called the anticodon , which can base pair to the corresponding three-base codon region on mRNA.
+More will be discussed on these processes in the Protein Synthesis:

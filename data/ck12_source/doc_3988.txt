@@ -1,0 +1,20 @@
+Autotrophic organisms use carbon dioxide (CO 2 ) as their only source or their main source of carbon.
+Many autotrophic bacteria are photosynthetic, and get their carbon from the carbon dioxide in the atmosphere.
+Energy metabolism in prokaryotes is classified as one of the following:
+Phototrophic organisms capture light energy from the sun and convert it into chemical energy inside their cells.
+Chemotrophic organisms break down either organic or inorganic molecules to supply energy for the cell.
+Some chemotrophic organisms can also use their organic energy-supplying molecules as a carbon supply, which would make them chemoheterotrophs.
+Photoheterotrophs are organisms that capture light energy to convert to chemical energy in the cells, but they get carbon from organic sources (other organisms).
+Examples are purple non-sulfur bacteria, green non-sulfur bacteria and heliobacteria.
+Chemoheterotrophs are organisms that get their energy source and carbon source from organic sources.
+Chemoheterotrophs must consume organic building blocks that they are unable to make themselves.
+Most get their energy from organic molecules such as sugars.
+This nutritional mode is very common among eukaryotes, including humans.
+Photoautotrophs are cells that capture light energy, and use carbon dioxide as their carbon source.
+There are many photoautotrophic prokaryotes, which include cyanobacteria.
+Photoautotrophic prokaryotes use similar compounds to those of plants to trap light energy.
+Chemoautotrophs are cells that break down inorganic molecules to supply energy for the cell, and use carbon dioxide as a carbon source.
+Chemoautotrophs include prokaryotes that break down hydrogen sulfide (H 2 S the “rotten egg” smelling gas), and ammonia (NH 4 ).
+Nitrosomonas , a species of soil bacterium, oxidizes NH 4 + to nitrite (NO 2 - ).
+This reaction releases energy that the bacteria use.
+Many chemoautotrophs also live in extreme environments such as deep sea vents.

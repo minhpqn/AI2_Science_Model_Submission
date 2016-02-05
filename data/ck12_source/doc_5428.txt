@@ -1,0 +1,20 @@
+For more on the TATA box in the initiation of transcription, see the TATA Binding sequence animation :  .
+Click on the image above for more content
+One of the more complex eukaryotic gene regulation processes is during development.
+What genes must be turned on and when during development must that genes be expressed so that tissues and organs form from simple cells?
+Regulation of Gene Expression During Development
+What makes the heart form during development?
+What makes the skin form?
+What makes a structure become an arm instead of a leg?
+These processes occur during development because of a highly specific pattern of gene expression.
+This intensely regulated pattern of gene expression turns genes on in the right cell at the right time, such that the resulting proteins can perform their necessary functions to ensure proper development.
+Transcription factors play an extremely important role during development.
+Many of these proteins can be considered master regulatory proteins , in the sense that they either activate or deactivate the transcription of other genes and, in turn, these secondary gene products can regulate the expression of still other genes in a regulatory cascade.
+Homeobox genes and gap genes are important classes of transcription factors utilized during development.
+Effect of Hox Gene Mutation.
+Scientists caused a mutation in a hox gene of this fruit fly.
+As a result of the mutation, a leg grew out of its head where an antenna should have developed (fly on right).
+Normal fly (fly on right).
+Homeobox genes contain a highly conserved DNA sequence known as a homeobox and are involved in the regulation of genes important to development.
+A homeobox is a 180 base pairs long highly conserved segment of DNA; it encodes a 60 amino acid domain within the protein known as the homeodomain , which can bind DNA through a helix-turn-helix motif.
+Proteins with a homeodomain are therefore transcription factors.

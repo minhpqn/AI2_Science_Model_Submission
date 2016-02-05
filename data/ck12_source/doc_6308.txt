@@ -1,0 +1,20 @@
+Therefore, the order of the reaction with respect to H 2 is 1, or rate α [H 2 ] 1 .
+Because 2^1 = 2 , the doubling of H 2 results in a rate that is twice as great.
+The overall rate law then includes both of these results.
+\text{rate}=k[\text{NO}]^ 2 [\text{H}_ 2]
+The sum of the exponents is 2 + 1 = 3 , making the reaction third-order overall.
+Once the rate law for a reaction is determined, the specific rate constant can be found by substituting the data for any of the experiments into the rate law and solving for k .
+k=\frac{\text{rate}}{[\text{NO}]^2 [\text{H}_2]}=\frac{1.25 \times 10^{-5} \text{ M/s}}{(0.0050 \text{ M})^2(0.0020 \text{ M})}=250 \text{ M}^{-2} \text{s}^{-1}
+Notice that the rate law for the reaction does not relate to the balanced equation for the overall reaction.
+The coefficients of NO and H 2 are both 2, while the order of the reaction with respect to the H 2 is only one.
+The units for the specific rate constant vary with the order of the reaction.
+So far, we have seen reactions that are first or second order with respect to a given reactant.
+Occasionally, the rate of a reaction may not depend on the concentration of one of the reactants at all.
+In this case, the reaction is said to be zero-order with respect to that reactant.
+The process of using experimental data to determine a rate law is described.
+Use the site below to practice determination of rate constant with experimental data.
+How do you carry out experiments for determining rate constants?
+Why is the reaction order with regard to NO a value of 2?
+Why is the reaction order with regard to hydrogen value of 1?
+Reaction Mechanisms and the Elementary Step
+Define reaction mechanism.

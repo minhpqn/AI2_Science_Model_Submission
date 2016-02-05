@@ -1,0 +1,20 @@
+For an animation of transcription, see
+Overview of Transcription.
+Transcription uses the sequence of bases in a strand of DNA to make a complementary strand of mRNA.
+Triplets are groups of three successive nucleotide bases in DNA.
+Codons are complementary groups of bases in mRNA.
+Every triplet, or codon, encodes for a unique amino acid.
+In eukaryotes, preinitiation of transcription is a step that determines if transcription will proceed.
+This step is involved in the regulation of gene expression, and will be further discussed in those concepts.
+The process is also highly regulated in prokaryotic cells, but is a much less complicated process than that in eukaryotic cells.
+Briefly, during preinitiation, RNA polymerase binds to a promoter sequence in the presence of specific transcription factors.
+RNA polymerase II , and therefore the initiation of transcription, requires the presence of a core promoter sequence in the DNA.
+The TATA box is a highly characterized core promoter sequence found in most eukaryotic promoters.
+The TATA box is the binding site for a transcription factor known as TATA-binding protein (TBP), which is itself a subunit of another transcription factor, called Transcription Factor II D (TFIID).
+Only after this factor and a number of other factors bind to this complex can RNA polymerase complete the preinitiation complex and initiate transcription.
+The rate of transcription is modulated by additional activators and repressors.
+The complete preinitiation complex contains:
+the core promoter sequence
+various transcription factors
+activators and repressors.
+RNA polymerase, which is also known as DNA-dependent RNA polymerase, is an enzyme that produces RNA using a DNA template.

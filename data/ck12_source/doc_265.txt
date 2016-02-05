@@ -1,0 +1,20 @@
+What was the change in momentum for the car?
+How long does it take the braking force to bring the car to rest?
+momentum:
+A measure of the motion of a body equal to the product of its mass and velocity.   Also called linear momentum .
+impulse:
+The product obtained by multiplying the average value of a force by the time during which it acts.
+The impulse equals the change in momentum produced by the force in this time interval.
+Conservation of Momentum in One Dimension
+State the law of conservation of momentum.
+Use the conservation of momentum to solve one-dimensional collision problems.
+A whale leaping out of water
+For this whale to leap out of the water, something underwater must be moving in the opposite direction, and intuition tells us it must be moving with relatively high velocity.
+The water that moves downward is pushed downward by the whale's tail, and that allows the whale to rise up.
+Conservation of Momentum in One Dimension
+When impulse and momentum were introduced, we used an example of a batted ball to discuss the impulse and momentum change that occurred with the ball.
+At the time, we did not consider what had happened to the bat.
+According to Newton’s third law, however, when the bat exerted a force on the ball, the ball also exerted an equal and opposite force on the bat.
+Since the time of the collision between bat and ball is the same for the bat and for the ball, then we have equal forces (in opposite directions) exerted for equal times on the ball AND the bat.
+That means that the impulse exerted on the bat is equal and opposite (-Ft) to the impulse on the ball (Ft) and that also means that there was a change in momentum of the bat [-\Delta (mv)_{\text{BAT}}] that was equal and opposite to the change in momentum of the ball [\Delta (mv)_{\text{BALL}}] .
+The change in momentum of the ball is quite obvious because it changes direction and flies off at greater speed.

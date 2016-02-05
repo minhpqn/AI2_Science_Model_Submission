@@ -1,0 +1,20 @@
+What is the speed of the man just before he lands on the pillow?
+How long is he in the air after he lets go?
+What is the greatest height reached by the man above the ground? (Hint: this should be greater than 20 m.
+Why?
+What is the distance between the helicopter and the man three seconds after he lets go of the rope?
+You are speeding towards a brick wall at a speed of 55 MPH.
+The brick wall is only 100 feet away.
+What is your speed in m/s?
+What is the distance to the wall in meters?
+What is the minimum acceleration you should use to avoid hitting the wall?
+What acceleration should you use to increase your speed from 10 m/s to 18 m/s over a distance of 55 m?
+You drop a rock from the top of a cliff.
+The rock takes 3.5 seconds to reach the bottom.
+What is the initial speed of the rock?
+What is the magnitude (i.e., numerical value ) of the acceleration of the rock at the moment it is dropped?
+What is the magnitude of the acceleration of the rock when it is half-way down the cliff?
+What is the height of the cliff?
+Answers to Selected Problems
+a. 7.7 \;\mathrm{m/s}^2 b. 47 m, 150 feet c. 34 m/s
+a. 1.22 m b. 4.9 m/s c. 2.46 m/s d. -4.9 m/s

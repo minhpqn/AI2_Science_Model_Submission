@@ -1,0 +1,20 @@
+The grana consist of sac-like membranes, known as thylakoid membranes.
+These membranes contain photosystems , which are groups of molecules that include chlorophyll , a green pigment.
+The light reactions of photosynthesis occur in the thylakoid membranes.
+The stroma is the space outside the thylakoid membranes, as shown in Figure below .
+This is where the reactions of the Calvin cycle take place.
+In addition to enzymes, two basic types of molecules - pigments and electron carriers – are key players in this process and are also found in the thylakoid membranes.
+You can take a video tour of a chloroplast at Encyclopedia Britannica:
+Chloroplast :
+The interior of a chloroplast, showing chlorophyll
+A chloroplast consists of thylakoid membranes surrounded by stroma.
+The thylakoid membranes contain molecules of the green pigment chlorophyll.
+Electron carrier molecules are usually arranged in electron transport chains (ETCs).
+These accept and pass along energy-carrying electrons in small steps ( Figure below ).
+In this way, they produce ATP and NADPH, which temporarily store chemical energy.
+Electrons in transport chains behave much like a ball bouncing down a set of stairs – a little energy is lost with each bounce.
+However, the energy “lost” at each step in an electron transport chain accomplishes a little bit of work, which eventually results in the synthesis of ATP.
+The light reactions of photosynthesis
+This figure shows the light reactions of photosynthesis.
+This stage of photosynthesis begins with photosystem II (so named because it was discovered after photosystem I).
+Find the two electrons (2 e - ) in photosystem II, and then follow them through the electron transport chain (also called the electron transfer chain) to the formation of NADPH.

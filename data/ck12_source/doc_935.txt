@@ -1,0 +1,20 @@
+What is the current in the secondary?
+An ideal step-up transformer’s primary coil has 500 turns and its secondary coil has 15,000 turns.
+The primary EMF is 120 V.
+Calculate the EMF of the secondary.
+If the secondary current is 3.0 A, what is the primary current?
+What power is drawn by the primary?
+transformer:
+An electric device consisting essentially of two or more windings wound on the same core, which by electromagnetic induction transforms electric energy from one circuit to another circuit such that the frequency of the energy remains unchanged while the voltage and current usually change.
+primary coil:
+A coil to which the input voltage is applied in a transformer.
+secondary coil:
+The coil in a transformer where the current is induced.
+step-up transformer:
+A step-up transformer is one that increases voltage.
+step-down transformer:
+A step-down transformer is one that decreases voltage.
+Courtesy of the NRC.
+Samantha Bacic.
+CK-12 Foundation .
+Samantha Bacic.

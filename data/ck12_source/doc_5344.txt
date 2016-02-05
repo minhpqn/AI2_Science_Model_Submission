@@ -1,0 +1,20 @@
+3-Dimensional representation of a tRNA.
+Coloring:
+CCA tail in orange, Acceptor stem in purple, D arm in red, Anticodon arm in blue with Anticodon in black, and T arm in green.
+The acceptor stem is made by the base pairing of the 5'-terminal nucleotide with the 3'-terminal nucleotide.
+The CCA tail is a CCA sequence at the 3' end of the tRNA molecule, used to attach the amino acid.
+This sequence is important for the recognition of tRNA by enzymes critical in translation.
+Small interfering RNA (siRNA), microRNA (miRNA) and small nuclear RNA (snRNA) are other types of RNA. siRNA and miRNA are revolutionizing molecular biology, developmental biology, and even medicine.
+The 2006 Nobel prize in Physiology and Medicine was awarded to Dr.
+Andrew Fire and Dr.
+Craig Mello for their discovery of siRNA, which is a type of double-stranded RNA that inhibits gene expression at the mRNA level. siRNAs are usually 20-25 nucleotides in length.
+Specifically, siRNA acts on processed mRNA by targeting it for degradation. siRNA is responsible for RNA interference (RNAi) where it interferes with the expression of specific genes with nucleotide sequences complementary to the siRNA.
+RNAi has a natural role in that it is used by plants in defense against plant viral RNAs.
+Mediating RNA interference. siRNAs are transcribed and then processed by the enzyme Dicer, an endoribonuclease in the RNase III family.
+This enzyme cleaves double-stranded RNA and pre-microRNA into short double-stranded siRNA RNA fragments.
+These can then bind to mRNA and target the mRNA for degradation.
+miRNAs are also involved in the regulation of gene expression.
+They are transcribed but not translated into proteins. snRNAs are found within the nucleus of eukaryotic cells.
+They are involved in a variety of important processes such as RNA splicing (removal of introns), and regulation of transcription factors, proteins involved in turning on or off genes.
+anticodon :
+A three base sequence on the tRNA molecule complementary to the codon on the mRNA.

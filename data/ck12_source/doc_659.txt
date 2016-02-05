@@ -1,0 +1,20 @@
+Since period and frequency are reciprocals, the speed of the wave could also be expressed as v=\lambda f .
+Example Problem:
+A sound wave has a frequency of 262 Hz.  What is the time lapse between successive wave crests?
+Solution:
+The time lapse between successive crests would be the period and the period is the reciprocal of the frequency.
+T=\frac{1}{f}=\frac{1}{262 \ \text{s}^{-1}}=0.00382 \ \text{s}
+Example Problem:
+A sound wave has a frequency of 262 Hz has a wavelength of 1.29 m.  What is the velocity of the wave?
+Solution: v=\lambda f=(1.29 \ \text{m})(262 \ \text{s}^{-1})=338 \ \text{m/s}
+Making Waves with Sound and Light
+What are the differences between sound waves and light waves?
+TechTV from the Massachusetts Institute of Technology explains in these two videos:
+Mechanical waves require a material medium such as water, air, or rope.
+In all types of mechanical waves, energy moves from one place to another while the media carrying the wave only vibrates back and forth in position.
+One type of mechanical wave is the transverse wave, in which the movement of the medium is perpendicular to the direction of the energy propagation.
+The maximum displacement of the medium is the distance from the undisturbed position to the top of a crest, or the amplitude.
+The distance along the line of motion of the wave from equivalent positions on succeeding waves is the wavelength.
+The time interval required for one entire wave to pass a point is the period.
+The number of periods per second is the wave's frequency.
+The period of a wave and its frequency are reciprocals of each other.

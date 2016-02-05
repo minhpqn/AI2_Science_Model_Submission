@@ -1,0 +1,20 @@
+Calculation of pH is simple when there is a 1 × 10 power problem.
+However, in real life that is rarely the situation.
+If the coefficient is not equal to 1, a calculator must be used to find the pH.
+For example, the pH of a solution with [H + ] = 2.3 × 10 -5  M  can be found as shown below.
+pH = -log[2.3 × 10 -5 ] = 4.64
+When the pH of a solution is known, the concentration of the hydrogen ion can be calculated.
+The inverse of the logarithm (or antilog) is the 10 x key on a calculator.
+[H + ] = 10 -pH
+For example, suppose that you have a solution with a pH of 9.14.
+To find the [H + ] use the 10 x key.
+[H + ] = 10 -pH = 10 -9.14 = 7.24 × 10 -10 M
+Hydroxide Ion Concentration and pH
+As we saw earlier, the hydroxide ion concentration of any aqueous solution is related to the hydrogen ion concentration through the value of K_w .
+We can use that relationship to calculate the pH of a solution of a base.
+Sample Problem:
+The pH of a Base
+Sodium hydroxide is a strong base.
+Find the pH of a solution prepared by dissolving 1.0 g of NaOH into enough water to make 1.0 L of solution.
+Step 1:
+List the known values and plan the problem .

@@ -1,0 +1,20 @@
+The impulse  is the quantity defined as the force multiplied by the time it is applied.
+It is a vector quantity that has the same direction as the force.  The units for impulse are N·s but we know that Newtons are also kg·m/s 2 and so N·s = (kg·m/s 2 )(s) = kg·m/s.
+Impulse and momentum have the same units; when an impulse is applied to an object, the momentum of the object changes and the change of momentum is equal to the impulse.
+Ft = \Delta mv
+Example Problem:
+Calculating Momentum
+A 0.15 kg ball is moving with a velocity of 35 m/s.  Find the momentum of the ball.
+Solution: p = mv = (0.15 \ \text{kg})(35 \ \text{m/s}) = 5.25 \ \text{kg} \cdot \text{m/s}
+Example Problem:
+If a ball with mass 5.00 kg has a momentum of 5.25 \ \text{kg} \cdot \text{m/s} , what is its velocity?
+Solution: v=\frac{p}{m}=\frac{5.25 \ \text{kg} \cdot \text{m/s}}{5.00 \ \text{kg}}=1.05 \ \text{m/s}
+It should be clear from the equation relating impulse to change in momentum, Ft = \Delta mv , that any amount of force would (eventually) bring a moving object to rest.
+If the force is very small, it must be applied for a long time, but a greater force can bring the object to rest in a shorter period of time.
+If you jump off a porch and land on your feet with your knees locked in the straight position, your motion would be brought to rest in a very short period of time and thus the force would need to be very large – large enough, perhaps, to damage your joints or bones.
+Suppose that when you hit the ground, your velocity was 7.0 m/s and that velocity was brought to rest in 0.05 seconds.  If your mass is kg, what force was required to bring you to rest?
+F=\frac{\Delta mv}{t}=\frac{(100. \ \text{kg})(7.0 \ \text{m/s})}{0.050 \ \text{s}}=14,000 \ \text{N}
+If, on the other hand, when your feet first touched the ground, you allowed your knees to flex so that the period of time over which your body was brought to rest is increased, then the force on your body would be smaller and it would be less likely that you would damage your legs.
+Suppose that when you first touch the ground, you allow your knees to bend and extend the stopping time to 0.50 seconds.
+What force would be required to bring you to rest this time?
+F=\frac{\Delta mv}{t}=\frac{(100. \ \text{kg})(7.0 \ \text{m/s})}{0.50 \ \text{s}}=1400 \ \text{N}

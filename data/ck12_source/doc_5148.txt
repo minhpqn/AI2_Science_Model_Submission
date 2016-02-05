@@ -1,0 +1,20 @@
+This alignment allows the spindle fibers to correctly pull the chromatids to either pole of the cell, resulting in separation of sister chromatids from a chromosome, see Figure below .
+Chromosomes, consisting of sister chromatids, line up at the equator (metaphase plate) of the cell during metaphase.
+Anaphase is the phase in which the sister chromatids separate.
+The sister chromatids are pulled apart by the shortening of the microtubules of the spindles, similar to the reeling in of a fish by the shortening of the fishing line.
+One sister chromatid moves to one pole of the cell, and the other sister chromatid moves to the opposite pole.
+This process occurs when the proteins that bind sister chromatids together are cleaved, resulting in unattached identical chromosomes, essentially separate daughter chromosomes.
+These separate chromosomes are pulled apart by shortening spindle fibers, and pulled toward the centrosomes to which they are attached.
+At the end of anaphase the spindle fibers degrade.
+At this time, each pole of the cell has a complete set of chromosomes, identical to the amount of DNA at the beginning of G 1 of the cell cycle.
+Telophase is essentially the opposite of prophase and prometaphase.
+The chromosomes begin to unwind back into chromatin in preparation to direct the cell’s metabolic activities.
+A new nucleus forms around each set of chromosomes.
+This is followed by cytokinesis, the division of the cytoplasm, resulting in two genetically identical cells, ready to enter G 1 of the next cell cycle.
+The phases of mitosis are summarized in Figure below .
+Mitosis in the Eukaryotic Cell Cycle.
+Mitosis is the multi-phase process in which the nucleus of a eukaryotic cell divides.
+In this diagram, prometaphase is not included as a separate phase, but incorporated into prophase.
+This is a representation of dividing plant cells.
+Cell division in plant cells differs slightly from animal cells as a cell wall must form.
+Note that most of the cells are in interphase.

@@ -1,0 +1,20 @@
+Repeat steps 1 and 2 until the equation is balanced.
+Q:
+Balance this chemical equation for the reaction in which nitrogen (N 2 ) and hydrogen (H 2 ) combine to form ammonia (NH 3 ):
+N 2 + H 2 → NH 3
+A:
+First count the nitrogen atoms on both sides of the arrow.
+There are two nitrogen atoms in the reactants so there must be two in the products as well.
+Place the coefficient 2 in front of NH 3 to balance nitrogen:
+N 2 + H 2 → 2 NH 3
+Now count the hydrogen atoms on both sides of the arrow.
+There are six hydrogen atoms in the products so there must also be six in the reactants.
+Place the coefficient 3 in front of H 2 to balance hydrogen:
+N 2 + 3 H 2 → 2 NH 3
+If you’re still not sure how to balance chemical equations, watch the excellent video at this URL:
+Click on the image above for more content
+A chemical equation represents the changes that occur during a chemical reaction.
+It has the general form:
+Reactants → Products.
+All chemical equations must be balanced.
+This means that there must be the same number of each type of atom on both sides of the arrow.

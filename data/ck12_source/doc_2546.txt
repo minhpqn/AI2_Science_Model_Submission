@@ -1,0 +1,20 @@
+Rutherford surmised that electrons move around the nucleus like planets around the sun.
+Rutherford’s idea of atomic structure was an improvement on Thomson’s model, but it wasn’t the last word.
+Rutherford focused on the nucleus and didn’t really clarify where the electrons were in the empty space surrounding the nucleus.
+The next major advance in atomic history occurred in 1913, when the Danish scientist Niels Bohr published a description of a more detailed model of the atom.
+His model identified more clearly where electrons could be found.
+Although later scientists would develop more refined atomic models, Bohr’s model was basically correct and much of it is still accepted today.
+It is also a very useful model because it explains the properties of different elements.
+Bohr received the 1922 Nobel prize in physics for his contribution to our understanding of the structure of the atom.
+You can see a picture of Bohr below .
+Portrait of Bohr
+On the Level
+As a young man, Bohr worked in Rutherford’s lab in England.
+Because Rutherford’s model was weak on the position of the electrons, Bohr focused on them.
+He hypothesized that electrons can move around the nucleus only at fixed distances from the nucleus based on the amount of energy they have.
+He called these fixed distances energy levels, or electron shells.
+He thought of them as concentric spheres, with the nucleus at the center of each sphere.
+In other words, the shells consisted of sphere within sphere within sphere.
+Furthermore, electrons with less energy would be found at lower energy levels, closer to the nucleus.
+Those with more energy would be found at higher energy levels, farther from the nucleus.
+Bohr also hypothesized that if an electron absorbed just the right amount of energy, it would jump to the next higher energy level.

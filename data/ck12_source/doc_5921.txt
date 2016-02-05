@@ -1,0 +1,20 @@
+What is the difference between a polar bond and a polar molecule?
+dipole:
+A molecule with two poles.
+polar molecule:
+A molecule in which one end of the molecule is slightly positive, while the other end is slightly negative.
+Van der Waals Forces
+Define Van der Waals forces.
+Describe dipole-dipole interactions.
+Describe London dispersion forces .
+NMR machines use liquid nitrogen, which has Van der Waals forces
+How to Keep it Cool?
+Magnetic resonance imaging (NMR) devices use liquid nitrogen to cool the superconducting magnets.  Nitrogen is a gas at room temperature and liquefies at -195.8°C.  Its neighbor on the periodic table (oxygen) boils at -182.95°C.  The interactions between nitrogen molecules (N 2 ) are weaker, so the boiling point is lower.
+Interactions between non-polar molecules depend on the degree of electron fluctuation within the molecule.
+Van der Waals Forces
+The first type of intermolecular force we will consider are called van der Waals forces, after Dutch chemist Johannes van der Waals (1837-1923).  Van der Waals forces are the weakest intermolecular force and consist of dipole-dipole forces and dispersion forces.
+Dipole-dipole forces are the attractive forces that occur between polar molecules.  A molecule of hydrogen chloride has a partially positive hydrogen atom and a partially negative chlorine atom.  In a collection of many hydrogen chloride molecules, they will align themselves so that the oppositely charged regions of neighboring molecules are near each other.
+Example of a dipole-dipole force
+Dipole-dipole forces are a result of the attraction of the positive end of one dipole to the negative end of a neighboring dipole.
+Dipole-dipole forces are similar in nature, but much weaker than ionic bonds.
+London Dispersion Forces

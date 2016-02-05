@@ -1,0 +1,20 @@
+The f sublevel is always two levels behind.
+The 4 f sublevel belongs to the sixth period.
+The horizontal rows of the periodic table are called periods.
+The length of a period depends on how many electrons are needed to occupy the sublevels that fill the period.
+Blocks indicate which sublevel is being filled.
+Use the link below to answer the following questions:
+How many elements are in the second period?
+The fourth?
+The sixth?
+Use a periodic table to identify the block that each of these elements would be found.
+What are the horizontal rows of the periodic table called?
+Which sublevel is being filled in period 1?
+Which sublevel is being filled in period 7?
+How does the electron configuration of an element give information about the period it is in?
+What block of elements has the d sublevels being filled?
+block:
+The periodic table can be divided into blocks denoting which sublevel is in the process of being filled.
+period:
+Each horizontal row of the seven rows of the periodic table.
+sublevel:

@@ -1,0 +1,20 @@
+How is electric current measured in the simulation?
+What happens when you stop moving the magnet?
+What is electromagnetic induction?
+When does it occur?
+How could you increase the amount of current produced by electromagnetic induction?
+Explain how a moving magnet and a coil of wire can be used to produce alternating current.
+List two devices that use electromagnetic induction.
+Describe an electric generator and its function.
+Explain how generators transform kinetic energy to electrical energy.
+The sprawling machines in this plant aren’t factory machines, but they do produce something.
+They are electric generators in a hydroelectric power plant, and they produce electricity.
+An electric generator is a device that changes kinetic energy to electrical energy through electromagnetic induction.
+Electromagnetic induction is the process of generating electric current with a magnetic field.
+It occurs when a magnetic field and an electric conductor, such as a coil of wire, move relative to one another.
+A simple diagram of an electric generator is shown in the Figure below .
+In any electric generator, some form of energy is applied to turn a shaft.
+The turning shaft causes a coil of wire to rotate between the opposite poles of a magnet.
+Because the coil is rotating in a magnetic field, electric current is generated in the wire.
+You can learn how to make a very simple electric generator by watching the video at the URL below.
+Making your own generator will help you understand how a generator works.

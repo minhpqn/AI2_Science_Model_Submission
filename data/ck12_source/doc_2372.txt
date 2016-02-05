@@ -1,0 +1,20 @@
+Explain how to calculate area, volume, and density.
+Identify units of area, volume, and density.
+This scientist is using a calculator.
+Doing science often requires calculations.
+Converting units—say from inches to centimeters—is one type of calculation that might be required.
+Calculations may also be needed to find derived quantities.
+What Are Derived Quantities?
+Derived quantities are quantities that are calculated from two or more measurements.
+Derived quantities cannot be measured directly.
+They can only be computed.
+Many derived quantities are calculated in physical science.
+Three examples are area, volume, and density.
+The area of a surface is how much space it covers.
+It’s easy to calculate the area of a surface if it has a regular shape, such as the blue rectangle in the sketch below.
+You simply substitute measurements of the surface into the correct formula.
+To find the area of a rectangular surface, use this formula:
+Area (rectangular surface) = length × width (l × w)
+Q:
+What is the area of the blue rectangle?
+A:

@@ -1,0 +1,20 @@
+According to his theory the natural state of things is at rest; force is required to keep something moving at a constant rate.
+This made sense to people throughout history because on earth, friction and air resistance slow moving objects.
+When there is no air resistance (or other sources of friction), a situation approximated in space, Newton's first law is much more evident.
+The amount of inertia an object has is simply related to the mass of the object.
+Mass and Weight are two different things.
+Mass (typically in units of kg or grams) is basically a measure of what comprises an object.
+Weight is the measure of how much the force of gravity is pulling on you.
+In fact, instead of saying 'I weigh 80 lb.', one could say that 'the force of gravity is pulling on me with a force of 80 lb.' The metric unit for weight (and force) is the Newton.
+F_g = mg  ;
+The force of gravity (i.e. your weight) is equal to the mass of the object multiplied by the acceleration of gravity for that planet.
+1 \text{lb.} = 4.45 \text{N}
+An object will not change its state of motion (i.e., accelerate) unless a net force acts on it.
+Equal and oppositely directed forces do not produce acceleration.
+If no net force acts on an object the object remains at constant velocity or at rest.
+Question :
+What is the weight of a 90 kg person on Earth?
+What about the moon?
+Answers :
+On Earth, F_g = mg = (90 \ kg)(9.8 \ m/s^2) = 882 \ N
+On moon, F_g = mg = (90 \ kg)(1.6 \ m/s^2) = 144 \ N

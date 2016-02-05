@@ -1,0 +1,20 @@
+Calculating Standard Heat of Reaction
+Calculate the standard heat of reaction  (\Delta H^\circ) for the reaction of nitrogen monoxide gas with oxygen to form nitrogen dioxide gas.
+Step 1:
+List the known quantities and plan the problem .
+\Delta H{_f}^\circ \ \text{for NO}(\text{g})=90.4 \text{ kJ/mol}
+\Delta H{_f}^\circ \ \text{for O}_2 (\text{g})=0 \ (\text{element})
+\Delta H{_f}^\circ \ \text{for NO}_2(\text{g})=33.85 \text{ kJ/mol}
+\Delta H^\circ=? \text{ kJ}
+First write the balanced equation for the reaction.
+Then apply the equation to calculate the standard heat of reaction for the standard heats of formation.
+Step 2:
+Solve .
+The balanced equation is: 2\text{NO(g)}+\text{O}_2(\text{g}) \rightarrow 2\text{NO}_2(\text{g})
+Applying the equation form the text:
+\Delta H^\circ&=[2 \text{ mol NO}_2 (33.85 \text{ kJ/mol})] - [2 \text{ mol NO}(90.4 \text{ kJ/mol}) + 1 \text{ mol O}_2 (0 \text{ kJ/mol})] \\&=-113 \text{ kJ}
+The standard heat of reaction is -113 kJ.
+Step 3:
+Think about your result .
+The reaction is exothermic, which makes sense because it is a combustion reaction and combustion reactions always release heat.
+Standard heats of reaction can be calculated from standard heats of formation.

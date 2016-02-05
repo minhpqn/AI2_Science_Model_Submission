@@ -1,0 +1,20 @@
+What is the bond type of a bond with a difference of 1.9?
+What would be he bond type for BH 2 ?
+Your friend tells you that the LiF bond is covalent.
+What do you say?
+electronegativity:
+The ability of an atom to attract electrons when the atoms are in a compound.
+nonpolar covalent bond:
+A covalent bond in which the bonding electrons are shared equally between the two atoms.
+polar covalent bond:
+A covalent bond in which the atoms have an unequal attraction for electrons and so the sharing is unequal.
+Define polar molecule.
+Describe how to determine polarity of a molecule.
+Diagram of ultracold polar molecules
+How cold are ultracold polar molecules?
+Ultracold polar molecules have been created by research scientists.
+These “molecules” consists of Rb and K atoms excited by lasers to form a type of Rb-K compound where the Rb has a positive charge and the K has a negative charge.
+The material is formed at temperatures extremely close to absolute zero.
+The researchers believe these techniques will help them make new reactions and new materials.
+A polar molecule is a molecule in which one end of the molecule is slightly positive, while the other end is slightly negative.  A diatomic molecule that consists of a polar covalent bond, such as HF, is a polar molecule.  The two electrically charged regions on either end of the molecule are called poles, similar to a magnet having a north and a south pole.  A molecule with two poles is called a dipole (see Figure below ) .  Hydrogen fluoride is a dipole.
+Image of a dipole

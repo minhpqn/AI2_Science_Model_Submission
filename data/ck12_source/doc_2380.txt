@@ -1,0 +1,20 @@
+For example, when rounding 2.344 to three significant figures, round down to 2.34.
+If the digit to be rounded is greater than 5, then round up.
+For example, when rounding 2.346 to three significant figures, round up to 2.35.
+If the digit to be rounded is 5, round up if the digit before 5 is odd, and round down if digit before 5 is even.
+For example, when rounding 2.345 to three significant figures, round down to 2.34.
+This rule may seem arbitrary, but in a series of many calculations, any rounding errors should cancel each other out.
+In any measurement, the number of significant figures is the number of digits thought to be correct by the person doing the measuring.
+It includes all digits that can be read directly from the measuring device plus one estimated digit.
+To determine the number of significant figures in a measurement that someone else has made, follow the rules for counting significant figures.
+When measurements are used in a calculation, the answer cannot have more significant figures than the measurement with the fewest significant figures.
+Rounding is done when one or more ending digits are dropped to get the correct number of significant figures.
+Simple rules state when to round up and when to round down.
+Do the significant figures quiz at this URL.
+Be sure to check your answers.
+How do you determine the number of significant figures when you make a measurement?
+Measure the width of a sheet of standard-sized (8.5 in x 11.0 in) loose-leaf notebook paper.
+Make the measurement in centimeters and express the answer with the correct number of significant figures.
+How many significant figures do each of these measurements have?
+In this calculation, how many significant figures should there be in the answer? 1.0234 + 1.1 + 0.0056
+Round each of these numbers to three significant figures:

@@ -1,0 +1,20 @@
+Illustration of a neuron
+The structure of a neuron allows it to rapidly transmit nerve impulses to other cells.
+The neuron is discussed at
+Click on the image above for more content
+The axon of many neurons has an outer layer called a myelin sheath (see Figure above ).
+Myelin is a lipid produced by a type of a glial cell known as a Schwann cell .
+The myelin sheath acts like a layer of insulation, similar to the plastic that encases an electrical cord.
+Regularly spaced nodes, or gaps, in the myelin sheath allow nerve impulses to skip along the axon very rapidly.
+Types of Neurons
+Neurons are classified based on the direction in which they carry nerve impulses.
+Sensory neurons carry nerve impulses from tissues and organs to the spinal cord and brain.
+Motor neurons carry nerve impulses from the brain and spinal cord to muscles and glands (see Figure below ).
+Interneurons carry nerve impulses back and forth between sensory and motor neurons.
+Motor neuron axon
+This axon is part of a motor neuron.
+It transmits nerve impulses to a skeletal muscle, causing the muscle to contract.
+Neurons are the structural and functional units of the nervous system.
+They consist of a cell body, dendrites, and axon.
+Neurons transmit nerve impulses to other cells.
+Types of neurons include sensory neurons, motor neurons, and interneurons.

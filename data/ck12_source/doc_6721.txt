@@ -1,0 +1,20 @@
+We will use the equation F=ma to determine in which situation she exerts less force on the scale.
+If the elevator is accelerating upward then the acceleration would be greater.
+She would be pushed toward the floor of the elevator making her weight increase.
+Therefore, she should weigh herself when the elevator is going down.
+b) When the elevator is not accelerating, the scale would read 70.0\mathrm{kg} .
+c) If the elevator was accelerating upward at a speed of 2.00\mathrm{m/s^2} , then the scale would read F=ma=70\mathrm{kg}\times (9.8\mathrm{m/s^2}+2\mathrm{m/s^2})=826\mathrm{N} which is 82.6\mathrm{kg} .
+Question :
+A spring with a spring constant of k=400\mathrm{N/m} has an uncompressed length of .23\mathrm{m} and a fully compressed length of .15\mathrm{m} .
+What is the force required to fully compress the spring?
+Solution :
+We will use the equation F=kx to solve this.
+We simply have to plug in the known value for the spring and the distance to solve for the force.
+F=kx=(400\mathrm{N/m})(.23\mathrm{m}-.15\mathrm{m})=32\mathrm{N}
+Watch this Explanation
+Click on the image above for more content
+No Problems for this section.
+See Newton Law Problem Solving Concept.
+Problem Solving 1
+Solve problems using Newton's 2nd law.
+In this lesson, students will learn how to solve difficult problems using Newton's 2nd law.

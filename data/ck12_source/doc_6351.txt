@@ -1,0 +1,20 @@
+If the value of the ion product is less than the value of the K_{sp} , then the solution will remain unsaturated.
+No precipitate will form because the concentrations are not high enough to begin the precipitation process.
+If the value of the ion product is greater than the value of the K_{sp} , then a precipitate will form.
+The formation of the precipitate lowers the concentration of each of the ions until the ion product is exactly equal to the K_{sp} , at which point precipitation ceases.
+Barium sulfate is used as a component of white paint and in certain x-ray imaging processes
+Barium sulfate is used as a component of white pigment for paints and as an agent in certain x-ray imaging processes.
+Sample Problem:
+Predicting Precipitates
+Will a precipitate of barium sulfate form when 10.0 mL of 0.0050 M BaCl 2 is mixed with 20.0 mL of 0.0020 M Na 2 SO 4 ?
+Step 1:
+List the known quantities and plan the problem .
+concentration of BaCl 2 = 0.0050 M
+volume of BaCl 2 = 10.0 mL
+concentration of Na 2 SO 4 = 0.0020 M
+volume of Na 2 SO 4 = 20.0 mL
+K_{sp} of BaSO 4 = 1.1 × 10 -10
+ion product [Ba 2+ ][SO 4 2- ]
+if a precipitate forms
+The concentration and volume of each solution that is mixed together must be used to calculate the [Ba 2+ ] and the [SO 4 2− ].
+Each individual solution is diluted when they are mixed together.

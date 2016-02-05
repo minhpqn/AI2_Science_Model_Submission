@@ -1,0 +1,20 @@
+Drought can destroy crop yields, as can too much rain or floods.
+But what if crops could be developed to withstand these harsh conditions?
+Biotechnology will allow the development of crops containing genes that will enable them to withstand biotic and abiotic stresses.
+For example, drought and excessively salty soil are two significant factors affecting crop productivity.
+But there are crops that can withstand these harsh conditions.
+Why?
+Probably because of that plant's genetics.
+So biotechnologists and plant geneticists are studying plants that can cope with these extreme conditions, trying to identify and isolate the genes that control these beneficial traits.
+The genes could then be transferred into more desirable crops, with the hope of producing the same phenotypes in those crops.
+Thale cress ( Figure below ), a species of Arabidopsis ( A. thaliana ), is a tiny weed that is often used for plant research because it is very easy to grow and its genome has been extensively characterized.
+Scientists have identified a gene from this plant, At-DBF2, that confers resistance to some environmental stresses.
+When this gene is inserted into tomato and tobacco cells, the cells were able to withstand environmental stresses like salt, drought, cold and heat far better than ordinary cells.
+If these preliminary results prove successful in larger trials, then At-DBF2 genes could help in engineering crops that can better withstand harsh environments.
+Researchers have also created transgenic rice plants that are resistant to rice yellow mottle virus (RYMV).
+In Africa, this virus destroys much of the rice crops and makes the surviving plants more susceptible to fungal infections.
+Increased Nutritional Qualities of Crops
+Maybe you’ve heard over and over that eating beans is good for you.
+True?
+Well, maybe.
+But what if it were genetically possible to increase the nutritional qualities of food?

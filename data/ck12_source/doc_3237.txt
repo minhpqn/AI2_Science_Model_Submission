@@ -1,0 +1,20 @@
+In radio broadcasts, sounds are encoded in radio waves, and then the waves are sent out through the atmosphere from a radio tower.
+A radio receiver detects the waves and changes them back to sounds.
+You may have listened to both AM and FM radio stations.
+How sounds are encoded in radio waves differs between AM and FM broadcasts.
+AM stands for a mplitude m odulation.
+In AM broadcasts, sound signals are encoded by changing the amplitude, or maximum height, of radio waves.
+AM broadcasts use longer wavelength radio waves than FM broadcasts.
+Because of their longer wavelengths, AM waves reflect off a layer of the upper atmosphere called the ionosphere.
+You can see how this happens in the Figure below .
+Because the waves are reflected, they can reach radio receivers that are very far away from the radio tower.
+FM stands for f requency m odulation.
+In FM broadcasts, sound signals are encoded by changing the frequency of radio waves.
+Frequency modulation allows FM waves to encode more information than does amplitude modulation, so FM broadcasts usually produce clearer sounds than AM broadcasts.
+However, the relatively short wavelengths of FM waves means that they don’t reflect off the ionosphere as AM waves do.
+Instead, FM waves pass through the ionosphere and out into space.
+This is also shown in the Figure below .
+As a result, FM waves cannot reach very distant receivers.
+Diagram illustrating the difference between AM and FM waves
+Q:
+The composition of the ionosphere changes somewhat from day to night.

@@ -1,0 +1,20 @@
+For the oxidation half-reaction, the electrons will need to be added to the product side.
+For the reduction half-reaction, the electrons will be added to the reactant side.
+By adding one electron to the product side of the oxidation half-reaction, there is a 2+ total charge on both sides.
+\text{Fe}^{2+}(aq) \rightarrow \text{Fe}^{3+}(aq)+e^-
+There is a total charge of 12+ on the reactant side of the reduction half-reaction (14 – 2).
+The product side has a total charge of 6+ due to the two chromium ions (2 × 3).
+To balance the charge, six electrons need to be added to the reactant side.
+6e^-+14\text{H}^+(aq)+\text{Cr}_2\text{O}^{2-}_7(aq) \rightarrow 2\text{Cr}^{3+}(aq)+7\text{H}_2\text{O}(l)
+Now equalize the electrons by multiplying everything in one or both equations by a coefficient .
+In this example, the oxidation half-reaction will be multiplied by six.
+6\text{Fe}^{2+}(aq) \rightarrow 6\text{Fe}^{3+}(aq)+6e^-
+Step 6:
+Add the two half-reactions together.
+The electrons must cancel.
+Balance any remaining substances by inspection.
+If necessary, cancel out H 2 O or H + that appear on both sides.
+6\text{Fe}^{2+}(aq) & \rightarrow 6\text{Fe}^{3+}(aq)+ \cancel{6e^-} \\\cancel{6e^-}+14\text{H}^+(aq)+\text{Cr}_2\text{O}^{2-}_7(aq) & \rightarrow 2\text{Cr}^{3+}(aq)+7\text{H}_2\text{O}(l) \\\hline14\text{H}^+(aq)+6\text{Fe}^{2+}(aq)+\text{Cr}_2\text{O}^{2-}_7(aq) & \rightarrow 6\text{Fe}^{3+}+2\text{Cr}^{3+}(aq)+7\text{H}_2\text{O}(l)
+Step 7:
+Check the balancing.
+In the above equation, there are 14 H, 6 Fe, 2 Cr, and 7 O on both sides.

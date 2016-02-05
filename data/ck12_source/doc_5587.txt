@@ -1,0 +1,20 @@
+metric prefixes:
+Prefixes used to distinguish between metric units of different sizes.
+Scientific Notation in Chemistry
+Define scientific (exponential) notation.
+Use this notation to simplify very large or very small numbers.
+A picture of the sun
+How far is the Sun from Earth?
+Astronomers are used to really big numbers.
+While the moon is only 406,697 km from earth at its maximum distance, the sun is much further away (150 million km).
+Proxima Centauri, the star nearest the earth, is 39, 900, 000, 000, 000 km away and we have just started on long distances.
+On the other end of the scale, some biologists deal with very small numbers: a typical fungus could be as small as 30 μmeters (0.000030 meters) in length and a virus might only be 0.03 μmeters (0.00000003 meters) long.
+Scientific notation is a way to express numbers as the product of two numbers: a coefficient and the number 10 raised to a power.
+It is a very useful tool for working with numbers that are either very large or very small.
+As an example, the distance from Earth to the Sun is about 150,000,000,000 meters – a very large distance indeed.
+In scientific notation, the distance is written as 1.5 × 10 11 m.
+The coefficient is the 1.5 and must be a number greater than or equal to 1 and less than 10.  The power of 10, or exponent, is 11 because you would have to multiply 1.5 by 10 11 to get the correct number.
+Scientific notation is sometimes referred to as exponential notation.
+A summary of SI units is given in Table below .
+1 gigameter (Gm) = 10 9 m
+1 megameter (Mm) = 10 6 m

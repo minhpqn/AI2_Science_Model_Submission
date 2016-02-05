@@ -1,0 +1,20 @@
+The force that causes two particles to pull towards each other
+mass:
+A measure of the amount of matter that an object contains.
+The mass of an object is made in comparison to the standard mass of 1 kilogram.
+weight:
+A measure of force that is equal to the gravitational pull on an object.
+The weight of an object is dependent on its location.
+SI Kinetic Energy Units
+Define kinetic energy.
+Define potential energy.
+Write the expression for calculating energy in joules.
+A picture of a cat
+Have you ever watched a cat in action?
+When cats are chasing something, they move very fast.
+We may comment, “That cat has a lot of energy”.
+In saying that, we are more correct than we realize.
+One form of energy is seen when an object is moving and this type of energy is the basis for many chemical processes.
+SI Kinetic Energy Units
+An object’s kinetic energy is the energy due to motion.
+Kinetic energy can be defined mathematically as

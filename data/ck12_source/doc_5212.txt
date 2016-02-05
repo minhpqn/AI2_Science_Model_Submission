@@ -1,0 +1,20 @@
+Once again Mendel began with a true-breeding P generation, but this time true-breeding for two characteristics.
+For example, he crossed pea plants that had yellow and round seeds with a plant that had green and wrinkled seeds.
+From Mendel's first experiments, yellow seed color is dominant to green seed color, and round seed shape is dominant to wrinkled.
+So for the F 1 generation, as before, the recessive traits disappeared, leaving Mendel with pea plants that had only round and yellow seeds.
+He then allowed the F 1 generation to self-pollinate, and examined the resulting F 2 generation.
+In the F 2 generation, the recessive traits reappeared, as did two novel combinations of traits: round green seeds, and wrinkled yellow seeds.
+From these results, Mendel concluded that characteristics were inherited independently of each other.
+That is the only way that the two new combinations of traits could have developed.
+From these findings, Mendel developed his second law, the Law of Independent Assortment.
+This chart represents Mendel's second set of experiments.
+It shows the outcome of a cross between plants that differ in seed color (yellow or green) and seed form (shown here with a smooth round appearance or wrinkled appearance).
+The letters R, r, Y, and y represent genes for the characteristics Mendel was studying.
+Mendel didn’t know about genes, however.
+Genes would not be discovered until several decades later.
+This experiment demonstrates that in the F2 generation, 9/16 were round yellow seeds, 3/16 were wrinkled yellow seeds, 3/16 were round green seeds, and 1/16 were wrinkled green seeds.
+Dihybrid Cross Summary
+Mendel's Dihybrid Cross
+F 1 generation
+F 2 generation
+round & yellow

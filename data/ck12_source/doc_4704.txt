@@ -1,0 +1,20 @@
+Instead, the conclusion of an inductive argument is very likely to be true, but you cannot be fully sure it is true because you are making a prediction about a fact that has yet to be proven.
+A classic example of inductive reasoning comes from the philosopher David Hume:
+Reason:
+The sun has risen in the east every morning up until now.
+Conclusion:
+The sun will also rise in the east tomorrow.
+Inductive reasoning involves reaching conclusions about unobserved things on the basis of what has already been observed.
+Induction is used regularly in fields such as archaeology, where inferences about the past from present are made.
+Inductions could also be made across outer space, as in astronomy, where conclusions about the whole universe are drawn from the limited number of observations we are able to make.
+deduction :
+Involves determining a single fact from a general statement.
+induction :
+Involves determining a general statement that is very likely to be true, from several facts; the relief of repression for a gene or set of genes under negative control.
+Any useful hypothesis will allow predictions based on reasoning.
+Reasoning can be broken down into two categories: deduction and induction.
+Most reasoning in science is formed through induction.
+Use this resource to answer the questions that follow.
+INDUCTIVE AND DEDUCTIVE REASONING at
+Click on the image above for more content
+What is the difference between inductive and deductive reasoning?

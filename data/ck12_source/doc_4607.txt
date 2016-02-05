@@ -1,0 +1,20 @@
+Include the role of antibodies in your response.
+If a disease destroyed a person’s helper T cells, how might this affect the ability to launch an immune response?
+What are memory cells?
+What is their role?
+Cell-Mediated Immune Response
+Describe the cell-mediated immune response.
+Identify the roles of T cells in a cell-mediated immune response.
+Summarize how T cells are activated.
+Distinguish between helper T cells, memory cells, cytotoxic T cells, and regulatory T cells.
+Do cells really attack other cells?
+They sure do.
+Depicted here is a group of T cells attacking a cancer cell.
+When they can, the T cells search out and destroy “bad” cells.
+Cell-Mediated Immune Response
+In addition to the humoral response, the other type of immune response is the cell-mediated immune response , which involves mainly T cells .
+It leads to the destruction of cells that are infected with viruses.
+Some cancer cells are also destroyed in this way.
+There are several different types of T cells involved in a cell-mediated immune response, including helper, cytotoxic, and regulatory T cells.
+You can watch an animation of this type of immune response at this link:
+T Cell Activation

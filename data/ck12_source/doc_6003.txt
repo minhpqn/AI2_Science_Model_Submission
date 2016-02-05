@@ -1,0 +1,20 @@
+The result is what you would expect.
+In order to make five ham sandwiches, you would need 10 slices of ham and 5 slices of cheese.
+This type of calculation demonstrates the use of stoichiometry.
+Stoichiometry is the calculation of the amount of substances in a chemical reaction from the balanced equation.
+The sample problem below is another stoichiometry problem involving ingredients of the ideal ham sandwich.
+Sample Problem:
+Ham Sandwich Stoichiometry
+Kim looks in the refrigerator and finds that she has 8 slices of ham.
+In order to make as many sandwiches as possible, how many pickles does she need?
+Use the equation above.
+Step 1:
+List the known quantities and plan the problem.
+have 8 ham slices (H)
+2 H = 5 P (conversion factor)
+How many pickles (P) needed?
+The coefficients for the two reactants (ingredients) are used to make a conversion factor between ham slices and pickles.
+Step 2:
+Solve.
+8 \ \text{H} \times \frac{5 \ \text{P}}{2 \ \text{H}}=20 \ \text{P}
+Since 5 pickles combine with 2 ham slices in each sandwich, 20 pickles are needed to fully combine with 8 ham slices.

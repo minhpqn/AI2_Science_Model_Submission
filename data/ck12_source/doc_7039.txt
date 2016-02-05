@@ -1,0 +1,20 @@
+If you measured the decay rates coming from each sample, which would you expect to have a higher decay rate ?
+Why?
+Answers to Selected Problems
+a.
+Substance A decays faster than B b.
+Substance B because there is more material left to decay.
+a. 5 \times 10^{24} atoms b.
+Decay of a lot of atoms in a short period of time c. 2.5 \times 10^{24} atoms d. \frac{1}{2} e. 26.6 minutes
+a.
+Substance B = 4.6 \;\mathrm{g} and substance A = 0.035 \;\mathrm{g} b. substance B
+The one with the short half life, because half life is the rate of decay.
+Describe how carbon dating works.
+Solve for the age of an artifact using the carbon dating technique.
+Students will develop an understanding of how carbon dating works and also learn to solve for the age of an artifact using the carbon dating technique.
+M = M_0 (\frac{1}{2})^{\frac{t}{t_H}}
+The amount of mass M of the substance surviving after an original \mathit{M}_0 nuclei decay for time t with a half-life of \mathit{t}_H
+Guidance Radioactive carbon dating is a technique that allows scientists to determine the era in which a sample of biological material died.
+A small portion of the carbon we ingest every day is actually the radioactive isotope ^{14}\mathrm{C} rather than the usual ^{12}\mathrm{C} .
+Since we ingest carbon every day until we die (we do this by eating plants; the plants do it through photosynthesis), the amount of ^{14}\mathrm{C} in us should begin to decrease from the moment we die.
+By analyzing the ratio of the number of ^{14}\mathrm{C} to ^{12}\mathrm{C} atoms in dead carbon-based life forms (including cloth made from plants!), we can determine how long ago the life form died.

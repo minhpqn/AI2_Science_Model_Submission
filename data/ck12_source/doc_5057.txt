@@ -1,0 +1,20 @@
+When the high-energy bond between phosphate groups in ATP breaks, its chemical energy can do cellular work.
+The bonds between phosphate groups can be broken and reformed, recycling this cellular energy.
+The source of energy for re-attaching the phosphate and making ATP is the chemical energy in glucose.
+Materials cycle and recycle, but energy gets used up and must be replaced.
+That is the key to understanding cellular respiration: it is a "recharging of the batteries" - ATP molecules – which power cellular work.
+How many ATP can be made by harnessing the energy in a single glucose molecule?
+Although this number varies under certain conditions, most cells can capture enough energy from one molecule of glucose to build 38 molecules of ATP.
+Our equation becomes:
+This equation for cellular respiration is not quite complete, however, because we can easily mix air and glucose sugar (even adding ADP and P i ) and nothing will happen.
+For the campfire, we indicated above the arrow that a necessary condition was a spark or match to start the reaction.
+A spark or match would damage or destroy living tissue.
+What necessary condition initiates the slow burn that is cellular respiration?
+Recall that enzymes are highly specific proteins which "speed up" or catalyze chemical reactions in living cells.
+More than 20 different enzymes are necessary to carry out cellular respiration.
+Recall also that membranes within organelles often sequence enzymes for efficiency, as in chloroplasts for photosynthesis, you will not be surprised that a specific organelle, the mitochondrion ( Figure below ), is also a necessary condition of cellular respiration - at least in eukaryotes.
+Illustration of an animal cell in cross section
+Mitochondria, shown here as the green ovals in this animal cell, are membranous organelles which sequence enzyme and electron carrier molecules to make cellular respiration highly efficient.
+Mitochondria have both an inner and outer membrane, with a matrix inside the inner membrane.
+The inner membrane has many internal folds, increasing the surface area for proteins and molecules involved in cellular respiration.
+Within each eukaryotic cell, the membranes of a few to a few thousand mitochondria sequence enzymes and electron carriers and compartmentalize ions so that cellular respiration proceeds efficiently.

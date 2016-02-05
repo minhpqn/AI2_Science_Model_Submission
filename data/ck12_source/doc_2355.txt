@@ -1,0 +1,20 @@
+Change this variable while controlling the others, and observe how it affects the movement of the object down the ramp.
+What are your manipulated variable and control variables?
+What is the responding variable?
+How does the responding variable change when you increase the value of the manipulated variable?
+What is an experiment?
+Distinguish between the manipulated variable and the responding variable in an experiment.
+Why is it important for other variables in an experiment to be controlled?
+Define field study.
+Identify reasons why a field study might be done.
+The environmental chemist in this photo is “fishing” for a sample of river water.
+He works for the US Environmental Protection Agency.
+He is looking for evidence of pollution in the water.
+Doing Science in the Field
+Although experiments are the “gold standard” for scientific investigations, sometimes it’s not possible or desirable to do experiments.
+Often it’s important to investigate a problem in the real world instead of in a lab.
+An investigation that gathers evidence in the real world—as the environmental chemist above is doing—is called a field study .
+Q:
+Why are field studies important for environmental scientists?
+A:
+To learn about the environment, scientists need to take measurements and make observations in the real world.

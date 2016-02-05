@@ -1,0 +1,20 @@
+When an object is launched exactly horizontally in projectile motion, it travels some distance horizontally before it strikes the ground.
+In the present discussion, we wish to imagine a projectile fired horizontally on the surface of the earth such that while traveling 1600 m horizontally, the object would fall exactly 0.20 m.
+If this could occur, then the object would fall exactly the amount necessary during its horizontal motion to remain at the surface of the earth, but not touching it.
+In such a case, the object would travel all the way around the earth continuously and circle the earth, assuming there were no obstacles, such as mountains.
+What initial horizontal velocity would be necessary for this to occur?
+We first calculate the time to fall the 0.20 m:
+t=\sqrt{\frac{2d}{a}}=\sqrt{\frac{(2)(0.20 \ \text{m})}{9.80 \ \text{m/s}^2}}=0.20 \ \text{s}
+The horizontal velocity necessary to travel 1600 m in 0.20 s is 8000 m/s.
+Thus, the necessary initial horizontal velocity is 8000 m/s.
+In order to keep an object traveling in a circular path, there must be an acceleration toward the center of the circle.
+This acceleration is called centripetal acceleration.  In the case of satellites orbiting the earth, the centripetal acceleration is caused by gravity.
+If you were swinging an object around your head on a string, the centripetal acceleration would be caused by your hand pulling on the string toward the center of the circle.
+It is important to note that the object traveling in a circle has a constant speed but does not have a constant velocity.
+This is because direction is part of velocity; when an object changes its direction, it is changing its velocity.
+Hence the object's acceleration.
+The acceleration in the case of uniform circular motion  is the change in the direction of the velocity, but not its magnitude.
+For an object traveling in a circular path, the centripetal acceleration is directly related to the square of the velocity of the object and inversely related to the radius of the circle.
+Taking a moment to consider the validity of this equation can help to clarify what it means.
+Imagine a yo-yo.
+Instead of using it normally, let it fall to the end of the string, and then spin it around above your head.

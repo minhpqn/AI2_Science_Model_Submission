@@ -1,0 +1,20 @@
+In science, we need to make observations on various phenomena to form and test hypotheses.
+Some phenomena can be found and studied in nature, but scientists often need to create an experiment .
+Experiments are tests under controlled conditions designed to demonstrate something scientists already know or to test something scientists wish to know.
+Experiments vary greatly in their goal and scale, but always rely on repeatable procedure and logical analysis of the results.
+The process of designing and performing experiments is a part of the scientific method.
+The Scientific Method
+The scientific method is the process used by scientists to acquire new knowledge and improve our understanding of the universe.
+It involves making observations on the phenomenon being studied, suggesting explanations for the observations, and testing these possible explanations, also called hypotheses , by making new observations.
+A hypothesis is a scientist's proposed explanation of a phenomenon which still must be tested.
+Scientists follow the steps of the scientific method in order to acquire new knowledge
+The scientific method is employed by scientists around the world, but it is not always conducted in the order above.
+Sometimes, hypothesis are formulated before observations are collected; sometimes observations are made before hypothesis are created.
+Regardless, it is important that scientists record their procedures carefully, allowing others to reproduce and verify the experimental data and results.
+After many experiments provide results supporting a hypothesis, the hypothesis becomes a theory .
+Theories remain theories forever, and are constantly being retested with every experiment and observation.
+Theories can never become fact or law .
+In science, a law is a mathematical relationship that exists between observations under a given set of conditions.
+There is a fundamental difference between observations of the physical world and explanations of the nature of the physical world.
+Hypotheses and theories are explanations, whereas laws and measurements are observational.
+The scientific method consists of making observations, formulating a hypothesis, testing the hypothesis with new observations, making a new hypothesis if the new observations contradict the old hypothesis, or continuing to test the hypothesis if the observations agree.

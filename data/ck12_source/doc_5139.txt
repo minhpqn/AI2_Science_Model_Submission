@@ -1,0 +1,20 @@
+autosome :
+Any chromosome other than a sex chromosome; chromosomes 1-22 in humans; unrelated to sex determination.
+centromere :
+Region that attaches two sister chromatids; approximately near the middle of a chromosome.
+chromatid :
+One of two identical copies of a chromosome; joined together at a centromere prior to cell division.
+chromatin :
+Grainy material form of uncoiled DNA; form of DNA during interphase of the cell cycle.
+chromosome :
+The coiled structure of DNA and histone proteins; allows for the precise separation of replicated DNA; forms during prophase of mitosis and meiosis.
+diploid :
+The state of a cell containing two sets of chromosomes; in human somatic cells, two sets is 46 (23 pairs) chromosomes, 2n.
+gene :
+A segment of DNA that contains information to encode an RNA molecule or a single polypeptide.
+gene expression :
+The process by which the information in a gene is "decoded" to produce a functional gene product, such as an RNA molecule or a polypeptide/protein molecule.
+haploid :
+The state of a cell containing one set of chromosomes; in human gametes, one set is 23 chromosomes, n .
+homologous chromosomes :
+A pair of chromosomes (one from each parent) consisting of two chromosomes that are similar in size, shape, and genes; also known as homologues.

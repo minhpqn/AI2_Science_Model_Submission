@@ -1,0 +1,20 @@
+Atomic radii of the representative elements measured in picometers.
+The atomic radius of atoms generally decreases from left to right across a period.
+There are some small exceptions, such as the oxygen radius being slightly greater than the nitrogen radius.
+Within a period, protons are added to the nucleus as electrons are being added to the same principal energy level.
+These electrons are gradually pulled closer to the nucleus because of its increased positive charge.
+Since the force of attraction between nuclei and electrons increases, the size of the atoms decreases.
+The effect lessens as one moves further to the right in a period because of electron-electron repulsions that would otherwise cause the atom’s size to increase.
+The atomic radius of atoms generally increases from top to bottom within a group.
+As the atomic number increases down a group, there is again an increase in the positive nuclear charge.
+However, there is also an increase in the number of occupied principle energy levels.
+Higher principal energy levels consist of orbitals which are larger in size than the orbitals from lower energy levels.
+The effect of the greater number of principal energy levels outweighs the increase in nuclear charge and so atomic radius increases down a group.
+A graph of atomic radius plotted versus atomic number.
+Each successive period is shown in a different color.
+As the atomic number increases within a period, the atomic radius decreases.
+Atomic radius is determined as the distance between the nuclei of two identical atoms bonded together.
+The atomic radius of atoms generally decreases from left to right across a period.
+The atomic radius of atoms generally increases from top to bottom within a group.
+Use the link below to answer the following questions:
+What influences the atomic size of an atom?

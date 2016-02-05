@@ -1,0 +1,20 @@
+Notice that the particular side chains of each amino acid are irrelevant since the R groups are not involved in the peptide bond.
+The dipeptide has a free amino group on one end of the molecule and a free carboxyl group on the other end.
+Each is capable of extending the chain through the formation of another peptide bond.
+The particular sequence of amino acids in a longer chain is called an amino acid sequence.
+By convention, the amino acid sequence is listed in the order such that the free amino group is on the left end of the molecule and the free carboxyl group is on the right end of the molecule.
+For example, suppose that a sequence of the amino acids glycine, tryptophan, and alanine is formed with the free amino group as part of the glycine and the free carboxyl group as part of the alanine.
+The amino acid sequence can be easily written using the abbreviations as Gly-Trp-Ala.
+This is a different sequence from Ala-Trp-Gly because the free amino and carboxyl groups would be on different amino acids in that case.
+Peptide is defined.
+The peptide bond is described.
+Read the material at the link below and answer the following questions:
+What class of reaction leads to formation of a peptide bond?
+What molecule is eliminated in this reaction?
+What class of organic compounds is the product of this reaction?
+What is a peptide bond?
+How is this different from an ester?
+You mix two amino acids together: glu and ser.
+If you reacted them, how many different dipeptides would you expect to get?
+List them.
+peptide:

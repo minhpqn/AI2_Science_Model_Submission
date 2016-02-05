@@ -1,0 +1,20 @@
+It occurs when electrons are transferred from one object to another.
+A sudden flow of electrons from one charged object to another is called static discharge.
+Examples of static discharge include lightning and the shock you sometimes feel when you touch another object.
+Watch the video at the following URL.
+Then answer the discussion questions.
+Read the background essay if you need help with any of the questions.
+What is static electricity?
+How does static discharge occur?
+Explain why a bolt of lightning is like the spark you might see when you touch a metal object and get a shock.
+Describe electric current.
+Explain why electric current occurs.
+Emily’s dad is giving his car battery a “jump” because the battery “died” overnight.
+He’s attaching cables to the terminals of the car battery.
+Then he will connect the other ends of the cables to the terminals of a “live” battery.
+The cables will carry electric current to the dead battery, providing the energy needed for the car to start.
+Electric current is a continuous flow of electric charges (electrons).
+Current is measured as the amount of charge that flows past a given point in a certain amount of time.
+The SI unit for electric current is the ampere (A), or amp.
+Electric current may flow in just one direction (direct current), or it may keep reversing direction (alternating current).
+You can watch an animation of electric current at this URL:

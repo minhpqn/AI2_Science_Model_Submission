@@ -1,0 +1,20 @@
+You’ve probably used objects like these many times.
+The photos show a TV remote (left) and a calculator (right).
+Both of them run on electric current.
+Current requires a source of voltage, which is a difference in electric potential energy.
+Q:
+The source of voltage is different in the remote and the calculator.
+Do you know what source of voltage each device uses?
+A:
+The TV remote uses chemical cells as a source of voltage.
+The calculator uses a solar cell.
+Chemical cells are found in batteries.
+They produce voltage by means of chemical reactions.
+Chemical cells have two electrodes, which are strips of different materials, such as zinc and carbon.
+The electrodes are suspended in an electrolyte.
+This is a substance that contains free ions, which can carry electric current.
+The electrolyte may be either a paste, in which case the cell is called a dry cell, or a liquid, in which case the cell is called a wet cell.
+Flashlight batteries contain dry cells.
+Car batteries contain wet cells.
+The Figure below shows how a battery works.
+The diagram represents the simplest type of battery, one that contains a single chemical cell.

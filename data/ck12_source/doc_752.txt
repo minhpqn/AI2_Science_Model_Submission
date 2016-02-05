@@ -1,0 +1,20 @@
+What drives the current through the circuit?
+What inhibits the flow of current in the circuit?
+The following link provides instructional material, example problems, and a quiz on electric current:
+The current through a light bulb connected across the terminals of a 120 V outlet is 0.50 A.
+At what rate does the bulb convert electric energy to light?
+A 12.0 V battery causes a current of 2.0 A to flow through a lamp.
+What is the power used by the lamp?
+What current flows through a 100.
+W light bulb connected to a V outlet?
+The current through a motor is 210 A.
+If a battery keeps a 12.0 V potential difference across the motor, what electric energy is delivered to the motor in 10.0 s?
+electric current:
+A measure of the amount of electrical charge transferred per unit time.
+It represents the flow of electrons through a conductive material or, in the case of conventional current, the flow of positive holes through a conductive material.
+conventional current:
+In a majority of electric currents, the moving charges are negative electrons.
+However, due to historical reasons dating back to Ben Franklin, we say that conventional current flows in the direction positive charges would move.
+Although inconvenient, it’s fairly easy to keep straight if you just remember that the actual moving charges, the electrons, flow in a direction opposite that of the electric current.
+resistance:
+Defined as the ability of a substance to prevent or resist the flow of electrical current.

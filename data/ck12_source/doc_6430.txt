@@ -1,0 +1,20 @@
+Baking better biscuits
+Baking seems easy with all the pre-mixed items available (“just add water and stir”).
+But there is a good amount of chemistry involved in baking with ingredients that you measure out.
+One important ingredient is baking powder.
+The fluffiness in the final product of a non-yeast recipe is usually due to carbon dioxide formed from baking powder.
+One popular brand uses a mix of sodium bicarbonate and sodium aluminum sulfate to produce the CO 2 .
+The reaction is seen below:
+3 \text{NaHCO}_3+\text{NaAl(SO}_4)_2 \rightarrow \text{Al(OH)}_3+2\text{Na}_2\text{SO}_4+3\text{CO}_2
+If all goes well, the biscuits rise, the pancakes are fluffy, and everybody is happy.
+Hydrolysis of Salts:
+Equations
+A salt is an ionic compound that is formed when an acid and a base neutralize each other.
+While it may seem that salt solutions would always be neutral, they can frequently be either acidic or basic.
+Consider the salt formed when the weak acid hydrofluoric acid is neutralized by the strong base sodium hydroxide.
+The molecular and net ionic equations are shown below.
+& \text{HF}(aq)+\text{NaOH}(aq) \rightarrow \text{NaF}(aq)+\text{H}_2\text{O}(l) \\& \text{HF}(aq)+\text{OH}^-(aq) \rightarrow \text{F}^-(aq)+\text{H}_2\text{O}(l)
+Since sodium fluoride is soluble, the sodium ion is a spectator ion in the neutralization reaction.
+The fluoride ion is capable of reacting, to a small extent, with water, accepting a proton.
+\text{F}^-(aq)+\text{H}_2\text{O}(l) \rightleftarrows \text{HF}(aq)+\text{OH}^-(aq)
+The fluoride ion is acting as a weak Brønsted-Lowry base.

@@ -1,0 +1,20 @@
+A model of a channel protein and carrier proteins is shown in Figure below .
+Facilitated diffusion through the cell membrane
+Facilitated diffusion through the cell membrane.
+Channel proteins and carrier proteins are shown (but not a gated-channel protein).
+Water molecules and ions move through channel proteins.
+Other ions or molecules are also carried across the cell membrane by carrier proteins.
+The ion or molecule binds to the active site of a carrier protein.
+The carrier protein changes shape, and releases the ion or molecule on the other side of the membrane.
+The carrier protein then returns to its original shape.
+An animation depicting facilitated diffusion can be viewed at
+Click on the image above for more content
+Ions such as sodium (Na + ), potassium (K + ), calcium (Ca 2+ ), and chloride (Cl - ), are important for many cell functions.
+Because they are charged (polar), these ions do not diffuse through the membrane.
+Instead they move through ion channel proteins where they are protected from the hydrophobic interior of the membrane.
+Ion channels allow the formation of a concentration gradient between the extracellular fluid and the cytosol.
+Ion channels are very specific, as they allow only certain ions through the cell membrane.
+Some ion channels are always open, others are "gated" and can be opened or closed.
+Gated ion channels can open or close in response to different types of stimuli, such as electrical or chemical signals.
+Facilitated diffusion is the diffusion of solutes through transport proteins in the plasma membrane.
+Channel proteins, gated channel proteins, and carrier proteins are three types of transport proteins that are involved in facilitated diffusion.

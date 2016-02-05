@@ -1,0 +1,20 @@
+Was the driver above the posted 60\;\mathrm{MPH} speed limit?
+Force is applied in the direction of motion to a 15.0\;\mathrm{kg} cart on a frictionless surface.
+The motion is along a straight line and when t = 0 , then x = 0 and v = 0 . (The displacement and velocity of the cart are initially zero.) Look at the following graph:
+What is the change in momentum during the first 5 sec?
+What is the change in velocity during the first 10 sec?
+What is the acceleration at 4 sec?
+What is the total work done on the cart by the force from 0 - 10 sec?
+What is the displacement after 5 sec?
+Force is applied in the direction of motion to a 4.00\;\mathrm{kg} cart on a frictionless surface.
+The motion is along a straight line and when t = 0, v = 0 and x = 0 . look at the following graph:
+What is the acceleration of the cart when the displacement is 4\;\mathrm{m} ?
+What work was done on the cart between x = 3\;\mathrm{m} and x = 8\;\mathrm{m} ?
+What is the total work done on the cart between 0 -10\;\mathrm{m} ?
+What is the speed of the cart at x = 10\;\mathrm{m} ?
+What is the impulse given the cart by the force from 1 - 10\;\mathrm{m} ?
+What is the speed at x = 8\;\mathrm{m} ?
+How much time elapsed from when the cart was at x = 8 to when it got to x = 10\;\mathrm{m} ?
+Answers to Selected Problems
+a. 10 \;\mathrm{m/s} b. 52\;\mathrm{m}
+Energy Problem Solving

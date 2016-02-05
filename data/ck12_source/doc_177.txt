@@ -1,0 +1,20 @@
+In scientific notation, the mass of a lead atom is 3.4 × 10 -34 g, and the distance from our galaxy to the Andromeda galaxy is 2.5 × 10 19 km.
+A number is expressed in scientific notation by moving the decimal so that exactly one non-zero digit is on the left of the decimal and the exponent of 10 will be the number of places the decimal was moved.
+If the decimal is moved to the left, the exponent is positive and if the decimal was moved to the right, the exponent is negative.
+All significant figures are maintained in scientific notation.
+Significant figures are explained below.
+Example:
+Express 13,700,000,000 in scientific notation.
+Solution:
+Since the decimal will be moved to the left 10 places, the exponent will be 10.
+So, the correct notation is 1.37 × 10 10 .
+Example:
+Express 0.000000000000000074 in scientific notation.
+Solution:
+Since the decimal will be moved to the right 17 places, the exponent will be -17.
+So the correct scientific notation is 7.4 × 10
+Example:
+Express the number 8.43 × 10 5 in expanded form.
+Solution: 10 5 is 100,000 so 8.43 × 10 5 is 8.43 × 100,000 or 843,000.
+Operations with Exponential Numbers
+In order to add or subtract numbers in scientific notation, the exponents must be the same.

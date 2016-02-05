@@ -1,0 +1,20 @@
+What is an alkene?
+What is an alkyne?
+Can a compound have more than one carbon-carbon double bond in it?
+alkene:
+A hydrocarbon with one or more carbon-carbon double covalent bonds.
+alkyne:
+A hydrocarbon with one or more carbon-carbon triple covalent bonds.
+unsaturated hydrocarbon:
+A hydrocarbon that contains less than the maximum number of hydrogen atoms that can possibly bond with the number of carbon atoms present.
+Define structural isomer and give examples.
+Define geometric isomer and give examples.
+Compressed gas cylinders
+What difference does the isomer make?
+As we get more into the complexities of organic chemistry, we will see how molecular shape affects reactions.
+One common reaction for alkenes is the addition of hydrogen across the double bond to form the corresponding alkane.
+Because of the geometry of the reaction, the different 2-butene shapes have different heats of reaction.
+These differences are important both from a theoretical standpoint as well as from the point of view of industrial applications.
+Greater energy requirements mean a higher cost and a more expensive product.
+One of the interesting aspects of organic chemistry is that it is three-dimensional.
+A molecule can have a shape in space that may contribute to its properties.

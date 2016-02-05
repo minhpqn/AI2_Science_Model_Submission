@@ -1,0 +1,20 @@
+Does  K_{eq} change for a given reaction at a given temperature?
+What does ICE stand for?
+Will the equilibrium position change if materials are added to or removed from the reaction?
+How does addition or removal of materials affect the K_{eq} ?
+Initial Change Equilibrium (ICE):
+A calculation that looks at the initial conditions, change, and new equilibrium in a reaction.
+Solubility Product Constant (Ksp)
+Define solubility product constant.
+Perform calculations involving solubility product constants.
+Gravimetric analysis used to be used to determine the amount of ion present in a solution
+No more weighing
+At one time, a major analytical technique was gravimetric analysis.
+An ion would be precipitated out of solution, purified, and weighed to determine the amount of that ion in the original material.
+As an example, measurement of Ca 2+ involved dissolving the sample in water, precipitating the calcium as calcium oxalate, purifying the precipitate, drying it, and weighing the final product.
+Although this approach can be very accurate (atomic weights for many elements were determined this way), the process is slow, tedious, and prone to a number of errors in technique.
+Newer methods are now available that measure minute amounts of calcium ions in solution without the long, involved gravimetric approach.
+Solubility Product Constant
+Ionic compounds have widely differing solubilities.
+Sodium chloride has a solubility of about 360 g per liter of water at 25°C.
+Salts of alkali metals tend to be quite soluble.

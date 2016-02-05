@@ -1,0 +1,20 @@
+A chemical compound may be very different from the substances that combine to form it.
+For example, the element chlorine (Cl) is a poisonous gas, but when it combines with sodium (Na) to form sodium chloride (NaCl), it is no longer toxic.
+You may even eat it on your food.
+Sodium chloride is just table salt.
+What process changes a toxic chemical like chlorine into a much different substance like table salt?
+A chemical reaction is a process that changes some chemical substances into other chemical substances.
+The substances that start a chemical reaction are called reactants .
+The substances that form as a result of a chemical reaction are called products .
+During the reaction, the reactants are used up to create the products.
+For example, when methane burns in oxygen, it releases carbon dioxide and water.
+In this reaction, the reactants are methane (CH 4 ) and oxygen (O 2 ), and the products are carbon dioxide (CO 2 ) and water (H 2 O).
+A chemical reaction can be represented by a chemical equation.
+Using the same example, the burning of methane gas can be represented by the equation:
+CH 4 + 2 O 2 → CO 2 + 2 H 2 O.
+The arrow in a chemical equation separates the reactants from the products and shows the direction in which the reaction occurs.
+If the reaction could also occur in the opposite direction, then two arrows, one pointing in each direction, or one arrow pointing in both directions, would be used.
+On each side of the arrow, a mixture of chemicals is indicated by the chemical symbols joined by a plus sign (+).
+The numbers preceding some of the chemical symbols (such as 2 O 2 ) indicate how many molecules of the chemicals are involved in the reaction. (If there is no number in front of a chemical symbol, it means that just one molecule is involved.)
+In a chemical reaction, the quantity of each element does not change.
+There is the same amount of each element at the end of the reaction as there was at the beginning.

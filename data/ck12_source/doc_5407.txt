@@ -1,0 +1,20 @@
+They function as a control switch in many cellular functions, turning a function on or off, and regulating other cellular processes.
+Many times they are involved in activating a cascade of reactions.
+Tyrosine kinases may be either membrane bound receptors, with an intracellular kinase domain, or they may be cytoplasmic kinases.
+As their names imply, tyrosine kinases phosphorylate tyrosine residues and serene/threonine kinases phosphorylate serene or threonine residues.
+Transcription factors are DNA binding proteins involved in the regulation of transcription, and GTPases are a large family of enzymes that can bind and hydrolyze GTP (guanosine triphosphate) to GDP.
+All these processes are related in that they involve phosphate groups and phosphorylation activities.
+The phosphorylation of a target protein usually is an initial step in a cascade of intracellular processes, and is normally activated under specific conditions.
+If these processes are constitutively active, then homeostasis will be disrupted and detrimental phenotypes may result.
+More on protein kinases can be seen at
+Growth factors, or mitogens
+Usually secreted by specialized cells to induce cell proliferation in the cell, nearby cells, or distant cells.
+An oncogene may cause a cell to secrete growth factors that would normally not be secreted.
+The oncogene will thereby induce its own uncontrolled proliferation, as well as the proliferation of neighboring cells.
+It may also cause production of growth hormones in other parts of the body.
+Receptor tyrosine kinases
+epidermal growth factor receptor (EGFR), platelet-derived growth factor receptor (PDGFR), vascular endothelial growth factor receptor (VEGFR), HER2/neu
+Receptor tyrosine kinases add phosphate groups to other proteins to activate or inactivate them.
+Receptor kinases add phosphate groups to receptor proteins at the surface of the cell.
+These receptor proteins receive signals from outside the cell and initiate a signal transduction process inside the cell.
+Tyrosine kinases add phosphate groups to tyrosine residues in the target protein.

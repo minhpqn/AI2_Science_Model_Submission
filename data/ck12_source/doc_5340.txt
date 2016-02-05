@@ -1,0 +1,20 @@
+The difference between ribose and deoxyribose is the lack of a hydroxyl group attached to the pentose ring in the 2' position of deoxyribose.
+Though both RNA and DNA contain the nitrogenous bases adenine, guanine and cytosine, RNA contains the nitrogenous base uracil instead of thymine.
+Uracil pairs with adenine in RNA, just as thymine pairs with adenine in DNA.
+Uracil and thymine have very similar structures; uracil is an unmethylated form of thymine.
+The nucleotide sequence of RNA, which is complementary to the DNA sequence, allows RNA to encode genetic information.
+RNA though carries the genetic information of just one gene.
+Hence, compared to DNA, RNA molecules are relatively small.
+A comparison of RNA and DNA is shown in the Table below and Figure below .
+moves to cytoplasm
+stays in nucleus
+3 types: mRNA, tRNA, rRNA
+generally 1 type
+A comparison of RNA and DNA.
+RNA is single stranded and contains the base uracil, which replaces thymine.
+Analysis of RNAs has revealed that they are highly structured.
+Unlike DNA, most RNAs, though single-stranded, do form specific secondary structures.
+Like proteins, the folded structure of the RNA is specific and gives the RNA functional properties.
+Some RNAs contain self-complementary sequences that allow parts of the RNA to fold and pair with itself to form double helices.
+RNA nucleotides base-pair like DNA nucleotides, however in DNA, this base-pairing is necessary to form the double helix structure uniform to all DNA.
+In RNA, the base pairs would be A-U and G-C pairings.

@@ -1,0 +1,20 @@
+sublimation:
+The change of state from a gas to a solid.
+Define crystal lattice.
+High quality crystals are often used to generate precise laser beams
+What are the different uses of lasers?
+The development of modern lasers has opened many doors to both research and applications.
+A laser beam was used to measure the distance from the Earth to the moon.
+Lasers are important components of CD players.
+As the image above illustrates, lasers can provide precise focusing of beams to selectively destroy cancer cells in patients.
+The ability of a laser to focus precisely is due to high-quality crystals that help give rise to the laser beam.
+A variety of techniques are used to manufacture pure crystals for use in lasers.
+The majority of solids are crystalline in nature.
+A crystal is a substance in which the particles are arranged in an orderly, repeating, three-dimensional pattern.
+Particles of a solid crystal may be ions, atoms, or molecules, depending on the type of substance.
+The three-dimensional arrangement of a solid crystal is referred to as the crystal lattice .
+Different arrangements of the particles within a crystal cause them to adopt several different shapes.
+Crystals are classified into general categories based on their shapes.
+A crystal is defined by its faces, which intersect with one another at specific angles, which are characteristic of the given substance.
+The seven crystal systems are shown below, along with an example of each.
+The edge lengths of a crystal are represented by the letters a , b , and c .

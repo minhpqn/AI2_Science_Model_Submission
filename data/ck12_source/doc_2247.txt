@@ -1,0 +1,20 @@
+Star temperatures are measured in degrees kelvin.
+The lowest temperature on the kelvin scale is absolute zero.
+That means molecules have no motion.
+Kelvin is related to Celsius and Fahrenheit in these ways:
+[°C] = [K] − 273.15
+[°F] = [K] × 9/5 − 459.67
+A graph of the brightness (absolute magnitude) of stars versus their color (temperature) is pictured below ( Figure below ).
+This is called Hertzsprung-Russell diagram.
+The Hertzsprung-Russell diagram plots luminosity against star color with the hottest stars on the left side
+The Hertzsprung-Russell diagram plots luminosity (absolute magnitude) against the color of the stars ranging from the high-temperature blue-white stars on the left side of the diagram to the low temperature red stars on the right side.
+Most stars fall along the main sequence curve.
+Stars in the main sequence fuse hydrogen into helium in the core.
+The horizontal branch also has many stars.
+These fuse helium in the core and burn hydrogen surrounding the core.
+Other stars are found in other regions.
+This diagram compares the relative sizes of stars of different masses
+Relative sizes of stars of different masses.
+This illustration ( Figure above ) shows the relative sizes of stars and their mass compared to the Sun.
+Red dwarfs are less massive and much smaller in size than the Sun.
+This means they have a very long lifetime.

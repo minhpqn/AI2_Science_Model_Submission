@@ -1,0 +1,20 @@
+What do we know about the space actually taken up by a gas?
+Why do we need to do all our comparisons at the same temperature and pressure?
+How can we use this information?
+Avogadro’s hypothesis:
+Equal volumes of all gases at the same temperature and pressure contain equal numbers of particles.
+molar volume:
+The volume of one mole of a gas at STP.
+standard temperature and pressure (STP):  0°C (273.15 K) and 1 atm pressure.
+Conversions between Moles and Gas Volume
+Make conversions between the volume of a gas and the number of moles of that gas.
+Gas volumes can be used to determine the moles of gas in these tanks
+How can you tell how much gas is in these containers?
+Small gas tanks are often used to supply gases for chemistry reactions.  A gas gauge will give some information about how much is in the tank, but quantitative estimates are needed so the reaction will be able to proceed to completion.  Knowing how to calculate needed parameters for gases is very helpful to avoid running out too early.
+Conversions Between Moles and Gas Volume
+Molar volume at STP can be used to convert from moles to gas volume and from gas volume to moles.  The equality of 1 mole = 22.4 L is the basis for the conversion factor.
+Sample Problem One:
+Converting Gas Volume to Moles
+Many metals react with acids to produce hydrogen gas.  A certain reaction produces 86.5 L of hydrogen gas at STP.  How many moles of hydrogen were produced?
+Step 1:
+List the known quantities and plan the problem.

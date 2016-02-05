@@ -1,0 +1,20 @@
+When Mendeleev put his periodic table together, nobody knew about the existence of the nucleus.  It was not until 1911 that Rutherford conducted his gold foil experiment that demonstrated the presence of the nucleus in the atom.
+Just two years later, in 1913, English physicist Henry Moseley (1887-1915) examined x-ray spectra of a number of chemical elements.
+He would shoot X-rays through crystals of the element and study the wavelengths of the radiation he detected.
+Moseley found that there was a relationship between wavelength and atomic number.
+His results led to the definition of atomic number as the number of protons contained in the nucleus of each atom.
+He then realized that the elements of the periodic table should be arranged in order of increasing atomic number rather than increasing atomic mass.
+The periodic table
+When ordered by atomic number, the discrepancies within Mendeleev’s table disappeared.
+Tellurium has an atomic number of 52, while iodine has an atomic number of 53.
+So even though tellurium does indeed have a greater atomic mass than iodine, it is properly placed before iodine in the periodic table.
+Mendeleev and Moseley are credited with being most responsible for the modern periodic law :
+When elements are arranged in order of increasing atomic number, there is a periodic repetition of their chemical and physical properties.
+The result is the periodic table as we know it today.
+Each new horizontal row of the periodic table corresponds to the beginning of a new period because a new principal energy level is being filled with electrons.
+Elements with similar chemical properties appear at regular intervals, within the vertical columns called groups .
+Elements of the periodic table are arranged in order of increasing atomic number.
+The periodic law states “When elements are arranged in order of increasing atomic number, there is a periodic repetition of their chemical and physical properties.”
+Use the link below to answer the following questions:
+Where did Moseley attend college?
+Who did he do research with after graduating from college?

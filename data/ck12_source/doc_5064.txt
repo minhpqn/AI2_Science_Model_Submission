@@ -1,0 +1,20 @@
+Just the splitting of glucose requires many steps, each transferring or capturing small amounts of energy.
+Individual steps appear in Figure below .
+Studying the pathway in detail reveals that cells must "spend" or "invest" two ATP in order to begin the process of breaking glucose apart.
+Note that the phosphates produced by breaking apart ATP join with glucose, making it unstable and more likely to break apart.
+Later steps harness the energy released when glucose splits, and use it to build "hot hydrogens" (NAD + is reduced to NADH) and ATP (ADP + P i → ATP).
+If you count the ATP produced, you will find a net yield of two ATP per glucose (4 produced – 2 spent).
+Remember to double the second set of reactions to account for the two 3-carbon molecules which follow that pathway!
+The "hot hydrogens" can power other metabolic pathways, or in many organisms, provide energy for further ATP synthesis.
+To summarize:
+In the cytosol of the cell, glycolysis transfers some of the chemical energy stored in one molecule of glucose to two molecules of ATP and two NADH.
+This makes (some of) the energy in glucose, a universal fuel molecule for cells, available to use in cellular work - moving organelles, transporting molecules across membranes, or building large organic molecules.
+Although glycolysis is universal, pathways leading away from glycolysis vary among species depending on the availability of oxygen.
+If oxygen is unavailable, pyruvate may be converted to lactic acid or ethanol and carbon dioxide in order to regenerate NAD + , ending anaerobic respiration.
+Anaerobic respiration is also called fermentation , which will be discussed in another concept.
+If oxygen is present, pyruvate enters the mitochondria for further breakdown, releasing far more energy and producing many additional molecules of ATP in the latter two stages of aerobic respiration - the Krebs cycle and electron transport chain.
+We will explore these, too, in a later section.
+A summary of glycolysis can be viewed at
+Click on the image above for more content
+aerobic respiration :
+Cellular respiration in the presence of oxygen; produces 36-38 ATP molecules/glucose.

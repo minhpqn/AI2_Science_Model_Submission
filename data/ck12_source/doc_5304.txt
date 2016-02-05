@@ -1,0 +1,20 @@
+There are a number of mechanisms used to replace or repair a defective gene in gene therapy.
+A normal gene may be inserted into a nonspecific location within the genome to replace a nonfunctional gene.
+This approach is most common.
+An abnormal gene could be replaced by a normal gene through homologous recombination.
+The abnormal gene could be repaired through selective reverse mutation, which returns the gene to its normal, non-mutant state.
+The regulation (the degree to which a gene is turned on or off) of a particular gene could be altered.
+As stated above, the most common gene therapy approach is to replace a disease-causing allele with a normal allele.
+To deliver the new allele to the appropriate cells, a carrier, called a vector , must be used.
+Currently, the most common type of vectors are viruses that have been genetically altered to carry normal human DNA, and not to result in any phenotypes associated with the virus.
+As viruses have evolved a robust method of delivering their viral genes to human cells, scientists have tried to develop (and are continuing to develop) methods to take advantage of this process, and have these vectors insert human DNA into target cells.
+Scientists have manipulated the viral genome to remove disease-causing genes and insert therapeutic human genes ( Figure below ).
+For obvious reasons, this is currently a field of intense biomedical research.
+Gene Therapy using a viral vector.
+The new gene is inserted into the viral genome, the virus binds to the cell membrane and enters the cell by endocytosis.
+The viral genome, containing the new gene is injected into the cell nucleus, where the viral DNA is transcribed, starting the process of protein synthesis.
+A patient's target cells, such as liver or lung cells are infected with the genetically altered virus.
+The vector then unloads its genetic material containing the therapeutic human gene into the target cell.
+The generation of a functional protein product from the therapeutic gene should restore the target cell to a normally functioning phenotype.
+To date, this process has had limited success, but further research should improve results.
+Severe Combined Immunodeficiency

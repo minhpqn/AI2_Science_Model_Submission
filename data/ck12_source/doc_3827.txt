@@ -1,0 +1,20 @@
+Mutation creates new genetic variation in a gene pool.
+It is how all new alleles first arise.
+In sexually reproducing species, the mutations that matter for evolution are those that occur in gametes.
+Only these mutations can be passed to offspring.
+For any given gene, the chance of a mutation occurring in a given gamete is very low.
+Thus, mutations alone do not have much effect on allele frequencies.
+However, mutations provide the genetic variation needed for other forces of evolution to act.
+Gene flow occurs when individuals move into or out of a population.
+If the rate of migration is high, this can have a significant effect on allele frequencies.
+The allele frequencies of both the population they leave and the population they enter may change.
+During the Vietnam War in the 1960s and 1970s, many American servicemen had children with Vietnamese women.
+Most of the servicemen returned to the United States after the war.
+However, they left copies of their genes behind in their offspring.
+In this way, they changed the allele frequencies in the Vietnamese gene pool.
+Was the gene pool of the American population also affected?
+Why or why not?
+Genetic drift is a random change in allele frequencies that occurs in a small population.
+When a small number of parents produce just a few offspring, allele frequencies in the offspring may differ, by chance, from allele frequencies in the parents.
+This is like tossing a coin.
+If you toss a coin just a few times, you may, by chance, get more or less than the expected 50 percent heads or tails.

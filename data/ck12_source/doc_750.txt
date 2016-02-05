@@ -1,0 +1,20 @@
+A circuit consists of a battery, or a charge pump, which increases the potential energy of the charges, and one or more devices that decrease the potential energy.
+As the potential energy is reduced, it is converted into some other form of energy.
+In the image above, the device that decreases the charges' potential energy is the light bulb; the excess energy is converted into light energy.
+Any device that reduces the potential energy of the charge flowing through it is said to have resistance  because it resists the flow of charge.
+Other resistors include motors, which convert energy into kinetic energy, and heaters, which convert it into thermal energy.
+The charges in the circuit can neither be created nor destroyed, nor can they pile up in one spot.
+The charged particles moving through the circuit move the same everywhere in the circuit.
+If one coulomb of charge leaves the charge pump, then one coulomb of charge moves through the light, and one coulomb of charge moves through the switch.
+The net change of energy through the circuit is zero.
+That is, the increase in potential energy through the charge pump is exactly equal to the potential drop through the light.
+If the generator (charge pump) does 120 J of work on each coulomb of charge that it transfers, then the light uses 120 J of energy as the charge passes through the light.
+The electric current is measured in coulombs per second.
+A flow of one coulomb per second is called one ampere, A, of current.
+1.00 \ \text{Ampere}=\frac{1.00 \ \text{coulomb}}{1.00 \ \text{second}}
+The energy carried by an electric current depends on the charge transferred and the potential difference across which it moves, E = qV .
+The voltage or potential difference is expressed in Joules/coulomb and multiplying this by the charge in coulombs yields energy in Joules.
+Electrical power is a measure of the rate at which energy is transferred, and is expressed in watts, or Joules/second.
+Power can also be obtained by multiplying the voltage by the current:
+Power, P = VI = \left(\frac{\text{Joules}}{\text{coulomb}}\right)\left(\frac{\text{coulomb}}{\text{second}}\right) = \frac{\text{Joules}}{\text{second}} = \text{watts}.
+Example Problem:

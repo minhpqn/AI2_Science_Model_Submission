@@ -1,0 +1,20 @@
+Since m_1, m_2, v_1 , and  v_2 are known, only  v{_1}^\prime and v{_2}^\prime are unknown.
+When the known values are plugged into these two equations, we will have two equations with two unknowns.
+Such systems can be solved with algebra.
+(12.0 \ kg)(2.40 \ m/s) + (36.0 \ kg)(0 \ m/s) = (12.0 \ kg)(v{_1}^\prime) + (36.0 \ kg)(v{_2}^\prime)
+28.8 = 12.0 \ v{_1}^\prime + 36.0 \ v{_2}^\prime
+Solving this equation for  v{_1}^\prime yields v{_1}^\prime = 2.4 - 3 \ v{_2}^\prime
+\frac{1}{2} (12.0)(2.40)^2 + \frac{1}{2} (36.0)(0)^2 = \frac{1}{2} (12.0)(v{_1}^\prime)^2 + \frac{1}{2} (36.0)(v{_2}^\prime)^2
+69.1 = 12.0 \ {v{_1}^\prime}^2 + 36.0 \ {v{_2}^\prime}^2
+5.76 = {v{_1}^\prime}^2 + 3 \ {v{_2}^\prime}^2
+Substituting the equation for  v{_1}^\prime into this equation yields
+5.76 = (2.4 - 3 \ v{_2}^\prime)^2 + 3 \ {v{_2}^\prime}^2
+5.76 = 5.76 - 14.4 \ v{_2}^\prime + 9 \ {v{_2}^\prime}^2 + 3 \ {v{_2}^\prime}^2
+12 \ {v{_2}^\prime}^2 -14.4 \ v{_2}^\prime = 0
+12 \ v{_2}^\prime = 14.4
+v{_2}^\prime = 1.2 \ m/s
+Substituting this result back into v{_1}^\prime = 2.4 - 3 \ v{_2}^\prime , we get v{_1}^\prime = - 1.2 \ m/s .
+So, the heavier car is moving in the original direction at 1.2 m/s and the lighter car is moving backward at 1.2 m/s.
+The Science Of Bouncing
+What is bouncing?
+Why do some rubber balls bounce more than others?

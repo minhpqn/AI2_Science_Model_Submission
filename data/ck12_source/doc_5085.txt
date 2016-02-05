@@ -1,0 +1,20 @@
+Portland was the first city to require that all gasoline sold within the city limits contain at least 10% ethanol.
+By mid-2006, nearly 6 million “flex-fuel” vehicles – which can use gasoline blends up to 85% ethanol (E85 – Figure below ) were traveling US roads.
+This “new” industry employs an “old” crew of yeast and bacteria to make ethanol by an even older biochemical pathway – alcoholic fermentation .
+Alcoholic fermentation is a biochemical process in which sugars such as glucose, fructose, and sucrose are converted into small amounts of ATP, producing ethanol and carbon dioxide during the process.
+Ethanol provides up to 85% of the energy needs of new “flex-fuel” cars.
+Although its energy efficiency is still controversial, ethanol from corn or cellulose appears to be more “renewable” than fossil fuels.
+Many people consider renewable biofuels such as ethanol a partial solution to the declining availability of nonrenewable fossil fuels.
+Although controversy still surrounds the true efficiency of producing fuel from corn, ethanol is creeping into the world fuel resource picture ( Figure below ).
+One of the newest kids on the block, ethanol from corn or cellulose is produced by yeasts through alcoholic fermentation – an anaerobic type of respiration.
+You are probably most familiar with the term fermentation in terms of alcoholic beverages.
+You may not have considered that the process is actually a chemical reaction certain bacteria and yeasts use to make ATP.
+Like lactic acid fermentation, alcoholic fermentation, which is also referred to ethanol fermentation , processes pyruvate one step further in order to regenerate NAD + so that glycolysis can continue to make ATP, even in low oxygen environments.
+In this form of anaerobic respiration, pyruvate is broken down into ethyl alcohol (C 2 H 6 O) and carbon dioxide.
+C 3 H 3 O 3 (pyruvate) + NADH → C 2 H 5 OH (ethyl alcohol) + CO 2 + NAD +
+Alcoholic fermentation produces ethanol and NAD + .
+The NAD + allows glycolysis to continue making ATP.
+Fermentation by Yeast
+We have domesticated yeast ( Figure below and Figure below ) to carry out this type of anaerobic respiration for many commercial purposes.
+Some yeasts, such as the baker's yeast Saccharomyces cerevisiae, actually prefer fermentation over aerobic respiration.
+These yeasts will produce ethanol even under aerobic conditions.

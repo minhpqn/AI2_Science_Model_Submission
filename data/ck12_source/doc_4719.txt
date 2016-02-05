@@ -1,0 +1,20 @@
+The theory has been superseded by the understanding of natural selection on populations of organisms as the main means of evolution (Darwin's theory of evolution by natural selection), not physical changes to a single organism over its lifetime.
+Superseded theories like Lamarck’s theory of evolution are theories that are now considered obsolete and have been replaced by newer theories that have more evidence to support them.
+In Lamarck’s case, his theory was replaced by Darwin’s theory of evolution and natural selection, which will be further discussed in additional concepts.
+Scientific laws are similar to scientific theories, in that they are principles which can be used to predict the behavior of the natural world.
+Both scientific laws and scientific theories are typically well-supported by observations and/or experimental evidence.
+Usually scientific laws provide rules for how nature will behave under certain conditions.
+Scientific theories are more overarching explanations of how nature works and why it exhibits certain characteristics.
+A physical law or law of nature is a scientific generalization based on a sufficiently large number of empirical observations, so that it is accepted as fully verified.
+Isaac Newton's law of gravitation is a famous example of an established law that was later found not to be universal—it does not hold in experiments involving motion at speeds close to the speed of light or in close proximity of strong gravitational fields.
+However, outside these conditions, Newton's laws remain an excellent model of motion and gravity.
+Scientists never claim absolute knowledge of nature or the behavior of the subject of the field of study.
+A scientific theory is always open to falsification, if new evidence is presented.
+Even the most basic and fundamental theories may turn out to be imperfect if new observations are inconsistent with them.
+It is critical to make every relevant part of research publicly available.
+This allows for and encourages peer review of published results, and it also allows ongoing reviews, repetition of experiments and observations by many different researchers.
+Only by meeting these expectations can it be determined how reliable the experimental results are for possible use by others.
+law of nature :
+A scientific generalization based on a sufficiently large number of empirical observations so that it is taken as fully verified; physical law.
+physical law :
+A scientific generalization based on a sufficiently large number of empirical observations so that it is taken as fully verified; law of nature.

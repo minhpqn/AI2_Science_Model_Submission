@@ -1,0 +1,20 @@
+Acetic acid is stronger than carbonic acid, and so on.
+The Acid Ionization Constant, K_a
+The ionization for a general weak acid, HA, can be written as follows:
+\text{HA}(aq) \rightarrow \text{H}^+ (aq) + \text{A}^-(aq)
+Because the acid is weak, an equilibrium expression can be written.
+An acid ionization constant  (K_a) is the equilibrium constant for the ionization of an acid.
+The acid ionization represents the fraction of the original acid that has been ionized in solution.
+Therefore, the numerical value of  K_a is a reflection of the strength of the acid.
+Weak acids with relatively higher  K_a values are stronger than acids with relatively lower  K_a values.
+Because strong acids are essentially 100% ionized, the concentration of the acid in the denominator is nearly zero and the  K_a value approaches infinity.
+For this reason,  K_a values are generally reported for weak acids only.
+The Table below is a listing of acid ionization constants for several acids.
+Note that polyprotic acids have a distinct ionization constant for each ionization step, with each successive ionization constant being smaller than the previous one.
+Click on the image above to view the table
+Strong and weak acids are defined.
+The acid ionization constant  (K_a) is defined.
+Read the material at the link below and answer the following questions:
+Why is the [H 2 O] factor not included in the expression for K_a
+When we write H + , what are we really talking about?
+Which is the weaker acid: methanoic or ethanoic acid?

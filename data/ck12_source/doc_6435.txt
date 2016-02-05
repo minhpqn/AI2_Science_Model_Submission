@@ -1,0 +1,20 @@
+The production of hydronium ions causes the resulting solution to be acidic.
+The pH of a solution of ammonium chloride can be found in a very similar way to the sodium fluoride solution in Sample Problem 21.7.
+However, since the ammonium chloride is acting as an acid, it is necessary to know the K_a  of NH 4 + , which is 5.6 × 10 −10 .
+We will find the pH of a 2.00 M solution of NH 4 Cl.
+Because the NH 4 Cl completely ionizes, the concentration of the ammonium ion is 2.00 M.
+\text{NH}_4\text{Cl}(s)\rightarrow \text{NH}_4^+(aq)+\text{Cl} ^-(aq)
+Again, an ICE Table ( below ) is set up in order to solve for the concentration of the hydronium (or H + ) ion produced.
+[NH 4 + ]
+[H + ]
+[NH 3 ]
+2.00 - x
+Now substituting into the K_a expression gives:
+K_a &=5.6 \times 10^{-10}=\frac{x^2}{2.00-x} \approx \frac{x^2}{2.00} \\x &=[\text{H}^+]=\sqrt{5.6 \times 10^{-10}(2.00)}=3.3 \times 10^{-5} \ \text{M} \\\text{pH} &=- \log (3.3 \times 10^{-5})=4.48
+A salt produced from a strong acid and a weak base yields a solution that is acidic.
+Calculations to determine pH of salt solutions are described.
+Work the problems at the link below:
+In the first example, how do we know that we can ignore  x when determining [F - ]?
+In example two, how do we know the ammonium ion concentration?
+Could we write the equilibrium in example two as \text{NH}_4^+ \rightleftarrows \text{H}^+ + \text{NH}_3 ?
+Define buffer capacity.

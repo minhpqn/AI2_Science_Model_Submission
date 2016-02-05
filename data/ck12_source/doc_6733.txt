@@ -1,0 +1,20 @@
+The Big Idea
+In the absence of a net force, objects move in a straight line.
+If they turn — that is, if their velocity changes, even only in direction — there must be an applied force.
+Forces which cause objects to turn around continuously in a circle are known as centripetal forces.
+When an object moves in a circle its velocity at any particular instant points in a direction tangent to the circle.
+The acceleration points towards the center of the circle, and so does the force acting on it.
+This is only natural, when you think about it — if you feel a force pushing you towards your left as you walk forward, you will walk in a circle, always turning left.
+Describe the velocity, speed and acceleration in circular motion.
+Students will learn that in circular motion there is always an acceleration (and hence a force) that points to the center of the circle defined by the objects motion.
+This force changes the direction of the velocity vector of the object but not the speed.
+Students will also learn how to calculate that speed using the period of motion and the length of its path (circumference of the circle it traces out).
+v = \frac{2 \pi r} {T}
+If a particle travels a distance 2 \pi r in an amount of time T , then its speed is distance over time or \frac{2 \pi r}{T}
+The Earth-Sun distance is about 1.5 \times 10^{11} \ m The Earth-Moon distance is about 3.84 \times 10^8 \ m
+An orbital period, T , is the time it takes to make one complete rotation.
+If a particle travels a distance 2\pi r in an amount of time T , then its speed is distance over time or 2 \pi r /T .
+An object moving in a circle has an instantaneous velocity vector tangential to the circle of its path.
+The force and acceleration vectors point to the center of the circle.
+Net force and acceleration always have the same direction.
+Centripetal acceleration is just the acceleration provided by centripetal forces.

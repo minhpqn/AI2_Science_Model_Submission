@@ -1,0 +1,20 @@
+Solve.
+\Delta G^\circ&=-RT \ln K_{eq} \\&=-8.314 \ \text{J} / \text{K} \cdot \text{mol}(298 \ \text{K}) \ln (1.4 \times 10^{-8}) \\&=45,000 \ \text{J} / \text{mol} \\&=45 \ \text{kJ} / \text{mol}
+Step 3:
+Think about your result.
+The large, positive  \Delta G^\circ indicates that the solid lead(II) iodide is nearly insoluble and so very little of the solid is dissociated at equilibrium.
+The relationship between  \Delta G  and  K_{eq} is described.
+Calculations involving these two parameters are shown.
+Read the material at the link below and answer the following questions:
+What is the difference between \Delta G  and \Delta G^\circ ?
+At equilibrium, why does the equation between free energy and equilibrium constant reduce to \Delta G^\circ = -RT \ln K_{eq} ?
+What other equilibrium units could we use?
+When  K_{eq} is large, what will be the sign of \Delta G  ?
+When  K_{eq} is small, are reactants or products favored?
+What does  R stand for?
+Image copyright bogdan ionescu, 2014.
+Laura Guerin.
+CK-12 Foundation .
+Courtesy of Jim Peaco, National Park Service.
+Image copyright TFoxFoto, 2014.  .
+Courtesy of Peggy Greb, U.S.

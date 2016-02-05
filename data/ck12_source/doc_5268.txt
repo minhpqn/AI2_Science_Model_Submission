@@ -1,0 +1,20 @@
+Sex-linked genes are located on either the X or Y chromosome, though it more commonly refers to genes located on the X-chromosome.
+For that reason, the genetics of sex-linked (or X-linked ) diseases, disorders due to mutations in genes on the X-chromosome, results in a phenotype usually only seen in males.
+Can you explain why?
+In humans, the Y chromosome spans 58 million bases and contains about 78 to 86 genes, which code for only 23 distinct proteins, making the Y chromosome one of the smallest chromosomes.
+The X chromosome, on the other hand, spans more than 153 million bases and represents about 5% of the total DNA in women's cells, 2.5% in men's cells.
+The X chromosome contains about 2,000 genes, however few, if any, have anything to do with sex determination.
+The Y chromosome is the sex-determining chromosome in humans and most other mammals.
+In mammals, it contains the gene SRY (sex-determining region Y), which encodes the testes-determining factor and triggers testis development, thus determining sex.
+It is the presence or absence of the Y chromosome that determines sex.
+Sex-linked traits are discussed at
+Click on the image above for more content
+Early in embryonic development in females, one of the two X chromosomes is randomly inactivated in nearly all somatic cells.
+The inactive X chromosome is silenced by packaging into transcriptionally inactive heterochromatin.
+This process, called X-inactivation , ensures that females, like males, have only one functional copy of the X chromosome in each cell.
+X-inactivation creates a Barr body, named after their discover, Murray Barr.
+The Barr body chromosome is generally considered to be inactive, however there are a small number of genes that remain active and are expressed.
+Inactivating one X chromosome prevents any detrimental effects of having twice as many X-linked genes as males.
+X-inactivation is a dosage compensation process.
+XIST and TSIX
+RNA plays an important role in X inactivation.

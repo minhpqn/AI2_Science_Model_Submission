@@ -1,0 +1,20 @@
+Predicting Offspring Phenotypes
+You can predict the percents of phenotypes in the offspring of this cross from their genotypes.
+B is dominant to b , so offspring with either the BB or Bb genotype will have the purple-flower phenotype.
+Only offspring with the bb genotype will have the white-flower phenotype.
+Therefore, in this cross, you would expect three out of four (75 percent) of the offspring to have purple flowers and one out of four (25 percent) to have white flowers.
+These are the same percents that Mendel obtained in his first experiment.
+The Punnett square is visual representation of Mendelian inheritance.
+dihybrid cross :
+A cross in which the inheritance of two characteristics are tracked at the same time.
+monohybrid cross :
+A hybridization in which only one characteristic is examined.
+Punnett square :
+A diagram that helps predict the probable inheritance of alleles in different crosses.
+A Punnett square shows all the possible genotypes that can result from a given cross.
+It is also used to predict possible phenotypes in offspring.
+Use this resource to answer the questions that follow.
+\rightarrow Non-Majors Biology \rightarrow Search:
+The Punnett Square
+What is a Punnett square?
+What is the size of a Punnett square used in a dihybrid cross?

@@ -1,0 +1,20 @@
+The smaller masses are m_A and m_B ; the angle of the incline is \theta , and the coefficient of kinetic friction between each of the masses and the incline has been measured and determined to be \mu_K .
+Draw free body diagrams for each of the three masses.
+Calculate the magnitude of the frictional force on each of the smaller masses in terms of the given quantities.
+Calculate the net force on the hanging mass in terms of the given quantities.
+Calculate the magnitudes of the two tension forces T_A and T_B in terms of the given quantities.
+Design and state a strategy for solving for how long it will take the larger mass to hit the ground, assuming at this moment it is at a height h above the ground.
+Do not attempt to solve this: simply state the strategy for solving it.
+You build a device for lifting objects, as shown below.
+A rope is attached to the ceiling and two masses are allowed to hang from it.
+The end of the rope passes around a pulley (right) where you can pull it downward to lift the two objects upward.
+The angles of the ropes, measured with respect to the vertical, are shown.
+Assume the bodies are at rest initially.
+Suppose you are able to measure the masses m_1 and m_2 of the two hanging objects as well as the tension T_C .
+Do you then have enough information to determine the other two tensions, T_A and T_B ?
+Explain your reasoning.
+If you only knew the tensions T_A and T_C , would you have enough information to determine the masses m_1 and m_2 ?
+If so, write m_1 and m_2 in terms of T_A and T_C .
+If not, what further information would you require?
+A stunt driver is approaching a cliff at very high speed.
+Sensors in his car have measured the acceleration and velocity of the car, as well as all forces acting on it, for various times.

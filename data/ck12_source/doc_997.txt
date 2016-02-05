@@ -1,0 +1,20 @@
+If repeat the experiment in the rocket ship while the rocket is flying past the earth at a constant horizontal velocity, the observer inside will find all the measurements and calculations to be exactly the same as when the rocket was at rest.
+Photon bouncing off a mirror in a moving rocket
+Suppose now that the rocket ship is flying past the earth at the same constant horizontal velocity and that the observer is stationary on the earth.
+For the observer in the rocket ship, the light falls down on the table traveling at the regular speed of light, c .
+For the observer on the earth, the light travels horizontally with the ship and also falls down onto the table.
+For the observer on the earth, the path appears to be longer since the light not only went downward but also horizontally.
+However, since we have postulate 2, it is not allowed for the light to travel farther in the same time and therefore have a greater average velocity.
+According to postulate 2, the speed of the light as observed inside the space ship by that observer must be 3 \times 10^8 \ \text{m/s} and the speed of light observed by the observer on the earth (the light moving diagonally) must ALSO be 3 \times 10^8 \ \text{m/s} .
+So, how is it possible for both observers to measure the speed of light as the same number when the distance traveled is clearly NOT the same?
+There is an unstated assumption involved here that indicates the passage of time in the two reference frames is the same and that is where the special theory of relativity changes our ideas.
+The special theory of relativity tells us that the observer on earth will see the clocks on the rocket ship ticking more slowly than his own clocks.
+So, while the observer on the rocket ship sees the light travel a distance  x meters in 1.00 second as measured on his clock, the observer on the earth sees the light travel  2x meters in 2.00 seconds as measured by his clock.
+In both cases, the speed of light is measured to be c .
+It is important to note that this is not an optical illusion or some strange effect on the mechanical operation of the clock, the actual time on the ship slows down compared to the time of the stationary observer.
+This is referred to as time dilation .
+The equation for time dilation is \Delta T=\frac{\Delta t}{\sqrt{1-\frac{v^2}{c^2}}}
+where  \Delta t is the time interval between two events in the moving reference frame and  \Delta T is the time interval as measured in a stationary frame of reference. “ v ” is the relative velocity of the moving reference frame and c is the speed of light in a vacuum.
+It should be clear from the equation that if the relative velocity between the two frames of reference is zero, then \Delta T=\Delta t and there is no time dilation.
+We can also use the equation to show that for relative speeds like 100 m/s, which seems very fast to us, the comparison to the speed of light would show no noticeable time dilation.
+\Delta T=\frac{\Delta t}{\sqrt{1-\frac{v^2}{c^2}}}=\frac{10 \ \text{s}}{\sqrt{1-\frac{100^2}{(3 \times 10^8)^2}}}=\frac{10 \ \text{s}}{1-1 \times 10^{-13}}=10 \ \text{s}

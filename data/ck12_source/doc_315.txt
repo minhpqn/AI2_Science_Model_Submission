@@ -1,0 +1,20 @@
+Example Problem:
+Beginning with 1.00 kg of ice at -20.0°C, heat is added until the substance becomes water vapor at 130.0°C.
+How much heat was added?
+The specific heat of ice is 2108 \ J/kg^\circ C , the specific heat of liquid water is 4187 \ J/kg^\circ C , and the specific heat of water vapor is 1996 \ J/kg^\circ C .
+Solution:  5 steps.
+Calculate the heat required to raise the sample from -20.0°C to 0°C.
+Calculate the heat required to melt the sample.
+Calculate the heat required to raise the sample from 0°C to 100°C.
+Calculate the heat required to vaporize the sample.
+Calculate the heat required to raise the sample from 100°C to 130°C.
+The solution is the sum of these steps.
+Q_{HS} = mc_{\text{ice}} \Delta t = (1.00 \ kg)(2108 \ J/kg.^\circ C)(20.0^\circ C) = 42160 \ J
+Q_{\text{Melt}} = mH_f = (1.00 \ kg)(334000 \ J/kg) = 334000 \ J
+Q_{HL} = mc_{\text{water}} \Delta t = (1.00 \ kg)(4187 \ J/kg.^\circ C)(100.0^\circ C) = 418700 \ J
+Q_{\text{Vap}} = mH_v = (1.00 \ kg)(2260000 \ J/kg) = 2260000 \ J
+Q_{\text{HV}} = mc_{\text{vapor}} \Delta t = (1.00 \ kg)(1996 \ J/kg.^\circ C)(30.0^\circ C) = 59880 \ J
+\text{Total Heat} = 3.11 \times 10^6 \ J
+Most substances may exist in any of the three common states of matter, solid, liquid, or gas.
+The phase in which a substance exists is the result of a competition between attractive forces and molecular motion.
+The potential energy absorbed by a solid as it changes to a liquid is called the heat of fusion or the heat of melting.

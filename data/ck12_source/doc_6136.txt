@@ -1,0 +1,20 @@
+How does the motion of water molecules help form a solution?
+What is solvation?
+What is hydration?
+How does sucrose interact with solvent water molecules?
+hydration:
+The process of solute particles being surrounded by water molecules arranged in a specific manner.
+solvation:
+Involves surrounding ions with solvent particles.
+Describe solubility of non-polar compounds in water.
+Because oil does not dissolve in water, it can contaminate large areas when spilled
+Does oil dissolve in water?
+In 2010 a major oil spill occurred when an explosion on a drilling rig in the Gulf of Mexico released millions of gallons of crude oil into the Gulf.  Oil is primarily a mixture of hydrocarbons (organic compounds composed of only carbon and hydrogen atoms).
+Because of its composition, oil does not dissolve in water.  As a result, much of the Gulf of Mexico was contaminated, as was a great deal of shoreline in the affected area.
+Nonpolar compounds do not dissolve in water.  The attractive forces that operate between the particles in a nonpolar compound are weak dispersion forces.  However, the nonpolar molecules are more attracted to themselves than they are to the polar water molecules.  When a nonpolar liquid such as oil is mixed with water, two separate layers form because the liquids will not dissolve into each other ( Figure below ).  When another polar liquid such as ethanol is mixed with water, they completely blend and dissolve into one another.  Liquids that dissolve in one another in all proportions are said to be miscible .  Liquids that do not dissolve in one another are called immiscible .
+The general rule for deciding if one substance is capable of dissolving another is “like dissolves like.” A nonpolar solid such as iodine will dissolve in nonpolar lighter fluid, but will not dissolve in polar water.
+Oil and water form a pair of immiscible layers when mixed
+Water and oil form separate layers when they are mixed because the nonpolar oil will not dissolve into the polar.
+The oil forms the top layer because it is less dense than the water.
+For molecular compounds, the major factor that contributes to the material dissolving in water is the ability to form hydrogen bonds with the water solvent.  Small compounds such as methanol, ethanol, acetic acid, and acetone have polar groups that can interact with the polar H of water.  However, as the non-polar portion of the molecule gets larger, solubility with water drops off.  The non-polar portion of the molecule increasingly repels to water and eventually overrides the interaction of the polar component with water.
+Non-polar molecules are usually insoluble in water.

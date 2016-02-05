@@ -1,0 +1,20 @@
+What molecule is it?
+You probably answered "DNA." Today, it is commonly known that DNA is the genetic material.
+For a long time, scientists knew such molecules existed.
+They were aware that genetic information was contained within organic molecules.
+However, they didn’t know which type of molecules play this role.
+In fact, for many decades, scientists thought that proteins were the molecules that carry genetic information.
+In this section, you will learn how scientists discovered that DNA carries the code of life.
+DNA, the Genetic Material
+DNA , deoxyribonucleic acid, is the genetic material in your cells.
+It was passed on to you from your parents and determines your characteristics.
+The discovery that DNA is the genetic material was another important milestone in molecular biology.
+Griffith Searches for the Genetic Material
+Many scientists contributed to the identification of DNA as the genetic material.
+In the 1920s, Frederick Griffith made an important discovery.
+He was studying two different strains of a bacterium, called R (rough) strain and S (smooth) strain.
+He injected the two strains into mice.
+The S strain killed (virulent) the mice, but the R strain did not (non-virulent) (see Figure below ).
+Griffith also injected mice with S-strain bacteria that had been killed by heat.
+As expected, the killed bacteria did not harm the mice.
+However, when the dead S-strain bacteria were mixed with live R-strain bacteria and injected, the mice died.

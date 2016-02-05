@@ -1,0 +1,20 @@
+Solubility of various compounds
+Q:
+Assume that a solution contains 150 grams of Epsom salt in 1 liter of water at 20 °C.
+Is the solution saturated or unsaturated?
+A:
+A saturated solution of Epsom salt in 1 liter of 20 °C water would contain 250 grams of Epsom salt.
+Therefore, this solution is unsaturated.
+It can hold another 100 grams of Epsom salt.
+Q:
+What do you think would happen if you added more than 250 grams of Epsom salt to a liter of 20 °C water?
+A:
+Any Epsom salt over 250 grams would not dissolve in the solution.
+A saturated solution is a solution that contains as much solute as can dissolve in a given solvent at a given temperature.
+An unsaturated solution is a solution that contains less solute than can dissolve in a given solvent at a given temperature.
+Solutes differ in their solubility in a given solvent.
+Therefore, a saturated solution of one solute might contain more or less solute than a saturated solution of a different solute.
+At the following URL, watch the video on solubility.
+Pay special attention to minutes 3:50–6:55 (the section on saturation).
+Then answer the questions below.
+Describe how particles of solute behave when a solution is saturated.

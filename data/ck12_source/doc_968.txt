@@ -1,0 +1,20 @@
+Total Number of Orbitals (n 2 )
+Maximum Number of Electrons (2n 2 )
+1 \quad - \quad - \quad -
+1 \quad \ 3 \quad - \quad -
+1 \quad \ 3 \quad \ 5 \quad \ -
+1 \quad \ 3 \quad \ 5 \quad \ 7
+The Table above shows the relationship between  n (the principal quantum number), the number of orbitals, and the maximum number of electrons in a principal energy level.
+Theoretically, the number of orbitals and number of electrons continue to increase for higher values of n .
+However, no atom actually has more than 32 electrons in any of its principal levels.
+Each orbital will also have a probability pattern that is determined by interpreting Schrödinger's equation.
+The 3-dimensional probability pattern for the single orbital in the  s sub-level is a sphere.
+The probability patterns for the three orbitals in the  p sub-levels are shown below.
+The three images on the left show the probability pattern for the three  p orbitals in each of the three dimensions.
+On the far right is an image of all three  p orbitals together.
+These p orbitals are said to be shaped like dumbbells (named after the objects weight lifters use), water wings (named after the floating balloons young children use in the swimming pool), and various other objects.
+Illustration of the three p orbitals
+The probability patterns for the five  d orbitals are more complicated and are shown below.
+Illustration of the five d orbitals
+The seven f orbitals shown below are even more complicated.
+Illustration of the seven f orbitals

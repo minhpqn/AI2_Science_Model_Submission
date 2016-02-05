@@ -1,0 +1,20 @@
+The concentration of each of the ions at equilibrium is 6.7 × 10 -5 M.
+We can use the molar mass to convert from molar solubility to solubility.
+\frac{6.7 \times 10^{-5} \ \cancel{\text{mol}}}{\text{L}} \times \frac{100.09 \ \text{g}}{1 \ \cancel{\text{mol}}} = 6.7 \times 10^{-3} \ \text{g/L}
+So the maximum amount of calcium carbonate that is capable of dissolving in 1 liter of water at 25°C is 6.7 × 10 -3  grams.
+Note that in the case above, the 1:1 ratio of the ions upon dissociation led to the  K_{sp} being equal to s^2 .
+This is referred to as a formula of the type AB , where  A is the cation and  B is the anion.
+Now let’s consider a formula of the type AB_2 , such as Fe(OH) 2 .
+In this case the setup of the ICE table would look like the following:
+& \text{Fe(OH)}_2(s) \quad \rightleftarrows \quad \text{Fe}^{2+}(aq)+2 \text{OH}^-(aq) \\\text{Initial }(\text{M}) & \qquad \qquad \qquad \qquad \qquad 0.00 \qquad \quad \ 0.00 \\\text{Change }(\text{M}) & \qquad \qquad \qquad \qquad \qquad +s \qquad \quad +2s \\\text{Equilibrium }(\text{M}) & \qquad \qquad \qquad \qquad \qquad \quad s \qquad \qquad \ 2s
+When the  K_{sp} expression is written in terms of s , we get the following result for the molar solubility.
+K_{sp}&=[ \text{Fe}^{2+}][ \text{OH}^-]^2=(s)(2s)^2=4s^3 \\s&=\sqrt [3]{\frac{K_{sp}}{4}}=\sqrt [3]{\frac{7.9 \times 10^{-16}}{4}}=5.8 \times 10^{-6} \ \text{M}
+The Table below shows the relationship between  K_{sp} and molar solubility based on the formula.
+K_{sp} in Terms of s
+[Cu 2+ ][S 2− ]
+AB 2 or A 2 B
+Ag 2 CrO 4
+[Ag + ] 2 [CrO 4 2− ]
+AB 3 or A 3 B
+[Al 3+ ][OH − ] 3
+A 2 B 3 or A 3 B 2

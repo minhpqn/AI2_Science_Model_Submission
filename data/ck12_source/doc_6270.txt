@@ -1,0 +1,20 @@
+How much energy is released when one mole of water at 0°C changes from liquid to solid?
+molar heat of fusion (\Delta H_{\text{fus}}) :
+The heat absorbed by one mole of that substance as it is converted from a solid to a liquid.
+molar heat of solidification (\Delta H_{\text{solid}}) :
+The heat released by one mole of that substance as it is converted from a liquid to a solid.
+Heats of Vaporization and Condensation
+Define heat of vaporization.
+Define heat of condensation.
+Perform calculations involving heats of vaporization and condensation.
+Geothermal sources are evaluated based on the amount of vaporized steam generated
+How much energy is available?
+Natural resources for power generation have traditionally been waterfalls or use of oil, coal, or nuclear power to generate electricity.
+Research is being carried out to look for other renewable sources to run the generators.  Geothermal sites (such as the geyser pictured above) are being considered because of the steam they produce.
+Capabilities can be estimated by knowing how much steam is released in a given time at a particular site.
+Heat of Vaporization and Condensation
+Energy is absorbed in the process of converting a liquid at its boiling point into a gas.
+As with the melting of a solid, the temperature of a boiling liquid remains constant and the input of energy goes into changing the state.
+The molar heat of vaporization (\Delta H_{\text{vap}}) of a substance is the heat absorbed by one mole of that substance as it is converted from a liquid to a gas.
+As a gas condenses to a liquid, heat is released.
+The molar heat of condensation (\Delta H_{\text{cond}}) of a substance is the heat released by one mole of that substance as it is converted from a gas to a liquid.

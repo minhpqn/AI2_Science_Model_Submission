@@ -1,0 +1,20 @@
+Why do you think there is so much friction between the two phonebooks?
+A 52 N sled is pulled across a cement sidewalk at constant speed.
+A horizontal force of 36 N is exerted.
+What is the coefficient of sliding friction between the sidewalk and the metal runners of the sled?
+If the coefficient of sliding friction between a 25 kg crate and the floor is 0.45, how much force is required to move the crate at a constant velocity across the floor?
+A smooth wooden 40.0 N block is placed on a smooth wooden table.
+A force of 14.0 N is required to keep the block moving at constant velocity.
+What is the coefficient of sliding friction between the block and the table top?
+If a 20.0 N brick is placed on top of the wooden block, what force will be required to keep the block and brick moving at constant velocity?
+friction:
+A force that resists the relative motion or tendency to such motion of two bodies or substances in contact.
+coefficient of friction:
+The ratio of the force that maintains contact between an object and a surface (i.e. the normal force) and the frictional force that resists the motion of the object.
+normal force:
+The perpendicular force one surface exerts on another surface when the surfaces are in contact.
+Courtesy of Neil A.
+Armstrong, NASA.
+Courtesy of Pat Rawling, NASA.
+Courtesy of NASA.
+Christopher Auyeung.

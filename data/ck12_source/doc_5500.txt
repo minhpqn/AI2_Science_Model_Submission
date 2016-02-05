@@ -1,0 +1,20 @@
+Why is DNA analysis the most important tool of the forensic scientist?
+Describe forensic STR analysis.
+What's a fingerprint made of DNA?
+DNA fingerprinting creates a pattern based on an individual's unique DNA.
+This can be used as an unique identifier for a person.
+As you can imagine, this would be a key tool of the forensic scientist.
+Applications of DNA Technology:
+Forensic DNA Analysis
+You know that DNA can be used to distinguish individuals from each other.
+You may have heard that DNA can also be used to match evidence and suspects and help solve crimes.
+This is demonstrated on shows like CSI:
+Crime Scene Investigation .
+But how is this done?
+How is a genetic fingerprint , or a DNA fingerprint , which is a DNA pattern unique to each individual (except identical twins), created?
+Genetic fingerprinting, or DNA fingerprinting, distinguishes between individuals of the same species using only samples of their DNA.
+DNA fingerprinting has thus become one of the most powerful tools of the forensic scientist, enabling law enforcement personnel to match biological evidence from crime scenes to suspects.
+As any two humans have the majority of their DNA sequence in common, those sequences which demonstrate high variability must be analyzed.
+This DNA analysis was first developed using DNA hybridization techniques, but now is almost exclusively PCR-based.
+DNA fingerprinting was developed by Sir Alec Jeffreys in 1985.
+Genetic fingerprinting exploits highly variable repeating sequences.

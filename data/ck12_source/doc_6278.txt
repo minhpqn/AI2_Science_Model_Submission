@@ -1,0 +1,20 @@
+Sample Problem:
+Heat of Solution
+The molar heat of solution, \Delta H_{\text{soln}} , of NaOH is -445.1 kJ/mol.
+In a certain experiment, 5.00 g of NaOH is completely dissolved in 1.000 L of 20.0°C water in a foam cup calorimeter.
+Assuming no heat loss, calculate the final temperature of the water.
+Step 1:
+List the known quantities and plan the problem .
+mass NaOH = 5.00 g
+molar mass NaOH = 40.00 g/mol
+\Delta H_{\text{soln}}(\text{NaOH})=-445.1 \text{ kJ/mol}
+mass H 2 O = 1.000 kg = 1000. g (assumes density = 1.00 g/mL)
+T_{\text{initial}}(\text{H}_2\text{O}) = 20.0^\circ \text{C}
+c_{p} (\text{H}_2\text{O})=4.18 \text{ J/g}^\circ \text{C}
+T_{\text{final}} \text{ of H}_2\text{O} = ? \ ^\circ \text{C}
+This is a multiple-step problem: 1) the grams NaOH is converted to moles; 2) the moles is multiplied by the molar heat of solution; 3) the joules of heat released in the dissolving process is used with the specific heat equation and the total mass of the solution to calculate the \Delta T ; 4) the  T_{\text{final}} is determined from \Delta T .
+Step 2:
+Solve .
+& 5.00 \text{ g NaOH} \times \frac{1 \text{ mol NaOH}}{40.00 \text{ g NaOH}} \times \frac{-445.1 \text{ kJ}}{1 \text{ mol NaOH}} \times \frac{1000 \text{ J}}{1 \text{ kJ}}=-5.56 \times 10^4 \text{ J} \\& \Delta T= \frac{\Delta H}{c_p \times m}=\frac{-5.56 \times 10^4 \text{ J}}{4.18 \text{ J/g}^\circ \text{C} \times 1005 \text{ g}}=13.2^\circ \text{C} \\& T_{\text{final}}=20.0^\circ \text{C}+13.2^\circ \text{C}=33.2^\circ \text{C}
+Step 3:
+Think about your result .

@@ -1,0 +1,20 @@
+Single-replacement reactions only occur when the element that is doing the replacing is more reactive than the element that is being replaced.
+Therefore, it is useful to have a list of elements in order of their relative reactivities.
+The activity series is a list of elements in decreasing order of their reactivity.
+Since metals replace other metals, while nonmetals replace other nonmetals, they each have a separate activity series.
+The Table below is an activity series of most common metals and of the halogens.
+Activity of Metals
+Activity of Halogens
+K       React with cold water, replacing
+Al      React with steam, but not cold
+Zn     water, replacing hydrogen.
+Ni     Do not react with water.
+React
+Sn    with acids, replacing hydrogen.
+Hg    Unreactive with water or acids.
+For a single-replacement reaction, a given element is capable of replacing an element that is below it in the activity series.
+This can be used to predict if a reaction will occur.
+Suppose that small pieces of the metal nickel were placed into two separate aqueous solutions: one of iron(III) nitrate and one of lead(II) nitrate.
+Looking at the activity series, we see that nickel is below iron, but above lead.
+Therefore, the nickel metal will be capable of replacing the lead in a reaction, but will not be capable of replacing iron.
+& \text{Ni}(s)+\text{Pb(NO}_3)_2(aq) \rightarrow \text{Ni(NO}_3)_2(aq)+\text{Pb}(s)\\& \text{Ni}(s)+\text{Fe(NO}_3)_3(aq) \rightarrow \text{NR (no reaction)}

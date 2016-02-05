@@ -1,0 +1,20 @@
+In neurons with myelin sheaths, ions flow across the membrane only at the nodes between sections of myelin.
+As a result, the action potential jumps along the axon membrane from node to node, rather than spreading smoothly along the entire membrane.
+This increases the speed at which it travels.
+The action potential is discussed at (18:53) and
+Click on the image above for more content
+Click on the image above for more content
+You may choose to review the sodium-potassium pump at prior to watching the action potential videos.
+Click on the image above for more content
+The place where an axon terminal meets another cell is called a synapse .
+The axon terminal and other cell are separated by a narrow space known as a synaptic cleft (see Figure below ).
+When an action potential reaches the axon terminal, the axon terminal releases molecules of a chemical called a neurotransmitter .
+The neurotransmitter molecules travel across the synaptic cleft and bind to receptors on the membrane of the other cell.
+If the other cell is a neuron, this starts an action potential in the other cell.
+You can view animations of neurotransmission at a synapse at the following links:
+Closeup of synapse during signal transmission
+At a synapse, neurotransmitters are released by the axon terminal.
+They bind with receptors on the other cell.
+The synapse is further discussed at
+Click on the image above for more content
+A nerve impulse begins when a neuron receives a chemical stimulus.

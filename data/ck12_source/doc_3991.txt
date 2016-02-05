@@ -1,0 +1,20 @@
+Facultative anaerobic organisms, which are usually prokaryotic, make ATP by aerobic respiration, if oxygen is present, but can also survive without oxygen.
+In the absence of oxygen they switch to the process of fermentation to make ATP.
+Fermentation is a type of heterotrophic metabolism that uses organic carbon instead of oxygen as a terminal electron acceptor.
+Examples of facultative anaerobic bacteria are the Staphylococci , Escherichia coli , Corynebacterium , and Listeria species.
+Many bacteria that cause human diseases are facultative anaerobic organisms.
+Like most organisms, prokaryotes live and grow best within certain temperature ranges.
+Prokaryotes can be classified by their temperature preferences, as shown in the Table below .
+Which type of prokaryote would you expect to find inside the human body?
+Thermophiles live at relatively high temperatures, above 45°C (113°F).
+Thermophiles are found in geothermally heated regions of the Earth, such as hot springs like the Morning Glory pool in Yellowstone National Park (see Figure below ), and deep sea hydrothermal vents.
+Some thermophiles live in decaying plant matter such as peat bogs and compost.
+Many thermophiles are archaea.
+Extreme thermophiles (or hyperthermophiles ), live in temperatures hotter than 80°C (176°F).
+Psychrophiles grow and reproduce in cold temperatures.
+The optimal growth temperature of some psychrophiles is 15°C or lower; they cannot grow in temperatures above 20°C.
+The environments that psychrophiles inhabit are found all over Earth.
+Psychrophiles live in such places as permafrost soils, deep-ocean waters, Arctic and Antarctic glaciers and snowfields.
+Mesophiles grow best in moderate temperature, typically between 25°C and 40°C (77°F and 104°F).
+Mesophiles are often found living in or on the bodies of humans or other animals.
+The optimal growth temperature of many pathogenic mesophiles is 37°C (98°F), the normal human body temperature.

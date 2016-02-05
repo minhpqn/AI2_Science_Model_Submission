@@ -1,0 +1,20 @@
+What reason might there be for this observation?
+Forming a Hypothesis
+The next step in a scientific investigation is forming a hypothesis.
+A hypothesis is a possible answer to a scientific question, but it isn’t just any answer.
+A hypothesis must be based on scientific knowledge, and it must be logical.
+A hypothesis also must be falsifiable.
+In other words, it must be possible to make observations that would disprove the hypothesis if it really is false.
+Assume you know that some birds eat moths and that owls prey on other birds.
+From this knowledge, you reason that eye spots scare away birds that might eat the moth.
+This is your hypothesis.
+Testing the Hypothesis
+To test a hypothesis, you first need to make a prediction based on the hypothesis.
+A prediction is a statement that tells what will happen under certain conditions.
+It can be expressed in the form:
+If A occurs, then B will happen.
+Based on your hypothesis, you might make this prediction:
+If a moth has eye spots on its wings, then birds will avoid eating it.
+Next, you must gather evidence to test your prediction.
+Evidence is any type of data that may either agree or disagree with a prediction, so it may either support or disprove a hypothesis.
+Evidence may be gathered by an experiment .

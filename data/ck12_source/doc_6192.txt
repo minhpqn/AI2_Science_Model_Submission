@@ -1,0 +1,20 @@
+Molecular and Ionic Equations
+Define molecular and ionic equations.
+Give examples of molecular and ionic equations.
+The reaction of acid and calcium carbonate causes statues to become damaged by acid rain
+“Just a little rain...”
+One of the unfortunate by-products of our industrialized society is acid rain.
+Sulfur dioxide from burning coal and nitric oxides from vehicle emissions both form acids.
+When these acids react with limestone (calcium carbonate), reactions occur that dissolve the limestone and release water and carbon dioxide.
+Over a period of time, serious damage is caused to the structures.
+Molecular and Ionic Equations
+When ionic compounds are dissolved into water, the polar water molecules break apart the solid crystal lattice, resulting in the hydrated ions being evenly distributed through the water.
+This process is called dissociation and is the reason that all ionic compounds are strong electrolytes.
+When two different ionic compounds that have been dissolved in water are mixed, a chemical reaction may occur between certain pairs of the hydrated ions.
+Consider the double-replacement reaction that occurs when a solution of sodium chloride is mixed with a solution of silver nitrate.
+\text{NaCl}(aq)+\text{AgNO}_3 (aq) \rightarrow \text{NaNO}_3 (aq)+\text{AgCl}(s)
+The driving force behind this reaction is the formation of the silver chloride precipitate (see Figure below ).
+Silver chloride precipitates when silver nitrate is added to sodium chloride
+The white silver chloride precipitate instantly forms when a solution of silver nitrate is added to a solution of sodium chloride.
+This is called a molecular equation.
+A molecular equation is an equation in which the formulas of the compounds are written as though all substances exist as molecules.

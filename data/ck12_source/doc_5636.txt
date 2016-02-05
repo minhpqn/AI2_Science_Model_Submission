@@ -1,0 +1,20 @@
+Compound B = 7.53 g Cu and 8.40 g Cl
+Apply the law of multiple proportions to the two compounds.  For each compound, find the grams of copper that combine with 1.00 g of chlorine by dividing the mass of copper by the mass of chlorine.  Then find the ratio of the masses of copper in the two compounds by dividing the larger value by the smaller value.
+Step 2:  Calculate
+Compound A \frac{4.08 \ \text{g Cu}}{2.28 \ \text{g Cl}}=\frac{1.79 \ \text{g Cu}}{1.00 \ \text{g Cl}}
+Compound B \frac{7.53 \ \text{g Cu}}{8.40 \ \text{g Cl}}=\frac{0.896 \ \text{g Cu}}{1.00 \ \text{g Cl}}
+Compare the masses of copper per gram of chlorine in the two samples.
+\frac{1.79 \ \text{g Cu (in compound A)}}{0.896 \ \text{g Cu (in compound B)}}=\frac{2.00}{1}=2:1
+The mass ratio of copper per gram of chlorine in the two compounds is
+Step 3:  Think about your result.
+The ratio is a small whole-number ratio.  For a given mass of chlorine, compound A contains twice the mass of copper as does compound B.
+CuCl 2 .
+The mass ratio gives the mass of an element that is found in combination with another element.
+Use the link below to answer the following questions:
+What is the mass ratio?
+What is the hydrogen:water mass ratio?
+How many molecules of water per molecule of oxygen?
+What does the mass ratio tell us?
+In the compound CH 4 , what is the carbon:hydrogen mass ratio?
+Methane is CH 4 and ethane is C 2 H 6 .
+What is the mass ratio of carbon per gram of hydrogen in the two compounds?

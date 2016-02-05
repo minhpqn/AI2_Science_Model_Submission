@@ -1,0 +1,20 @@
+Image of Earth taken by Apollo 8 crewmember Bill Anders on December 24, 1968, showing the Earth rising above the lunar surface
+This photograph was taken by Apollo 8 crewmember Bill Anders on December 24, 1968, showing the Earth rising above the lunar surface.
+Gravitational forces keep the moon orbiting the Earth.
+Gravitational Force and Inclined Planes
+Every object has a center of gravity .
+The center of gravity is the point at which the entire weight of a body may be considered to be concentrated; if supported at this point, the body would remain in equilibrium in any position.
+For example, if we were discussing a 12-inch ruler, the center of gravity for the ruler would be at the center of the 6-inch line.
+You could put your finger directly under the 6-inch line to hold the ruler and it would not fall either left or right.
+If you placed your finger underneath any other place on the ruler, it would fall off to one side or the other.
+The force of gravity acting on an object is directed through this center of gravity and toward the center of the Earth.
+The object’s weight, W , can be represented by a vector directed down (along the line the object would fall if it were dropped).
+When this object is resting on a level surface, its weight acts perpendicularly to the surface and will be equal to the normal force , which is the force keeping the object from falling through the table.
+The normal force is always perpendicular to the surface; when the surface is not level, the normal force will be equal to some subset of the weight.
+This is seen in the image below, which shows a box on an inclined plane.
+The weight of the box acts through the center of gravity and directly towards the center of the Earth.
+The weight vector in the sketch is red and labeled W.
+The normal force acts perpendicular to the surface of the inclined plane to keep the box from falling through the plane.
+The force of the box on the plane is equal to the normal force (as specified in Newton’s Third Law).
+Since the normal force and the force of the box acting on the plane are the same, we can reference the force against the plane as the normal force.
+That force, F_N , is purple in the image above.

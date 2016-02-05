@@ -1,0 +1,20 @@
+Distinguish between mass and weight.
+Understand the relationship between mass and weight due to the acceleration of gravity.
+Know how to determine if a number gives mass or weight based on the units.
+When astronauts experience weightlessness, their mass remains unchanged
+Astronauts in training often fly in the KC-135 training aircraft to experience near-weightlessness.
+Three Japan Aerospace Exploration Agency astronauts—Akihiko Hoshide, Satoshi Furukawa, and Naoko Yamazaki—are shown here during such an exercise.
+Though they experience near-weightlessness, we can see that their mass has not changed.
+What is the relationship between mass and weight?
+Mass and Weight
+The mass of an object is defined as the amount of matter in the object.
+The amount of mass an object has does not change; a moon rock that has been returned to Earth has the same mass on the Earth’s surface as it had on the moon.
+The amount of mass in an object is measured by comparing the object to known masses on an instrument called a balance.
+The mass of an object is measured by comparing the object to known masses on a balance
+Using the balance shown here, the object would be placed in one pan and known masses would be placed in the other pan until the pans were exactly balanced.
+When balanced, the mass of the object would be equal to the sum of the known masses in the other pan.
+A balance will work in any location; whether on the moon or on Earth, the moon rock mentioned earlier will have the same mass.
+The weight of an object is the force pulling the object downward.
+On Earth, this would be the gravitational force of the Earth on the object.
+On the moon, this would be the gravitational force of the moon on the object.
+The gravitational force of the moon is one-sixth the magnitude of the gravitational force of the Earth; the weight of the moon rock on the moon will be one-sixth the weight of the moon rock on the Earth’s surface.

@@ -1,0 +1,20 @@
+A mixture of fuel and air is pulled-into a cylinder through a valve, which then closes.
+A piston inside the cylinder moves upward, compressing the fuel-air mixture in the closed cylinder.
+The mixture is now under a lot of pressure and very warm.
+A spark from a spark plug ignites the fuel-air mixture, causing it to burn explosively within the confined space of the closed cylinder.
+The pressure of the hot gases from combustion pushes the piston downward.
+The piston moves up again, pushing exhaust gases out of the cylinder through another valve.
+The piston moves downward again, and the cycle repeats.
+You can watch animations of internal combustion engines in action at these URLs:  and
+Diagram illustrating the operation of an internal combustion engine
+Q:
+The internal combustion engine converts thermal energy to another form of energy.
+Which form of energy is it?
+A:
+The engine converts thermal energy to kinetic energy, or the energy of a moving object—in this case, the moving piston.
+How Energy from the Engine Turns the Wheels
+In a car, the piston in the engine is connected by the piston rod to the crankshaft.
+The crankshaft rotates when the piston moves up and down.
+The crankshaft, in turn, is connected to the driveshaft.
+When the crankshaft rotates, so does the driveshaft.
+The rotating driveshaft turns the wheels of the car.

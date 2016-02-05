@@ -1,0 +1,20 @@
+The formula for ethanol is CH 3 CH 2 OH.
+What is the mole ratio of H to C in this molecule?
+mole ratio:
+A conversion factor that relates the amounts in moles of any two substances in a chemical reaction.
+Mass-Mole and Mole-Mass Stoichiometry
+Perform calculations involving conversions of mass to moles.
+Perform calculations involving conversions of moles to mass.
+Calculating the number of nails you need requires stoichiometry
+When you are doing a large construction project, you have a good idea of how many nails you will need (lots!).
+When you go to the hardware store, you don’t want to sit there and count out several hundred nails.
+You can buy nails by weight, so you determine how many nails are in a pound, calculate how many pounds you need, and you’re on your way to begin building.
+While the mole ratio is ever-present in all stoichiometry calculations, amounts of substances in the laboratory are most often measured by mass.
+Therefore, we need to use mole-mass calculations in combination with mole ratios to solve several different types of mass-based stoichiometry problems.
+Mass to Moles Problems
+In this type of problem, the mass of one substance is given, usually in grams.
+From this, you are to determine the amount in moles of another substance that will either react with or be produced from the given substance.
+\text{mass of} \ given \rightarrow \text{moles of} \ given \rightarrow \text{moles of} \ unknown
+The mass of the given substance is converted into moles by use of the molar mass of that substance from the periodic table.
+Then, the moles of the given substance are converted into moles of the unknown by using the mole ratio from the balanced chemical equation.
+Sample Problem:

@@ -1,0 +1,20 @@
+The oxidation number of copper decreases from +2 to This result is in accordance with the activity series.
+Iron is above copper in the series, so will be more likely to form Fe 2+ while converting the Cu 2+ to metallic copper (Cu 0 ).
+A loss of negatively-charged electrons corresponds to an increase in oxidation number, while a gain of electrons corresponds to a decrease in oxidation number.
+Therefore, the element or ion that is oxidized undergoes an increase in oxidation number.
+The element or ion that is reduced undergoes a decrease in oxidation number.
+The Table below summarizes the processes of oxidation and reduction.
+Processes of Oxidation and Reduction
+Complete loss of electrons (ionic reaction)
+Complete gain of electrons (ionic reaction)
+Gain of oxygen
+Loss of oxygen
+Loss of hydrogen in a molecular compound
+Gain of hydrogen in a molecular compound
+Increase in oxidation number
+Decrease in oxidation number
+Sample Problem:
+Identifying Oxidation and Reduction
+Use changes in oxidation number to determine which atoms are oxidized and which atoms are reduced in the following reaction.
+Identify the oxidizing and reducing agent.
+\text{Fe}_2\text{O}_3(s)+3\text{CO}(g) \rightarrow 2\text{Fe}(s)+3\text{CO}_2(g)

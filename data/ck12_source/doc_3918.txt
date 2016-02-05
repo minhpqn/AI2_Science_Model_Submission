@@ -1,0 +1,20 @@
+Population pyramid represents the age and sex structure of a population
+A population pyramid represents the age-sex structure of a population.
+What does a large base represent?
+Another way to show how deaths affect populations is with survivorship curves .
+These are graphs that represent the number of individuals still alive at each age.
+Examples are shown in Figure below .
+Survivorship curves reflect death rates at different ages
+Survivorship curves reflect death rates at different ages.
+The three types of curves shown in the figure actually represent different strategies species use to adapt to their environment:
+Type I:
+Parents produce relatively few offspring and provide them with a lot of care.
+As a result, most of the offspring survive to adulthood so they can reproduce.
+This pattern is typical of large animals, including humans.
+Type II:
+Parents produce moderate numbers of offspring and provide some parental care.
+Deaths occur more uniformly throughout life.
+This pattern occurs in some birds and many asexual species.
+Type III:
+Parents produce many offspring but provide them with little or no care.
+As a result, relatively few offspring survive to adulthood.

@@ -1,0 +1,20 @@
+Prove that the force of gravity can be safely ignored in this problem.
+Calculate the magnitude and direction of the magnetic field necessary.
+Show the path and calculate the radius of the positron in region II.
+Now the magnetic field is removed; calculate the acceleration of the positron away from the center.
+Calculate the angle away from the center with which it would enter region II if the magnetic field were to be removed.
+An electron is accelerated through 20,000 \;\mathrm{V} and moves along the positive x- axis through a plate 1.00\;\mathrm{cm} wide and 2.00 \;\mathrm{cm} long.
+A magnetic field of 0.020 \;\mathrm{T} is applied in the -z direction.
+Calculate the velocity with which the electron enters the plate.
+Calculate the magnitude and direction of the magnetic force on the electron.
+Calculate the acceleration of the electron.
+Calculate the deviation in the y direction of the electron form the center.
+Calculate the electric field necessary to keep the electron on a straight path.
+Calculate the necessary voltage that must be applied to the plate.
+Answers to Selected Problems
+a.
+Into the page b.
+Down the page c.
+Right
+0.00016 \;\mathrm{T} ; if CCW motion, B is pointed into the ground.
+a. 2.42 \times 10^8 \;\mathrm{m/s} b. 9.69 \times 10^{-12} \;\mathrm{N} c. .0055 \;\mathrm{m}

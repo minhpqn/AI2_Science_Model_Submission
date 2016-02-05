@@ -1,0 +1,20 @@
+How does the genetic code in the DNA get passed on to the mRNA?
+What will be the mRNA sequence transcribed from a TTAAACGGCCTA template?
+Translation of RNA to Protein
+Explain the relationship between the tRNA, anticodon, codon, and mRNA.
+Describe the process of translation.
+Explain the role of the genetic code.
+How does the cell translate a message?
+The mRNA is the message sent from the nucleus to the ribosome, the organelle of protein synthesis.
+Like a foreign language, the genetic code of the mRNA message must then be translated so that the ribosomes make the correct protein.
+The process of reading the code of a mRNA to make a protein is called translation.
+The mRNA, which is transcribed from the DNA in the nucleus, carries the directions for the protein-making process. mRNA tells the ribosome ( Figure below ) how to create a specific protein.
+Ribosomes translate mRNA into a protein
+Ribosomes translate RNA into a protein with a specific amino acid sequence.
+The tRNA binds and brings to the ribosome the amino acid encoded by the mRNA.
+The process of reading the mRNA code in the ribosome to make a protein is called translation ( Figure below ): the mRNA is translated from the language of nucleic acids (nucleotides) to the language of proteins (amino acids).
+Sets of three bases, called codons , are read in the ribosome, the organelle responsible for making proteins.
+DNA is transcribed to mRNA, which is translated into a protein
+This summary of how genes are expressed shows that DNA is transcribed into RNA, which is translated, in turn, to protein.
+The one letter code represents amino acids.
+The following are the steps involved in translation:

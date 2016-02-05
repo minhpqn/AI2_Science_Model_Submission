@@ -1,0 +1,20 @@
+The Mollweide projection distorts the size of the polar regions much less.
+To see the actual size of Greenland, look at a globe.
+Earth is a round, three-dimensional ball.
+In a small area, Earth looks flat, so it is not hard to make accurate maps of a small place.
+When mapmakers want to map the round Earth on flat paper, they use projections.
+What happens if you try to flatten out the skin of a peeled orange?
+Or if you try to gift wrap a soccer ball?
+To flatten out, the orange peel must rip, and its shape must become distorted.
+To wrap a round object with flat paper requires lots of extra cuts and folds.
+A projection is a way to represent Earth’s curved surface on flat paper ( Figure below ).
+A map projection translates Earth's curved surface onto two dimensions
+A map projection translates Earth's curved surface onto two dimensions.
+There are many types of projections.
+Each uses a different way to change three dimensions into two dimensions.
+There are two basic methods that the mapmaker uses in projections:
+The mapmaker “slices” the sphere in some way and unfolds it to make a flat map.
+This is like flattening out an orange peel.
+The mapmaker can look at the sphere from a certain point and then translate this view onto a flat paper.
+Let’s look at a few commonly used projections.
+In 1569, Gerardus Mercator (1512-1594) ( Figure below ) figured out a way to make a flat map of our round world.

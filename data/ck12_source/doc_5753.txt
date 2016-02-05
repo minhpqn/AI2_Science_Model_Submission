@@ -1,0 +1,20 @@
+In the second period, the 2 s sublevel, with two electrons, and the 2 p sublevel with six electrons, are being filled.
+Consequently, the second period contains eight elements.
+The third period is similar to the second, filling the 3 s and 3 p sublevels.
+Notice that the 3 d sublevel does not actually fill until after the 4 s sublevel.
+This results in the fourth period containing 18 elements due to the additional 10 electrons that are contributed by the d sublevel.
+The fifth period is similar to the fourth.
+After the 6 s sublevel fills, the 4 f sublevel with its 14 electrons fills.
+This is followed by the 5 d and the 6 p .
+The total number of elements in the sixth period is 32.
+The later elements in the seventh period are still being created.
+So while there are a possible of 32 elements in the period, the current number is slightly less.
+The period to which a given element belongs can easily be determined from its electron configuration.
+For example, consider the element nickel (Ni).
+Its electron configuration is [Ar]3 d 8 4 s 2 .  The highest occupied principal energy level is the fourth, indicated by the 4 in the 4 s 2 portion of the configuration.
+Therefore, nickel can be found in the fourth period of the periodic table.
+Based on electron configurations, the periodic table can be divided into blocks denoting which sublevel is in the process of being filled.
+The s , p , d , and f blocks are illustrated below.
+s, p, d, f blocks in the periodic table
+The figure also illustrates how the d sublevel is always one principal level behind the period in which that sublevel occurs.
+In other words, the 3 d sublevel fills during the fourth period.

@@ -1,0 +1,20 @@
+First express 1000 watts in J/s and then substitute this value for power the work equation:
+Work = 1000 J/s × 20 s = 20,000 J
+You can watch a video about calculating work and power at this URL:
+Sometimes power is measured in a unit called the horsepower.
+For example, the power of car engines is usually expressed in horsepowers.
+One horsepower is the amount of work a horse can do in 1 minute.
+It equals 745 watts of power.
+Compare the horsepowers in the Figure below to the other Figure below .
+A team of three horses provides 3 horsepowers of power
+This team of three horses provides 3 horsepowers of power.
+This tractor provides 180 horsepowers of power
+This big tractor provides 180 horsepowers of power.
+Q :
+If the team of horses and the tractor do the same amount of work plowing a field, which will get the job done faster?
+A :
+The tractor will get the job done faster because it has more power.
+In fact, because the tractor has 30 times the power of the six-horse team, ideally it can do the same work 30 times faster!
+Power is a measure of the amount of work that can be done in a given amount of time.
+Power equals work (J) divided by time (s).
+The SI unit for power is the watt (W), which equals 1 joule of work per second (J/s).

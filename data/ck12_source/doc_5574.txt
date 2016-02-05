@@ -1,0 +1,20 @@
+What must be changed for a chemical property to become apparent?
+How do scientists use chemical properties?
+Which of these is not a chemical property?
+heat of combustion
+What is a chemical property?
+What is a chemical reaction?
+When can we observe a chemical property?
+Is freezing water a chemical property?
+chemical property:
+Describes the ability of a substance to undergo a specific chemical change.
+chemical reaction:
+A process that occurs when one or more substances are changed into one or more new substances.
+Reactants and Products
+Define chemical equation.
+A computer is used to process chemical data
+What would you do without a computer?
+Over the last few decades, computers have proven to be extremely useful tools for organizing and processing information.  You put data into the computer (such as the structural parameters of a compound) and your output can be a detailed diagram of how that molecule looks in three dimensions.  The computer and its programs transform input data into a useful final product.
+The reaction between zinc and sulfur can be shown in what is called a chemical equation .  In words, we could write the reaction as:
+zinc + sulfur → zinc sulfide
+The more convenient way to express a chemical reaction is to use the symbols and formulas of the substances involved:

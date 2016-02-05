@@ -1,0 +1,20 @@
+This increases the population size and growth rate.
+Emigration is the movement of individuals out of a population.
+This decreases the population size and growth rate.
+The earlier growth rate equation can be modified to account for migration: growth rate = (birth rate + immigration rate) – (death rate + emigration rate).
+One type of migration that you are probably familiar with is the migration of birds.
+Maybe you have heard that birds fly south for the winter.
+In the fall, birds fly thousands of miles to the south where it is warmer.
+In the spring, they return to their homes. ( Figure below ).
+Monarch butterflies also migrate from Mexico to the northern U.S. in the summer and back to Mexico in the winter.
+These types of migrations move entire populations from one location to another.
+A flock of barnacle geese fly in formation during the autumn migration.
+Population growth can be described with two models, based on the size of the population and necessary resources.
+These two types of growth are known as exponential growth and logistic growth.
+If a population is given unlimited amounts of resources, such as food and water, land if needed, moisture, oxygen, and other environmental factors, it will grow exponentially.
+Exponential growth occurs as a population grows larger, dramatically increasing the growth rate.
+This is shown as a "J-shaped" curve below ( Figure below ).
+You can see that the population grows slowly at first, but as time passes, growth occurs more and more rapidly.
+Growth of populations according to exponential (or J-curve) growth model ( left ) and logistic (or S-curve) growth model ( right ).
+Time is plotted on the x-axis, and population size is plotted on the y-axis.
+In nature, organisms do not usually have ideal environments with unlimited food.

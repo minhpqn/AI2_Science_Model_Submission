@@ -1,0 +1,20 @@
+A hypothesis absolutely must be testable-- it gains credibility by being tested over and over again, and by surviving attempts to prove it wrong.
+Scientists may test and reject several hypotheses before solving a problem.
+Scientific investigations involve the collection of data through observation, the formation and testing of hypotheses by experimentation, and analysis of the results that involves reasoning.
+Scientific investigations begin with observations that lead to questions.
+We will use an everyday example to show what makes up a scientific investigation.
+Imagine that you walk into a room, and the room is dark.
+You observe that the room appears dark, and you question why the room is dark.
+In an attempt to find explanations to this phenomenon, you develop several different hypotheses.
+One hypothesis might be that the room does not have a light source at all.
+Another hypothesis might be that the lights are turned off.
+Still, another might be that the light bulb has burnt out.
+Worse yet, you could be going blind.
+To discover the answer, you experiment.
+You feel your way around the room and find a light switch and turn it on.
+No light.
+You repeat the experiment, flicking the switch back and forth; still nothing.
+This means your first two hypotheses, that the room is dark because (1) it does not have a light source; and (2) the lights are off, have been disproved.
+You think of more experiments to test your hypotheses, such as switching on a flashlight to prove that you are not blind.
+In order to accept your last remaining hypothesis as the answer, you could predict that changing the light bulb will fix the problem.
+If your predictions about this hypothesis succeed (changing the light bulb fixes the problem), the original hypothesis is valid and is accepted.

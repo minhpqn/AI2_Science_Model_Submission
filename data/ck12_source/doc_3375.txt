@@ -1,0 +1,20 @@
+A:
+When the water is in the reservoir, it has potential energy because of gravity.
+Potential energy is stored in the water because of its position behind the dam.
+When the water flows into the intake pipe, gravity pulls it downhill to the power plant.
+An electric generator is a device that produces electricity through electromagnetic induction.
+Electromagnetic induction is the process of generating electric current with a magnetic field.
+Generators may produce either alternating or direct current, but they all change kinetic energy to electrical energy.
+Explore the electric generator simulation at the following URL.
+Then describe factors that affect the voltage of the generated current.
+Identify the parts of an electric generator and what they do.
+Explain how an electric generator in a hydroelectric power plant changes kinetic energy to electrical energy.
+An electric motor is a device that changes electrical energy to kinetic energy.
+How is an electric generator like an electric motor in reverse?
+Describe an electric transformer and how it changes electric current.
+Distinguish between step-up and step-down electric transformers.
+You’ve probably noticed big drums like this one at the tops of electric poles.
+A pole close to your home is likely to have one.
+The drum is an electric transformer.
+Without it, the current entering your home would have too much voltage for your home’s electric circuits to handle.
+What Is an Electric Transformer?

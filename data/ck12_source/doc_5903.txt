@@ -1,0 +1,20 @@
+You probably didn’t want to share, but did anyway.
+It turned out that you had more fun playing with the toy together than if you had kept it to yourself.
+Atoms also have to share what’s theirs with another atom that has nothing to contribute to the situation.
+But the end result is a new structure.
+Coordinate Covalent Bonds
+Each of the covalent bonds that we have looked at so far has involved each of the atoms that are bonding contributing one of the electrons to the shared pair.  There is an alternate type of covalent bond in which one of the atoms provided both of the electrons in a shared pair.  Carbon monoxide, CO, is a toxic gas that is released as a by-product during the burning of fossil fuels.  The bonding between the C atom and the O atom can be thought of as proceeding in this way.
+Incorrect structure of carbon monoxide
+Formation of a CO double bond (incorrect structure).
+At this point, a double bond has formed between the two atoms, with each atom providing one of the electrons to each bond.  The oxygen atom now has a stable octet of electrons, but the carbon atom only has six electrons and is unstable.  This situation is resolved if the oxygen atom contributes one of its lone pairs in order to make a third bond with the carbon atom.
+Correct structure of carbon monoxide
+Correct CO structure.
+The carbon monoxide molecule is correctly represented by a triple covalent bond between the carbon and oxygen atoms.  One of the bonds is a coordinate covalent bond , a covalent bond in which one of the atoms contributes both of the electrons in the shared pair.
+Once formed, a coordinate covalent bond is the same as any other covalent bond.  It is not as if the two conventional bonds in the CO molecule are stronger or different in any other way than the coordinate covalent bond.
+Coordinate covalent bonds can form when one atom provides a lone pair of electrons to the bond.
+Coordinate covalent bonds are as strong as other covalent bonds.
+Use the link below to answer the following questions:
+What is another name for a coordinate covalent bond?
+In forming ammonium chloride from ammonia and HCl, what is transferred to the nitrogen?
+Give another example of the formation of a coordinate covalent bond?
+In the reaction between ammonia and BF 3 , which molecule provides the electrons for the bond?

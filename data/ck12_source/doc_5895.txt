@@ -1,0 +1,20 @@
+Energy and Covalent Bond Formation
+Define diatomic molecule.
+Draw the potential energy diagram for two atoms that are bonding.
+Define covalent molecule.
+Structure of beryllium chloride
+Why do BeCl 2 and LiCl bond differently?
+We have learned that halide salts of elements in group1 are typically ionic compounds.  We would expect LiCl to exist as Li + cations and Cl - anions (and it does).
+However, if we move one column to the right, lithium’s neighbor beryllium forms a different type of bond altogether.
+This bond consists of shared electrons between the Be and Cl atoms, not electrostatic attraction among ions.
+Energy and Covalent Bond Formation
+Molecular compounds are those that take the form of an individual molecule.  Molecular compounds are generally comprised of two or more nonmetal atoms.  Familiar examples include water (H 2 O), carbon dioxide (CO 2 ) and ammonia (NH 3 ).  Recall that the molecular formula shows the number of each atom that occurs in a molecule of that compound.  One molecule of water contains two hydrogen atoms and one oxygen atom.  Hydrogen (H 2 ) is an example of an element that exists naturally as a diatomic molecule.  A diatomic molecule is a molecule containing two atoms.
+Most atoms attain a lower potential energy when they are bonded to other atoms than when they are separated.  Consider two isolated hydrogen atoms that are separated by a distance large enough to prevent any interaction between them.  At this distance, the potential energy of the system is said to be equal to zero (see Figure below ).
+Potential energy of two hydrogen atoms based on distance
+The graph shows how the potential energy of two hydrogen atoms changes as a function of their separation distance.
+As the atoms approach one another, their electron clouds gradually begin to overlap.  Now there are several interactions which begin to occur.  One is that the single electrons that each hydrogen atom possesses begin to repel each other.  This repulsive force would tend to make the potential energy of the system increase.  However, the electron of each atom begins to be attracted to the nucleus of the other atom.  This attractive force tends to make the potential energy of the system decrease.
+As the atoms first begin to interact, the attractive force is stronger than the repulsive force and so the potential energy of the system decreases, as seen in the diagram.  Remember that the lower potential energy increases the stability of the system.  As the two hydrogen atoms move closer and closer together, the potential energy continues to decrease.  Eventually, a position is reached where the potential energy is at its lowest possible point.  If the hydrogen atoms move any closer together, a third interaction begins to dominate and that is the repulsive force between the two positively-charged nuclei.
+This repulsive force is very strong as can be seen by the sharp rise in energy at the far left of the diagram.
+The point at which the potential energy reached its minimum represents the ideal distance between hydrogen atoms for a stable chemical bond to occur.  This type of chemical bond is called a covalent bond.  A covalent bond is a bond in which two atoms share one or more pairs of electrons.  The single electrons from each of the two hydrogen atoms are shared when the atoms come together to form a hydrogen molecule (H
+Covalent bonds are formed when atoms share electrons between them.
+Use the link below to answer the following questions.

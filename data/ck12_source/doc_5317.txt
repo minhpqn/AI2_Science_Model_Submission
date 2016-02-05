@@ -1,0 +1,20 @@
+That’s known as the central dogma of molecular biology .
+It states that “DNA makes RNA makes protein.” Really it means that the genetic information within DNA is used to make smaller molecules of RNA, which leave the nucleus and then the genetic information in RNA is used to assemble amino acids into proteins.
+But this process does start with DNA.
+To understand the role of DNA in this process, it first had to be shown that DNA is the genetic material.
+DNA double helix configuration and bases
+DNA winds into the familiar double helix configuration.
+However, it is the order of the four bases (adenine, guanine, cytosine and thymine) that provide the genetic information/instructions.
+These will be discussed in additional concepts.
+The vocabulary of DNA, including the two processes involved in the central dogma, transcription and translation , is discussed at
+Click on the image above for more content
+amino acid :
+Small molecule that is a building block of proteins; the monomer of a polypeptide.
+central dogma of molecular biology :
+A framework for understanding the transfer of sequence information between sequential information-carrying biopolymers DNA, RNA and protein.
+deoxyribonucleic acid ( DNA ):
+Double-stranded nucleic acid that composes genes and chromosomes; the hereditary material.
+double helix :
+The double spiral shape of the DNA molecule; resembles a spiral staircase.
+ribonucleic acid (RNA) :
+Single-stranded nucleic acid; involved in protein synthesis.

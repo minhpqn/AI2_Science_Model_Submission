@@ -1,0 +1,20 @@
+In a gas mixture containing equal numbers of moles of two gases, what can you say about the partial pressures of each gas?
+Mole fraction (X) :
+The ratio of moles of one substance in a mixture to the total number of moles of all substances.
+Gas Collection by Water Displacement
+Calculate volumes of dry gases obtained after collecting over water.
+The pressure of gases collected over water can be determined by using the atmospheric pressure in the room
+What is the pressure?
+You need to do a lab experiment where hydrogen gas is generated.
+In order to calculate the yield of gas, you have to know the pressure inside the tube where the gas is collected.
+But how can you get a barometer in there?
+Very simple: you don’t.
+All you need is the atmospheric pressure in the room.
+As the gas pushed out the water, it is pushing against the atmosphere, so the pressure inside is equal to the pressure outside.
+Gas Collection by Water Displacement
+Gases that are produced in laboratory experiments are often collected by a technique called water displacement (see Figure below ).
+A bottle is filled with water and placed upside-down in a pan of water.
+The reaction flask is fitted with rubber tubing which is then fed under the bottle of water.
+As the gas is produced in the reaction flask, it exits through the rubber tubing and displaces the water in the bottle.
+When the bottle is full of the gas, it can be sealed with a lid.
+A gas produced in a chemical reaction can be collected by water displacement.

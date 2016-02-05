@@ -1,0 +1,20 @@
+An electromagnet is a solenoid wrapped around a bar of iron or other ferromagnetic material.
+A solenoid is a coil of wire with electric current flowing through it.
+This gives the coil north and south magnetic poles and a magnetic field.
+The magnetic field of the solenoid magnetizes the iron bar by aligning its magnetic domains.
+You can see this in the Figure below .
+You can learn how to make an electromagnet at this URL:
+Schematic of an electromagnet
+Strength of an Electromagnet
+The combined magnetic force of the magnetized wire coil and iron bar makes an electromagnet very strong.
+In fact, electromagnets are the strongest magnets made.
+An electromagnet is stronger if there are more turns in the coil of wire or there is more current flowing through it.
+A bigger bar or one made of material that is easier to magnetize also increases an electromagnet’s strength.
+At the following URL, you can see an animation demonstrating how these factors affect the strength of an electromagnet.
+Easy On and Off
+Besides their strength, another pro of electromagnets is the ability to control them by controlling the electric current.
+Turning the current on or off turns the magnetic field on or off.
+The amount of current flowing through the coil can also be changed to control the strength of the electromagnet.
+Q:
+Why might it be useful to be able to turn an electromagnet on and off?
+A:

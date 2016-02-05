@@ -1,0 +1,20 @@
+The general formula for a monosaccharide is:
+(CH 2 O) n ,
+where n can be any number greater than two.
+For example, in glucose n is 6, and the formula is:
+C 6 H 12 O 6 .
+Another monosaccharide, fructose, has the same chemical formula as glucose, but the atoms are arranged differently.
+Molecules with the same chemical formula but with atoms in a different arrangement are called isomers .
+Compare the glucose and fructose molecules in Figure below .
+Can you identify their differences?
+The only differences are the positions of some of the atoms.
+These differences affect the properties of the two monosaccharides.
+Structure of a sucrose molecule
+Sucrose Molecule.
+This sucrose molecule is a disaccharide.
+It is made up of two monosaccharides: glucose on the left and fructose on the right.
+If two monosaccharides bond together, they form a carbohydrate called a disaccharide .
+An example of a disaccharide is sucrose (table sugar), which consists of the monosaccharides glucose and fructose ( Figure above ).
+Monosaccharides and disaccharides are also called simple sugars .
+They provide the major source of energy to living cells
+A polysaccharide is a complex carbohydrate that forms when simple sugars bind together in a chain.

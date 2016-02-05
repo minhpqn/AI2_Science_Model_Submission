@@ -1,0 +1,20 @@
+When the archer releases the bowstring, the arrow will be flung forward toward the top of the target where she’s aiming.
+But another force will also act on the arrow in a different direction.
+The other force is gravity, and it will pull the arrow down toward Earth.
+The two forces combined will cause the arrow to move in the curved path shown in the Figure below .
+This type of motion is called projectile motion .
+It occurs whenever an object curves down toward the ground because it has both a horizontal force and the downward force of gravity acting on it.
+A well aimed shot compensates for gravity
+Because of projectile motion, to hit the bull’s eye of a target with an arrow, you actually have to aim for a spot above the bull’s eye.
+You can see in the Figure below what happens if you aim at the bull’s eye instead of above it.
+Aiming for the bull's eye will cause the arrow to miss the target
+Another Example of Projectile Motion
+You can probably think of other examples of projectile motion.
+One is shown in the Figure below .
+The cannon shoots a ball straight ahead, giving it horizontal motion.
+At the same time, gravity pulls the ball down toward the ground.
+This cannonball is pulled down by gravity
+Q :
+How would you show the force of gravity on the cannon ball in the Figure above ?
+A :
+You would add a line pointing straight down from the cannon to the ground.

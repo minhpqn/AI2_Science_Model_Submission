@@ -1,0 +1,20 @@
+Resolve vectors into axial components.
+Resolving Vectors into Axial Components
+We know that when two vectors are in the same dimension, they can be added arithmetically.  Suppose we have two vectors that are on a north-south, east-west grid, as shown below.  One of the methods we can use to add these vectors is to resolve each one into a pair of vectors that lay on the north-south and east-west axes.
+Two vectors on a north-south, east-west grid, one originating between north and east, one originating between north and west
+The two vectors we are to add is a force of 65 N at 30° north of east and a force of 35 N at 60° north of west.
+Sum of two vectors on a north-south, east-west grid, creating a triangle for each vector
+We can resolve each of the vectors into two components on the axes lines.
+Each vector is resolved into a component on the north-south axis and a component on the east-west axis.
+Using trigonometry, we can resolve (break down) each of these vectors into a pair of vectors that lay on the axial lines (shown in red above).
+The east-west component of the first vector is (65 N)(cos 30° ) = (65 N)(0.866) = 56.3 N east
+The north-south component of the first vector is (65 N)(sin 30°) = (65 N)(0.500) = 32.5 N north
+The east-west component of the 2 nd vector is (35 N)(cos 60°) = (35 N)(0.500) = 17.5 N west
+The north-south component of the 2 nd vector is (35 N)(sin 60°) = (35 N)(0.866) = 30.3 N north
+Vectors can be resolved into component vectors that lie on the axes lines.
+Click on the image above for more content
+What does SohCahToa mean?
+Why is SohCahToa relevant to resolving a vector into components?
+Why is the sum of the components larger than the resultant vector?
+A force of 150.
+N is exerted 22° north of east.  Find the northward and eastward components of this force.

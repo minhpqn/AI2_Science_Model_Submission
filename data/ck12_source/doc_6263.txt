@@ -1,0 +1,20 @@
+Specifically, the combustion of 1 mol of methane releases 890.4 kilojoules of heat energy.
+This information can be shown as part of the balanced equation.
+\text{CH}_4(g)+2\text{O}_2(g) \rightarrow \text{CO}_2(g)+2\text{H}_2\text{O}(l)+890.4 \ \text{kJ}
+The equation tells us that 1 mol of methane combines with 2 mol of oxygen to produce 1 mol of carbon dioxide and 2 mol of water.
+In the process, 890.4 kJ is released and so it is written as a product of the reaction.
+A thermochemical equation is a chemical equation that includes the enthalpy change of the reaction.
+The process in the above thermochemical equation can be shown visually in the Figure below .
+In endothermic reactions, enthalpy increases and heat is absorbed from the environment
+(A) As reactants are converted to products in an exothermic reaction, enthalpy is released into the surroundings.
+The enthalpy change of the reaction is negative. (B) As reactants are converted to products in an endothermic reaction, enthalpy is absorbed from the surroundings.
+The enthalpy change of the reaction is positive.
+In the combustion of methane example, the enthalpy change is negative because heat is being released by the system.
+Therefore, the overall enthalpy of the system decreases.
+The heat of reaction is the enthalpy change for a chemical reaction.
+In the case above, the heat of reaction is −890.4 kJ.
+The thermochemical reaction can also be written in this way:
+\text{CH}_4(g)+2\text{O}_2(g) \rightarrow \text{CO}_2(g)+2\text{H}_2\text{O}(l) \quad \Delta H=-890.4 \ \text{kJ}
+Heats of reaction are typically measured in kilojoules.
+It is important to include the physical states of the reactants and products in a thermochemical equation as the value of the  \Delta H depends on those states.
+Endothermic reactions absorb energy from the surroundings as the reaction occurs.

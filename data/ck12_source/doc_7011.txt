@@ -1,0 +1,20 @@
+There are 3 different temperature scales you should know-the Kelvin scale, the Celsius scale and the Fahrenheit scale.
+The Kelvin scale (K) is the one used in most scientific equations and has its zero value set at absolute zero (the theoretical point at which all motion stops).
+The Celsius scale (^\circ C) is the standard SI temperature scale.
+It is equal to the Kelvin scale if you minus 273 from the Celsius reading.
+Water has a boiling point of 100^\circ C and a freezing point of 0^\circ C .
+The Fahrenheit scale (^\circ F) is the English system and the one we are familiar with.
+Newtons’ Law of Cooling:
+The rate of heat transfer is proportional to the difference in temperature between the two objects.
+For example, hot liquid that is put in the freezer will cool much faster than a room temperature liquid that is put in the same freezer.
+Kinetic Theory of Gases
+According to classical kinetic theory, temperature is always proportional to the average kinetic energy of molecules in a substance.
+The constant of proportionality, however, is not always the same.
+Consider: the only way to increase the kinetic energies of the atoms in a mono-atomic gas is to increase their translational velocities.
+Accordingly, we assume that the kinetic energies of such atoms are stored equally in the three components (  x,y, \text{ and } z ) of their velocities.
+On the other hand, other gases --- called diatomic --- consist of two atoms held by a bond.
+This bond can be modeled as a spring, and the two atoms and bond together as a harmonic oscillator.
+Now, a single molecule's kinetic energy can be increased either by increasing its speed, by making it vibrate in simple harmonic motion, or by making it rotate around its center of mass .
+This difference is understood in physics through the concept of degrees of freedom : each degree of freedom for a molecule or particle corresponds to a possibility of increasing its kinetic energy independently of the kinetic energy in other degrees.
+It might seem that monatomic gases should have one degree of freedom: their velocity.
+They have three because their velocity can be altered in one of three mutually perpendicular directions without changing the kinetic energy in other two --- just like a centripetal force does not change the kinetic energy of an object, since it is always perpendicular to its velocity.

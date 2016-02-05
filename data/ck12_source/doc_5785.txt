@@ -1,0 +1,20 @@
+Describe the general trend for electron affinity values moving from top to bottom in a group on the periodic table.
+Why is more energy released in the formation of a halide ion than with other elements?
+electron affinity:
+The energy change that occurs when a neutral atom gains an electron.
+Define ionic radius.
+Explain how ionic radii are measured.
+Describes trends in ionic radius in the periodic table.
+The shell of a peanut is like the ionic radii of an atom
+How are peanuts sold?
+Peanuts can be sold two ways.  The bare peanut without the shell (brown inner portion of peanut) can be purchased in jars and packages for casual munching or for cooking.  The size of the peanut in this situation is smaller than the peanut plus shell since the outer portion is missing.  If we add the shell to the peanut, we have a larger size for the combination.
+Electrons and protons are strongly attracted to one another.  The strength of that attraction and the relative numbers of the two particles in a given atom or ion have a significant influence on the size of that species.  When an atom loses one or more electrons, the resulting ion becomes smaller.  If electrons are added to the atom, the ion becomes larger.
+The ionic radius for an atom is measured in a crystal lattice , requiring a solid form for the compound.  These radii will differ somewhat depending upon the technique used.
+Usually X-ray crystallography is employed to determine the radius for an ion.
+Table of atomic and ionic radii
+Comparison of ion sizes to atom sizes for Groups 1, 2, 13, 16 and 17.
+The atoms are shown in gray.
+Groups 1, 2, and 13 are metals and form cations, shown in red.
+Groups 16 and 17 are nonmetals and form anions, shown in blue.
+The removal of electrons always results in a cation that is considerably smaller than the parent atom.
+When the valence electron(s) are removed, the resulting ion has one fewer occupied principal energy level, so the electron cloud that remains is smaller.

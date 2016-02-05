@@ -1,0 +1,20 @@
+When l=3 ,  m_l values can be -3, -2, -1, 0, +1, +2, +3 for a total of seven different orbital shapes.
+Again, note the specific orientations of the different f orbitals.
+Picture of f orbitals
+Electron Arrangement Within Energy Levels
+Principal Quantum Number (n)
+Number of Orbitals per Sublevel
+Number of Orbitals per Principal Energy Level
+Number of Electrons per Sublevel
+Number of Electrons per Principal Energy Level
+There are four different classes of electron orbitals.
+These orbitals are determined by the value of the angular momentum quantum number l .
+Use the link below to answer the following questions:
+What is a shell?
+What do the letters K-Q stand for?
+How many electrons does the K shell hold?
+What is the maximum number of electrons any shell can hold?
+What is an electron configuration?
+How many electrons are in the  n=1 orbital?
+What is the total number of electrons in a p orbital?
+How many electrons does it take to completely fill a d orbital?

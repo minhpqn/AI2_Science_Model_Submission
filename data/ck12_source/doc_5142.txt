@@ -1,0 +1,20 @@
+To ensure this, in addition to the cell performing its necessary functions, the DNA must be copied, as must many organelles, prior to cell division.
+The life of a eukaryotic cell is a cycle, known as the cell cycle ( Figure below ).
+The cell cycle is a repeating series of cellular growth and division.
+The cell cycle has four phases: the first growth (G 1 ) phase, the synthesis (S) phase, the second growth (G 2 ) phase, and the mitotic ( mitosis ) phase, which ends with cytokinesis .
+The cell spends the majority of the cycle in the first three phases of the cycle, collectively known as interphase .
+After cytokinesis, two genetically identical daughter cells are formed.
+Progression of the cycle into each phase is dependent on the completion of the previous phase.
+Cells that have temporarily or reversibly stopped dividing are said to have entered the resting phase or the G 0 phase, a indefinite phase of quiescence.
+The cell cycle is a vital process by which a zygote develops into a mature organism, as well as the process by which hair, skin, blood cells, and some internal organs consistently regenerated.
+After cytokinesis, each resulting daughter cell is in G 1 of the next cell cycle.  has an excellent animation of the cell cycle.
+This diagram represents the cell cycle in eukaryotes.
+The cell cycle depicts the life of an eukaryotic cell.
+The cell cycle has four phases: the first growth or gap (G 1 ) phase, the synthesis (S) phase, the second growth or gap (G 2 ) phase and the mitotic (M) phase.
+The M phase includes mitosis and cytokinesis.
+The cell spends the majority of the cycle in the first three phases (G 1 , S, G 2 ) of the cycle, collectively known as interphase.
+After cytokinesis, two genetically identical daughter cells are formed.
+The cell spends most of its life in the first gap (sometimes referred to as growth) phase, G 1 .
+During this phase, a cell undergoes rapid growth and the cell performs its routine functions.
+During this phase the biosynthetic and metabolic activities of the cell occur at a high rate.
+The synthesis of amino acids and hundreds of thousands or millions of proteins that are required by the cell occurs during this phase.

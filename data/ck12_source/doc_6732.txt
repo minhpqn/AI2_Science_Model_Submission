@@ -1,0 +1,14 @@
+Equal and oppositely directed forces on the same object do not produce acceleration.
+The force of gravity is called weight.
+Near the surface of a planet, it has magnitude  mg  and is directed perpendicular to its surface.
+This  g  is different from the Gravitational Constant, and differs from planet to planet.
+Your mass does not change when you move to other planets --- although your weight does --- because mass is a measure of how much matter your body contains, and not how much gravitational force you feel.
+To calculate the net force on an object, you need to calculate all the individual forces acting on the object and then add them as vectors.
+Newton’s Third Law states for every force there is an equal but opposite reaction force.
+To distinguish a third law pair from merely oppositely directed pairs is difficult, but very important.
+Third law pairs must obey three rules: (1) Third law force pairs must be of the same type of force. (2) Third law force pairs are exerted on two different objects. (3) Third law force pairs are equal in magnitude and oppositely directed.
+Example:
+A block sits on a table.
+The Earth’s gravity on the block and the force of the table on the block are equal and opposite.
+But these are not third law pairs, because they are both on the same object and the forces are of different types.
+The proper third law pairs are: (1) earth’s gravity on block/block’s gravity on earth and (2) table pushes on block/ block pushes on table.

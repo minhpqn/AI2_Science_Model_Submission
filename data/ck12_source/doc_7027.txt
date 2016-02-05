@@ -1,0 +1,20 @@
+Special and General Relativity
+The Big Ideas
+Einstein believed that the laws of physics do not depend on the how fast you are moving through space: every reference frame sees the same world of physics.
+In other words, if you are on a moving train and drop a ball or if you are standing on a farm and drop a ball, the physics that describe the motion of that ball will be the same.
+Einstein realized that the speed of light, c, should depend only on the laws of physics that describe light as electromagnetic radiation.
+Therefore, Einstein made the bold assertion that light always travels at the same speed, no matter how fast you are moving with respect to the source of light .
+Consider for a moment how counterintuitive this concept really is.
+This is the theoretical underpinning of Einstein’s theory of Special Relativity, one of the most successfully predictive theories of physics ever formulated.
+The most important consequence of this new understanding is that our intuition that time moves at the same rate for everyone (whether standing still or moving at a fast speed) is WRONG.
+In fact, the rate at which time passes depends on your speed.
+Since Einstein’s work in the early part of the 20 th century, this fact has been demonstrated many times by experiments in particle accelerators and through the use of atomic clocks aboard fast moving jet airplanes.
+The effect is only noticeable at extremely fast speeds, thus the normal laws of motion apply in all but the most extreme cases.
+Einstein was finally led to believe that the very fabric of space and time must have a more active and influential role in the laws of physics than had previously been believed.
+Eventually, Einstein became convinced that gravity itself amounted to no more than a curvature in spacetime .
+This theory is called General Relativity.
+Describe what is meant by time dilation in relativity theory.
+Solve relative time problems.
+Students will learn what is meant by time dilation in relativity theory and how to solve relative time problems.
+\beta = \frac{v}{c}
+An object moving with speed v has a dimensionless speed  \beta calculated by dividing the speed v by the speed of light ( \mathit{c} = 3\times10^8 \;\mathrm{m/s} ). 0 \le \beta \le 1 .

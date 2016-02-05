@@ -1,0 +1,20 @@
+Q:
+Which type of current flows through the wires in your home?
+A:
+Alternating current from a power plant flows through the wires in a home.
+Direct current (DC) keeps flowing in just one direction.
+Batteries provide direct current.
+Alternating current (AC) keeps reversing direction.
+Power plants provide alternating current.
+At the following URL, watch the video comparing direct and alternating current.
+Then answer the questions below.
+Current from a battery is __________ current.
+Current from a power plant is __________ current.
+In the U.S., alternating current reverses direction at a rate of __________ hertz.
+What is the advantage of producing and using alternating current?
+How can a device, such as a computer, that needs direct current use alternating current from a wall outlet?
+Compare and contrast direct and alternating current.
+Chemical and Solar Cells
+Explain how a chemical cell works.
+Outline how a solar cell produces electric current.
+Can you identify the two objects pictured above?

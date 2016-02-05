@@ -1,0 +1,20 @@
+Understand the difference between position vs time and velocity vs time graphs.
+In a footrace such as the one pictured, the initial velocity of a runner is zero
+In a footrace such as the one shown here, the initial velocity of a runner is zero.
+The runner increases his velocity out of the starting blocks and his velocity continues to increase as the race proceeds.
+For the well-trained athlete, his highest velocity is maintained through the finish line.
+The instantaneous velocity of an object is the velocity of the object at a given moment.
+If the object is moving with constant velocity, then the instantaneous velocity at every moment, the average velocity, and the constant velocity are all the same.
+Position vs Time Graphs
+Consider a position versus time graph for an object starting at  t =0 and  x = 0 that has a constant velocity of 80. m/s.
+A position versus time graph for an object starting at t=0 and x=0 that has a constant velocity of 80 m/s
+The velocity of an object can be found from a position vs time graph.
+On a position vs time graph, the displacement is the vertical separation between two points and the time interval is the horizontal separation.
+The ratio of displacement to time interval is the average velocity.
+This ratio is also the slope of the line.
+Therefore, the slope of the straight line is the average velocity.
+For the motion pictured above,
+\text{slope}=\frac{\text{rise}}{\text{run}}=\frac{\Delta d}{\Delta t}=\frac{400. \ \text{m}}{5.0 \ \text{s}}=80. \ \text{m/s}
+For accelerated motion (the velocity is constantly changing), the position vs time graph will be a curved line.
+The slope of the curved line at any point is the instantaneous velocity at that time.
+If we were using calculus, the slope of a curved line could be calculated.

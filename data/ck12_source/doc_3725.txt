@@ -1,0 +1,20 @@
+These processes modify the mRNA in various ways.
+Such modifications allow a single gene to be used to make more than one protein.
+Splicing removes introns from mRNA (see Figure below ).
+Introns are regions that do not code for proteins.
+The remaining mRNA consists only of regions that do code for proteins, which are called exons .
+You can watch a video showing splicing in more detail at this link:
+Ribonucleoproteins are nucleoproteins that contains RNA.
+Small nuclear ribonuclearproteins are involved in pre-mRNA splicing.
+Editing changes some of the nucleotides in mRNA.
+For example, the human protein called APOB, which helps transport lipids in the blood, has two different forms because of editing.
+One form is smaller than the other because editing adds a premature stop signal in the mRNA.
+Polyadenylation adds a “tail” to the mRNA.
+The tail consists of a string of As (adenine bases).
+It signals the end of mRNA.
+It is also involved in exporting mRNA from the nucleus.
+In addition, the tail protects mRNA from enzymes that might break it down.
+Splicing introns from mRNA
+Splicing.
+Splicing removes introns from mRNA.
+UTR is an untranslated region of the mRNA.

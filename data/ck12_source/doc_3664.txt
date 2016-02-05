@@ -1,0 +1,20 @@
+Explain how probability is related to inheritance.
+Describe the relationship of probability to gamete formation and fertilization.
+What are the odds of landing on 25 again?
+Not as high as inheriting an allele from a parent.
+Probability plays a big role in determining the chance of inheriting an allele from a parent.
+It is similar to tossing a coin.
+What's the chance of the coin landing on heads?
+Assume you are a plant breeder trying to develop a new variety of plant that is more useful to humans.
+You plan to cross-pollinate an insect-resistant plant with a plant that grows rapidly.
+Your goal is to produce a variety of plant that is both insect resistant and fast growing.
+What percentage of the offspring would you expect to have both characteristics?
+Mendel’s laws can be used to find out.
+However, to understand how Mendel’s laws can be used in this way, you first need to know about probability.
+Probability is the likelihood, or chance, that a certain event will occur.
+The easiest way to understand probability is with coin tosses (see Figure below ).
+When you toss a coin, the chance of a head turning up is 50 percent.
+This is because a coin has only two sides, so there is an equal chance of a head or tail turning up on any given toss.
+Flipping a coin is similar to genetic inheritance
+Tossing a Coin.
+Competitions often begin with the toss of a coin.

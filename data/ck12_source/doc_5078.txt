@@ -1,0 +1,20 @@
+Requires each necessary condition.
+Produces each product.
+Anaerobic Respiration - Advanced
+Distinguish between obligate aerobes, obligate anaerobes, and facultative anaerobes.
+Explain that, in the absence of oxygen fermentation reactions must regenerate NAD + in order for glycolysis to continue making ATP.
+Discuss how your muscles continue to work for you even when your respiratory and cardiovascular system can no longer keep up a continuous supply of oxygen.
+Why does a bakery smell so good?
+When bread bakes, yeast releases carbon dioxide gas, forming the small holes in bread.
+The gas was produced by alcoholic fermentation carried out by yeast.
+After the photosynthetic “oxygen catastrophe” challenged life between 2.5 and 3 billion years ago, evolution rebounded with biochemical pathways to harness and protect against oxygen’s power.
+Today, most organisms use O 2 in aerobic respiration to produce ATP.
+Almost all animals, most fungi, and some bacteria are obligate aerobes , which require oxygen.
+Some plants and fungi and many bacteria retain the ability to make ATP without oxygen.
+Recall that O 2 is the final electron acceptor at the end of the electron transport chain during aerobic respiration.
+Oxygen is required for oxidative phosphorylation to produce ATP.
+But in the absence of O 2 .
+ATP must still be made.
+The facultative anaerobes use ancient anaerobic pathways when oxygen is limited.
+A few bacteria remain as obligate anaerobes , which die in the presence of oxygen and depend on only the first (anaerobic) stage of cellular respiration.
+Aerobic and anaerobic pathways diverge after glycolysis splits glucose into two molecules of pyruvate:

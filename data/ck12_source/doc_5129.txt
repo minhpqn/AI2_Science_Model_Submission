@@ -1,0 +1,20 @@
+Prokaryotic cell division is a much simpler process.
+In prokaryotic cell division, after the single chromosome is copied, the cell grows larger.
+Eventually the two chromosomes separate and move to opposite ends of the cell.
+Newly formed cell membrane then grows into the center of the cell, separating the two chromosomes, and forming two genetically identical daughter cells.
+Some eukaryotic organelles, such as mitochondria and chloroplasts, also divide by binary fission.
+Binary fission can be described as a series of steps, although it is actually a continuous process.
+The steps are described below and also illustrated in Figure below .
+They include DNA replication, chromosome segregation, and finally the separation into two daughter cells.
+Step 1:
+DNA Replication.
+Just before the cell divides, its DNA is copied in a process called DNA replication.
+This results in two identical chromosomes instead of just one.
+This step is necessary so that when the cell divides, each daughter cell will have its own chromosome.
+Step 2:
+Chromosome Segregation.
+The two chromosomes then attach themselves to different parts of the cell membrane.
+Segregation or separation of the chromosomes occurs as they move to opposite ends of the cell during the cell separation process.
+Step 3:
+Separation.
+A new cell membrane starts growing into the center of the cell, and the cytoplasm splits apart, forming two daughter cells.

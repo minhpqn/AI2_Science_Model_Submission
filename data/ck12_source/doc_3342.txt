@@ -1,0 +1,20 @@
+In this article, you’ll find out.
+You can also watch a video introduction to magnets at this URL:
+A magnet is an object that attracts certain materials such as iron.
+You’re probably familiar with common bar magnets, like the one shown in the Figure below .
+Like all magnets, this bar magnet has north and south magnetic poles .
+The red end of the magnet is the north pole and the blue end is the south pole.
+The poles are regions where the magnet is strongest.
+The poles are called north and south because they always line up with Earth’s north-south axis if the magnet is allowed to move freely. (Earth’s axis is the imaginary line around which the planet rotates.)
+Q:
+What do you suppose would happen if you cut the bar magnet pictured in the Figure above along the line between the north and south poles?
+A:
+Both halves of the magnet would also have north and south poles.
+If you cut each of the halves in half, all those pieces would have north and south poles as well.
+Pieces of a magnet always have both north and south poles no matter how many times you cut the magnet.
+Magnetic Force and Magnetic Field
+The force that a magnet exerts on certain materials, including other magnets, is called magnetic force .
+The force is exerted over a distance and includes forces of attraction and repulsion.
+North and south poles of two magnets attract each other, while two north poles or two south poles repel each other.
+A magnet can exert force over a distance because the magnet is surrounded by a magnetic field .
+In the Figure below , you can see the magnetic field surrounding a bar magnet.

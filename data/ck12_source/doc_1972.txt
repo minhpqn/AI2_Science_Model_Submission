@@ -1,0 +1,20 @@
+Conditions were ideal.
+The bacteria divided every 30 minutes.
+After just 10 hours, there were more than a million bacteria!
+Assume the bacteria population keeps growing at this rate.
+How many bacteria will there be at 10.5 hours?
+Or at 12 hours?
+Click on the image above to view the table
+Population Growth Rate
+The population growth rate is how fast a population is growing.
+The letter r stands for the growth rate.
+The growth rate equals the number of new members added to the population in a year for each 100 members already in the population.
+The growth rate includes new members added to the population and old members removed from the population.
+Births add new members to the population.
+Deaths remove members from the population.
+The formula for population growth rate is:
+r = b - d , where
+b = birth rate (number of births in 1 year per 100 population members)
+d = death rate (number of deaths in 1 year per 100 population members)
+If the birth rate is greater than the death rate, r is positive.
+This means that the population is growing bigger.

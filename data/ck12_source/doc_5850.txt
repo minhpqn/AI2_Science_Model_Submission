@@ -1,0 +1,20 @@
+A compound composed of a monatomic metal cation and a monatomic nonmetal anion.
+monatomic:
+Has one atom.
+cation:
+Ions known as cations are because they are positively charged and migrate toward the negative electrode (cathode) in an electrical field.
+anion:
+Negative ions that are formed when a nonmetal atom gains one or more electrons.
+Stock System Naming
+Define the Stock system for naming ionic compounds.
+Name compounds using the Stock system.
+Write formulas of compounds when given the Stock name.
+Models of an MP3 player are like ions of transition metals
+How is an mp3 player designed?
+In describing many technological items, it's not enough to simply say what brand or model we have.
+We talk about details such as how much horsepower is “under the hood” for a car or how fast the chip is for our computer.
+Even a simple device like an mp3 player has more than one size.
+We can get an 8 MB player, or a 16 MB player.
+Designation of the item often is incomplete without other information as to its capabilities.
+Transition metals have more than one possibility for ion formation.
+In order to name these compounds correctly, we need to be able to indicate which ion is involved in any given compound.

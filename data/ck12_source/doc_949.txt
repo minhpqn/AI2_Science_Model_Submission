@@ -1,0 +1,20 @@
+In 1964, it was first suggested that protons and neutrons do have smaller component parts, namely quarks .
+The quark model was accepted very slowly because quarks had not been observed and weren’t all observed until 1995.
+The known quarks are divided into three families, low energy, medium energy, and high energy.
+Low energy family
+Low energy family
+Medium energy family
+Medium energy family
+High energy family
+High energy family
+Particles that are composed of three quarks are called baryons .
+The two best known baryons are protons and neutrons.
+A proton is composed of two up quarks and one down quark (uud).
+The charge on the proton is the result of adding the charges on these quarks \left(+ \frac{2}{3} + \frac{2}{3} - \frac{1}{3} = +1 \right) .
+Neutrons are composed of one up quark and two down quarks (udd).
+The charge on the neutron is the result of adding the charges on these quarks \left(+ \frac{2}{3} - \frac{1}{3} - \frac{1}{3} = 0\right) .
+Everyday objects are made up of quarks from the lowest energy family, namely up and down quarks.
+Quarks in the middle energy family are found in cosmic rays and are produced in particle accelerators.
+Particles in the high energy family are believed to have existed briefly during the earliest moments of the Big Bang and are created only in high energy collisions.
+In 1964, it was first suggested that protons and neutrons do have smaller component parts, namely quarks.
+The known quarks are divided into three families, low energy, medium energy, and high energy.

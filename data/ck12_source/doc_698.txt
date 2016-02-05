@@ -1,0 +1,20 @@
+Multiplying both sides of the equation by 30x  yields 3x + 30 = 2x and x = -30.0 \ cm .
+The negative image distance indicates that the image is behind the mirror.
+We know the image is virtual because it is behind the mirror.
+Since the image is 3 times as far from the mirror as the object, it will be 3 times as tall.
+Therefore, the image height is 3.00 cm.
+A spherical mirror is concave if the center of the mirror is further from the viewer than the edges.
+For an object that is infinitely far away, incoming rays would be exactly parallel.
+As long as the section of mirror is small compared to its radius of curvature, all the reflected rays will pass through a common point, called the focal point.
+The distance along the principle axis from the mirror to the focal point is called the focal length, f.
+This is also exactly one-half of the radius of curvature.
+The mirror equation is \frac{1}{d_o}+\frac{1}{d_i}=\frac{1}{f} .
+The magnification equation is m=-\frac{d_i}{d_o} .
+For concave mirrors, when the object is outside C , the image will be between C  and F  and the image will be inverted and diminished (smaller than the object).
+For concave mirrors, when the object is between C  and F , the image will be beyond C  and will be enlarged and inverted.
+For concave mirrors, when the object is between F  and the mirror, the image will be behind the mirror and will be enlarged and upright.
+For more questions regarding concave mirrors with audio guided solutions, click on the link below:
+A concave mirror is designed so that a person 20.0 cm in front of the mirror sees an upright image magnified by a factor of two.
+What is the radius of curvature of this mirror?
+If you have a concave mirror whose focal length is 100.0 cm, and you want an image that is upright and 10.0 times as tall as the object, where should you place the object?
+A concave mirror has a radius of curvature of 20.0 cm.

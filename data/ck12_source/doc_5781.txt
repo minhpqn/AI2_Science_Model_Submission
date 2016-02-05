@@ -1,0 +1,20 @@
+These changes influence how the nucleus attracts electrons.
+In general, the ionization energy of an atom will increase as we move from left to right across the periodic table.
+There are several exceptions to the general increase in ionization energy across a period.
+The elements of Group 13 (B, Al, etc.) have lower ionization energies than the elements of Group 2 (Be, Mg, etc.).
+This is an illustration of a concept called “ electron shielding .” Outer electrons are partially shielded from the attractive force of the protons in the nucleus by inner electrons.
+Diagram of the shielding effect
+The shielding effect is shown by the interior electron cloud (light blue) shielding the outer electron of interest from the full attractive force of the nucleus.
+A larger shielding effect results in a decrease in ionization energy.
+To explain how shielding works, consider a lithium atom.
+It has three protons and three electrons – two in the first principal energy level and its valence electron in the second.
+The valence electron is partially shielded from the attractive force of the nucleus by the two inner electrons.
+Removing that valence electron becomes easier because of the shielding effect.
+There is also a shielding effect that occurs between sublevels within the same principal energy level.
+Specifically, an electron in the “ s ” sublevel is capable of shielding electrons in the “ p ” sublevel of the same principal energy level.
+This is because of the spherical shape of the “ s ” orbital.
+The reverse is not true – electrons in “ p ” orbitals do not shield electrons in “ s ” orbitals.
+3s orbital shielding the 3p orbital
+The spherical 3 s orbital exhibits a shielding effect on the dumbbell shaped 3 p orbital that is of slightly higher energy.
+This reduces the ionization energy of a 3 p electron compared to a 3 s electron.
+The electron being removed from an Al atom is a 3 p electron, which is shielded by the two 3 s electrons as well as all the inner core electrons .

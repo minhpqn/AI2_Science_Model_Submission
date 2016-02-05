@@ -1,0 +1,20 @@
+Plasmodesmata (singular, plasmodesma ) are microscopic channels which traverse the cell walls of plant cells and some algal cells.
+These junctions enable two cells to transport materials and communication between them.
+Plasmodesmata are similar to gap junctions of animal cells.
+Like gap junctions, plasmodesmata enable direct intercellular transport of substances between cells.
+However, unlike other junctions, plasmodesmata do not seem to be protein based.
+Rather, they are made from membrane and cell wall material.
+Plasmodesmata move various types of molecules, including transport proteins (including transcription factors), short interfering RNA, messenger RNA and viral genomes from cell to cell.
+A typical plant cell may have between 1,000 and 100,000 plasmodesmata connecting it with adjacent cells.
+There are two forms of plasmodesmata: primary plasmodesmata, which are formed during cell division, and secondary plasmodesmata, which can form between mature cells.
+As plant cells are surrounded by a polysaccharide cell wall, movement of materials and communication between cells is more complicated than in animal cells.
+Neighboring plant cells are separated by a pair of cell walls and the space between them, forming an extracellular domain known as the apoplast .
+Primary plasmodesmata form during cell division.
+These junctions form as portions of the endoplasmic reticulum are trapped in the apoplast as new cell wall is formed between two newly divided plant cells.
+This eventually become the cytoplasmic connections between cells (primary plasmodesmata).
+Secondary plasmodesmata form as plasmodesmata are inserted into existing cell walls between non-dividing cells.
+This process forms a cytoplasmic sleeve, a fluid-filled space enclosed by the cell membrane.
+The cytoplasmic sleeve is a continuous extension of the cytosol of the two adjacent cells.
+Molecules and ions pass through plasmodesmata using this passage.
+These molecules move by diffusion without the need for additional chemical energy.
+apoplast :

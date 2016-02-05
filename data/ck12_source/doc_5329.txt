@@ -1,0 +1,20 @@
+Four Letter Code
+DNA is made of a four letter code, made of just As, Cs, Gs, and Ts, that determines what the organism will become and what it will look like.
+How can these four bases carry so much information?
+This information results from the order of these four bases in the chromosomes.
+This sequence carries the unique genetic information for each species and each individual.
+Humans have about 3,000,000,000 bits of this information in each cell; 3 billion bases in the genome .
+A gorilla may also have close to that amount of information, but a slightly different sequence.
+For example, the sequence 5'-AGGTTTACCAGT-3' will have different information than 5'-CAAGGGATTACT-3'.
+The closer the evolutionary relationship is between two species, the more similar their DNA sequences will be.
+For example, the DNA sequences between two species of reptiles will be more similar than between a reptile and an elm tree.
+DNA sequences can be used for scientific, medical, and forensic purposes.
+DNA sequences can be used to establish evolutionary relationships between species, to determine a person’s susceptibility to inherit or develop a certain disease, or to identify crime suspects or victims.
+Of course, DNA analysis can be used for other purposes as well.
+So why is DNA so useful for these purposes?
+It is useful because every cell in an organism has the same DNA sequence.
+For this to occur, each cell must have a mechanism to copy its entire DNA.
+How can so much information be exactly copied in such a small amount of time?
+The structure of DNA is discussed at (28:05).
+Protein synthesis, which is the focus of the next lesson, is also discussed in this video.
+Click on the image above for more content

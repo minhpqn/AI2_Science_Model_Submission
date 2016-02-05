@@ -1,0 +1,20 @@
+Click on the image above for more content
+Click on the image above for more content
+Sketchy LeBaron, a used car salesman, claims his car is able to go from 0 to 60 mi/hr in 3.5 seconds.
+What is the average acceleration of this car?
+Give your answer in \;\mathrm{m/s}^2 . (Hint: you will have to perform a conversion.)
+How much distance does this car cover in these 3.5 seconds?
+Express your answer twice: in meters and in feet.
+What is the speed of the car in mi/hr after 2 seconds?
+Michael Jordan had a vertical jump of about 48 inches.
+Convert this height into meters.
+Assuming no air resistance, at what speed did he leave the ground?
+What is his speed 3/4 of the way up?
+What is his speed just before he hits the ground on the way down?
+You are sitting on your bike at rest.
+Your brother comes running at you from behind at a speed of 2 m/s.
+At the exact moment he passes you, you start up on your bike with an acceleration of 2 \;\mathrm{m/s}^2 .
+Draw a picture of the situation, defining the starting positions, speeds, etc.
+At what time t do you have the same speed as your brother?
+At what time t do you pass your brother?
+Draw another picture of the exact moment you catch your brother.

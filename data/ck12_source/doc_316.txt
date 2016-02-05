@@ -1,0 +1,20 @@
+The amount of potential energy necessary for a phase change to gaseous form is called the heat of vaporization.
+The heat gained or lost during a temperature change is given by, Q = mc \Delta t .
+The heat gained or lost during a phase change of solid to liquid is given by, Q = mH_f .
+The heat gained or lost during a phase change of liquid to gas is given by, Q = mH_v .
+The following video explains heat of fusion and vaporization.
+Use this video to answer the questions that follow.
+Click on the image above for more content
+For water, which takes more energy, melting or evaporating?
+When are there two phases present at the same time in the pot?
+Practice problems involving phase changes:
+A 200. g sample of water at 60.0°C is heated to water vapor at 140.0°C.
+How much heat was absorbed?
+A 175 g lump of molten lead at its melting point (327°C) is placed into 55.0 g of water at 20.0°C.
+The specific heat of lead is  130 \ J/kg \cdot ^\circ C and the  H_f  of lead is 20,400 J/kg.
+When the lead has become solid but is still at the melting point, what is the temperature of the water?
+When the lead and the water have reached equilibrium, what is the temperature of the mixture?
+phase change:
+When a substance changes from one state, or phase, of matter to another we say that it has undergone a change of state, or we say that it has undergone a change of phase.
+heat of fusion:
+The change in potential energy for the conversion of 1 mole or 1 gram of a solid to a liquid, at constant pressure and temperature and is usually denoted as  \Delta H_f .

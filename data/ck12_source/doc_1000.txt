@@ -1,0 +1,20 @@
+The Fitzgerald contraction reduced his sword to a disk.
+The equation for length contraction is L=L_o\sqrt{1-\frac{v^2}{c^2}} where  L_o is the length measured on the moving body, L  is the length measured on the stationary body,  v is the relative speed of the reference frames, and  c is the speed of light.
+You can see by analysis of the equation that when the relative velocity is zero, the two lengths are the same, when the relative speed is less than 1000 m/s, the effect is too small to notice, and only when the relative speed is a significant fraction of the speed of light is the contraction measureable.
+Example Problem:
+A spaceship passes the earth at a speed v = 0.80 \ \text{c} .
+What is the length of a meter stick laying on a table in the ship and pointing in the direction of motion of the ship as measured by a person on the ship?
+What is the length of a meter stick laying on a table in the ship and pointing in the direction of motion of the ship as measured by a person on the earth?
+relative to a person on the ship, the meter stick is at rest and therefore its length is 1.0 m
+L=L_o\sqrt{1-\frac{v^2}{c^2}}=(1.0 \ \text{m})\sqrt{1-\frac{(0.80 \ c)^2}{c^2}}=(1.0 \ \text{m})\sqrt{1-0.64}=0.60 \ \text{m}
+The three basic mechanical quantities are length, time, and mass.
+Since length and time have been shown to be relative (their value depends on the reference frame from which they are measured), it might be expected that mass is also relative.
+Einstein showed that the mass of an object increases as its speed increases according to the formula
+where  M is the mass of the moving body,  m_o is the mass of the body at rest (or rest mass),  v is the velocity of the body and  c is the velocity of light.
+For many years it was conventional to enter the discussion of dynamics through derivation of the relativistic mass and this is probably still the dominant mode in textbooks.
+More recently, however, it has been increasingly recognized that relativistic mass is a troublesome and dubious concept.
+Many physicists reject the concept of relativistic mass and oppose teaching the concept.
+Instead, they prefer to approach relativism through momentum rather than through relativistic mass.
+If momentum is the preferred place to express relativistic dynamics, the equation is
+Where  p is momentum,  m_o is rest mass,  v is the velocity of the body and  c is the velocity of light.
+Example Problem:

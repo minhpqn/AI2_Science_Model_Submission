@@ -1,0 +1,20 @@
+Consider a converging lens with a focal length equal to three units and an object placed outside the focal point.
+Carefully trace three rays coming off the top of the object and form the image.
+Measure d_o and d_i .
+Use the mirror/lens equation to calculate d_i .
+Find the percent difference between your measured d_i and your calculated d_i .
+Measure the magnification M and compare it to the calculated magnification.
+Consider a converging lens with a focal length equal to three units, but this time with the object placed inside the focal point.
+Carefully trace three rays coming off the top of the object and form the image.
+Measure d_o and d_i .
+Use the mirror/lens equation to calculate d_i .
+Find the percent difference between your measured d_i and your calculated d_i .
+Measure the magnification M and compare it to the calculated magnification.
+Consider a diverging lens with a focal length equal to four units.
+Carefully trace three rays coming off the top of the object and show where they converge to form the image.
+Measure d_o and d_i .
+Use the mirror/lens equation to calculate d_i .
+Find the percent difference between your measured d_i and your calculated d_i .
+Measure the magnification M and compare it to the calculated magnification.
+A piece of transparent goo falls on your paper.
+You notice that the letters on your page appear smaller than they really are.

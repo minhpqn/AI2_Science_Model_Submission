@@ -1,0 +1,20 @@
+An electric shock occurs when there is a sudden discharge of static electricity.
+What Is Static Electricity?
+Static electricity is a buildup of electric charges on objects.
+Charges build up when negative electrons are transferred from one object to another.
+The object that gives up electrons becomes positively charged, and the object that accepts the electrons becomes negatively charged.
+This can happen in several ways.
+One way electric charges can build up is through friction between materials that differ in their ability to give up or accept electrons.
+When you wipe your rubber-soled shoes on the wool mat, for example, electrons rub off the mat onto your shoes.
+As a result of this transfer of electrons, positive charges build up on the mat and negative charges build up on you.
+Once an object becomes electrically charged, it is likely to remain charged until it touches another object or at least comes very close to another object.
+That’s because electric charges cannot travel easily through air, especially if the air is dry.
+Q:
+You’re more likely to get a shock in the winter when the air is very dry.
+Can you explain why?
+A:
+When the air is very dry, electric charges are more likely to build up objects because they cannot travel easily through the dry air.
+This makes a shock more likely when you touch another object.
+What happens when you have become negatively charged and your hand approaches the metal doorknocker?
+Your negatively charged hand repels electrons in the metal, so the electrons move to the other side of the knocker.
+This makes the side of the knocker closest to your hand positively charged.

@@ -1,0 +1,20 @@
+When preparing dilutions of concentrated sulfuric acid, the directions usually call for adding the acid slowly to water with a lot of stirring.
+When this acid is mixed with water, a great deal of heat is released in the dissolving process.
+If water were added to acid, the water would quickly heat and splatter, causing harm to the person making the solution.
+Heat of Solution
+Enthalpy changes also occur when a solute undergoes the physical process of dissolving into a solvent.
+Hot packs and cold packs (see Figure below ) use this property.
+Many hot packs use calcium chloride, which releases heat when it dissolves according to the equation below.
+\text{CaCl}_2(s) \rightarrow \text{Ca}^{2+}(aq)+2\text{Cl}^-(aq)+82.8 \text{ kJ}
+The molar heat of solution (\Delta H_{\text{soln}}) of a substance is the heat absorbed or released when one mole of the substance is dissolved in water.
+For calcium chloride, \Delta H_{\text{soln}}=-82.8 \text{ kJ/mol} .
+Instant hot and cold packs generate or absorb heat when chemicals are dissolved in water
+Chemical hot packs and cold packs work because of the heats of solution of the chemicals inside them.
+When the bag is squeezed, an inner pouch bursts, allowing the chemical to dissolve in water.
+Heat is released in the hot pack and absorbed in the cold pack.
+Many cold packs use ammonium nitrate, which absorbs heat from the surroundings when it dissolves.
+\text{NH}_4\text{NO}_3(s)+25.7 \text{ kJ} \rightarrow \text{NH}_4^+(aq)+\text{NO}_3^-(aq)
+Cold packs are typically used to treat muscle strains and sore joints.
+The cold pack is activated and applied to the affected area.
+As the ammonium nitrate dissolves, it absorbs heat from the body and helps to limit swelling.
+For ammonium nitrate, \Delta H_{\text{soln}}= 25.7 \text{ kJ/mol} .

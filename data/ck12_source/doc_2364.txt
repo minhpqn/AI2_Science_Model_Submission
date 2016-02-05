@@ -1,0 +1,20 @@
+nanometer (nm) = 0.000000001 m
+Q:
+What is the name of the unit that is one-hundredth (0.01) of a meter?
+A:
+The name of this unit is the centimeter.
+Q:
+What fraction of a meter is a decimeter?
+A:
+A decimeter is one-tenth (0.1) of a meter.
+In the Table below , two basic SI units are compared with their English system equivalents.
+You can use the information in the table to convert SI units to English units or vice versa.
+For example, from the table you know that 1 meter equals 39.37 inches.
+How many inches are there in 3 meters?
+3 m = 3(39.37 in) = 118.11 in
+English Unit Equivalent
+1 m = 39.37 in
+1 kg = 2.20 lb
+Q:
+Rod needs to buy a meter of wire for a science experiment, but the wire is sold only by the yard.
+If he buys a yard of wire, will he have enough? ( Hint:

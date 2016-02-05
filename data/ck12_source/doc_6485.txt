@@ -1,0 +1,20 @@
+The overall cell potential can be calculated by using the equation E^0_{\text{cell}}=E^0_{\text{red}} - E^0_{\text{oxid}} .
+Step 2:
+Solve.
+& \ \ \text{oxidation (anode):} \ \text{Sn}(s) \rightarrow \text{Sn}^{2+}(aq)+2e^- \\& \text{reduction (cathode):} \ \text{Ag}^+(aq)+e^- \rightarrow \text{Ag}(s)
+Before adding the two reactions together, the number of electrons lost in the oxidation must equal the number of electrons gained in the reduction.
+The silver half-cell reaction must be multiplied by two.
+After doing that and adding to the tin half-cell reaction, the overall equation is obtained.
+\text{overall equation} \qquad \ \text{Sn}(s)+2\text{Ag}^+(aq) \rightarrow \text{Sn}^{2+}(aq)+2\text{Ag}(s)
+The cell potential is calculated.
+E^0_{\text{cell}}=E^0_{\text{red}} - E^0_{\text{oxid}}=+0.80 \text{ V} - (-0.14 \text{ V})=+0.94 \text{ V}
+Step 3:
+Think about your result.
+The standard cell potential is positive, so the reaction is spontaneous as written.
+Tin is oxidized at the anode, while silver ion is reduced at the cathode.
+Note that the voltage for the silver ion reduction is not doubled even though the reduction half-reaction had to be doubled to balance the overall redox equation.
+Oxidizing and Reducing Agents
+A substance which is capable of being reduced very easily is a strong oxidizing agent.
+Conversely, a substance which is capable of being oxidized very easily is a strong reducing agent.
+According to the standard cell potential table, fluorine (F 2 ) is the strongest oxidizing agent.
+It will oxidize any substance below on the table.

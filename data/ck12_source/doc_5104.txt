@@ -1,0 +1,20 @@
+Bacteria can be identified and classified by their shape:
+Bacilli are rod-shaped.
+Cocci are sphere-shaped.
+Spirilli are spiral-shaped.
+Drawing of rod, sphere, and spiral shaped bacteria
+Bacteria come in many different shapes.
+Some of the most common shapes are bacilli (rods), cocci (spheres), and spirilli (spirals).
+Bacteria can be identified and classified by their shape.
+Similarities to Eukaryotes
+Like eukaryotic cells, bacterial cells have:
+Cytoplasm, the fluid inside the cell.
+A plasma or cell membrane, which acts as a barrier around the cell.
+Ribosomes, in which proteins are put together.
+DNA.
+By contrast though, bacterial DNA is contained in a large, circular strand.
+This single chromosome is located in a region of the cell called the nucleoid .
+Many bacteria also have additional small rings of DNA known as plasmids .
+See bacterial cell pictured below ( Figure below ).
+Structure of a bacterial cell
+The structure of a bacterial cell is distinctive from a eukaryotic cell because of features such as an outer cell wall, the circular DNA of the nucleoid, and the lack of membrane-bound organelles.

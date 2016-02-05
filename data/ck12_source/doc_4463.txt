@@ -1,0 +1,20 @@
+The temperature change triggers a command from the brain.
+This command can cause several responses.
+If you are too hot, the skin makes sweat and blood vessels near the skin surface dilate.
+This response helps decrease body temperature.
+Another example of negative feedback has to do with blood glucose levels.
+When glucose (sugar) levels in the blood are too high, the pancreas secretes insulin to stimulate the absorption of glucose and the conversion of glucose into glycogen, which is stored in the liver.
+As blood glucose levels decrease, less insulin is produced.
+When glucose levels are too low, another hormone called glucagon is produced, which causes the liver to convert glycogen back to glucose.
+Negative feedback regulation is used to regulate the temperature of the body
+Feedback Regulation.
+If a raise in body temperature (stimulus) is detected (receptor), a signal will cause the brain to maintain homeostasis (response).
+Once the body temperature returns to normal, negative feedback will cause the response to end.
+This sequence of stimulus-receptor-signal-response is used throughout the body to maintain homeostasis.
+Some processes in the body are regulated by positive feedback.
+Positive feedback is when a response to an event increases the likelihood of the event to continue.
+An example of positive feedback is milk production in nursing mothers.
+As the baby drinks her mother's milk, the hormone prolactin, a chemical signal, is released.
+The more the baby suckles, the more prolactin is released, which causes more milk to be produced.
+Other examples of positive feedback include contractions during childbirth.
+When constrictions in the uterus push a baby into the birth canal, additional contractions occur.

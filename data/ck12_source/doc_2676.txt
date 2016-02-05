@@ -1,0 +1,20 @@
+The relationship between reactants and products in a chemical reaction can be represented by a chemical equation that has this general form:
+Reactants → Products
+The arrow (→) shows the direction in which the reaction occurs.
+In many reactions, the reaction also occurs in the opposite direction.
+This is represented with another arrow pointing in the opposite direction (←).
+Q:
+Write a general chemical equation for the reaction that occurs when a fuel such as candle wax burns.
+A:
+The burning of fuel is a combustion reaction.
+The general equation for this type of reaction is:
+Fuel + O 2 → CO 2 + H 2 O
+Q:
+How do the reactants in a chemical reaction turn into the products?
+A:
+Bonds break in the reactants, and new bonds form in the products.
+Breaking and Making Chemical Bonds
+The reactants and products in a chemical reaction contain the same atoms, but they are rearranged during the reaction.
+As a result, the atoms end up in different combinations in the products.
+This makes the products new substances that are chemically different from the reactants.
+Consider the example of water forming from hydrogen and oxygen.

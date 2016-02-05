@@ -1,0 +1,20 @@
+You can see the green color of the chlorophyll.
+You cannot see the electron carriers, sequenced within the sac membranes, but their arrangement helps harvest small amounts of energy from excited electrons.
+The thylakoid membranes contain molecules of the green pigment chlorophyll.
+Pigments and Electron Carriers
+Pigment molecules, often arranged together with proteins in large, complex photosystems within the thylakoid membrane, absorb specific wavelengths of light energy and reflect others; therefore, they appear colored.
+The most common photosynthetic pigment is chlorophyll , which absorbs blue-violet and red wavelengths of light, and reflects green.
+Various types of chlorophyll exist, including chlorophyll a and chlorophyll b.
+Accessory pigments absorb other colors of light and then transfer the energy to chlorophyll.
+These include xanthophylls (yellow) and carotenoids (orange).
+Electron carrier molecules are usually arranged in electron transport chains (ETCs), also within the thylakoid membrane.
+These accept and pass along energy-carrying electrons in small steps ( Figure below ).
+In this way, they produce ATP and NADPH, which temporarily store chemical energy.
+Electrons in transport chains behave much like a ball bouncing down a set of stairs – a little energy is lost with each bounce.
+However, the energy “lost” at each step in an electron transport chain accomplishes a little bit of work, including the active transport of H + ions from the stroma into the thylakoid, which eventually results in the synthesis of ATP.
+Chlorophyll a is the primary electron donor in the electron transport chain.
+This figure shows the light reactions of photosynthesis.
+This stage of photosynthesis begins with photosystem II (so named because it was discovered after photosystem I).
+Find the two electrons (2 e - ) in photosystem II, and then follow them through the electron transport chain (also called the electron transfer chain) to the formation of NADPH.
+Where do the hydrogen ions (H + ) come from that help make ATP?
+Now that you’ve met some of the key players and explored the chloroplast, let’s put them together to see how the photosynthetic process unfolds.

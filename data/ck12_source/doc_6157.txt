@@ -1,0 +1,20 @@
+P(A) &= 30\% \ \text{or} \ 0.30\\P(B) &= 25\% \ \text{or} \ 0.25\\ P(A \ \text{and} \ B) &= P(A) \times P(B)\\P(A \ \text{and} \ B) &= 0.30 \times 0.25\\P(A \ \text{and} \ B) &= 0.075 In other words, 7.5% of the students of ABC high school are both on the honor roll and have a part-time job.
+In Example 1, 2 coins are tossed one after the other.
+Remember that event A consists of the outcomes when getting heads on the first toss, and event B consists of the outcomes when getting heads on the second toss.
+What would be the probability of tossing the coins and getting a head on both the first coin and the second coin?
+We know that the probability of getting a head on a coin toss is \frac{1}{2}, or 50%.
+In other words, we have a 50% chance of getting a head on a toss of a fair coin and a 50% chance of getting a tail.
+P(A) &= 50\% \ \text{or} \ 0.50\\P(B) &= 50\% \ \text{or} \ 0.50\\\\P(A \ \text{and} \ B) &= P(A) \times P(B)\\P(A \ \text{and} \ B) &= 0.50 \times 0.50\\P(A \ \text{and} \ B) &= 0.25 Therefore, there is a 25% chance of getting 2 heads when tossing 2 fair coins.
+Example 4 2 cards are chosen from a deck of cards.
+The first card is replaced before choosing the second card.
+What is the probability that they both will be sevens?
+Solution:
+Let A = 1^{\text{st}} seven chosen.
+Let B = 2^{\text{nd}} seven chosen.
+A little note about a deck of cards A deck of cards consists of 52 cards.
+Each deck has 4 parts (suits) with 13 cards in them.
+Each suit has 3 face cards. & 4 \ \text{suits} \qquad 1 \ \text{seven} \ \text{per suit}\\& \ \searrow \qquad \swarrow\\\text{The total number of sevens in the deck} &= 4 \times 1=4.
+Since the card was replaced, these events are independent:
+P(A) &= \frac{4}{52}\\\\& \qquad \qquad \ \ \text{Note:
+The total number of cards is}\\P(B) &= \frac{4}{52} \ \swarrow \ \text{52 after choosing the first card,}\\& \qquad \qquad \ \ \text{because the first card is replaced.}\\\\P(A \ \text{and} \ B) &= \frac{4}{52} \times \frac{4}{52} \ \text{or} \ P(A \cap B)=\frac{4}{52} \times \frac{4}{52}\\\\P(A \cap B) &= \frac{16}{2704}\\\\P(A \cap B) &= \frac{1}{169} Example 5 The following table represents data collected from a grade 12 class in DEF High School.
+Plans after High School Gender University Community College Total Males 28 56 84 Females 43 37 80 Total 71 93 164 Suppose 1 student was chosen at random from the grade 12 class. (a) What is the probability that the student is female? (b) What is the probability that the student is going to university?

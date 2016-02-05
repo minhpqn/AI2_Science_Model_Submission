@@ -1,0 +1,20 @@
+The mixture of a solute in a solvent is called a solution .
+Imagine now that you have a second cup with 100ml of water, and you add 45 grams of table sugar to the water.
+Just like the first cup, the sugar is the solute, and the water is the solvent.
+But now you have two mixtures of different solute concentrations.
+In comparing two solutions of unequal solute concentration, the solution with the higher solute concentration is hypertonic , and the solution with the lower solute concentration is hypotonic .
+Solutions of equal solute concentration are isotonic .
+The first sugar solution is hypotonic to the second solution.
+The second sugar solution is hypertonic to the first.
+You now add the two solutions to a beaker that has been divided by a selectively permeable membrane, with pores that are too small for the sugar molecules to pass through, but are big enough for the water molecules to pass through.
+The hypertonic solution is on one side of the membrane and the hypotonic solution on the other.
+The hypertonic solution has a lower water concentration than the hypotonic solution, so a concentration gradient of water now exists across the membrane.
+Water molecules will move from the side of higher water concentration to the side of lower concentration until both solutions are isotonic.
+At this point, equilibrium is reached.
+Osmosis is the diffusion of water molecules across a selectively permeable membrane from an area of higher concentration to an area of lower concentration.
+Water moves into and out of cells by osmosis.
+If a cell is in a hypertonic solution, the solution has a lower water concentration than the cell cytosol, and water moves out of the cell until both solutions are isotonic.
+Cells placed in a hypotonic solution will take in water across their membrane until both the external solution and the cytosol are isotonic.
+A cell that does not have a rigid cell wall, such as a red blood cell, will swell and lyse (burst) when placed in a hypotonic solution.
+Cells with a cell wall will swell when placed in a hypotonic solution, but once the cell is turgid (firm), the tough cell wall prevents any more water from entering the cell.
+When placed in a hypertonic solution, a cell without a cell wall will lose water to the environment, shrivel, and probably die.

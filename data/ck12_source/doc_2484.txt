@@ -1,0 +1,20 @@
+Based on the results of the research, Charles developed a scientific law about gases.
+It is one of three well-known gas laws, the others being Boyle’s law and Amontons’ law.
+According to Charles’ law , when the pressure of a gas is held constant, increasing its temperature increases its volume.
+The opposite is also true: decreasing the temperature of a gas decreases it volume.
+You Try It!
+At the URL below, you can simulate Charles’ and Gay-Lussac’s work.
+The simulation lets you choose different temperatures for a gas and see how it affects the volume of the gas.
+After you have recorded several sets of values in the data table, use the graphing feature to plot the points.
+Q:
+What does the graph of the data look like?
+A:
+The graph is a straight line that rises from left to right.
+This type of graph shows that both variables increase together at a constant rate.
+Q:
+Could you use the graph to find the volume of a gas at a temperature you didn’t choose for your data table?
+A:
+Yes, you could.
+You could find the temperature on the temperature scale, trace straight up from this point to the graph line, and then trace straight across to the volume scale to find the volume for that temperature.
+Can you guess why the volume of a gas increases when it is heated?
+Heating a gas gives its particles more energy.

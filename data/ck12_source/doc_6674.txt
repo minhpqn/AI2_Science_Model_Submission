@@ -1,0 +1,19 @@
+Convert the French speed limit of 140 \;\mathrm{km/hr} into \;\mathrm{mi/hr} .
+Estimate or measure your weight.
+Convert your weight in pounds into a mass in kg
+Convert your mass from kg into \mu g
+Convert your weight into Newtons
+Find the SI unit for pressure.
+An English lord says he weighs 12 stone.
+Convert his weight into pounds (you may have to do some research online)
+Convert his weight in stones into a mass in kilograms
+If the speed of your car increases by 10 \;\mathrm{mi/hr} every 2 seconds, how many \;\mathrm{mi/hr} is the speed increasing every second?
+State your answer with the units \;\mathrm{mi/hr/s} .
+a.
+A person of height 5 \;\mathrm{ft} . 11 \;\mathrm{in} . is 1.80 \;\mathrm{m} tall b.
+The same person is 180 \;\mathrm{cm}
+a. 3 \;\mathrm{seconds} = 1/1200 \;\mathrm{hours} b. 3x10^3 \;\mathrm{ms}
+If the person weighs 150 \;\mathrm{lb} then a. 67.9 kg (on Earth) b. 67.9 billion \mu g c. this is equivalent to 668 \;\mathrm{N}
+Pascals (Pa), which equals \;\mathrm{N/m}^2
+a. 168 \;\mathrm{lb} .,b. 76.2 \;\mathrm{kg}
+In this chapter, students will learn how to work with the metric system, how to do unit conversions using dimensional analysis and how to work with vectors.

@@ -1,0 +1,20 @@
+Take the electric circuit quiz at the following URL.
+Be sure to have your answers corrected.
+Try the quiz again if any of your answers are incorrect.
+What is an electric circuit?
+Which two parts must all electric circuits contain?
+Sketch a simple circuit that includes a battery, switch, and light bulb.
+Then make a circuit diagram to represent your circuit, using standard circuit symbols.
+Series and Parallel Circuits
+Describe a series circuit.
+Explain how a parallel circuit differs from a series circuit.
+Only a licensed professional electrician like this one is qualified to install or repair the electrical system inside a home.
+It’s a complicated system that consists of a maze of electric circuits.
+One Loop or Two?
+An electric circuit consists of at least one closed loop through which electric current can flow.
+Every circuit has a voltage source such as a battery and a conductor such as metal wire.
+A circuit may have other parts as well, such as lights and switches.
+In addition, a circuit may consist of one loop or two loops.
+A circuit that consists of one loop is called a series circuit .
+You can see a simple series circuit below.
+If a series circuit is interrupted at any point in its single loop, no current can flow through the circuit and no devices in the circuit will work.

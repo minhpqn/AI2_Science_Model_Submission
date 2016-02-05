@@ -1,0 +1,20 @@
+Scientists used carbon-14 dating to estimate its age.
+Carbon-14 is one of several radioisotopes that scientists use to estimate the ages of fossils and other ancient materials.
+What Are Radioisotopes?
+All the atoms of a given element have the same number of protons in their nucleus, but they may have different numbers of neutrons.
+Atoms of the same element with different numbers of neutrons are called isotopes.
+Many elements have one or more isotopes that are radioactive.
+These isotopes are called radioisotopes .
+Their nuclei are unstable, so they break down, or decay, and emit radiation.
+Q:
+What makes the nucleus of a radioisotope unstable?
+A:
+The nucleus may be unstable because it has too many protons or an unstable ratio of protons to neutrons.
+For a nucleus with a small number of protons to be stable, the ratio of protons to neutrons should be 1:1.
+For a nucleus with a large number of protons to be stable, the ratio should be about 1:1.5.
+An Example:
+Carbon-14
+Find carbon in the Figure below , and you’ll see that its atomic number is 6.
+This means that all carbon atoms have 6 protons per nucleus.
+Almost all carbon atoms also have 6 neutrons per nucleus.
+These carbon atoms are called carbon-12, where 12 is the number of protons (6) plus neutrons (6).

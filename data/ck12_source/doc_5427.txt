@@ -1,0 +1,20 @@
+On or Off?
+That is the key question.
+Why are some genes expressed and others are not?
+Why do different cell types have different proteins?
+How do different cell types have different functions?
+The answers to those questions are related.
+Gene regulation in eukaryotes is a highly regulated process usually involving many proteins, which either bind to each other or bind to the DNA.
+Eukaryotic Gene Regulation
+All your cells have the same DNA and therefore the same genes, yet they have different proteins because they express different genes.
+In eukaryotic cells, the start of transcription is one of the most complex aspects of gene regulation.
+Transcriptional regulation involves the formation of an initiation complex involving interactions between a number of transcription factors, cis-regulatory elements, and enhancers , distant regions of DNA that can loop back to interact with a gene’s promoter.
+These regulatory elements occur in unique combinations within a given cell type, resulting in only necessary genes being transcribed in certain cells.
+Transcription factors , or trans-acting factors, bind to a DNA strand, usually interacting with cis-regulatory elements, allowing RNA polymerase to bind and start transcription.
+Each gene has unique cis-regulatory sequences, only allowing specific transcription factors to bind.
+However, there are common regulatory sequences found in most genes.
+The TATA box is a cis-regulatory element found in the promoter of most eukaryotic genes.
+It has the DNA sequence 5'-TATAAA-3' or a slight variant, and has been highly conserved throughout evolution.
+When the appropriate cellular signals are present, RNA polymerase binds to the TATA box, completing the initiation complex.
+A number of transcription factors first bind to the TATA box while other transcription factors bind to the previously attached factors, forming a multi-protein complex.
+It is only when all the appropriate factors are bound that RNA polymerase will recognize the complex and bind to the DNA, initiating transcription.

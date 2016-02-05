@@ -1,0 +1,20 @@
+Can you see that would be the slope of this graph? (slope = rise over run and in this case the ‘rise’ is position and the ‘run’ is time).
+Find the instantaneous speed at t = 20 sec.
+a. 8 m; 20 s ; 0.05 Hz; b. – 4 m c. \sim 2.3 m/s
+Use the wave equation to solve problems.
+Students will learn how to use the wave equation to solve problems.
+T = \frac{1}{f} \; \; \text{Wave period}
+v = \lambda f \; \; \text{Wave velocity}
+Watch this Explanation
+Click on the image above for more content
+Guidance The wave equation is analogous to distance equals rate multiplied by time equation for one cycle.
+Here the distance is a wavelength and the time is the period.
+We simply divide both sides by the period, to get speed of the wave equals the wavelength multiplied by one over the period.
+This is equivalent to wavelength multiplied by frequency, since frequency equals one of the period by definition.
+While on vacation in Hawaii you observe waves at the Banzai Pipeline approaching the shore at 6.0 m/s.
+You also note that the distance between waves is 28 m.
+Calculate (a) the frequency of the waves and (b) the period.
+Question a : f= ? [Hz]
+Given: v = 6.0 \ m/s
+{\;} \qquad \quad \lambda = 28 \ m
+Equation: v = f \cdot \lambda therefore f = \frac{v}{\lambda}

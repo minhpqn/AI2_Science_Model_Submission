@@ -1,0 +1,20 @@
+substitution reaction:
+A reaction in which one or more atoms replace another atom or group of atoms in a molecule.
+Define addition reaction.
+Give examples of addition reactions.
+Margarine is created by the reduction of vegetable oils
+What is this yellow stuff?
+There is big debate these days about using butter or margarine on your toast (or pancakes or muffin).
+Margarine is less expensive than butter and is lower in fat and cholesterol.
+Margarine is made from animal or vegetable fats using hydrogenation to reduce the double bonds in the fatty acids.
+Hydrogen gas is bubbled through the liquid oil and reacts with the carbon-carbon double bonds present in the long-chain fatty acids.
+The product is less likely to spoil than butter.
+An addition reaction is a reaction in which an atom or molecule is added to an unsaturated molecule, making a single product .
+An addition reaction can be thought of as adding a molecule across the double or triple bond of an alkene or alkyne.
+Addition reactions are useful ways to introduce a new functional group into an organic molecule.
+One type of addition reaction is called hydrogenation.
+Hydrogenation is a reaction that occurs when molecular hydrogen is added to an alkene to produce an alkane.
+The reaction is typically performed with the use of a platinum catalyst.
+Ethene reacts with hydrogen to form ethane.
+\text{CH}_2\text{=CH}_2 (g) + \text{H}_2 (g) \xrightarrow{\text{Pt}} \text{CH}_3 \text{CH}_3 (g)
+Alkyl halides can be produced from an alkene by the addition of either the elemental halogen or the hydrogen halide.

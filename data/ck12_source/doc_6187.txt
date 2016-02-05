@@ -1,0 +1,20 @@
+For water, the value of  K_b is 0.512°C/ m .
+So the boiling temperature of a 1-molal aqueous solution of any nonvolatile molecular solute is 100.512°C.
+Boiling point elevation is defined.
+Calculations involving the molal boiling point elevation constant are outlined.
+Solve the problems at the link below:
+Why does addition of a solute to water increase the boiling point?
+What does the molal boiling point elevation constant tell us?
+Addition of KCl raises the boiling point of 1.0 kg water by 1.014°C.
+How many moles of KCl were added?
+boiling point elevation:
+The difference in temperature between the boiling point of the pure solvent and that of the solution.
+molal boiling-point elevation constant:
+A constant that is equal to the change in the boiling point for a 1-molal solution of a nonvolatile molecular solute.
+Electrolytes and Colligative Properties
+Perform calculations involving the effects of electrolytes on colligative properties.
+The presence of ions in solutions affect the properties of that solution
+What effect do ions have?
+The addition of ions creates significant changes in properties of solutions.
+Water molecules surround the ions and are somewhat tightly bound to them.
+Colligative properties are affected because the solvent properties are no longer the same as those in the pure solvent.

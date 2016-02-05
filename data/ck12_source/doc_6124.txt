@@ -1,0 +1,20 @@
+Diffusion is the tendency of molecules to move from an area of high concentration to an area of low concentration until the concentration is uniform.
+While gases diffuse rather quickly, liquids diffuse much more slowly.
+Solids essentially do not diffuse.
+Video of bromine diffusion:
+Click on the image above for more content
+A related process to diffusion is the effusion.
+Effusion is the process of a confined gas escaping through a tiny hole in its container.
+Effusion can be observed by the fact that a helium-filled balloon will stop floating and sink to the floor after a day or so.
+This is because the helium gas effuses through tiny pores in the balloon.
+Both diffusion and effusion are related to the speed at which various gas molecules move.
+Gases that have a lower molar mass effuse and diffuse at a faster rate than gases that have a higher molar mass.
+Scottish chemist Thomas Graham (1805-1869) studied the rates of effusion and diffusion of gases.
+Graham’s law states that the rate of effusion or diffusion of a gas is inversely proportional to the square root of the molar mass of the gas.
+Graham’s law can be understood by comparing two gases ( A and B ) at the same temperature, meaning the gases have the same kinetic energy.
+The kinetic energy of a moving object is given by the equation KE =\frac{1}{2}mv^2 ,
+where  m is mass and  v is velocity.
+Setting the kinetic energies of the two gases equal to one another gives:
+The equation can be rearranged to solve for the ratio of the velocity of gas  A to the velocity of gas  B\left(\frac{v_A}{v_B}\right) .
+\frac{v^2_A}{v^2_B}=\frac{m_B}{m_A} \text{ which becomes } \frac{v_A}{v_B}=\sqrt{\frac{m_B}{m_A}}
+For the purposes of comparing the rates of effusion or diffusion of two gases at the same temperature, the molar masses of each gas can be used in the equation for m .

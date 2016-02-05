@@ -1,0 +1,20 @@
+For each gene, an organism has two alleles, one on each chromosome of a homologous pair of chromosomes (think of it as one allele from Mom, one allele from Dad).
+The genotype is represented by letter combinations, such as TT , Tt , and tt .
+When an organism has two of the same alleles for a specific gene, it is homozygous ( homo means "same") for that gene.
+An organism can be either homozygous dominant (TT) or homozygous recessive (tt).
+If an organism has two different alleles (Tt) for a certain gene, it is known as heterozygous ( hetero means different).
+Two of the same allele
+TT or tt
+One dominant allele and one recessive allele
+Two dominant alleles
+Two recessive alleles
+Phenotype is a way to describe the traits you can see.
+The genotype is like a recipe for a cake, while the phenotype is like the cake made from the recipe.
+The genotype expresses the phenotype.
+For example, the phenotypes of Mendel’s pea plants were either tall or short, or they were purple-flowered or white-flowered.
+Can organisms with different genotypes have the same phenotypes?
+Let’s see.
+What is the phenotype of a pea plant that is homozygous dominant (TT) for the tall trait?
+Tall.
+What is the phenotype of a pea plant that is heterozygous (Tt)?
+It is also tall.

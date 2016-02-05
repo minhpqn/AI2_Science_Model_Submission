@@ -1,0 +1,20 @@
+A 1 m long 2 kg rod is attached to the side of a building with a hinge at one end.
+The rod is held level by a cable that makes an angle of 45 degrees with the rod and is also attached to the building above the rod.
+What is the tension in the cable?
+The situation is illustrated in a diagram below.
+There will be multiple steps to this problem.
+First we'll make a free body diagram for the rod; making free body diagrams in torque problems is just as important as in Newton's Laws problems.
+In the diagram, the force of tension from the cable, the rod's weight, and the forces from the hinge are shown.
+For the purposes of calculating torque, an object's weight acts from its center of mass (half way along the rod in this case).
+In the diagram below, the force on the rod from the hinge is already broken into it's components to make it easier to visualize.
+Now, in order to find the tension in the cable, we'll sum the torques on the rod with the hinge as the axis of rotation.
+Notice that the sign of the torque due to tension in the cable and the torque due to the rod's weight will be opposite signs because they would cause the rod to rotate in opposite directions.
+\Sigma\tau&=0\\\mg\frac{r}{2} - T\sin(\theta)r&=0\\\T&=\frac{mgr}{2\sin(\theta)r}\\\T&=\frac{mg}{2\sin(\theta)}\\\T&=\frac{2\;\text{kg} * 9.8\;\text{m/s}^2}{2\sin(45)}\\\T&=13.85\;\text{N}\\\
+Watch this Explanation
+Click on the image above for more content
+Torque (PhET Simulation)
+Consider hitting someone with a Wiffle ball bat.
+Will it hurt them more if you grab the end or the middle of the bat when you swing it?
+Explain your thinking, but do so using the vocabulary of moment of inertia (treat the bat as a rod) and torque (in this case, torques caused by the contact forces the other person’s head and the bat are exerting on each other).
+A wooden plank is balanced on a pivot, as shown below.
+Weights are placed at various places on the plank.

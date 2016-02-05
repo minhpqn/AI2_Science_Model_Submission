@@ -1,0 +1,20 @@
+Velocity versus time graph with the area under the line being equal to the area of a triangle
+By going back to equation 2, we know that \text{displacement}= \frac{1}{2} at^2 .
+Using this equation, we can determine that  the displacement of this object in the first 6 seconds of travel is \text{displacement}= \left(\frac{1}{2}\right)(6.0 \ \text{m/s}^2)(6.0 \ \text{s})^2 = 108 \ \text{m}
+It is not coincidental that this number is the same as the area of the triangle.
+In fact, the area underneath the curve in a velocity versus time graph is always equal to the displacement that occurs during that time interval.
+There are three equations we can use when acceleration is constant to relate displacement to two of the other three quantities we use to describe motion – time, velocity, and acceleration:
+d = \left(\frac{1}{2}\right)(v_f + v_i)(t) (Equation 1)
+d = v_it + \frac{1}{2} at^2 (Equation 2)
+v{_f}^2 = v{_i}^2 + 2ad (Equation 3)
+When the initial velocity of the object is zero, these three equations become:
+d = \left(\frac{1}{2} \right)(v_f)(t) (Equation 1’)
+d = \frac{1}{2} at^2 (Equation 2’)
+v{_f}^2 = 2ad (Equation 3’)
+The slope of a velocity versus time graph is the acceleration of the object.
+The area under the curve of a velocity versus time graph is the displacement that occurs during the given time interval.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+For the example in the video, what acceleration is used?
+What time period is used in the example?
+What does the slope of the line in the graph represent?

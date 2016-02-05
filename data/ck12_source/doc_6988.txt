@@ -1,0 +1,20 @@
+For diverging mirrors, there is no true focal point (i.e. real light does not focus), so the focal length is negative.
+When light rays converge in front of a mirror, a real image is formed.
+Real images are useful in that you can place photographic film at the physical location of the real image, expose the film to the light, and make a two-dimensional representation of the world, a photograph.
+When light rays diverge in front of a mirror, a virtual image is formed.
+A virtual image is formed by your brain tracing diverging rays backwards and is kind of a trick, like the person you see “behind” a mirror’s surface when you brush your teeth (there's obviously no real light focused behind a mirror!).
+Since virtual images aren’t actually “anywhere,” you can’t place photographic film anywhere to capture them.
+Real images are upside-down, or inverted .
+You can make a real image of an object by putting it farther from a mirror or lens than the focal length.
+Virtual images are typically right-side-up.
+You can make virtual images by moving the mirror or lens closer to the object than the focal length.
+In the problems below that consider converging or diverging mirrors, you will do a careful ray tracing with a ruler (including the extrapolation of rays for virtual images).
+It is best if you can use different colors for the three different ray tracings.
+When sketching diverging rays, you should use dotted lines for the extrapolated lines behind a mirror in order to produce the virtual image.
+When comparing measured distances and heights to calculated distances and heights, values within 10 % are considered “good.” Use the Table ( below ) as your guide.
+( concave )
+Ray #1:
+Leaves tip of candle, travels parallel to optic axis, reflects back through focus.
+Ray #2:
+Leaves tip, travels through focus, reflects back parallel to optic axis.
+Ray #3:

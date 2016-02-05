@@ -1,0 +1,20 @@
+Gilbert Lewis (1875-1946) proposed a third theory of acids and bases that is even more general than either the Arrhenius or Brønsted-Lowry theories.
+A Lewis acid is a substance that accepts a pair of electrons to form a covalent bond.
+A Lewis base is a substance that donates a pair of electrons to form a covalent bond.
+So, a Lewis acid-base reaction is represented by the transfer of a pair of electrons from a base to an acid.
+A hydrogen ion, which lacks any electrons, accepts a pair of electrons.
+It is an acid under both the Brønsted-Lowry and Lewis definitions.
+Ammonia consists of a nitrogen atom as the central atom with a lone pair of electrons.
+The reaction between ammonia and the hydrogen ion can be depicted as shown in the Figure below .
+Ammonia is both a Bronsted base and a Lewis base
+Reaction between ammonia and proton.
+The lone pair on the nitrogen atom is transferred to the hydrogen ion, making the NH 3 a Lewis base while the H + is a Lewis acid.
+Some reactions that do not qualify as acid-base reactions under the other definitions do so under only the Lewis definition.
+An example is the reaction of ammonia with boron trifluoride.
+Boron trifluoride is a Lewis acid but not a Bronsted acid
+Ammonia and boron trifluoride.
+Boron trifluoride is the Lewis acid, while ammonia is again the Lewis base.
+As there is no hydrogen ion involved in this reaction, it qualifies as an acid-base reaction only under the Lewis definition.
+The Table below summarizes the three acid-base theories.
+H + ions in solution
+OH − ions in solution

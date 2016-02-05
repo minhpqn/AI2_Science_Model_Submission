@@ -1,0 +1,20 @@
+Use the ideal gas law to calculate parameters for ideal gases.
+The ideal gas law can be used to determine the amount of gas present in a system
+What chemical reactions require ammonia?
+There are a number of chemical reactions that require ammonia.
+In order to carry out the reaction efficiently, we need to know how much ammonia we have for stoichiometric purposes.
+Using gas laws, we can determine the number of moles present in the tank if we know the volume, temperature, and pressure of the system.
+Ideal Gas Law
+The combined gas law shows that the pressure of a gas is inversely proportional to volume and directly proportional to temperature.
+Avogadro’s law shows that volume or pressure is directly proportional to the number of moles of gas.
+Putting these together leaves us with the following equation:
+\frac{P_1 \times V_1}{T_1 \times n_1}=\frac{P_2 \times V_2}{T_2 \times n_2}
+As with the other gas laws, we can also say that \frac{\left(P \times V \right)}{\left(T \times n \right)} is equal to a constant.
+The constant can be evaluated provided that the gas being described is considered to be ideal.
+The ideal gas law is a single equation which relates the pressure, volume, temperature, and number of moles of an ideal gas.
+If we substitute in the variable  R for the constant, the equation becomes:
+\frac{P \times V}{T \times n}=R
+The ideal gas law is conventionally rearranged to look this way, with the multiplication signs omitted:
+The variable  R in the equation is called the ideal gas constant .
+Evaluating the Ideal Gas Constant
+The value of R , the ideal gas constant, depends on the units chosen for pressure, temperature, and volume in the ideal gas equation.

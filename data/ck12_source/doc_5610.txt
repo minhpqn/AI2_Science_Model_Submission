@@ -1,0 +1,20 @@
+By comparing the mass of an object relative to its size, we are studying a property called density.
+Density is the ratio of the mass of an object to its volume.
+\text{Density} = \frac{\text{mass}}{\text{volume}}
+Density is an intensive property, meaning that it does not depend on the amount of material present in the sample.
+Water has a density of 1.0 g/mL.
+That density is the same whether you have a small glass of water or a swimming pool full of water.
+Density is a property that is constant for the particular identity of the matter being studied.
+The SI units of density are kilograms per cubic meter (kg/m 3 ), since the kg and the m are the SI units for mass and length respectively.
+In everyday usage in a laboratory, this unit is awkwardly large.
+Most solids and liquids have densities that are conveniently expressed in grams per cubic centimeter (g/cm 3 ).
+Since a cubic centimeter is equal to a milliliter, density units can also be expressed as g/mL.
+Gases are much less dense than solids and liquids, so their densities are often reported in g/L.
+Densities of some common substances at 20°C are listed in the Table below.
+Densities of Some Common Substances
+Liquids and Solids
+Density at 20°C (g/ml)
+Density at 20°C (g/L)
+Since most materials expand as temperature increases, the density of a substance is temperature dependent and usually decreases as temperature increases.
+You know that ice floats in water and it can be seen from the table that ice is less dense.
+Alternatively, corn syrup, being denser, would sink if placed into water.

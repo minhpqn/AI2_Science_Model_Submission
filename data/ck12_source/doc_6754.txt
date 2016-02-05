@@ -1,0 +1,20 @@
+Calculate the force on the bat while in contact with the ball.
+A place kicker applies an average force of  2400 \;\mathrm{N} to a football of 0.40 \;\mathrm{kg} .
+The force is applied at an angle of 20.0 degrees from the horizontal.
+Contact time is . 010 sec.
+Find the velocity of the ball upon leaving the foot.
+Assuming no air resistance find the time to reach the goal posts 40.0 \;\mathrm{m} away.
+The posts are 4.00 \;\mathrm{m} high.
+Is the kick good?
+By how much?
+Your author’s Italian cousin crashed into a tree.
+He was originally going 36 \;\mathrm{km/hr} .
+Assume it took 0.40 seconds for the tree to bring him to a stop.
+The mass of the cousin and the car is 450\;\mathrm{kg} .
+What average force did he experience?
+Include a direction in your answer.
+What average force did the tree experience?
+Include a direction in your answer.
+Express this force in pounds.
+How many g’s of acceleration did he experience?
+Serena Williams volleys a tennis ball hit to her at 30\;\mathrm{m/s} .

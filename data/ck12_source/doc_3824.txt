@@ -1,0 +1,20 @@
+Wilhelm Weinberg was a German doctor.
+Each worked alone to come up with the founding principle of population genetics.
+Today, that principle is called the Hardy-Weinberg theorem .
+It shows that allele frequencies do not change in a population if certain conditions are met.
+Such a population is said to be in Hardy-Weinberg equilibrium .
+The conditions for equilibrium are:
+No new mutations are occurring.
+Therefore, no new alleles are being created.
+There is no migration .
+In other words, no one is moving into or out of the population.
+The population is very large.
+Mating is at random in the population.
+This means that individuals do not choose mates based on genotype.
+There is no natural selection.
+Thus, all members of the population have an equal chance of reproducing and passing their genes to the next generation.
+When all these conditions are met, allele frequencies stay the same.
+Genotype frequencies also remain constant.
+In addition, genotype frequencies can be expressed in terms of allele frequencies, as the Table below shows.
+For a further explanation of this theorem, see Solving Hardy Weinberg Problems at
+Hardy and Weinberg used mathematics to describe an equilibrium population ( p = frequency of A , q = frequency of a , so p + q = 1): p 2 + 2 pq + q 2 = 1.

@@ -1,0 +1,20 @@
+The process of designing a new technology includes much more than just coming up with a good idea.
+Possible limitations, or constraints, on the design must be taken into account.
+These might include factors such as the cost or safety of the new product or process.
+Making and testing a model of the design are also important.
+These steps ensure that the design actually works to solve the problem.
+This process also gives the designer a chance to find problems and modify the design if necessary.
+No solution is perfect, but testing and refining a design assures that the technology will provide a workable solution to the problem it is intended to solve.
+Steps of the Technological Design Process
+The technological design process can be broken down into the series of steps shown in the flowchart in Figure below .
+Typically, some of the steps have to be repeated, and the steps may not always be done in the sequence shown.
+Flowchart of the technological design process
+This flowchart illustrates the steps of the technological design process.
+Consider the problem of developing a solar-powered car.
+Many questions would have to be researched in the design process.
+For example, what is the best shape for gathering the sun’s rays?
+How will sunlight be converted to useable energy to run the car?
+Will a back-up energy source be needed?
+After researching the answers, possible designs are developed.
+This generally takes imagination as well as sound reasoning.
+Then a model must be designed and tested.

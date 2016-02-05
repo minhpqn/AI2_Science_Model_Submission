@@ -1,0 +1,20 @@
+The bicoid protein activates a number of gap genes.
+Bicoid encodes a homeodomain-containing transcription factor, and is expressed in a gradient within the embryo.
+Bicoid positions gap and pair rule gene expression along the anterior-posterior axis of the developing Drosophila embryo.
+The intricate and complex regulation of these developmental genes is demonstrated by the regulation of the Krüppel gene.
+Like other gap genes, Krüppel is specifically expressed in certain segments of the developing embryo.
+This gene is up and down regulated by five proteins: bicoid, hunchback, tailless, knirps and giant.
+Krüppel is activated when the bicoid protein gradient declines steeply at the central part of the embryo, and inhibited by high levels of hunchback, and high levels of giant and tailless, which establishes the anterior boundary of Krüppel expression.
+Krüppel is also inhibited by knirps and activated by low levels of bicoid and low levels of hunchback, which establishes the posterior boundary of Krüppel expression.
+See Master genes control basic body plans at for additional information on the work of Christine Nüsslein-Volhard and Eric Weischaus, the 1995 Nobel Prize in Physiology and Medicine recipients for their work on these genes.
+antennapedia :
+Gene that controls the formation of legs during development; first identified as a Drosophila mutant.
+enhancer :
+A site on the DNA strand that can be bound by activator(s) in order to loop the DNA, bringing a specific promoter to the initiation complex.
+gap gene :
+Gene that controls the shape of a developing zygote early in its development; encodes transcription factors.
+homeobox gene :
+Genes that contain a highly conserved DNA sequence known as a homeobox and are involved in the regulation of genes important to development; encodes transcription factors.
+homeodomain :
+DNA binding domain within gene products of homeobox genes.
+hox gene :

@@ -1,0 +1,20 @@
+However, the force put out by the machine, called the output force, is either greater than the input force or else applied over a greater distance.
+Q :
+Where is the force applied in a Ferris wheel and a doorknob?
+Is it applied to the wheel or to the axle?
+A :
+In a Ferris wheel, the force is applied to the axle by the Ferris wheel’s motor.
+In a doorknob, the force is applied to the wheel by a person’s hand.
+Mechanical Advantage of a Wheel and Axle
+The mechanical advantage of a machine is the factor by which the machine changes the input force.
+It equals the ratio of the output force to the input force.
+A wheel and axle may either increase or decrease the input force, depending on whether the input force is applied to the axle or the wheel.
+When the input force is applied to the axle, as it is with a Ferris wheel, the wheel turns with less force.
+Because the output force is less than the input force, the mechanical advantage is less than 1.
+However, the wheel turns over a greater distance, so it turns faster than the axle.
+The speed of the wheel is one reason that the Ferris wheel ride is so exciting.
+When the input force is applied to the wheel, as it is with a doorknob, the axle turns over a shorter distance but with greater force, so the mechanical advantage is greater than 1.
+This allows you to turn the doorknob with relatively little effort, while the axle of the doorknob applies enough force to slide the bar into or out of the doorframe.
+At the following URL, you can see how much a wheel and axle increases the input force when it is applied to the wheel.
+A wheel and axle is a simple machine that consists of two connected rings or cylinders, one inside the other, which both turn in the same direction around a single center point.
+A wheel and axle may either increase or decrease the input force, depending on whether the input force is applied to the axle or the wheel.

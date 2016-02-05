@@ -1,0 +1,20 @@
+Diagram illustrating alpha decay
+Equations for Alpha Decay
+Radioactive nuclei and particles are represented by nuclear symbols that indicate their numbers of protons and neutrons.
+For example, an alpha particle (helium nucleus) is represented by the symbol \mathrm{^4_2 He} , where He is the chemical symbol for helium, the subscript 2 is the number of protons, and the superscript 4 is the mass number (2 protons + 2 neutrons).
+Nuclear symbols are used to write nuclear equations for radioactive decay.
+Let’s consider an example.
+Uranium-238 undergoes alpha decay to become thorium-234. (The numbers following the chemical names refer to the number of protons plus neutrons.) In this reaction, uranium-238 loses two protons and two neutrons to become the element thorium-234.
+The reaction can be represented by this nuclear equation:
+\mathrm{^{238}_{92} U} → \mathrm{^{234}_{90} Th} + \mathrm{^4_2 He} + Energy
+If you count the number of protons (subscripts) as well as the number of protons plus neutrons (superscripts), you’ll see that the total numbers are the same on both sides of the arrow.
+This means that the equation is balanced.
+The thorium-234 produced in this reaction is also unstable, so it will undergo radioactive decay as well.
+The alpha particle ( \mathrm{^4_2 He} ) produced in the reaction can join with two free electrons to form the element helium.
+This is how most of Earth’s helium formed.
+Q:
+Fill in the missing subscript and superscript to balance the following nuclear equation for alpha decay of Polonium-210.
+\mathrm{^{210}_{84} Po} → \mathrm{^?_?
+Pb} + \mathrm{^4_2 He} + Energy
+A:
+The subscript of Pb is 82, and the superscript is 206.

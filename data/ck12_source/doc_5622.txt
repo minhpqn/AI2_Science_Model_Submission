@@ -1,0 +1,20 @@
+Follow the process as outlined in Table below .
+Number of Significant Figures
+All digits are significant
+8 rounds the 1 up to 2
+2 is dropped
+5 rounds the 7 up to 8
+8 is replaced by a 0 and rounds the 0 upto 1
+1 is replaced by a 0
+Notice that the more rounding is done, the less reliable to figure is.
+An approximate value may be sufficient for some purposes, but scientific work requires a much higher level of detail.
+Rounding involves the adjustment of a value to account for the proper number of significant digits.
+Rules exist for rounding of numbers.
+Practice rounding numbers using the following link:
+Rounding Numbers at
+Why do we round numbers?
+What do we need to know before we round a number?
+What is “rounding up”?
+What is “rounding down”?
+round:
+Adjust a value to reflect the actual number of significant figures.

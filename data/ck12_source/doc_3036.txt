@@ -1,0 +1,20 @@
+Invisible particles of gases in the air are constantly moving and bumping into them.
+Pressure of Gas Particles
+Because gas particles in the air—like particles of all fluids—are constantly moving and bumping into things, they exert pressure .
+The pressure exerted by the air in the atmosphere is greater close to Earth’s surface and decreases as you go higher above the surface.
+You can see this in the Figure below .
+Chart of atmospheric pressure in relation to altitude
+Q :
+Denver, Colorado, is called the “mile-high city” because it is located 1 mile (1.6 km) above sea level.
+What is the average atmospheric pressure that high above sea level?
+A :
+From the Figure above , the average atmospheric pressure 1.6 km above sea level is about 85 kPa.
+Explaining Changes in Air Pressure with Altitude
+There are two reasons why air pressure decreases as altitude increases: density and depth of the atmosphere.
+Most gas molecules in the atmosphere are pulled close to Earth’s surface by gravity, so gas particles are denser near the surface.
+With more gas particles in a given volume, there are more collisions of particles and therefore greater pressure.
+The depth (distance from top to bottom) of the atmosphere is greatest at sea level and decreases at higher altitudes.
+With greater depth of the atmosphere, more air is pressing down from above.
+Therefore, air pressure is greatest at sea level and falls with increasing altitude.
+On top of Mount Everest, which is the tallest mountain on Earth, air pressure is only about one-third of the pressure at sea level.
+How We Use Air Pressure

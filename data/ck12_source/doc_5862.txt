@@ -1,0 +1,20 @@
+Prefixes are used in the names of binary molecular compounds to identify the number of atoms of each element.  The Table below shows the prefixes up to ten.
+Number of Atoms
+The rules for using the prefix system of nomenclature of binary molecular compounds can be summarized as follows.
+Generally, the less-electronegative element is written first in the formula, though there are a few exceptions.  Carbon is always first in a formula and hydrogen is after nitrogen in a formula such as NH 3 .  The order of common nonmetals in binary compound formulas is C, P, N, H, S, I, Br, Cl, O, F.
+When naming, the appropriate prefix is used only if there are more than one atom of that element in the formula.
+The second element is named after the first, but with the ending of the element’s name changed to – ide.  The appropriate prefix is always used for the second element.
+The a or o at the end of a prefix is usually dropped from the name when the name of the element begins with a vowel.  As an example, four oxygen atoms is tetroxide instead of tetraoxide.
+Some examples of molecular compounds are listed in the Table below .
+N 2 O
+S 2 Cl 2
+Cl 2 O 7
+Notice that the mono- prefix is not used with the nitrogen in the first compound, but is used with the oxygen in both of the first two examples.  The S 2 Cl 2 emphasizes that the formulas for molecular compounds are not reduced to their lowest ratios.  The o of mono- and the a of hepta- are dropped from the name when paired with oxide.
+Molecular compounds are inorganic compounds that take the form of discrete molecules.
+The atoms of these compounds are held together by covalent bonds.
+Prefixes are used to indicate the number of atoms of an element that are in the compound.
+Use the link below to answer the following questions:
+What order is used to write the elements of a molecular compound?
+How many elements are in a binary molecular compound?
+What is the advantage of using a systematic name over a generic name?
+What are molecular compounds?

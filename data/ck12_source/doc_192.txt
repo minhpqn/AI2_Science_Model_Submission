@@ -1,0 +1,20 @@
+Without calculus, we approximate the instantaneous velocity at a particular point by laying a straight edge along the curved line and estimating the slope.
+The position versus time graph shows accelerated motion as a curved line
+In the image above, the red line is the position vs time graph and the blue line is an approximated slope for the line at t = 2.5 \ \text{seconds} .  The rise for this slope is approximately 170 m and the time interval (run) is 4.0 seconds.  Therefore, the approximated slope is 43 m/s.
+The slope of a position versus time graph is the velocity.
+For constant velocity motion, the slope gives the constant velocity, the average velocity, and the instantaneous velocity at every point.
+For constant acceleration motion, the slope of the position versus time curve at a particular point gives the instantaneous velocity at that point.
+Draw a velocity versus time graph for an object whose constant velocity is 15 m/s and whose position starts at  x = 0 when t = 0 .
+Graph the motion for the first 5.0 seconds.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+In the graph on the video, what is graphed on the vertical axis?
+What is graphed on the horizontal axis?
+What does the slope of this graph represent?
+A motion graphed on a position versus time graph
+For the motion graphed in the position versus time graph shown above, what is the average velocity in the time interval 1 to 3 seconds?
+For the motion graphed in the position versus time graph shown above, what is the average velocity in the time interval 3 to 4 seconds?
+For the motion graphed in the position versus time graph shown above, what is the average velocity in the time interval 5 to 6 seconds?
+instantaneous velocity:
+The velocity of an object at any given instant.
+Define average acceleration.

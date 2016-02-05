@@ -1,0 +1,20 @@
+The trp operon contains a 140bp leader sequence (trpL) and an attenuator sequence between the leader and the first structural gene (trp E), which allows for graded regulation.
+Attenuation is an additional mechanism of negative feedback in the trp operon.
+Structure of the trp operon.
+The trp operon is composed of 5 structural genes, 1 regulatory gene and other regulatory sequences, including the promoter, operator and leader sequence.
+Within the leader sequence is the attenuator region.
+In the presence of tryptophan, the structural genes are not transcribed.
+Attenuation is an additional mechanism to decrease transcription of the trp operon.
+Attenuation is possible because the genetic material of prokaryotes in in the cell's cytoplasm with its ribosomes.
+In prokaryotes, it is possible for ribosomes to begin translating the mRNA while RNA polymerase is still transcribing the DNA sequence, allowing translation to have an effect on transcription.
+The 140bp trpL leader sequence is a section of the operon between the operator and the structural genes.
+This sequence is divided into four short segments designated 1-4, as illustrated in ( Figure below ) .
+Sequence 1 is partially complementary to sequence 2, which is partially complementary to sequence 3, which is partially complementary to sequence 4, allowing the sequence to form three distinct hairpin structures identified as 1-2, 2-3 or 3-4.
+The hybridization of strands 1 and 2 to form the 1-2 structure prevents the formation of the 2-3 structure, while the formation of the 2-3 hairpin prevents the formation of the 3-4 structure.
+The 3-4 hairpin acts as a transcription termination sequence; once the 3-4 structure forms, RNA polymerase will disassociate from the DNA and transcription of the structural genes of the operon will not occur.
+A segment of the trpL sequence codes for the leader peptide , a short polypeptide of 14 amino acids.
+This segment contains two adjacent tryptophan residues, which is a very rare occurrence.
+If the ribosome attempts to translate this leader peptide while tryptophan levels are low, translation will stall at either of the trp codons.
+During this time, the ribosome physically blocks segment 1 of the leader sequence, preventing it from forming the 1-2 secondary structure.
+Sequence 2 now forms the 2-3 structure with sequence 3, which keeps sequence 3 from forming the 3-4 structure.
+This 2-3 structure is called the anti-termination hairpin as it allows RNA polymerase to continue transcribing the entire operon without interference of the ribosome.

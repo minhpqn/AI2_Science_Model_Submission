@@ -1,0 +1,20 @@
+We look at the picture above and think we are looking at the image of a room as reflected in a mirror (and we probably are).  But we can crop the picture in such a way as to give the impression we are looking at the real room through a door.  We would see the same thing and receive the same information, but it would be from a different perspective.  There are molecules that can be represented in different ways and reality becomes a matter of interpretation.
+There are some cases in which more than one viable Lewis structure can be drawn for a molecule.  An example is the ozone (O 3 ) molecule in the Figure below .  There are a total of 18 electrons in the structure and so the following two structures are possible.
+Resonance forms of ozone
+Resonance forms of ozone.
+The structure on the left (see Figure above ) can be converted to the structure on the right by a shifting of electrons without altering the positions of the atoms.
+It was once thought that the structure of a molecule such as O 3 consisted of one single bond and one double bond which then shifted back and forth as shown above.  However, further studies showed that the two bonds are identical.  Any double covalent bond between two given atoms is typically shorter than a single covalent bond.  Studies of the O 3 and other similar molecules showed that the bonds were identical in length.  Interestingly, the length of the bond is in between the lengths expected for an O-O single bond and a double bond.
+Resonance is the use of two or more Lewis structures to represent the covalent bonding in a molecule.  One of the valid structures is referred to as a resonance structure.  It is now understood that the true structure of a molecule which displays resonance is that of an average or a hybrid of all the resonance structures.  In the case of the O 3 molecule, each of the covalent bonds between O atoms is best thought of as being “one and a half” bonds, as opposed to either a pure single bond or a pure double bond.
+This “half-bond” can be shown as a dotted line in both the Lewis structure and the molecular model (see Figure below ).
+The half bond in an ozone molecule
+“Half-bond” model of ozone molecule.
+Many polyatomic ions also display resonance.  In some cases, the true structure may be an average of three valid resonance structures, as in the case of the nitrate ion, NO 3 − (see Figure below ).
+Resonance structures of the nitrate ion
+Resonance structure of nitrate anion.
+The bond lengths between the central N atom and each O atom are identical and the bonds can be approximated as being equal to one and one-third bonds.
+Resonance structures are averages of different Lewis structure possibilities.
+Bond lengths are intermediate between covalent single bonds and covalent double bonds.
+Do problem 3 on the web page below:
+How many electrons total are in the ozone structure?
+What is changed in the two resonance structures of ozone?
+How can we think of the covalent bonds in ozone?

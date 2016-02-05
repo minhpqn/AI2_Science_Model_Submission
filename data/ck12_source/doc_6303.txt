@@ -1,0 +1,20 @@
+The rate of change of a quantity is often very important
+What are the migration patterns of the current population?
+Where are people moving from and where are they moving to?
+How fast is the population changing in different areas?
+These are important questions for people involved in deciding about where to build schools or hospitals or where to open new businesses.
+If an area is growing rapidly, action needs to be taken soon to accommodate the growth.
+How fast the growth is will determine how many schools to build.
+Rates of change affect a lot of decisions.
+Rate Law and Specific Rate Constant
+Consider a simple chemical reaction in which reactant  A is converted into product  B according to the equation below.
+A \rightarrow B
+The rate of reaction is given by the change in concentration of  A as a function of time.
+The rate of disappearance of A is also proportional to the concentration of A .
+-\frac{\Delta [A]}{\Delta t} \ \alpha \ [A]
+Since the rate of a reaction generally depends upon collision frequency, it stands to reason that as the concentration of  A increases, the rate of reaction increases.
+Likewise, as the concentration of A decreases, the rate of reaction decreases.
+The expression for the rate of the reaction can be shown as follows:
+\text{rate}=-\frac{\Delta [A]}{\Delta t} \quad \text{or} \quad \text{rate}=k[A]
+The proportionality between the rate and  [A] becomes an equal sign by the insertion of a constant (k) .
+A rate law is an expression showing the relationship of the reaction rate to the concentrations of each reactant.

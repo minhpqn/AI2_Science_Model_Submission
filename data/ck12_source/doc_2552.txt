@@ -1,0 +1,20 @@
+For example, helium has two electrons, both in the first energy level.
+This energy level can hold only two electrons, so helium’s only energy level is full.
+This makes helium a very stable element.
+In other words, its atoms are unlikely to react with other atoms.
+Consider the elements fluorine and lithium, modeled in the Figure below .
+Fluorine has seven of eight possible electrons in its outermost energy level, which is energy level II.
+It would be more stable if it had one more electron because this would fill its outermost energy level.
+Lithium, on the other hand, has just one of eight possible electrons in its outermost energy level (also energy level II).
+It would be more stable if it had one less electron because it would have a full outer energy level (now energy level I).
+Fluorine and lithium atoms
+Both fluorine and lithium are highly reactive elements because of their number of valence electrons.
+Fluorine will readily gain one electron and lithium will just as readily give up one electron to become more stable.
+In fact, lithium and fluorine will react together as shown in the Figure below .
+When the two elements react, lithium transfers its one “extra” electron to fluorine.
+Fluorine and lithium electron transfer reaction
+Q:
+A neon atom has ten electrons.
+How many electrons does it have in its outermost energy level?
+How stable do you think a neon atom is?
+A:

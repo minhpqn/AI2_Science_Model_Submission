@@ -1,0 +1,20 @@
+The Genetic Code (Advanced) and Protein Synthesis:
+Translation (Advanced) concepts.
+Remember that proteins are made out of amino acids.
+How does the information in the gene get converted from the language of nucleotides to the language of amino acids?
+The process is called translation .
+The amino acids are placed in a specific order during translation.
+The order is specified by the codons in the mRNA, which is produced during transcription.
+As the mRNA sequence is based on the gene sequence in the DNA, the order of amino acids that makes the protein is based on the gene sequence as well.
+The three RNAs involved in protein synthesis are summarized here:
+mRNA (messenger RNA):
+Produced during transcription.
+Carries the genetic instructions of a gene from the nucleus to the ribosome in the cytoplasm.
+rRNA (ribosomal RNA):
+Together with proteins, composes the ribosome, the organelles that are the site of protein synthesis.
+tRNA (transfer RNA):
+Brings the correct amino acid to the ribosome during translation.
+2-Dimensional tRNA structure depicting the 3-leaf clover structure.
+The D arm (D) is one stem ending in a loop.
+The anticodon arm (A) is a second stem whose loop contains the anticodon on the bottom of the tRNA.
+The T arm (T) is the third stem opposite the D arm.

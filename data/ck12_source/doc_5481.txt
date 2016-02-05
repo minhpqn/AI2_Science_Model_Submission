@@ -1,0 +1,20 @@
+1 subfamily, 1 gene
+1 subfamily, 1 gene
+How are these CYP genes important in individualized medicine ?
+These genes, like all genes, have multiple alleles.
+As these enzymes are involved in drug metabolism, different alleles can have different effectiveness at that metabolism.
+For example, the CYP1A1 gene has 13 known alleles, known as CYP1A1*1, CYP1A1*2A, CYP1A1*2B, CYP1A1*3, CYP1A1*4 and so on.
+CYP1A1*1 is the wild type allele, and the others are usually due to single nucleotide polymorphisms (SNP).
+The CYP2D6 gene has over 100 known alleles.
+CYP2D6*1A is the wild type allele and the others are variations on the 1A sequence.
+Some have a single SNP change, while other alleles have multiple base changes.
+There are six separate CYP2D6*1 alleles within this gene family.
+If a person receives one *1 allele each from his/her mother and his/her father to code for the CYP2D6 gene, then that person is considered to have an extensive metabolizer (EM) phenotype.
+An extensive metabolizer is considered the normal phenotype with average enzyme activity levels.
+Other CYP metabolism phenotypes include: intermediate, ultra-rapid, and poor.
+These phenotypes are due to allelic variation among the CYP genes.
+However, with myriad possibilities of allelic combinations, this developing individualized medicine guidelines is still well under development.
+CYP2D6 Allele and Enzyme Activity
+We know that, thanks to our genome, each of us is phenotypically unique.
+Some of those differences are obvious, like eye and hair color, but others are not obvious at all, such as how our bodies react to medication.
+As discussed above, the CYP450 alleles have plenty to do with how each of us react to drugs.

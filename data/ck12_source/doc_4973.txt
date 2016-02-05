@@ -1,0 +1,20 @@
+G-protein linked receptors are also involved in the phosphatidylinositol (PI) signal pathway.
+In this pathway, PI can be phosphorylated to form phosphatidylinositol phosphate (PIP), phosphatidylinositol bisphosphate (PIP 2 ) and phosphatidylinositol trisphosphate (PIP 3 ), which are collectively called phosphoinositides.
+These molecules play important roles in lipid signaling, cell signaling and membrane trafficking.
+In response to a signal, a cell may change activities in the cytoplasm or in the nucleus that include the switching on or off of genes.
+Changes in metabolism, continued growth, movement, or death are some of the cellular responses to signals that require signal transduction.
+Gene activation leads to other effects, since the protein products of many of the responding genes include enzymes and factors that increase gene expression.
+Gene expression factors produced as a result of a cascade can turn on even more genes.
+Therefore one stimulus can trigger the expression of many genes, and this in turn can lead to the activation of many complex events.
+In a multicellular organism these events include the increased uptake of glucose from the blood stream (stimulated by insulin), and the movement of neutrophils to sites of infection (stimulated by bacterial products).
+The set of genes and the order in which they are activated in response to stimuli are often called a genetic program.
+Signal transduction pathways.
+Ras (upper middle section) activates a number of pathways but an especially important one seems to be the mitogen-activated protein kinases (MAPK).
+MAPK transmit signals downstream to other protein kinases and gene regulatory proteins.
+Note that many of these pathways are initiated when a signal binds to its receptor outside the cell.
+Most pathways end with altered gene regulation and cell proliferation.
+The p53 tumor suppressor protein is shown at the lower section of the figure stimulating p21.
+The complexity of the pathways demonstrate the significant role these play in the cell.
+cyclic adenosine monophosphate (cAMP, cyclic AMP) :
+A second messenger important in many biological processes; used for intracellular signal transduction, such as transferring into cells the effects of hormones.
+G protein (guanine nucleotide-binding protein) :

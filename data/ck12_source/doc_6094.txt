@@ -1,0 +1,20 @@
+The volume of a gas increases as the Kelvin temperature increases.
+Notice that the line goes exactly toward the origin, meaning that as the absolute temperature of the gas approaches zero, its volume approaches zero.
+However, when a gas is brought to extremely cold temperatures, its molecules would eventually condense into the liquid state before reaching absolute zero.
+The temperature at which this change into the liquid state occurs varies for different gases.
+Charles’s Law can also be used to compare changing conditions for a gas.
+Now we use V_1 and  T_1 to stand for the initial volume and temperature of a gas, while V_2 and  T_2 stand for the final volume and temperature.
+The mathematical relationship of Charles’s Law becomes:
+This equation can be used to calculate any one of the four quantities if the other three are known.
+The direct relationship will only hold if the temperatures are expressed in Kelvin.
+Temperatures in Celsius will not work.
+Recall the relationship that K = °C + 273.
+Sample Problem:
+Charles’s Law
+A balloon is filled to a volume of 2.20 L at a temperature of 22°C.
+The balloon is then heated to a temperature of 71°C.
+Find the new volume of the balloon.
+Step 1:
+List the known quantities and plan the problem.
+V_1=2.20 \text{ L}
+T_1=22^\circ \text{C}=295 \text{ K}

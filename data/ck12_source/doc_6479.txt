@@ -1,0 +1,20 @@
+For example, if only a zinc half-cell were constructed, no complete redox reaction can occur and so no electrical potential can be measured.
+It is only when another half-cell is combined with the zinc half-cell that an electrical potential difference, or voltage, can be measured.
+The electrical potential of a cell results from a competition for electrons.
+In a zinc-copper voltaic cell, it is the copper(II) ions that will be reduced to copper metal.
+That is because the Cu 2+ ions have a greater attraction for electrons than the Zn 2+ ions in the other half-cell.
+Instead, the zinc metal is oxidized.
+The reduction potential is a measure of the tendency of a given half-reaction to occur as a reduction in an electrochemical cell.
+In a given voltaic cell, the half-cell that has the greater reduction potential is the one in which reduction will occur.
+In the half-cell with the lower reduction potential, oxidation will occur.
+The cell potential (E cell )  is the difference in reduction potential between the two half-cells in an electrochemical cell.
+Definitions for types of electrical potential are given.
+Read the material at the link below and answer the following questions:
+Where was Nernst born?
+What theory did he develop in 1889?
+What musical instrument did he develop that musicians did not like?
+Why can’t we measure the electrical potential of an isolated half-cell?
+What does the reduction potential tell us?
+What is the cell potential?
+cell potential (E cell ):
+The difference in reduction potential between the two half-cells in an electrochemical cell.

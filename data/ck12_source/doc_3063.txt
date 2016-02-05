@@ -1,0 +1,20 @@
+Look at the ramp in the Figure below .
+A ramp is a type of simple machine called an inclined plane.
+It is easier to push the heavy piece of furniture up the ramp to the truck than to lift it straight up off the ground, but pushing the furniture over the surface of the ramp creates a lot of friction.
+Some of the force applied to moving the furniture must be used to overcome the friction with the ramp.
+Furniture being pushed up a ramp
+Q :
+Why would it be more efficient to use a dolly to roll the furniture up the ramp?
+A :
+There would be less friction to overcome if you used a dolly because of the wheels.
+So the efficiency of the ramp would be greater with the dolly.
+Efficiency can be calculated with the equation:
+\text{Efficiency}=\frac{\text{Output work}}{\text{Input work}} \times 100\%
+Consider a machine that puts out 6000 joules of work.
+To produce that much work from the machine requires the user to put in 8000 joules of work.
+To find the efficiency of the machine, substitute these values into the equation for efficiency:
+\frac{6000 \ \text{J}}{8000 \ \text{J}} \times 100\%=75\%
+Q :
+Rani puts 7500 joules of work into pushing a box up a ramp, but only 6700 joules of work actually go into moving the box.
+The rest of the work overcomes friction between the box and the ramp.
+What is the efficiency of the ramp?

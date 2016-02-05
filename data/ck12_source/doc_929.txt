@@ -1,0 +1,20 @@
+A great deal more effort is needed to turn the crank while current is generated.
+In the sketch below, moving the wire downward through the magnetic field causes electrons to flow in the wire as diagrammed.
+This is because relative motion between charged particles and magnetic fields produces a force on the charged particles . . . so the downward movement of the wire causes a force which moves the electrons, producing a current.
+When the electrons begin to flow, however, there is a second motion of the charged particles and this second motion will produce a second force on the particles.
+Diagram of a wire being passed through a magnetic field
+If we use the left hand rule on the electron flow, we point our fingers in the direction of the field and our thumb in the direction of electron movement and the palm of our hand indicates the direction of the force – UP !
+This secondary force always opposes the first movement of the wire.
+Lenz’s law states the induced current produces a magnetic field that opposes the motion that caused the induced current.
+“An induced electromotive force generates a current that induces a counter magnetic field that opposes the magnetic field generating the current.”
+Lenz’s law also applies to electric motors.
+When an EMF is sent through a motor (aka, a current is passed through the armature of a motor) a force is produced that causes the armature to turn.
+This is electric energy converted to mechanical energy.
+The spin of the armature, however, now causes the motor to act like a generator and generate an EMF.
+The direction of the EMF is always the opposite of the original EMF that was sent through the motor.
+This second EMF is called back-EMF .
+Lenz’s law states, “An induced electromotive force generates a current that induces a counter magnetic field that opposes the magnetic field generating the current.”
+The spin of the armature, however, now causes the motor to act like a generator and generate an EMF.
+The direction of the EMF is always the opposite to the original EMF that was sent through the motor.
+In this video, identical bar magnets are dropped from the same height through an aluminum tube and a glass tube, side by side.
+The magnet falling through the glass tube drops all the way to the bottom in a fraction of a second.

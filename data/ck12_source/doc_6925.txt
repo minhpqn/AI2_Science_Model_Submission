@@ -1,0 +1,20 @@
+Which light bulb will shine for a longer amount of time?
+Draw the schematic diagram for both situations.
+Note that the objects on the right are batteries, not resistors.
+Answers to Selected Problems
+a. 4.5\mathrm{C} b. 2.8 \times 10^{19} electrons
+left = brighter, right = longer
+Describe the parts of a basic electric circuit and apply Ohm's law.
+Students will learn a basic understanding of electric circuits and how to apply Ohm's law.
+V=IR \;  ;
+Voltage drop equals current multiplied by resistance.
+P = IV \;  ;
+Power released is equal to the voltage multiplied by the current.
+Ohm's Law is the main equation for electric circuits but it is often misused.
+In order to calculate the voltage drop across a light bulb use the formula:
+V_{lightbulb} = I_{lightbulb}R_{lightbulb} .
+For the total current flowing out of the power source, you need the total resistance of the circuit and the total voltage:
+V_{total} = I_{total}R_{total}
+The equations used to calculate the power dissipated in a circuit is P=IV .
+As with Ohm’s Law, one must be careful not to mix apples with oranges.
+If you want the power of the entire circuit, then you multiply the total voltage of the power source by the total current coming out of the power source.

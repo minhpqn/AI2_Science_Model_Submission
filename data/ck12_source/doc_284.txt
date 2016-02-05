@@ -1,0 +1,20 @@
+Picture of a screw with the thread width labelled
+A screw  is an inclined plane wrapped around a cylinder.
+When on a screw, inclined planes are called threads, which can be seen in the image above.
+The mechanical advantage of a screw increases with the density of the threads.
+The calculations to determine the IMA for a screw involve the circumference of the head of the screw and the thread width.  When the screw is turned completely around one time, the screw penetrates by one thread width.  So, if the circumference of the head of a screw is 3.0 cm and the thread width is 0.60 cm, then the IMA would be calculated by
+\text{IMA}=\frac{\text{effort distance}}{\text{resistance distance}}=\frac{3.0 \ \text{cm}}{0.60 \ \text{cm}}=5.
+When simple machines are joined together to make compound machines , the ideal mechanical advantage of the compound machine is found by multiplying the IMA’s of the simple machines.
+A machine is an object or mechanical device that receives an input amount of work and transfers the energy to an output amount of work.
+For an ideal machine, the input work and output work are always the same.
+The six common simple machines are the lever, wheel and axle, pulley, inclined plane, wedge, and screw.
+For all simple machines, the ideal mechanical advantage is \frac{\text{effort distance}}{\text{resistance distance}} .
+For all simple machines, the actual mechanical advantage is \frac{\text{resistance force}}{\text{effort force}} .
+When simple machines are joined together to make compound machines, the ideal mechanical advantage of the compound machine is found by multiplying the IMA’s of the simple machines.
+Use this practice quiz to check your understanding of work and simple machines.
+Is it possible to get more work out of a machine than you put in?
+A worker uses a pulley system to raise a 225 N carton 16.5 m.  A force of 129 N is exerted and the rope is pulled 33.0 m.
+What is the IMA of the system?
+What is the AMA of the system?
+A boy exerts a force of 225 N on a lever to raise a 1250 N rock a distance of 0.13 m.  If the lever is frictionless, how far did the boy have to move his end of the lever?
+How can you increase the ideal mechanical advantage of an inclined plane?

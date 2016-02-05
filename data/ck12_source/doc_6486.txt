@@ -1,0 +1,20 @@
+For example, fluorine will oxidize gold metal according to the following reaction.
+3\text{F}_2(g)+2\text{Au}(s) \rightarrow 6\text{F}^-(aq)+2\text{Au}^{3+}(aq)
+Lithium metal (Li) is the strongest reducing agent.
+It is capable of reducing any substance above on the table.
+For example, lithium will reduce water according to this reaction.
+2\text{Li}(s)+2\text{H}_2\text{O}(l) \rightarrow 2\text{Li}^+(aq)+2\text{OH}^-(aq)+\text{H}_2(g)
+Using the Table above will allow you to predict whether reactions will occur or not.
+For example, nickel metal is capable of reducing copper(II) ions, but is not capable of reducing zinc ions.
+This is because nickel (Ni) is below Cu 2+ , but is above Zn 2+ in the table.
+Standard cell potential calculations are described.
+Guidelines for making predictions of reaction possibilities using standard cell potentials are given.
+Read the material at the link below and answer the questions at the end:
+What type of reaction will the half-cell with the higher reduction potential undergo?
+What sign must the overall cell potential be in order for a reaction to be spontaneous?
+Is Zn 2+ a stronger or weaker reducing agent than Mg 2+ ?
+Describe the construction of a dry cell.
+Write reactions for a regular dry cell and an alkaline dry cell.
+Describe the construction of a lead storage battery.
+Write reactions for the led storage battery.
+Alessando Volta made the first voltaic cell

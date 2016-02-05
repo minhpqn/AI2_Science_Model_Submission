@@ -1,0 +1,20 @@
+If the surface of an object absorbs all frequencies of light, we see black.
+If all frequencies are emitted or reflected, we see white.
+If you had a book whose cover reflected only blue light and you placed this book in the presence of white light from an incandescent light bulb, all the colors except blue would be absorbed and the blue would be reflected, allowing you to see a blue book.
+If you placed the same book in the presence of only red light, no light would be reflected from the book and you would see a black book.
+Discussions of colors can sometimes become confusing because of the difference between light emitters and light absorbers.
+Light absorbers, such as dyes and pigments, absorb frequencies from those that you see, while light emitters add frequencies to what you see.
+If I were to shine red light, green light, and blue light into your eye all at the same time, you would likely see some variation of white.
+If I were to mix red paint, green paint, and blue paint together, you would likely see black or some very dark color.
+If an object emits light waves, we say the object is luminous (generates light).
+If an object merely reflects light that falls on it, we say the object is illuminated (reflects light).
+Many objects allow light rays to pass through them without disrupting the organization of the rays.
+When this happens, you can clearly identify the objects from which the light came.   Objects that allow light to pass through undisrupted are said to be transparent .
+Air, glass, some plastics, and some other materials are examples of transparent objects.
+There are also objects that allow light to pass through them but they disrupt the rays so that the objects from which the light came cannot be identified.
+Objects that allow light to pass through but disrupt images are said to be translucent .
+Lampshades, frosted light bulbs, and fogged glass are examples of translucent materials.
+Many other objects do not allow any light to pass through.
+Such objects are said to be opaque .
+Remember the illustration of electromagnetic radiation given above?
+These electric and magnetic waves may oscillate in any direction.

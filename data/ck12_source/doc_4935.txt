@@ -1,0 +1,20 @@
+What is the difference between a cell and a tissue?
+Describe the levels of organization of an organism.
+Cell Transport - Advanced
+Describe the importance of cell transport.
+What is cell transport?
+It is the movement of substances across the cell membrane either into or out of the cell.
+Sometimes things just move through the phospholipid bilayer.
+Other times, substances need the assistance of a protein, like a channel protein or some other transmembrane protein, to cross the cell membrane.
+Cell transport refers to the movement of substances across the cell membrane.
+Probably the most important feature of a cell’s phospholipid membranes is that they are selectively permeable.
+A membrane that is selectively permeable , or semipermeable, has control over what molecules or ions can enter or leave the cell, as shown in Figure below .
+This feature allows a cell to control the transport of materials, as dictated by the cell's function.
+The permeability of a membrane is dependent on the organization and characteristics of the membrane lipids and proteins.
+In this way, cell membranes help maintain a state of homeostasis within cells (and tissues, organs, and organ systems) so that an organism can stay alive and healthy.
+A selectively permeable, or semipermeable, membrane allows certain molecules through, but not others.
+Transport Across Membranes
+The molecular make-up of the phospholipid bilayer limits the types of molecules that can pass through it.
+For example, hydrophobic (water-hating) molecules, such as carbon dioxide (CO 2 ) and oxygen (O 2 ), can easily pass through the lipid bilayer, but ions such as calcium (Ca 2+ ) and polar molecules such as water (H 2 O) cannot.
+The hydrophobic interior of the phospholipid bilayer does not allow ions or polar molecules through because they are hydrophilic, or water loving.
+In addition, large molecules such as sugars and proteins are too big to pass through the phospholipid bilayer.

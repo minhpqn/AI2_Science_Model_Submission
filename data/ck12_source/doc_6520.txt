@@ -1,0 +1,20 @@
+Lead and tungsten are large atoms with many protons and neutrons in their nuclei.
+While the beta electron may be blocked, the target material could become irradiated in the process.
+High-density materials are much more effective protection against gamma emissions than low-density ones.
+Gamma rays are usually blocked effectively by lead shielding.
+The thickness of the shielding will determine the effectiveness of the protection offered by the lead.
+The relative penetrating abilities of radioactive emissions are described.
+Read the material at the link below and answer the following questions:
+How does time impact radiation exposure?
+How does distance impact exposure?
+What is shielding?
+What is penetrating ability?
+Which radioactive emission has the greatest penetrating ability?
+How can alpha particles be blocked?
+What is a problem with blocking beta emissions?
+penetrating ability:
+Ability of a radioactive emission to pass through matter.
+Effects of Radiation
+Describe the process of protein synthesis.
+Describe the effect of ionizing radiation on the protein synthesis process.
+Describe the effects of ionizing radiation on humans.

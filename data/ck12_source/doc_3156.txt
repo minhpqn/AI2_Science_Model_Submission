@@ -1,0 +1,20 @@
+When you push down the lever to turn on the toaster, the metal heating element inside starts to glow orange or red almost instantly.
+You can see the glowing heating element inside this yellow toaster.
+The glowing metal shows that the heating element has become very hot.
+It gets hot so quickly because metals are good conductors of thermal energy.
+Conduction is the transfer of thermal energy between particles of matter that are touching.
+Thermal conduction occurs when particles of warmer matter bump into particles of cooler matter and transfer some of their thermal energy to the cooler particles.
+Conduction is usually faster in certain solids and liquids than in gases.
+Materials that are good conductors of thermal energy are called thermal conductors .
+Metals are especially good thermal conductors because they have freely moving electrons that can transfer thermal energy quickly and easily.
+Besides the heating element inside a toaster, another example of a thermal conductor is a metal radiator, like the one in the Figure below .
+When hot water flows through the coils of the radiator, the metal quickly heats up by conduction and then radiates thermal energy into the surrounding air.
+Metal radiators quickly heat up
+Q:
+Thermal conductors have many uses, but sometimes it’s important to prevent the transfer of thermal energy.
+Can you think of an example?
+A:
+One example is staying warm on a cold day.
+You will stay warmer if you can prevent the transfer of your own thermal energy to the outside air.
+One way to retain your own thermal energy on a cold day is to wear clothes that trap air.
+That’s because air, like other gases, is a poor conductor of thermal energy.

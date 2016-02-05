@@ -1,0 +1,20 @@
+Think about your result.
+The original number of oxygen atoms was about 80 times larger than Avogadro’s number.
+Since each sulfuric acid molecule contains 4 oxygen atoms, there are about 20 moles of sulfuric acid molecules.
+Methods are described for conversions between moles, atoms, and molecules.
+Read the relevant portions of the following article and do problems 3, 5, 9, 13, and 18.  Do not worry about the calculations involving conversions dealing with molar mass (that will come next).
+What important number do we need to know to do these conversions?
+I want to convert atoms to moles.
+My friend tells me to multiply the number of atoms by 6.02 × 10 23 atoms/mole.  Is this correct?
+Why should I know the formula for a molecule in order to calculate the number of moles of one of the atoms?
+Define molar mass.
+Perform calculations involving molar mass.
+Pile of potassium dichromate
+When creating a solution, how do I know how much of each substance to put in?
+I want to make a solution that contains 1.8 moles of potassium dichromate.
+I don’t have a balance calibrated in molecules, but I do have one calibrated in grams.
+If I know the relationship between moles and the number of grams in a mole, I can use my balance to measure out the needed amount of material.
+Molar mass is defined as the mass of one mole of representative particles of a substance.
+By looking at a periodic table, we can conclude that the molar mass of lithium is 6.94 g, the molar mass of zinc is 65.38 g, and the molar mass of gold is 196.97 g.  Each of these quantities contains 6.02 × 10 23 atoms of that particular element.  The units for molar mass are grams per mole or g/mol.
+Molar Masses of Compounds
+A molecular formula of the compound carbon dioxide is CO 2 .  One molecule of carbon dioxide consists of 1 atom of carbon and 2 atoms of oxygen.  We can calculate the mass of one molecule of carbon dioxide by adding together the masses of 1 atom of carbon and 2 atoms of oxygen.

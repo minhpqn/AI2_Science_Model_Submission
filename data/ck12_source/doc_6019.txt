@@ -1,0 +1,20 @@
+molar mass CaO = 56.08 g/mol
+mass CaO = ? g
+The volume of SO 2 will be converted to moles, followed by the mole ratio, and finally a conversion of moles of CaO to grams.
+\text{L SO}_2 \rightarrow \text{mol SO}_2 \rightarrow \text{mol CaO} \rightarrow \text{g CaO}
+Step 2:
+Solve.
+1.4 \times 10^3 \text{ L SO}_2 \times \frac{1 \text{ mol SO}_2}{22.4 \text{ L SO}_2} \times \frac{2 \text{ mol CaO}}{2 \text{ mol SO}_2} \times \frac{56.08 \text{ g CaO}}{1 \text{ mol CaO}}=3.5 \times 10^3 \text{ g CaO}
+Step 3:
+Think about your result.
+The resultant mass could be reported as 3.5 kg, with two significant figures.
+Even though the 2:2 mole ratio does not mathematically affect the problem, it is still necessary for unit conversion.
+Calculations are described for determining the amount of gas formed in a reaction.
+Calculations are described for determining amounts of a material needed to react with a gas.
+Answer the questions at the link below:
+What are the conditions for all gases in these calculations?
+How can you tell if all the ratios were set up correctly?
+Why was 2 mol CaO/2mol SO 2 included in the second example if it did not affect the final number?
+mass-volume stoichiometry: calculations involving determination of amount of gas formed from solid materials.
+volume-mass stoichiometry: calculations involving determination of amount of gas needed for reaction with solid materials.
+Define limiting reactant.

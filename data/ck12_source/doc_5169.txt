@@ -1,0 +1,20 @@
+You inherit one chromosome of each pair of homologues from your mother and the other one from your father.
+Sexual reproduction is the primary method of reproduction for the vast majority of multicellular organisms, including almost all animals and plants.
+Fertilization joins two haploid gametes into a diploid zygote, the first cell of a new organism.
+The zygote enters G 1 of the first cell cycle, and the organism begins to grow and develop through mitosis and cell division.
+During meiosis the number of chromosomes is reduced from a diploid number ( 2n ) to a haploid number ( n ).
+During fertilization, haploid gametes come together to form a diploid zygote and the original number of chromosomes ( 2n ) is restored.
+Mitosis, Meiosis and Sexual Reproduction is discussed at
+Click on the image above for more content
+diploid :
+The state of a cell containing two sets of chromosomes; in human somatic cells, two sets is 46 (23 pairs) chromosomes, 2n
+fertilization :
+The joining of gametes during reproduction.
+gamete :
+A sexually reproducing organism’s reproductive cells, such as sperm and egg cells.
+haploid :
+The state of a cell containing one set of chromosomes; in human gametes, one set is 23 chromosomes, n .
+homologous chromosomes :
+A pair of chromosomes (one from each parent) consisting of two chromosomes that are similar in size, shape, and genes; also known as homologues.
+meiosis :
+A type of cell division that halves the number of chromosomes; forms gametes.

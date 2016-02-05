@@ -1,0 +1,20 @@
+A protein has one subunit.
+Would it have a quaternary structure?
+polypeptide:
+A sequence of amino acids between ten and one hundred in length.
+primary structure:
+The amino acid sequence of the protein.
+protein:
+A peptide that is greater than one hundred amino acids in length.
+quaternary structure:
+The specific interaction and orientation of the subunits of that protein.
+secondary structure:
+A highly regular sub-structure of the protein.
+tertiary structure:
+The overall three-dimensional structure of the protein.
+Define active site.
+Describe the process of an enzyme reaction.
+Describe the process by which a competitive inhibitor alters the rate of an enzyme reaction.
+Describe the process by which a non-competitive inhibitor alters the rate of an enzyme reaction.
+Explain the role of cofactors in enzyme reactions.
+Photograph of James Sumner, who discovered the first enzyme

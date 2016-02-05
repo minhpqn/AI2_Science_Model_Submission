@@ -1,0 +1,20 @@
+Why do scientists say the planetary model can’t be correct because the electrons would collapse into the nucleus?
+If you were trying to explain the idea of quantization to younger students, do you think you should use water or money as an example?
+Why?
+scintillation counter:
+A scintillation counter measures ionizing radiation.
+The sensor, called a scintillator, consists of a transparent crystal or liquid that fluoresces (emits a flash of light) when struck by ionizing radiation.
+A sensitive photomultiplier tube measures the light from the crystal and is attached to an electronic amplifier or other electronic equipment to count the signals.
+alpha particles:
+A positively charged particle, indistinguishable from a helium atom nucleus and consisting of two protons and two neutrons
+nucleus:
+The nucleus is the very dense region consisting of protons and neutrons at the center of an atom.
+nuclear model:
+The nuclear model of the atom states that the atom consists of a dense positive center called the nucleus and is surrounded by negatively charged electrons in an electron cloud.
+quantization:
+Quantization is the concept that a physical quantity can have only certain discrete values and intermediate values are prohibited.
+The Quantum Mechanical Model of the Atom
+Describe the quantum mechanical model of the atom.
+Indicate the possible values for the  n quantum number and indicate what information the  n quantum number gives about the electron.
+Indicate the possible values for the  l quantum number and indicate what information the  l quantum number gives about the electron.
+Indicate the possible values for the  m quantum number and indicate what information the  m quantum number gives about the electron.

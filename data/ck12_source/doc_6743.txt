@@ -1,0 +1,20 @@
+We call the quantity  mg  an object's weight .
+Unlike an object's mass, an object's weight can change and depends on the gravitational force it experiences.
+In fact, an object's weight is the magnitude of the gravitational force on it.
+To find the weight of an object on another planet, star, or moon, use the appropriate values in the formula for the force of gravity.
+Gravity and Orbits (PhET Simulation)
+Which is greater – the gravitational force that the Sun exerts on the moon, or the force the Earth exerts on the moon?
+Does the moon orbit the Earth or the Sun?
+Explain.
+Use Newton’s Law of Universal Gravitation to explain why even though Jupiter has 300 times the mass of the earth, on the “surface” of Jupiter you’d weigh only 3 times what you weigh on earth.
+What other factor has to be considered here?
+Prove g is approximately 10 \ m/s^2 on Earth by following these steps:
+Calculate the force of gravity between a falling object (for example an apple) and that of Earth.
+Use the symbol m_o to represent the mass of the falling object.
+Now divide that force by the object’s mass to find the acceleration g of the object.
+Calculate the force of gravity between the Sun and the Earth. (sun mass = 2.0 \times 10^{30} \ kg; average distance from sun to earth = 150 million km)
+Calculate the gravitational force that your pencil or pen pulls on you.
+Use the center of your chest as the center of mass (and thus the mark for the distance measurement) and estimate all masses and distances.
+If there were no other forces present, what would your acceleration be towards your pencil?
+Is this a large or small acceleration?
+Why, in fact, doesn’t your pencil accelerate towards you?

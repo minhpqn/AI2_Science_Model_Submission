@@ -1,0 +1,20 @@
+When you make bread, you employ the yeast to make the bread “rise” by producing bubbles of carbon dioxide gas.
+Ethanol is also produced.
+Why do you suppose that eating bread does not intoxicate you?
+Bread is not intoxicating because the bread fermentation process takes a short amount of time, only allowing for a small amount of alcohol to be produced, most of which will evaporate during the baking process.
+A study was reported to the American Chemical Society suggesting that after collecting samples from bakeries and housewive's ovens, they found that the alcohol content varied from 0.04% to 1.9%.
+The alcohol content of bread varies with the kind of yeast used, the time it sets, and the temperature of baking.
+Yeasts (A) are facultative anaerobes, which means that in the absence of oxygen, they use alcoholic fermentation to produce ethyl alcohol and carbon dioxide.
+Both products are important commercially.
+Recall that yeasts are single-celled eukaryotic organisms that reproduce asexually (B).
+We employ yeasts to use their anaerobic talents to help bread rise (via bubbles of CO 2 ) and grapes ferment (adding ethanol).
+Brewers of beer and wine use yeast to add alcohol to beverages.
+Traditional varieties of yeast not only make but also limit the quantity of alcohol in these beverages, because above 18% by volume, alcohol becomes toxic to the yeast itself.
+Wine is produced by fermentation of the natural sugars present in grapes and other kinds of fruit.
+Beer, whiskey, and vodka are produced by fermentation of grain starches that have been converted to sugar by the enzyme amylase, and rum is produced by fermentation of sugarcane.
+In each of these fermentations, sugars are converted into small amounts of ATP, using and regenerating NAD + in the process, and producing ethanol and carbon dioxide.
+Scientists have recently developed new strains of yeast which can tolerate up to 25% alcohol by volume.
+These are used primarily in the production of ethanol fuel.
+Human use of alcoholic fermentation depends on the chemical energy remaining in pyruvate after glycolysis.
+Transforming pyruvate does not add ATP to that produced in glycolysis, and for anaerobic organisms, this is the end of the ATP-producing line.
+All types of anaerobic respiration yield only 2 ATP per glucose.

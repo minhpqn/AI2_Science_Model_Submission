@@ -1,0 +1,20 @@
+Electrolytes and Colligative Properties
+Ionic compounds are electrolytes and dissociate into two or more ions as they dissolve.
+This must be taken into account when calculating the freezing and boiling points of electrolyte solutions.
+The sample problem below demonstrates how to calculate the freezing point and boiling point of a solution of calcium chloride.
+Calcium chloride dissociates into three ions according to the equation:
+\text{CaCl}_2 (s) \rightarrow \text{Ca}^{2+} (aq)+2\text{Cl}^-(aq)
+The values of the freezing point depression and the boiling point elevation for a solution of CaCl 2 will be three times greater than they would be for an equal molality of a nonelectrolyte.
+Sample Problem:
+Freezing and Boiling Point of an Electrolyte
+Determine the freezing and boiling point of a solution prepared by dissolving 82.20 g of calcium chloride into 400.g of water.
+Step 1:
+List the known quantities and plan the problem.
+mass CaCl 2 = 82.20 g
+molar mass CaCl 2 = 110.98 g/mol
+mass H 2 O = 400. g = 0.400 kg
+K_f(\text{H}_2\text{O})=-1.86^\circ \ \text{C}/ m
+K_b(\text{H}_2\text{O})=0.512^\circ \ \text{C}/ m
+CaCl 2 dissociates into 3 ions
+T_f=? \ ^\circ \text{C}
+T_b=? \ ^\circ \text{C}

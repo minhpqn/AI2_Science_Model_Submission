@@ -1,0 +1,20 @@
+These alkanes are called straight-chain alkanes because the carbon atoms are connected in one continuous chain with no branches.
+Naming and writing structural and molecular formulas for the straight-chain alkanes is straightforward.
+The name of each alkane consists of a prefix that specifies the number of carbon atoms and the ending –ane.
+The molecular formula follows the pattern of C n H 2n+2 where  n is the number of carbons in the chain.
+The Table below lists the first ten members of the alkane series.
+First Ten Members of the Alkane Series
+Condensed Structural Formula
+Boiling Point (°C)
+C 2 H 6
+CH 3 CH 3
+C 3 H 8
+CH 3 CH 2 CH 3
+C 4 H 10
+CH 3 CH 2 CH 2 CH 3
+C 5 H 12
+CH 3 CH 2 CH 2 CH 2 CH 3
+C 6 H 14
+CH 3 CH 2 CH 2 CH 2 CH 2 CH 3
+C 7 H 16
+CH 3 CH 2 CH 2 CH 2 CH 2 CH 2 CH 3

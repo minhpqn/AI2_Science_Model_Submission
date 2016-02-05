@@ -1,0 +1,20 @@
+The terminal voltage (or 'output voltage') is equal to the emf (it's 'ideal voltage') minus the voltage drop across the internal resistance.
+Guidance A battery is a voltage source.
+A battery can be thought of as a perfect voltage source with a small resistor (called internal resistance) in series.
+The electric energy density produced by the chemistry of the battery is called emf, but the amount of voltage available from the battery is called terminal voltage.
+The terminal voltage equals the emf minus the voltage drop across the internal resistance (current of the external circuit times the internal resistance).
+In practice, if you short circuit a battery and measure its voltage you will see the voltage is less than what is marked on it and what it can produce when outputting smaller currents.
+The short circuit of the battery, makes it pump out a lot of current and then the voltage drop over the internal resistance gets large ( V = Ir ) which in turn reduces the terminal voltage.
+You have a battery with an EMF of 5 V and an unknown internal resistance.
+You hook the battery up to a circuit with one 3\;\Omega resistor and measure the current through the resistor to be 1.5 A.
+What is the internal resistance of the batter and how much power is the battery's resistance dissipating.
+To start this problem we'll first find the terminal voltage of the battery using the information we know about the resistor.
+We know the voltage drop across the resistor must be equal to the terminal voltage because there the total change in voltage must be over the whole circuit.
+We can plug this value into the equation given above to find the internal resistance.
+Now we can find find the power dissipated by the resistor
+Watch this Explanation
+Click on the image above for more content
+In the circuit shown here, the battery produces an emf of 1.5\;\mathrm{V} and has an internal resistance of 0.5\ \Omega .
+Find the total resistance of the external circuit.
+Find the current drawn from the battery.
+Determine the terminal voltage of the battery

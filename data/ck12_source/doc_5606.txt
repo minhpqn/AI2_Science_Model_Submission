@@ -1,0 +1,20 @@
+To move to a smaller unit, which direction do you move the decimal?
+Perform the following conversions.
+0.074 km to m
+24,600 μg to g
+4.9 × 10 7 μg to kg
+84 dm to mm
+unit conversion:
+Conversion factors between different units of measurement for the same quantity.
+Define derived unit.
+Carry out unit conversions using derived units.
+Picture of a farm
+How has farming evolved?
+As farming becomes more expensive and less profitable (at least for small farms), many families will sell the land to builders who want to erect either commercial or residential properties.
+In order to sell, an accurate property tile is needed.
+The dimensions of the farm must be determined and the acreage calculated from those dimensions.
+Dimensional Analysis and Derived Units
+Some units are combinations of SI base units.
+A derived unit is a unit that results from a mathematical combination of SI base units.
+We have already discussed volume and energy as two examples of derived units.
+Some others are listed in the Table below :

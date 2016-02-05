@@ -1,0 +1,20 @@
+See What Is Xeroderma Pigmentosum? at for additional information on this disease.
+Click on the image above for more content
+Two forms of NER exist within the cell.
+Global genomic NER (or global excision repair) repairs damage in both transcribed and untranscribed DNA strands in active and inactive genes throughout the genome.
+This process utilizes damage sensing proteins that constantly scan the DNA for distortions in the helix.
+Repair proteins then verify and repair the damage.
+This process is ongoing as at any one time, most of the DNA is not undergoing transcription.
+Transcription-coupled NER (TC-NER) is a faster process than global genomic NER.
+In TC-NER, RNA polymerase serves as the damage recognition signal when it stalls at a change in the shape of the DNA double helix.
+This allows repair to proceed much quicker then with global repair mechanisms.
+Base Excision Repair
+Base excision repair repairs small, non-helix distorting changes in the DNA, usually resulting from damage during the cell cycle.
+The process begins with enzymes known as DNA glycosylases, which recognize and remove specific damaged or inappropriate bases, forming AP sites.
+AP sites are apurinic or apyrimidinic sites (or a basic sites), which are locations in DNA that have neither a purine nor a pyrimidine base.
+The gap is then recognized by an AP endonuclease, which nicks the sugar-phosphate backbone.
+DNA polymerase and DNA ligase then fill in and close the gap.
+See DNA repair:
+Base excision repair at for additional information.
+Click on the image above for more content
+AP site :

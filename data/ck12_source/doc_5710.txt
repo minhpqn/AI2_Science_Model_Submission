@@ -1,0 +1,20 @@
+No other ticket can have the same four parts to it.
+It may have the same gate, section, and seat number, but it would have to be in a different row.
+Each seat is unique and allows only one occupant to fill it.
+We use a series of specific numbers, called quantum numbers , to describe the location of an electron in an associated atom.
+Quantum numbers specify the properties of the atomic orbitals and the electrons in those orbitals.
+An electron in an atom or ion has four quantum numbers to describe its state.
+Think of them as important variables in an equation which describes the three-dimensional position of electrons in a given atom.
+Principal Quantum Number (n)
+The principal quantum number , signified by (n) , is the main energy level occupied by the electron.
+Energy levels are fixed distances from the nucleus of a given atom.
+They are described in whole number increments (e.g., 1, 2, 3, 4, 5, 6, ...).
+At location n=1 , an electron would be closest to the nucleus, while  n=2 the electron would be farther, and  n=3 farther yet.
+As we will see, the principal quantum number corresponds to the row number for an atom on the periodic table.
+Angular Momentum Quantum Number  (l)
+The angular momentum quantum number , signified as (l) , describes the general shape or region an electron occupies – its orbital shape.
+The value of l depends on the value of the principle quantum number n .
+The angular momentum quantum number can have positive values of zero to (n-1) .
+If n=2 ,  l could be either 0 or 1.
+Magnetic Quantum Number (m_l)
+The magnetic quantum number , signified as (m_l) , describes the orbital orientation in space.

@@ -1,0 +1,20 @@
+It was first proposed by a French scientist named Guillaume Amontons in the late 1600s.
+Amontons’ gas law is just one of three commonly known gas laws.
+The other two are Boyle’s law and Charles’ law.
+Q:
+How does Amontons' gas law explain the difference in air pressure in Lawrence’s tire?
+A:
+The tire—and the air inside it—got warmer because of friction with the road.
+The volume of air inside the tire was more-or-less constant, so the pressure of the air increased when it got warmer.
+Why does the pressure of a gas increase as it gets warmer?
+Particles of a gas are constantly moving and bumping into things.
+The force of the collisions is measured by pressure.
+Pressure is the amount of force exerted on a given area, such as pounds of force per square inch.
+When gas particles heat up and gain energy, they move faster.
+This causes more collisions and greater pressure.
+Therefore, heating particles of gas in a closed space causes the pressure of the gas to increase.
+Explore the behavior of gas particles at different temperatures at the following URL.
+Change the temperature of the gas and watch what happens to its particles.
+Q:
+Look at the graph in the simulation above as you change the temperature of the gas.
+What happens to the pressure of the gas as its temperature increases?

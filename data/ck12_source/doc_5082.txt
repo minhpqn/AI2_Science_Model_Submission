@@ -1,0 +1,20 @@
+For long periods of time, they carry out aerobic respiration in their “specialized-for-endurance” red muscles.
+If you are familiar with grouse, you know that these birds “flush” with great speed over short distances.
+Such “sprinting” flight depends on anaerobic respiration in the white cells of breast and wing muscle, allowing rapid production of ATP in low oxygen situations.
+No human muscle is all red or all white, but chances are, if you excel at sprinting short distances or at a sport such as weight lifting, you have more white glycolytic fibers in your leg muscles, allowing anaerobic respiration.
+If you run marathons, you probably have more red oxidative fibers, performing aerobic respiration.
+Ruffed grouse use anaerobic respiration (lactic acid fermentation) in wing and breast muscles for quick bursts of speed to escape from predators.
+Lactic Acid Fermentation
+You may have not been aware that your muscle cells can ferment.
+Fermentation is the process of producing ATP in the absence of oxygen, through glycolysis alone.
+Recall that glycolysis breaks a glucose molecule into two pyruvate molecules, producing a net gain of two ATP and two NADH molecules.
+Lactic acid fermentation is the type of anaerobic respiration carried out by yogurt bacteria ( Lactobacillus and others) and by your own muscle cells when you work them hard and fast.
+Lactic acid fermentation converts the 3-carbon pyruvate to the 3-carbon lactic acid (C 3 H 6 O 3 ) (see Figure below ) and regenerates NAD + in the process, allowing glycolysis to continue to make ATP in low-oxygen conditions.
+Since there is a limited supply of NAD + available in any given cell, this electron acceptor must be regenerated to allow ATP production to continue.
+To achieve this, NADH donates its extra electrons to the pyruvate molecules, regenerating NAD + .
+Lactic acid is formed by the reduction of pyruvate.
+Lactic acid, C 3 H 6 O 3 .
+Lactic acid fermentation converts pyruvate to lactic acid, and regenerates NAD + from NADH:
+C 3 H 3 O 3 (pyruvate) + NADH → C 3 H 6 O 3 (lactic acid) + NAD +
+Lactic acid fermentation makes ATP in the absence of oxygen by converting glucose to lactic acid (through a pyruvate intermediate).
+Making lactic acid from pyruvate oxidizes NADH, regenerating NAD + so that glycolysis can continue to make more ATP rapidly.

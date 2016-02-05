@@ -1,0 +1,20 @@
+The Boltzmann constant k is a constant of nature, equal to 1.38\times10^{-23} \;\mathrm{J/K}
+T_F = \frac{9}{5}T_C + 32^\circ \text{F} ; conversion from Celsius to Fahrenheit
+T_C = \frac{5}{9}(T_F - 32^\circ \text{F}) ; conversion from Fahrenheit to Celsius
+When an object feels cold to the touch, it is because heat is flowing from you to the object.
+When an object feels hot to the touch, it is because heat is flowing from the object to you.
+Some objects (like metals) conduct heat better than others (like wood).
+Thus if you stick a metal rod in the fireplace and hold the other end, the heat is conducted well and you get burned.
+On the other hand, if you place a wood stick in the fire and hold the other end you’ll be OK.
+The temperature of a gas is a measure of the amount of average kinetic energy that the atoms in the gas possess.
+If you heat something, you increase its internal energy, so you increase the movement of molecules that make up this thing, thus it expands.
+This is called heat expansion; most everything expands as heated and contracts as cooled.
+Most materials expand as they are heated.
+This can cause bridges to collapse if they are not designed to have a place to expand in the summer months (like the placing of metal ‘teeth’ at intervals on the Golden Gate Bridge).
+Water contracts from 0^\circ C to 4^\circ C and then expands from 4^\circ C to 100^\circ C .
+Remembering that density is mass divided by volume explains why water at 4^\circ C is more dense than water below and above 4^\circ C .
+This also explains why lakes freeze on the top first and not throughout.
+As the water on the top of the lake drops below 4^\circ C , it is now more dense than the water below it, thus it sinks to the bottom, allowing the warmer water to rise up to the top and cool down in the winter weather.
+Only when the entirety of the lake is at 4^\circ C , then the lake can start to freeze.
+It freezes from the top down, because water below 4^\circ C is less dense than water at 4^\circ C .
+More than 50% of the water rise expected from global warming is due to the thermal expansion of water

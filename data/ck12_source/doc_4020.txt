@@ -1,0 +1,20 @@
+It is the constant changing of those outside markers that make producing a vaccine against this virus difficult.
+The Human Immunodeficiency Virus ( HIV ) is the virus that causes Acquired Immunodeficiency Syndrome ( AIDS ).
+Most researchers believe that the HIV originated in sub-Saharan Africa during the 20th century.
+HIV is transmitted by sexual contact and by contact with infected bodily fluids, such as blood, semen, breast milk, and vaginal secretions.
+It is also passed from mother to fetus.
+HIV is now a pandemic , with an estimated (as of 2008) 38.6 million people now living with the disease worldwide.
+It is estimated that AIDS has killed more than 25 million people since it was first recognized in For further information about HIV/AIDS, see the CDC (Centers for Disease Control and Prevention) web site at
+HIV is the retrovirus that destroys the immune system.
+HIV primarily infects helper T cells (specifically CD4 + T cells), macrophages, and dendritic cells.
+HIV infection leads to low levels of CD4 + T cells because the virus directly kills infected cells and the infected T cells are also attacked by the immune system.
+The infection of a CD4 cell is shown in the Figure below .
+When CD4 + T cell numbers decline below a certain critical level, cell-mediated immunity is lost, and the body becomes more prone to opportunistic infections.
+HIV infections will be discussed further in the immune system concepts.
+If left untreated, most HIV-infected individuals will develop AIDS.
+AIDS is a collection of symptoms and infections resulting from the damage to the immune system by HIV.
+Because the immune systems of people with AIDS are so weak, bacteria and viruses that do not normally cause disease in healthy people can easily cause disease in an AIDS patient.
+Opportunistic infections associated with AIDS include:
+Pneumocystis pneumonia : a form of pneumonia caused by a fungus.
+Tuberculosis (TB), caused by the Mycobacterium tuberculosis bacteria.
+Lung infections caused by Mycobacterium other than tuberculosis (MOTT).

@@ -1,0 +1,20 @@
+What would be the net force needed to keep the loop at a steady velocity?
+What is the electric field across the .50 \;\mathrm{m} long resistor?
+What is the power dissipated in the resistor?
+A small rectangular loop of wire 2.00 \;\mathrm{m} by 3.00 \;\mathrm{m} moves with a velocity of 80.0 \;\mathrm{m/s} in a non-uniform field that diminishes in the direction of motion uniformly by .0400 \;\mathrm{T/m} .
+Calculate the induced emf in the loop.
+What would be the direction of current?
+Answers to Selected Problems
+1.2 \times 105 \;\mathrm{V} , counterclockwise
+a. 15 \;\mathrm{V} b.
+Counter-clockwise
+a. 2 \times 10^{-5} \;\mathrm{T} b.
+Into the page c. 2.8 \;\mathrm{N/m} d.
+CW
+a. 0 .8 \;\mathrm{V} b.
+CCW c. .064 \;\mathrm{N} d. .16 \;\mathrm{N/C} e. .13 \;\mathrm{w}
+Generators and Motors
+Describe how a generator (and thus motor) works.
+Students will learn how a generator (and thus motor) works.
+The lesson is on a conceptual basis and compliments the lesson on electromagnetic induction.
+emf = -\frac{\Delta \Phi}{\Delta t}&& \text{Faraday's Law of Induction} \Phi = N \vec{B} \cdot \vec{A} &&\text{ Electromagnetic Flux}

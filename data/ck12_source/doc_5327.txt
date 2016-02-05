@@ -1,0 +1,20 @@
+But how does all this information, all these nucleotides, form the molecule known as DNA?
+It took the work of four distinguished scientists, three distinguished gentlemen one under-appreciated legendary woman, to solve this mystery.
+The Double Helix
+In the early 1950s, Rosalind Franklin started working on understanding the structure of DNA fibers.
+Franklin, together with Maurice Wilkins, used her expertise in x-ray diffraction photographic techniques to analyze the structure of DNA.
+In February 1953, Francis Crick and James D.
+Watson of the Cavendish Laboratory in Cambridge University had started to build a model of DNA.
+Watson and Crick indirectly obtained Franklin's DNA X-ray diffraction data demonstrating crucial information into the DNA structure.
+Francis Crick and James Watson ( Figure below ) then published their double helical model of DNA in Nature on April 25th, 1953:
+James Watson (left, about the time of the discovery of the double helix) and Francis Crick (right, photo taken many years later).
+DNA has the shape of a double helix , just like a spiral staircase ( Figure below ).
+As a nucleic acid, DNA is composed of nucleotide monomers, consisting of the deoxyribose sugar, a phosphate group, and a nitrogenous base (A, C, G or T).
+There are two sides to the double helix, called the sugar-phosphate backbone , as they are made from alternating phosphate groups and deoxyribose sugars.
+The “steps” of the double helix are made from the base pairs formed between the nitrogenous bases.
+The DNA double helix is held together by hydrogen bonds between the bases attached to the two strands.
+The DNA double helix.
+The two sides are the sugar-phosphate backbones, composed of alternating phosphate groups and deoxyribose sugars.
+The nitrogenous bases face the center of the double helix.
+As the base-pairing rules tell us, A always pairs with T, and G always pairs with C.
+See The DNA molecule is shaped like a twisted ladder at to see Watson talk about this historic work.

@@ -1,0 +1,20 @@
+Given: m = 10\ kg
+{\;} \qquad \quad F_{\text{thrust}} = 500\ N
+{\;} \qquad \quad g = 10.0\ m/s^2
+Equations: \sum F_{\text{individual forces}} = ma
+or, in this case, \sum F_{y-\text{direction forces}} = ma_y
+Plug n ’ Chug:
+Use FBD to “fill in” Newton’s second law equation:
+\sum F_{y-\text{direction forces}} &= ma_y \\\F - Mg & = Ma \\\500N - 10\ kg(10\ m/s^2) & = 10kg (a) \\\a & = 40\ m/s^2
+Watch this Explanation
+Click on the image above for more content
+Forces in 1 Dimension (PhET Simulation)
+During a rocket launch, the rocket’s acceleration increases greatly over time.
+Explain, using Newton’s Second Law. (Hint: most of the mass of a rocket on the launch pad is fuel).
+When pulling a paper towel from a paper towel roll, why is a quick jerk more effective than a slow pull?
+You pull a wagon with a force of 20 N.
+The wagon has a mas of 10 kg.
+What is the wagon's acceleration?
+The man is hanging from a rope wrapped around a pulley and attached to both of his shoulders.
+The pulley is fixed to the wall.
+The rope is designed to hold 500 N of weight; at higher tension, it will break.

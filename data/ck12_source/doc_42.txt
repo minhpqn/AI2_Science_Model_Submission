@@ -1,0 +1,20 @@
+In this system, each organism receives a two-part name in which the first word is the genus (a group of species), and the second word refers to one species in that genus.
+For example, a coyote's species name is Canis latrans .
+Latrans is the species and Canis is the genus, a larger group that includes dogs, wolves, and other dog-like animals.
+Here is another example: the red maple, Acer rubra , and the sugar maple, Acer saccharum , are both in the same genus and they look similar ( Figure below ).
+Notice that the genus is capitalized and the species is not, and that the whole scientific name is in italics.
+Tigers (Panthera tigris) and lions (Panthera leo)  have the same genus name, but are obviously different species.
+The names may seem strange, but the names are written in a language called Latin.
+Leaves from the green and red maple tree, and a maple seed
+These leaves are from two different species of trees in the Acer , or maple, genus.
+The green leaf ( far left ) is from the sugar maple, and the red leaf ( center ) are from the red maple.
+One of the characteristics of the maple genus is winged seeds ( far right ).
+Modern taxonomists have reordered many groups of organisms since Linnaeus.
+The main categories that biologists use are listed here from the most specific to the least specific category ( Figure below ).
+All organisms can be classified into one of three domains , the least specific grouping.
+The three domains are Bacteria, Archaea, and Eukarya.
+The Kingdom is the next category after the Domain.
+All life is divided among six kingdoms:
+Kingdom Bacteria, Kingdom Archaea, Kingdom Protista, Kingdom Plantae, Kingdom Fungi, and Kingdom Animalia.
+Diagram of the classification categories for organisms
+This diagram illustrates the classification categories for organisms, with the broadest category (kingdom) at the bottom, and the most specific category (species) at the top.

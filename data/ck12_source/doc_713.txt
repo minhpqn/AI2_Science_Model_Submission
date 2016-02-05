@@ -1,0 +1,20 @@
+Wave interference pattern
+In the early 1800s, light was assumed to be a particle.
+There was a significant amount of evidence to point to that conclusion, and famous scientist Isaac Newton's calculations all support the particle theory.
+In 1803, however, Thomas Young performed his famous Double Slit Experiment to prove that light was a wave.
+Young shined a light onto the side of a sealed box with two slits in it, creating an interference pattern on the inside of the box opposite the slits.
+As seen above, interference patterns are characterized by alternating bright and dark lines.
+The bright lines are a result of constructive interference, while the dark lines are a result of destructive interference.
+By creating this interference pattern, Young proved light is a wave and changed the course of physics.
+Calculating Wavelength from Double Slit Pattern
+Using the characteristics of the double slit interference pattern, it is possible to calculate the wavelength of light used to produce the interference.
+To complete this calculation, it is only necessary to measure a few distances.
+As can be seen below, five distances are measured.
+In the sketch, L  is the distance from the two slits to the back wall where the interference pattern can be seen. d  is the distance between the two slits.
+To understand x , look again at the interference pattern shown above.
+The middle line, which is the brightest, is called the central line .
+The remaining lines are called fringes .
+The lines on either side of the central line are called the first order fringes, the next lines are called the second order fringes, and so on. x  is the distance from the central line to the first order fringe.
+Calculating wavelength from a double slit pattern
+r 1  and r 2  are the distances from the slits to the first order fringe.
+We know that the fringes are a result of constructive interference, and that the fringe is a result of the crest of two waves interfering.

@@ -1,0 +1,20 @@
+It shows just the numbers of valence electrons in each of these groups.
+For elements in groups 3–12, determining the number of valence electrons is more complicated.
+You can learn more about the valence electrons of elements in these groups at this URL:
+Number of electrons in the periodic table
+Q:
+Based on both periodic tables above ( Figures above and above ), what are examples of elements that have just one valence electron?
+What are examples of elements that have eight valence electrons?
+How many valence electrons does oxygen (O) have?
+A:
+Any element in group 1 has just one valence electron.
+Examples include hydrogen (H), lithium (Li), and sodium (Na).
+Any element in group 18 has eight valence electrons (except for helium, which has a total of just two electrons).
+Examples include neon (Ne), argon (Ar), and krypton (Kr).
+Oxygen, like all the other elements in group 16, has six valence electrons.
+Valence Electrons and Reactivity
+The table salt pictured in the Figure below contains two elements that are so reactive they are rarely found alone in nature.
+Instead, they undergo chemical reactions with other elements and form compounds.
+Table salt is the compound named sodium chloride (NaCl).
+It forms when an atom of sodium (Na) gives up an electron and an atom of chlorine (Cl) accepts it.
+When this happens, sodium becomes a positively charged ion (Na + ), and chlorine becomes a negatively charged ion (Cl - ).

@@ -1,0 +1,20 @@
+Work can be done on the gas in order to compress it.
+If you plot pressure on the vertical axis and volume on the horizontal axis, the work done in any complete cycle is the area enclosed by the graph.
+For a partial process, work is the area underneath the curve, or P\Delta\!V .
+Question :A heat engine operates at a temperature of 650\mathrm{K} .
+The work output is used to drive a pile driver, which is a machine that picks things up and drops them.
+Heat is then exhausted into the atmosphere, which has a temperature of 300\mathrm{K} .
+a) What is the ideal efficiency of this engine?
+b) The engine drives a 1200\mathrm{kg} weight by lifting it 50m in 2.5 sec .
+What is the engine’s power output?
+c) If the engine is operating at 50\% of ideal efficiency, how much power is being consumed?
+d) How much power is exhausted?
+e) The fuel the engine uses is rated at 2.7\times 10^6\mathrm{J/kg} .
+How many kg of fuel are used in one hour?
+a) We will plug the known values into the formula to get the ideal efficiency.
+\eta = 1 -\frac{T_{\mathrm{cold}}}{T_\mathrm{hot}}=1-\frac{300\mathrm{K}}{650\mathrm{K}}=54\%
+b) To find the power of the engine, we will use the power equation and plug in the known values.
+P=\frac{W}{t}=\frac{Fd}{t}=\frac{mad}{t}=\frac{1200\mathrm{kg}\times 9.8\mathrm{m/s^2}\times 50\mathrm{m}}{2.5\mathrm{sec}}=240\mathrm{kW}
+c) First, we know that it is operating at 50\% of ideal efficiency.
+We also know that the max efficiency of this engine is 54\% .
+So the engine is actually operating at .5\times 54\%=27\% of 100\% efficiency.

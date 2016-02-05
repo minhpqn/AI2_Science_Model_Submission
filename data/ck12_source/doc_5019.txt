@@ -1,0 +1,20 @@
+Chemotrophs can be either autotrophic (chemoautotrophs) or heterotrophic (chemoheterotrophs).
+Chemoautotrophs derive their energy from chemical reactions, and synthesize all necessary organic compounds from carbon dioxide.
+Chemoheterotrophs are unable to fix carbon to form their own organic compounds.
+The various types of metabolisms are discussed in the Prokaryotes:
+Nutrition and Metabolism (Advanced) concept.
+This flowchart helps to determine if a species is an autotroph or a heterotroph, a phototroph or a chemotroph.
+For example, “Carbon obtained from elsewhere?” asks if the source of carbon is another organism.
+If the answer is “yes”, the organism is heterotrophic.
+If the answer is “no,” the organisms is autotrophic.
+autotroph :
+Organism that produces organic compounds from energy and simple inorganic molecules; also known as a producer.
+chemosynthesis :
+The process by which carbon dioxide molecules are converted to carbohydrates; uses energy from the oxidation of inorganic compounds.
+chemotroph :
+An organism that breaks down either organic or inorganic molecules to supply energy for the cell.
+consumer :
+A heterotrophic organism; must eat or absorb organic food molecules.
+food :
+Organic (carbon-containing) molecules which store energy in the chemical bonds between their atoms.
+food chain :

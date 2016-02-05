@@ -1,0 +1,20 @@
+Collision Lab (PhET Simulation)
+You are playing pool and you hit the cue ball with a speed of 2\;\mathrm{m/s} at the 8 -ball (which is stationary).
+Assume an elastic collision and that both balls are the same mass.
+Find the speed and direction of both balls after the collision, assuming neither flies off at any angle.
+A 0.045\;\mathrm{kg} golf ball with a speed of 42.0\;\mathrm{m/s} collides elastically head-on with a 0.17\;\mathrm{kg} pool ball at rest.
+Find the speed and direction of both balls after the collision.
+Ball A is traveling along a flat table with a speed of 5.0\;\mathrm{m/s} , as shown below.
+Ball B , which has the same mass, is initially at rest, but is knocked off the table in an elastic collision with Ball A .
+Find the horizontal distance that Ball B travels before hitting the floor.
+Students are doing an experiment on the lab table.
+A steel ball is rolled down a small ramp and allowed to hit the floor.
+Its impact point is carefully marked.
+Next a second ball of the same mass is put upon a set screw and a collision takes place such that both balls go off at an angle and hit the floor.
+All measurements are taken with a meter stick on the floor with a co-ordinate system such that just below the impact point is the origin.
+The following data is collected:
+no collision: 41.2 \;\mathrm{cm}
+target ball: 37.3 \;\mathrm{cm} in the direction of motion and 14.1 \;\mathrm{cm} perpendicular to the direction of motion
+From this data predict the impact position of the other ball.
+One of the lab groups declares that the data on the floor alone demonstrate to a 2 % accuracy that the collision was elastic.
+Show their reasoning.

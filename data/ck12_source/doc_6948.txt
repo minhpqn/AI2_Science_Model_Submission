@@ -1,0 +1,20 @@
+There are two parts to this question, the magnitude of the electric field and the direction.
+We will first focus on the magnitude.
+To find the magnitude we will use the equation F_B=qvBsin\theta We were given the force of the magnetic field (2.2\times10^{-12}\;\mathrm{N}) and the velocity that the electron is traveling (1.8\times10^6\;\mathrm{m/s}) .
+We also know the charge of the electron (1.6\times10^{-19}\;\mathrm{C}) .
+Also, because the electron's velocity is perpendicular to the field, we do not have to deal with \sin\theta because \sin\theta of 90 degrees is 1 .
+Therefore all we have to do is solve for B and plug in the known values to get the answer.
+F_B=qvB\sin\theta\intertext{Solving for B:} B = \frac{F_B}{qv\sin\theta}
+Now, plugging the known values we have:
+B=\frac{F_B}{qv\sin\theta}=\frac{2.2?10^{-12}\:\mathrm{N}}{1.6\times10^{-19}\:\mathrm{C} \times 1.8\times10^6\:\mathrm{m/s}\times1}=7.6\:\mathrm{T}
+Now we will find the direction of the field.
+We know the direction of the velocity (east) and the direction of the force due to the magnetic field (up, out of the page).
+Therefore we can use the second right hand rule (we will use the left hand, since an electron's charge is negative).
+Point the pointer finger to the right to represent the velocity and the thumb up to represent the force.
+This forces the middle finger, which represents the direction of the magnetic field, to point south.
+Alternatively, we could recognize that this situation is illustrated for a positive particle in the right half of the drawing above; for a negative particle to experience the same force, the field has to point in the opposite direction: south.
+Example 2:
+Circular Motion in Magnetic Fields
+Consider the following problem: a positively charged particle with an initial velocity of  \vec{v}_1  , charge  q  and mass  m  traveling in the plane of this page enters a region with a constant magnetic field \vec{B}  pointing into the page.
+We are interested in finding the trajectory of this particle.
+Since the force on a charged particle in a magnetic field is always perpendicular to both its velocity vector and the field vector (check this using the second right hand rule above), a constant magnetic field will provide a centripetal force --- that is, a constant force that is always directed perpendicular to the direction of motion.

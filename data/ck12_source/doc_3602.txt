@@ -1,0 +1,20 @@
+Cell Division in Eukaryotes
+Cell division is more complex in eukaryotes than prokaryotes.
+Prior to dividing, all the DNA in a eukaryotic cell’s multiple chromosomes is replicated.
+Its organelles are also duplicated.
+Then, when the cell divides, it occurs in two major steps:
+The first step is mitosis , a multi-phase process in which the nucleus of the cell divides.
+During mitosis, the nuclear membrane breaks down and later reforms.
+The chromosomes are also sorted and separated to ensure that each daughter cell receives a diploid number (2 sets) of chromosomes.
+In humans, that number of chromosomes is 46 (23 pairs).
+Mitosis is described in greater detail in a subsequent concept.
+The second major step is cytokinesis.
+As in prokaryotic cells, the cytoplasm must divide.
+Cytokinesis is the division of the cytoplasm in eukaryotic cells, resulting in two genetically identical daughter cells.
+Cell division is part of the life cycle of virtually all cells.
+Cell division is the process in which one cell divides to form two new cells.
+Most prokaryotic cells divide by the process of binary fission.
+In eukaryotes, cell division occurs in two major steps: mitosis and cytokinesis.
+Use this resource to answer the questions that follow.
+\rightarrow Non-Majors Biology \rightarrow Search:
+Cell Division

@@ -1,0 +1,20 @@
+Mutations found in the DNA of cancer cells typically affect two general classes of genes: oncogenes and tumor suppressor genes.
+In “normal,” non-cancerous cells, the products of proto-oncogenes promote cell growth and mitosis prior to cell division; thus, proto-oncogenes encode proteins needed for normal cellular functions.
+Mutations in proto-oncogenes can modify their expression and the function of the gene product, increasing the amount of activity of the product protein.
+When this happens, they become oncogenes; thus, the cells have a higher chance of dividing excessively and uncontrollably.
+Cancer-promoting oncogenes are often activated in cancer cells, giving those cells abnormal properties.
+The products of these genes result in uncontrolled cell growth and division, protection against programmed cell death, loss of respect for normal tissue boundaries, and the ability to become established in diverse tissue environments.
+Proto-oncogenes cannot be removed from the genome, as they are critical for growth, repair and homeostasis.
+It is only when they become mutated that the signals for growth become excessive.
+In “normal” cells, the products of tumor suppressor genes temporarily discourage cell growth and division to allow cells to finish routine functions, especially DNA repair.
+Tumor suppressors are generally transcription factors , activated by cellular stress or DNA damage.
+The function of such genes is to stop the cell cycle in order to carry out DNA repair, preventing mutations from being passed on to daughter cells.
+However, if the tumor suppressor genes are inactivated, DNA repair cannot occur.
+Tumor suppressor genes can be inactivated by a mutation that either affects the gene directly or that affects the pathway that activates the gene.
+The consequence of the lack of DNA repair is that DNA damage accumulates, is not repaired, and inevitably leads to detrimental phenotypes, such as cancer.
+Categories of oncogenes are described in the table below.
+Oncogenes may be growth factors, protein kinases, GTPases or transcription factors.
+Growth factors are naturally occurring substances, usually a protein or steroid hormone, capable of stimulating cellular growth, proliferation and differentiation.
+They are important for regulating a variety of cellular processes.
+Usually they must bind to an extracellular or intracellular receptor to initiate a cellular reaction.
+Kinases are enzymes that catalyze the transfer a phosphate group from ATP to a protein in a cell.

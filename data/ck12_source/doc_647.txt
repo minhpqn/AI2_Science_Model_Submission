@@ -1,0 +1,20 @@
+In a hydraulic lift whose IMA is 50, how far (ideally) will the output platform be lifted when the input platform is depressed cm?
+A 20.0 N force is exerted on the small piston of a hydraulic system.  The cross-sectional area of the small piston is 0.0500 m 2 .  What is the magnitude of the weight than can be lifted by the large piston, which has a cross-sectional area of 0.100 m 2 ?
+Pascal’s principle:
+Pressure applied to an enclosed fluid is transmitted undiminished to every part of the fluid, as well as to the walls of the container.
+hydraulic lift:
+A type of machine that uses a hydraulic apparatus to lift or move objects using the force created when pressure is exerted on liquid in a piston.
+Archimedes' Principle and Buoyancy
+State Archimedes’ Principle.
+Make calculations of buoyancy.
+Make calculations of floating objects’ displacement.
+Cargo ship displaces water equal to its mass
+This cargo ship displaces an amount of water such that the weight of the displaced water is exactly equal to the weight of the ship and its cargo.
+The displacement of water is what produces the buoyancy to float this ship.
+When this photo was taken, the ship was empty so it did not sink very deep in the water to displace the necessary weight.
+When this ship is fully loaded with cargo, the water line will be where the black paint meets the red paint.
+Archimedes’ Principle and Buoyancy
+If an object is submerged in a liquid, the object displaces a volume of the liquid equal to the volume of the submerged object.
+Legend has it that this observation was made by Archimedes when he sat in a bath tub that was filled to the top of the tub.
+The volume of water that overflowed was equal to his own volume.
+The forces exerted by the fluid on the sides of the submerged object are balanced.

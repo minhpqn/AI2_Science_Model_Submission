@@ -1,0 +1,20 @@
+Write word equations that describe chemical reactions.
+Cookbooks are similar to chemical word equations
+What’s for dinner?
+Various ways of recording recipes have developed over the centuries.
+The cookbook shown above was written by a woman who probably collected all her own recipes.
+Later, printed cookbooks became available (even guys had no excuse for not being able to cook).
+Today we can find recipes on a number of internet sites and can quickly search for information on how to cook anything we want.
+Reading a recipe sometimes requires we understand a few codes and symbols (what’s the difference between a tsp and a Tsp?), but the information on what we start with and what we end up with is there.
+Writing Chemical Equations
+Chemical reactions are occurring all around you.
+Plants use sunlight to drive their photosynthetic process and produce energy.
+Cars and other vehicles burn gasoline in order to power their engines.
+Batteries use electrochemical reactions to produce energy and power many everyday devices.
+Many chemical reactions are going on inside you as well, especially during the digestion of food.
+In math class, you have written and solved many mathematical equations.
+Chemists keep track of chemical reactions by writing equations as well.
+In any chemical reaction one or more substances, called reactants , are converted into one or more new substances, called products .
+The general form of the equation for such a process looks like this.
+\text{Reactants} \rightarrow \text{Products}
+Unlike in a math equation, a chemical equation does not use an equal sign.

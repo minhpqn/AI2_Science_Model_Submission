@@ -1,0 +1,20 @@
+RNA is a related molecule that is involved in the mechanism by which the information stored in DNA is eventually converted into protein molecules.
+The basic components of nucleic acids are nucleotides.
+A nucleotide is a molecule that contains a five-carbon sugar, a phosphate group, and a nitrogen containing base.
+The five-carbon sugar is either ribose, in the case of RNA, or deoxyribose, in the case of DNA.
+The only difference between the two molecules is the presence of a hydroxyl group attached to one member of the carbon ring in RNA.
+In DNA, that same carbon atom is attached only to a hydrogen atom (see Figure below ).
+Note that in drawing the structure of organic molecules, the single hydrogen atoms are not shown in the structure but are understood to be attached at each carbon point unless another molecule is shown.
+The structure of ribose and deoxyribose
+The sugars ribose and deoxyribose are components of RNA and DNA respectively.
+The nucleotides form the backbone of RNA and DNA.
+Each nucleotide consists of a base, a pentose (either ribose or deoxyribose) and phosphate groups (see Figure below ).
+Three of the bases in RNA and DNA are identical (adenine, cytosine, and guanine).
+Thymine is found in DNA while uracil is found in RNA.
+Structure of different nucleotides
+The definition of a nucleic acid is given.
+The definition of a nucleotide and structures of the five nucleotides are provided.
+Read the material at the link below and answer the following questions:
+What was Miescher studying in 1868-1869?
+What was interesting about the chemical composition of the material he isolated?
+What did he call it and why?

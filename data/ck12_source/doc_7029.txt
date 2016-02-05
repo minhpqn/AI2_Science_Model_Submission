@@ -1,0 +1,20 @@
+Calculate how far muons could travel before half decayed, without using relativity and assuming a speed of 0.999\;\mathrm{c} (i.e. 99.9 % of the speed of light)
+Now calculate \gamma , for this muon.
+Calculate its 'relativistic' half-life.
+Now calculate the distance before half decayed using relativistic half-life and express it in kilometers. (This has been observed experimentally.
+This first experimental verification of time dilation was performed by Bruno Rossi at Mt.
+Evans, Colorado in 1939.)
+An alien spaceship moves past Earth at a speed of .15 \;\mathrm{c} with respect to Earth.
+The alien clock ticks off 0.30 seconds between two events on the spaceship.
+What will earthbound observers determine the time interval to be?
+Suppose your identical twin blasted into space in a space ship and is traveling at a speed of 0.100\;\mathrm{c} .
+Your twin performs an experiment which he clocks at 76.0 minutes.
+You observe this experiment through a powerful telescope; what duration does the experiment have according to your clock?
+Now the opposite happens and you do the 76.0 minute experiment.
+How long does the traveling twin think the experiment lasted?
+Answers to Selected Problems
+2.6 \times 10^8\;\mathrm{m/s}
+1.34 \times 10^{-57}\;\mathrm{m}
+Explain how length contraction follows from time dilation.
+Define the gamma factor.
+Students will learn how length contraction follows from time dilation and the meaning of the gamma factor.

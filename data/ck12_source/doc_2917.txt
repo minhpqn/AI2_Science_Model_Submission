@@ -1,0 +1,20 @@
+Do you know what your blood type is?
+Are you A?
+O?
+AB?
+Those letters actually represent alleles.
+Unlike other traits, your blood type has three alleles, instead of two!
+The ABO blood types ( Figure below ) are named for the protein attached to the outside of the blood cell.
+In this case, two alleles are dominant and completely expressed (I A and I B ), while one allele is recessive (i).
+The I A allele encodes for red blood cells with the A antigen, while the I B allele encodes for red blood cells with the B antigen.
+The recessive allele (i) does not encode for any proteins.
+Therefore a person with two recessive alleles (ii) has type O blood.
+As no dominant (I A and I B ) allele is present, the person cannot have type A or type B blood.
+What are the genotypes of a person with type A or type B blood?
+An example of codominant inheritance is ABO blood types
+An example of codominant inheritance is ABO blood types.
+There are two possible genotypes for type A blood, homozygous ( I A I A ) and heterozygous ( I A i ), and two possible genotypes for type B blood, ( I B I B and I B i ).
+If a person is heterozygous for both the I A and I B alleles, they will express both and have type AB blood with both proteins on each red blood cell.
+This pattern of inheritance is significantly different than Mendel’s rules for inheritance, because both alleles are expressed completely, and one does not mask the other.
+Incomplete dominance, as seen in sickle cell anemia, is a form of inheritance in which one allele is only partly dominant over the other allele, resulting in an intermediate phenotype.
+Codominance, as in human blood type, is a form of inheritance in which both alleles are expressed equally in the phenotype of the heterozygote.

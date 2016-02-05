@@ -1,0 +1,20 @@
+In a small population, you may also, by chance, get different allele frequencies than expected in the next generation.
+In this way, allele frequencies may drift over time.
+There are two special conditions under which genetic drift occurs.
+They are called bottleneck effect and founder effect.
+Bottleneck effect occurs when a population suddenly gets much smaller.
+This might happen because of a natural disaster such as a forest fire.
+By chance, allele frequencies of the survivors may be different from those of the original population.
+Founder effect occurs when a few individuals start, or found, a new population.
+By chance, allele frequencies of the founders may be different from allele frequencies of the population they left.
+An example is described in the Figure below .
+Founder Effect in the Amish Population.
+The Amish population in the U.S. and Canada had a small number of founders.
+How has this affected the Amish gene pool?
+There are four forces of evolution: mutation, gene flow, genetic drift, and natural selection.
+Mutation creates new genetic variation in a gene pool.
+Gene flow and genetic drift alter allele frequencies in a gene pool.
+Use this resource to answer the questions that follow.
+Mechanisms of Evolution at
+Define each of the following:
+Which mechanism(s) is/are the source of variation within a population?

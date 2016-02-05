@@ -1,0 +1,20 @@
+Automsomal Dominant Disorders
+Huntington’s disease is an example of an autosomal dominant disorder .
+This means that if the dominant allele is present, then the person will express the disease.
+A child only has to inherit one dominant allele to have the disease.
+The disease causes the brain’s cells to break down, leading to muscle spasms and personality changes.
+Unlike most other genetic disorders, the symptoms usually do not become apparent until middle age.
+You can use a simple Punnett square to predict the inheritance of a dominant autosomal disorder, like Huntington’s disease.
+If one parent has Huntington’s disease, what is the chance of passing it on to the children?
+If you draw the Punnett square, you will find that there is a 50 percent chance of the disorder being passed on to the children.
+Autosomal recessive genetic disorders, such as cystic fibrosis, are caused by recessive alleles of a single gene on an autosome.
+Autosomal dominant genetic disorders, such as Huntington's disease, are caused by dominant alleles of a single gene on an autosome.
+Use the resource below to answer the questions that follow.
+What are Genetic Disorders? at
+What are multifactorial disorders?
+What is an example of a multifactorial disorder?
+What are single-gene disorders?
+What is an example of a single-gene disorder?
+What causes galactosemia?
+How is it diagnosed?
+How is it treated?

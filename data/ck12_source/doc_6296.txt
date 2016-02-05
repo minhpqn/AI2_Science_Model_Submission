@@ -1,0 +1,20 @@
+As a punishment, he was supposed to roll a large stone up to the top of a long hill.
+A spell had been placed on the stone so that it would roll back down before reaching the top, never to complete the task.
+Sisyphus was condemned to an eternity of trying to get to the top of the hill, but never succeeding.
+Potential Energy Diagrams
+The energy changes that occur during a chemical reaction can be shown in a diagram called a potential energy diagram, or sometimes called a reaction progress curve.
+A potential energy diagram shows the change in potential energy of a system as reactants are converted into products.
+The Figure below shows basic potential energy diagrams for an endothermic (A) and an exothermic (B) reaction.
+Recall that the enthalpy change (\Delta H)  is positive for an endothermic reaction and negative for an exothermic reaction.
+This can be seen in the potential energy diagrams.
+The total potential energy of the system increases for the endothermic reaction as the system absorbs energy from the surroundings.
+The total potential energy of the system decreases for the exothermic reaction as the system releases energy to the surroundings.
+Delta H is negative for exothermic reactions, while the opposite is true for endothermic reactions
+A potential energy diagram shows the total potential energy of a reacting system as the reaction proceeds. (A) In an endothermic reaction, the energy of the products is greater than the energy of the reactants and ΔH is positive. (B) In an exothermic reaction, the energy of the products is lower than the energy of the reactants and ΔH is negative.
+The activation energy for a reaction is illustrated in the potential energy diagram by the height of the hill between the reactants and the products.
+For this reason, the activation energy of a reaction is sometimes referred to as the activation energy barrier.
+Reacting particles must have enough energy so that when they collide they can overcome that barrier (see Figure below ).
+Reactions with high activation energy tend to be slow
+The activation energy (E a ) of a reaction is the barrier that must be overcome for the reactants to be able to become products. (A) The activation energy is low, meaning that the reaction is likely to be fast. (B) The activation energy is high, meaning that the reaction is likely to be slow.
+Potential energy diagrams for endothermic and exothermic reactions are described.
+Diagrams of activation energy and reaction progress are given.

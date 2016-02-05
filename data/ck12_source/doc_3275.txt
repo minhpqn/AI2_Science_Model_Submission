@@ -1,0 +1,20 @@
+Diagram of concave mirror
+The other type of curved mirror, a convex mirror, is shaped like the outside of a bowl.
+Because of its shape, it can gather and reflect light from a wide area.
+As you can see in the Figure below , a convex mirror forms only virtual images that are right-side up and smaller than the actual object.
+You can see how a convex mirror forms an image in the animation at this URL:
+Diagram of convex mirror
+Q:
+Convex mirrors are used as side mirrors on cars.
+You can see one in the Figure below .
+Why is a convex mirror good for this purpose?
+A:
+Because it gathers light over a wide area, a convex mirror gives the driver a wider view of the area around the vehicle than a plane mirror would.
+Car mirrors are convex mirrors
+When a mirror reflects light, it forms an image.
+An image is a copy of an object formed by reflection (or refraction).
+A real image is a true image that forms in front of a mirror where reflected light rays actually meet.
+A virtual image appears to be on the other side of the mirror and doesn’t really exist.
+Most mirrors are plane mirrors that have a flat reflective surface.
+A plane mirror forms only virtual, right-side up, and life-sized images.
+A concave mirror is shaped like the inside of a bowl.

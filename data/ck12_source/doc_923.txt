@@ -1,0 +1,20 @@
+A \cdot \Omega
+T \cdot m
+A straight wire 0.500 m long is moved straight up through a 0.400 T magnetic field pointed in the horizontal direction.
+The speed of the wire is 20.0 m/s.
+What  EMF is induced in the wire?
+If the wire is part of a circuit with a total resistance of 6.00 \ \Omega , what is the current in the circuit?
+A straight wire, 25.0 m long, is mounted on an airplane flying at 125 m/s.
+The wire moves perpendicularly through earth’s magnetic field (B = 5.00 \times 10^{-5} \ T) .
+What is the  EMF induced in the wire?
+A straight wire, 30.0 m long, moves at 2.00 m/s perpendicularly through a 1.00 T magnetic field.
+What is the induced EMF ?
+If the total resistance of the circuit is 15.0 \ \Omega , what is the current in the circuit?
+electromotive force:
+The potential energy per unit charge that produces a flow of electricity in a circuit, expressed in volts.
+induced current:
+The electric current generated in a loop of conducting material by movement of the loop across a magnetic field.
+Explain how an electric generator works.
+Explain the difference between an electric generator and an electric motor.
+Explain the difference between peak and effective voltage and current from a generator.
+Electric generators at a hydroelectric power plant

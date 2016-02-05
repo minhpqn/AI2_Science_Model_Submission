@@ -1,0 +1,2 @@
+In these lessons the classic parallel plate capacitor is studied as well as all types of capacitor circuits.
+The RC time constant is also covered.

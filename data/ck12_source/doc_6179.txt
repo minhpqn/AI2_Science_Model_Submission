@@ -1,0 +1,20 @@
+Think about your result.
+The answer represents the moles of glucose per kilogram of water and has three significant figures.
+Molality and molarity are closely related in value for dilute aqueous solutions because the density of those solutions is relatively close to 1.0 g/mL.
+This means that 1.0 L of solution has nearly a mass of 1.0 kg.
+As the solution becomes more concentrated, its density will not be as close to 1.0 g/ml and the molality value will be different than the molarity.
+For solutions with solvents other than water, the molality will be very different than the molarity.
+Make sure that you are paying attention to which quantity is being used in a given problem.
+The calculation of molality is described.
+Read the material at the link below and do the practice problems:
+What is the difference between molarity and molality?
+Is molality affected by changes in temperature?
+Do you dilute the solute to a given final volume when making molal solutions?
+molality ( m) :
+Moles of solute divided by the kilograms of solvent.
+Vapor Pressure Lowering
+Define colligative property.
+Define vapor pressure.
+Use vapor pressure to explain colligative properties of solutions.
+The word &squot;colligative&squot; comes from two Latin words meaning "to tie together"
+What did Caesar say?

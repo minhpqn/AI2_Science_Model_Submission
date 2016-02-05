@@ -1,0 +1,20 @@
+The radiolabel is C-11 (half-life is 20.38 minutes).
+Structure of Pittsburgh compound B, which is used to help diagnose Alzheimer’s disease
+Pittsburgh compound B used in diagnosis of Alzheimer’s disease.
+The label attaches to plaque and can be observed using PET scans.
+Brain scans using Pittsburgh compound B
+Brain scans using Pittsburgh compound B to locate plaque.
+The computer translates the amount of isotope into a color scale, with red indicating a high level of radioactivity and yellow indicating somewhat less activity.
+We can see from the scans that the cognitively healthy individual shows the presence of very little plaque in the brain (see Figure above ).
+The individual with Alzheimer’s demonstrates high concentrations of the beta-amyloid in numerous areas of the brain.
+Other studies have been done looking at brain function in drug addicts.
+One of the theories about drug addiction involves the amount of dopamine action in the brain (a chemical that is a part of the system to transport nerve impulses).
+Studies of dopamine action have been helpful in understanding addictive processes.
+PET scans of dopamine in normal and addicted individuals
+PET scan of dopamine binding in brains of normal and addicted individuals.
+The Figure above shows the binding of chemicals that attach to dopamine receptors.
+The non-addicted individuals have large numbers of receptors for dopamine.
+The addicted persons show less binding to these receptors, indicating that fewer receptors are present.
+Since dopamine is somehow linked with the sense of pleasure, these data may help to bring a better understanding to the biochemical processes in drug addiction.
+PET scan techniques and results are described.
+Read the material at the link below and answer the following questions:

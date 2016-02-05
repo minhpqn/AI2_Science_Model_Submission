@@ -1,0 +1,20 @@
+Half-lives of Various Substances
+4.5 × 10 9 years
+Example Problem: 4.00 grams of tritium (hydrogen-3) are produced in the lab.
+How much of it will remain after 24.6 years?
+Solution: 24.6 years is two half-lives for hydrogen-3, so \frac{1}{4} of the original amount will remain.
+That would be 1.00 gram.
+In all nuclear reactions, the total of the atomic numbers on the left side of the equation must equal the total of the atomic numbers on the right side of the equation.
+The sum of the mass numbers on the left of the equation must equal the sum of the mass numbers on the right of the equation.
+The breakup of a larger nucleus into two or more smaller nuclei is called fission .
+The joining together of two or more smaller nuclei to form a larger one is called fusion.
+The time required for half of the atoms in any given quantity of a radioactive substance to decay is the half-life of that element.
+Click on the image above for more content
+What was used as a target in the Cockcroft and Walton experiment?
+Name two famous scientists whose actual voices are heard in this video.
+The isotope ^{238}_{\phantom{0}93} \text{Np} has a half-life of 2.0 days.
+If 4.00 grams are produced at noon on Monday, what will be the mass of neptunium remaining at noon on Tuesday of the following week?
+Write the equation for the alpha decay of a polonium-214 nucleus.
+Recall from the concept “Radioactivity” that \alpha \ = \ ^{4}_{2} \text{He} .
+Complete the following equation: {^2_1 \text{H}}+{^2_1 \text{H}} \rightarrow {^3_1 \text{H}}+\underline{\hspace{0.5cm}}
+fission:

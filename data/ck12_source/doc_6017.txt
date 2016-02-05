@@ -1,0 +1,20 @@
+Too much sodium azide could cause the formation of more gas that the bag can safely handle.
+If the bag breaks from the excess gas pressure, all protection is lost.
+Mass to Volume and Volume to Mass Problems
+Chemical reactions frequently involve both solid substances whose mass can be measured as well as gases for which measuring the volume is more appropriate.
+Stoichiometry problems of this type are called either mass-volume or volume-mass problems.
+& \text{mass of} \ given \ \rightarrow \ \text{moles of} \ given \ \rightarrow \ \text{moles of} \ unknown \ \rightarrow \ \text{volume of} \ unknown\\& \text{volume of} \ given \ \rightarrow \ \text{moles of} \ given \ \rightarrow \ \text{moles of} \ unknown \ \rightarrow \ \text{mass of} \ unknown
+Because both types of problems involve a conversion from either moles of gas to volume or vice-versa, we can use the molar volume of 22.4 L/mol provided that the conditions for the reaction are STP.
+Sample Problem:
+Mass-Volume Stoichiometry
+Aluminum metal reacts rapidly with aqueous sulfuric acid to produce aqueous aluminum sulfate and hydrogen gas.
+2 \text{Al}(s)+3\text{H}_2\text{SO}_4 (aq) \rightarrow \text{Al}_2 (\text{SO}_4)_3 (aq)+3\text{H}_2 (g)
+Determine the volume of hydrogen gas produced at STP when a 2.00 g piece of aluminum completely reacts.
+Step 1:
+List the known quantities and plan the problem.
+given: 2.00 g Al
+molar mass Al = 26.98 g/mol
+2 mol Al = 3 mol H 2
+volume H 2 = ?
+The grams of aluminum will first be converted to moles.
+Then the mole ratio will be applied to convert to moles of hydrogen gas.

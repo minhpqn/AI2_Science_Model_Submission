@@ -1,0 +1,20 @@
+Your body needs proteins to create muscles, regulate chemical reactions, transport oxygen, and perform other important tasks in your body.
+But how are these proteins built?
+They are made up of units called amino acids.
+Just like there are only a few types of blocks in a set, there are a limited number of amino acids.
+But there are many different ways in which they can be combined.
+Introduction to Protein Synthesis
+A monomer is a molecule that can bind to other monomers to form a polymer.
+Amino acids are the monomers of a protein.
+The DNA sequence contains the instructions to place amino acids into a specific order.
+When the amino acid monomers are assembled in that specific order, proteins are made, a process called protein synthesis.
+In short, DNA contains the instructions to create proteins.
+But DNA does not directly make the proteins.
+Proteins are made on the ribosomes in the cytoplasm, and DNA (in an eukaryotic cell) is in the nucleus.
+So the cell uses an RNA intermediate to produce proteins.
+Each strand of DNA has many separate sequences that code for a specific protein.
+Insulin is an example of a protein made by your cells ( Figure below ).
+Units of DNA that contain code for the creation of a protein are called genes .
+Amino acid sequence of insulin
+Insulin.
+Each blue or purple bead represents a different amino acid.

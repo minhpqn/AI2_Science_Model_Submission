@@ -1,0 +1,20 @@
+Wobble base pairs are fundamental in RNA secondary structure and are critical for the proper translation of the genetic code.
+Inosine is a nucleoside that is formed from the hydrolytic deamination of adenine.
+Structurally, it resembles guanine, but lacks the 2-amino group.
+This lack of the 2-amino group allows inosine to form base pairs with uracil, cytosine and adenine, making it a particularly wobbly base.
+Degeneracy of the Universal Genetic Code
+When there are 64 codon combinations for 20 amino acids (and stop codons), there is going to be some overlap.
+Within the genetic code there is redundancy but no ambiguity.
+For example, the codons GGG, GGA, GGC, and GGU all encode the amino acid glycine, but none encode another amino acid.
+Degenerate codons often differ in the third position.
+The genetic code is said to be universal.
+That is, the same code is utilized by the simplest prokaryotic organism and by humans.
+This universality is a tremendous benefit to mankind.
+If a human gene is placed in a bacteria, it looks just like a piece of DNA to the bacteria.
+The human As, Cs, Gs, and Ts look just like the bacteria’s As, Cs, Gs, and Ts.
+So, the bacterial proteins will transcribe and translate this DNA, making a human protein.
+But how exactly are these proteins made?
+We have been referring to mRNAs, tRNAs, ribosomes, codons the genetic code and transcription and translation throughout the concepts.
+How do they all come together to make a protein?
+Through translation.
+anticodon :

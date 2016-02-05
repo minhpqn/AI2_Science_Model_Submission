@@ -1,0 +1,20 @@
+Next, assume exactly 1 mol of ammonia  (n = 1) and calculate the volume that such an amount would occupy at the given temperature and pressure.
+V = \frac{ nRT}{P}=\frac{1.00 \ \text{mol} \times 0.08206 \text{ L} \cdot \text{atm/K}\cdot \text{mol} \times 293 \text{ K}}{0.913 \ \text{atm}}=26.3 \text{ L}
+Now the density can be calculated by dividing the mass of one mole of ammonia by the volume above.
+\text{density}=\frac{17.04 \text{ g}}{26.3 \text{ L}}=0.647 \ \text{g/L}
+As a point of comparison, this density is slightly less than the density of ammonia at STP, which is equal to \frac{(17.04 \ \text{g/mol})}{(22.4 \ \text{L/mol})} = 0.761\ \text{g/L} .
+It makes sense that the density should be lower compared to that at STP since both the increase in temperature (from 0°C to 20°C) and the decrease in pressure (from 1 atm to 0.913 atm) would cause the NH 3 molecules to spread out a bit further from one another.
+Calculations of molar mass and density of an ideal gas are described.
+Answer questions and perform calculations of problems at the following link:
+Why do you need the volume, temperature, and pressure of the gas to calculate molar mass?
+What assumption about the gas is made in all these calculations?
+Why do you need the mass of the gas to calculate the molar mass?
+Use the ideal gas law to calculate stoichiometry problems for gases.
+Knowing the amount of a gas needed is important for many applications
+How is fertilizer produced?
+The Haber cycle reaction of gaseous nitrogen and hydrogen to form ammonia is a critical step in the production of fertilizer from ammonia.
+It is important to have an excess of the starting materials so that a maximum yield of ammonia can be achieved.
+By knowing how much ammonia is needed for manufacture of a batch of fertilizer, the proper amounts of nitrogen and hydrogen gases can be incorporated into the process.
+You have learned how to use molar volume to solve stoichiometry problems for chemical reactions involving one or more gases at STP.
+Now, we can use the ideal gas law to expand our treatment of chemical reactions to solve stoichiometry problems for reactions that occur at any temperature and pressure.
+Sample Problem:

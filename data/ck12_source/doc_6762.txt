@@ -1,0 +1,20 @@
+The Big Idea
+The law of conservation of momentum states that in any closed system (including the universe) the total quantity of momentum is constant.
+Momentum can be transferred from one body to another, but none is lost or gained.
+If a system has its momentum changed from the outside it is caused by an impulse, which transfers momentum from one body to another.
+When any two bodies in the universe interact, they can exchange energy, momentum, or both.
+The law of conservation of energy states that in any closed system (including the universe) the total quantity of energy remains fixed.
+Energy is transferred from one form to another, but not lost or gained.
+If energy is put into a system from the outside or vice versa it is often in the form of work, which is a transfer of energy between bodies.
+Describe potential energy and how to calculate it.
+Learn what potential energy is and how to calculate the potential energy of gravity and also that of a spring.
+Gravitational potential energy
+U_g= m g h \begin{cases} h & \text{height above the ground in meters(m)}\\\g & \text{acceleration due to gravity,}\ 9.8\ \text{m/s}^{2}\\\ U_{g} & \text{Potential energy of gravity (in Joules; 1 J} = 1 \text{kg} \ \text{m}^{2}/\text{s}^{2}\text{)}\end{cases}
+Spring potential energy
+U_{sp} = \tfrac{1}{2}k{\Delta x}^2 \begin{cases}k & \text{spring constant measured in Newtons(N) per meters(m)}\\\x & \text{amount spring is displaced from resting position}\\\ U_{sp} & \text{potential energy of a spring (in Joules; 1 J} = 1 \text{kg} \ \text{m}^{2}/\text{s}^{2}\text{)}\end{cases}
+A 2 kg block of wood is suspended 5m above a spring of spring constant 3000 N/m.
+When the block is dropped on the spring, how far will the spring be compressed from it's equilibrium position.
+We can solve for the distance the spring will be compressed using conservation of energy.
+In this problem, the gravitational potential energy of the block will be turned into spring potential energy.
+U_g&=U_{sp} && \text{start with by setting the gravitational potential energy equal to the spring potential energy}\\\mgh&=\frac{1}{2}k\Delta x^2 && \text{substitute the equations for gravitational and spring potential energy}\\\\Delta x&=\sqrt{\frac{2mgh}{k}} && \text{solve for } \Delta x\\\\Delta x&=\sqrt{\frac{2*2\;\text{kg} * 9.8\;\text{m/s}^2 * 5\;\text{m}}{3000\;\text{N/m}}} && \text{plug in the known values}\\\\Delta x&=.26\;\text{m}\\\
+If you lift a 30 kg weight 0.5 meters, how much Potential energy has it gained?

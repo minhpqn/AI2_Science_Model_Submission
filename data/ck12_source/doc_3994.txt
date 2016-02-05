@@ -1,0 +1,20 @@
+Schematic diagram of cellular growth and binary fission of bacilli
+Schematic diagram of cellular growth (elongation) and binary fission of bacilli.
+Blue and red lines indicate old and newly-synthesized bacterial cell wall, respectively.
+The DNA inside the bacterium is copied and the daughter cells receive an exact copy of the parent DNA.
+Fission involves a cytoskeletal protein FtsZ that forms a ring at the site of cell division.
+In asexual reproduction, all the offspring are exactly the same.
+This is the biggest drawback of this type of reproduction.
+Why?
+Lack of genetic variation increases the risk of extinction.
+Without variety, there may be no organisms that can survive a major change in the environment.
+Prokaryotes have a different way to increase genetic variation.
+It’s called genetic transfer or bacterial conjugation .
+It can occur in two ways.
+One way is when cells “grab” stray pieces of DNA from their environment.
+The other way is when cells directly exchange DNA (usually plasmids) with other cells.
+For example, as shown in Figure below , the donor cell makes a structure called an F pilus , or sex pilus.
+The F pilus attaches one cell to another cell.
+The membranes of the two cells merge and genetic material, usually a plasmid , moves into the recipient cell.
+Genetic transfer makes bacteria very useful in biotechnology.
+It can be used to create bacterial cells that carry new genes.

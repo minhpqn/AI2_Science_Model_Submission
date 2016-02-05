@@ -1,0 +1,20 @@
+pharmacogenomics :
+Field that is tailoring medical treatments to fit our genetic profiles.
+preimplantation genetic diagnosis :
+Genetic analysis performed on embryos prior to implantation.
+prenatal diagnosis :
+The diagnosis of a disease or condition before a baby is born.
+prenatal screening :
+A variety of tests can be used to detect birth defects and other genetic disorders in a developing baby prior to birth.
+recombinant DNA :
+DNA engineered through the combination of two or more DNA strands; combines DNA sequences which would not normally occur together.
+single nucleotide polymorphism :
+A DNA sequence variation occurring when a single nucleotide differs between members of a species or paired chromosomes in an individual.
+Synthetic Biology :
+Field of biology involved in engineering new functions from living systems.
+In medicine, modern biotechnology provides significant applications in such areas as pharmacogenomics, genetic testing (prenatal diagnosis), and gene therapy.
+Pharmacogenomics, the combination of pharmacology and genomics, is the study of the relationship between pharmaceuticals and genetics.
+Pharmacogenomics will result in the following benefits:
+Development of tailor-made medicines.
+More accurate methods of determining appropriate drug dosages.
+Improvements in the drug discovery and approval process.

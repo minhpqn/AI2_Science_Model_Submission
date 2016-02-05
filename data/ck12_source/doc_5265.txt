@@ -1,0 +1,20 @@
+These 22 chromosomes occur in homologous pairs in a normal diploid cell, with one of each pair inherited from each parent.
+The sex of an individual is determined by the sex chromosome within the male gamete.
+Females are homologous, XX, for the sex chromosomes, whereas males are heterozygous, XY.
+As all individuals inherit an X chromosome from their mother (females can only produce gametes with an X chromosome), it is the sex chromosome that they inherit from their father that determines their sex.
+In terms of genetics, is the location of a gene or trait an important piece of information?
+Does it make a difference if the gene is located on a sex chromosome or an autosome?
+It might.
+Autosomal-linked traits are due to genes on the autosomes; sex-linked traits are due to genes located on the sex chromosomes.
+Simple Dominant Heredity
+What is the difference between a trait and a genetic disorder ?
+Could a disorder be considered a trait?
+We tend to think of traits as hair color or skin color and disorders as something that is bad for you.
+But in terms of genetics, a genetic disorder is a trait.
+Both may be due to your genes.
+Traits may be inherited in any of a number of ways: autosomal dominant or recessive, sex-linked inheritance, or a more complex pattern of inheritance.
+How are traits due to genes on autosomes inherited?
+Autosomal traits due to the effects of one gene are usually inherited in a simple Mendelian pattern.
+That is, they can be either dominant or recessive.
+In humans, whereas many genetic disorders are inherited in a recessive manner, simple dominant inheritance accounts for many of a person’s physical characteristics, such as chin, earlobe, hairline and thumb shape.
+For example, having earlobes that are attached to the head is a recessive trait, whereas heterozygous and homozygous dominant individuals have freely hanging earlobes.

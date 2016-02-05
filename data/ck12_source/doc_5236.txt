@@ -1,0 +1,20 @@
+If a trait is autosomal it will affect males and females equally.
+A sex-linked trait is a trait whose allele is found on a sex chromosome.
+The human X chromosome is significantly larger than the Y chromosome; there are many more genes located on the X chromosome than there are on the Y chromosome.
+As a result there are many more X-linked traits than there are Y-linked traits.
+Most sex-linked traits are recessive.
+Because males carry only one X chromosome, if they inherit a recessive sex-linked gene they will show a sex-linked condition; there is no dominant allele to offset the recessive allele.
+Because of the recessive nature of most sex-linked traits, a female who shows a sex-linked condition would have to have two copies of the sex-linked allele, one on each of her X chromosomes.
+Figure below shows how red-green colorblindness, a sex-linked disorder, is passed from parent to offspring.
+An X-linked disorder such as red-green colorblindness is normally passed onto the son of a carrier mother.
+Usually, females are unaffected as they have a second, normal copy of the allele on the second X chromosome.
+However, if a female inherits two defective copies of the allele, she will be colorblind.
+Therefore, every son of a colorblind woman will be colorblind.
+Dominant or Recessive?
+If the trait is autosomal dominant, every person with the trait will have a parent with the trait.
+If the trait is recessive, a person with the trait may have one, both or neither parent with the trait.
+An example of an autosomal dominant disorder in humans is Huntington’s disease (HD).
+Huntington’s disease is a degenerative disease of the nervous system.
+It has no obvious effect on phenotype until the person is aged 35 to 45 years old, so often these individuals have children.
+The disease is non-curable and, eventually, fatal.
+Every child born to a person who develops HD has a 50% chance of inheriting the defective allele from the parent.

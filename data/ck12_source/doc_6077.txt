@@ -1,0 +1,20 @@
+As the temperature increases at a constant pressure, the substance changes from solid to liquid to gas.
+Start right above point  B on the temperature axis and follow the red line vertically.
+At very low pressure, the particles of the substance are far apart from one another and the substance is in the gas state.
+As the pressure is increased, the particles of the substance are forced closer and closer together.
+Eventually the particles are pushed so close together that attractive forces cause the substance to condense into the liquid state.
+Continually increasing the pressure on the liquid will eventually cause the substance to solidify.
+For the majority of substances, the solid state is denser than the liquid state and so putting a liquid under great pressure will cause it to turn into a solid.
+The line segment R-S represents the process of sublimation, where the substance changes directly from a solid to a gas.
+At a sufficiently low pressure, the liquid phase does not exist.
+The point labeled  TP is called the triple point .
+The triple point is the one condition of temperature and pressure where the solid, liquid, and vapor states of a substance can all coexist at equilibrium.
+A phase diagram is a graph which the conditions of temperature and pressure under which a substance exists in the solid, liquid, and gas.
+The triple point is the one condition of temperature and pressure where the solid, liquid, and vapor states of a substance can all coexist at equilibrium.
+Use the link below to answer the following questions:
+What temperatures and pressures favor the formation of a solid?
+What temperatures and pressures favor the formation of a gas?
+What does the line BC represent?
+What does the line  BD represent?
+What is a phase diagram?
+What is the triple point?

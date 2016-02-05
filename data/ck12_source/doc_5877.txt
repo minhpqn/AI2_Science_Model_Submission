@@ -1,0 +1,20 @@
+Describe electron configurations of common anions.
+A salt dish contains chloride anions
+A pressed glass open salt dish made in the early 1830s.
+How do you make chlorine safe to eat?
+How do you transform a deadly gas into something you can sprinkle on your eggs and eat for breakfast?  Chlorine in its free form is very dangerous if you breathe the fumes or come in contact with the gas.
+However, after reaction with sodium, we have sodium chloride formed as the sodium atom gives up an electron to chlorine which accepts the electron to form the chloride anion.
+Anions are the negative ions formed from the gain of one or more electrons.  When nonmetal atoms gain electrons, they often do so until their outermost principal energy level achieves an octet.  This process is illustrated below for the elements fluorine, oxygen, and nitrogen.
+& \text{F} \quad \quad + \quad \text{e}^- \quad \rightarrow \quad \text{F}^-\\ & 1s^22s^22p^5 \qquad \quad 1s^22s^22p^6 \ (\text{octet})\\& \text{O} \quad \quad + \quad 2\text{e}^- \ \rightarrow \quad \text{O}^{2-}\\& 1s^22s^22p^4 \qquad \quad 1s^22s^22p^6 \ (\text{octet})\\& \text{N} \quad \quad + \quad 3\text{e}^- \ \rightarrow \quad \text{N}^{3-}\\ & 1s^22s^22p^3 \qquad \quad 1s^22s^22p^6 \ (\text{octet})
+All of these anions are isoelectronic with each other and with neon.
+They are also isoelectronic with the three cations from the previous section.  Under typical conditions, three electrons is the maximum that will be gained in the formation of anions.
+Outer electron configurations are constant within a group, so this pattern of ion formation repeats itself for Periods 3, 4, and following (see Figure below ).
+Table of ion charges of elements
+It is important not to misinterpret the concept of being isoelectronic.  A sodium ion is very different from a neon atom because the nuclei of the two contain different numbers of protons.
+One is an essential ion that is a part of table salt, while the other is an unreactive gas that is a very small part of the atmosphere.
+Likewise, sodium ions are very different than magnesium ions, fluoride ions, and all the other members of this isoelectronic series (N 3− , O 2− , F − , Ne, Na + , Mg 2+ , Al 3+ ).
+Neon gas and sodium chloride crystals
+Neon gas (A) and sodium chloride crystals (B).
+Neon atoms and sodium ions are isoelectronic.
+Neon is a colorless and unreactive gas that glows a distinctive red-orange color in a gas discharge tube.
+Sodium ions are most commonly found in crystals of sodium chloride, ordinary table salt.

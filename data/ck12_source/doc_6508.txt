@@ -1,0 +1,20 @@
+Uranium isotopes produce plutonium-239 as a decay product.
+The plutonium can be used in nuclear weapons and is a power source for nuclear reactors, which generate electricity.
+This isotope has a half-life of 24,100 years, causing concern in regions where radioactive plutonium has accumulated and is stored.
+At some storage sites, the waste is slowly leaking into the groundwater and contaminating nearby rivers.
+The 24,100 year half-life means that it will be with us for a very long time.
+Radioactive materials lose some of their activity each time a decay event occurs.
+This loss of activity can be estimated by determining the half-life of an isotope.
+The half-life is defined as that period of time needed for one-half of a given quantity of a substance to undergo a change.
+For a radioisotope, every time a decay event occurs, a count is detected on the Geiger counter or other measuring device.
+A specific isotope might have a total count of 30,000 cpm.
+In one hour, the count could be 15,000 cpm (half the original count).
+So the half-life of that isotope is one hour.
+Some isotopes have long half-lives – the half-life of U-234 is 245,000 years.
+Other isotopes have shorter half-lives.
+I-131, used in thyroid scans, has a half-life of 8.02 days.
+Information on the half-life of an isotope can be used to calculate how much radioactivity of that isotope will be present after a certain period of time.
+There is a formula that allows calculation at any time after the initial count, but we are just going to look at loss of activity after different half-lives.
+The isotope I-125 is used in certain laboratory procedures and has a half-life of 59.4 days.
+If the initial activity of a sample of I-125 is 32,000 cpm, how much activity will be present in 178.2 days?
+We begin by determining how many half-lives are represented by 178.2 days:

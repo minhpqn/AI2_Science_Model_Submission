@@ -1,0 +1,20 @@
+One cannot see stellar parallax with the naked-eye, so Aristotle concluded that the earth must be at rest. (The stars are so far away, that one needs a good telescope to measure stellar parallax, which was first measured in
+Aristotle believed that the objects in the heavens are perfect and unchanging.
+Since he believed that the only eternal motion is circular with a constant speed, the motions of the planets must be circular.
+This came to be called “The Principal of Uniform Circular Motion.” Aristotle and his ideas became very important because they became incorporated into the Catholic Church’s theology in the twelfth century by Thomas Aquinas.
+In the early 16 th century, the Church banned new interpretations of scripture and this included a ban on ideas of a moving earth.
+Claudius Ptolemy (90 – 168 CE) was a citizen of Egypt which was under Roman rule during Ptolemy’s lifetime.
+During his lifetime he was a mathematician, astronomer, and geographer.
+His theories dominated the world’s understanding of astronomy for over a thousand years.
+While it is known that many astronomers published works during this time, only Ptolemy’s work The Almagest survived.
+In it, he outlined his geometrical reasoning for a geocentric view of the Universe.
+As outlined in the Almagest, the Universe according to Ptolemy was based on five main points: 1) the celestial realm is spherical, 2) the celestial realm moves in a circle, 3) the earth is a sphere, 4) the celestial realm orbit is a circle centered on the earth, and 5) earth does not move.
+Ptolemy also identified eight circular orbits surrounding earth where the other planets existed.
+In order, they were the moon, Mercury, Venus, the Sun, Mars, Jupiter, Saturn, and the sphere of fixed stars.
+A serious problem with the earth-centered system was the fact that at certain times in their orbits, some of the planets appeared to move in the opposite direction of their normal movement.
+This reverse direction movement is referred to as “ retrograde motion .” If the earth was to remain motionless at the center of the system, some very intricate designs were necessary to explain the movement of the retrograde planets.
+In the Ptolemaic system, each retrograde planet moved by two spheres.
+Illustration of retrograde motion
+The Ptolemaic system had circles within circles that produced epicycles .
+In the sketch above on the left, the red ball moved clockwise in its little circle while the entire orbit also orbited clockwise around the big circle.
+This process produced a path like that shown in the sketch above on the right.

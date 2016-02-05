@@ -1,0 +1,20 @@
+Studying the Seafloor
+Scuba divers can only dive to about 40 meters.
+When they dive deep, they cannot stay down for very long.
+Therefore, scuba divers can only observe the organisms and ecosystems very near a coast.
+Most oceanic research requires accessing greater depths.
+How do scientists create bathymetric maps?
+Early explorers mapped the seafloor by painstakingly dropping a line over the side of a ship.
+They measured the length of the line when it touched bottom.
+With this method, they could measure the depth, one tiny spot at a time.
+During World War II, battleships and submarines carried echo sounders .
+Echo sounders were developed to locate enemy submarines.
+Early echo sounders had a single beam.
+The beam bounced off the nearest object and then returned to the ship.
+Scientists know the speed of sound in seawater.
+They can then calculate the distance to the object based on the time it takes for the wave to make a round trip.
+This allowed them to create a line of depth measurements.
+Modern echo sounders produce sound waves that travel outward in all directions ( Figure below ).
+An echo sounder creates a 3D map of the seafloor
+This echo sounder has many beams and creates a three dimensional map of the seafloor.
+Topographic maps that show water depths are called bathymetric maps .

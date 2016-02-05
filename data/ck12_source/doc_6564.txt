@@ -1,0 +1,20 @@
+Structure of an ester
+The R group can either be a hydrogen atom or a carbon chain.
+The R’ group must be a carbon chain since a hydrogen atom would make the molecule a carboxylic acid.
+The steps for naming esters along with two examples are shown below.
+Identify and name the alkyl group (R’) that has replaced the hydrogen of the hydroxyl group.
+This is the first part of the ester name.
+Name the carboxylic acid portion of the molecule (R-COO), but change the ending of the name from –oic acid to –oate .
+This is the second part of the ester name.
+Leave a space between the alkyl group name and the name of the carboxylic acid derivative.
+Nomenclature of esters
+Esters have lower boiling points than the carboxylic acids from which they were derived because they cannot form hydrogen bonds with each other.
+This is because there are no hydrogen atoms bonded to oxygen atoms, as in the acid.
+Esters with shorter carbon chains are soluble in water, while those with longer chains are less soluble.
+Esters are very commonly found in plants and are responsible for many distinctive odors and flavors.
+For example, methyl salicylate has the odor and flavor of oil of wintergreen, while propyl ethanoate has that of a pear.
+Examples of common esters
+The structure and nomenclature of esters are given.
+Uses for esters are listed.
+Read the material at the link below and answer the following questions:
+Which ester smells like bananas?

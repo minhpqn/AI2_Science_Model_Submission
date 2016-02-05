@@ -1,0 +1,20 @@
+Another device that uses solenoids is pictured in the Figure below .
+Pinball machines contain multiple solenoids that operate bumpers, switches, and other moving parts
+This pinball machine uses several solenoids to operate bumpers, switches, and other moving parts.
+A solenoid is a coil of wire with electric current flowing through it, giving it north and south magnetic poles and a magnetic field.
+Using more turns of wire in the coil or more current increases the strength of the solenoid’s magnetic field.
+A solenoid converts electromagnetic energy into motion, providing a burst of power that can move a specific part of a device.
+At the following URL, explore the solenoid animation.
+Try varying the voltage and the direction of the current.
+Observe how these changes affect the magnetic field.
+Write a paragraph to summarize your observations.
+Describe a solenoid and its magnetic field.
+Which solenoid pictured below has a stronger magnetic field?
+How do you know?
+How are solenoids used?
+Describe an electromagnet.
+Explain why electromagnets are very strong.
+This crane is dangling a big round magnet that has picked up metal car parts in a junk yard.
+The parts practically leap up to the magnet because it’s so strong.
+That’s because it’s an electromagnet.
+What Is an Electromagnet?

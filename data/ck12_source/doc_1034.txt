@@ -1,0 +1,20 @@
+Errors are often unavoidable.
+This is called experimental error .
+Errors may be due to the equipment being used.
+In this case, the numbers may be always skewed in one direction.
+For example, a scale may always measure one-half of an ounce high.
+People can also make errors.
+A measurement may not be made precisely.
+For example, a stopwatch may be stopped too soon or too late.
+But probably not always in the same direction.
+To correct for this, many measurements are taken.
+The measurements are then averaged.
+Experiments always have a margin of error associated with them.
+Testing a hypothesis requires data.
+Data can be gathered by observations or by experiments.
+Observations can be done simply by looking at and measuring a phenomenon.
+Observations can also be done by using advanced technology.
+Experiments must be well-designed.
+They must be done under controlled conditions.
+Only one variable should be manipulated.
+Errors are always possible in human endeavors.

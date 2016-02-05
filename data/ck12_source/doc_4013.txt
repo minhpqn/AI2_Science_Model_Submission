@@ -1,0 +1,20 @@
+This allows the virions to burst out of the cell.
+The host cell is destroyed in the process.
+The newly released virus particles are free to infect other cells of the host.
+Replication of RNA Viruses
+An RNA virus is a virus that has RNA as its genetic material.
+Their nucleic acid is usually single-stranded RNA, but may be double-stranded RNA.
+Important human pathogenic RNA viruses include the Severe Acute Respiratory Syndrome (SARS) virus, Influenza virus, and Hepatitis C virus.
+Animal RNA viruses can be placed into different groups depending on their type of replication.
+Some RNA viruses have their genome used directly as if it were mRNA.
+The viral RNA is translated directly into new viral proteins after infection by the virus.
+Some RNA viruses carry enzymes which allow their RNA genome to act as a template for the host cell to a form viral mRNA.
+Retroviruses use DNA intermediates to replicate.
+Reverse transcriptase , a viral enzyme that comes from the virus itself, converts the viral RNA into a complementary strand of DNA, which is copied to produce a double stranded molecule of viral DNA.
+This viral DNA is then transcribed and translated by the host machinery, directing the formation of new virions.
+Normal transcription involves the synthesis of RNA from DNA; hence, reverse transcription is the reverse of this process.
+This is an exception to the central dogma of molecular biology.
+Replication of DNA Viruses
+A DNA virus is a virus that has DNA as its genetic material and replicates using a DNA-dependent DNA polymerase.
+The nucleic acid is usually double-stranded DNA but may also be single-stranded DNA.
+The DNA of DNA viruses is transcribed into mRNA by the host cell.

@@ -1,0 +1,20 @@
+The diagram represents an oxygen molecule, so it’s not a new compound.
+Oxygen normally occurs in diatomic (“two-atom”) molecules.
+Several other elements also occur as diatomic molecules: hydrogen, nitrogen, and all but one of the halogens (fluorine, chlorine, bromine, and iodine).
+At the URL below, you can see an animation of electron sharing in a molecule of chlorine.
+Electron sharing in oxygen molecule
+Q:
+How many electrons do these two oxygen atoms share?
+How many covalent bonds hold the oxygen molecule together?
+A:
+The two oxygen atoms share two pairs of electrons, so two covalent bonds hold the oxygen molecule together.
+Why Covalent Bonds Form
+Covalent bonds form because they give atoms a more stable arrangement of electrons.
+Look at the oxygen atoms in the Figure above .
+Alone, each oxygen atom has six valence electrons.
+By sharing two pairs of valence electrons, each oxygen atom has a total of eight valence electrons.
+This fills its outer energy level, giving it the most stable arrangement of electrons.
+The shared electrons are attracted to both oxygen nuclei, and this force of attraction holds the two atoms together in the oxygen molecule.
+A covalent bond is the force of attraction that holds together two atoms that share a pair of valence electrons.
+Covalent bonds form only between atoms of nonmetals.
+The two atoms that are held together in a covalent bond may be atoms of the same element or different elements.

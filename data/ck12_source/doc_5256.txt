@@ -1,0 +1,20 @@
+In fact, genetically speaking, we are all about 99.9% identical.
+However, it is this 0.1% variation that results in our physical noticeable differences, as well as traumatic events such as illnesses or congenital deformities.
+These differences can also be used for societies benefits, such as through forensic DNA analysis.
+Most studies of this genetic variation focus on small differences, know as SNPs , or single nucleotide polymorphisms , which are substitutions in individual bases along a chromosome.
+For example, the single base change from the sequence GGATAACGTCA to GGAAAACGTCA would be a SNP.
+Although not occurring uniformly, in the human genome, it has been estimated that SNPs occur every 1 in 100 to 1 in 1000 bases.
+Additionally, small mitochondrial DNA is found in human mitochondria and contributes to the genome.
+Human mitochondrial DNA is a circular molecule, on average 16,569 nucleotides long and contains 37 genes. 100s to 1000s of these DNAs can be present in a single cell.
+Due to the cytoplasmic location of the mitochondria, mitochondrial DNA is strictly inherited form the mother.
+The structure of this DNA is similar to that of a bacteria, and is one piece of evidence supporting the Theory of Endosymbiosis.
+gene :
+A segment of DNA that contains information to encode an RNA molecule or a single polypeptide.
+genome :
+The complete set of an organism's hereditary information; may be either DNA or, for many types of virus, RNA; includes both the genes and the non-coding sequences of the DNA/RNA.
+Human Genome Project :
+A project to understand the genetic make-up of the human species by determining the DNA sequence of the human genome and the genome of a few model organisms.
+microsatellite :
+Short sequences of 100-200 bp, usually due to repeats of 1-6 bp sequences; also known as a STR (Short Tandem Repeat) polymorphism.
+minisatellite :
+A section of DNA that consists of a short series of repetitive elements of length 10-60 bp.

@@ -1,0 +1,20 @@
+The head of the hammer moves farther than you move the handle with your hand.
+For all machines—not just hammers—the user applies force (input force) to the machine over a certain distance (input distance).
+The machine, in turn, applies force (output force) to an object, also over a certain distance (output distance).
+A machine makes work easier by changing the force or the distance over which the force is applied.
+What Is Mechanical Advantage?
+How much a machine changes the input force is its mechanical advantage .
+Mechanical advantage is the ratio of the output force to the input force, so it can be represented by the equation:
+Note that this equation represents the actual mechanical advantage of a machine.
+The actual mechanical advantage takes into account the amount of the input force that is used to overcome friction.
+The equation yields the factor by which the machine changes the input force when the machine is actually used in the real world.
+Ideal Mechanical Advantage
+It can be difficult to measure the input and output forces needed to calculate the actual mechanical advantage of a machine.
+Generally, an unknown amount of the input force is used to overcome friction.
+It’s usually easier to measure the input and output distances than the input and output forces.
+The distance measurements can then be used to calculate the ideal mechanical advantage.
+The ideal mechanical advantage represents the change in input force that would be achieved by the machine if there were no friction to overcome.
+The ideal mechanical advantage is always greater than the actual mechanical advantage because all machines have to overcome friction.
+Ideal mechanical advantage can be calculated with the equation:
+You can watch a video about actual and ideal mechanical advantage at this URL:
+A Simple Example

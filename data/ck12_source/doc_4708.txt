@@ -1,0 +1,20 @@
+In this case, the experiment begins by creating two or more sample groups that are similar in as many ways as possible, which means that both groups should respond in the same way if given the same treatment.
+Once the groups have been formed, the experimenter tries to treat them identically except for the one variable that he or she wants to study (the independent variable).
+Usually, neither the patients nor the doctor knows which group receives the real drug.
+This type of experiment is called a double blind experiment , which serves to isolate the effects of the drug and allow the researchers to be sure the drug does work, and that the effects seen in the patients are not due to the patients believing they are getting better.
+Controlled experiments can be carried out on many subjects other than people; some are even carried out in space.
+The wheat plants in Figure below are being grown in the International Space Station to study the effects of microgravity on plant growth.
+Researchers hope to one day be able to grow enough plants during spaceflight to feed hungry astronauts and cosmonauts.
+The investigation also measured the amount of oxygen the plants can produce in the hope that plants could become a cheap and effective way to provide oxygen during space travel.
+Spaceflight participant Anousheh Ansari holds a miniature wheat plant grown in the Zvezda Service Module of the International Space Station.
+Experiments Without Controls
+The term experiment usually refers to a controlled experiment, but sometimes, it is difficult or impossible to completely control experiments.
+In this case, researchers carry out natural experiments.
+When scientists conduct a study in nature instead of the more controlled environment of a lab setting, they cannot control variables such as sunlight, temperature, or moisture.
+Natural experiments therefore depend on the scientist’s observations of the system under study, rather than the observations of just one or a few variables as in controlled experiments.
+In natural experiments, researchers attempt to collect data as consistently as possible.
+They attempt to ensure that the effects of the variation remains fairly constant so that the effects of other factors can be determined.
+Natural experiments are a common research tool in areas of study where controlled experiments are difficult to carry out.
+Examples include:
+astronomy - the study of stars, planets, comets, galaxies and phenomena that originate outside Earth's atmosphere,
+paleontology - the study of prehistoric life forms through the examination of fossils, and

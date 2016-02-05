@@ -1,0 +1,20 @@
+The probability of any single offspring showing the dominant trait is 3:1, or 75%.
+To develop a Punnett square, possible combinations of alleles in a gamete are placed on the top and left side of a square.
+For a monohybrid cross ( Table below ), individual alleles are used, whereas for a dihybrid cross ( Table below ), pairs of alleles are used.
+A Punnett square for a monohybrid cross is divided into four squares, whereas a Punnett square for a dihybrid cross is divided into 16 squares.
+How many boxes would a Punnett square need if three traits were examined?
+The squares are filled in with the possible combinations of alleles formed when gametes combine, such as in a zygote.
+See Genetic inheritance follows rules at for an animation of Reginald Punnett discussing his work.
+This Punnett square shows a cross between two heterozygotes, Bb.
+Do you know where each letter (allele) in all four cells comes from?
+Two pea plants, both heterozygous for flower color, are crossed.
+The offspring will show the dominant purple coloration in a 3:1 ratio.
+Or, about 75% of the offspring will be purple.
+An explanation of Punnett squares can be viewed at
+Click on the image above for more content
+An example of the use of a Punnett square can be viewed in Punnett Square to determine possible blood types at
+Predicting Offspring Genotypes
+In the cross shown in Figure above , you can see that one out of four offspring (25 percent) has the genotype BB , one out of four (25 percent) has the genotype bb , and two out of four (50 percent) have the genotype Bb .
+These percents of genotypes are what you would expect in any cross between two heterozygous parents.
+Of course, when just four offspring are produced, the actual percents of genotypes may vary by chance from the expected percents.
+However, if you considered hundreds of such crosses and thousands of offspring, you would get very close to the expected results—just like tossing a coin.

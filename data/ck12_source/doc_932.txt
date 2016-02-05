@@ -1,0 +1,20 @@
+This relative motion between wire and field induces a current in the second circuit.
+The magnetic field expands outward for only a very short period of time and therefore, only a short jolt of current is induced in the second circuit.
+You can leave the knife switch closed and the current will continue to flow in the first circuit but no current is induced in the second circuit because the field is constant and therefore there is no relative motion between the field and the wire in the second circuit.
+When the knife switch is opened, the current in the first circuit ceases to flow and the magnetic field collapses back through the wire to zero.
+As the magnetic field collapses, it passes through the wire and once again we have relative motion between the wire in the second circuit and the magnetic field.
+Therefore, we once again have a short jolt of current induced in the second circuit.
+This second jolt of induced current will be flowing in the opposite direction of the first induced current.
+We can produce an alternating current in the second circuit simply by closing and opening the knife switch continuously in the first circuit.
+Obviously, a transformer would have little use in the case of DC current because current is only induced in the second circuit when the first circuit is started or stopped.
+With AC current, however, since the current changes direction 60 times per second, the magnetic field would constantly be expanding and contracting through the second wire.
+A transformer is a device used to increase or decrease alternating current voltages.
+They do this with essentially no loss of energy.
+A transformer has two coils, electrically insulated from each other as shown in the sketch.
+One coil is called the primary coil and the other is called the secondary coil .
+When the primary coil is connected to a source of AC voltage, the changing current creates a varying magnetic field.
+The varying magnetic field induces a varying EMF in the secondary coil.
+The EMF induced in the secondary coil is called the secondary voltage and is proportional to the primary voltage.
+The secondary voltage also depends on the ratio of turns on the secondary coil to turns on the primary coil.
+Illustrations of step-up and step-down transformers
+\frac{\text{secondary voltage}}{\text{primary voltage}} &= \frac{\text{number of turns on secondary}}{\text{number of turns on primary}}\\\frac{V_S}{V_P} &= \frac{N_S}{N_P}

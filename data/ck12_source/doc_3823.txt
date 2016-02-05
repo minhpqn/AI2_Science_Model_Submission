@@ -1,0 +1,20 @@
+How is evolution defined in this resource?
+How is macroevolution related to microevolution?
+How are genetic changes introduced?
+What is genetic drift?
+Compare microevolution to macroevolution.
+Why are populations, rather than individuals, the units of evolution?
+What is a gene pool?
+Assume that a population of 50 individuals has the following numbers of genotypes for a gene with two alleles, B and b :
+BB = 30, Bb = 10, and bb = 10.
+Calculate the frequencies of the two alleles in the population’s gene pool.
+Define Hardy-Weinberg theorem and Hardy-Weinberg equilibrium.
+State the conditions required for Hardy-Weinberg equilibrium.
+Summarize the Hardy-Weinberg equilibrium equation.
+Why is balance important?
+To these individuals, the importance of maintaining balance is obvious.
+If balance, or equilibrium, is maintained within a population's genes, can evolution occur?
+No.
+But maintaining this type of balance today is difficult.
+The Hardy-Weinberg Theorem
+Godfrey Hardy was an English mathematician.

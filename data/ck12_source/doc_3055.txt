@@ -1,0 +1,20 @@
+For example, compared with a low-power microwave oven, a high-power microwave oven can cook more food in the same time or the same amount of food in less time.
+Calculating Power from Work and Time
+Power can be calculated using the formula above if the amount of work and time are known.
+For example, assume that a microwave oven does 24,000 joules of work in 30 seconds.
+Then the power of the microwave is:
+\text{Power}=\frac{\text{Work}}{\text{Time}}=\frac{24000 \ \text{J}}{30 \ \text{s}}=800 \ \text{J/s, or } 800 \ \text{W}
+Q :
+Another microwave oven does 5,000 joules of work in 5 seconds.
+What is its power?
+A :
+The power of the other microwave oven is:
+\text{Power}=\frac{5000 \ \text{J}}{5 \ \text{s}}=1000 \ \text{J/s, or } 1000 \ \text{W}
+Q :
+Which microwave oven will heat the same amount of food in less time?
+A :
+The 1000-watt microwave oven has more power, so it will heat the same amount of food in less time.
+Calculating Work from Power and Time
+You can also calculate work if you know power and time by rewriting the power equation above as:
+Work = Power × Time
+For example, if you use a 1000-watt microwave oven for 20 seconds, how much work does it do?

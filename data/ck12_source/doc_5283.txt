@@ -1,0 +1,20 @@
+A disorder in which only one mutated allele is needed for a person to be affected.
+autosomal recessive disorder :
+A disorder in which both copies of the gene must be mutated for a person to be affected.
+cystic fibrosis :
+A recessive inheritable disorder caused by a mutation in a gene called the cystic fibrosis transmembrane conductance regulator (CFTR).
+gene therapy :
+Process to potentially cure genetic disorders; involves inserting normal genes into cells with mutant genes.
+genetic disorder :
+A phenotype due to a mutation in a gene or chromosome; a genetic disease.
+mutation :
+A change in the nucleotide sequence of DNA or RNA.
+pedigree :
+A chart which shows the inheritance of a trait over several generations; a representation of genetic inheritance.
+phenylketonuria (PKU) :
+An autosomal recessive genetic disorder characterized the inability to metabolize the amino acid phenylalanine.
+Tay-Sachs disease :
+An autosomal recessive genetic disorder that is fatal in early childhood; results from the accumulation of harmful quantities of fat in the nerve cells of the brain.
+X-linked disorder :
+A disorder caused by a mutation in a gene on the X chromosome; may be dominant or recessive, though the majority of X-linked disorders are recessive.
+Y-linked disorder :

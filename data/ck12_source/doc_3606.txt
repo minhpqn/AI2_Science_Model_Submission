@@ -1,0 +1,20 @@
+The mitotic spindle checkpoint occurs at the point in metaphase where all the chromosomes should have aligned at the mitotic plate.
+Checkpoints control the cell cycle
+Checkpoints in the eukaryotic cell cycle ensure that the cell is ready to proceed before it moves on to the next phase of the cycle.
+Cancer and the Cell Cycle
+Cancer is a disease that occurs when the cell cycle is no longer regulated.
+This may happen because a cell’s DNA becomes damaged.
+Damage can occur due to exposure to hazards such as radiation or toxic chemicals.
+Cancerous cells generally divide much faster than normal cells.
+They may form a mass of abnormal cells called a tumor (see Figure below ).
+The rapidly dividing cells take up nutrients and space that normal cells need.
+This can damage tissues and organs and eventually lead to death.
+Cancer cell tumor
+These cells are cancer cells, growing out of control and forming a tumor.
+Cancer is discussed in the video at
+Click on the image above for more content
+The cell cycle is a repeating series of events that cells go through.
+It includes growth, DNA synthesis, and cell division.
+In eukaryotic cells, there are two growth phases, and cell division includes mitosis.
+The cell cycle is controlled by regulatory proteins at three key checkpoints in the cycle.
+The proteins signal the cell to either start or delay the next phase of the cycle.

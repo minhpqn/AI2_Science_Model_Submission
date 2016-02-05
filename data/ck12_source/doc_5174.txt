@@ -1,0 +1,20 @@
+In metaphase I, the 23 pairs of homologous chromosomes line up along the equator or the metaphase plate of the cell.
+During mitosis, 46 individual chromosomes line up during metaphase, however during meiosis I, the 23 homologous pairs of chromosomes line up.
+Chromosomes pairs are moved into position by the spindle fibers, which are now attached to the kinetochores at the centromeres.
+Some chromosomes inherited from the father are facing one side of the cell, and some are facing the other side.
+This is the basis of independent assortment of chromosomes as suggested by Gregor Mendel.
+During anaphase I the spindle fibers shorten, and the homologous chromosome pairs are separated from each other.
+This occurs as the chiasmata are severed, pulling homologous chromosomes apart.
+One chromosome from each pair moves toward one pole, with the other moving toward the other pole, resulting in a cell with 23 chromosomes at one pole and the other 23 at the other pole.
+Each chromosome still contains a pair of sister chromatids; the sister chromatids remain attached at the centromere.
+Because human cells have 23 pairs of chromosomes, this independent assortment of chromosomes produces 2 23 , or 8,388,608 possible chromosome configurations.
+More on independent assortment of chromosomes will be presented in the concepts on Mendelian Genetics.
+Telophase I followed by cytokinesis ends the first division of meiosis.
+This reduction division results in two haploid cells, each with a unique combination of chromosomes, some from the father and the rest from the mother.
+At this time, each chromosome is comprised of a pair of sister chromatids, even though one has undergone recombination with its homologue.
+During telophase I, the spindle fiber disassembles and the nucleus reforms.
+The genetic material briefly uncoils back into chromatin.
+This is quickly followed by cytokinesis.
+Cells may enter a period of rest known as interkinesis or interphase II, or immediately enter meiosis II.
+No DNA replication occurs between meiosis I and meiosis II.
+Meiosis II includes a division of the chromosomes, similar to that of mitosis.

@@ -1,0 +1,20 @@
+Decide which forces act on the two body system and which are extraneous.
+Explain what conditions would make it possible for the two-body system to move forward.
+Discuss in class.
+Free Body Diagrams
+Draw a free-body diagram and apply it to the real world.
+Students will learn how to draw a free-body diagram and apply it to the real world.
+Guidance For every problem involving forces it is essential to draw a free body diagram (FBD) before proceeding to the problem solving stage.
+The FBD allows one to visualize the situation and also to make sure all the forces are accounted.
+In addition, a very solid understanding of the physics is gleaned and many questions can be answered solely from the FBD.
+Click on the image above for more content
+Watch this Explanation
+Click on the image above for more content
+Draw free body diagrams (FBDs) for all of the following objects involved (in bold ) and label all the forces appropriately.
+Make sure the lengths of the vectors in your FBDs are proportional to the strength of the force: smaller forces get shorter arrows!
+A man stands in an elevator that is accelerating upward at 2 \ m/s^2 .
+A boy is dragging a sled at a constant speed.
+The boy is pulling the sled with a rope at a 30^\circ angle.
+The picture shown here is attached to the ceiling by three wires.
+A bowling ball rolls down a lane at a constant velocity.
+A car accelerates down the road.

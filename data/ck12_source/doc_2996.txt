@@ -1,0 +1,20 @@
+For example, a falling leaf is slowed down by air resistance more than a falling acorn because of the leaf’s greater surface area.
+You can simulate the effect of air resistance on acceleration due to gravity by doing the interactive animation at this URL:
+Q :
+If a leaf and an acorn were to fall to the ground in the absence of air (that is, in a vacuum), how would this affect their acceleration due to gravity?
+A :
+They would both accelerate at the same rate and reach the ground at the same time.
+When gravity pulls objects toward the ground, it always causes them to accelerate at a rate of 9.8 m/s 2 .
+Regardless of differences in mass, all objects accelerate at the same rate due to gravity unless air resistance affects one more than another.
+Watch the video at the following URL.
+Based on the teens interviewed in the video, identify two common misconceptions about gravity, mass, and acceleration due to gravity.
+Then explain why each misconception is false.
+Click on the image above for more content
+Why do objects fall faster the longer they fall toward Earth?
+What is the rate of acceleration due to gravity?
+How does mass affect acceleration due to gravity?
+Describe projectile motion and state when it occurs.
+Give examples of projectile motion.
+The archer in the opening image is aiming his arrow a little bit above the bull’s eye of the target, rather than directly at it.
+Why doesn’t he aim at the bull’s eye instead?
+The answer is projectile motion.

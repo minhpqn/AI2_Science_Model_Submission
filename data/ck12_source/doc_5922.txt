@@ -1,0 +1,20 @@
+Dispersion forces are also considered a type of van der Waals force and are the weakest of all intermolecular forces.  They are often called London forces after Fritz London (1900-1954), who first proposed their existence in 1930.  London dispersion forces are the intermolecular forces that occur between atoms and between nonpolar molecules as a result of the motion of electrons.
+The electron cloud of a helium atom contains two electrons, which can normally be expected to be equally distributed spatially around the nucleus.  However, at any given moment the electron distribution may be uneven, resulting in an instantaneous dipole.  This weak and temporary dipole subsequently influences neighboring helium atoms through electrostatic attraction and repulsion.  It induces a dipole on nearby helium atoms (see Figure below ).
+An instantaneous dipole in a helium atom
+A short-lived or instantaneous dipole in a helium atom.
+The instantaneous and induced dipoles are weakly attracted to one another.  The strength of dispersion forces increases as the number of electrons in the atoms or nonpolar molecules increases.
+The halogen group consists of four elements that all take the form of nonpolar diatomic molecules.  The Table below shows a comparison of the melting and boiling points for each.
+Melting and Boiling Points of Halogens
+Total Number of Electrons
+Melting Point (°C)
+Boiling Point ( °C)
+Physical State at Room Temperature
+The dispersion forces are strongest for iodine molecules because they have the greatest number of electrons.  The relatively stronger forces result in melting and boiling points which are the highest of the halogen group.  These forces are strong enough to hold iodine molecules close together in the solid state at room temperature.  The dispersion forces are progressively weaker for bromine, chlorine, and fluorine and this is illustrated in their steadily lower melting and boiling points.  Bromine is a liquid at room temperature, while chlorine and fluorine are gases, whose molecules are much further apart from one another.  Intermolecular forces are nearly nonexistent in the gas state, and so the dispersion forces in chlorine and fluorine only become measurable as the temperature decreases and they condense into the liquid state.
+Van der Waals forces are weak interactions between molecules that involve dipoles.
+Polar molecules have permanent dipole-dipole interactions.
+Non-polar molecules can interact by way of London dispersion forces.
+Use the link below to answer the following questions:
+What are intermolecular attractions?
+How cold must helium get before it forms a liquid?
+Can large numbers of molecules be held together by dispersion forces?
+Do long thin molecules develop stronger or weaker dipoles than short fat molecules?

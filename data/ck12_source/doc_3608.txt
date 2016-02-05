@@ -1,0 +1,20 @@
+How is it assured that every cell in your body has the same DNA?
+Chromosomes, like those shown here, must form prior to cell division, to ensure that each daughter cell receives a complete set of genetic material.
+Essentially, each new cell receives half of each "X-shaped" chromosome.
+In eukaryotic cells, the nucleus divides before the cell itself divides.
+The process in which the nucleus divides is called mitosis.
+Before mitosis occurs, a cell’s DNA is replicated.
+This is necessary so that each daughter cell will have a complete copy of the genetic material from the parent cell.
+How is the replicated DNA sorted and separated so that each daughter cell gets a complete set of the genetic material?
+To understand how this happens, you need to know more about chromosomes.
+Chromosomes are coiled structures made of DNA and proteins.
+Chromosomes are the form of the genetic material of a cell during cell division.
+It is this coiled structure that ensures proper segregation of the chromosomes during cell division.
+During other phases of the cell cycle, DNA is not coiled into chromosomes.
+Instead, it exists as a grainy material called chromatin .
+The vocabulary of DNA: chromosomes, chromatids, chromatin, transcription, translation, and replication is discussed at
+Click on the image above for more content
+Chromatids and the Centromere
+DNA condenses and coils into the familiar X-shaped form of a chromosome, shown in Figure below , only after it has replicated. (You can watch DNA coiling into a chromosome at the link below.) Because DNA has already replicated, each chromosome actually consists of two identical copies.
+The two copies are called sister chromatids .
+They are attached to one another at a region called the centromere .

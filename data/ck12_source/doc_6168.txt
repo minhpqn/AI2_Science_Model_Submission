@@ -1,0 +1,20 @@
+One way to describe the concentration of a solution is by the percent of a solute in the solvent.
+The percent can further be determined in one of two ways: (1) the ratio of the mass of the solute divided by the mass of the solution or (2) the ratio of the volume of the solute divided by the volume of the solution.
+When the solute in a solution is a solid, a convenient way to express the concentration is a mass percent \left ( \frac{\text{mass}}{\text{mass}}\right ) , which is the grams of solute per 100 g of solution.
+\text{Percent by mass}=\frac{\text{mass of solute}}{\text{mass of solution}} \times 100\%
+Suppose that a solution was prepared by dissolving 25.0 g of sugar into 100 g of water.
+The percent by mass would be calculated by:
+\text{Percent by mass}=\frac{25 \text{ g sugar}}{125 \text{ g solution}} \times 100\% = 20\% \ \text{sugar}
+Sometimes you may want to make up a particular mass of solution of a given percent by mass and need to calculate what mass of the solvent to use.
+For example, you need to make 3000 g of a 5% solution of sodium chloride.
+You can rearrange and solve for the mass of solute.
+\text{mass of solute}=\frac{\text{percent by mass}}{100\%} \times \text{mass of solution}=\frac{5\%}{100\%} \times 3000 \text{ g}=150 \text{ g NaCl}
+You would need to weigh out 150 g of NaCl and add it to 2850 g of water.
+Notice that it was necessary to subtract the mass of the NaCl (150 g) from the mass of solution (3000 g) to calculate the mass of the water that would need to be added.
+The percentage of solute in a solution can more easily be determined by volume when the solute and solvent are both liquids.
+The volume of the solute divided by the volume of solution expressed as a percent yields the percent by volume \left ( \frac{\text{volume}}{\text{volume}}\right ) of the solution.
+If a solution is made by adding 40 mL of ethanol to 20 mL of water, the percent by volume is:
+\text{Percent by volume} &= \frac{\text{volume of solute}}{\text{volume of solution}} \times 100\% \\&= \frac{40 \text{ mL ethanol}}{240 \text{ mL solution}} \times 100\% \\&= 16.7\% \ \text{ethanol}
+Frequently, ingredient labels on food products and medicines have amounts listed as percentages (see Figure below ).
+Many food products and medicine, such as hydrogen peroxide, list ingredients by volume/volume ratio
+Hydrogen peroxide is commonly sold as a 3% by volume solution for use as a disinfectant.

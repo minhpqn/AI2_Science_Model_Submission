@@ -1,0 +1,20 @@
+The generators convert kinetic energy to electrical energy.
+The kinetic energy may come from flowing water, burning fuel, wind, or some other energy source.
+Transmission lines on big towers—like those in the opening photo above—carry high-voltage electric current from power plants to electric substations.
+Smaller towers and individual power poles carry lower-voltage current from electric substations to homes and businesses.
+Electric substations have several functions.
+Many substations distribute electricity from a few high-voltage lines to several lower-voltage lines.
+They have electric transformers, which use electromagnetic induction to change the voltage of the current.
+Some transformers increase the voltage; others decrease the voltage.
+In the Figure below , you can see how both types of transformers are used in an electrical grid.
+Linear schematic focused on transformers.
+A step-up transformer increases the voltage of the current as it leaves the power plant.
+After the voltage has been increased, less current travels through the high-voltage power lines.
+This reduces the amount of power that is lost due to resistance of the power lines.
+A step-down transformer decreases the voltage of the current so it can be distributed safely to businesses and homes.
+A high-voltage power line may have 750,000 volts, whereas most home circuits have a maximum of 240 volts.
+Therefore, one or more step-down transformers are needed to decrease the voltage of current before it enters homes.
+Q:
+Assume that a home needs a 14-volt circuit for a light and a 120-volt circuit for a microwave oven.
+If the main power line entering home has 240 volts, what can you infer about the home’s electrical system?
+A:

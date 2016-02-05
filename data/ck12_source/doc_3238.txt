@@ -1,0 +1,20 @@
+The changes make the nighttime ionosphere even better at reflecting AM radio waves.
+How do you think this might affect the distance AM radio waves travel at night?
+A:
+With greater reflection off the ionosphere, AM waves can travel even farther at night than they can during the day.
+Radio receivers can often pick up radio broadcasts at night from cities that are hundreds of miles away.
+Television broadcasts also use radio waves (see Figure above ).
+For TV broadcasts, sounds are encoded with frequency modulation, and pictures are encoded with amplitude modulation.
+The encoded waves are broadcast from a TV tower.
+When the waves are received by television sets, they are decoded and changed back to sounds and pictures.
+Electromagnetic waves vary in their wavelengths, frequencies, and energy levels.
+The full range of electromagnetic waves makes up the electromagnetic spectrum.
+Radio waves are electromagnetic waves with the longest wavelengths, lowest frequencies, and least amount of energy.
+They are used for radio and television broadcasts and many other purposes.
+In radio broadcasts, sounds are encoded in radio waves by changing either the amplitude (AM) or frequency (FM) of the waves.
+The encoded waves are broadcast from a tower and changed back to sounds by radio receivers.
+In television broadcasts, sounds and pictures are encoded in radio waves, broadcast from a tower, and changed back to sounds and pictures by television sets.
+Observe the three radio waves in the animation at the following URL.
+Then write a short paragraph comparing and contrasting the three waves.
+What are radio waves?
+Compare and contrast AM and FM radio broadcasts.

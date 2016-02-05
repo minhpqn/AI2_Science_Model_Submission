@@ -1,0 +1,20 @@
+The first stage of prophase I is the leptotene stage.
+During this stage, chromatin condenses into visible (under the microscope) chromosomes within the nucleus.
+Each chromosome contains two sister chromatids, and each chromosome has a homologue present in the nucleus.
+During this stage, the synaptonemal complex begins to assemble.
+The zygotene stage occurs as the chromosomes pair with their homologue forming homologous chromosome pairs, a process called synapsis .
+Homologous chromosomes are equal in size and genetic content, so the genes from the two chromosomes line up along the length of the chromosome.
+Therefore, the pairing is highly specific and exact.
+The paired chromosomes are called bivalent or tetrad chromosomes, as they are formed by a complex with four chromatids.
+The pachytene stage is the stage when chromosomal crossover (crossing-over) occurs.
+This is the process where non-sister chromatids of homologous chromosomes exchange segments over regions of homology.
+At the sites of genetic exchange, chiasmata form.
+This exchange of DNA results in genetic recombination , the formation of new combinations of alleles.
+This process is much more common in autosomes than in sex chromosomes.
+The diplotene stage is when the synaptonemal complex degrades and homologous chromosomes disassociate slightly from each other, though they are still bound at the chiasmata (the regions of recombination).
+In human fetal oogenesis, all developing oocytes develop to this stage and the stop.
+This happens in all females prior to birth.
+This suspended state of the oocytes is referred to as the dictyotene stage and the eggs remains in this stage until released following puberty.
+During the diakinesis stage, chromosomes further condense.
+The chiasmata remain intact during this stage.
+The remainder of this stage is similar to prometaphase of mitosis: the nucleoli disappear, the nuclear membrane disintegrates, and the meiotic spindle begins to form.

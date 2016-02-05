@@ -1,0 +1,20 @@
+HIV infects and destroys helper T cells .
+As shown in Figure below , the virus injects its own DNA into a helper T cell and uses the T cell’s “machinery” to make copies of itself.
+In the process the T cell is destroyed, and the virus copies go on to infect other helper T cells.
+You can watch an animation showing how HIV infects T cells at this link:  .
+Click on the image above for more content
+HIV mechanism for destroying T cells
+This diagram shows how HIV infects and destroys T cells.
+HIV is able to evade the immune system and keep destroying T cells.
+This occurs in two ways:
+The virus frequently mutates and changes its surface antigens .
+This prevents antigen-specific lymphocytes from developing that could destroy cells infected with the virus.
+The virus uses the plasma membranes of host cells to hide its own antigens.
+This prevents the host’s immune system from detecting the antigens and destroying infected cells.
+As time passes, the number of HIV copies keeps increasing, while the number of helper T cells keeps decreasing.
+The graph in Figure below shows how the number of T cells typically declines over a period of many years following the initial HIV infection.
+As the number of T cells decreases, so does the ability of the immune system to defend the body.
+As a result, an HIV-infected person develops frequent infections.
+Medicines can slow down the virus but not get rid of it, so there is no cure at present for HIV infections or AIDS.
+There also is no vaccine to immunize people against HIV infection, but scientists are working to develop one.
+CD4 T cell count during HIV infection

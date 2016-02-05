@@ -1,0 +1,20 @@
+And in the process, transfers some energy to ATP.
+Glycolysis:
+A Universal and Ancient Pathway for Making ATP
+When was the last time you enjoyed yogurt on your breakfast cereal, or had a tetanus shot?
+These experiences may appear unconnected, but both relate to bacteria which do not use oxygen to make ATP.
+In fact, tetanus bacteria cannot survive if oxygen is present.
+However, Lactobacillus acidophilus (bacteria which make yogurt) and Clostridium tetani (bacteria which cause tetanus or lockjaw) share with nearly all organisms the first stage of cellular respiration, glycolysis ( Figure below ).
+Because glycolysis is universal, whereas aerobic (oxygen-requiring) cellular respiration is not, most biologists consider it to be the most fundamental and primitive pathway for making ATP.
+Clostridium tetani bacteria are obligate anaerobes, which cannot grow in the presence of oxygen and use a variation of glycolysis to make ATP.
+Because they can grow in deep puncture wounds and secrete a toxin, which can cause muscle spasms, seizures, and death, most people receive tetanus vaccinations at least every ten years throughout life.
+Return to the overall equation for cellular respiration:
+Like photosynthesis, the process represented by this equation is actually many small, individual chemical reactions.
+We grouped the reactions of photosynthesis into two stages, the light reactions and the Calvin Cycle.
+We will divide the reactions of cellular respiration into three stages: glycolysis, the Krebs Cycle , and the electron transport chain ( Figure below ).
+In this concept, Stage 1, glycolysis, the oldest and most widespread pathway for making ATP, is discussed.
+Before diving into the details, we must note that this first stage of cellular respiration is unique among the three stages: it does not require oxygen, and it does not take place in the mitochondrion.
+The chemical reactions of glycolysis occur without oxygen in the cytosol of the cell ( Figure below ).
+The many steps in the process of aerobic cellular respiration can be divided into three stages.
+The first stage, glycolysis, produces ATP without oxygen.
+Because this part of the cellular respiration pathway is universal, biologists consider it the oldest segment.

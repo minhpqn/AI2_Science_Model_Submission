@@ -1,0 +1,20 @@
+Find the mass of the ballast.
+Find the force on the vertical support.
+How would the angular acceleration change as the beam moves from the horizontal to the vertical position. (Give a qualitative explanation.)
+In order to maximize range at what angle should the projectile be released?
+What additional information and/or calculation would have to be done to determine the range of the projectile?
+b. 771\;\mathrm{N}, 1030\;\mathrm{N} c. 554 \;\mathrm{kgm}^2 d. 4.81\mathrm{rad/sec}^2
+a. 300\;\mathrm{N} b. 240N, -22\;\mathrm{N} c. .092
+a. 2280\;\mathrm{N} b. 856 \;\mathrm{n} toward beam, 106\;\mathrm{N} down c. 480 \;\mathrm{kgm}^2 d. 3.8 \;\mathrm{rad/sec}^2
+b. 345 \;\mathrm{kg}  using  9.8 \;\mathrm{m/s}^2 for acceleration of gravity c. 4690 N
+Yo-Yo Type Problems
+Solve Yo-Yo type problems, where an object is rotating in free fall yet attached to a string (or some other similar restraint).
+Students will learn to solve Yo-Yo type problems.
+That is problems where an object is rotating in free fall yet attached to a string (or some other similar restraint).
+\alpha = \tau_{net} / I
+angular accelerations are produced by net torques,with inertia opposing acceleration; this is the rotational analog of a = F_{net} / m
+\tau_{net} = \Sigma \tau_i = I \alpha
+the net torque is the vector sum of all the torques acting on the object.
+When adding torques it is necessary to subtract CW from CCW torques.
+\tau = r \times F = r _\perp F = rF _\perp
+individual torques are determined by multiplying the force applied by the perpendicular component of the moment arm

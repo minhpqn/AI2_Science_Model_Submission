@@ -1,0 +1,20 @@
+In science, matter is defined as anything that has mass and volume.
+Mass and volume measure different aspects of matter.
+Mass is a measure of the amount of matter in a substance or an object.
+The basic SI unit for mass is the kilogram (kg), but smaller masses may be measured in grams (g).
+To measure mass, you would use a balance.
+In the lab, mass may be measured with a triple beam balance or an electronic balance, but the old-fashioned balance pictured below may give you a better idea of what mass is.
+If both sides of this balance were at the same level, it would mean that the fruit in the left pan has the same mass as the iron object in the right pan.
+In that case, the fruit would have a mass of 1 kg, the same as the iron.
+As you can see, however, the fruit is at a higher level than the iron.
+This means that the fruit has less mass than the iron, that is, the fruit's mass is less than 1 kg.
+Q:
+If the fruit were at a lower level than the iron object, what would be the mass of the fruit?
+A:
+The mass of the fruit would be greater than 1 kg.
+Mass is commonly confused with weight.
+The two are closely related, but they measure different things.
+Whereas mass measures the amount of matter in an object, weight measures the force of gravity acting on an object.
+The force of gravity on an object depends on its mass but also on the strength of gravity.
+If the strength of gravity is held constant (as it is all over Earth), then an object with a greater mass also has a greater weight.
+Q:

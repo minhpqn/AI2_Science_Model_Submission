@@ -1,0 +1,20 @@
+How does H change in a spontaneous reaction?
+How does S change in a spontaneous reaction?
+What do spontaneous reactions do?
+What are the units for \Delta H ?
+What are the units for \Delta S ?
+free energy:
+Energy that is available to do work.
+Calculating Free Energy Change (ΔG°)
+Perform free energy calculations using enthalpy, entropy, and temperature values.
+The ingredients in a cake must be heated to create an edible product
+Time for dessert!
+When you are baking something, you heat the oven to the temperature indicated in the recipe.
+Then you mix all the ingredients, put them in the proper baking dish, and place them in the oven for a specified amount of time.
+If you had mixed the ingredients and left them out at room temperature, not much would change.
+The materials need to be heated to a given temperature for a set time in order for the ingredients to react with one another and produce a delicious final product.
+Calculating Free Energy  (\Delta G^\circ)
+The free energy change of a reaction can be calculated using the following expression:
+\Delta G^\circ=\Delta H^\circ - T\Delta S^\circ
+where  \Delta G = \text{free energy change (kJ/mol)}
+\Delta H = \text{change in enthalpy (kJ/mol)}

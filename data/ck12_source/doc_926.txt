@@ -1,0 +1,20 @@
+What is the resistance in the circuit?
+V_{\text{eff}} = 0.707 \ \ V_{\text{max}} = (0.707)(34.0 \ V) = 24.0 \ V
+I_{\text{eff}} = 0.707 \ \ I_{\text{max}} = (0.707)(0.17 \ A) = 0.120 \ A
+R=\frac{V}{I}=\frac{24.0 \ V}{0.120 \ A}=200. \ \Omega
+Electric generators convert mechanical energy to electric energy.
+The generator consists of some number of wire loops wrapped around an iron core and placed in a strong magnetic field.
+The loops of wire and the iron core are called the armature.
+The armature is mounted so that it can rotate freely inside the magnetic field.
+Mechanical energy is used to spin the armature in the field so that the wire loops cut across the field and produce electric current.
+The current produced as the armature goes around will resemble a sine wave where the  EMF reaches a maximum in one direction, then goes to zero, then goes to a maximum in the other direction.
+This type of current is called alternating current.
+A generator can also produce direct current by using a split ring commutator that changes external connections every half turn of the armature so that even though the current in the coil changes direction, every time the current in the coil changes direction, the external connection switches so that the external current always goes in the same direction.
+The effective current of an AC generator is 0.707 times its maximum current.
+The effective voltage of an AC generator is 0.707 times its maximum voltage.
+Click on the image above for more content
+Follow up questions:
+Which of the two generators in the video (an AC generator and a DC generator) involves a magnetic field?
+Which of the two generators in the video involves a wire-wrapped armature?
+What is the difference between the DC generator and the AC generator?
+What three things are necessary to produce  EMF  mechanically?

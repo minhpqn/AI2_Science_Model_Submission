@@ -1,0 +1,20 @@
+What did he discover?
+The first enzyme to be isolated was discovered in 1926 by American chemist James Sumner, who crystallized the protein.
+The enzyme was urease, which catalyzes the hydrolytic decomposition of urea, a component of urine, into ammonia and carbon dioxide.
+\text{H}_2\text{NCONH}_2 (aq)+\text{H}_2\text{O} (l) \xrightarrow{\text{urease}} 2\text{NH}_3 (g)+\text{CO}_2 (g)
+His discovery was ridiculed at first because nobody believed that enzymes would behave the same way that other chemicals did.
+Sumner was eventually proven right and won the Nobel Prize in Chemistry in 1946.
+An enzyme is a protein that acts as a biological catalyst.
+Recall that a catalyst is a substance that increases the rate of a chemical reaction without itself being consumed in the reaction.
+Cellular processes consist of many chemical reactions that must occur quickly in order for the cell to function properly.
+Enzymes catalyze most of the chemical reactions that occur in a cell.
+A substrate is the molecule or molecules on which the enzyme acts.
+In the urease catalyzed reaction above, urea is the substrate.
+The Figure below diagrams a typical enzymatic reaction.
+Diagram of enzymatic action
+The sequence of steps for a substrate binding to an enzyme in its active site, reacting, then being released as products.
+The first step in the reaction is that the substrate binds to a specific part of the enzyme molecule.
+The binding of the substrate is dictated by the shape of each molecule.
+Side chains on the enzyme interact with the substrate in a specific way, resulting in the making and breaking of bonds.
+The active site is the place on an enzyme where the substrate binds.
+An enzyme folds in such a way that it typically has one active site, usually a pocket or crevice formed by the folding pattern of the protein.

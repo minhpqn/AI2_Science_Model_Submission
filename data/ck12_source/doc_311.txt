@@ -1,0 +1,20 @@
+Assuming no heat loss to the surroundings, what is the final temperature of the mixture?
+The specific heat of methanol is 2450 J/kg•ºC.
+A 100.0 g brass block at 100.0ºC is placed in 200.0 g of water at 20.0ºC.
+The specific heat of brass is 376 J/kg•ºC.
+Assuming no heat loss to the surroundings, what is the final temperature of the mixture?
+calorimeter:
+A device used to measure the heat flow of a chemical reaction or physical change.
+calorimetry:
+A way to measure the energy change of a reaction or the energy contained in matter.
+Change of State
+Define heat of fusion.
+Define heat of vaporization.
+Calculate heat transfers necessary for changes of state.
+Steam traction engine depended on water changing from a liquid to gaseous state
+Before the internal combustion engine was invented, steam engines were the power source for ships, locomotives, tractors, lumber saws, and most industrial machines.
+Coal or wood was burned to boil water into steam, which ran the engine.
+Change of State
+Most substances may exist in any of the three common states of matter.
+In the gaseous state, the molecular motion has completely overcome any attraction between the particles and the particles are totally separate from each other.
+There are large spaces between the particles and they move large distances between collisions.

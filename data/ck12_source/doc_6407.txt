@@ -1,0 +1,20 @@
+In general, the stronger the acid, the weaker its conjugate base.
+Likewise, the weaker the acid, the stronger its conjugate base.
+Relative Strengths of Acids and their Conjugate Bases
+HCl (hydrochloric acid) (strongest)
+Cl − (chloride ion) (weakest)
+H 2 SO 4 (sulfuric acid)
+HSO 4 − (hydrogen sulfate ion)
+HNO 3 (nitric acid)
+NO 3 − (nitrate ion)
+H 3 PO 4 (phosphoric acid)
+H 2 PO 4 − (dihydrogen phosphate ion)
+CH 3 COOH (acetic acid)
+CH 3 COO − (acetate ion)
+H 2 CO 3 (carbonic acid)
+HCO 3 − (hydrogen carbonate ion)
+HCN (hydrocyanic acid) (weakest)
+CN − (cyanide ion) (strongest)
+Strong acids are 100% ionized in solution.
+Weak acids are only slightly ionized.
+Phosphoric acid is stronger than acetic acid and so is ionized to a greater extent.

@@ -1,0 +1,20 @@
+This is called a Doppler shift.
+Suppose the trumpet player in the sketch below is playing a constant note with a wavelength equal to 1.00 m/s.
+If you are sitting down the road a ways and the truck is stationary, then the wavelength of the sound that reaches you will be 1.00 m long and you will hear a note corresponding to that wavelength.
+Suppose now, that the speed of sound is 333 m/s and this truck is moving toward you at 166. m/s.
+When the trumpet player begins playing the tone, the first crest will move toward you at 333 m/s.
+In the first 0.003 seconds, that first crest will move exactly 1.00 m (which happens to be one wavelength for this sound).
+After the trumpet player generates the first crest, however, the truck also moves and in the first 0.003 seconds, the truck moves 0.50 m.
+After the first 0.003 seconds, the trumpet player creates a second crest and sends it on its way.
+When this second crest is generated, the first crest is only 0.50 m away.
+If the truck did not move, the crests would reach your ear with a wavelength of 1.00 m, but because the truck moves toward you at very high speed, the crests reach your ear at a distance of only 0.50 m apart.
+Therefore, the sound you hear will have shorter wavelengths than the sound that was emitted by the trumpet player.
+The frequency of the sound you hear would be double the frequency that was being emitted.
+Trumpet player on a truck
+If the truck was moving away from you, the opposite change of frequency would occur.  That is, the received wavelength would be longer than the one emitted and the received frequency would be lower than the frequency emitted.
+You may have noticed frequency changes in automobile sounds when you stand near a highway.
+Or that an emergency vehicle's siren is different when approaching you than when leaving.
+A tuning fork
+You can also hear the Doppler shift in the classroom simply by striking a tuning fork and then moving the tuning sharply toward you or away from you.  Even though the tuning fork generates a constant tone, you will hear wavering tones as you move the tuning fork around.
+alt Doppler shift of a moving train
+In terms of the listener, the train sketched on the left above is not moving and therefore the wavelengths and frequency heard in all directions will be the same as the frequency being emitted.

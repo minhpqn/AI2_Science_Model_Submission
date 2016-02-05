@@ -1,0 +1,20 @@
+Heat is the transfer of thermal energy between substances.
+Thermal energy is the kinetic energy of moving particles of matter, measured by their temperature.
+Thermal energy always moves from matter with greater thermal energy to matter with less thermal energy, so it moves from warmer to cooler substances.
+You can see this in the Figure below .
+Faster-moving particles of the warmer substance bump into and transfer some of their energy to slower-moving particles of the cooler substance.
+Thermal energy is transferred in this way until both substances have the same thermal energy and temperature.
+For a visual introduction to these concepts, watch the animation “Temperature vs.
+Heat” at this URL:
+Diagram illustrating transfer of thermal energy
+Q:
+How is thermal energy transferred in an oven?
+A:
+Thermal energy of the hot oven is transferred to the cooler food, raising its temperature.
+Cooling Down by Heating Up
+How do you cool down a glass of room-temperature cola?
+You probably add ice cubes to it, as in the Figure below .
+You might think that the ice cools down the cola, but in fact, it works the other way around.
+The warm cola heats up the ice.
+Thermal energy from the warm cola is transferred to the much colder ice, causing it to melt.
+The cola loses thermal energy in the process, so its temperature falls.

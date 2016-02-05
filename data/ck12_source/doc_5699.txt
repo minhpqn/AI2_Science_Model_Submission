@@ -1,0 +1,20 @@
+stationary state:
+Electrons orbit at fixed distance from the nucleus.
+Spectral Lines of Hydrogen
+List the electron transition lines according to energy levels.
+Explain the presence of emission lines and relate them to electron transitions
+Man fixing car engine
+Can you fix a car engine?
+It’s not as common any more, but there was a time when many people could work on their own cars if there was a problem.
+Today, engines are computerized and require specialized training and tools in order to be fixed.
+When people did their own repairs, it was sometimes a trial and error process.
+Maybe the parks plugs needed to be replaced.
+No, that didn’t fix the problem completely, but it was a start in the right direction.
+Science operates the same way.
+A theory that is developed may work for a while, but then there are data that the theory cannot explain.
+This means that it's time for a newer and more inclusive theory.
+Spectral Lines of Hydrogen
+Bohr’s model explains the spectral lines of the hydrogen atomic emission spectrum.
+While the electron of the atom remains in the ground state, its energy is unchanged.
+When the atom absorbs one or more quanta of energy, the electron moves from the ground state orbit to an excited state orbit that is further away.
+Energy levels are designated with the variable n .

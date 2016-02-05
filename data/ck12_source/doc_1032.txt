@@ -1,0 +1,20 @@
+Portrait of the Curiosity rover that landed on Mars on August 5, 2012.
+Answering some questions requires experiments .
+An experiment is a test that may be performed in the field or in a laboratory.
+An experiment must always be done under controlled conditions.
+The goal of an experiment is to test a hypothesis.
+The data from the experiment will verify or falsify the hypothesis.
+In an experiment, it is important to change only one factor.
+All other factors must be kept the same.
+independent variable :
+The factor that will be changed.
+dependent variable :
+The factors that depend on the independent variable.
+An experiment must have a control group .
+In the control group, nothing is changed.
+It is not subjected to the independent variable.
+For example, say you want to test if Vitamin C prevents colds.
+You gather a large number of people to be your sample group.
+Then you divide your sample group up.
+Some receive Vitamin C and some do not.
+Those who do not receive the Vitamin C are the control group.

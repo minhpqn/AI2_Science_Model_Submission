@@ -1,0 +1,20 @@
+While both types of meters are technically resistors, they are specifically designed to make their readings without changing the circuit itself.
+Diagram of a circuit with an ammeter and a voltmeter inserted
+An ammeter measures the current traveling through the circuit.
+They are designed to be connected to the circuit in series, and have an extremely low resistance.
+If an ammeter were connected in parallel, all of the current would go through the ammeter and very little through any other resistor.
+As such, it is necessary for the ammeter to be connected in series with the resistors.
+This allows the ammeter to accurately measure the current flow without causing any disruptions.
+In the circuit sketched above, the ammeter is m_2 .
+In contrast, a voltmeter is designed to be connected to a circuit in parallel, and has a very high resistance.
+A voltmeter measures the voltage drop across a resistor, and does not need to have the current travel through it to do so.
+When a voltmeter is placed in parallel with a resistor, all the current continues to travel through the resistor, avoiding the very high resistance of the voltmeter.
+However, we know that the voltage drop across all resistors in parallel is the same, so connecting a voltmeter in parallel allows it to accurately measure the voltage drop.
+In the sketch, the voltmeter is m_1 .
+Ammeters measure the current through a resistor.
+Ammeters have low resistances and are placed in the circuit in series.
+Voltmeters measure the voltage drop across a resistor.
+Voltmeters have high resistances and are placed in the circuit in parallel.
+In this video, a circuit is established with a power supply, which also has an attached voltmeter, and a lamp (resistor).
+After the circuit is established, a voltmeter and an ammeter are alternately placed in the circuit.
+Click on the image above for more content

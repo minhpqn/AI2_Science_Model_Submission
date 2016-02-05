@@ -1,0 +1,20 @@
+The absolute difference between ENs is |0.93 - 3.2| = 2.27.
+This value is greater than 1.7, and therefore indicates a complete electron exchange occurs.
+Electronegativity is a measure of the ability of an atom to attract the electrons when the atom is part of a compound.
+Electronegativity values generally increase from left to right across the periodic table.
+Electronegativities generally decrease from top to bottom of a group.
+The highest electronegativity value is for fluorine.
+Use the link below to answer the following questions:
+What are the least electronegative elements?
+What is a polar bond?
+What happens if atom A in a bond has much more electronegativity that atom B?
+How does electronegativity differ from electron affinity?
+Why are the electronegativity values of metals generally low?
+Describe the trend in electronegativities across the periodic table.
+Describe the trends in electronegativities in a group of the periodic table.
+electronegativity:   A measure of the ability of an atom to attract the electrons when the atom is part of a compound.
+Metallic and Nonmetallic Character
+Define metallic character.
+Define non-metallic character.
+Describe trends in metallic character in the periodic table.
+Describe trends in non-metallic character in the periodic table.

@@ -1,0 +1,20 @@
+In C-3, C-4, and CAM plants, CO 2 enters the cycle by joining with 5-carbon ribulose bisphosphate to form a 6-carbon intermediate, which splits (so quickly that it isn’t even shown) into two 3-carbon 3-phosphoglycerate molecules.
+Now look for the points at which ATP and NADPH (made in the light reactions) add chemical energy (“Reduction” in the diagram) to the 3-carbon molecules.
+The resulting glyceraldehyde-3-phosphate “half-sugars” can enter several different metabolic pathways.
+One recreates the original 5-carbon precursor, completing the cycle.
+A second combines two of the 3-carbon molecules to form glucose, the universal fuel for life.
+The cycle begins and ends with the same 5-carbon RuBP molecule, but the process combines carbon and energy to build carbohydrates – food for life.
+So – how does photosynthesis store energy in sugar?
+Six “turns” of the Calvin Cycle use chemical energy from ATP to combine six carbon atoms from six CO 2 molecules with 12 hydrogens from NADPH.
+The result is one molecule of glucose, C 6 H 12 O 6 .
+bundle-sheath cells :
+Photosynthetic cells arranged into tightly packed sheaths around the veins of a leaf.
+Calvin Cycle :
+The second stage of photosynthesis; results in the formation of a sugar.
+CAM photosynthesis :
+A photosynthetic adaptation to arid conditions in some plants; allows stomata to be closed during the day.
+carbon fixation :
+The process which converts carbon dioxide in the air to organic molecules, as in photosynthesis.
+mesophyll cells :
+Photosynthetic parenchyma cells that lie between the upper and lower epidermis layers of a leaf.
+RuBisCo :

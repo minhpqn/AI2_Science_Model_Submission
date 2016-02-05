@@ -1,0 +1,20 @@
+In the video, a simple electrical motor is constructed.
+Click on the image above for more content
+Follow up questions:
+Who first built an electric motor?
+What size battery was used in the video motor?
+The rover Curiosity is on the surface of what body?
+Which way will the wire be pushed when current passes through the wire?
+None of these.
+Practice problem with a wire around a magnet
+Which way will the coil spin when current passes through the wire?
+Practice problem with a wire that between through two magnets
+electric motor:
+An electricmotor converts electricity into mechanical motion.
+commutator:
+A split - ring commutator (sometimes just called a commutator) is a simple and clever device for reversing the current direction through an armature every half turn.
+armature:
+A revolving structure in an electric motor or generator, wound with the coils that carry the current.
+Define and describe a solenoid.
+Define and describe an electromagnet.
+Determine the direction of the magnetic field inside a solenoid given the direction of current flow in the coil wire.

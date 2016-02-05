@@ -1,0 +1,20 @@
+How is a unit cell defined?
+Opposite faces of a unit cell are __________.
+What does the edge of a unit cell connect?
+What is a unit cell?
+List the three cubic unit cells.
+Does each unit cell exist as an entity by itself?
+body-centered cubic:
+There is one atom or ion in the center of the unit cell in addition to the corner atoms or ions.
+face-centered cubic:
+There are also atoms or ions in the center of each of the six faces of the unit cell.
+simple cubic:
+The atoms or ions are at the corners of the unit cell only.
+unit cell:
+The smallest portion of a crystal lattice that shows the three-dimensional pattern of the entire crystal.
+Classes of Crystalline Solids
+List the four types of crystalline solids.
+Describe the properties of each type.
+The unique properties of solid copper allow electrons to flow freely through the wire
+What are common things that we connect to wires?
+We often take a lot of things for granted.

@@ -1,0 +1,20 @@
+\text{equation} \qquad \text{H}_2 \text{SO}_4(aq)+2\text{NaOH}(aq) \rightarrow \text{Na}_2\text{SO}_4(aq)+2\text{H}_2\text{O}(l)
+First determine the moles of NaOH in the reaction.
+From the mole ratio, calculate the moles of H 2 SO 4 that reacted.
+Finally, divide the moles H 2 SO 4 by its volume to get the molarity.
+Step 2:
+Solve.
+& \text{mol NaOH}=M \times L=0.250 \ \text{M} \times 0.03220 \ \text{L}=8.05 \times 10^{-3} \ \text{mol} \ NaOH \\& 8.05 \times 10^{-3} \ \text{mol NaOH} \times \frac{1 \ \text{mol H}_2\text{SO}_4}{2 \ \text{mol NaOH}}=4.03 \times 10^{-3} \ \text{mol H}_2\text{SO}_4 \\& \frac{4.03 \times 10^{-3} \ \text{mol H}_2\text{SO}_4}{0.02660 \ \text{L}}=0.151 \ \text{M H}_2\text{SO}_4
+Step 3:
+Think about your result.
+The volume of H 2 SO 4 required is smaller than the volume of NaOH because of the two hydrogen ions contributed by each molecule.
+The process of calculating concentration from titration data is described and illustrated.
+Do the problems at the link below:
+What assumption is made about the amounts of materials at the neutral point?
+What is different about the calculation using sulfuric acid?
+Why is the mole ratio important?
+Describe titration curves of acid-base neutralization reactions.
+Cartesian graphs are often used to represent the course of a titration
+Where did graphs come from?
+The  x-y plot that we know of as a graph was the brainchild of the French mathematician-philosopher Rene Descartes (1596-1650).
+His studies in mathematics led him to develop what was known as “Cartesian geometry”, including the idea of our current graphs.

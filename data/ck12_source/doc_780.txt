@@ -1,0 +1,20 @@
+Only iron and few other materials such as cobalt, nickel, and gadolinium show strong magnetic effects.
+These materials are said to be ferromagnetic .
+Other materials show some slight magnetic effect but it is extremely small and can be detected only with delicate instruments.
+Microscopic examination reveals that a magnet is actually made up of tiny regions known as  magnetic domains , which are about one millimeter in length and width.
+Each domain acts like a tiny magnet with a north and south pole.
+Magnetic domains before and after magnetization
+When the ferrous material is not magnetized, the domains are randomly organized so that the north and south poles do not line up and often cancel each other.
+When the ferrous material is placed in a magnetic field, the domains line up with the magnetic field so that the north poles are all pointed in the same direction and the south poles are all pointed in the opposite direction.
+In this way, the ferrous material has become a magnet.
+In many cases, the domains will remain aligned only while the ferrous material is in a strong magnetic field; when the material is removed from the field, the domains return to their previous random organization and the ferrous material loses any magnetic properties.
+Magnets that have magnetic properties while in the field of another magnet but lose the magnetic properties when removed from the field are called  temporary magnets .
+Under certain circumstances, however, the new alignment can be made permanent and the ferrous substance becomes a  permanent magnet .
+That is, the ferrous object remains a magnet even when removed from the other magnetic field.
+The formation of temporary magnets allows a magnet to attract a non-magnetized piece of iron.
+You have most likely seen a magnet pick up a paper clip.
+The presence of the magnet aligns the domains in the iron paper clip and it becomes a temporary magnet.
+Whichever pole of the magnet is brought near the paper clip will induce magnetic properties in the paper clip that remain as long as the magnet is near.
+Permanent magnets lose their magnetic properties when the domains are dislodged from their organized positions and returned to a random jumble.
+This can occur if the magnet is hammered on or if it is heated strongly.
+When we were dealing with electrical effects, it was very useful to speak of an electric field that surrounded an electric charge.

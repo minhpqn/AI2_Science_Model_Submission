@@ -1,0 +1,20 @@
+Example:  Suppose a planner is designing an airport for small airplanes.  Such planes must reach a speed of 56 m/s before takeoff and can accelerate at 12.0 m/s 2 .  What is the minimum length for the runway of this airport?
+Solution:  The acceleration in this problem is constant and the initial velocity of the airplane is zero.
+Therefore, we can use the equation  v{_f}^2 = 2ad and solve for d .
+d=\frac{v{_f}^2}{2a}=\frac{(56 \ \text{m/s})^2}{(2)(12.0 \ \text{m/s}^2)}=130 \ \text{m}
+Example:  How long does it take a car to travel 30.0 m if it accelerates from rest at a rate of 2.00 m/s 2 ?
+Solution:  The acceleration in this problem is constant and the initial velocity is zero, therefore, we can use  d = \frac{1}{2} at^2 solved for t .
+t=\sqrt{\frac{2d}{a}}=\sqrt{\frac{(2)(30.0 \ \text{m})}{2.00 \ \text{m/s}^2}}=5.48 \ \text{s}
+Example:  A baseball pitcher throws a fastball with a speed of 30.0 m/s.
+Assume the acceleration is uniform and the distance through which the ball is accelerated is 3.50 m.
+What is the acceleration?
+Solution:  Since the acceleration is uniform and the initial velocity is zero, we can use  v{_f}^2 = 2ad solve for a .
+a=\frac{v_f^2}{2d}=\frac{(30.0 \ \text{m/s})^2}{(2)(3.50 \ \text{m})}=\frac{900. \ \text{m}^2/\text{s}^2}{7.00 \ \text{m}}=129 \ \text{m/s}^2
+Suppose we plot the velocity versus time graph for an object undergoing uniform acceleration.  In this first case, we will assume the object started from rest.
+If the object has a uniform acceleration of 6.0 m/s 2 and started from rest, then each succeeding second, the velocity will increase by 6.0 m/s.  Here is the table of values and the graph.
+Velocity versus time graph
+In displacement versus time graphs, the slope of the line is the velocity of the object.
+In this case of a velocity versus time graph, the slope of the line is the acceleration.
+If you take any segment of this line and determine the  \Delta y to  \Delta x ratio, you will get 6.0 m/s 2 which we know to be the constant acceleration of this object.
+We know from geometry that the area of a triangle is calculated by multiplying one-half the base times the height.  The area under the curve in the image above is the area of the triangle shown below.
+The area of this triangle would be calculated by \text{area} = \left(\frac{1}{2}\right)(6.0 \ \text{s})(36 \ \text{m/s}) = 108 \ \text{m}

@@ -1,0 +1,20 @@
+NF-1 = Nuclear factor I
+Specificity Protein 1
+Specificity Protein 1 , or Sp1, is involved in the early development of an organism.
+Sp1 directly binds DNA through a zinc finger motif.
+Sp1 binds to a regulatory sequence with the consensus sequence 5'-(G/T)GGGCGG(G/A)(G/A)(C/T)-3', which is known as a GC box element.
+Sp1 was first identified in 1983, making it one of the earliest transcription factors identified.
+It belongs to a family of transcription known as the Sp/KLF family (specificity protein/Krüppel-like factor).
+Activator Protein 1
+AP-1, activator protein 1 , is also one of the earliest transcription factors identified.
+It activates the transcription of genes in response to a number of stimuli, including cytokines, growth factors, stress, and bacterial and viral infections, resulting in altered cellular processes such as differentiation, proliferation, and apoptosis.
+AP-1 is a heterodimeric protein composed of proteins belonging to the c-Fos, c-Jun, ATF and JDP families. c-Fos is a cellular proto-oncogene; it belongs to the leucine zipper family of transcription factors. c-fos gene products dimerize with c-jun gene products through the leucine zipper to form AP-1.
+AP-1 activates transcription of genes containing the TPA DNA response element 5'-TGAGCTCA-3'.
+TPA, or 12-O-tetradecanoylphorbol-13-acetate is a phorbol ester, a potent tumor promoter known to activate the signal transduction enzyme protein kinase C (PKC) .
+PKC describes a family of protein kinase enzymes that are involved in controlling the function of other proteins through the phosphorylation of serine and threonine residues on those proteins.
+ATF and JDP are two other classes of proteins that may dimerize with for or jun to form AP-1.
+ATF, activating transcription factor, is a class of AP-1 transcription factor dimers.
+JDP, or Jun dimerization protein is a member of the AP-1 family of transcription factors.
+CCAAT-enhancer-binding proteins , or C/EBPs form a family of transcription factors that bind to the CCAAT box motif.
+They are characterized by a highly conserved basic-leucine zipper (bZIP) domain, which is used to form protein dimers.
+C/EBPs are involved in different cellular responses, such as in the control of cellular proliferation, growth, and differentiation, and in metabolism and immunity.

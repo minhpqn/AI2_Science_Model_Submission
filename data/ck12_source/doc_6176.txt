@@ -1,0 +1,20 @@
+V_2=8.00 \ \text{L}
+M_2=0.50 \ \text{M}
+\text{volume stock} \ \text{HNO}_3 \ (V_1)=? \ \text{L}
+The unknown in the equation is V_1 , the volume of the concentrated stock solution.
+Step 2:
+Solve.
+V_1=\frac{M_2 \times V_2}{M_1}=\frac{0.50 \text{ M} \times 8.00 \text{ L}}{16 \text{ M}}=0.25 \text{ L}=250 \text{ mL}
+Step 3:
+Think about your result.
+250 mL of the stock HNO 3 needs to be diluted with water to a final volume of 8.00 L.
+The dilution is by a factor of 32 to go from 16 M to 0.5 M.
+Dilutions can be performed in the laboratory with various tools, depending on the volumes required and the desired accuracy.
+The following images illustrate the use of two different types of pipettes.
+The images below illustrate the use of two different types of pipettes.
+In the first figure ( Figure below ), a glass pipette is being used to transfer a portion of a solution to a graduated cylinder.
+Use of a pipette rather than a graduated cylinder for the transfer improves accuracy.
+The second figure ( Figure below ) shows a  micropipette , which is designed to quickly and accurately dispense small volumes.
+Micropipettes are adjustable and come in a variety of sizes.
+Glass pipettes are much more precise than graduated cylinders for measuring specific volumes
+Micropipettes are used to precisely measure volumes under 1 mL

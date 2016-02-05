@@ -1,0 +1,20 @@
+The Heisenberg Uncertainty principle explains why we cannot simultaneously determine both the precise velocity and position of a particle.
+This principle is only applicable at the atomic level.
+Use the link below to answer the following questions:
+When did Heisenberg get his Ph.D?
+What idea of Niels Bohr did Heisenberg disprove?
+When did he win his Nobel Prize?
+Why is the Heisenberg Uncertainty Principle true at the atomic level?
+Is the principle valid at the macroscopic level?
+Heisenberg Uncertainty Principle:
+It is impossible to determine simultaneously both the position and the velocity of a particle.
+Quantum Mechanical Atomic Model
+The location of a bank robber is uncertain
+The news flash interrupts your favorite TV program. “There has been a hold-up at the First National Bank.
+The suspect fled in a car and is believed to be somewhere in the downtown district.
+Everyone is asked to be on the alert.” The robber can be located only within a certain area – the police do not have an exact location, just a general idea as to the where abouts of the thief.
+Quantum Mechanical Atomic Model
+In 1926, Austrian physicist Erwin Schrödinger (1887-1961) used the wave-particle duality of the electron to develop and solve a complex mathematical equation that accurately described the behavior of the electron in a hydrogen atom.
+The quantum mechanical model of the atom comes from the solution to Schrödinger’s equation.
+Quantization of electron energies is a requirement in order to solve the equation.
+This is unlike the Bohr model, in which quantization was simply assumed with no mathematical basis.

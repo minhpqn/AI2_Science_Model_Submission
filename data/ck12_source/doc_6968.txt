@@ -1,0 +1,20 @@
+Guidance Capacitors in parallel have the same voltage, but different charge stored.
+Capacitors in series have the same charge stored, but different voltages.
+Remember that if a capacitor are hooked up to the battery they will have the same voltage as the battery.
+If the capacitor is unhooked from a battery and other capacitors are attached to it, then the voltage can change but the total amount of charge must remain constant.
+Charge conservation holds that charge can not be created or destroyed.
+When solving problems involving capacitor circuits, we use the equation for the charge on a capacitor much like we use Ohm's Law.
+Two capacitors, one of 10;\mu\text{F} ( C_1 ) and one of 60\;\mu\text{F} ( C_2 ), are connected to a 10V battery in series.
+A diagram of the circuit is shown below.
+Determine (a) the total capacitance, (b) the charge stored on the 100\;\mu\text{F} capacitor, and (c) the voltage drop across the 60\;\mu\text{F} .
+(a):
+To find the total capacitance, we'll use the equation give above for determining the equivalent capacitance of capacitors in series.
+\frac{1}{C_{total}}&=\frac{1}{C_1} + \frac{1}{C_2}\\\frac{1}{C_{total}}&=\frac{1}{100\:\mu\text{F}} + \frac{1}{60\:\mu\text{F}}\\C_{total}&=37.5\:\mu\text{F}\\
+(b):
+Since charge is the same across capacitors in series, we can use the charge found using the total capacitance and the total voltage drop to find the charge in the C_1 capacitor.
+Q&=C_{total}V\\Q&=37.5\:\mu\text{F} * 10\;\text{V}\\Q&=375\:\mu\text{C}\\
+(c):
+Since we know the charge and the capacitance of C_2 , we can find the voltage drop.
+The two capacitors used in the previous example problem are now connected to the battery in parallel.
+What is (a) the total capacitance and (b) the charge on C_1 .
+A diagram of the circuit is shown below.

@@ -1,0 +1,20 @@
+When an atom loses electrons, it becomes a positively charged ion, or cation.
+When an atom gains electrons, it becomes a negative charged ion, or anion.
+Ions are created by the loss or gain of electrons
+Conservation of Charge
+Like the formation of ions, the formation of charged matter in general depends on the transfer of electrons, either between two materials or within a material.
+Three ways this can occur are referred to as conduction, polarization, and friction.
+All three ways are described below.
+However, regardless of how electrons are transferred, the total charge always remains the same.
+Electrons move, but they aren’t destroyed.
+This is the law of conservation of charge .
+The transfer of electrons from the van de Graaff generator to the man is an example of conduction.
+Conduction occurs when there is direct contact between materials that differ in their ability to give up or accept electrons.
+A van de Graff generator produces a negative charge on its dome, so it tends to give up electrons.
+Human hands are positively charged, so they tend to accept electrons.
+Therefore, electrons flow from the dome to the man’s hand when they are in contact.
+You don’t need a van de Graaff generator for conduction to take place.
+It may occur when you walk across a wool carpet in rubber-soled shoes.
+Wool tends to give up electrons and rubber tends to accept them.
+Therefore, the carpet transfers electrons to your shoes each time you put down your foot.
+The transfer of electrons results in you becoming negatively charged and the carpet becoming positively charged.

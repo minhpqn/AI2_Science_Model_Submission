@@ -1,0 +1,20 @@
+Consider the hydrogen atom.
+Does the electron orbit the proton due to the force of gravity or the electric force?
+Calculate both forces and compare them. (You may need to look up the properties of the hydrogen atom to complete this problem.)
+Find the direction and magnitude of the force on the charge at the origin (see picture).
+The object at the origin has a charge of 8 \ \mu \mathrm{C} , the object at coordinates (-2 \;\mathrm{m}, \ 0) has a charge of 12 \ \mu \mathrm{C} , and the object at coordinates (0, -4 \;\mathrm{m}) has a charge of 44 \ \mu \mathrm{C} .
+All distance units are in meters.
+Two pith balls of equal and like charges are repulsed from each other as shown in the figure below.
+They both have a mass of 2 \;\mathrm{g} and are separated by 30^\circ .
+One is hanging freely from a 0.5 \;\mathrm{m} string, while the other, also hanging from a 0.5\;\mathrm{m} string, is stuck like putty to the wall.
+Draw the free body diagram for the hanging pith ball
+Find the distance between the leftmost pith ball and the wall (this will involve working a geometry problem)
+Find the tension in the string (Hint: use y- direction force balance)
+Find the amount of charge on the pith balls (Hint: use x- direction force balance)
+a. attracted b. 1350 \;\mathrm{N} c. 1350 \;\mathrm{N}
+F_g = 1.0 \times 10^{-47} \;\mathrm{N} and F_e = 2.3 \times 10^{-8} \;\mathrm{N} .
+The electric force is 39 orders of magnitudes bigger.
+0.293 \;\mathrm{N} and at 42.5^\circ
+b. 0.25\mathrm{m} c.
+F_T = 0.022\;\mathrm{N} d. 0.37 \mu \mathrm{C}
+Describe the concept of Voltage and apply it in energy conservation problems.

@@ -1,0 +1,20 @@
+The maximum numbers of electrons possible for the first four energy levels are shown in the Figure above .
+For example, energy level I can hold a maximum of two electrons, and energy level II can hold a maximum of eight electrons.
+The maximum number depends on the number of orbitals at a given energy level.
+An orbital is a volume of space within an atom where an electron is most likely to be found.
+As you can see by the images in the Figure below , some orbitals are shaped like spheres (S orbitals) and some are shaped like dumbbells (P orbitals).
+There are other types of orbitals as well.
+Models of S and P orbitals
+Regardless of its shape, each orbital can hold a maximum of two electrons.
+Energy level I has just one orbital, so two electrons will fill this energy level.
+Energy level II has four orbitals, so it takes eight electrons to fill this energy level.
+The animation below shows the electrons in the first two energy levels for an atom of lithium, which has a total of three electrons.
+Q:
+Energy level III can hold a maximum of 18 electrons.
+How many orbitals does this energy level have?
+A:
+At two electrons per orbital, this energy level must have nine orbitals.
+The Outermost Level
+Electrons in the outermost energy level of an atom have a special significance.
+These electrons are called valence electrons, and they determine many of the properties of an atom.
+An atom is most stable if its outermost energy level contains as many electrons as it can hold.

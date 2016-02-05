@@ -1,0 +1,20 @@
+Energy is used to break bonds in reactants, and energy is released when new bonds form in products.
+Like the combustion reaction in a furnace, some chemical reactions require less energy to break bonds in reactants than is released when bonds form in products.
+These reactions, called exothermic reactions, release energy.
+In other chemical reactions, it takes more energy to break bonds in reactants than is released when bonds form in products.
+These reactions, called endothermic reactions, absorb energy.
+Conservation of Energy
+Whether a chemical reaction absorbs or releases energy, there is no overall change in the amount of energy during the reaction.
+That’s because energy cannot be created or destroyed.
+This is the law of conservation of energy .
+Energy may change form during a chemical reaction—for example, from chemical energy to heat energy when gas burns in a furnace—but the same amount of energy remains after the reaction as before.
+This is true of all chemical reactions.
+You can learn more about the law of conservation of energy at this URL:
+Q:
+If energy can’t be destroyed during a chemical reaction, what happens to the energy that is absorbed in an endothermic reaction?
+A:
+The energy is stored in the bonds of the products as chemical energy.
+In an endothermic reaction, the products have more stored chemical energy than the reactants.
+This is represented by the graph on the left in the Figure below .
+In an exothermic reaction, the opposite is true.
+The products have less stored chemical energy than the reactants.

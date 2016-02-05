@@ -1,0 +1,20 @@
+The diagram also shows the maximum possible number of electrons at each energy level.
+Electrons at lower energy levels, which are closer to the nucleus, have less energy.
+At the lowest energy level, which has the least energy, there is just one orbital, so this energy level has a maximum of two electrons.
+Only when a lower energy level is full are electrons added to the next higher energy level.
+Electrons at higher energy levels, which are farther from the nucleus, have more energy.
+They also have more orbitals and greater possible numbers of electrons.
+Electrons at the outermost energy level of an atom are called valence electrons.
+They determine many of the properties of an element.
+That’s because these electrons are involved in chemical reactions with other atoms.
+Atoms may share or transfer valence electrons.
+Shared electrons bind atoms together to form chemical compounds.
+You can see all of these ideas in action at the following URL (scroll down to the animation at the bottom of the Web page).
+Energy levels and electrons
+Q:
+If an atom has 12 electrons, how will they be distributed in energy levels?
+A:
+The atom will have two electrons at the first energy level, eight at the second energy level, and the remaining two at the third energy level.
+Q:
+Sometimes, an electron jumps from one energy level to another.
+How do you think this happens?

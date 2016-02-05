@@ -1,0 +1,20 @@
+initiation :
+The start of transcription; signaled by the transcription initiation complex formed by the promoter, transcription factors, and RNA polymerase; also refers to the start of translation.
+P site :
+Within the ribosome; contains the tRNA with the growing polypeptide chain attached.
+post-translational modification :
+Modification of a polypeptide chain after translation; extends the range of functions of the protein.
+quaternary structure :
+Final protein structure involving two or more interacting polypeptide chains.
+release factor :
+A protein that allows for the termination of translation by recognizing the termination codon or stop codon in a mRNA sequence.
+ribosome :
+A non-membrane bound organelle inside all cells; site of protein synthesis (translation).
+termination :
+The end of transcription; involves the detachment of the RNA from the DNA template; also refers to the end of translation when the ribosome comes to one of the three stop codons, for which there is no tRNA.
+transfer RNA (tRNA) :
+Type of RNA that brings amino acids to ribosomes where they are joined together to form proteins.
+translation :
+The process of synthesizing a polypeptide/protein from the information in a mRNA sequence; occurs on ribosomes.
+During translation, a protein is synthesized using the codons in mRNA as a guide.
+Translation involves the interactions of the three types of RNA: mRNA, rRNA and tRNA.

@@ -1,0 +1,20 @@
+You want to add some sections to the porch seen above.
+Before you go to the hardware store to buy lumber, you need to determine the unit composition (the material between two large uprights).
+You count how many posts, how many boards, how many rails – then you decide how many sections you want to add before you calculate the amount of building material needed for your porch expansion.
+Stoichiometry problems can be characterized by two things: (1) the information given in the problem, and (2) the information that is to be solved for, referred to as the unknown .
+The given and the unknown may both be reactants, both be products, or one may be a reactant while the other is a product.
+The amounts of the substances can be expressed in moles.
+However, in a laboratory situation, it is common to determine the amount of a substance by finding its mass in grams.
+The amount of a gaseous substance may be expressed by its volume.
+In this concept, we will focus on the type of problem where both the given and the unknown quantities are expressed in moles.
+The relationship between moles of a given and unknown substance
+Mole ratio relationship.
+Chemical equations express the amounts of reactants and products in a reaction.
+The coefficients of a balanced equation can represent either the number of molecules or the number of moles of each substance.
+The production of ammonia (NH 3 ) from nitrogen and hydrogen gases is an important industrial reaction called the Haber process, after German chemist Fritz Haber.
+\text{N}_2 (g)+3\text{H}_2 (g) \rightarrow 2\text{NH}_3 (g)
+The balanced equation can be analyzed in several ways, as shown in the Figure below .
+Representation of the reaction between nitrogen and hydrogen to form ammonia
+This representation of the production of ammonia from nitrogen and hydrogen show several ways to interpret the quantitative information of a chemical reaction.
+We see that 1 molecule of nitrogen reacts with 3 molecules of nitrogen to form 2 molecules of ammonia.
+This is the smallest possible relative amounts of the reactants and products.

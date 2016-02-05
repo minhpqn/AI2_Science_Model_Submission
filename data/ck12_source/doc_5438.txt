@@ -1,0 +1,20 @@
+gene expression :
+The process by which the information in a gene is "decoded" to produce a functional gene product, such as an RNA molecule or a polypeptide/protein molecule.
+helix-loop-helix :
+A major structural motif of proteins capable of binding DNA; characterized by two α helices connected by a loop.
+helix-turn-helix :
+A major structural motif of proteins capable of binding DNA; composed of two α helices joined by a short strand of amino acids.
+homeobox :
+A 180 base pair long highly conserved segment of DNA; encodes a 60 amino acid domain within the protein (known as the homeodomain), which can bind DNA.
+leucine-zipper :
+A major structural motif of proteins capable of binding DNA; found in certain transcription factors; uses leucine residues in an α helical structure to hold two subunits together.
+preinitiation complex :
+A large complex of proteins that is necessary for the transcription of protein-coding genes in eukaryotes; helps position RNA polymerase II; also found in archaea genes.
+promoter :
+A segment of DNA that allows a gene to be transcribed; segment where RNA polymerase binds to start transcription.
+protein kinase C (PKC) :
+A family of protein kinase enzymes that are involved in controlling the function of other proteins through serine and threonine phosphorylation; important in signal transduction.
+specificity protein 1 (Sp1) :
+A transcription factor involved in gene expression in the early development of an organism.
+TATA binding protein :
+A general transcription factor that binds specifically to the TATA box.

@@ -1,0 +1,20 @@
+Therefore, there are now four hydrogen atoms in both reactants and products.
+Q:
+Is equation 2 balanced?
+A:
+Count the oxygen atoms to find out.
+There are two oxygen atoms in the one molecule of oxygen in the reactants.
+There are also two oxygen atoms in the products, one in each of the two water molecules.
+Therefore, equation 2 is balanced.
+Steps in Balancing a Chemical Equation
+Balancing a chemical equation involves a certain amount of trial and error.
+In general, however, you should follow these steps:
+Count each type of atom in reactants and products.
+Does the same number of each atom appear on both sides of the arrow?
+If not, the equation is not balanced, and you need to go to step 2.
+Place coefficients, as needed, in front of the symbols or formulas to increase the number of atoms or molecules of the substances.
+Use the smallest coefficients possible.
+Warning!
+Never change the subscripts in chemical formulas.
+Changing subscripts changes the substances involved in the reaction.
+Change only the coefficients.

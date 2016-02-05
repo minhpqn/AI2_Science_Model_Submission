@@ -1,0 +1,20 @@
+Newton’s Third Law of Motion
+Where do forces come from?
+Observations suggest that a force applied to an object is always applied by another object.
+A hammer strikes a nail, a car pulls a trailer, and a person pushes a grocery cart.
+Newton realized that forces are not so one-sided.
+When the hammer exerts a force on the nail, the nail also exerts a force on the hammer—after all, the hammer comes to rest after the interaction.
+This led to Newton’s Third Law of Motion , which states that whenever one object exerts a force on a second object, the second object also exerts a force on the first object, equal in magnitude and opposite in direction.
+This law is sometimes paraphrased as: “For every action, there is an equal and opposite reaction.” A very important point to remember is that the two forces are on different objects—never on the same object.
+It is frequently the case that one of the objects moves as a result of the force applied but the motion of the other object in the opposite direction is not apparent.
+Consider the situation where an ice skater is standing at the edge of the skating rink holding on to the side rail.
+If the skater exerts a force on the rail, the rail is held in place with tremendous friction and therefore, will not move in any noticeable way.
+The skater, on the other hand, had little friction with the ice, and therefore will be accelerated in the direction opposite of her original push.
+This is the process people use to jump up into the air.
+The person's feet exert force on the ground and the ground exerts an equal and opposite force on the person's feet.
+The force on the feet is sufficient to raise the person off the ground.
+The force on the ground has little effect because the Earth is so large.
+One of the accelerations is visible but the other is not visible.
+A case where the reaction motion due to the reaction force is visible is the case of a person throwing a heavy object out of a small boat, such as a kayak.
+The object is accelerated in one direction and the boat is accelerated in the opposite direction.
+In this case, both the motion of the object is visible and the motion of the boat in the opposite direction is also visible.

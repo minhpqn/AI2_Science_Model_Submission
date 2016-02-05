@@ -1,0 +1,20 @@
+Energy in a body of water can be gained or lost depending on conditions.  When water is heated above a certain temperature steam is generated.  The increase in heat energy creates a higher level of disorder in the water molecules as they boil off and leave the liquid.
+Changes of State and Free Energy
+At the temperature at which a change of state occurs, the two states are in equilibrium with one another.
+For an ice-water system, equilibrium takes place at 0°C, so  \Delta G^\circ is equal to 0 at that temperature.
+The heat of fusion of water is known to be equal to 6.01 kJ/mol, and so the Gibbs free energy equation can be solved for the entropy change that occurs during the melting of ice.
+The symbol \Delta S_{\text{fus}} represents the entropy change during the melting process, while  T_{\text{f}} is the freezing point of water.
+\Delta G & = 0 = \Delta H - T \Delta S\\\Delta S_{\text{fus}} & = \frac{\Delta H_{\text{fus}}}{T_{\text{f}}} = \frac{6.01 \text{ kJ/mol}}{273 \text{ K}} = 0.0220 \text{ kJ/K} \cdot \text{mol} = 22.0 \text{ J/K} \cdot \text{mol}
+The entropy change is positive as the solid state changes into the liquid state.
+If the transition went from the liquid to the solid state, the numerical value for  \Delta S would be the same, but the sign would be reversed since we are going from a less ordered to a more ordered situation.
+A similar calculation can be performed for the vaporization of liquid to gas.
+In this case we would use the molar heat of vaporization.
+This value would be 40.79 kJ/mol.
+The  \Delta S_{\text{vap}} would then be as follows:
+\Delta S = \frac{40.79 \text{ kJ/mol}}{373 \text{ K}} = 0.1094 \text{ kJ/K} \cdot \text{mol} = 109.4 \text{ J/K} \cdot \text{mol}
+The value is positive, again reflecting the increase in disorder going from liquid to vapor.
+Condensation from vapor to liquid would give a negative value for \Delta S .
+Calculations are shown for determining entropy changes at transition temperatures (ice → water or water → vapor and reverse).
+Read the material on the link below and answer the following questions:
+Is the transfer of heat reversible or irreversible at the transition temperature?
+If the phase transition is exothermic, is the entropy change positive or negative?

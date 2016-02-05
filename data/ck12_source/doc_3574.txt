@@ -1,0 +1,20 @@
+In the Calvin cycle, NADPH and ATP formed in the light reactions lose their stored chemical energy to build glucose.
+Use the Figure below to identify the major aspects of the process:
+the general cycle pattern
+the major reactants
+Mechanism of the Calvin Cycle
+Overview of the Calvin Cycle Pathway.
+First, notice where carbon is fixed by the enzyme nicknamed RuBisCo.
+In C 3 , C 4 , and CAM plants, CO 2 enters the cycle by joining with 5-carbon ribulose bisphosphate to form a 6-carbon intermediate, which splits (so quickly that it isn’t even shown!) into two 3-carbon molecules.
+Now look for the points at which ATP and NADPH (made in the light reactions) add chemical energy (“Reduction” in the diagram) to the 3-carbon molecules.
+The resulting “half-sugars” can enter several different metabolic pathways.
+One recreates the original 5-carbon precursor, completing the cycle.
+A second combines two of the 3-carbon molecules to form glucose, universal fuel for life.
+The cycle begins and ends with the same molecule, but the process combines carbon and energy to build carbohydrates – food for life.
+So, how does photosynthesis store energy in sugar?
+Six “turns” of the Calvin cycle use chemical energy from ATP to combine six carbon atoms from six CO 2 molecules with 12 “hot hydrogens” from NADPH.
+The result is one molecule of glucose, C 6 H 12 O 6 .
+The reactions of the Calvin cycle add carbon (from carbon dioxide in the atmosphere) to a simple five-carbon molecule called RuBP.
+These reactions use chemical energy from NADPH and ATP that were produced in the light reactions.
+The final product of the Calvin cycle is glucose.
+Use this resource to answer the questions that follow.

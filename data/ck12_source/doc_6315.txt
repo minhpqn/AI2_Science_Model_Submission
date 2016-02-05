@@ -1,0 +1,20 @@
+It consists of two bimolecular elementary steps.
+Step 1: \text{H}_2 \text{O}_2(aq)+\text{I}^-(aq) \rightarrow \text{H}_2\text{O}(l)+ \text{IO}^-(aq)
+Step 2: \text{H}_2 \text{O}_2(aq)+\text{IO}^-(aq) \rightarrow \text{H}_2 \text{O}(l)+ \text{O}_2 + \text{I}^-( aq)
+If step 1 is the rate-determining step, then the rate law for that step will be the rate law for the overall reaction.
+The rate law for the slow step of the proposed mechanism agrees with the overall experimentally determined rate law.
+The IO − is present as an intermediate in the reaction.
+The iodide ion catalyst also appears in the mechanism.
+It is consumed in the first elementary step and then is regenerated in the second step.
+That is the requirement for a catalyst – that is that it is not used up in the reaction.
+The rate-determining step in a reaction is defined.
+The process for determining the rate-determining step is described.
+Read the material at the link below and work the practice problem:
+What is the rate-limiting step in a reaction?
+Can we determine the rate-limiting step simply by looking at the reaction mechanism?
+In the hydrogen peroxide example above, why was step 1 determined to be the rate-limiting step?
+rate-determining step:
+The slowest step in the sequence of steps in a reaction mechanism.
+Mechanisms and Potential Energy Diagrams
+Draw and label a potential energy diagram for a two-step reaction.
+Describe the use of a potential energy diagram for identifying the rate-limiting step in a multi-step reaction.

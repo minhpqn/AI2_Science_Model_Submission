@@ -1,0 +1,20 @@
+What was Avogadro’s hypothesis?
+Who first calculated this number?
+Who coined the term “Avogadro’s number”?
+What contribution did Robert Millikan make to the determination for the value for the number?
+What is the SI unit for amount of a substance?
+What is the representative particle for an element?
+The formula unit is the representative particle for what?
+Avogadro’s number:
+The number of representative particles in a mole, 6.02 × 10 23 .
+mole (mol):
+The amount of a substance that contains 6.02 × 10 23 representative particles of that substance.
+representative particle :
+The smallest unit in which a substance naturally exists.
+Conversions Between Moles and Atoms
+Perform calculations involving conversions between number of moles and number of atoms or molecules.
+Using moles allows us to avoid superscripts and subscripts
+Big numbers or little numbers?
+Do you hate to type subscripts and superscripts?
+Even with a good word-processing program, having to click on an icon to get a superscript and then remembering to click off after you type the number can be a real hassle.  If we did not know about moles and just knew about numbers of atoms or molecules (those big numbers that require lots of superscripts), life would be much more complicated and we would make many more typing errors.
+Conversions Between Moles and Atoms

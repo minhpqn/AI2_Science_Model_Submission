@@ -1,0 +1,20 @@
+Substitute the values for the rectangle’s length and width into the formula for area:
+Area = 9 cm × 5 cm = 45 cm 2
+Q:
+Can you use this formula to find the area of a square surface?
+A:
+Yes, you can.
+A square has four sides that are all the same length, so you would substitute the same value for both length and width in the formula for the area of a rectangle.
+The volume of a solid object is how much space it takes up.
+It’s easy to calculate the volume of a solid if it has a simple, regular shape, such as the rectangular solid pictured in the sketch below.
+To find the volume of a rectangular solid, use this formula:
+Volume (rectangular solid) = length × width × height (l × w × h)
+Q:
+What is the volume of the blue rectangular solid?
+A:
+Substitute the values for the rectangular solid’s length, width, and height into the formula for volume:
+Volume = 10 cm × 3 cm × 5 cm = 150 cm 3
+Density is a quantity that expresses how much matter is packed into a given space.
+The amount of matter is its mass, and the space it takes up is its volume.
+To calculate the density of an object, then, you would use this formula:
+\text{Density} = \dfrac{\text{mass}}{\text{volume}}

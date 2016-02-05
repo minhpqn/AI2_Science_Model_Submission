@@ -1,0 +1,20 @@
+One coil is called the primary coil and the other is called the secondary coil.
+The varying magnetic field induces a varying EMF in the secondary coil.
+The EMF induced in the secondary coil is called the secondary voltage and is proportional to the primary voltage.
+The secondary voltage also depends on the ratio of turns on the secondary coil to turns on the primary coil.
+\frac{\text{secondary voltage}}{\text{primary voltage}}=\frac{\text{number of turns on secondary}}{\text{number of turns on primary}}
+Click on the image above for more content
+Follow up questions:
+What type of transformer is used at the power station where the electric power is generated?
+What type of transformer is used at power sub-stations?
+What type of transformer is used inside cell phone chargers?
+A step-down transformer has 7500 turns on its primary and 125 turns on its secondary.
+The voltage across the primary is 7200 V.
+What is the voltage across the secondary?
+The current in the secondary is 36 A.
+What current flows in the primary?
+The secondary of a step-down transformer has 500 turns.
+The primary has 15,000 turns.
+The EMF of the primary is 3600 V.
+What is the EMF of the secondary?
+The current in the primary is 3.0 A.

@@ -1,0 +1,20 @@
+Since vaporization and condensation of a given substance are the exact opposite processes, the numerical value of the molar heat of vaporization is the same as the numerical value of the molar heat of condensation, but opposite in sign.
+In other words, \Delta H_{\text{vap}} = - \Delta H_{\text{cond}} .
+When 1 mol of water at 100°C and 1 atm pressure is converted to 1 mol of water vapor at 100°C, 40.7 kJ of heat are absorbed from the surroundings.
+When 1 mol of water vapor at 100°C condenses to liquid water at 100°C, 40.7 kJ of heat are released into the surroundings.
+& \text{H}_2\text{O}(l) \rightarrow \text{H}_2\text{O}(g) \qquad \Delta H_{\text{fus}}=40.7 \text{ kJ/mol} \\& \text{H}_2\text{O}(g) \rightarrow \text{H}_2\text{O}(l) \qquad \Delta H_{\text{solid}}=- 40.7 \text{ kJ/mol} \\
+Other substances have different values for their molar heats of fusion and vaporization and these are summarized in the Table below .
+Molar Heats of Fusion and Vaporization
+\Delta H_{\text{fus}} (kJ/mol)
+\Delta H_{\text{vap}} (kJ/mol)
+Ammonia (NH 3 )
+Ethanol (C 2 H 5 OH)
+Methanol (CH 3 OH)
+Oxygen (O 2 )
+Water (H 2 O)
+Notice that for all substances, the heat of vaporization is substantially higher than the heat of fusion.
+Much more energy is required to change the state from a liquid to a gas than from a solid to a liquid.
+This is because of the large separation of the particles in the gas state.
+The values of the heats of fusion and vaporization are related to the strength of the intermolecular forces.
+All of the substances in the Table above , with the exception of oxygen, are capable of hydrogen bonding.
+Consequently, the heats of fusion and vaporization of oxygen are far lower than the others.

@@ -1,0 +1,20 @@
+If the break-dancer lies down on the ground on his back, his weight is spread over an area of 0.75 m 2 .
+How much pressure does he exert on the ground in this position?
+A :
+On his back, the pressure he exerts is:
+\text{Pressure}=\frac{800 \ \text{N}}{0.75 \ \text{m}^2}=1100 \ \text{Pa, or } 1.1 \ \text{kPa}
+Factors That Affect Fluid Pressure
+Two factors influence the pressure of fluids.
+They are the depth of the fluid and its density.
+A fluid exerts more pressure at greater depths.
+Deeper in a fluid, all of the fluid above it results in more weight pressing down.
+This causes greater pressure the deeper you go.
+You can watch a video demonstration of depth and fluid pressure at this URL:
+Click on the image above for more content
+Denser fluids such as water exert more pressure than less dense fluids such as air.
+The particles of denser fluids are closer together, so there are more collisions of particles in a given area.
+The difference in density of water and air is illustrated in the Figure below .
+Particles of different densities exert different amounts of pressure
+All fluids exert pressure because their particles are constantly moving and bumping into things.
+Pressure is defined as the amount of force acting on a given area.
+It measures how concentrated a force is.

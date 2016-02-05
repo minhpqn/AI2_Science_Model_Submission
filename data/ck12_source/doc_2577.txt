@@ -1,0 +1,20 @@
+As a result, they may be attracted as much or more by the nucleus of another atom than they are by their own nucleus.
+Electron Dot Diagrams
+Because valence electrons are so important, atoms are often represented by simple diagrams that show only their valence electrons.
+These are called electron dot diagrams, and three are shown below.
+In this type of diagram, an element's chemical symbol is surrounded by dots that represent the valence electrons.
+Typically, the dots are drawn as if there is a square surrounding the element symbol with up to two dots per side.
+An element never has more than eight valence electrons, so there can’t be more than eight dots per atom.
+Q:
+Carbon (C) has four valence electrons.
+What does an electron dot diagram for this element look like?
+A:
+An electron dot diagram for carbon looks like this:
+Valence Electrons and the Periodic Table
+The number of valence electrons in an atom is reflected by its position in the periodic table of the elements (see the periodic table in the Figure below ).
+Across each row, or period, of the periodic table, the number of valence electrons in groups 1–2 and 13–18 increases by one from one element to the next.
+Within each column, or group, of the table, all the elements have the same number of valence electrons.
+This explains why all the elements in the same group have very similar chemical properties.
+The periodic table
+For elements in groups 1–2 and 13–18, the number of valence electrons is easy to tell directly from the periodic table.
+This is illustrated in the simplified periodic table in the Figure below .

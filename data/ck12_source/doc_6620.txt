@@ -1,0 +1,20 @@
+Even with only four different bases, the number of possible nucleotide sequences in a DNA chain is virtually limitless.
+The particular DNA sequence of a particular organism constitutes the genetic blueprint for that organism.  This genetic blueprint is found in the nucleus of each cell of the organism and is passed on from parents to offspring.
+The incredible diversity of life on Earth stems from the differences in the genetic code of every living thing.
+A gene is defined.
+The genetic code is described.
+Read the material at the link below and answer the following questions:
+What did Marshall Nirenberg do?
+When did he first report his results?
+What did he win for his discovery?
+What is a gene?
+What does the genetic code do?
+What is the nucleotide code for phenylalanine?
+gene:
+A segment of DNA that carries a code for making a specific polypeptide chain.
+genetic code:
+The three-base set of nucleotides that specifies a particular amino acid in a protein sequence.
+Describe the sequence of processes that take place in protein synthesis.
+Photograph of an assembly line
+A Very Organized Process
+The assembly line is an American invention that was developed around 1901 to mass-produce cars.

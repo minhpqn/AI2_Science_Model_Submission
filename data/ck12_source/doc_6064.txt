@@ -1,0 +1,20 @@
+X-ray diffraction can be used to precisely measure the size of small atoms
+How can we measure size of atoms?
+We have many data tables available to us in chemistry.
+If we wanted to know the size of the lithium atom, we can easily look it up and find that this atom is 134 picometers across.
+If we remove the outer electron, the lithium ion is now only 90 picometers in size.
+How do we know this?
+We don’t have a ruler small enough to measure these tiny distances.
+But we can use a technique called x-ray diffraction to shine beams of x-rays through a crystal of a lithium compound.
+By measuring how much the beams are bent after they come through the crystal, we can calculate the size of the molecule.
+This technique works both for small materials like lithium compounds and equally well for very large protein molecules.
+A unit cell is the smallest portion of a crystal lattice that shows the three-dimensional pattern of the entire crystal.
+A crystal can be thought of as the same unit cell repeated over and over in three dimensions.
+The Figure below illustrates the relationship of a unit cell to the entire crystal lattice.
+A unit cell is the basic subunit of a crystal lattice
+A unit cell is the smallest repeating portion of a crystal lattice.
+Unit cells occur in many different varieties.
+As one example, the cubic crystal system is composed of three different types of unit cells: (1) simple cubic , (2) face-centered cubic , and (3) body-centered cubic .
+These are shown in three different ways in the Figure below .
+Crystals with the same shape can be composed of various unit cells
+Three unit cells of the cubic crystal system.

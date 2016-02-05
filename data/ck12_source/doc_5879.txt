@@ -1,0 +1,20 @@
+& \text{Fe} \quad \qquad \rightarrow \quad \text{Fe}^{2+} \quad + \quad 2\text{e}^-\\& [\text{Ar}]3d^64s^2 \quad \quad \ [\text{Ar}]3d^6\\& \text{Fe} \quad \qquad \rightarrow \quad \text{Fe}^{3+} \quad + \quad 3\text{e}^-\\& [\text{Ar}]3d^64s^2 \quad \quad \ [\text{Ar}]3d^5
+According to the Aufbau process, the electrons fill the 4 s sublevel before beginning to fill the 3 d sublevel.  However, the outermost s electrons are always the first to be removed in the process of forming transition metal cations.  Because most transition metals have two valence electrons, the charge of 2+ is a very common one for their ions.  This is the case for iron above.  A half-filled d sublevel ( d 5 ) is particularly stable, which is the result of an iron atom losing a third electron.
+Picture of rust, iron oxide, as well as iron sulfate
+A.
+Rust is a complex combination of oxides of iron(III), among them iron(III) oxide, Fe 2 O 3 .
+B.
+Iron(II) sulfate, FeSO 4 , has been known since ancient times as green vitriol and was used for centuries in the manufacture of inks.
+Some transition metals that have relatively few d electrons may attain a noble-gas electron configuration.  Scandium is an example.
+& \text{Sc} \quad \quad \rightarrow \qquad \text{Sc}^{3+} \quad + \quad 3\text{e}^-\\& [\text{Ar}]3d^14s^2 \qquad [\text{Ar}]
+Others may attain configurations with a full d sublevel, such as zinc and copper.
+& \text{Zn} \quad \quad \rightarrow \qquad \text{Zn}^{2+} \quad + \quad 2\text{e}^-\\& [\text{Ar}]3d^{10}4s^2 \qquad [\text{Ar}]3d^{10}\\& \text{Cu} \quad \quad \rightarrow \qquad \text{Cu}^+ \quad + \quad \text{e}^-\\& [\text{Ar}]3d^{10}4s^1 \qquad [\text{Ar}]3d^{10}
+The resulting configuration above, with 18 electrons in the outermost principal energy level, is referred to as a pseudo noble-gas electron configuration .  It gives particular stability to the Zn 2+ and Cu + ions.
+Transition metal ion formation is more complex than simple cation formation.
+Transition metal ions often involve rearrangements of both d and s electrons.
+Answer the question on the link below:
+What block do the transition metals fall in?
+Which sublevel is filled first?
+Which sublevel loses electrons first?
+What is the pseudo noble-gas electron configuration?
+pseudo noble-gas electron configuration:  18 electrons in the outermost principal energy level.

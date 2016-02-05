@@ -1,0 +1,20 @@
+How does an electroscope work?
+An electroscope is a device used to study charge.  When a positively charged object (the rod) nears the upper post, electrons flow to the top of the jar leaving the two gold leaves postivley charged.
+The leaves repel each other since both hold postive, like charges.
+The VSEPR theory says that electron pairs, also a set of like charges, will repel each other such that the shape of the molecule will adjust so that the valence electron-pairs stay as far apart from each other as possible.
+Central Atom with No Lone Pairs
+In order to easily understand the types of molecules possible, we will use a simple system to identify the parts of any molecule.
+A = central atom in a molecule
+B = atoms surrounding the central atom
+Subscripts after the B will denote the number of B atoms that are bonded to the central A atom.  For example, AB 4 is a molecule with a central atom surrounded by four covalently bonded atoms.  Again, it does not matter if those bonds are single, double, or triple bonds.
+AB 2 :
+Beryllium hydride (BeH 2 )
+Beryllium hydride consists of a central beryllium atom with two single bonds to hydrogen atoms.  Recall that it violates the octet rule.
+According to the requirement that electron pairs maximize their distance from one another, the two bonding pairs in the BeH 2 molecules will arrange themselves on directly opposite sides of the central Be atom.  The resulting geometry is a linear molecule, shown in the Figure below in a “ball and stick” model.
+Model of beryllium hydride, which is linear
+Beryllium hydride model.
+The bond angle from H-Be-H is 180° because of its linear geometry.
+Carbon dioxide is another example of a molecule which falls under the AB 2 category.  Its Lewis structure consists of double bonds between the central carbon and the oxygen atoms (see Figure below ).
+Structure of carbon dioxide, which is linear
+Carbon dioxide bonding.
+The repulsion between the two groups of four electrons (two pairs) is no different than the repulsion of the two groups of two electrons (one pair) in the BeH 2 molecule.  Carbon dioxide is also linear (see Figure below ).

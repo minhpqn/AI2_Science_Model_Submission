@@ -1,0 +1,20 @@
+The cells of a multicellular organism also perform these functions, but they may do so in collaboration with other cells.
+Cells are essentially carbohydrates, lipids, proteins and nucleic acids in a water-based environment.
+It is the lipid (phospholipid) membrane that keeps the water-based environment in the cell separate from the water-based environment outside the cell.
+But a cell, even the single cell of a unicellular organism, must be able to interact with its external environment.
+The cell must be able to bring molecules in from the outside, and expel unwanted waste products.
+Knowing the components of cells and how cells work is necessary to all of the biological sciences.
+Learning about the similarities and differences between cell types is particularly important to the fields of cell biology and molecular biology.
+Cell biology is the field of biology that studies cells.
+In particular, cell biologists study a cell's physiological properties, structure, organelles , interactions with the extracellular environment, life cycle, division and death.
+Molecular biology concerns itself with understanding the interactions between the various systems of a cell, including the relationships between DNA, RNA and proteins.
+Research in cell biology is closely linked to molecular biology, as well as genetics, biochemistry and developmental biology.
+The importance of the similarities and differences between cell types is a unifying theme in biology.
+They allow the principles learned from studying one cell type to be applied when learning about other cell types.
+For example, learning about how single-celled bacteria function can help us understand more about how human cells function.
+Understanding basic cellular processes, such as cell division or metabolism in bacteria, gives information about similar processes in our cells.
+cell :
+The basic unit of structure and function of all living organisms.
+cell biology :
+The field of biology that studies cells.
+molecular biology :

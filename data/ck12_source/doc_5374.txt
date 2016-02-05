@@ -1,0 +1,20 @@
+The entire ribosome complex moves along the mRNA, sending the first tRNA into the E site and the tRNA with the growing polypeptide into the P site.
+The A site is now empty and ready to accept another tRNA.
+The first tRNA now leaves the ribosome.
+The A site accepts a tRNA with an attached amino acid, a peptide bond forms between the two adjacent amino acids, and the process continues.
+Termination of translation occurs when the ribosome comes to one of the three stop codons, for which there is no tRNA.
+At this point, a protein called a release factor binds to the A site.
+The release factor causes the addition of a water molecule to the polypeptide chain, resulting in the release of the completed chain from the tRNA and ribosome.
+The ribosome, release factor, and tRNAs then dissociate and translation is complete.
+The process of translation is summarized in Figure below .
+Summary of translation.
+Notice the mRNA segment within the ribosome.
+A tRNA anticodon binds to the appropriate codon, bringing the corresponding amino acid into the ribosome where it can be added to the growing polypeptide chain.
+Post-Translational Modification and Protein Folding
+The events following protein synthesis often include post-translational modification of the peptide chain and folding of the protein into its functional conformation.
+During and after synthesis, polypeptide chains often fold into secondary and then tertiary structures.
+These levels of organization were discussed in the Organic Compounds:
+Proteins (Advanced) concept.
+Briefly, the primary structure of the protein is the sequence of amino acids determined by the gene and mRNA.
+The secondary and tertiary structures are determined by interactions between the amino acids within the polypeptide ( Figure below ).
+Many proteins undergo post-translational modification, allowing them to then perform their specific function.

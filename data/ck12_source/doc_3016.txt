@@ -1,0 +1,20 @@
+It is defined as the force needed to cause a 1-kilogram mass to accelerate at 1 m/s 2 .
+Therefore, force can also be expressed in the unit kg • m/s 2 .
+This way of expressing force can be substituted for Newtons in Xander’s acceleration so the answer is expressed in the SI unit for acceleration, which is m/s 2 :
+\text{a}=\frac{0.5 \ \text{N}}{\text{kg}}=\frac{0.5 \ \text{kg}\cdot\text{m/s}^2}{\text{kg}}=0.5 \ \text{m/s}^2
+Q :
+Why are there no kilograms in the final answer to this problem?
+A :
+The kilogram units in the numerator and denominator of the fraction cancel out.
+As a result, the answer is expressed in the correct SI units for acceleration.
+It’s often easier to measure the mass and acceleration of an object than the net force acting on it.
+Mass can be measured with a balance, and average acceleration can be calculated from velocity and time.
+However, net force may be a combination of many unseen forces, such as gravity, friction with surfaces, and air resistance.
+Therefore, it may be more useful to know how to calculate the net force acting on an object from its mass and acceleration.
+The equation for acceleration above can be rewritten to solve for net force as:
+Net Force = Mass × Acceleration, or
+F = m × a
+Look at Xander in the Figure below .
+He’s riding his scooter down a ramp.
+Assume that his acceleration is 0.8 m/s 2 .
+How much force does it take for him to accelerate at this rate?

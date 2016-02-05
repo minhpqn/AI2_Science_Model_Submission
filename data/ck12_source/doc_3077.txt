@@ -1,0 +1,20 @@
+Because all machines must overcome some friction, the ideal mechanical advantage is always somewhat greater than the actual mechanical advantage of the machine as it is used in the real world.
+Q :
+Which class of lever is a hammer when it is used to pry a nail out of a board?
+What is its mechanical advantage?
+A :
+To pry a nail out of a board, the fulcrum is located between the input and output forces.
+Therefore, when a hammer is used in this way it is a first class lever.
+The fulcrum is closer to the output force than the input force, so the mechanical advantage is > 1.
+In other words, the hammer increases the force applied to it, making it easier to pry the nail out of the board.
+Comparing Classes of Levers
+All three classes of levers make work easier, but they do so in different ways.
+When the input and output forces are on opposite sides of the fulcrum, the lever changes the direction of the applied force.
+This occurs only with first-class levers.
+When both the input and output forces are on the same side of the fulcrum, the direction of the applied force does not change.
+This occurs with both second-class and third-class levers.
+When the input force is applied farther from the fulcrum than the output force is, the output force is greater than the input force, and the ideal mechanical advantage is greater than 1.
+This always occurs with second-class levers and may occur with first-class levers.
+When the input force is applied closer to the fulcrum than the output force is, the output force is less than the input force, and the ideal mechanical advantage is less than 1.
+This always occurs with third-class levers and may occur with first-class levers.
+When the input and output forces are the same distance from the fulcrum, the output force equals the input force, and the ideal mechanical advantage is 1.

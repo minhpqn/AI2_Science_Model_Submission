@@ -1,0 +1,20 @@
+Phase diagram for water.
+Notice one key difference between the general phase diagram and the phase diagram for water.
+In water’s diagram, the slope of the line between the solid and liquid states is negative rather than positive.
+The reason is that water is an unusual substance in that its solid state is less dense than the liquid state.
+Ice floats in liquid water.
+Therefore, a pressure change has the opposite effect on those two phases.
+If ice is relatively near its melting point, it can be changed into liquid water by the application of pressure.
+The water molecules are actually closer together in the liquid phase than they are in the solid phase.
+Refer again to water’s phase diagram ( Figure above ).
+Notice point E, labeled the critical point .
+What does that mean?
+At 373.99°C, particles of water in the gas phase are moving very, very rapidly.
+At any temperature higher than that, the gas phase cannot be made to liquefy, no matter how much pressure is applied to the gas.
+The critical pressure (P c ) is the pressure that must be applied to the gas at the critical temperature in order to turn it into a liquid.
+For water, the critical pressure is very high, 217.75 atm.
+The critical point is the intersection point of the critical temperature and the critical pressure.
+Solid water is less dense than liquid water just above the freezing point.
+The critical temperature (T c ) of a substance is the highest temperature at which the substance can possibly exist as a liquid.
+The critical pressure (P c ) is the pressure that must be applied to the gas at the critical temperature in order to turn it into a liquid.
+The critical point is the intersection point of the critical temperature and the critical pressure.

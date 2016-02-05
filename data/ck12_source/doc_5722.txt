@@ -1,0 +1,20 @@
+Computer files simplify data, like electron configuration data
+How big is a file?
+If you keep your papers in manila folders, you can pick up a folder and see how much it weighs.
+If you want to know how many different papers (articles, bank records, or whatever else you keep in a folder), you have to take everything out and count.
+A computer directory, on the other hand, tells you exactly how much you have in each file.
+We can get the same information on atoms.
+If we use an orbital filling diagram, we have to count arrows.
+When we look at electron configuration data, we simply add up the numbers.
+Electron configuration notation eliminates the boxes and arrows of orbital filling diagrams.
+Each occupied sublevel designation is written followed by a superscript that is the number of electrons in that sublevel.
+For example, the hydrogen configuration is 1 s 1 , while the helium configuration is 1 s 2 .
+Multiple occupied sublevels are written one after another.
+The electron configuration of lithium is 1 s 2 2 s 1 .
+The sum of the superscripts in an electron configuration is equal to the number of electrons in that atom, which is in turn equal to its atomic number.
+Sample Problem:
+Orbital Filling Diagrams and Electron Configurations
+Draw the orbital filling diagram for carbon and write its electron configuration.
+Step 1:
+List the known quantities and plan the problem.
+atomic number of carbon, Z = 6

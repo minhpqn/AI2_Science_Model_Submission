@@ -1,0 +1,20 @@
+Volume can be determined by knowing the length of each side of the item.
+Read the section of length and volume in the link below and answer the following questions:
+Systems of Measurement at
+What are some units of length and volume in the metric system?
+How long is a meter in English units?
+How many cm are in an inch?
+How many miles is a 10km race?
+What is the difference between a cubic centimeter and a milliliter?
+An object measures 6.2 \ cm \times 13.7 \ cm \times 26.9 \ cm .
+Which value is the length of the object?
+How big is a mL?
+length:
+The measurement of the extent of something along its greatest dimension
+meter:
+The SI basic unit of length, or linear measure
+volume:
+The amount of space occupied by a sample of matter.
+The volume of a regular object can be calculated by multiplying its length by its width by its height.
+Since each of those is a linear measurement, we say that units of volume are derived from units of length
+SI Mass and Weight Units

@@ -1,0 +1,20 @@
+This goalie's main job is to block the puck from getting into the net.
+Is it possible for one gene to block another?
+With genes, almost anything seems possible.
+Under the right conditions, one gene may inhibit another gene.
+That's how some people end up with red hair.
+And it's called epistasis.
+Traits controlled by more than two alleles have multiple alleles .
+Although any one person usually has only two alleles for a gene, more than two alleles can exist in the population's gene pool .
+Theoretically, any base change will result in a new allele.
+In fact, within the human population, it may be safe to say that most human genes have more than two alleles.
+Whereas, we think of base changes, or mutations, as resulting in a new phenotype or disease, many base changes result in alleles that do not cause significant change in phenotypes.
+This is common in collagen genes, for example.
+Type I and type II collagen are fibrillar proteins composed of a triple helix.
+As these are structural proteins found in bone and cartilage, a triple helix adds strength to the matrix with these proteins.
+To form a triple helix structure, a glycine residue must be placed at every third amino acid within the fibrillar segment of the protein.
+The fibrillar portion of the protein is composed of Gly-X-Y motif, where X and Y represent two additional amino acids.
+As glycine is encoded by four codons:
+GGG, GGC, GGA, GGU, any change of sequence in the third position of the codon will not have an effect on the protein structure.
+Furthermore some changes in the X and Y positions of the Gly-X-Y motif may not cause significant phenotypic changes.
+However, other changes may have significant, even lethal consequences.

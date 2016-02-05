@@ -1,0 +1,20 @@
+Q:
+If a different hair dryer is plugged into a 120-volt circuit that carries 10 amps of current.
+What is the power of the other hair dryer?
+A:
+Substitute these values in the power equation:
+Power = 10 amps × 120 volts = 1200 watts, or 1.2 kilowatts
+Electrical Energy Use
+Did you ever wonder how much electrical energy it takes to use an appliance such as a hair dryer?
+Electrical energy use depends on the power of the appliance and how long it is used.
+It can be calculated with this equation:
+Electrical Energy = Power × Time
+If Miranda uses her 1.8-kilowatt hair dryer for 0.2 hours, how much electrical energy does she use?
+Electrical Energy = 1.8 kilowatts × 0.2 hours = 0.36 kilowatt-hours
+Electrical energy use is typically expressed in kilowatt-hours, as in this example.
+How much energy is this?
+One kilowatt-hour equals 3.6 million joules of energy.
+Q:
+Suppose Miranda were to use a 1.2-kilowatt hair dryer for 0.2 hours.
+How much electrical energy would she use then?
+A:

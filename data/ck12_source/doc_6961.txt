@@ -1,0 +1,14 @@
+The induced current will need to create a magnetic field that is also pointed into the table through the loop to oppose this change in flux.
+Again, we use the second right hand rule to find that the current must go in the CW direction.
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+Generator (PhET Simulation)
+How is electrical energy produced in a dam using a hydroelectric generator?
+Explain in a short essay involving as many different ideas from physics as you need.
+When building a generator why not make it with almost infinite number of wire loops, since the emf is proportional to N the number of loops?
+What is the trade off, so to speak.
+Explain how a motor works.
+Explain in your own words why the generator in example 1 spins the same direction upon discharge.
+Answers to Selected Problems
+These lessons cover magnetic fields, magnetic forces and electromagnetic induction.

@@ -1,0 +1,20 @@
+Solve.
+First, calculate the number of moles of Ag and S present:
+50.0 \text{ g Ag} \times \frac{1 \text{ mol Ag}}{107.87 \text{ g Ag}} &= 0.464 \text{ mol Ag}\\10.0 \text{ g S} \times \frac{1 \text{ mol S}}{32.07 \text{ g S}} &= 0.312 \text{ mol S}
+Second, find the moles of S that would be required to react with all of the given Ag:
+0.464 \text{ mol Ag} \times \frac{1 \text{ mol S}}{2 \text{ mol Ag}}=0.232 \text{ mol S} \ (\text{required})
+The amount of S actually present is 0.312 moles.
+The amount of S that is required to fully react with all of the Ag is 0.232 moles.
+Since there is more sulfur present than what is required to react, the sulfur is the excess reactant.
+Therefore, silver is the limiting reactant.
+Step 3:
+Think about your result.
+The balanced equation indicates that the necessary mole ratio of Ag to S is 2:1.
+Since there were not twice as many moles of Ag present in the original amounts, that makes silver the limiting reactant.
+There is a very important point to consider about the preceding problem.
+Even though the mass of silver present in the reaction (50.0 g) was greater than the mass of sulfur (10.0 g), silver was the limiting reactant.
+This is because chemists must always convert to molar quantities and consider the mole ratio from the balanced chemical equation.
+There is one other thing that we would like to be able to determine in a limiting reactant problem - the quantity of the excess reactant that will be left over after the reaction is complete.
+We will go back to the sample problem above to answer this question.
+Sample Problem:
+Determining the Amount of Excess Reactant Left Over

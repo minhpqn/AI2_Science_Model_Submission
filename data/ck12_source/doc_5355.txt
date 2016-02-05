@@ -1,0 +1,20 @@
+During this time the transcriptional process is unstable.
+There is a tendency for the complex to release the RNA transcript and produce truncated unstable messages.
+This is called abortive initiation and is common for both eukaryotes and prokaryotes.
+This process can continue until the the transcription elongation complex is formed.
+Once the newly synthesized mRNA transcript reaches approximately 23 nucleotides long, abortive initiation is no longer and issue and elongation will continue until termination.
+This, like most of the remainder of transcription, is an energy-dependent process, consuming ATP.
+Transcription elongation involves the further addition of RNA nucleotides and the change to a transcriptional complex.
+As the RNA transcript is assembled, DNA in front of RNA polymerase unwinds by breaking the hydrogen bonds between the bases, and transcription continues.
+As transcription progresses, RNA nucleotides are added to the 3' end of the growing RNA transcript.
+The DNA template (non-coding) strand is read in the 3' → 5' direction, so the complementary RNA stand in created in the 5' → 3' direction.
+This produces an RNA molecule from 5' → 3', an exact copy of genetic instructions in the DNA coding strand.
+Of course the newly made RNA is composed of RNA nucleotides with uracil bases and ribose sugars.
+The transcriptional complex has a short DNA-RNA hybrid, an 8 base-pair stretch in which the newly made RNA is temporarily hydrogen bonded to the DNA template strand.
+Once the hydrogen bonds are broken, the RNA is released from the DNA transcription complex.
+Unlike DNA replication, mRNA transcription can involve multiple RNA polymerases, allowing numerous mRNAs to be produced from a single copy of the gene.
+This step also involves a proofreading mechanism that can replace an incorrectly added RNA nucleotide.
+Elongation.
+As RNA polymerase reads the template strand, the mRNA is synthesized.
+Notice that a few of the RNA nucleotides are temporarily hydrogen bonded to the DNA nucleotides.
+The termination of transcription in prokaryotes and eukaryotes is very different.

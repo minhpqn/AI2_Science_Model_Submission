@@ -1,0 +1,20 @@
+Momentum and Impulse
+Given mass and velocity of an object, calculate momentum.
+Calculate the change in momentum of an object.
+State the relationship that exists between the change in momentum and impulse.
+Using the momentum-impulse theorem and given three of the four variables, calculate the fourth.
+A spinning ice skater conserves angular momentum
+Rachel Flatt performs a layback spin at the 2 011 Rostelecom Cup in Moscow, Russia.
+When an ice skater spins, angular momentum must be conserved.
+When her arms or feet are far away from her body, her spin slows; when she brings her arms and feet close in to her body, she spins faster.
+Momentum and Impulse
+If a bowling ball and a ping-pong ball are each moving with a velocity of 5 mph, you intuitively understand that it will require more effort to stop the bowling ball than the ping pong ball because of the greater mass of the bowling ball.  Similarly, if you have two bowling balls, one moving at 5 mph and the other moving at 10 mph, you know it will take more effort to stop the ball with the greater speed.
+It is clear that both the mass and the velocity of a moving object contribute to what is necessary to change the motion of the moving object.
+The product of the mass and velocity of an object is called its  momentum .  Momentum is a vector quantity that has the same direction as the velocity of the object and is represented by a lowercase letter p .
+p = mv
+The momentum of a 0.500 kg ball moving with a velocity of 15.0 m/s will be
+p=mv=(0.500 \ \text{kg})(15.0 \ \text{m/s})=7.50 \ \text{kg} \cdot \text{m/s}
+You should note that the units for momentum are kg·m/s.
+According to Newton’s first law, the velocity of an object cannot change unless a force is applied.
+If we wish to change the momentum of a body, we must apply a force.
+The longer the force is applied, the greater the change in momentum.

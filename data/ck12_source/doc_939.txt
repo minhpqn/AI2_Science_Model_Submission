@@ -1,0 +1,20 @@
+Hydrogen has three isotopes.
+^1_1 \text{H} \qquad ^2_1 \text{H} \qquad ^3_1 \text{H}
+One isotope of hydrogen has 1 proton and 0 neutrons in the nucleus so it has a mass number of 1.
+Another isotope of hydrogen has 1 proton and 1 neutron in the nucleus so it has a mass number of 2.
+The third isotope of hydrogen has 1 proton and 2 neutrons in the nucleus so it has a mass number of 3. (The isotope of hydrogen with a mass number of 2 is sometimes called deuterium and the isotope of hydrogen with a mass number of 3 is sometimes called tritium, but they are all hydrogen.) Carbon has six isotopes; carbon-11, carbon-12, carbon-13, carbon-14, carbon-15, and carbon-16.
+The isotopes of a given element are not all equally abundant.
+For example, 98.9% of all naturally occurring carbon is carbon-12 and about 1.1% is carbon-13.
+The other isotopes of carbon are even less abundant.
+The periodic table is a complete listing of all the known elements.
+Each element has its own square in the periodic table.
+The square contains the chemical symbol for the element, the atomic number, and the atomic weight .
+The atomic weight of an element is a weighted average of its isotopes.
+The element boron consists of two isotopes, boron-10 and boron-11.
+The abundance of boron-10 is 20.0% and the abundance of boron-11 is 80.0%.
+What is the atomic weight of boron?
+\text{Atomic weight} = (0.20)(10.0 \text{ amu}) + (0.80)(11.0 \text{ amu}) = 2.0 + 8.8 = 10.8 \text{ amu}
+Since the identification of the neutron, the model of the atomic nucleus has changed very little.
+According to this model, a nucleus is considered to be an aggregate of protons and neutrons.
+The number of protons in a nucleus is called the atomic number and is designated by the symbol Z .
+The total number of nucleons, neutrons and protons, is designated by the symbol  A and is called the mass number.

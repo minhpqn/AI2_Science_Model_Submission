@@ -1,0 +1,20 @@
+Prior to 1900, scientists thought light behaved solely as a wave.
+As we will see later, this began to change as new experiments demonstrated that light also has some of the characteristics of a particle.
+First, we will examine the wavelike properties of light.
+Visible light is one type of electromagnetic radiation , which is a form of energy that exhibits wavelike behavior as it moves through space.
+Other types of electromagnetic radiation include gamma rays, x-rays, ultraviolet light, infrared light, microwaves, and radio waves.
+The figure below shows the electromagnetic spectrum , which is all forms of electromagnetic radiation.
+Notice that visible light makes up only a very, very small portion of the entire electromagnetic spectrum.
+All electromagnetic radiation moves through a vacuum at a constant speed of 2.998 × 10 8  m/s.
+While the presence of air molecules slows the speed of light by a very small amount, we will use the value of 3.00 × 10 8  m/s as the speed of light in air.
+Picture of the electromagnetic spectrum
+The electromagnetic spectrum encompasses a very wide range of wavelengths and frequencies.
+Visible light is only a very small portion of the spectrum with wavelengths from 400-700 nm.
+The Figure above shows how the electromagnetic spectrum displays a wide variation in wavelength and frequency.
+Radio waves have wavelengths of as long as hundreds of meters, while the wavelength of gamma rays are on the order of 10 -12  m.
+The corresponding frequencies range from 10 6 to 10 21 Hz.
+Visible light can be split into colors with the use of a prism ( Figure below ), yielding the visible spectrum of light.
+Red light has the longest wavelength and lowest frequency, while violet light has the shortest wavelength and highest frequency.
+Visible light wavelength ranges from about 400 – 700 nm with frequencies in the range of 10 14  Hz.
+Beam of white light broken up into a rainbow by a prism
+A small beam of white light is (refracted) bent as it passes through a glass prism.

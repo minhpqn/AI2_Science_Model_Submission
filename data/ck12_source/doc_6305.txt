@@ -1,0 +1,20 @@
+Forest fires cause extensive damage when they occur.
+Both plant and animal life are harmed during these events.
+The severity of a forest fire depends on how much plant life is available to burn – the more available dry plant material, the more serious the fire and the more rapidly it will spread.
+Order of Reaction
+In the reaction A \rightarrow B , the rate of the reaction is directly proportional to the concentration of  A raised to the first power.
+That is to say, [A]=[A]^1 .
+A first-order reaction is a reaction in which the rate is proportional to the concentration of only one reactant.
+As a first-order reaction proceeds, the rate of reaction decreases because the concentration of the reactant decreases ( Figure below ).
+The graph of concentration versus time is curved.
+The reaction rate  \left(\frac{\Delta [A]}{\Delta t} \right) can be determined graphically by the slope of a tangent to the curve at any point.
+The rate of the reaction at the time shown with the red triangle is given by:
+\text{rate}=-\frac{[A]_{\text{final}}-[A]_{\text{initial}}}{\Delta t}=-\frac{0.35 \text{ M} - 0.63 \text{ M}}{3.0 \text{ s} - 1.0 \text{ s}}=0.14 \text{ M/s}
+The instantaneous rate of a reaction can be measured by the slope of the tangent line at that point
+This graph shows how the concentration of a reactant changes as a reaction proceeds.
+The rate of the reaction is determined at any point by measuring the slope of a tangent to the curve.
+The rates of some reactions depend on the concentrations of more than one reactant.
+Consider a reaction in which a molecule of  A collides with a molecule of  B to form product C .
+A+B \rightarrow C
+Doubling the concentration of  A alone would double the reaction rate.
+Likewise, doubling the concentration of  B alone would also double the rate.

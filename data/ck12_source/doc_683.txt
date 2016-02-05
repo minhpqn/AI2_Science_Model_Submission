@@ -1,0 +1,20 @@
+Refraction of a wave front
+When light is traveling from air into another medium, Snell’s Law states the relationship between the angle of incidence and angle of refraction is
+n=\frac{\sin \theta_i}{\sin \theta_r}
+where \theta_i  is the angle of incidence, \theta_r  is the angle of refraction, and n  is the ratio of the two sines and is called the index of refraction .
+Snell’s Law may be stated that a ray of light bends in such a way that the ratio of the sine of the angle of incidence to the sine of the angle of refraction is a constant.
+The index of refraction is also related to the relative speeds of light in a vacuum and in the medium.
+n=\frac{\text{speed of light in a vacuum}}{\text{speed of light in the medium}}
+When a ray of light is traveling from medium into another medium, Snell’s Law can be written as n_i \sin \theta_i=n_r \sin \theta_r .
+Indices of Refraction
+Example Problem:   A ray of light traveling through air is incident upon a slab of Flint glass at an angle of 40.0^\circ .  What is the angle of refraction?
+Solution: n=\frac{\sin \theta_i}{\sin \theta_r} so \sin \theta_r=\frac{\sin \theta_i}{n}=\frac{0.643}{1.61}=0.399
+The angle of refraction  = sin^{-1} .399 = 23.5^\circ
+Example Problem:
+What is the speed of light in a diamond?
+Solution: \text{speed of light in diamond}=\frac{\text{speed of light in a vacuum}}{n}=\frac{3.00 \times 10^8 \ m/s}{2.42}
+\text{speed of light in diamond} = 1.24 \times 10^8 \ m/s
+Effects of Refraction
+Bending the Sun’s Rays
+Because air is slightly more optically dense than a vacuum, when sunlight passes from the vacuum of space into our atmosphere, it bends slightly towards the normal.
+When the sun is below the horizon and thus not visible on a direct line, the light path will bend slightly and thus make the sun visible by refraction.  Observers can see the sun before it actually comes up over the horizon, or after it sets.

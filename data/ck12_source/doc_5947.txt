@@ -1,0 +1,20 @@
+I want to calculate the molar mass of CaCl 2 .  How many moles of Cl are in one mole of the compound?
+How many moles of H are in the compound (NH 4 ) 3 PO 4 ?
+molar mass :
+The mass of one mole of representative particles of a substance.
+molecular mass :
+The mass of one molecule of that compound.
+Conversions between Moles and Mass
+Perform calculations dealing with conversions between moles and mass.
+Chemical plants need to know how to convert between moles and mass
+How can we get more product?
+Chemical manufacturing plants are always seeking to improve their processes.  One of the ways this improvement comes about is through measuring the amount of material produced in a reaction.  By knowing how much is made, the scientists and engineers can try different ways of getting more product at less cost.
+Conversions Between Moles and Mass
+The molar mass of any substance is the mass in grams of one mole of representative particles of that substance.  The representative particles can be atoms, molecules, or formula units of ionic compounds.  This relationship is frequently used in the laboratory.
+Suppose that for a certain experiment you need 3.00 moles of calcium chloride (CaCl 2 ).  Since calcium chloride is a solid, it would be convenient to use a balance to measure the mass that is needed.  The molar mass of CaCl 2 is 110.98 g/mol.  The conversion factor that can be used is then based on the equality that 1 mol = 110.98 g CaCl 2 .
+Dimensional analysis will allow you to calculate the mass of CaCl 2 that you should measure.
+3.00 \ \text{mol} \ \text{CaCl}_2 \times \frac{110.98 \ \text{g} \ \text{CaCl}_2}{1 \ \text{mol} \ \text{CaCl}_2}=333 \ \text{g} \ \text{CaCl}_2
+When you measure the mass of 333 g of CaCl 2 , you are measuring 3.00 moles of CaCl 2 .
+Calcium chloride is used as a drying agent and as a road deicer
+Calcium chloride is used as a drying agent and as a road deicer.
+Sample Problem:

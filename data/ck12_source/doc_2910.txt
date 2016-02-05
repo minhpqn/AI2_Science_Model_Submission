@@ -1,0 +1,20 @@
+Top left box:
+BB , or purple flowers
+Top right box:
+Bb , or purple flowers
+Lower left box:
+Bb , or purple flowers
+Lower right box: bb , or white flowers
+Only one of the plants out of the four, or 25% of the plants, has white flowers ( bb ).
+The other 75% have purple flowers ( BB , Bb ), because the purple factor ( B ) is the dominant factor.
+This shows that the color purple is the dominant trait in pea plants.
+Now imagine you cross one of the white flowers ( bb ) with a purple flower that has both a dominant and recessive factor ( Bb ).
+The only possible gamete in the white flower is recessive ( b ), while the purple flower can have gametes with either dominant ( B ) or recessive ( b ).
+Practice using a Punnett square with this cross (see Table below ).
+Did you find that 50% of the offspring will be purple, and 50% of the offspring will be white?
+A Punnett square is a special tool used to predict the offspring from a cross, or mating between two parents.
+In a Punnett square, the possible offspring are represented by the letters in the boxes, with one factor coming from each parent.
+Use the resources below to answer the questions that follow.
+Gregor Mendel's Punnett Square at
+Click on the image above for more content
+What are Mendel's two rules of heredity?

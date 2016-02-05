@@ -1,0 +1,20 @@
+What causes the nucleus of uranium-235 atom to fission?
+A:
+Another particle collides with it.
+How Nuclear Fission Occurs
+The Figure below shows how nuclear fission of uranium-235 occurs.
+It begins when a uranium nucleus gains a neutron.
+This can happen naturally when a free neutron strikes it, or it can occur deliberately when a neutron is crashed into it in a nuclear power plant.
+In either case, the nucleus of uranium-235 becomes extremely unstable with the extra neutron.
+As a result, it splits into two smaller nuclei, krypton-92 and barium-141.
+The reaction also releases three neutrons and a great deal of energy.
+It can be represented by this nuclear equation:
+\mathrm{^{235}_{92} U} + 1 neutron → \mathrm{^{92}_{36} Kr} + \mathrm{^{141}_{56} Ba} + 3 neutrons + energy
+Note that the subscripts of the element symbols represent numbers of protons and the superscripts represent numbers of protons plus neutrons.
+Diagram illustrating nuclear fission
+To see an animated version of uranium-235 fission, go to this URL:
+Nuclear Chain Reaction
+The neutrons released when uranium-235 fissions may crash into other uranium nuclei and cause them to fission as well.
+This can start a nuclear chain reaction.
+You can see how this happens in the Figure below .
+In a chain reaction, one fission reaction leads to others, which lead to others, and so on.

@@ -1,0 +1,20 @@
+A scientist who specializes in research with the use of microscopes.
+microscopy :
+The scientific field of using microscopes to view samples and objects that cannot be seen with the unaided eye.
+optical microscope :
+A microscope that uses visible light and lenses to magnify objects.
+organelle :
+A structure within the cytoplasm of a cell; may be enclosed within a membrane; performs a specific function.
+resolution :
+A measure of the clarity of an image; the minimum distance that two points can be separated by and still be distinguished as two separate points.
+scanning electron microscope (SEM) :
+Electron microscope that scans an electron beam over the surface of an object; measures how many electrons are scattered back.
+transmission electron microscope (TEM) :
+Electron microscope that shoots electrons through the sample; measures how the electron beam changes because it is scattered in the sample.
+The development of light microscopes and later electron microscopes helped scientists learn about the cell.
+Early light microscopes had poor resolution and a magnification power of only about 10 times.
+Electron microscopes have much higher resolution and magnification; they have been used to produce images of molecules and atoms.
+Many of the discoveries about cell structure since the 1950s have been made with the use of electron microscopes.
+Use the three videos within this resource to answer the questions that follow.
+Types of Microscopy at
+Differentiate between light and electron microscopy.

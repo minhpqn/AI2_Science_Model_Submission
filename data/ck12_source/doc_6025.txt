@@ -1,0 +1,20 @@
+What is the mass of excess reactant remaining when 50.0 g Ag reacts with 10.0 g S?
+2\text{Ag}(s)+\text{S}(s) \rightarrow \text{Ag}_2\text{S}(s)
+Step 1:
+List the known quantities and plan the problem.
+Excess reactant = 0.312 mol S (from sample problem 12.9)
+Amount of excess reactant needed = 0.232 mol S (from sample problem 12.9)
+Mass of excess reactant remaining after the reaction = ? g
+Subtract the amount (in moles) of the excess reactant that will react from the amount that is originally present.
+Convert moles to grams.
+Step 2:
+Solve.
+0.312 \text{ mol S}-0.232 \text{ mol S} &= 0.080 \text{ mol S (remaining after reaction)}\\0.080 \text{ mol S} \times \frac{32.07 \text{ g S}}{1 \text{ mol S}} &= 2.57 \text{ g S}
+There are 2.57 g of sulfur remaining when the reaction is complete.
+Step 3:
+Think about your result.
+There were 10.0 g of sulfur present before the reaction began.
+If 2.57 g of sulfur remains after the reaction, then 7.43 g S reacted.
+7.43 \text{ g S} \times \frac{1 \text{ mol S}}{32.07 \text{ g S}} =0.232 \text{ mol S}
+This is the amount of sulfur that reacted.
+The problem is internally consistent.

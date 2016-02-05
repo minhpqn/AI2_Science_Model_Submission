@@ -1,0 +1,20 @@
+mass H 2 O 218 g = 0.218 kg
+mass solute = 38.7 g
+K_f(\text{H}_2\text{O})=-1.86^\circ \ \text{C}/m
+molar mass solute = ? g/mol
+Use the freeing point depression (\Delta T_f)  to calculate the molality of the solution.
+Then use the molality equation to calculate the moles of solute.
+Then divide the grams of solute by the moles to determine the molar mass.
+Step 2:
+Solve.
+m=\frac{\Delta T_f}{K_f} &=\frac{-5.53^\circ \text{C}}{-1.86^\circ \text{C}/m}=2.97 \ m\\\text{mol solute} &= m \times \text{kg H}_2\text{O}=2.97 \ m \times 0.218 \text{ kg} = 0.648 \text{ mol}\\\frac{38.7 \text{ g}}{0.648 \text{ mol}} &= 59.7 \text{ g/mol}
+Step 3:
+Think about your result.
+The molar mass of the unknown solute is 59.7 g/mol.
+Knowing the molar mass is an important step in determining the identity of an unknown.
+A similar problem could be done with the change in boiling point.
+Determination of molar mass by measuring freezing point depression is described.
+Work the problems at the link below:
+What do we need to know about the solvent to use this technique?
+Will it work with ionizable compounds?
+Can we use boiling point elevation to determine molar mass?

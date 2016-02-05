@@ -1,0 +1,20 @@
+List the three stages of cellular respiration, and contrast the first stage with the other two in terms of distribution throughout the living world, location within the cell, and use of oxygen.
+Summarize the overall process of glycolysis, following both the path of carbon atoms and chemical energy.
+What molecules can enter the glycolysis pathway, besides glucose?
+The Mitochondria in Cellular Respiration - Advanced
+Describe the structure of the mitochondrion, and identify the site of Krebs Cycle reactions.
+Why does this organelle have such a distinct internal structure?
+It is the many internal folds of the inner membrane that allow mitochondria to be efficient at producing ATP.
+And in the presence of oxygen, the organelle is highly efficient.
+Even though, cells that needs lots of energy may have thousands of these organelles.
+Structure of the Mitochondrion:
+Key to Aerobic Respiration
+The aerobic phases of cellular respiration in eukaryotes occur within organelles called mitochondria .
+These aerobic phases are the Krebs Cycle and the electron transport chain .
+A detailed look at the structure of the mitochondrion ( Figure below ) helps to explain its role in the last stage of respiration, the electron transport chain.
+Mitochondria are sometimes referred to as the "power plants" of the cell, as these are the organelles that generate most of the cell's supply of ATP.
+Two separate membranes form the mitochondrion.
+The inner membrane folds into cristae which divide the organelle into three compartments: the intermembrane space (between outer and inner membranes), cristae space (formed by infoldings of the inner membrane), and the matrix (within the inner membrane).
+The Krebs Cycle takes place within the matrix.
+The compartments are critical for the electron transport chain structure and function.
+Glycolysis occurs in the cytoplasm of the cell, with the products of glycolysis entering the mitochondria to continue cellular respiration.

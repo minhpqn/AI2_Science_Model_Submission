@@ -1,0 +1,20 @@
+An apparatus used for the industrial manufacture of sodium metal and chlorine gas.
+Write a typical electroplating reaction.
+Brass astrolabe that was gold-plated
+Does anybody know where we are?
+The astrolabe (pictured above disassembled) was a device used to study the motions of planets and to do surveying.
+Most astrolabes were made of brass, but this one has been overlaid with gold which is wearing off.
+Persian mystics also used astrolabes for following the stars and making astrological predictions.
+Many decorative objects like jewelry are manufactured with the aid of an electrolytic process.
+Electroplating is a process in which a metal ion is reduced in an electrolytic cell and the solid metal is deposited onto a surface.
+The Figure below shows a cell in which copper metal is to be plated onto a second metal.
+Illustration of the electroplating of copper
+Electroplating of second metal by copper.
+The cell consists of a solution of copper sulfate and a strip of copper which acts as the anode.
+The metal (Me) is the cathode.
+The anode is connected to the positive electrode of a battery, while the metal is connected to the negative electrode.
+When the circuit is closed, copper metal from the anode is oxidized, allowing copper ions to enter the solution.
+\text{anode}: \ \text{Cu}^0 (s) \rightarrow \text{Cu}^{2+}(aq) + 2e^-
+Meanwhile copper ions from the solution are reduced to copper metal on the surface of the cathode (the second metal):
+\text{cathode}: \ \text{Cu}^{2+}(aq) + 2e^- \rightarrow \text{Cu}^0(s)
+The concentration of copper ions in the solution is effectively constant.

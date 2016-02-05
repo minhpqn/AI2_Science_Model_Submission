@@ -1,0 +1,20 @@
+So do fossil fuels such as natural gas.
+Natural gas is a fuel that is commonly used in home furnaces and gas stoves.
+The main component of natural gas is the hydrocarbon called methane (CH 4 ).
+You can see a methane flame in the Figure below .
+The combustion of methane is represented by the equation:
+CH 4 + 2O 2 → CO 2 + 2H 2 O
+The combustion of methane powers a gas stove
+The combustion of methane gas heats a pot on a stove.
+Q:
+Sometimes the flame on a gas stove isn’t just blue but has some yellow or orange in it.
+Why might this occur?
+A:
+If the flame isn’t just blue, the methane isn’t getting enough oxygen to burn completely, leaving some of the carbon unburned.
+The flame will also not be as hot as a completely blue flame for the same reason.
+You can simulate the combustion of hydrocarbons, including methane, at this URL:
+A complete combustion reaction occurs when a fuel reacts quickly with oxygen (O 2 ) and produces carbon dioxide (CO 2 ) and water (H 2 O).
+The general equation for a complete combustion reaction is:
+Fuel + O 2 → CO 2 + H 2 O
+The fuel that burns in a combustion reaction usually consists of hydrocarbons, which contain only carbon (C) and hydrogen (H).
+An example of a hydrocarbon is methane (CH 4 ), the main component of natural gas.

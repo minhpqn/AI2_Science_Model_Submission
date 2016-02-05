@@ -1,0 +1,20 @@
+ras :
+A small GTPase involved in transmitting signals within cells; first identified in rat sarcoma cells.
+tumor suppressor gene :
+Gene whose product temporarily discourage cell growth and division to allow cells to finish routine functions, especially DNA repair.
+At least two separate mutations are necessary to develop cancer.
+These mutations may occur in proto-oncogenes and/or tumor suppressor genes.
+Proto-oncogenes and tumor suppressor genes have an interconnected relationship within the cell; many are involved in signal transduction cascades.
+Use this resource to answer the questions that follow.
+Oncogenes, Tumor Suppressor Genes, and Cancer at
+Discuss gene mutations that can lead to cancer.
+Give an example.
+What is p53?
+Describe how oncogenes and tumor suppressor genes can be used to help prevent cancer.
+Describe how oncogenes and tumor suppressor genes can be used to help guide treatment of cancer.
+What is the HER2/neu protein?
+What is the BCR-ABL gene?
+What are proto-oncogenes and tumor suppressor genes?
+Discuss the two mutation models for tumorigenesis.
+How is signal transduction related to carcinogenesis?
+Cancer is often the result of activation of ______ to ______ and the inactivation of ______ genes.

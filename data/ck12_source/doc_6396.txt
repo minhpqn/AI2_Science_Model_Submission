@@ -1,0 +1,20 @@
+An acidic solution is a solution in which the concentration of hydrogen ions is greater than the concentration of hydroxide ions.
+For example, hydrogen chloride ionizes to produce H + and Cl − ions upon dissolving in water.
+\text{HCl}(g) \rightarrow \text{H}^+(aq) + \text{Cl}^-(aq)
+This increases the concentration of H + ions in the solution.
+According to LeChâtelier’s principle, the equilibrium represented by \text{H}_2\text{O}(l) \rightleftarrows \text{H}^+(aq)+\text{OH}^-(aq) is forced to the left, towards the reactant.
+As a result, the concentration of the hydroxide ion decreases.
+A basic solution is a solution in which the concentration of hydroxide ions is greater than the concentration of hydrogen ions.
+Solid potassium hydroxide dissociates in water to yield potassium ions and hydroxide ions.
+\text{KOH}(s) \rightarrow \text{K}^+(aq)+\text{OH}^-(aq)
+The increase in concentration of the OH − ions causes a decrease in the concentration of the H + ions and the ion-product of [H + ][OH − ] remains constant
+Sample Problem:
+Use of  K_w for an Aqueous Solution
+Hydrochloric acid (HCl) is a strong acid, meaning it is 100% ionized in solution.
+What is the [H + ] and the [OH − ] in a solution of 2.0 × 10 3  M HCl?
+Step 1:
+List the known values and plan the problem .
+[HCl] = 2.0 × 10 -3 M
+K_w=1.0 \times 10^{-14}
+[H + ] = ?
+M

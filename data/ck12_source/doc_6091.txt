@@ -1,0 +1,20 @@
+P_1 \times V_1=P_2 \times V_2
+This equation can be used to calculate any one of the four quantities if the other three are known.
+Sample Problem:
+Boyle’s Law
+A sample of oxygen gas has a volume of 425 mL when the pressure is equal to 387 kPa.
+The gas is allowed to expand into a 1.75 L container.
+Calculate the new pressure of the gas.
+Step 1:
+List the known quantities and plan the problem.
+P_1=387 \ \text{kPa}
+V_1=425 \ \text{mL}
+V_2=1.75 \ \text{L}=1750 \ \text{mL}
+P_2=? \ \text{kPa}
+Use Boyle’s Law to solve for the unknown pressure (P_2) .
+It is important that the two volumes ( V_1 and V_2 ) are expressed in the same units, so  V_2 has been converted to mL.
+Step 2:
+Solve.
+First, rearrange the equation algebraically to solve for P_2 .
+P_2=\frac{P_1 \times V_1}{V_2}
+Now substitute the known quantities into the equation and solve.

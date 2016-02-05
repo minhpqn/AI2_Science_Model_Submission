@@ -1,0 +1,20 @@
+The density of the air is not uniform but decreases with altitude.
+Additionally there is no distinct top surface from which height can be measured.
+We can, however, calculate the approximate difference in pressure between two altitudes using the equation P=\rho g \Delta h .
+The average pressure of the atmosphere at sea level is 1.013 × 10 5 Pa.
+This pressure is often expressed as 101.3 kPa.
+Pressure is defined as force per unit area,  P=\frac{F}{A} .
+The SI unit for pressure is N/m 2 which has been named pascal (Pa).
+It has been determined experimentally that a fluid exerts pressure equally in all directions.
+The pressure of a column of fluid is proportional to the density of the fluid and to the height of the column of fluid above the level,  P=\rho gh .
+The average pressure of the atmosphere at sea level is 1.013 × 10 5  Pa, or 101.3 kPa.
+The following video explains fluid pressure.
+Use this resource to answer the three questions that follow.
+Click on the image above for more content
+Why do the streams of water at the bottom of the bottle go the farthest?
+Why does water stop flowing out of the top hole even before the water level falls below it?
+Additional Practice Problems:
+Calculate the pressure produced by a force of 800.
+N acting on an area of  2.00 m 2 .
+A swimming pool of width 9.0 m and length 24.0 m is filled with water to a depth of 3.0 m.
+Calculate pressure on the bottom of the pool due to the water.

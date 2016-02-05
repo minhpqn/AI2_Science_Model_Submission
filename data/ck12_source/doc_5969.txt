@@ -1,0 +1,20 @@
+Divide the molar mass of the compound by the empirical formula mass.
+The result should be a whole number or very close to a whole number.
+Multiply all the subscripts in the empirical formula by the whole number found in step 2.
+The result is the molecular formula.
+Sample Problem One:
+Determining the Molecular Formula of a Compound
+The empirical formula of a compound of boron and hydrogen is BH 3 .
+Its molar mass is 27.7 g/mol.  Determine the molecular formula of the compound.
+Step 1:
+List the known quantities and plan the problem.
+empirical formula = BH 3
+molar mass = 27.7 g/mol
+molecular formula = ?
+Steps to follow are outlined in the text.
+Step 2:
+Calculate.
+The empirical formula mass (EFM) = 13.84 g/mol
+\text{BH}_3 \times 2 =\text{B}_2\text{H}_6
+The molecular formula of the compound is B 2 H 6 .
+Step 3:

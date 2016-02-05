@@ -1,0 +1,20 @@
+The pH will change as a result of many factors.
+Adjustment can be accomplished with different chemicals depending on the tested pH.
+High pH can be lowered with liquid HCl (unsafe material) or sodium bisulfate.
+The bisulfate anion is a weak acid and can dissociate partially in solution.
+To increase pH, use sodium carbonate.
+The carbonate anion forms an equilibrium with protons that results in some formation of carbon dioxide.
+Calculating pH of Salt Solutions
+It is often helpful to be able to predict the effect a salt solution will have on the pH of a certain solution.
+Knowledge of the relevant acidity or basicity constants allows us to carry out the necessary calculations.
+Sample Problem:
+Salt Hydrolysis
+If we dissolve NaF in water, we get the following equilibrium:
+\text{F}^-(aq)+\text{H}_2\text{O}(l) \rightleftarrows \text{HF}(aq)+\text{OH}^-(aq)
+The pH of the resulting solution can be determined if the  K_b of the fluoride ion is known.
+20.0 g of sodium fluoride is dissolve in enough water to make 500.0 mL of solution.
+Calculate the pH of the solution.
+The  K_b of the fluoride ion is 1.4 × 10 −11 .
+Step 1:
+List the known values and plan the problem.
+mass NaF = 20.0 g

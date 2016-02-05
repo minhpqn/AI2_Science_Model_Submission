@@ -1,0 +1,20 @@
+{^{235}_{\phantom{0}92}\text{U}} + {^1_0n} \rightarrow {^{92}_{36}\text{Kr}} + {^{142}_{\phantom{0}56}\text{Ba}} + 2{^1_0n} + \text{energy}
+There are a total of 236 mass units on the left of the equation and 236 mass units on the right.
+In the same manner, we see 92 protons on the left and 92 on the right.
+The energy that is released is the binding energy that holds the nucleus together.
+Another set of fission products from U-235 can be seen in the following reaction:
+{^{235}_{\phantom{0}92}\text{U}} + {^1_0n} \rightarrow {^{95}_{42}\text{Mo}} + {^{139}_{\phantom{0}57}\text{La}} + 2{^1_0n} + \text{energy}
+Again we see that the total number of mass units and of protons is equal on both sides of the equation.
+The process of nuclear fission is described.
+Examples of nuclear fission processes are illustrated.
+Read the material at the link below about the energy involved in nuclear fission and answer the following questions:
+How much kinetic energy is released in the fission products?
+How much kinetic energy is released in the fission neutrons?
+Is gamma emission a part of the fission process?
+What is nuclear fission?
+What kind of neutron is needed?
+What else is released besides smaller nuclei?
+nuclear fission:
+The process by which a heavy atomic nucleus is split into two or more smaller nuclei by a slow-moving neutron with the release of energy.
+Nuclear Power Generation
+List sources for electrical power in the United States.

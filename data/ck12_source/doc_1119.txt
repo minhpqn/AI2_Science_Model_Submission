@@ -1,0 +1,20 @@
+Courtesy of nationalatlas.gov.
+A Mercator projection translates the curved surface of Earth onto a cylinder .
+Public Domain
+Courtesy of the U.S.
+Geological Survey.
+A conic map projection wraps Earth with a cone shape rather than a cylinder .
+Public Domain
+Courtesy of the U.S.
+Geological Survey.
+A gnomonic projection places a flat piece of paper on a point somewhere on Earth and projects an image from that point .
+Public Domain
+Courtesy of the U.S.
+Geological Survey.
+A Robinson projection better represents the true shapes and sizes of land areas .
+Public Domain
+Courtesy of the US Geological Survey.
+Closely spaced contour lines on a topographic map indicate a steep slope .
+Public Domain
+Courtesy of the US Geological Survey.
+Concentric circles on a topographic map indicate a hill .

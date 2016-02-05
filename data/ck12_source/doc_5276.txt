@@ -1,0 +1,20 @@
+The parents are usually unaffected and are healthy carriers of the defective gene.
+Autosomal Dominant Inheritance.
+Only one “affected” allele is necessary to result in the “affected” phenotype.
+For a genetic disease inherited in this manner, only one mutant allele is necessary to result in the phenotype.
+Achondroplasia (discussed later) is an example of a dominant disorder.
+Both homozygous and heterozygous individuals will show the phenotype.
+Homozygous achondroplasia is usually a lethal condition.
+Autosomal Recessive inheritance.
+For a genetic disease inherited in this manner, two mutant alleles are necessary to result in the phenotype.
+Tay-Sachs Disease (discussed later) is an example of a recessive disorder.
+Notice that both parents are unaffected carriers of the mutant allele.
+These unaffected carriers allow the allele to be maintained in the gene pool - the complete set of a population's genes.
+Even if the allele is lethal in the homozygous recessive condition, the allele will be maintained through heterozygous individuals.
+How can you, or a geneticist, determine the inheritance pattern of a phenotype?
+A pedigree , which is essentially a representation of genetic inheritance, is helpful.
+A pedigree is a chart, much like a family tree, which shows all of the known individuals within a family with a particular phenotype ( Table below ).
+Pedigrees have been discussed in the Mendelian Inheritance in Humans concept.
+Examples of autosomally inherited disorders include cystic fibrosis, Tay-Sachs disease, phenylketonuria, and achondroplasia.
+Only one mutated allele is needed for a person to be affected by an autosomal dominant disorder .
+Each affected person usually has one affected parent.

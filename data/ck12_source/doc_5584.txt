@@ -1,0 +1,20 @@
+A system of measurements based on feet inches, and other somewhat arbitrary units.
+The International System of Units:
+Based on the metric system of measurements.
+Metric system :
+Based on units of 10.
+SI:
+The metric system and stands for the French term, Le Système International d’Unités.
+List common metric prefixes and their exponential values.
+Convert from one exponential factor to another for a given unit.
+Drawing of ancient scientist
+What do Latin and Greek have to do with modern science?
+Isn’t it hard enough to learn English terms?
+For hundreds of years, the languages of the educated class were Latin and Greek.
+In part, because the literature of philosophy was Latin and Greek.
+Even the medieval Bibles were written in those two languages – the first English translation was in the late 1380s.
+Using Latin and Greek allowed scholars from different countries to communicate more easily with one another.
+Today we still see many Latin phrases in legal communications (“pro bono” meaning to do something “for the good” and not charge legal fees), scientific naming of biological species, and Latin is used for the annual student speech at Harvard University graduations.
+Not bad for a “dead” language.
+Conversions between metric system units are straightforward because the system is based on powers of ten.
+For example, meters, centimeters, and millimeters are all metric units of length.

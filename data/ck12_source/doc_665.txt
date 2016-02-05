@@ -1,0 +1,20 @@
+For the train on the right, however, since the train is moving toward the right, the wavelengths measured to the right will be shorter than those emitted and the wavelengths measured to the left will be longer than those emitted.
+Christian Doppler (1803 – 1853) did experiments in 1842 with trumpeters playing a single note as they sat on a railroad flatcar and were pulled back and forth past a stationary observer.
+The Doppler effect also occurs when the source of the sound is stationary and the observer is moving (with a significant fraction of the speed of sound).
+The following formulas have been developed for calculating the observed frequency:
+When the source is moving toward you, f_o=\frac{f}{1-\frac{v_R}{v}} .
+when the source is moving away from you, f_o=\frac{f}{1+\frac{v_R}{v}}
+In the equations f_o is the perceived frequency,  f is the emitted frequency,  v_R is the relative velocity and  v is the speed of sound.
+Example Problem:
+The speed of sound is 340. m/s and a train whistle with a frequency of 512 Hz is emitted from a train coming toward you at 40.0 m/s.
+What frequency will you hear?
+Solution: f_o=\frac{f}{1-\frac{v_R}{v}}=\frac{512 \ s^{-1}}{1-\frac{40.0 \ m/s}{340. \ m/s}}=580 \ Hz
+The Doppler shift, or Doppler effect, occurs when a sound's emission and the sound's receiver travel relative to each other at a significant speed compared to the speed of sound.
+If the sender and receiver are getting closer together, the perceived frequency will be higher than the emitted frequency, given by the equation f_o=\frac{f}{1-\frac{v_R}{v}} .
+If the sender and receiver are getting farther apart, the perceived frequency will be lower than the emitted frequency, given by the equation  f_o=\frac{f}{1+\frac{v_R}{v}} .
+The following video demonstrates the doppler effect with car horns.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+What is necessary for a wave source / receiver in order to observe the Doppler effect?
+How are the waves made with his finger in water similar to the sound waves?
+How are they different?

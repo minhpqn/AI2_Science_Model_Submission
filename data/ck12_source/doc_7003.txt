@@ -1,0 +1,20 @@
+mg&=F_{buoy}\\\mg&=\rho_{water}gV\\\m&=\rho_{water}V\\\m&=1000\;\text{kg/m}^3 * 3\;\text{m} * 2\;\text{m} * 1.5\;\text{m}\\\m&=9000\;\text{kg}\\\
+Now we need to convert the rate at which sand is being added from m 3 /s to kg/s.
+.1\;\frac{\text{m}^3}{\text{s}} * 1922\;\frac{\text{kg}}{\text{m}^3} = 192.2\;\text{kg/s}
+Now, we can set up something that resembles a linear equation where the 192.2 kg/s is m, t is x, the empty weight of the boat is b, and the maximum weight of the boat is y.
+9000\;\text{kg}&=192.2\;\text{kg/s} * t + 500\;\text{kg}\\\t&=\frac{9000\;\text{kg} - 500\;\text{kg}}{192.2\;\text{kg/s}}\\\t&=44.2\;\text{s}\\\
+Watch this Explanation
+Click on the image above for more content
+Buoyancy (PhET Simulation)
+A block of wood with a density of 920 \;\mathrm{kg/m}^3 is floating in a fluid of density 1100 \;\mathrm{kg/m}^3 .
+What fraction of the block is submerged, and what fraction is above the surface?
+The density of ice is 90 % that of water.
+Why does this fact make icebergs so dangerous?
+A form of the liquid naphthalene has a specific gravity of 1.58 .
+What fraction of an ice cube would be submerged in a bath of naphthalene?
+A cube of aluminum with a specific gravity of 2.70 and side length 4.00 \;\mathrm{cm} is put into a beaker of methanol, which has a specific gravity of 0.791 .
+Draw a free body diagram for the cube.
+Calculate the buoyant force acting on the cube.
+Calculate the acceleration of the cube toward the bottom when it is released.
+A cube of aluminum (specific gravity of 2.70 ) and side length 4.00 \;\mathrm{cm} is put in a beaker of liquid naphthalene (specific gravity of 1.58 ).
+When the cube is released, what is its acceleration?

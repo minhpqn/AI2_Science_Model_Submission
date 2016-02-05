@@ -1,0 +1,20 @@
+Average speed is calculated by dividing the total distance travelled by the time interval.
+For example, someone who takes 40 minutes to drive 20 miles north and then 20 miles south (to end up at the same place), has an average speed of 40 miles divided by 40 minutes, or 1 mile per minute (60 mph).
+Average velocity, however, involves total displacement, instead of distance.
+It is calculated by dividing the total displacement by the time interval.
+In this example, the driver's displacement is zero, which makes the average velocity zero mph.
+Neither average speed nor average velocity implies a constant rate of motion.
+That is to say, an object might travel at 10 m/s for 10 s and then travel at 20 m/s for 5 s and then travel at 100 m/s for 5 s.
+This motion would cover a distance of 700 m in 20 s and the average speed would be 35 m/s.
+We would report the average speed during this 20 s interval to be 35 m/s and yet at no time during the interval was the speed necessarily 35 m/s.
+Constant velocity is very different from average velocity.
+If an object traveled at 35 m/s for 20 s, it would travel the same distance in the same time as the previous example but in the second case, the object's velocity would always be 35 m/s.
+Example:  The position of a runner as a function of time is plotted as moving along the x -axis of a coordinate system.
+During a 3.00 s time interval, the runner’s position changes from x_1 = 50.0 \ \text{m} to x_2 = 30.5 \ \text{m} .
+What was the runner’s average velocity?
+\text{Displacement} = 30.5 \ \text{m} - 50.0 \ \text{m} = -19.5 \ \text{m} (the object was traveling back toward zero)
+\Delta t = 3.00 \ \text{s}
+v_{\text{ave}}=\frac{\Delta x}{\Delta t}=\frac{-19.5 \ \text{m}}{3.00 \ \text{s}}=-6.50 \ \text{m/s}
+Average speed is distance divided by time.
+Average velocity is displacement divided by time.
+The url below is a physics classroom discussion of speed versus velocity with a short animation.

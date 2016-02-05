@@ -1,0 +1,20 @@
+RNA polymerase enzymes are essential to life and are found in all organisms.
+In biochemical terms, RNA polymerase is a nucleotidyl transferase that polymerizes ribonucleotides at the 3' end of an RNA transcript.
+While bacteria have one type of RNA polymerase, eukaryotes have multiple types, each responsible for the sun thesis of a distinct set of RNAs.
+RNA polymerase I synthesizes a pre-rRNA 45S, which matures into 28S, 18S and 5.8S rRNAs which will form the major RNA components of the ribosome.
+RNA polymerase II synthesizes mRNAs and most snRNA and microRNAs.
+Due to the high level of regulation needed for proper transcription, a wide range of transcription factors is necessary for RNA polymerase II to bind to a gene's promoter.
+These will be discussed in the Regulation of Gene Expression (Advanced) concepts.
+RNA polymerase III synthesizes tRNAs, rRNA 5S and other small RNAs.
+RNA polymerases IV and V synthesize siRNA in plants.
+Initiation of transcription only occurs when all transcription factors are aligned along the promoter correctly.
+Transcription factors are usually proteins that bind to the DNA sequence of the promoter.
+Once all these factors are in place, RNA polymerase can begin transcription.
+Transcription begins with the binding of RNA polymerase to the promoter of a gene.
+An eukaryotic promoter signals the approximate start of a gene.
+The promoter usually includes specific sequences that are recognized by transcription factors, which are proteins that aid in the binding of RNA polymerase to the correct place on the DNA.
+The transcription initiation complex formed by the promoter, transcription factors, and RNA polymerase signals the start, or initiation, of transcription.
+The DNA unwinds as the hydrogen bonds between the bases are broken, and produces a small open complex, which allows RNA polymerase to “read” the DNA template and begin the synthesis of RNA.
+Initiation.
+Notice that a set of transcription factors must bind to the promoter in the proper orientation prior to RNA polymerase (RNAP) binding and initiating transcription.
+Soon after initiation the RNA polymerase must clear the promoter.

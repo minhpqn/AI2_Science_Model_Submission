@@ -1,0 +1,20 @@
+v_x = 0, v_y = 0, a_x =0, a_y = 0 .
+v_x > 0, v_y = 0, a_x =0, a_y = 0 .
+v_x = 0, v_y = 0, a_x =0, a_y = -9.8\;\mathrm{m/s}^2 .
+v_x > 0, v_y = 0, a_x =0, a_y = -9.8\;\mathrm{m/s}^2 .
+A hunter with an air blaster gun is preparing to shoot at a monkey hanging from a tree.
+He is pointing his gun directly at the monkey.
+The monkey’s got to think quickly!
+What is the monkey’s best chance to avoid being smacked by the rubber ball?
+The monkey should stay right where he is: the bullet will pass beneath him due to gravity.
+The monkey should let go when the hunter fires.
+Since the gun is pointing right at him, he can avoid getting hit by falling to the ground.
+The monkey should stay right where he is: the bullet will sail above him since its vertical velocity increases by 9.8 \;\mathrm{m/s} every second of flight.
+The monkey should let go when the hunter fires.
+He will fall faster than the bullet due to his greater mass, and it will fly over his head.
+You are riding your bike in a straight line with a speed of 10 \;\mathrm{m/s} .
+You accidentally drop your calculator out of your backpack from a height of 2.0 \;\mathrm{m} above the ground.
+When it hits the ground, where is the calculator in relation to the position of your backpack? (Neglect air resistance.)
+You and your backpack are 6.3\;\mathrm{m} ahead of the calculator.
+You and your backpack are directly above the calculator.
+You and your backpack are 6.3 \;\mathrm{m} behind the calculator.

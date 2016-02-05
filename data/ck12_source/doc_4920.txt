@@ -1,0 +1,20 @@
+Junctions are areas between cells that either allow or prevent the movement of materials.
+Junctions are usually composed of numerous proteins, forming a large molecular complex.
+Gap junctions, desmosomes and tight junctions are three examples of junctions.
+A gap junction or nexus is a specialized intercellular connection between a variety of animal cell-types.
+This junction is a type of "opening," or channel, directly connecting the cytoplasm of two cells, which allows various molecules and ions to pass freely between these cells.
+One gap junction channel is composed of two connexons which connect across the intercellular space.
+Six connexins proteins create one connexon (hemichannel) channel.
+Each connexin protein has four transmembrane domains.
+The complete gap junction is a macromolecular complex composed of several to hundreds of individual junctions.
+Gap junctions are especially important in cardiac muscle cells.
+The action potential signaling contraction is passed efficiently and effortlessly through gap junctions, allowing the heart muscle cells to contract in tandem.
+Electrical synapses in the brain also pass through gap junctions.
+This allows action potentials at the synaptic terminals to be transmitted across to the postsynaptic cell without the need of a neurotransmitter.
+Gap junctions are analogous to the plasmodesmata that join plant cells.
+A desmosome is a cell junction specialized for cell-to-cell adhesion.
+They are found in simple and stratified squamous epithelium, and in muscle tissue where they bind muscle cells to one another.
+These junctions are composed of complexes of cell surface adhesion proteins and linking proteins.
+These proteins have both an intracellular and extracellular region.
+Inside the cell, they attach to intracellular filaments of the cytoskeleton.
+Outside the cell, they attach to other adhesion proteins.

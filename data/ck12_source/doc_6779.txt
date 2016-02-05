@@ -1,0 +1,20 @@
+So we will set the kinetic energy equation equal to the total energy and solve for v.
+This will give us the velocity of the mass when it hits the ground because right before the mass hits the ground, all of the potential energy will have been converted into kinetic energy. 58000\mathrm{J}=\frac{1}{2}mv^2 \Rightarrow v=\sqrt{\frac{58000\mathrm{J}\times 2}{m}}=\sqrt{\frac{58000\mathrm{J}\times 2}{500\mathrm{kg}}}=15.2\mathrm{m/s}
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+Before a run, you eat an apple with 1,000,000 Joules of binding energy.
+550,000 Joules of binding energy are wasted during digestion.
+How much remains?
+Some 95% of the remaining energy is used for the basic processes in your body (which is why you can warm a bed at night!).
+How much is available for running?
+Let’s say that, when you run, you lose 25% of your energy overcoming friction and air resistance.
+How much is available for conversion to kinetic energy?
+Let’s say your mass is 75 kg.
+What could be your top speed under these idealized circumstances?
+But only 10% of the available energy goes to KE, another 50% goes into heat exhaust from your body.
+Now you come upon a hill if the remaining energy is converted to gravitational potential energy.
+How high do you climb before running out of energy completely?
+A pile driver’s motor expends 310,000 Joules of energy to lift a 5400 kg mass.
+The motor is rated at an efficiency of 0.13.
+How high is the mass lifted?

@@ -1,0 +1,20 @@
+You’ve probably heard of Silicon Valley.
+You may even know that it’s a region in northern California.
+But do you know how the region got its name?
+Silicon Valley is the birthplace of modern electronics and continues to be a hub of electronic innovation.
+The word silicon in the name refers to the element silicon, which is the chief “ingredient” of electronic components.
+What Are Electronic Components?
+Electronic components are the parts used in electronic devices such as computers.
+The components change electric current so it can carry information.
+Types of electronic components include diodes, transistors, and integrated circuits, all of which you can read about below.
+However, to understand how these components work, you first need to know about semiconductors.
+That’s because electronic components consist of semiconductors—sometimes millions of them!
+A semiconductor is a solid crystal, consisting mainly of silicon.
+It gets its name from the fact that it can conduct current better than an electric insulator but not as well as an electric conductor.
+As you can see in the Figure below , each silicon atom has four valence electrons that it shares with other silicon atoms in the crystal.
+A semiconductor is formed by replacing a few silicon atoms with other atoms, such as phosphorus or boron, which have more or less valence electrons than silicon.
+This is called doping, and it’s what allows the semiconductor to conduct electric current.
+Semiconductors are created by "doping" silicon
+Q:
+Why wouldn’t a pure silicon crystal be able to conduct electric current?
+A:

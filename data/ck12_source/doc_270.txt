@@ -1,0 +1,20 @@
+A 2.0 kg ball, A , is moving with a velocity of 5.00 m/s due west.
+It collides with a stationary ball, B , also with a mass of 2.0 kg.  After the collision, ball  A moves off at 30° south of west while ball  B moves off at 60° north of west.  Find the velocities of both balls after the collision.
+Solution:
+Since ball  B is stationary before the collision, then the total momentum before the collision is equal to momentum of ball A .
+The momentum of ball  A before collision is shown in red below, and can be calculated to be p = mv = (2.00 \ \text{kg})(5.00 \ \text{m/s}) = 10.0 \ \text{kg m/s west}
+Vectors illustrating the paths of two balls after a collision
+Since momentum is conserved in this collision, the sum of the momenta of balls  A and  B after collsion must be 10.0 kg m/s west.
+p_{A \text{after}} = (10.0 \ \text{kg m/s})(\cos 30^\circ) = (10.0 \ \text{kg m/s})(0.866) = 8.66 \ \text{kg m/s}
+p_{B \text{after}} = (10.0 \ \text{kg m/s})(\cos 60^\circ) = (10.0 \ \text{kg m/s})(0.500) = 5.00 \ \text{kg m/s}
+To find the final velocities of the two balls, we divide the momentum of each by its mass.
+Therefore,  v_A = 4.3 \ \text{m/s} and v_B = 2.5 \ \text{m/s} .
+Example Problem:
+A 1325 kg car moving north at 27.0 m/s collides with a 2165 kg car moving east at 17.0 m/s.  The two cars stick together after the collision.  What is the speed and direction of the two cars after the collision?
+Vectors of two cars that stick together after a collision
+\text{Northward momentum} = (1325 \ \text{kg})(27.0 \ \text{m/s}) = 35800 \ \text{kg m/s}
+\text{Eastward momentum} = (2165 \ \text{kg})(17.0 \ \text{m/s}) = 36800 \ \text{kg m/s}
+R=\sqrt{(35800)^2+(36800)^2}=51400 \ \text{kg} \cdot \text{m/s}
+\theta=\sin^{-1} \frac{35800}{51400}=44^\circ \ \text{north of east}
+velocity=\frac{p}{m}=\frac{51400 \ \text{kg} \cdot \text{m/s}}{3490 \ \text{kg}}=14.7 \ \text{m/s} \ @ \ 44^\circ \ \text{N of E}
+Example Problem:

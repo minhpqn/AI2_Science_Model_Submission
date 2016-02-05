@@ -1,0 +1,20 @@
+The earthquake had a relatively shallow depth of 20 miles (32 km).
+Remember that shallow quakes typically cause the most damage.
+How do scientists find an earthquake epicenter?
+Finding the Epicenter
+One seismogram indicates the distance to the epicenter.
+This is determined by the P-and S-wave arrival times.
+If a quake is near the seismograph, the S-waves arrive shortly after the P-waves.
+If a quake is far from the seismograph, the P-waves arrive long before the S-waves.
+The longer the time is between the P-and S-wave arrivals, the further away the earthquake was from the seismograph.
+First, seismologists calculate the arrival time difference.
+Then they know the distance to the epicenter from that seismograph.
+They can connect all the points that are that distance from the seismic station.
+This makes a circle around the station!
+Next, the seismologists try to determine the location of the earthquake epicenter.
+To do this they need the distances to the epicenter from at least three seismographs.
+Let’s say that they know that an earthquake’s epicenter is 50 kilometers from Kansas City.
+They draw a circle with a 50 km radius around that seismic station.
+They do this twice more around two different seismic stations.
+The three circles intersect at a single point.
+This is the earthquake’s epicenter ( Figure below ).

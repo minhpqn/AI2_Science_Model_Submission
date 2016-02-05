@@ -1,0 +1,20 @@
+Units and Problem Solving
+The Big Idea
+Units identify what a specific number refers to.
+For instance, the number 42 can be used to represent 42 miles, 42 pounds, or 42 elephants!
+Numbers are mathematical objects, but units give them physical meaning.
+Keeping track of units can help you avoid mistakes when you work out problems.
+Describe the metric system and convert between metric units.
+Students will learn about the metric system and how to convert between metric units.
+Frequently Used Measurements, Greek Letters, and Prefixes
+Types of Measurements
+Type of measurement
+Commonly used symbols
+length or position
+d, x, L
+velocity or speed
+meters per second (m/s)
+E, K, U, Q
+Newtons per Coulomb (N/C)
+Frequently used Greek letters.
+\Phi  “Phi” *

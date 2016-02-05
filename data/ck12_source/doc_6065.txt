@@ -1,0 +1,20 @@
+Each sphere represents an atom or an ion.
+In the simple cubic system, the atoms or ions are at the corners of the unit cell only.
+In the face-centered unit cell, there are also atoms or ions in the center of each of the six faces of the unit cell.
+In the body-centered unit cell, there is one atom or ion in the center of the unit cell in addition to the corner atoms or ions.
+Pay special attention to the last diagram for each type of cell.
+You will notice that the atoms or ions at the edges of each face or at the corners are not complete spheres.
+In the simple cubic cell, each corner atom is shared by 8 differenent unit cells.
+The same situation exists for the edge or corner particles in the face-centered and body-centered cubic forms.
+In addition, each of the particles in the center of the face-centered cubic cell is shared by 2 unit cells.
+Body-centered cells have an additional atom in the middle of the cell which is contained entirely in that cell.
+Note that we have only considered the unit cells of a cubic crystal.
+Other crystal forms also have unit cells.
+These unit cells are listed below:
+rhombohedral, hexagonal, triclinic – one unique form each
+tetragonal – simple and body-centered
+monoclinic – simple and base-centered
+orthorhombic – simple, face-centered, body-centered, base-centered
+A unit cell is the smallest portion of a crystal lattice that shows the three-dimensional pattern of the entire crystal.
+There are three different types of unit cells in the cubic crystal system.
+Use the link below to answer the following questions:

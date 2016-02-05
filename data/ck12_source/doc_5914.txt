@@ -1,0 +1,20 @@
+Methane perspective model.
+Electron pairs repel each other and influence bond angles and molecular shape.
+Use the link below to answer the following questions:
+What is the shape of PF 5 ?
+What C-H bod angles would we predict for methane if the molecule were planar?
+What molecule has the configuration of an octahedron?
+What are the bond angles in carbon dioxide?
+What molecule has bond angles of 109.5 ° ?
+What is the geometry of the BF 3 molecule?
+central atom:
+The atom around which other atoms are arranged.
+Molecular Shapes:
+Lone Pair(s) on Central Atom
+Define lone pair.
+Describe how lone pair electrons influence molecular geometry.
+Packing a suitcase is like packing electrons on an atom
+How can all these clothes fit into such a small space?
+When we travel, we often take a lot more stuff than we need.  Trying to fit it all in a suitcase can be a real challenge.  We may have to repack or just squeeze it all in.  Atoms often have to rearrange where the electrons are in order to create a more stable structure.
+Central Atom with One or More Lone Pairs
+The molecular geometries of molecules change when the central atom has one or more lone pairs of electrons.  The total number of electron pairs, both bonding pairs and lone pairs, leads to what is called the electron domain geometry.

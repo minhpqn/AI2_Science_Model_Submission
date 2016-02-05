@@ -1,0 +1,20 @@
+Q:
+How do you think electric current can be used to encode messages?
+A:
+The short answer is by changing the voltage in an electric circuit.
+Keep reading to learn more.
+Electric devices, such as lights and household appliances, change electric current to other forms of energy.
+For example, an electric stove changes electric current to thermal energy.
+Other common devices, such as mobile phones and computers, use electric current for another purpose: to encode information.
+A message encoded this way is called an electronic signal , and the use of electric current for this purpose is called electronics .
+For an overview of electronics and electronic signals, read the short article at this URL:
+To encode a message with electric current, the voltage is changed rapidly, over and over again.
+Voltage is a difference in electric potential energy that is needed in order for electric current to flow.
+There are two different ways voltage can be changed, resulting in two different types of electronic signals, called analog signals and digital signals.
+Analog signals consist of continuously changing voltage in an electric circuit.
+The Figure below represents analog signals.
+These were the first electronic signals to be invented.
+They were used in early computers and other early electronic devices.
+Analog signals are subject to distortion and noise, so they aren’t used as often anymore.
+They are used mainly in microphones and some mobile phones to encode sounds as electronic signals.
+Typical analog signal

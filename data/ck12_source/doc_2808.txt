@@ -1,0 +1,20 @@
+Q:
+What do you think causes these differences in the strength of acids and bases?
+A:
+The strength of an acid or a base depends on how much of it breaks down into ions when it dissolves in water.
+Concentration of Ions
+The strength of an acid depends on how many hydrogen ions it produces when it dissolves in water.
+A stronger acid produces more hydrogen ions than a weaker acid.
+For example, sulfuric acid (H 2 SO 4 ), which is found in car batteries, is a strong acid because nearly all of it breaks down into ions when it dissolves in water.
+On the other hand, acetic acid (CH 3 CO 2 H), which is the acid in vinegar, is a weak acid because less than 1 percent of it breaks down into ions in water.
+The strength of a base depends on how many hydroxide ions it produces when it dissolves in water.
+A stronger base produces more hydroxide ions than a weaker base.
+For example, sodium hydroxide (NaOH), a base in drain cleaner, is a strong base because all of it breaks down into ions when it dissolves in water.
+Calcium carbonate (CaCO 3 ), a base in antacids, is a weak base because only a small percentage of it breaks down into ions in water.
+The pH Scale
+The strength of acids and bases is measured on a scale called the pH scale, which is shown in the Figure below .
+By definition, pH represents the acidity , or hydrogen ion (H + ) concentration, of a solution.
+Pure water, which is neutral, has a pH of 7.
+With a higher the concentration of hydrogen ions, a solution is more acidic and has a lower pH.
+Acids have a pH less than 7, and the strongest acids have a pH close to zero.
+Bases have a pH greater than 7, and the strongest bases have a pH close to 14.

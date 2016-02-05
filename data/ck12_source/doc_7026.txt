@@ -1,0 +1,3 @@
+a. 98 % b. 4.0 % c. 12 %
+a. 1753 \;\mathrm{J} b. -120 \;\mathrm{J} c. 80 \;\mathrm{J} d. 35 \;\mathrm{J} e. -100 \;\mathrm{J}, 80 \;\mathrm{J}, 80 \;\mathrm{J}
+In these lessons we study temperature, the kinetic gas theory, gas pressure, heat engines and pressure-volume graphs.

@@ -1,0 +1,20 @@
+A pathway which traces energy flow through an ecosystem.
+heterotroph :
+Organisms which must consume organic molecules; also known as a consumer.
+inorganic molecule :
+Molecule which does not contain carbon (with a few exceptions such as carbon dioxide); a molecule not necessarily made by living organisms.
+organic molecule :
+A molecule which contains carbon, made by living organisms; examples include carbohydrates, lipids, proteins and nucleic acids.
+photosynthesis :
+The process by which carbon dioxide and water are converted to glucose and oxygen, using sunlight for energy.
+phototroph :
+An organism that captures light energy from the sun and converts it into chemical energy inside their cell.
+producer :
+Organism that produces organic compounds from energy and simple inorganic molecules; an autotroph.
+Food is chemical energy stored in organic molecules.
+Food provides both the energy to do life’s work and the carbon to build life’s bodies.
+Autotrophs make their own carbohydrate foods, transforming sunlight in photosynthesis or transferring chemical energy from inorganic molecules in chemosynthesis.
+Heterotrophs consume organic molecules originally made by autotrophs.
+All life depends absolutely upon autotrophs to make food molecules.
+Water and carbon dioxide molecules are reactants in the process of photosynthesis.
+Does this mean they are “food” for plants, algae, and blue-green bacteria?

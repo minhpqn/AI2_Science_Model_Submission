@@ -1,0 +1,20 @@
+Once the reading frame is disrupted, the mRNA may not be translated properly.
+Different amino acids would be inserted into the protein.
+These mutations may impair the function of the resulting protein, if the protein is even formed.
+Many frameshift mutations result in a premature stop codon, in other words, a stop codon that come earlier than normal during translation.
+This would result in a smaller protein, most likely without normal function.
+Keep in mind that not all mutations are harmful; some are beneficial.
+Evolution would not occur without these beneficial mutations.
+The Wobble Hypothesis
+In 1966, Francis Crick proposed the Wobble Hypothesis which explained that the degeneracy of the genetic code is caused by the structure of the anticodon of tRNA.
+The anticodon is a three base sequence on the tRNA complementary to the codon on the mRNA.
+Each tRNA binds to a specific amino acid, but the anticodons of some tRNA molecules can bind to two or three different codons.
+This flexibility of the anticodon is caused by the less stringent 5' base on the anticodon loop, also referred to as the wobble base, which binds to the 3' base on the mRNA.
+Only the first two nucleotides are stringent and spatially confined for the decoding of the mRNA codon into an amino acid.
+This explains why degenerate codons often differ in the third position, as depicted in Figure above .
+For example, the amino acid alanine is coded by codons GCU, GCC, GCA and GCG.
+The wobble movement of the base in the 5' anticodon position is necessary for this degenerate capability.
+The Wobble Hypothesis states that rules of base pairing are relaxed at the third position, so that a base can pair with more than one complementary base.
+The hypothesis explains why the base inosine is included in position 1 in the anticodons of various tRNAs, why many mRNA codon words translate to a single amino acid, why there are appreciably fewer tRNAs than mRNA codon types and why the redundant nature of the genetic code translates into a precise set of 20 amino acids.
+A wobble base pair is a non-Watson Crick base pairing between two nucleotides in RNA molecules.
+The four main wobble base pairs are guanine-uracil, inocine-uracil, inosine-adenine, and inosine-cytosine.

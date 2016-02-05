@@ -1,0 +1,20 @@
+molar mass of NH 4 NO 3 = 80.06 g/mol
+molar mass of N 2 O = 44.02 g/mol
+molar mass of H 2 O = 18.02 g/mol
+mass N 2 O = ? g
+mass H 2 O = ? g
+Perform two separate three-step mass-mass calculations as shown below.
+& \text{g NH}_4\text{NO}_3 \rightarrow \text{mol NH}_4\text{NO}_3 \rightarrow \text{mol N}_2\text{O} \rightarrow \text{g N}_2\text{O}\\& \text{g NH}_4\text{NO}_3 \rightarrow \text{mol NH}_4\text{NO}_3 \rightarrow \text{mol H}_2\text{O} \rightarrow \text{g H}_2\text{O}
+Step 2:
+Solve.
+& 45.7 \text{ g NH}_4\text{NO}_3 \times \frac{1 \text{ mol NH}_4\text{NO}_3}{80.06 \text{ g NH}_4\text{NO}_3} \times \frac{1 \text{ mol N}_2 \text{O}}{1 \text{ mol NH}_4\text{NO}_3} \times \frac{44.02 \text{ g N}_2\text{O}}{1 \text{ mol N}_2\text{O}}=25.1 \text{ g N}_2\text{O}\\& 45.7 \text{ g NH}_4\text{NO}_3 \times \frac{1 \text{ mol NH}_4\text{NO}_3}{80.06 \text{ g NH}_4 \ \text{NO}_3} \times \frac{2 \text{ mol H}_2\text{O}}{1 \text{ mol NH}_4\text{NO}_3} \times \frac{18.02 \text{ g H}_2\text{O}}{1 \text{ mol H}_2\text{O}}=20.6 \text{ g N}_2\text{O}
+Step 3:
+Think about your result.
+The total mass of the two products is equal to the mass of ammonium nitrate which decomposed, demonstrating the law of conservation of mass.
+Each answer has three significant figures.
+Mass-mass calculations involve converting the mass of a reactant to moles of reactant, then using mole ratios to determine moles of product which can then be converted to mass of product.
+Read the material at the link below, then do the mass-mass problems at the link found at the bottom of the page:
+If matter is neither created nor destroyed, why can’t we just go directly from grams of reactant to grams of product?
+Why is it important to get the subscripts correct in the formulas?
+Why do the coefficients need to be correct?
+mass-mass calculations: mass of given  \rightarrow moles of given  \rightarrow moles of unknown  \rightarrow mass of unknown

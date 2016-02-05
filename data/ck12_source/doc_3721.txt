@@ -1,0 +1,20 @@
+Remember, DNA ‘‘lives’’ in the nucleus, but proteins are made on the ribosomes in the cytoplasm.
+How does the genetic information get from the nucleus to the cytoplasm?
+RNA is the answer.
+RNA vs.
+DNA
+RNA, like DNA, is a nucleic acid.
+However, RNA differs from DNA in several ways.
+In addition to being smaller than DNA, RNA also
+consists of one nucleotide chain instead of two,
+contains the nitrogen base uracil (U) instead of thymine,
+contains the sugar ribose instead of deoxyribose.
+Types of RNA
+There are three main types of RNA, all of which are involved in making proteins.
+Messenger RNA (mRNA) copies the genetic instructions from DNA in the nucleus, and carries the instructions to the cytoplasm.
+Ribosomal RNA (rRNA) helps form ribosomes, the organelle where proteins are assembled.
+Transfer RNA (tRNA) brings amino acids to ribosomes, where they are joined together to form proteins.
+Shows the three types of RNA: mRNA, tRNA, and rRNA
+Shown are the three types of RNA and their roles: (1) mRNA contains the genetic message, (2) tRNA transfers the amino acids to the ribosome, (3) rRNA is the main component of the ribosome.
+More on the roles of the RNAs will be discussed in these concepts: ‘‘Transcription of DNA to RNA’’, ‘‘Genetic Code’’, and ‘‘Translation of RNA to Protein’’.
+RNA differs from DNA in several ways.

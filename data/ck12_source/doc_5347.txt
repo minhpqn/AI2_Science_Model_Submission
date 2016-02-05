@@ -1,0 +1,20 @@
+If DNA never leaves the nucleus, and ribosomes are in the cytoplasm, how does “DNA makes RNA makes protein” actually happen?
+The two processes necessary to make a protein from the information in DNA are transcription and translation.
+Transcription, which happens in the nucleus, uses the DNA sequence to make an RNA molecule.
+The RNA then leaves the nucleus and goes to the cytoplasm where translation occurs on a ribosome and produces a protein.
+In RNA is an intermediary between DNA and protein at  , Francis Crick speaks about this process.
+The central dogma of molecular biology was first described by Francis Crick, who with James Watson first described the structure of DNA, in 1958 and re-stated in a Nature paper published in 1970.
+He stated that, "The central dogma of molecular biology deals with the detailed residue-by-residue transfer of sequential information.
+It states that such information cannot be transferred back from protein to either protein or nucleic acid." This central dogma explains the molecular transfer of sequence information.
+It was simplified by Marshall Nirenberg, the scientist who cracked the genetic code , who said, "DNA makes RNA makes protein."
+The central dogma of molecular biology describes the fundamental process that makes us all different.
+We all essentially have the same genes and proteins.
+Though we have the same genes, we have different alleles of those genes.
+And though we may have the same proteins, such as we have the protein collagen found in bones, many of our proteins are slightly different and thus work slightly differently.
+If all our proteins acted the same way, we would all be exactly the same.
+Our proteins are slightly different because we have different alleles.
+Those alleles are what makes us unique.
+They are our particle version of the genetic instructions.
+It is those small difference in the DNA sequence of different alleles that is translated into small differences in the mRNA molecules.
+And those differences in the mRNAs are then translated into proteins.
+And those small differences in the order of amino acids in proteins are enough to make us all different.

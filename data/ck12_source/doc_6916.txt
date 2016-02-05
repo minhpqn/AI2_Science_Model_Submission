@@ -1,0 +1,20 @@
+Thus, positive charges go 'downhill' and negative charges go 'uphill'.
+You have a negative charge of unknown value and a positive charge of magnitude q_1 and mass m .
+After fixing the negative charge in place, you place the positive charge a distance r_i away from the negative charge and then release it.
+If the speed of the positive charge when it is a distance r_f away from the negative charge is v , what was the magnitude of the negative charge in terms of the given values?
+There are multiple ways to do this problem, we will solve it using conservation of energy and the change in voltage to determine the magnitude of the negative charge.
+When working through this problem, we'll call the positive charge q_1 and the negative charge q_2 .
+To start we'll say that the charge had zero potential energy when it was .5m from the negative charge; this will help us as we work through the problem.
+Using this assertion, we will apply conservation of energy to the positive charge.
+\Delta U_e&=KE_f && \text{start with conservation of energy}\\\q_1\Delta V&=\frac{1}{2}mv^2 && \text{substitute the equations for each energy term}\\\\Delta V&=\frac{mv^2}{2q_1} && \text{solve for V}\\\
+Now, since we know the voltage difference, we will express it using the equation for voltage at a certain distance from a point charge.
+\Delta V&=\frac{kq_2}{\Delta r} && \text{start with the equation for voltage at a certain distance}\\\\Delta V&=\frac{kq_2}{r_f}-\frac{kq_2}{r_i} && \text{express the change in radius in terms of the initial and final radius of the positive charge}\\\\Delta V&=kq_2(\frac{1}{r_f}-\frac{1}{r_i}) && \text{factor the equation}\\\\frac{mv^2}{2q_1}&=kq_2(\frac{1}{r_f}-\frac{1}{r_i}) && \text{substitute in the value from the first step}\\\q_2&=\frac{mv^2}{2q_1k(\frac{1}{r_f}-\frac{1}{r_i})} && \text{solve for }q_2\\\
+Watch this Explanation
+Click on the image above for more content
+Charges and Fields (PhET Simulation)
+The diagram to the right shows a negatively charged electron.
+Order the electric potential lines from greatest to least.
+A, B, C
+C, B, A
+B, A, C
+B, C, A

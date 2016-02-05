@@ -1,0 +1,20 @@
+The goal is to pull the other team over a line in the middle.
+At first, there is a great deal of tension on the rope, but no apparent movement.
+A bystander might think that there is nothing happening.
+In reality, there is a great deal of tension on the rope as the two teams pull in opposite directions at the same time.
+Hydrogen and iodine gases react to form hydrogen iodide according to the following reaction:
+\text{H}_2(g)+\text{I}_2(g) & \rightleftarrows 2\text{HI}(g) \\\text{Forward reaction:} & \quad \text{H}_2(g)+\text{I}_2(g) \rightarrow 2\text{HI}(g) \\\text{Reverse reaction:} & \quad 2\text{HI}(g) \rightarrow \text{H}_2(g)+\text{I}_2(g)
+Initially, only the forward reaction occurs because no HI is present.
+As soon as some HI has formed, it begins to decompose back into H 2 and I 2 .
+Gradually, the rate of the forward reaction decreases while the rate of the reverse reaction increases.
+Eventually the rate of combination of H 2 and I 2 to produce HI becomes equal to the rate of decomposition of HI into H 2 and I 2 .
+When the rates of the forward and reverse reactions have become equal to one another, the reaction has achieved a state of balance.
+Chemical equilibrium is the state of a system in which the rate of the forward reaction is equal to the rate of the reverse reaction.
+At equilibrium, the rate of the forward reaction equals the rate of the reverse reaction
+Equilibrium in reaction:
+H 2 (g) + I 2 (g) → 2HI(g).
+Chemical equilibrium can be attained whether the reaction begins with all reactants and no products, all products and no reactants, or some of both.
+The Figure below shows changes in concentration of H 2 , I 2 , and HI for two different reactions.
+In the reaction depicted by the graph on the left (A), the reaction begins with only H 2 and I 2 present.
+There is no HI initially.
+As the reaction proceeds towards equilibrium, the concentrations of the H 2 and I 2 gradually decrease, while the concentration of the HI gradually increases.

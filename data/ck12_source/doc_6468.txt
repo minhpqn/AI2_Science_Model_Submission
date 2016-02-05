@@ -1,0 +1,20 @@
+However, after finishing step 6, add an equal number of OH − ions to both sides of the equation.
+Combine the H + and OH − to make H 2 O and cancel out any water molecules that appear on both sides.
+Using the example of the oxidation of Fe 2+ ions by dichromate (Cr 2 O 7 2- ), we would get the following three steps:
+Adding the hydroxide ions
+14\text{OH}^-(aq)+14\text{H}^+(aq)+6\text{Fe}^{2+}(aq)+\text{Cr}_2\text{O}^{2-}_7(aq) \rightarrow 6\text{Fe}^{3+}+2\text{Cr}^{3+}(aq)+7\text{H}_2\text{O}(l)+14\text{OH}^-(aq)
+Combining the hydrogen ions and hydroxide ions to make water
+14\text{H}_2\text{O}(l)+6\text{Fe}^{2+}(aq)+\text{Cr}_2\text{O}^{2-}_7(aq) \rightarrow 6\text{Fe}^{3+}+2\text{Cr}^{3+}(aq)+7\text{H}_2\text{O}(l)+14\text{OH}^-(aq)
+Canceling out seven water molecules from both sides to get the final equation
+7\text{H}_2\text{O}(l)+6\text{Fe}^{2+}(aq)+\text{Cr}_2\text{O}^{2-}_7(aq) \rightarrow 6\text{Fe}^{3+}+2\text{Cr}^{3+}(aq)+14\text{OH}^-(aq)
+The equation is still balanced by atoms and by charge, but the presence of hydroxide ions rather than hydrogen ions means that the reaction takes place in basic solution.
+Typically, most redox reactions will actually only proceed in one type of solution or the other.
+The oxidation of Fe 2+ by Cr 2 O 7 2− does not occur in basic solution, and was only balanced this way to demonstrate the method.
+In summary, the choice of which balancing method to use depends on the kind of reaction.
+The oxidation-number method works best if the oxidized and reduced species appear only once on each side of the equation and if no acids or bases are present.
+The half-reaction method is more versatile and works well for reactions involving ions in aqueous solution.
+The half-reaction method of balancing redox equations in basic solution is described.
+Balance the equations at the link below:
+How many OH - should be added to each side?
+When does the oxidation-number approach work best?
+When does the half-reaction method work best?

@@ -1,0 +1,20 @@
+The third type was extremely penetrating and could pass through several centimeters of lead.
+They named these three types of radiation alpha (\alpha) , beta (\beta) , and gamma (\gamma) respectively.
+Eventually, each type of radiation was further identified.
+Alpha particles are the nuclei of helium atoms, ^4_2 He .
+Beta particles are electrons, and gamma rays are very high energy photons (even higher energy than x-rays).
+When a nucleus emits an  \alpha particle, the remaining particle will contain two less protons and two less neutrons.  The new particle will have an atomic number two less and a mass number four less than the original nuclide.
+^{226}_{88} Ra \longrightarrow {^{222}_{86}Rn}+ {^4_2 He}
+The daughter product, ^{222}_{86} Rn , is different from the parent nucleus, ^{226}_{88} Ra , by two protons and two neutrons.
+This changing of one element into another is called transmutation.
+Transmutation also occurs when a nucleus undergoes  \beta decay.
+An example of beta decay is the emission of an electron by a carbon-14 nucleus.
+^{14}_6 C \longrightarrow {^{14}_7 N}+{^0_{-1} e}
+The symbol {^0_{-1}e}  represents an electron whose charge corresponds to  Z=-1 and since it has no nucleons, A=0 .
+It must be carefully noted that the electron released during beta decay is NOT an orbital electron but an electron whose origin was in the nucleus.
+The process has one neutron becoming one proton and one electron and the electron being emitted as a beta particle.
+Since a neutron has been lost AND a proton has been gained, the mass number does not change.
+The atomic number, however, has increased one due to the gain of a proton.
+Therefore, as a result of beta decay, the daughter product will have the same mass number as the parent and an atomic number one greater than the parent.
+The total mass of a stable nucleus is always less than the sum of the masses of its constituent protons and neutrons.
+This is known as mass defect.

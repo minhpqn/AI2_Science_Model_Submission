@@ -1,0 +1,20 @@
+The largest proteins have more than 25,000 amino acids.
+The general structure of an amino acid
+This model shows the general structure of all amino acids.
+Only the side chain, R, varies from one amino acid to another.
+KEY:
+H = hydrogen, N = nitrogen, C = carbon, O = oxygen, R = variable side chain.
+A sample amino acid chain
+Amino acids connect together like beads on a necklace.
+MET, ASN, TRP, and GLN refer to four different amino acids.
+Many important molecules in your body are proteins.
+Examples include enzymes, antibodies, and muscle fiber.
+Enzymes are a type of protein that speed up chemical reactions.
+They are known as "biological catalysts." For example, your stomach would not be able to break down food if it did not have special enzymes to speed up the rate of digestion.
+Antibodies that protect you against disease are proteins.
+Muscle fiber is mostly protein ( Figure below ).
+Your muscle fibers are made mostly of protein
+Muscle fibers are made mostly of protein.
+It’s important for you and other animals to eat food with protein, because we cannot make certain amino acids on our own.
+You can get proteins from plant sources, such as beans, and from animal sources, like milk or meat.
+When you eat food with protein, your body breaks the proteins down into individual amino acids and uses them to build new proteins.

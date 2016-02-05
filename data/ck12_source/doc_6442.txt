@@ -1,0 +1,20 @@
+Early scientists viewed oxidation as a process in which a substance was reacted with oxygen to produce one or more oxides.
+In the previous examples, magnesium and methane are being oxidized.
+Oxidation is also defined as a loss of hydrogen atoms.
+In the following equation, ethanol is oxidized to acetaldehyde by the loss of two hydrogen atoms:
+\text{CH}_3\text{CH}_2\text{OH} \rightarrow \text{CH}_3\text{CHO} + 2\text{H atoms}
+Oxidation does not necessarily require heating.
+Iron that is exposed to air and water slowly oxidizes in a process commonly known as rusting.
+Bleaches contain various compounds such as sodium hypochlorite (NaClO), which release oxygen that oxidizes stains.
+Hydrogen peroxide (H 2 O 2 ) releases oxygen as it spontaneously decomposes.
+It acts as a bleach and an antiseptic that kills bacteria by oxidizing them.
+The chemical reaction that is the opposite of oxidation is called reduction.
+Following from the notion that oxidation was originally thought to mean only the addition of oxygen, reduction was thought to be only the removal of oxygen from a substance.
+Many naturally occurring metal ores are present as oxides.
+The pure metals can be extracted by reduction.
+Iron is obtained from iron(III) oxide by reacting with carbon at high temperatures.
+2\text{Fe}_2\text{O}_3(s)+3\text{C}(s) \rightarrow 4\text{Fe}(s)+3\text{CO}_2(g)
+The removal of oxygen from the Fe 2 O 3 means that it is being reduced to Fe.
+Note that an oxidation process is simultaneously occurring.
+The carbon reactant is being oxidized to CO 2 .
+This is an important concept.

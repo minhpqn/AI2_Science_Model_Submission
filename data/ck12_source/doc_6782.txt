@@ -1,0 +1,10 @@
+The ramp is 4 m long and the back of the truck is 1.5 m high.
+Calculate the potential energy gained by the box when it’s loaded into the truck.
+Calculate the mechanical advantage of the ramp.
+Calculate the force required to push the box up the ramp in the absence of friction.
+a.
+M.A. = 12 b.
+Force out = 360 N
+a. 1500 J b. 2.7 c. 375 N
+In these lessons students explore types of energy and the law of energy conservation.
+Students will also investigate and calculate power, work and efficiency.

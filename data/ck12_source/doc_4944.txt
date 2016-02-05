@@ -1,0 +1,20 @@
+hypertonic :
+In comparing two solutions of unequal solute concentration, the solution with the lower solute concentration.
+isotonic :
+Solutions of equal solute concentration.
+osmosis :
+The diffusion of water molecules across a selectively permeable membrane.
+osmotic pressure :
+Pressure exerted on a cell wall due to osmosis of water into a cell.
+plasmolysis :
+The process where the cytoplasm pulls away from the cell wall due to the loss of water through osmosis; occurs in plant cells.
+solute :
+The substance that is dissolved in a solvent.
+solution :
+Mixture that has the same composition throughout; mixture of a solute in a solvent.
+solvent :
+A substance that dissolves another substance to form a solution.
+Osmosis is the diffusion of water molecules across a semipermeable membrane and down a concentration gradient.
+They can move into or out of a cell, depending on the concentration of the solute.
+How does osmosis differ from diffusion?
+What would cause the central vacuole of a plant cell to shrunk and become smaller than normal?

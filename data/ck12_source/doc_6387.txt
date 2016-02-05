@@ -1,0 +1,20 @@
+Arrhenius base:
+A compound which ionizes to yield hydroxide ions (OH − ) in aqueous solution.
+Brønsted-Lowry Acids and Bases
+Define Brønsted-Lowry acid.
+Define Brønsted-Lowry base.
+Give examples of Brønsted-Lowry acids and bases.
+The Bronsted-Lowry theory of acids and bases expands Arrhenius's definition of acids and bases
+A new theory
+The Arrhenius concept of acids and bases was a significant contribution to our understanding of acids and bases.
+It replaced and expanded the original idea of Lavoisier that all acids contained oxygen.
+However, the Arrhenius theory had its shortcomings also.
+It did not take into account the role of the solvent.
+In addition, this concept did not deal with acid-base behavior in solvents such as benzene where there could be no ionization.
+So, a new theory needed to be formed, which built on the findings of Arrhenius but also went beyond them.
+Brønsted-Lowry Acids and Bases
+The Arrhenius definition of acids and bases is somewhat limited.
+There are some compounds whose properties suggest that they are either acidic or basic, but which do not qualify according to the Arrhenius definition.
+An example is ammonia (NH 3 ).
+Its aqueous solution turns litmus blue, it reacts with acids, and displays all the other properties of a base.
+However, it does not contain the hydroxide ion.

@@ -1,0 +1,20 @@
+That’s what Thomson wanted to know.
+Is it just a ray of energy that travels in waves like a ray of light?
+That was one popular hypothesis at the time.
+Or was a cathode ray a stream of moving particles?
+That was the other popular hypothesis.
+Thomson tested these ideas by placing negative and positive plates along the sides of the cathode ray tube to see how the cathode ray would be affected.
+The cathode ray appeared to be repelled by the negative plate and attracted by the positive plate.
+This meant that the ray was negative in charge and that is must consist of particles that have mass.
+He called the particles “corpuscles,” but they were later renamed electrons.
+For a video demonstration of Thomson’s experiment, go to this URL:
+Cathode ray tube used in Thomson's experiment
+Thomson also measured the mass of the particles he had identified.
+He did this by determining how much the cathode rays were bent when he varied the voltage.
+He found that the mass of the particles was 2000 times smaller than the mass of the smallest atom, the hydrogen atom.
+In short, Thomson had discovered the existence of particles smaller than atoms.
+This disproved Dalton’s claim that atoms are the smallest particles of matter.
+From his discovery, Thomson also inferred that electrons are fundamental particles within atoms.
+Q:
+Atoms are neutral in electric charge.
+How can they be neutral if they contain negatively charged electrons?

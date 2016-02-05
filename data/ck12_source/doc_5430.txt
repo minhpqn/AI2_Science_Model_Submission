@@ -1,0 +1,20 @@
+This segment correlates with the region that is absent in the mutant ( Figure below ).
+One example of a gap gene is the Krüppel gene, which regulates the activity of a number of other genes.
+Krüppel literally means "cripple" in German, named for the crippled appearance of mutant larva.
+Gap genes are defined by the effect of a mutation in that gene, and Krüppel is one such effect.
+Other gap genes are known as tailless and knirps (a "squirt or whippersnapper").
+Gap genes encode transcription factors which directly effect the expression of additional genes involved in embryo segmentation, called the pair-rule genes .
+Pair-rule genes are expressed in alternating segments within the developing embryo.
+Pair-rule genes have very creative names, such as even-skipped, hairy, odd-skipped, odd-paired, sloppy paired and fushi tarazu , which is Japanese for “few segments.” See My favorite silly gene names at for a list of other interesting gene names.
+Gap genes control the expression of other genes within specific regions of cells in the developing organism.
+This allows specific genes to be expressed in certain cells at the appropriate stage of development.
+Gap genes themselves are under the effect of maternal effect genes, such as bicoid and nanos.
+Gap genes also regulate each other to achieve their precise striped expression patterns.
+The maternal effect is when the phenotype of offspring is partly determined by the phenotype of its mother, irrespective of genotype.
+This often occurs when the mother supplies mRNA or proteins to the egg, affecting early development.
+In developing Drosophila, maternal effects include axis determination.
+The bicoid maternal effect gene is transcribed in the nurse cells of the mother and then the mRNA is transferred to the oocyte.
+Mutant embryos from homozygous mutant bicoid mothers fail to produce head and thorax structures.
+Gap gene expression.
+Shown is the expression pattern of four gap genes, Krüppel, Giant, Knirps, and Tailless, in a developing Drosophilia embryo.
+Note how the expression of these genes creates an unique pattern resulting in gaps in what was a rather uniform arrangement of cells.

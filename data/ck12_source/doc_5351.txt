@@ -1,0 +1,20 @@
+genetic code :
+The universal code of three-base codons; encodes the genetic instructions for the amino acid sequence of proteins.
+protein synthesis :
+The process in which cells make proteins; includes transcription of DNA and translation of mRNA.
+retrotransposon :
+A genetic element that can amplify itself in a genome.
+reverse transcriptase :
+RNA-dependent DNA polymerase; a DNA polymerase enzyme that transcribes single-stranded RNA into single-stranded DNA.
+reverse transcription :
+The process of transcribing single-stranded RNA into single-stranded DNA.
+RNA replication :
+The copying of one RNA to another; uses RNA-dependent RNA polymerase.
+RNA silencing :
+Gene silencing effect by which the expression of one or more genes is downregulated or entirely suppressed by the introduction of an antisense RNA molecule.
+telomerase :
+An enzyme which adds DNA sequence repeats to the 3' end of DNA strands in the telomere regions.
+telomere :
+A region of repetitive nucleotide sequences at each end of a chromosome; protects the end of the chromosome from deterioration or from fusion with neighboring chromosomes.
+“DNA makes RNA makes protein” is the central dogma of molecular biology.
+Other transfers of genetic information include RNA replication and reverse transcription.

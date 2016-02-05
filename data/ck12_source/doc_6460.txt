@@ -1,0 +1,20 @@
+So what types of reactions are not redox reactions?
+Double-replacement reactions such as the one below are not redox reactions because ions are simply recombined without any transfer of electrons.
+\overset{\underset{\mathrm{+1}}{}}{\text{Na}_2} \overset{\underset{\mathrm{+6}}{}}{\text{S}} \overset{\underset{\mathrm{-2}}{}}{\text{O}_4}(aq) + \overset{\underset{\mathrm{+2}}{}}{\text{Ba}}(\overset{\underset{\mathrm{+5}}{}}{\text{N}} \overset{\underset{\mathrm{-2}}{}}{\text{O}_3})_2(aq) \rightarrow 2 \overset{\underset{\mathrm{+1}}{}}{\text{Na}} \overset{\underset{\mathrm{+5}}{}}{\text{N}} \overset{\underset{\mathrm{-2}}{}}{\text{O}}_3(aq) + \overset{\underset{\mathrm{+2}}{}}{\text{Ba}} \overset{\underset{\mathrm{+6}}{}}{\text{S}} \overset{\underset{\mathrm{-2}}{}}{\text{O}_4}(s)
+Note that the oxidation numbers for each element remain unchanged in the reaction.
+Acid-base reactions involve a transfer of a hydrogen ion instead of an electron.
+Acid-base reactions, like the one below, are also not redox reactions.
+\overset{\underset{\mathrm{+1}}{}}{\text{H}} \overset{\underset{\mathrm{-1}}{}}{\text{F}}(aq) + \overset{\underset{\mathrm{-3}}{}}{\text{N}} \overset{\underset{\mathrm{+1}}{}}{\text{H}}_3(aq) \rightarrow \overset{\underset{\mathrm{-3}}{}}{\text{N}} \overset{\underset{\mathrm{+1}}{}}{\text{H}}_4 \! ^+(aq) + \overset{\underset{\mathrm{-1}}{}}{\text{F}} \! ^-(aq)
+Again, the transfer of an H + ion leaves the oxidation numbers unaffected.
+In summary, redox reactions can always be recognized by a change in oxidation number of two of the atoms in the reaction.
+Any reaction in which no oxidation numbers change is not a redox reaction.
+Criteria for determining whether or not a reaction involves oxidation and reduction are listed.
+Indicate which of the following reactions are redox reactions and which are not:
+You do not need to write explanations or balance the equations.
+Why is the Zn + HCl reaction a redox reaction?
+Why is the sodium sulfate + barium nitrate reaction not a redox reaction?
+Does the transfer of H + affect oxidation numbers?
+Balancing Redox Reactions:
+Oxidation Number Change Method
+Use the oxidation number-change method to balance redox equations.
+Sulfuric acid is one of the most produced chemicals in the United States

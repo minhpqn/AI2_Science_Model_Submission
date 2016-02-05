@@ -1,0 +1,20 @@
+So the distance from the ship to the bottom of the water is:
+Distance = 1437 m/s × 2 s = 2874 m
+Another use of ultrasound is to “see” inside the human body.
+This use of ultrasound is called ultrasonography.
+Harmless ultrasound waves are sent inside the body, and the reflected waves are used to create an image on a screen.
+This technology is used to examine internal organs and unborn babies without risk to the patient.
+You can see a doctor using ultrasound in the Figure below .
+You can watch an animation showing how ultrasonography works at this URL:
+Ultrasound is used to examine internal organs and unborn babies
+Ultrasound is sound that has a wave frequency higher than the human ear can detect.
+It includes all sounds with wave frequencies higher than 20,000 waves per second, or 20,000 hertz (Hz).
+Animals such as bats and dolphins send out ultrasound waves and use their echoes to identify the locations of objects they cannot see.
+This is called echolocation.
+Sonar stands for sound navigation and ranging.
+It is used to locate underwater objects such as submarines.
+Ultrasonography is the use of reflected ultrasound waves to “see” inside the body.
+At the following URL, read about dolphin echolocation and watch the animation.
+Then answer the questions below.
+Why do dolphins use echolocation?
+Describe how dolphins use echolocation.

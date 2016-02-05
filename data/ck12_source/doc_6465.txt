@@ -1,0 +1,20 @@
+This will be resolved by the balancing method.
+Step 2:
+Write separate half-reactions for the oxidation and the reduction processes .
+Determine the oxidation numbers first, if necessary.
+& \text{Oxidation:} \ \text{Fe}^{2+}(aq) \rightarrow \text{Fe}^{3+}(aq) \\& \text{Reduction:} \ \overset{\underset{\mathrm{+6}}{}}{\text{Cr}_2} \ \text{O}^{2-}_7(aq) \rightarrow \text{Cr}^{3+}(aq)
+Step 3:
+Balance the atoms in the half-reactions other than the hydrogen and oxygen .
+In the oxidation half-reaction above, the iron atoms are already balanced.
+The reduction half-reaction needs to be balanced with the chromium atoms.
+\text{Cr}_2\text{O}^{2-}_7(aq) \rightarrow 2\text{Cr}^{3+}(aq)
+Step 4:
+Balance oxygen atoms by adding water molecules to the appropriate side of the equation .
+For the reduction half-reaction above, seven H 2 O molecules will be added to the product side.
+\text{Cr}_2\text{O}^{2-}_7(aq) \rightarrow 2\text{Cr}^{3+}(aq)+7\text{H}_2\text{O}(l)
+Now the hydrogen atoms need to be balanced.
+In an acidic medium, add hydrogen ions to balance .
+In this example, fourteen H + ions will be added to the reactant side.
+14\text{H}^+(aq)+\text{Cr}_2\text{O}^{2-}_7(aq) \rightarrow 2\text{Cr}^{3+}(aq)+7\text{H}_2\text{O}(l)
+Step 5:
+Balance the charges by adding electrons to each half-reaction .

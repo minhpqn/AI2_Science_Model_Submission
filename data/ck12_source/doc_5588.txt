@@ -1,0 +1,20 @@
+1 kilometer (km) = 1000 m
+1 hectometer (hm) = 100 m
+1 dekameter (dam) = 10 m
+1 meter (m)
+1 decimeter (dm) = 0.1 m
+1 centimeter (cm) = 0.01 m
+1 millimeter (mm) = 0.001 m
+1 micrometer (μm) = 10 -6 m
+1 nanometer (nm) = 10 -9 m
+1 picometer (pm) = 10 -12 m
+When working with small numbers, we use a negative exponent.  So 0.1 meters is 1 × 10 -1 meters, 0.01 is 1 × 10 -2 and so forth.  Table above gives examples of smaller units.  Note the use of the leading zero (the zero to the left of the decimal point).
+That digit is there to help you see the decimal point more clearly.  The figure 0.01 is less likely to be misunderstood than .01 where you may not see the decimal.
+Scientific notation allows us to express very large or very small numbers in a convenient way.
+This notation uses a coefficient (a number between 1 and 10) and a power of ten sufficient for the actual number.
+Practice scientific notation using the link below:
+What is scientific notation?
+What do we use scientific notation for?
+What is a leading zero?
+Express 150,000,000 in scientific notation.
+Express 0.000043 in scientific notation.

@@ -1,0 +1,20 @@
+The lengths of the sides of a cube are doubling each second.
+At what rate is the volume increasing?
+Solution :
+The cube side length, x , is doubling every second.
+Therefore after 1 second it becomes 2{x} .
+The volume of the first cube of side {x} is {x}\times{x}\times{x}={{x}^3} .
+The volume of the second cube of side 2{x} is 2{x}\times2{x}\times2{x}={8{x}^3} .
+The ratio of the second volume to the first volume is {8{x}^3}/{{x}^3}=8 .
+Thus the volume is increasing by a factor of 8 every second.
+Watch this Explanation
+Click on the image above for more content
+A tortoise travels 15 meters \;\mathrm{(m)} west, then another 13 centimeters \;\mathrm{(cm)} west.
+How many meters total has she walked?
+A tortoise, Bernard, starting at point A travels 12 \;\mathrm{m} west and then 150 millimeters \;\mathrm{(mm)} east.
+How far west of point A is Bernard after completing these two motions?
+80 \;\mathrm{m} + 145 \;\mathrm{cm} + 7850 \;\mathrm{mm} = X\ \;\mathrm{mm} .
+What is  X  ?
+A square has sides of length 45 \;\mathrm{mm} .
+What is the area of the square in \;\mathrm{mm}^2 ?
+A square with area 49 \;\mathrm{cm}^2 is stretched so that each side is now twice as long.

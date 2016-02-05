@@ -1,0 +1,20 @@
+A three base sequence on the tRNA molecule complementary to the codon on the mRNA.
+codon :
+A sequence of three nucleotides within mRNA; encodes for a specific amino acid or termination (stop) sequence.
+genetic code :
+The universal code of three-base codons; encodes the genetic instructions for the amino acid sequence of proteins.
+frameshift mutation :
+Mutations which alter the mRNA reading frame.
+inosine :
+A purine nucleoside containing the base hypoxanthine and the sugar ribose; occurs in tRNAs.
+mutation :
+A change in the nucleotide sequence of DNA or RNA.
+reading frame :
+The frame of three bases (codon) in which the mRNA is translated.
+start codon :
+Codon that begins translation;
+AUG.
+stop codon :
+A codon that does not have a corresponding tRNA (does not code for an amino acid); signals the end of translation; also known as a termination codon;
+UAG, UGA, and UAA.
+translation :

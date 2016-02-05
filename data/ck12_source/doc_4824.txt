@@ -1,0 +1,20 @@
+Chemical Structure and Properties of Water
+You are probably already familiar with many of water’s properties.
+For example, you no doubt know that water is tasteless, odorless, and transparent.
+In small quantities, it is also colorless.
+However, when a large amount of water is observed, as in a lake or the ocean, it is actually light blue in color.
+The blue hue of water is an intrinsic property and is caused by selective absorption and scattering of white light.
+These and other properties of water depend on its chemical structure.
+The transparency of water is important for organisms that live in water.
+Because water is transparent, sunlight can pass through it.
+Sunlight is needed by water plants and other water organisms for photosynthesis.
+Chemical Structure of Water
+Each molecule of water consists of one atom of oxygen and two atoms of hydrogen, so it has the chemical formula H 2 O.
+The arrangement of atoms in a water molecule, shown in Figure below , explains many of water’s chemical properties.
+In each water molecule, the nucleus of the oxygen atom (with 8 positively charged protons) attracts electrons much more strongly than do the hydrogen nuclei (with only one positively charged proton).
+This results in a negative electrical charge near the oxygen atom (due to the "pull" of the negatively charged electrons toward the oxygen nucleus) and a positive electrical charge near the hydrogen atoms.
+A difference in electrical charge between different parts of a molecule is called polarity .
+A polar molecule is a molecule in which part of the molecule is positively charged and part of the molecule is negatively charged.
+This model shows the arrangement of oxygen and hydrogen atoms in a water molecule.
+A water molecule has a bent or angular (non-linear) shape, with an angle of about 105°.
+The nucleus of the oxygen atom attracts electrons more strongly than do the hydrogen nuclei.

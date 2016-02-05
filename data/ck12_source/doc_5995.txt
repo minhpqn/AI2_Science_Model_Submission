@@ -1,0 +1,20 @@
+In the descriptions that accompany the activity series of metals, a given metal is also capable of undergoing the reactions described below that section.
+For example, lithium will react with cold water, replacing hydrogen.
+It will also react with steam and with acids, since that requires a lower degree of reactivity.
+Sample Problem:
+Single-Replacement Reactions
+Use the activity series to predict if the following reactions will occur.
+If not, write NR.
+If the reaction does occur, write the products of the reaction and balance the equation.
+A. \text{Al}(s)+\text{Zn(NO}_3)_2 (aq) \rightarrow
+B. \text{Ag}(s)+\text{HCl}(aq) \rightarrow
+Step 1:
+Plan the problem
+For A, compare the placements of aluminum and zinc on the activity series.
+For B, compare the placements of silver and hydrogen.
+Step 2:
+Solve
+Since aluminum is above zinc, it is capable of replacing it and a reaction will occur.
+The products of the reaction will be aqueous aluminum nitrate and solid zinc.
+Take care to write the correct formulas for the products before balancing the equation.
+Aluminum adopts a 3+ charge in an ionic compound, so the formula for aluminum nitrate is Al(NO 3 ) 3 .

@@ -1,0 +1,20 @@
+The angles at which the faces intersect are represented by the Greek letters \alpha , \beta , and \gamma .
+Each of the seven crystal systems differs in terms of the angles between the faces and in the number of edges of equal length on each face.
+Click on the image above to view the table
+A crystal is a substance in which the particles are arranged in an orderly, repeating, three-dimensional pattern.
+The crystal lattice is the three-dimensional arrangement of a solid crystal.
+Use the link below to answer the following questions:
+What is crystallography?
+What is a lattice?
+What types of atomic bonds can exist in crystals?
+What is a crystal?
+List the seven crystal systems.
+crystal:
+A substance in which the particles are arranged in an orderly, repeating, three-dimensional pattern.
+crystal lattice:
+The three-dimensional arrangement of a solid crystal.
+crystal system:
+A classification of crystals.
+There are seven systems.
+Define unit cell.
+Describe the three cubic crystal system unit cells.

@@ -1,0 +1,20 @@
+H + donor
+H + acceptor
+Lewis acids and bases are defined.
+Examples of Lewis acids and bases are given.
+Do the practice problems associated with Section 3 Lewis Theory at the link below:
+What is the difference between a Lewis acid or base and a Brønsted Lowry acid or base?
+What is required to happen in Lewis acid-base reactions?
+Do all Lewis acid-base reactions involve protons?
+Lewis acid:
+A substance that accepts a pair of electrons to form a covalent bond.
+Lewis base:
+A substance that donates a pair of electrons to form a covalent bond.
+Ion-Product of Water
+Define the ion-product constant of water.
+Define acidic solution.
+Define basic solution.
+Use the constant to calculate [H + ] or [OH - ] when the other is known.
+Car batteries contain sulfuric acid
+At one time, you could take the little caps off the top of a car battery and check the condition of the sulfuric acid inside.
+If it got low, you could add more acid.

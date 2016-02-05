@@ -1,0 +1,20 @@
+Draw Lewis electron dot structures for compounds containing double or triple bonds.
+Electron symbols in a box
+What do you do with your leftovers?
+When working with covalent structures, it sometimes looks like you have leftover electrons.
+You apply the rules you learned so far and there are still some electrons hanging out there unattached.
+You can’t just leave them there.
+So where do you put them?
+Multiple Covalent Bonds
+Some molecules are not able to satisfy the octet rule by making only single covalent bonds between the atoms.  Consider the compound ethene, which has a molecular formula of C 2 H 4 .  The carbon atoms are bonded together, with each carbon also being bonded to two hydrogen atoms.
+& \text{two C atoms} = 2 \times 4 = 8 \ \text{valence electrons} \\& \text{four H atoms} = 4 \times 1 = 4 \ \text{valence electrons} \\& \text{total of 12 valence electrons in the molecule}
+If the Lewis electron dot structure was drawn with a single bond between the carbon atoms and with the octet rule followed, it would look like this:
+Incorrect Lewis dot structure of ethene
+Incorrect dot structure of ethene.
+This Lewis structure is incorrect because it contains a total of 14 electrons.  However, the Lewis structure can be changed by eliminating the lone pairs on the carbon atoms and having the share two pairs instead of only one pair.
+Correct Lewis dot structure of ethene
+Correct dot structure for ethene.
+A double covalent bond is a covalent bond formed by atoms that share two pairs of electrons.  The double covalent bond that occurs between the two carbon atoms in ethane can also be represented by a structural formula and with a molecular model as shown in Figure below .
+Structural and molecular model of ethene
+(A) The structural model for C 2 H 4 consists of a double covalent bond between the two carbon atoms and single bonds to the hydrogen atoms. (B) Molecular model of C 2 H 4 .
+A triple covalent bond is a covalent bond formed by atoms that share three pairs of electrons.

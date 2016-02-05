@@ -1,0 +1,20 @@
+Where does the third covalent bond in the CO molecule come from?
+Why is the incorrect structure for CO above wrong?
+Are coordinate covalent bonds stronger or weaker than regular covalent bonds?
+coordinate covalent bond:
+A covalent bond in which one of the atoms contributes both of the electrons in the shared pair.
+Covalent Bonding in Polyatomic Ions
+Draw the Lewis structure of a polyatomic ion when given appropriate information.
+Drawing Lewis structures for polyatomic ions is like extending laws to fit a new situation
+How do we extend basic principles?
+The United States Supreme Court has the unenviable task of deciding what the law is.  This responsibility can be a major challenge when there is no clear principle involved or where there is a new situation not encountered before.  Chemistry faces the same challenge in extending basic concept to fit a new situation.  Drawing of Lewis structures for polyatomic ions uses the same approach, but tweaks the process a little to fit a somewhat different set of circumstances.
+Recall that a polyatomic ion is a group of atoms that are covalently bonded together and which carry an overall electrical charge.
+The ammonium ion, NH 4 + , is formed when a hydrogen ion (H + ) attaches to the lone pair of an ammonia (NH 3 ) molecule in a coordinate covalent bond.
+Structure of the ammonium ion
+The ammonium ion.
+When drawing the Lewis structure of a polyatomic ion, the charge of the ion is reflected in the number of total valence electrons in the structure.  In the case of the ammonium ion:
+& \text{1 N atom} = 5 \ \text{valence electrons} \\& \text{4 H atoms} = 4 \times 1 = 4 \ \text{valence electrons} \\& \text{subtract 1 electron for the 1} + \text{charge of the ion} \\& \text{total of 8 valence electrons in the ion}
+It is customary to put the Lewis structure of a polyatomic ion into a large set of brackets, with the charge of the ion as a superscript outside the brackets.
+Sample Problem:
+Lewis Electron Dot Structure of a Polyatomic Ion
+Draw the Lewis electron dot structure for the sulfate ion.

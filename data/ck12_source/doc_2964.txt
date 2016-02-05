@@ -1,0 +1,20 @@
+\text{velocity} & =\frac{\text{distance}}{\text{time}}\\\& =\frac{36 \ \text{m}}{18 \ \text{s}}\\\& =2 \ \text{m/s east}
+Note that the answer is given in the SI unit for velocity, which is m/s, and it includes the direction that the dog is traveling.
+Q:
+What would the dog’s velocity be if it ran the same distance in the opposite direction but covered the distance in 24 seconds?
+A:
+In this case, the velocity would be:
+\text{velocity} & =\frac{\text{distance}}{\text{time}}\\\& =\frac{36 \ \text{m}}{24 \ \text{s}}\\\& =1.5 \ \text{m/s west}
+Velocity is a measure of both speed and direction of motion.
+Velocity is a vector, which is a measurement that includes both size and direction.
+Velocity can be represented by an arrow, with the length of the arrow representing speed and the way the arrow points representing direction.
+Objects have the same velocity only if they are moving at the same speed and in the same direction.
+Objects moving at different speeds, in different directions, or both have different velocities.
+The average velocity of an object moving in a constant direction is calculated with the formula: \text{velocity}=\frac{\text{distance}}{\text{time}} .
+The SI unit for velocity is m/s, plus the direction the object is traveling.
+At the following URL, review how to calculate speed and velocity, and work through the sample problems.
+Then solve the 10 practice problems.
+What is velocity?
+How does velocity differ from speed?
+Why is velocity a vector?
+Explain how an arrow can be used to represent velocity.

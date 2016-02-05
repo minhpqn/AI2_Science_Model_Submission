@@ -1,0 +1,12 @@
+A SCUBA diver descends deep into the ocean.
+Calculate the water pressure at each of the following depths.
+Ouch!
+You stepped on my foot!
+That is, you put a force of 550 \;\mathrm{N} in an area of 9 \;\mathrm{cm}^2 on the tops of my feet!
+What was the pressure on my feet?
+What is the ratio of this pressure to atmospheric pressure?
+Answers to Selected Problems
+a. 83,000 \;\mathrm{Pa} b. 104 \;\mathrm{N} c. 110 \;\mathrm{N}
+a. 248 \;\mathrm{kPa} b. 591 \;\mathrm{kPa} c. 1081 \;\mathrm{kPa}
+a. 611 \;\mathrm{kPa} b. 6 \;\mathrm{atm}
+In these lessons students will learn how the pressure of a fluid is related to depth, how hydraulic press' work and Archemides principle relating buoyancy force to the amount of displaced fluid.

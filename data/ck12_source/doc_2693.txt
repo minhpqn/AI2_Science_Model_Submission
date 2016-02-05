@@ -1,0 +1,20 @@
+Describe how Lavoisier demonstrated that mass is conserved in chemical reactions.
+These vividly colored maple leaves were all bright green during the summer.
+Every fall, leaves of maple trees change to brilliant red, orange, and yellow colors.
+A change of color is a sign that a chemical change has taken place.
+Maple leaves change color because of chemical reactions.
+Chemical Reactions and Balanced Equations
+A chemical reaction occurs when some substances change chemically to other substances.
+Chemical reactions are represented by chemical equations.
+Consider a simple chemical reaction, the burning of methane.
+In this reaction, methane (CH 4 ) combines with oxygen (O 2 ) in the air and produces carbon dioxide (CO 2 ) and water vapor (H 2 O).
+The reaction is represented by the following chemical equation:
+CH 4 + 2O 2 → CO 2 + 2H 2 O
+This equation shows that one molecule of methane combines with two molecules of oxygen to produce one molecule of carbon dioxide and two molecules of water vapor.
+All chemical equations must be balanced.
+This means that the same number of each type of atom must appear on both sides of the arrow.
+Q:
+Is the chemical equation for the burning of methane balanced?
+Count the atoms of each type on both sides of the arrow to find out.
+A:
+Yes, the equation is balanced.

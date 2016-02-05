@@ -1,0 +1,20 @@
+So that damaged DNA is not replicated, the cell cycle must be temporarily stopped so that the DNA can be repaired.
+The p53 tumor suppressor gene encodes a transcription factor that regulates the synthesis of cell cycle inhibiting proteins ( Figure below ). p53 often activates a gene named p21, whose protein product temporarily stops the cell cycle.
+If the DNA can not be repaired, p53 activates other genes that lead to cell death, or apoptosis.
+This prevents the cell from passing on damaged DNA.
+If the p53 tumor suppressor gene is defective, as by mutation, DNA damage in the cell may accumulate and the cell may survive to replicate the damaged DNA.
+The damaged DNA would then be passed to other cells through many cell divisions, and cancer could develop.
+Signal transduction pathways.
+Ras (upper middle section) activates a number of pathways but an especially important one seems to be the mitogen-activated protein kinases (MAPK).
+MAPK transmit signals downstream to other protein kinases and gene regulatory proteins.
+Note that many of these pathways are initiated when a signal binds to its receptor outside the cell.
+Most pathways end with altered gene regulation and cell proliferation.
+The p53 tumor suppressor protein is shown at the lower section of the figure stimulating p21.
+The interrelated complexity of the pathways demonstrate the significant role these play in the cell.
+apoptosis :
+The process of programmed cell death that may occur in multicellular organisms.
+cancer :
+A disease characterized by a population of cells that grow and divide without respect to normal limits.
+carcinogenesis :
+The process by which normal cells are transformed into cancer cells; also known as oncogenesis or tumorigenesis.
+G protein (guanine nucleotide-binding protein) :

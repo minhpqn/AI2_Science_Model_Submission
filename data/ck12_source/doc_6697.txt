@@ -1,0 +1,20 @@
+A jet airplane during takeoff.
+A baseball during a Barry Bonds home run.
+A spacecraft just after all the rockets turn off in Earth orbit.
+A basketball thrown towards a basket.
+A bullet shot out of a gun.
+An inter-continental ballistic missile.
+A package dropped out of an airplane as it ascends upward with constant speed.
+Decide if each of the statements below is True or False.
+Then, explain your reasoning.
+At a projectile’s highest point, its velocity is zero.
+At a projectile’s highest point, its acceleration is zero.
+The rate of change of the x position is changing with time along the projectile path.
+The rate of change of the y position is changing with time along the projectile path.
+Suppose that after 2 \;\mathrm{s} , an object has traveled 2 \;\mathrm{m} in the horizontal direction.
+If the object is in projectile motion, it must travel 2 \;\mathrm{m} in the vertical direction as well.
+Suppose a hunter fires his gun.
+Suppose as well that as the bullet flies out horizontally and undergoes projectile motion, the shell for the bullet falls directly downward.
+Then, the shell hits the ground before the bullet.
+Imagine the path of a soccer ball in projectile motion.
+Which of the following is true at the highest point in its flight?

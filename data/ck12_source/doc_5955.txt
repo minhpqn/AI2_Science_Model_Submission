@@ -1,0 +1,20 @@
+Step 3:
+Think about your result.
+The volume seems correct given the number of moles.
+Sample Problem Three:
+Converting Volume to Mass
+If we know the volume of a gas sample at STP, we can determine how much mass is present.  Assume we have 867 liters of N 2 at STP.  What is the mass of the nitrogen gas?
+Step 1:
+List the known quantities and plan the problem.
+867 L N 2
+1 mol = 22.4 L
+molar mass of N 2 = 28.02 g/mol
+mass of N 2
+Step 2:
+Calculate.
+We start by determining the number of moles of gas present.
+We know that 22.4 liters of a gas at STP equals one mole, so:
+867 \ \text{litres} \times \frac{1 \ \text{mole}}{22.4 \ \text{liters}}=3.87 \ \text{moles}
+We also know the molecular weight of N 2 (28.0 grams/mole), so we can then calculate the weight of nitrogen gas in 867 liters:
+38.7 \ \text{moles} \times \frac{28 \ \text{grams}}{\text{mole}}=1083.6 \ \text{grams N}_2
+Step 3:

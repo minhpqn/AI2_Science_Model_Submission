@@ -1,0 +1,20 @@
+A pedigree is a chart which shows the inheritance of a trait over several generations.
+A pedigree is commonly created for families, as it can be used to outlines the inheritance patterns of familial traits or genetic disorders.
+It can be used to demonstrate autosomal dominant or recessive inheritance, or sex-linked inheritance.
+Figure below shows a pedigree depicting recessive inheritance of a disorder through three generations.
+The trait is thought to be recessive as for the two individuals with the trait, neither has a parent who also has the trait.
+Geneticists may also be able to determine whether individuals with the trait in question are heterozygous or homozygous for the allele associated with the trait.
+When alleles are added to the pedigree shown ( A or a ), recessive inheritance in conformed.
+In a pedigree, squares symbolize males, and circles represent females.
+A horizontal line joining a male and female indicates that the couple had offspring.
+Vertical lines indicate offspring which are listed left to right, in order of birth.
+Shading of the circle or square indicates an individual who has the trait being traced.
+The inheritance of the recessive trait is being traced.
+A is the dominant allele and a is recessive.
+An "affected" individual has the trait or characteristic (or disease) in question.
+Pedigree analysis is discussed at
+Sex-linked or Autosomal?
+A sex chromosome is a chromosome that determines the sex of an organism.
+Humans have two sex chromosomes, X and Y .
+Females have two X chromosomes ( XX ), and males have one X and one Y chromosome ( XY ).
+An autosome is any chromosome other than a sex chromosome.

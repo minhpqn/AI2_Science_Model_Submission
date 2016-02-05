@@ -1,0 +1,20 @@
+You can learn more about transistors and how they work at this URL:
+Click on the image above for more content
+Diagram of a transistor
+An integrated circuit—also called a microchip—is a tiny, flat piece of silicon that consists of layers of many electronic components such as transistors.
+You can see an integrated circuit in the Figure below .
+Look how small it is compared with the finger it’s resting on.
+Although the integrated circuit is tiny, it may contain millions of smaller electronic components.
+Current flows extremely rapidly in an integrated circuit because it doesn’t have far to travel.
+Integrated circuits are used in virtually all modern electronic devices to carry out specific tasks.
+You can see how integrated circuits are made at this URL:  .
+Click on the image above for more content
+Microchips are very small
+Electronic components are the parts used in electronic devices such as computers.
+Types of electronic components include diodes, transistors, and integrated circuits.
+Electronic components consist of semiconductors, which are solid crystals consisting mainly of silicon.
+There are two types of semiconductors, called n-type and p-type.
+A diode is an electronic component consisting of two semiconductors.
+It is used to change alternating current to direct current.
+A transistor is an electronic component consisting of three semiconductors.
+It can be used to turn current on or off or to increase current.

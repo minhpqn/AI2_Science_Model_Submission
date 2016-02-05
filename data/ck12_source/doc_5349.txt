@@ -1,0 +1,20 @@
+The three unknown transfers are not believed to occur.
+The 3 classes of information transfer suggested by the central dogma
+DNA → DNA
+RNA → DNA
+protein → DNA
+DNA → RNA
+RNA → RNA
+protein → RNA
+RNA → protein
+DNA → protein
+protein → protein
+Reverse transcription is the transfer of information from RNA to DNA.
+The is the reverse of normal transcription.
+Reverse transcription occurs in retroviruses, such as HIV, the virus that causes AIDS.
+Retroviruses are RNA viruses that are duplicated in a host cell by using reverse transcriptase enzyme to produce DNA from its RNA genome.
+Reverse transcription also occurs with retrotransposons and during telomere synthesis in eukaryotes.
+Retrotransposons are self-replicating segments of eukaryotic genomes that use reverse transcriptase to move from one position in the genome to another via a RNA intermediate.
+A telomere is a region of repetitive noncoding nucleotide sequences at each end of a chromosome.
+These sequences protect the end of the chromosome from deterioration or from fusion with neighboring chromosomes.
+Each time DNA is replicated, small segments of DNA from the ends of the chromosome is lost.

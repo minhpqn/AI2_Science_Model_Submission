@@ -1,0 +1,20 @@
+With Earth’s gravity, an object with a mass of 1 kg has a weight of 2.2 lb.
+How much does a 10 kg object weigh on Earth?
+A:
+A 10 kg object weighs ten times as much as a 1 kg object:
+10 × 2.2 lb = 22 lb
+Volume is a measure of the amount of space that a substance or an object takes up.
+The basic SI unit for volume is the cubic meter (m 3 ), but smaller volumes may be measured in cm 3 , and liquids may be measured in liters (L) or milliliters (mL).
+How the volume of matter is measured depends on its state.
+The volume of a liquid is measured with a measuring container, such as a measuring cup or graduated cylinder.
+The volume of a gas depends on the volume of its container: gases expand to fill whatever space is available to them.
+The volume of a regularly shaped solid can be calculated from its dimensions.
+For example, the volume of a rectangular solid is the product of its length, width, and height.
+The volume of an irregularly shaped solid can be measured by the displacement method.
+You can read below how this method works.
+For a video on the displacement method, go to this URL:
+Click on the image above for more content
+Q:
+How could you find the volume of air in an otherwise empty room?
+A:
+If the room has a regular shape, you could calculate its volume from its dimensions.

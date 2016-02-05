@@ -1,0 +1,20 @@
+Order them from the greatest electric potential to the least.
+A, B, C
+C, B, A
+B, A, C
+B, C, A
+A = B = C \ldots they’re all at the same potential
+The three arrows shown here represent the magnitudes of the electric field and the directions at the tail end of each arrow.
+Consider the distribution of charges which would lead to this arrangement of electric fields.
+Which of the following is most likely to be the case here?
+A positive charge is located at point A
+A negative charge is located at point B
+A positive charge is located at point B and a negative charge is located at point C
+A positive charge is located at point A and a negative charge is located at point C
+Both answers a) and b) are possible
+Particles A and B are both positively charged.
+The arrows shown indicate the direction of the forces acting on them due to an applied electric field (not shown in the picture).
+For each, draw in the electric field lines that would best match the observed force.
+Calculate the electric field a distance of 4.0 \;\mathrm{mm} away from a -2.0 \ \mu \mathrm{C} charge.
+Copy the arrangement of charges below.
+Draw the electric field from the -2 \;\mathrm{C} charge in one color and the electric field from the +2 \;\mathrm{C} charge in a different color.

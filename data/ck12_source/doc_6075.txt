@@ -1,0 +1,20 @@
+The opposite of vaporization and both represent the equilibrium between the liquid and gas states.
+deposition:
+The process of a gas turning to a solid.
+The opposite of sublimation and both represent the equilibrium between the solid and gas states.
+evaporation:
+Occurs when a liquid turns to a gas.
+freezing:
+The process of a liquid turning to a solid.
+The opposite of melting and both represent the equilibrium between the solid and liquid states.
+gas:
+State of matter that fills all available space.
+liquid:
+State of matter with a definite volume and takes the shape of its container.
+melting:
+The process of a solid turning to a liquid.
+solid:
+State of matter with a definite shape and volume.
+sublimation:
+The process of a solid turning to a gas.
+General Phase Diagram

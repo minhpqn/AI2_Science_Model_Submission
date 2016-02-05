@@ -1,0 +1,20 @@
+Two important devices depend on electromagnetic induction: electric generators and electric transformers.
+Both devices play critical roles in producing and regulating the electric current we depend on in our daily lives.
+Electric generators use electromagnetic induction to change kinetic energy to electrical energy.
+They produce electricity in power plants.
+Electric transformers use electromagnetic induction to change the voltage of electric current.
+Some transformers increase voltage and other decrease voltage.
+Q:
+How do you think the girl on the exercise bike in the opening photo is using electromagnetic induction?
+A:
+As she pedals the bike, the kinetic energy of the turning pedals is used to move a conductor through a magnetic field.
+This generates electric current by electromagnetic induction.
+Electromagnetic induction is the process of generating electric current with a magnetic field.
+It occurs whenever a magnetic field and an electric conductor move relative to one another so the conductor crosses lines of force in the magnetic field.
+The current produced by electromagnetic induction is greater when the magnet or coil moves faster, the coil has more turns, or the magnet is stronger.
+If the magnet or coil is moved back and forth repeatedly, alternating current is produced.
+Electric generators and electric transformers use electromagnetic induction to generate electricity or change the voltage of electric current.
+Simulate electromagnetic induction at the following URL.
+Then answer the questions below.
+How is electric current created in the simulation?
+What type of current is it?

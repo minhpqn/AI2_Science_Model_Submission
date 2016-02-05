@@ -1,0 +1,20 @@
+Cosine is easier in this case so we will work with it instead of sine.
+As we can see from the graph, the amplitude is 2, the vertical shift is 0, and the horizontal shift is -.4 .
+We solved for the period already.
+Therefore, we can write the sinusoidal equation of this graph.
+AcosB(x-C)+D=2cos\pi(x+.4)
+Watch this Explanation
+Click on the image above for more content
+While treading water, you notice a buoy way out towards the horizon.
+The buoy is bobbing up and down in simple harmonic motion.
+You only see the buoy at the most upward part of its cycle.
+You see the buoy appear 10 times over the course of one minute.
+What kind of force that is leading to simple harmonic motion?
+What is the period (T) and frequency (f) of its cycle?
+Use the proper units.
+The pitch of a Middle C note on a piano is 263\;\mathrm{Hz} .
+This means when you hear this note, the hairs in your ears wiggle back and forth at this frequency.
+What is the period of oscillation for your ear hairs?
+What is the period of oscillation of the struck wire within the piano?
+The Sun tends to have dark, Earth-sized spots on its surface due to kinks in its magnetic field.
+The number of visible spots varies over the course of years.

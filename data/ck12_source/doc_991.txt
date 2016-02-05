@@ -1,0 +1,20 @@
+The form below shows Kelvin temperature along the horizontal axis going from high temperature on the left to low temperature on the right and luminosity on the vertical axis.
+We can think of the luminosity as brightness in multiples of the Sun.
+A luminosity of 100 on the axis would mean 100 times as bright as the Sun.
+The Hertzsprung Russell Diagram helps classify stars into different groups
+Most of the stars occupy a region in the diagram along a line called the Main Sequence.
+During that stage, stars are fusing hydrogen into helium in their cores.
+The position of the Sun in the main sequence is shown in the diagram.
+You should note that the axial scales for this diagram are not linear.
+The vertical scale is logarithmic, each line is 100 times greater than the previous line.
+On the horizontal axis, as we move to the right, the temperature reduces by between 1,000 and 10,000 degrees K between each line.
+If all other factors were the same, the highest temperature stars would also be the most luminous (the brightest).
+In the main sequence of stars, we see that as the temperature increases to the left, the luminosity also increases, demonstrating that the hottest stars in this grouping are also the brightest.
+There are stars, however, that are less bright than their temperature would predict.
+This group of stars is called white dwarfs.
+These stars are less bright than expected because of their very small size.
+These dwarf stars are only one one-thousandth the size of stars in the main sequence.
+There are also stars that are much brighter than their temperature would predict.
+This group of stars are called red giants.
+They are brighter than their temperature would predict because they are much larger than stars in the main sequence.
+These stars have expanded to several thousand times the size of stars in the main sequence.

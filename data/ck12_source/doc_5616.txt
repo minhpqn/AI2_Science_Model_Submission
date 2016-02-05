@@ -1,0 +1,20 @@
+Too little current and the system simply does not perform.  The resistors values are always given with an error range.  A resistor may have a stated value of 200 ohms, but a 10% error range, meaning the resistance could be anywhere between 195-205 ohms.  By knowing these values, an electronics person can design and service the equipment to make sure it functions properly.
+An individual measurement may be accurate or inaccurate, depending on how close it is to the true value.  Suppose that you are doing an experiment to determine the density of a sample of aluminum metal.
+The accepted value of a measurement is the true or correct value based on general agreement with a reliable reference.  For aluminum the accepted density is 2.70 g/cm 3 .  The experimental value of a measurement is the value that is measured during the experiment.
+Suppose that in your experiment you determine an experimental value for the aluminum density to be 2.42 g/cm 3 .  The error of an experiment is the difference between the experimental and accepted values.
+\text{Error}=\text{experimental value}-\text{accepted value}
+If the experimental value is less than the accepted value, the error is negative.  If the experimental value is larger than the accepted value, the error is positive.  Often, error is reported as the absolute value of the difference in order to avoid the confusion of a negative error.  The percent error is the absolute value of the error divided by the accepted value and multiplied by 100%.
+\% \ \text{Error}=\frac{|\text{experimental value}-\text{accepted value}|}{\text{accepted value}} \times 100 \%
+To calculate the percent error for the aluminum density measurement, we can substitute the given values of 2.45 g/cm 3 for the experimental value and 2.70 g/cm 3 for the accepted value.
+\% \ \text{Error}=\frac{|2.45 \ \text{g}/\text{cm}^3-2.70 \ \text{g}/\text{cm}^3|}{2.70 \ \text{g}/\text{cm}^3} \times 100 \% = 9.26 \%
+If the experimental value is equal to the accepted value, the percent error is equal to 0.  As the accuracy of a measurement decreases, the percent error of that measurement rises.
+Definitions of accepted value and experimental value are given.
+Calculations of error and percent error are demonstrated.
+Read the material at the link below and then do “Your Turn” questions to see how well you did.
+Define accepted value.
+Define experimental value
+What happens as the accuracy of the measurement decreases?
+accepted value:  The true or correct value based on general agreement with a reliable reference.
+error:  The difference between the experimental and accepted values.
+experimental value:  The value that is measured during the experiment.
+percent error:

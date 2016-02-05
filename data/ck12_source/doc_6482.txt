@@ -1,0 +1,20 @@
+& \text{Zn}(s) \rightarrow \text{Zn}^{2+}(aq) + 2e^- \ (\text{anode} - \text{oxidation})\\& 2\text{H}^+ + 2e^- \rightarrow \text{H}_2 \ (\text{cathode} - \text{reduction})
+and the measured cell voltage is 0.76 volts (abbreviated as v).
+We define the standard emf (electromotive force) of the cell as:
+E^0{_{\text{cell}}} &= E^0{_{\text{cathode}}} - E^0{_{\text{anode}}} \\0.76 \text{ V} &= 0 - E^0_{\text{Zn cell}} \\E^0_{\text{Zn cell}} &= - 0.76 \ \text{volts}
+We can do the same determination with a copper cell ( Figure below ).
+Standard hydrogen half-cell with copper half-cell
+The standard hydrogen half-cell paired with a copper half-cell.
+As we run the reaction, we see that the mass of the copper increases, so we write the half-reaction:
+\text{Cu}^{2+} + 2 e^- \rightarrow \text{Cu}
+This makes the copper electrode the cathode.
+We now have the two half-reactions:
+& \text{H}_2 \rightarrow 2\text{H}^+ + 2 e^- \ \text{(anode)}\\& \text{Cu}^{2+} + 2 e^- \rightarrow \text{Cu} \ \text{(cathode)}
+and we determine the E^0  for the system to be 0.34 v.
+Again, E^0{_{\text{cell}}} = E^0{_{\text{cathode}}} - E^0{_{\text{anode}}}
+0.34 \text{ V} = E^o_{\text{copper}} - 0 \ \text{so copper potential} = 0.34 \text{ V}
+Now we want to build a system in which both zinc and copper are involved.
+We know from the activity series that zinc will be oxidized and cooper reduced, so we can use the values at hand:
+E^0{_{\text{cell}}} = 0.34 \text{ V (copper)} - (-0.76 \text{ V zinc}) = 1.10 \ \text{volts for the cell}
+The structure of the standard hydrogen electrode is described.
+Examples of using this electrode to determine reduction potentials are given.

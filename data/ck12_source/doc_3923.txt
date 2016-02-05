@@ -1,0 +1,20 @@
+Compare and contrast exponential and logistic growth.
+Define carrying capacity.
+Distinguish K -selected from r -selected species.
+What starts out very small and has the potential to grow considerably larger?
+Trees, of course.
+But also populations.
+Give a population everything it needs to survive, and the growth of that population will be tremendous.
+Patterns of Population Growth
+Populations may show different patterns of growth.
+The growth pattern depends partly on the conditions under which a population lives.
+Under ideal conditions, populations of most species can grow at exponential rates.
+Curve A in Figure below represents exponential growth .
+The population starts out growing slowly.
+As population size increases, the growth rate also increases.
+The larger the population becomes, the faster it grows.
+Graph of exponential versus logistic growth
+Exponential and Logistic Growth.
+Curve A shows exponential growth.
+Curve B shows logistic growth.
+Most populations do not live under ideal conditions.

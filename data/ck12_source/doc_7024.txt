@@ -1,0 +1,20 @@
+So 240\mathrm{kW} is 27\% of what? .27x=240\mathrm{kW} \Rightarrow x=\frac{240\mathrm{kW}}{.27}=890\mathrm{kW}
+d) Since we know how much power is being put into the engine and how much energy is actually being used to lift the weight, we can determine how much energy is not actually being used to do work.
+890\;\text{kW} - 240\;\text{kW}=650\;\text{kW}\\
+e) For this part of the problem, we need to convert the power being put into the engine into the amount of fuel being used(kW or kJ/s \Rightarrow kg/hr).
+890\;\text{kW}*\frac{1\;\text{kg}}{2.7*10^6\;\text{J}} * 3600\;\text{s/hr}=1186\;\text{kg/hr}\\
+Watch this Explanation
+Click on the image above for more content
+Below is a graph of the pressure and volume of a gas in a container that has an adjustable volume.
+The lid of the container can be raised or lowered, and various manipulations of the container change the properties of the gas within.
+The points a, b, and c represent different stages of the gas as the container undergoes changes (for instance, the lid is raised or lowered, heat is added or taken away, etc.) The arrows represent the flow of time.
+Use the graph to answer the first three questions.
+Consider the change the gas undergoes as it transitions from point b to point c .
+What type of process is this?
+Consider the change the gas undergoes as it transitions from point c to point a .
+What type of process is this?
+none of the above
+Consider the change the gas undergoes as it transitions from point a to point b .
+Which of the following best describes the type of process shown?
+Calculate the ideal efficiencies of the following sci-fi heat engines:
+A nuclear power plant on the moon.

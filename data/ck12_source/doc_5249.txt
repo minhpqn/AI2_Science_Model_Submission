@@ -1,0 +1,20 @@
+Genetics is the branch of biology that focuses on heredity.
+The basics of heredity are similar for all organisms that reproduce sexually: the offspring receive one set of genetic material from one parent and the other set from the other parent.
+But are there aspects of genetics that are specific for humans?
+Let’s find out.
+Human genetics is the study of inheritance as it occurs in human beings.
+Human genetics addresses questions concerning human life.
+These include questions about human nature, human development and disease, and the diagnosis and treatment of disease.
+The general field of human genetics encompasses a variety of overlapping specific fields including: classical genetics, cytogenetics, molecular genetics, biochemical genetics, genomics, population genetics, developmental genetics, medical genetics and genetic counseling.
+All of these specific fields, however, analyze the inheritance of genes in humans.
+As the gene is the unit that determines a trait, it is also the unit that determines a disease phenotype.
+A genetic disease is a phenotype due to a mutation in a gene or chromosome.
+Many of these mutations are present at conception and are therefore in every cell of the body.
+Mutant alleles may be inherited from one or both parents, resulting in a dominant or recessive hereditary disease.
+Currently, there are over 4,000 known genetic disorders, with many more phenotypes yet to be identified.
+Theoretically, every human gene, when disrupted due to a mutation, could result in at least one disease-type phenotype, including prenatal lethal phenotypes.
+Genetic diseases are typically diagnosed and treated by a geneticist , a medical doctor specializing in these disorders, many of which are extremely rare and difficult to diagnose.
+Individuals and families with genetic diseases, or suspected genetic diseases, are often counseled by genetic counselors , individuals trained in human genetics and counseling.
+To understand human genetic diseases, you first need to understand human chromosomes and genes.
+Two of the most important human medical geneticists are Victor A.
+McKusick (1921–2008) and David L.

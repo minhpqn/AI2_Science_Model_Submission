@@ -1,0 +1,20 @@
+How this happens depends on whether the cell is prokaryotic or eukaryotic.
+Cell division is simpler in prokaryotes than eukaryotes because prokaryotic cells themselves are simpler.
+Prokaryotic cells have a single circular chromosome, no nucleus, and few other organelles.
+Eukaryotic cells, in contrast, have multiple chromosomes contained within a nucleus, and many other organelles.
+All of these cell parts must be duplicated and then separated when the cell divides.
+A chromosome is a molecule of DNA, and will be the focus of a subsequent concept.
+Cell Division in Prokaryotes
+Most prokaryotic cells divide by the process of binary fission .
+A bacterial cell dividing this way is depicted in Figure below .
+You can also watch an animation of binary fission at this link:
+Binary fission of bacteria
+Binary Fission in a Bacterial Cell.
+Cell division is relatively simple in prokaryotic cells.
+The two cells are dividing by binary fission.
+Green and orange lines indicate old and newly-generated bacterial cell walls, respectively.
+Eventually the parent cell will pinch apart to form two identical daughter cells.
+Left, growth at the center of bacterial body.
+Right, apical growth from the ends of the bacterial body.
+Binary fission can be described as a series of steps, although it is actually a continuous process.
+The steps are described below and also illustrated in Figure below .

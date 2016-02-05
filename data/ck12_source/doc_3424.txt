@@ -1,0 +1,20 @@
+These experiments are described in the following KQED links:
+Click on the image above for more content
+Click on the image above for more content
+An experiment generally tests how one variable is affected by another.
+The affected variable is called the dependent variable .
+In the plant experiment shown above, the dependent variable is plant growth.
+The variable that affects the dependent variable is called the independent variable .
+In the plant experiment, the independent variable could be fertilizer—some plants will get fertilizer, others will not.
+The scientists change the amount of the independent variable (the fertilizer) to observe the effects on the dependent variable (plant growth).
+An experiment needs to be run simultaneously in which no fertilizer is given to the plant.
+This would be known as a control experiment.  In any experiment, other factors that might affect the dependent variable must be controlled.
+In the plant experiment, what factors do you think should be controlled? ( Hint:
+What other factors might affect plant growth?)
+Sample Size and Repetition
+The sample in an experiment or other investigation consists of the individuals or events that are studied, and the size of the sample (or sample size ) directly affects the interpretation of the results.
+Typically, the sample is much smaller than all such individuals or events that exist in the world.
+Whether the results based on the sample are true in general cannot be known for certain.
+However, the larger the sample is, the more likely it is that the results are generally true.
+Similarly, the more times that an experiment is repeated (which is known as repetition ) and the same results obtained, the more likely the results are valid.
+This is why scientific experiments should always be repeated.

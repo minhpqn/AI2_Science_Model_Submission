@@ -1,0 +1,20 @@
+The amount of reactants and products do not have to be equal.
+However, after equilibrium is attained, the amounts of reactants and products will be constant.
+The description of equilibrium in this concept refers primarily to equilibrium between reactants and products in a chemical reaction.
+Other types of equilibrium include phase equilibrium and solution equilibrium.
+A phase equilibrium occurs when a substance is in equilibrium between two states.
+For example, a stoppered flask of water attains equilibrium when the rate of evaporation is equal to the rate of condensation.
+A solution equilibrium occurs when a solid substance is in a saturated solution.
+At this point, the rate of dissolution is equal to the rate of recrystallization.
+Although these are all different types of transformations, most of the rules regarding equilibrium apply to any situation in which a process occurs reversibly.
+The concept of chemical equilibrium is described.
+Conditions for chemical equilibrium are listed.
+Read the material at the link below and answer the following questions:
+What is a closed system?
+What is a dynamic system?
+What happens if you change the relative rates of the forward and back reactions?
+What is chemical equilibrium?
+In the reaction illustrated in the text, does the equilibrium concentration of HI equal the equilibrium concentrations of H 2 and I 2 ?
+Does the position at equilibrium depend upon how the equilibrium was reached?
+chemical equilibrium:
+The state of a system in which the rate of the forward reaction is equal to the rate of the reverse reaction.

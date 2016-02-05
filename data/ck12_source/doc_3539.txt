@@ -1,0 +1,20 @@
+Every cell is contained within a membrane punctuated with transport proteins that act as channels or pumps to let in or force out certain molecules.
+The purpose of the transport proteins is to protect the cell's internal environment and to keep its balance of salts, nutrients, and proteins within a range that keeps the cell and the organism alive.
+There are three main ways that molecules can pass through a phospholipid membrane.
+The first way requires no energy input by the cell and is called passive transport.
+The second way requires that the cell uses energy to pull in or pump out certain molecules and ions and is called active transport.
+The third way is through vesicle transport, in which large molecules are moved across the membrane in bubble-like sacks that are made from pieces of the membrane.
+Passive transport is a way that small molecules or ions move across the cell membrane without input of energy by the cell.
+The three main kinds of passive transport are diffusion, osmosis, and facilitated diffusion.
+Diffusion is the movement of molecules from an area of high concentration of the molecules to an area with a lower concentration.
+The difference in the concentrations of the molecules in the two areas is called the concentration gradient .
+Diffusion will continue until this gradient has been eliminated.
+Since diffusion moves materials from an area of higher concentration to the lower, it is described as moving solutes "down the concentration gradient." The end result of diffusion is an equal concentration, or equilibrium , of molecules on both sides of the membrane.
+If a molecule can pass freely through a cell membrane, it will cross the membrane by diffusion ( Figure below ).
+A schematic of diffusion, how molecules move until an equilibrium is met
+Molecules move from an area of high concentration to an area of lower concentration until an equilibrium is met.
+The molecules continue to cross the membrane at equilibrium, but at equal rates in both directions.
+The cell membrane is selectively permeable, allowing only certain substances to pass through.
+Passive transport is a way that small molecules or ions move across the cell membrane without input of energy by the cell.
+The three main kinds of passive transport are diffusion, osmosis, and facilitated diffusion.
+Diffusion is the movement of molecules from an area of high concentration of the molecules to an area with a lower concentration.

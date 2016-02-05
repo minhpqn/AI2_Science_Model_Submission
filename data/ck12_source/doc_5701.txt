@@ -1,0 +1,20 @@
+While Bohr’s model represented a great advancement in the atomic model and the concept of electron transitions between energy levels is valid, improvements were needed in order to fully understand all atoms and their chemical behavior.
+Emission lines for hydrogen correspond to energy changes related to electron transitions.
+The Bohr model works only for the hydrogen atom.
+Use the link below to answer the following questions:
+How many volts can be used to generate a hydrogen line spectrum?
+Can you see the Lyman series with the naked eye?
+Which series can we at least partially see?
+What happens to the hydrogen gas in a discharge tube?
+What happens when a hydrogen atoms absorbs one or more quanta of energy?
+How do we detect the change in energy?
+What electron transitions are presented by the lines of the Paschen series?
+Does the Bohr model work for atoms other than hydrogen?
+electron transition:
+Movement of an electron from one energy level to another.
+de Broglie Wave Equation
+State the de Broglie wave equation.
+Use this equation to calculate the wavelength of a moving object.
+Bohr’s model of the atom was valuable in demonstrating how electrons were capable of absorbing and releasing energy and how atomic emission spectra were created.
+However, the model did not really explain why electrons should exist only in fixed circular orbits rather than being able to exist in a limitless number of orbits all with different energies.
+In order to explain why atomic energy states are quantized, scientists needed to rethink the way in which they viewed the nature of the electron and its movement.

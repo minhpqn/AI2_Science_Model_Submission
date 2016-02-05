@@ -1,0 +1,20 @@
+Transport proteins within the membrane allow these molecules to cross the membrane into or out of the cell.
+This way, polar molecules avoid contact with the nonpolar interior of the membrane, and large molecules are moved through large pores.
+Every cell is contained within a membrane punctuated with transport proteins that act as channels or pumps to let in or force out certain molecules.
+The purpose of the transport proteins is to protect the cell's internal environment and to keep its balance of salts, nutrients, and proteins within a range that keeps the cell and the organism alive.
+There are four main ways that molecules can pass through a phospholipid membrane.
+The first way requires no energy input by the cell and is called simple diffusion.
+This type of transport includes passive diffusion and osmosis.
+No assistance by a transport is necessary in simple diffusion.
+Facilitated diffusion, does involve the assistance of transport proteins.
+The third way, called active transport , requires that the cell uses energy to pull in or pump out certain molecules and ions.
+Active transport involves proteins known as pumps.
+The fourth way is through vesicle transport , in which large molecules are moved across the membrane in bubble-like sacks that are made from pieces of the membrane.
+Vesicular transport includes exocytosis and endocytosis.
+Homeostasis and Cell Transport
+Homeostasis refers to the balance, or equilibrium, within the cell or a body.
+It is an organism’s ability to keep a constant internal environment.
+Keeping a stable internal environment requires constant adjustments as conditions change inside and outside the cell.
+The adjusting of systems within a cell is referred to as homeostatic regulation.
+Because the internal and external environments of a cell are constantly changing, adjustments must be made continuously to stay at or near the normal proportions of all internal substances.
+This involves continual adjustments in transport of substances across the cell membrane.

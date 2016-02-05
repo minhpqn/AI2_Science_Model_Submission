@@ -1,0 +1,20 @@
+Obviously, direction is an important component of motion.
+Direction can be described in relative terms, such as up, down, in, out, left, right, forward, backward, or sideways.
+Direction can also be described with the cardinal directions: north, south, east, or west.
+On maps, cardinal directions are indicated with a compass rose.
+You can see one in the bottom left corner of the map in the Figure below .
+You can use the compass rose to find directions on the map.
+For example, to go to the school from Jordan’s house, you would travel from east to west.
+If you wanted to go on to the post office, you would change direction at the school and then travel from south to north.
+Direction is an important component of a map
+Why Direction Is Important
+Look again at the map in the Figure above .
+The distance from Jordan’s house to the post office is 3 km.
+But if Jordan told a friend how to reach the post office from his house, he couldn’t just say “go 3 kilometers.” The friend might end up at the park instead of the post office.
+Jordan would have to include direction as well as distance.
+He could say, “go west for 2 kilometers and then go north for 1 kilometer.”
+Motion and Vectors
+When both distance and direction are considered, motion can be represented by a vector.
+A vector is a measurement that has both size and direction.
+It may be represented by an arrow.
+If you are representing motion with an arrow, the length of the arrow represents distance, and the way the arrow points represents direction.

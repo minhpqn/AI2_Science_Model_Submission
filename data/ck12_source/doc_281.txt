@@ -1,0 +1,20 @@
+This type of pulley is called a  fixed pulley , and is labeled  A  in the image below.
+Diagram of various pulleys with different ideal mechanical advantage
+Another type of pulley is shown above as  B .
+This type of pulley is called a  movable pulley.  A set of pulleys assembled so they rotate independently on the same axle form a block.
+It is shown below in a system called a  block and tackle .
+A block and tackle consists of two blocks, in which one block is fixed and the other is movable; the movable block is attached to the load.
+The IMA of a pulley system can be determined by counting the number of supporting strands of rope in the system.
+Be careful though, because in some systems the rope to which the effort force is applied will be a supporting strand, but in others it is not.
+For example, in the image above with the five pulley systems, the rope to which the effort force is applied (the one with the arrowhead) in  A  is not a supporting strand because it does not hold up any of the weight of the load.
+The IMA of  A  is 1.
+In  B , however, the effort rope is supporting half of the weight of the load and is therefore a supporting strand.  B  has 2 supporting strands and an IMA of 2.
+Example Problem:  Determine the IMA for  C, D,  and  E  in the image above.
+C = 2 supporting strands;
+IMA = 2
+D = 3 supporting strands;
+IMA = 3
+E = 3 supporting strands;
+IMA = 3
+If the direction of the effort force is in the same direction and the movement of the load, the effort strand will be a supporting strand.
+If the direction of the effort force is in the same direction as the resistance force, the effort strand is not a supporting strand.

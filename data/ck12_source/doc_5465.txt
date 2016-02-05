@@ -1,0 +1,20 @@
+DNA engineered through the combination of two or more DNA strands; combines DNA sequences which would not normally occur together.
+restriction endonuclease :
+An enzyme that cuts double-stranded DNA; also known as a restriction enzyme.
+restriction enzyme :
+An enzyme that cuts double-stranded DNA; also known as a restriction endonuclease.
+restriction site :
+DNA sequence recognized and digested by a restriction enzyme.
+transfection :
+The insertion of foreign DNA into a host cell.
+transformation :
+The change in genotype and phenotype of a cell/organism due to the assimilation of external DNA (heredity material) by a cell.
+Gene cloning, also known as molecular cloning, refers to the process of isolating a DNA sequence of interest for the purpose of making multiple copies of it.
+Classic gene cloning involves the following steps:
+Restriction enzyme digestion and ligation.
+Isolation of DNA.
+Transfection and Selection.
+Use this resource to answer the questions that follow.
+Gene Cloning at
+What is gene cloning?
+What is a gene library?

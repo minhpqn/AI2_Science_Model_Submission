@@ -1,0 +1,20 @@
+That is, the oscillating fields may be oscillating vertically, horizontally, and in every other direction.
+Light typically consists of oscillating fields in all directions, but always travels in a straight line.
+Filters can be constructed such that only light with the fields oscillating in a certain direction can pass through the filter.
+This is much like having a large number of ropes passing through the slots in a picket fence.
+The ropes have transverse waves oscillating in all possible directions moving toward the fence.
+When the waves encounter the fence, only the oscillations that are vertical and fit through the slots in the fence will be allowed to pass through.
+Light that has all its field oscillations in the same direction is said to be polarized .
+Light in the Shadows: the Poisson Spot
+The wave theory of light predicts that there should be a bright spot right in the center of the shadow of a spherical object.
+This sounds crazy...but is it true?
+This MIT video discusses the Poisson Spot, named after the French mathematician Simeon Denis Poisson .
+See the video at   .
+Click on the image above for more content
+We see objects because they either generate or reflect light, which then enters our eyes.
+Visible light is a small fraction of the energy we call electromagnetic radiation.
+Electromagnetic radiation is a form of energy that consists of oscillating electric and magnetic fields traveling at the speed of light.
+The energy of an electromagnetic wave travels in a straight line along the path of the wave.
+In a vacuum, every electromagnetic wave has a velocity of 3.00 \times 10^8 \ m/s , which is symbolized by the lower case c .
+The relationship of velocity, wavelength, and frequency of electromagnetic waves is: c = \lambda f .
+Light that has all its field oscillations in the same direction is said to be polarized.

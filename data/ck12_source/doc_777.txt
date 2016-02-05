@@ -1,0 +1,20 @@
+What happens when the ammeter is connected in parallel with the lamp?
+Why do the problems occur when the narrator places the ammeter in parallel with the lamp?
+Practice problem for identifying correct and incorrect positions of voltmeters and ammeters
+In the sketch at above, there are four positions available for the placement of meters.
+Which position(s) would be appropriate for placement of an ammeter?
+All of them.
+None of them.
+Which position(s) would be appropriate for placement of a voltmeter?
+All of them.
+None of them.
+Which position could hold an ammeter that would read the total current through the circuit?
+None of them.
+Which position could hold a voltmeter that would read the total voltage drop through the circuit?
+3 or 4
+All of them.
+None of them.
+ammeter:
+A measuring instrument used to measure the electric current in a circuit.
+voltmeter:
+An instrument used for measuring electrical potential difference between two points in an electric circuit.

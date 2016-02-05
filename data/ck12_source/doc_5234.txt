@@ -1,0 +1,20 @@
+Why do genes need to be unlinked for a dihybrid cross to predict proper outcomes of crosses?
+Mendel carried out a dihybrid cross to examine the inheritance of the characteristics for seed color and seed shape.
+The dominant allele for yellow seed color is Y, and the recessive allele for green color is y.
+The dominant allele for round seeds is R, and the recessive allele for a wrinkled shape is r.
+The two plants that were crossed were F1 dihybrids RrYy.
+Identify the ratios of traits that Mendel observed in the F2 generation, and explain in terms of phenotype what each number means.
+Create a Punnett square to help you answer the question.
+If AaBb is crossed with aabb, what proportion of the offspring would be expected to be aabb?
+Assume that you mated two individuals heterozygous for each of two traits and obtained 80 offspring.
+How many of them would be expected to look like their parents?
+Mendelian Inheritance in Humans - Advanced
+Examine how a pedigree is used in the study of human inheritance.
+Why is understanding your family's genetic history important?
+If a genetic disorder runs throughout your family, understanding this history can help evaluate your and other's genetic risks associated with that phenotype.
+This can be especially important as you decide to have your own children.
+Mendelian Inheritance in Humans
+Inheritance in humans is not as straight-forward as that in the pea plant.
+Though some traits are inherited in simple Mendelian fashion, many are not.
+To analyze simple Mendelian inheritance a pedigree is often utilized.
+This is especially helpful in tracking the inheritance of a specific trait, characteristic or disorder (or allele) through a family.

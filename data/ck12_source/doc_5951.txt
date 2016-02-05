@@ -1,0 +1,20 @@
+There is no need to explicitly calculate the moles of Cl 2 .
+Step 3:
+Think about your result.
+Since the given mass is less than half of the molar mass of chlorine, the resulting number of molecules is less than half of Avogadro’s number.
+Calculations are illustrated for conversions between mass and number of particles.
+Read the material at the link below and then do practice problems on page 9 and the problem on page 17 (don’t peak at the answers until you have tried the problems).
+Why can’t we convert directly from number of particles to grams?
+How many atoms of chlorine are present in the problem above?
+The periodic table says the atomic weight of chlorine is 35.5.
+Why can’t I use that value in my calculations?
+Avogadro's Hypothesis and Molar Volume
+State Avogadro’s hypothesis.
+Define standard temperature and pressure.
+Define molar volume.
+Gas laws are used to determine the amount of air in a scuba tank
+How do scuba divers know if they will run out of gas?
+Knowing how much gas is available for a dive is crucial to the survival of the diver.
+The tank on the diver’s back is equipped with gauges to tell how much gas is present and what the pressure is.
+A basic knowledge of gas behavior allows the diver to assess how long to stay under water without developing problems.
+Avogadro’s Hypothesis and Molar Volume

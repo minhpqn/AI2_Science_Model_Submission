@@ -1,0 +1,20 @@
+Moment of Inertia
+Define and calculate momentum of inertia.
+Students will learn what is momentum of inertia, what determines a large or small moment of inertia for an object and how to calculate moment of inertia.
+I = \sum m_{\text{i}} r^2_{\text{i}}
+Guidance Moment of inertia tells you how difficult it is to rotate an object.
+It is equivalent to the mass in linear problems.
+Moment of inertia is proportional to an objects mass and to it's distance from the rotational axis squared.
+The distance from the rotational axis dominates over the objects mass due to the square power.
+Thus the more mass an object has at it's 'edges' the more moment of inertia it has.
+Thus if you grab a big long pole and hold it at the center, it is fairly easy to rotate.
+However, if you hold the same pole at the end and try to rotate it -not so easy!
+Finally, moment of inertias can be added as long as the rotating parts in question are rotating around the same axis.
+For example, the moment of inertia of a pole with a mass at its end is the sum of the individual moment of inertias of each object involved.
+See example 2 for another problem where the moment of inertias are added together.
+Click on the image above for more content
+Two 2 kg masses is placed at either end of a rod that has a mass of .5 kg and a length of 3 m.
+What is the moment of inertia if the system it is rotated about (a) one end of the rod and (b) the center of the rod?
+For both parts of this problem we will be summing the moment of inertia's for each component of the system based on the table above.
+We will treat the masses as satellites when calculating their moment of inertia's.
+(a):

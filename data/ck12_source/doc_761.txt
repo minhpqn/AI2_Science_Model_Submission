@@ -1,0 +1,20 @@
+The three most common protective devices are fuses, circuit breakers, and surge protectors.
+An electrical fuse is a device that sacrifices itself to provide over-current protection in an electrical circuit.
+Conducting wires have a small electrical resistance.
+The electrical resistance of a conducting wire is related to the type of metal used and inversely related to the cross-sectional area of the wire.
+The larger the diameter of a wire, the greater the cross-sectional area, and the lower the electrical resistance will be.
+When electrons flow through a wire, they repel each other and interfere with the passage of other electrons.
+If there are a very large number of electrons passing through a wire with small diameter, the electrons will experience a greater resistance than if the wire diameter were larger and the electrons had more space between them.
+Close-up image of an electrical fuse
+The image above is one type of electrical fuse.
+This fuse has a specially designed wire inside glass housing.
+The wire inside the glass is made of a particular metal and with a particular thickness to give the wire an exact resistance.
+This resistance will allow passage of normal current plus a marginal percentage more.
+If, however, the current exceeds the allowed value, the wire in the fuse will heat and melt, thus interrupting current flow through the circuit.
+The fuse wire is placed in the glass housing and a fuse mount to insulate the melting wire from its surroundings.
+Any unintended increase in current, such as short circuits, overloading, mismatched loads, or device failure will cause the fuse to burn out – protecting the other parts of the circuit from overheating and further damage.
+This 'wire in glass' fuse is only one type of electrical fuse.
+Most fuses consist of a wire with small cross-sectional area compared to the circuit conductors, mounted between electrical terminals, and enclosed in a non-combustible housing.
+Regardless of the specific type of fuse, it is placed such that it carries all the current passing through the protected circuit.
+If the current flow gets too high, the fuse will melt.
+This destroys the fuse, but protects the remainder of the circuit.

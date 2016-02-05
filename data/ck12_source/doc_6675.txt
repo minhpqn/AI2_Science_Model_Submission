@@ -1,0 +1,20 @@
+The Big Idea
+One dimensional motion describes objects moving in straight lines.
+Speed is a scalar measure of how quickly an object is moving along this line.
+Velocity is speed with a direction, making it a vector.
+If an object’s velocity changes with time, the object is said to be accelerating.
+When restricted to one dimension, there are only two possible directions for the velocity and acceleration vectors to point in.
+As we’ll see in the next chapters, understanding an object's acceleration is the key to understanding its motion.
+Position and Displacement
+Explain the meaning of an object's position and the difference between distance and displacement.
+Create and understand basic position vs. time graphs.
+Students will learn the meaning of an object's position, the difference between distance and displacement and some basic graphing of position vs. time.
+\text{Symbols}\begin{cases}\Delta \text{(anything)} & \text{Final value - initial value}\\\\text{anything}_0 & \text{Value at time 0}\end{cases}
+\text{Scalors}\begin{cases}t & \text{Time in seconds, s}\\\d = |{\Delta x_1}| + |{\Delta x_2}| & \text{Distance (in meters, m}\text{)}\\\v = |{v}| & \text{Speed (in meters per second,}\ \text{m}/\text{s}\text{)}\end{cases}
+\text{Vectors}\begin{cases}x = x(t) & \text{Position} \\\\Delta x = x_f-x_i & \text{Displacement}\\\\end{cases}
+When beginning a one dimensional problem, define a positive direction.
+The other direction is then taken to be negative.
+Traditionally, "positive" is taken to mean "to the right"; however, any definition of direction used consistently throughout the problem will yield the right answer.
+Guidance Position is the location of the object (whether it's a person, a ball or a particle) at a given moment in time.
+Displacement is the difference in the object's position from one time to another.
+Distance is the total amount the object has traveled in a certain period of time.

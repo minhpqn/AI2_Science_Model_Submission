@@ -1,0 +1,20 @@
+The operator is located between the promoter and the three lac operon genes.
+The protein blocks the binding of RNA polymerase to the promoter.
+As a result, the lac genes are not expressed.
+When lactose is present, the repressor protein does not bind to the operator.
+This allows RNA polymerase to bind to the promoter and begin transcription.
+As a result, the lac genes are expressed, and lactose is digested.
+Why might it be beneficial to express genes only when they are needed? (Hint: synthesizing proteins requires energy and materials.)
+The parts of the lac operon: promoter, operator, lacZ, lacY, lacA, terminator
+The three genes of the lac operon are lacZ, lacY, and lacA.
+They encode proteins needed to digest lactose.
+The genes are expressed only in the presence of lactose.
+Regulation of transcription in prokaryotes typically involves an operon, such as the lac operon in E. coli .
+The lac operon is regulated by proteins that behave differently depending on whether lactose is present or absent.
+Use this resource to answer the questions that follow.
+Genes can be turned on and off at
+How do bacteria break large sugars into smaller ones?
+What is the role of lactose in gene regulation?
+What happens when lactose is present?
+Or absent?
+What is the operator?

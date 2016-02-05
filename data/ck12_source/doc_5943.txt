@@ -1,0 +1,20 @@
+Conversions Between Moles and Number of Particles
+Using our unit conversion techniques, we can use the mole label to convert back and forth between the number of particles and moles.
+Sample Problem 1:
+Converting Number of Particles to Moles
+The element carbon exists in two primary forms: graphite and diamond.
+How many moles of carbon atoms is 4.72 × 10 24 atoms of carbon?
+Step 1:
+List the known quantities and plan the problem.
+number of C atoms = 4.72 × 10 24
+1 mole = 6.02 × 10 23 atoms
+4.72 × 10 24 = ? mol C
+One conversion factor will allow us to convert from the number of C atoms to moles of C atoms.
+Step 2:
+Calculate.
+4.72 \times 10^{24}\ \text{atoms C} \times \frac{1 \ \text{mol C}}{6.02 \times 10^{23}\ \text{atoms C}}=7.84 \ \text{mol C}
+Step 3:
+Think about your result.
+The given number of carbon atoms was greater than Avogadro’s number, so the number of moles of C atoms is greater than 1 mole.
+Since Avogadro’s number is a measured quantity with three significant figures, the result of the calculation is rounded to three significant figures.
+Suppose that you wanted to know how many hydrogen atoms were in a mole of water molecules.  First, you would need to know the chemical formula for water, which is H 2 O.  There are two atoms of hydrogen in each molecule of water.  How many atoms of hydrogen would there be in two water molecules?  There would be 2 × 2 = 4 hydrogen atoms.

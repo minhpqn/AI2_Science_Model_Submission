@@ -1,0 +1,20 @@
+Insect naming is like naming compounds
+Do you know the proper name for this insect?
+Proper naming is important for identification purposes.  Medicine names must be precise so that the correct drug is given, one that will help the patient and not harm them.  Biological classification of species requires accurate naming for proper categorization.
+The insect above has been properly categorized by genus and species, so it is uniquely identified.  Names must be correct for the tracing family trees in genealogical studies.
+Compounds used in chemical reactions must be correctly specified in order for the reaction to occur.
+Binary Ionic Compounds
+A binary ionic compound is a compound composed of a monatomic metal cation and a monatomic nonmetal anion .
+Naming Binary Ionic Compounds
+When examining the formula of a compound in order to name it, you must first decide what kind of compound it is.
+For a binary ionic compound, a metal will always be the first element in the formula, while a nonmetal will always be the second.
+The metal cation is named first, followed by the nonmetal anion.
+Subscripts in the formula do not affect the name.
+The Table below shows three examples:
+Naming Binary Ionic Compounds
+Na 3 N
+Ca 3 P 2
+Notice that in each of the formulas above, the overall charge of the compound is zero.
+Potassium ion is K + , while fluoride ion is F - .
+Since the magnitude of the charges is equal, the formula contains one of each ion.
+This would also be the case for a compound such as MgS, in which the ions are Mg 2+ and S 2- .

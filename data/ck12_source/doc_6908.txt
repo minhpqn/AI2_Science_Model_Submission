@@ -1,0 +1,20 @@
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+Wave on a String (PhET Simulation)
+A violin string vibrates, when struck, as a standing wave with a frequency of 260\;\mathrm{Hz} .
+When you place your finger on the same string so that its length is reduced to 2/3 of its original length, what is its new vibration frequency?
+What is the new 3rd harmonic?
+The length of the western section of the Bay Bridge is 2.7 km.
+Draw a side-view of the western section of the Bay Bridge and identify the seven nodes in this section of the bridge.
+Assume that the bridge is concrete (the speed of sound in concrete is 3200 m/s).
+What is the lowest frequency of vibration for the bridge? (You can assume that the towers are equally spaced, and that the central support is equidistant from both middle towers.
+The best way to approach this problem is by drawing in a wave that “works.”)
+What might happen if an earthquake occurs that shakes the bridge at precisely this frequency?
+The simple bridge shown here oscillated up and down pretty violently four times every second as a result of an earthquake.
+What was the frequency of the shaking in Hz ?
+Why was the bridge oscillating so violently?
+Calculate two other frequencies that would be considered “dangerous” for the bridge.
+What could you do to make the bridge safer? (Note that earthquakes rarely shake at more than 6 \;\mathrm{Hz} )
+390 \;\mathrm{Hz} , 1170 \;\mathrm{Hz}
+a. 3 wavelengths, 6^{th} harmonic b. 3.56 Hz c.

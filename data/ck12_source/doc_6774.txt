@@ -1,0 +1,20 @@
+It will help to draw some triangles.)
+An elevator in an old apartment building in Switzerland has four huge springs at the bottom of the shaft to cushion its fall in case the cable breaks.
+The springs have an uncompressed height of about 1 meter.
+Estimate the spring constant necessary to stop this elevator, following these steps:
+First, guesstimate the mass of the elevator with a few passengers inside.
+Now, estimate the height of a five-story building.
+Lastly, use conservation of energy to estimate the spring constant.
+You are skiing down a hill.
+You start at rest at a height 120 \;\mathrm{m} above the bottom.
+The slope has a 10.0^\circ grade.
+Assume the total mass of skier and equipment is 75.0 \;\mathrm{kg} .
+Ignore all energy losses due to friction.
+What is your speed at the bottom?
+If, however, you just make it to the bottom with zero speed what would be the average force of friction, including air resistance?
+Two horrific contraptions on frictionless wheels are compressing a spring (k = 400 \;\mathrm{N/m}) by 0.5 \;\mathrm{m} compared to its uncompressed (equilibrium) length.
+Each of the 500 \;\mathrm{kg} vehicles is stationary and they are connected by a string.
+The string is cut!
+Find the speeds of the vehicles once they lose contact with the spring.
+A roller coaster begins at rest 120 \;\mathrm{m} above the ground, as shown.
+Assume no friction from the wheels and air, and that no energy is lost to heat, sound, and so on.

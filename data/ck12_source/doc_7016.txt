@@ -1,0 +1,20 @@
+If the final temperature of both the aluminum and the water was 25^\circ C , what was the starting temperature of the metal?
+Use the table above to find the specific heat of water and aluminum.
+The key to this problem is connecting it with conservation of energy.
+The energy that went into heating up the water must have come from heat stored in the metal.
+Therefore, we know that the change in energy of the water is equal to however much energy the aluminum lost when it was put into the water.
+When solving this problem, we'll call the energy of the aluminum Q_A and the energy of the water Q_w .
+-\Delta Q_A&=\Delta Q_w && \text{start with conservation of energy}\\-m_Ac_A\Delta T_A&=m_wc_w\Delta T_w && \text{substitute in the values for each energy term based on the equation given above}\\\Delta T_A&=-\frac{m_wc_w\Delta T_w}{m_Ac_A} && \text{solve for } \Delta T_a\\T_f - T_i&=-\frac{m_wc_w\Delta T_w}{m_Ac_A} && \text{substitute in the initial and final temperatures for } \Delta T_A\\T_i&=T_f + \frac{m_wc_w\Delta T_w}{m_Ac_A} && \text{solve for } T_i\\T_i&=25^\circ C + \frac{500\;\text{g} * 1\;\text{cal/g}^\circ \text{C} * (25^\circ C - 20^\circ C)}{500\;\text{g} * .215\;\text{cal/g}^\circ \text{C}} && \text{plug in all the known values}\\T_i&=48.2^\circ C\\
+Watch this Explanation
+Click on the image above for more content
+Why is it so cold when you get out of the shower wet, but not as cold if you dry off first before getting out of the shower?
+Antonio is heating water on the stove to boil eggs for a picnic.
+How much heat is required to raise the temperature of his 10.0-kg vat of water from 20^\circ C to 100^\circ C ?
+Amy wishes to measure the specific heat capacity of a piece of metal.
+She places the 75-g piece of metal in a pan of boiling water, then drops it into a styrofoam cup holding 50 g of water at 22^\circ C .
+The metal and water come to an equilibrium temperature of 25^\circ C .
+Calculate:
+The heat gained by the water
+The heat lost by the metal
+The specific heat of the metal
+John wishes to heat a cup of water to make some ramen for lunch.

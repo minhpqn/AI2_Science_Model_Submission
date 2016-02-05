@@ -1,0 +1,20 @@
+For most elements other than hydrogen, isotopes are named for their mass number.
+For example, carbon atoms with the usual 6 neutrons have a mass number of 12 (6 protons + 6 neutrons = 12), so they are called carbon-12.
+Carbon atoms with 7 neutrons have an atomic mass of 13 (6 protons + 7 neutrons = 13).
+These atoms are the isotope called carbon-13.
+Q:
+Some carbon atoms have 8 neutrons.
+What is the name of this isotope of carbon?
+A:
+Carbon atoms with 8 neutrons have an atomic mass of 14 (6 protons + 8 neutrons = 14), so this isotope of carbon is named carbon-14.
+Stability of Isotopes
+Atoms need a certain ratio of neutrons to protons to have a stable nucleus.
+Having too many or too few neutrons relative to protons results in an unstable, or radioactive, nucleus that will sooner or later break down to a more stable form.
+This process is called radioactive decay.
+Many isotopes have radioactive nuclei, and these isotopes are referred to as radioisotopes.
+When they decay, they release particles that may be harmful.
+This is why radioactive isotopes are dangerous and why working with them requires special suits for protection.
+The isotope of carbon known as carbon-14 is an example of a radioisotope.
+In contrast, the carbon isotopes called carbon-12 and carbon-13 are stable.
+Atoms of the same element that differ in their numbers of neutrons are called isotopes.
+Different isotopes of an element generally have the same physical and chemical properties because they have the same numbers of protons and electrons.

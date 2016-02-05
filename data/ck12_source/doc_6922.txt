@@ -1,0 +1,4 @@
+Toward the object b. 3.6 \times 10^4 \;\mathrm{N/C} to the left c. 2.8 \times 10^{-7} \;\mathrm{N}
+The lessons in this chapter cover electrostatics at a conceptual level as well as a detailed mathematical approach using Coulomb's Law.
+Electric fields are covered.
+Voltage, electric potential lines and energy problem solving techniques are also covered.

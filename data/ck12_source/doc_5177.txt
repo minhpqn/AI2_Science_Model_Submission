@@ -1,0 +1,20 @@
+A type of genetic recombination in which nucleotide sequences are exchanged between two similar or identical molecules of DNA.
+independent assortment :
+The independent assortment of chromosomes to haploid cells during meiosis; the process of random segregation and assortment of chromosomes during anaphase I of meiosis resulting in the production of genetically unique gametes.
+leptotene :
+The first stage of prophase I; also known as leptonema, from Greek words meaning thin threads.
+meiosis :
+A type of cell division that halves the number of chromosomes; forms gametes.
+meiosis I :
+The first nuclear and cellular division of meiosis; a reduction division of the chromosomes.
+meiosis II :
+The second nuclear and cellular division of meiosis; an equatorial division of the chromosomes.
+oocyte :
+A female gamete or germ cell involved in reproduction; an immature ovum, or egg cell.
+pachytene :
+The third stage of prophase I; also known as pachynema, from Greek words meaning thick threads.
+synapsis :
+The pairing of two homologous chromosomes that occurs during prophase I of meiosis.
+tetrad :
+A configuration with four chromatids; formed by the pairing of homologous chromosomes during prophase I of meiosis.
+zygotene :

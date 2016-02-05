@@ -1,0 +1,20 @@
+Diana raises a 1000.
+N piano a distance of 5.00 m using a set of pulleys.  She pulls in 20.0 m of rope.
+How much effort force did Diana apply if this was an ideal machine?
+What force was used to overcome friction if the actual effort force was 300.
+N?
+What was the work output?
+What was the ideal mechanical advantage?
+What was the actual mechanical advantage, if the input force was 300N?
+A mover’s dolly is used to pull a 115 kg refrigerator up a ramp into a house.
+The ramp is 2.10 m long and rises 0.850 m.
+The mover exerts a force of 496 N up the ramp.
+How much work does the mover do?
+How much work is spent overcoming friction?
+What is the ideal mechanical advantage of a screw whose head has a diameter of 0.812 cm and whose thread width is 0.318 cm?
+simple machine:
+A mechanical device that changes the direction or magnitude of a force.
+ideal machine:
+An ideal simple machine in one in which the work input equals the work output.
+effort force:  The force used to move an object over a distance.
+resistance force:

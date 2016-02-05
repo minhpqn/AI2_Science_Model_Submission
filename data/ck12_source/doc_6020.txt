@@ -1,0 +1,20 @@
+Describe how to determine which component in a reaction is the limiting reactant.
+Pancakes require a certain amount of ingredients
+Don’t you hate running out of cooking ingredients?
+Cooking is a great example of everyday chemistry.
+In order to correctly follow a recipe, a cook needs to make sure that he has plenty of all the necessary ingredients in order to make his dish.
+Let us suppose that you are deciding to make some pancakes for a large group of people.
+The recipe on the box indicates that the following ingredients are needed for each batch of pancakes:
+1 cup of pancake mix
+\frac{3}{4}  cup milk
+1 tablespoon vegetable oil
+Now you check the pantry and the refrigerator and see that you have the following ingredients available:
+2 boxes of pancake mix (8 cups)
+Half gallon of milk (4 cups)
+Full bottle of vegetable oil (about 3 cups)
+The question that you must ask is:
+How many batches of pancakes can I make?
+The answer is two.
+Even though you have enough pancake mix, milk, and oil to make many more batches of pancakes, you are limited by the fact that you only have two eggs.
+As soon as you have made two batches of pancakes, you will be out of eggs and your “reaction” will be complete.
+For a chemist, the balanced chemical equation is the recipe that must be followed.

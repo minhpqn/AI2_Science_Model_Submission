@@ -1,0 +1,20 @@
+Effectively makes r bigger, thus acceleration goes up and thus final velocity goes up.
+Solve problems of rolling objects and of objects that are rolling and sliding.
+Students will learn how to solve problems of rolling objects and also of objects that are rolling and sliding.
+\tau_{net} = \Sigma \tau_i = I \alpha = F_{Friction} R_{RollingRadius} = \mu F_{normal} R_{RollingRadius}
+\text{Static and Kinetic Friction'}\begin{cases}f_s \le \mu_s | F_N| & \text{Opposes potential motion of surfaces in contact}\\\f_k = \mu_k | F_N| & \text{Opposes motion of surfaces in contact}\end{cases}
+When an object is rolling without slipping this means that v = r \omega  and  a = r \alpha  .
+This is also true in the situation of a rope on a pulley that is rotating the pulley without slipping.
+Using this correspondence between linear and angular speed and acceleration is very useful for solving problems, but is only true if there is no slipping.
+Also, know that when the object is sliding, kinetic friction is in play.
+When it is rolling, then static friction.
+Often, an object will start out rolling and sliding (kinetic friction) until it slows enough that it is rolling without sliding (static friction).
+One can set up a condition by forcing  v = r \omega  and a = r \alpha  in order to find the point where it stops sliding.
+Finally, when this rolling object rolls down the incline, it gains kinetic energy and loses potential energy, just like any object going down an incline.
+However, for rolling objects the kinetic energy is split between two forms: rotational and kinetic:
+KE_{Rolling Object} = \frac{1}2 m{v}^2 + \frac{1}2 I{\omega}^2
+Remember, if the object isn't sliding but perfectly rolling: v = \omega r
+You throw a bowling ball of mass m and radius r with an initial speed v_o down a flat bowling lane with a coefficient of kinetic friction \mu_k .
+Initially, the ball slides down the lane not rotating at all, but after a time \Delta t , it begins to roll perfectly without sliding.
+Find \Delta t in terms of the values given above.
+We'll start by drawing an FBD for the bowling ball.

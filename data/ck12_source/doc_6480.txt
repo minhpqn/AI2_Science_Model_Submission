@@ -1,0 +1,20 @@
+electrical potential:
+A measurement of the ability of a voltaic cell to produce an electric current.
+reduction potential:  A measure of the tendency of a given half-reaction to occur as a reduction in an electrochemical cell.
+Standard Hydrogen Electrode
+Describe the hydrogen electrode.
+Describe how this electrode is used in determining reduction potentials.
+Photograph of the US meter standard
+What is a standard?
+We all compare ourselves to someone.
+Can I run faster than you?
+Am I taller than my dad?
+These are relative comparisons that don’t give a lot of useful data.
+When we use a standard for our comparisons, everybody can tell how one thing compares to another.
+One meter is the same distance everywhere in the world, so a 100 meter track in one country is exactly the same distance as a 100 meter track in another country.
+We now have a universal basis for comparison.
+Standard Hydrogen Electrode
+The activity series allows us to predict the relative reactivities of different materials when used in oxidation-reduction processes.
+We also know we can create electric current by a combination of chemical processes.
+But how do we predict the expected amount of current that will flow through the system?
+We measure this flow as voltage (an electromotive force or potential difference).

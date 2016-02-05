@@ -1,0 +1,20 @@
+Ouch, that hurts!
+Bees are beautiful creatures that help plants flourish.
+They carry pollen from one plant to another to facilitate plant growth and development.
+But, they can also be troublesome when they sting you.
+For people who are allergic to bee venom, this can be a serious, life-threatening problem.
+For the rest of us, it can be a painful experience.
+When stung by a bee, one first-aid treatment is to apply a paste of baking soda (sodium bicarbonate) to the stung area.
+This weak base helps with the itching and swelling that accompanies the bee sting.
+Calculating pH of Weak Acid and Base Solutions
+The  K_a and  K_b values have been determined for a great many acids and bases, as shown in Tables 21.5 and 21.6.
+These can be used to calculate the pH of any solution of a weak acid or base whose ionization constant is known.
+Sample Problem:
+Calculating the pH of a Weak Acid
+Calculate the pH of a 2.00 M solution of nitrous acid (HNO 2 ).
+The K_a for nitrous acid is 4.5 × 10 -4 .
+Step 1:
+List the known values and plan the problem.
+initial [HNO 2 ] = 2.00 M
+K_a=4.5 \times 10^{-4}
+pH = ?

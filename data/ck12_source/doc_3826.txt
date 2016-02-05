@@ -1,0 +1,20 @@
+If the frequency of homozygous recessive individuals ( aa ) is 0.04, what is the value of q ?
+What is the value of p ?
+Use the values of p and q from question 2 to calculate the frequency of the heterozygote genotype ( Aa ).
+Forces of Evolution
+List processes that change gene frequencies of a population.
+Describe how mutations alter allele frequencies.
+Define gene flow.
+Explain genetic drift.
+Compare the bottleneck effect to the founder effect.
+How do a population's genes change?
+Remember, without change, there cannot be evolution.
+Together, the forces that change a population's gene frequencies are the driving mechanisms behind evolution.
+Forces of Evolution
+The conditions for Hardy-Weinberg equilibrium are unlikely to be met in real populations.
+The Hardy-Weinberg theorem also describes populations in which allele frequencies are not changing.
+By definition, such populations are not evolving.
+How does the theorem help us understand evolution in the real world?
+From the theorem, we can infer factors that cause allele frequencies to change.
+These factors are the "forces of evolution." There are four such forces: mutation, gene flow, genetic drift, and natural selection.
+Natural selection will be discussed in the "Natural Selection" concept.

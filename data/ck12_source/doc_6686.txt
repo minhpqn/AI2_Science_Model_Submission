@@ -1,0 +1,20 @@
+When beginning a one dimensional problem, define a positive direction.
+The other direction is then taken to be negative.
+Traditionally, "positive" is taken to mean "up" for vertical problems and "to the right" for horizontal problems; however, any definition of direction used consistency throughout the problem will yield the right answer.
+Gravity near the Earth pulls an object toward the surface of the Earth with an acceleration of 9.8 \;\mathrm{m/s}^2 (\approx10 \;\mathrm{m/s}^2) .
+In the absence of air resistance, all objects will fall with the same acceleration.
+Air resistance can cause low-mass, large area objects to accelerate more slowly.
+The Big Three equations define the graphs of position and velocity as a function of time.
+When there is no acceleration (constant velocity), position increases linearly with time -- distance equals rate times time.
+Under constant acceleration, velocity increases linearly with time but distance does so at a quadratic rate.
+The slopes of the position and velocity graphs will give instantaneous velocity and acceleration, respectively.
+Example Problem 1
+While driving through Napa you observe a hot air balloon in the sky with tourists on board.
+One of the passengers accidentally drops a wine bottle and you note that it takes 2.3 seconds for it to reach the ground. (a) How high is the balloon? (b) What was the wine bottle’s velocity just before it hit the ground?
+Question a : h = ? [m]
+Given: t = 2.3 \ s
+{\;} \qquad \quad g = 10 \ m/s^2
+{\;} \qquad \quad v_i = 0 \ m/s
+Equation: \Delta x = v_it + \frac{1}{2}at^2 or h = v_it + \frac{1}{2}gt^2
+Plug n’ Chug: h = 0 + \frac{1}{2}(10 \ m/s^2)(2.3 \ s)^2 = 26.5 \ m
+Answer: \boxed{\mathbf{26.5 \ m}}

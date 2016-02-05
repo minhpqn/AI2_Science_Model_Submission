@@ -1,0 +1,20 @@
+Gene expression is regulated to ensure that the correct proteins are made when and where they are needed.
+Regulation may occur at any point in the expression of a gene, from the start of transcription to the processing of a protein after translation.
+Following is a list of stages where gene expression is regulated:
+Chemical and structural modification of DNA or chromatin
+As shown in Figure below , transcription is controlled by regulatory proteins binding to the DNA.
+Specifically, gene regulation at the level of transcription controls when transcription occurs as well as how much RNA is created.
+A regulatory protein, or a transcription factor , is a protein involved in regulating gene expression.
+It is usually bound to a cis-regulatory element , which is part of the DNA.
+Regulatory proteins often must be bound to a cis-regulatory element to switch a gene on ( activator ), or to turn a gene off ( repressor ).
+Transcription of a gene by RNA polymerase can be regulated by at least five mechanisms:
+Specificity factors (proteins) alter the specificity of RNA polymerase for a promoter or set of promoters, making it more or less likely to bind to the promoter and begin transcription.
+Activator proteins enhance the interaction between RNA polymerase and a particular promoter.
+Repressor proteins bind to non-coding sequences on the DNA that are close to or overlap the promoter region, impeding RNA polymerase's progress along the strand.
+Basal factors are transcription factors that help position RNA polymerase at the start of a gene.
+Enhancers are sites on the DNA strand that are bound by activators in order to loop the DNA, bringing a specific transcription factor to the initiation complex.
+An initiation complex is composed of RNA polymerase and transcription factors.
+As the organism grows more sophisticated, gene regulation becomes more complex, though prokaryotic organisms possess some highly regulated systems.
+Some human genes are controlled by many activators and repressors working together.
+Obviously, a mutation in a cis-regulatory region, such as the promoter, can greatly affect the proper expression of a gene.
+It may keep the gene permanently off, such that no protein can be made, or it can keep the gene permanently on, such that the corresponding protein is constantly made.

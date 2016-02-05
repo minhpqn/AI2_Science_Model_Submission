@@ -1,0 +1,20 @@
+Heats of Fusion and Solidification
+All solids absorb heat as they melt to become liquids.
+The gain of heat in this endothermic process goes into changing the state rather than changing the temperature.
+The molar heat of fusion (\Delta H_{\text{fus}}) of a substance is the heat absorbed by one mole of that substance as it is converted from a solid to a liquid.
+Since the melting of any substance absorbs heat, it follows that the freezing of any substance releases heat.
+The molar heat of solidification (\Delta H_{\text{solid}}) of a substance is the heat released by one mole of that substance as it is converted from a liquid to a solid.
+Since fusion and solidification of a given substance are the exact opposite processes, the numerical value of the molar heat of fusion is the same as the numerical value of the molar heat of solidification, but opposite in sign.
+In other words, \Delta H_{\text{fus}} =- \Delta H_{\text{solid}} .
+The Figure below shows all of the possible changes of state along with the direction of heat flow during each process.
+Diagram of phase changes in relation to gain or loss of heat from the environment
+From left to right, heat is absorbed from the surroundings during melting, evaporation, and sublimation.
+Form right to left, heat is released to the surroundings during freezing, condensation, and deposition.
+Every substance has a unique value for its molar heat of fusion, depending on the amount of energy required to disrupt the intermolecular forces present in the solid.
+When 1 mol of ice at 0°C is converted to 1 mol of liquid water at 0°C, 6.01 kJ of heat are absorbed from the surroundings.
+When 1 mol of water at 0°C freezes to ice at 0°C, 6.01 kJ of heat are released into the surroundings.
+& \text{H}_2\text{O}(s) \rightarrow \text{H}_2\text{O}(l) \qquad \Delta H_{\text{fus}}=6.01 \text{ kJ/mol} \\& \text{H}_2\text{O}(l) \rightarrow \text{H}_2\text{O}(s) \qquad \Delta H_{\text{fus}}=-6.01 \text{ kJ/mol}
+The molar heats of fusion and solidification of a given substance can be used to calculate the heat absorbed or released when various amounts are melted or frozen.
+Enjoy the video about the heat of fusion at the link below:
+Click on the image above for more content
+Sample Problem Heat of Fusion

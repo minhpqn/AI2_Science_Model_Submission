@@ -1,0 +1,20 @@
+Watch this Explanation
+Click on the image above for more content
+Circuit Constructoin Kit (AC+DC) (PhET Simlation)
+Consider the figure above with switch, S , initially open and the power supply set to 24 V:
+What is the voltage drop across the 20 \Omega  resistor?
+What current flows thru the 60 \Omega resistor?
+What is the voltage drop across the 20 microfarad capacitor?
+What is the charge on the capacitor?
+How much energy is stored in that capacitor?
+Find the capacitance of capacitors B , C , and D if compared to the 20 \mu \mathrm{F} capacitor where...
+B has twice the plate area and half the plate separation
+C has twice the plate area and the same plate separation
+D has three times the plate area and half the plate separation
+Now the switch in the previous problem is closed.
+What is the total capacitance of branch with B and C?
+What is the total capacitance of the circuit?
+What is the voltage drop across capacitor B ?
+Answers to Selected Problems
+a. 6\mathrm{V} b. 0.3\mathrm{A} c. 18\mathrm{V} d. 3.6 \times 10^{-4}\mathrm{C} e. 3.2 \times 10^{-3}\mathrm{J} f. i) 80 \mu \mathrm{F} ii) 40\mu \mathrm{F} iii) 120 \mu \mathrm{F}
+a. 26.7\mu \mathrm{F} b. 166.7\mu \mathrm{F}

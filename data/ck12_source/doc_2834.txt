@@ -1,0 +1,20 @@
+The protactinium-234 produced in the reaction is also radioactive, so it will decay as well.
+A nuclear equation is balanced if the total numbers of protons and neutrons are the same on both sides of the arrow.
+If you compare the subscripts and superscripts on both sides of the equation above, you’ll see that they are the same.
+Q:
+What happens to the electron produced in the reaction above?
+A:
+Along with another electron, it can combine with an alpha particle to form a helium atom.
+An alpha particle, which is emitted during alpha decay, consists of two protons and two neutrons.
+Q:
+Try to balance the following nuclear equation for beta-minus decay by filling in the missing subscript and superscript.
+\mathrm{^{131}_{53} I} → \mathrm{^?_?
+Xe} + \mathrm{^0_{-1} e} + energy
+A:
+The subscript of Xe is 54, and the superscript is 131.
+Dangers of Beta Decay
+Beta particles can travel about a meter through air.
+They can pass through a sheet of paper or a layer of cloth but not through a sheet of aluminum or a few centimeters of wood.
+They can also penetrate the skin and damage underlying tissues.
+They are even more harmful if they are ingested or inhaled.
+Beta decay occurs when a nucleus is unstable because it has too many or too few neutrons relative to protons.

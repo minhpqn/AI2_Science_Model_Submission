@@ -1,0 +1,20 @@
+The electron transport chains are on the inner membrane of the mitochondrion.
+As the high-energy electrons are transported along the chains, some of their energy is captured.
+This energy is used to pump hydrogen ions (from NADH and FADH 2 ) across the inner membrane, from the matrix into the intermembrane space.
+Electron transport in a mitochondrion is shown in Figure below .
+Electron transport chains are the last step of cellular respiration
+Electron-transport chains on the inner membrane of the mitochondrion carry out the last stage of cellular respiration.
+The pumping of hydrogen ions across the inner membrane creates a greater concentration of the ions in the intermembrane space than in the matrix.
+This chemiosmotic gradient causes the ions to flow back across the membrane into the matrix, where their concentration is lower.
+ATP synthase acts as a channel protein, helping the hydrogen ions cross the membrane.
+It also acts as an enzyme, forming ATP from ADP and inorganic phosphate.
+After passing through the electron-transport chain, the “spent” electrons combine with oxygen to form water.
+This is why oxygen is needed; in the absence of oxygen, this process cannot occur.
+How much ATP is produced?
+The two NADH produced in the cytoplasm produces 2 to 3 ATP each (4 to 6 total) by the electron transport system, the 8 NADH produced in the mitochondria produces three ATP each (24 total), and the 2 FADH 2 adds its electrons to the electron transport system at a lower level than NADH, so they produce two ATP each (4 total).
+This results in the formation of 34 ATP during the electron transport stage.
+A summary of this process can be seen at the following sites: (17:16) and
+Click on the image above for more content
+Click on the image above for more content
+Electron transport is the final stage of aerobic respiration.
+In this stage, energy from NADH and FADH 2 is transferred to ATP.

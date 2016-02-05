@@ -1,0 +1,20 @@
+These "X-shaped" structures ensure that each cell receives the proper amount of DNA during cell division.
+The DNA coils into these structures that makes proper separation during mitosis and meiosis possible.
+Chromosomes and Genes
+The human genome consists of 24 distinct chromosomes: 22 autosomal chromosomes plus the sex-determining X and Y chromosomes.
+A chromosome is a threadlike molecule of genes and other DNA located in the nucleus of a cell.
+Different organisms have different numbers of chromosomes.
+Human somatic cells have 23 chromosome pairs for a total of 46 chromosomes: two copies of the 22 autosomes (one from each parent), plus an X chromosome from the mother and either an X or Y chromosome from the father ( Figure below ).
+The human genome has 23 pairs of chromosomes located in the nucleus of somatic cells.
+Each chromosome is composed of genes and other DNA wound around histones (proteins) into a tightly coiled molecule.
+Human Chromosomes.
+Human chromosomes are shown here arranged by size.
+Chromosome 1 is the largest, and chromosome 22 is the smallest.
+All normal human cells (except gametes) have two of each chromosome, for a total of 46 chromosomes per cell.
+Only one of each pair is shown here.
+Human Chromosomes.
+Humans have 23 pairs of chromosomes.
+Pairs 1-22 are autosomes.
+Females have two X chromosomes, and males have an X and a Y chromosome.
+There are an estimated 20,000-23,000 human protein-coding genes, but many more proteins.
+Most human genes have multiple eons (coding sequences) separated by much larger introns (non-coding sequences).

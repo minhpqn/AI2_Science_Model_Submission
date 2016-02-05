@@ -1,0 +1,20 @@
+The blueprints include circuit diagrams.
+The diagrams show how the wiring and other electrical components are to be installed in order to supply current to appliances, lights, and other electric devices.
+You can see an example of a very simple circuit in the Figure below .
+Different parts of the circuit are represented by standard circuit symbols.
+An ammeter measures the flow of current through the circuit, and a voltmeter measures the voltage.
+A resistor is any device that converts some of the electricity to other forms of energy.
+For example, a resistor might be a light bulb or doorbell.
+Circuit diagrams utilize a standard set of symbols to represent circuits
+The circuit diagram in the middle represents the circuit drawing on the left.
+On the right are some of the standard symbols used in circuit diagrams.
+Q:
+Only one of the circuit symbols in the Figure above must be included in every circuit.
+Which symbol is it?
+A:
+The battery symbol (or a symbol for some other voltage source) must be included in every circuit.
+Without a source of voltage, there is no electric current.
+An electric circuit is a closed loop through which current can flow.
+All electric circuits must have a voltage source, such as a battery, and a conductor, which is usually wire.
+They may have one or more electric devices as well.
+An electric circuit can be represented by a circuit diagram, which uses standard symbols to represent the parts of the circuit.

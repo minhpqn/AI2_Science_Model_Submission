@@ -1,0 +1,20 @@
+Lemon juice is an acid, and all acids taste sour.
+They share certain other properties as well.
+You will learn more about acids and their properties in this article.
+For a musical introduction to acids and related concepts, watch the video at this URL:
+What Are Acids?
+Acids are ionic compounds that produce positive hydrogen ions (H + ) when dissolved in water.
+Ionic compounds are compounds that contain positive metal ions and negative nonmetal ions held together by ionic bonds. (Ions are atoms that have become charged particles by gaining or losing electrons.) An example of an acid is hydrogen chloride (HCl).
+When it dissolves in water, it separates into positive hydrogen ions and negative chloride ions (Cl - ).
+This is represented by the chemical equation:
+HCl \mathrm{\overset{H_2O}{\rightarrow}} H + + Cl -
+Properties of Acids
+You already know that a sour taste is one property of acids. ( Warning :
+Never taste an unknown substance to see whether it is an acid!) Acids have certain other properties as well.
+For example, acids can conduct electricity when dissolved in water because they consist of charged particles in solution. (Electric current is a flow of charged particles.) Acids can also react with metals, and when they do they produce hydrogen gas.
+An example of this type of reaction is hydrochloric acid reacting with the metal zinc (Zn).
+The reaction is pictured in the Figure below .
+It can be represented by the chemical equation:
+Zn + 2HCl → H 2 + ZnCl 2
+Hydrochloric acid reacts with Zinc to generate hydrogen gas and zinc chloride
+Hydrochloric acid reacting with the metal zinc.

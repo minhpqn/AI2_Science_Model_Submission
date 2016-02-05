@@ -1,0 +1,20 @@
+What is the oxidation number of H in HCl? in NaH?
+oxidation number:
+A positive or negative number that is assigned to an atom to indicate its degree of oxidation or reduction.
+Changes in Oxidation Number in Redox Reactions
+List processes of oxidation and reduction.
+Determine which atoms in a chemical reaction have been oxidized or reduced.
+Zinc is an important component of many kinds of batteries
+Where does the zinc in batteries come from?
+Zinc is an important component of many kinds of batteries.
+This metal is mined as zinc compounds, one of which is zinc carbonate.
+To obtain the pure metal, the ore must go through the following chemical processes:
+High temperatures and hot air blasts are used to roast the ore:
+\text{ZnCO}_3(s) + (\text{heat}) \rightarrow \text{ZnO}(s) + \text{CO}_2(g)
+Then the ZnO is treated with carbon:
+\text{ZnO}(s) +\text{C}(s) + (\text{heat}) & \rightarrow \text{Zn}(g) + \text{CO}(g)\\\text{ZnO}(s)+\text{CO}(g)+ (\text{heat}) & \rightarrow \text{Zn}(g)+\text{CO}_2(g)
+The result is the pure metal which can then be fabricated into a variety of products.
+Changes in Oxidation-Number in Redox Reactions
+Consider the reaction below between elemental iron and copper sulfate:
+\text{Fe} + \text{CuSO}_4 \rightarrow \text{FeSO}_4 + \text{Cu}
+In the course of the reaction, the oxidation number of Fe increases from zero to +2.

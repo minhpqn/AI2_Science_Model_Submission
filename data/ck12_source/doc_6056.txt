@@ -1,0 +1,20 @@
+The boiling points of various liquids can be illustrated in a vapor pressure curve ( Figure below ).
+A vapor pressure curve is a graph of vapor pressure as a function of temperature.
+To find the normal boiling point of a liquid, a horizontal line is drawn from the left at a pressure equal to standard pressure.
+At whatever temperature that line intersects the vapor pressure curve of a liquid is the boiling point of that liquid.
+Vapor pressure curves of various substances
+Vapor pressure curves.
+The boiling points of liquid also correlate to the strength of the intermolecular forces.
+Recall that diethyl ether has weak dispersion forces, which meant that the liquid has a high vapor pressure.
+The weak forces also mean that it does not require a large an input of energy to make diethyl ether boil and so it has a relatively low normal boiling point of 34.6°C.
+Water, with its much stronger hydrogen bonding, has a low vapor pressure and a higher normal boiling point of 100°C.
+As stated earlier, boiling points are affected by external pressure.
+At higher altitudes, the atmospheric pressure is lower.
+With less pressure pushing down on the surface of the liquid, it boils at a lower temperature.
+This can also be seen from the vapor pressure curves.
+If one draws a horizontal line at a lower vapor pressure, it intersects each curve at a lower temperature.
+The boiling point of water is 100°C at sea level, where the atmospheric pressure is standard.
+In Denver, Colorado at 1600 m above sea level, the atmospheric pressure is about 640 mmHg and water boils at about 95°C.
+On the summit of Mt.
+Everest the atmospheric pressure is about 255 mmHg and water boils at only 70°C.
+On the other hand, water boils at greater than 100°C if the external pressure is higher than standard.

@@ -1,0 +1,20 @@
+As you have seen earlier, the Haber process is a reaction in which nitrogen gas is combined with hydrogen gas to form ammonia.
+The balanced equation is shown below.
+\text{N}_2 (g)+3\text{H}_2(g) \rightarrow 2\text{NH}_3 (g)
+We know that the coefficients of the balanced equation tell us the mole ratio that is required for this reaction to occur.
+One mole of N 2 will react with three moles of H 2 to form two moles of NH 3 .
+Now let us suppose that a chemist were to react three moles of N 2 with six moles of H 2 (see Figure below ).
+Reaction of hydrogen and nitrogen with a limiting reagent
+Reaction in presence of limiting reagent.
+So what happened in this reaction?
+The chemist started with 3 moles of N 2 .
+You may think of this as being 3 times as much as the “recipe” (the balanced equation) requires since the coefficient for the N 2 is a 1.
+However, the 6 moles of H 2 that the chemist started with is only two times as much as the “recipe” requires, since the coefficient for the H 2 is a 3 and 3 × 2 = 6.
+So the hydrogen gas will be completely used up while there will be 1 mole of nitrogen gas left over after the reaction is complete.
+Finally, the reaction will produce 4 moles of NH 3 because that is also two times as much as shown in the balanced equation.
+The overall reaction that occurred in words:
+2 \text{ mol N}_2+6 \text{ mol H}_2 \rightarrow 4 \text{ mol NH}_3
+All the amounts are doubled from the original balanced equation.
+The limiting reactant (or limiting reagent) is the reactant that determines the amount of product that can be formed in a chemical reaction.
+The reaction proceeds until the limiting reactant is completely used up.
+In our example above, the H 2 is the limiting reactant.

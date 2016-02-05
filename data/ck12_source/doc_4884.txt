@@ -1,0 +1,20 @@
+Why a bilayer?
+What's on the inside of the cell and on the outside?
+Mostly water.
+As you can see here, the water-based interior of the cell has lots of components.
+These need to be kept inside the cell.
+And it is the nature of the phospholipid bilayer to keep the inside of the cell separate from the outside.
+The cell membrane (or plasma membrane ) is composed mainly of phospholipids with embedded proteins.
+The membrane is a lipid bilayer, with the phospholipids oriented in a distinct manner to provide qualities necessary to maintain a cell in a water-based environment.
+A phospholipid is made up of a polar, phosphorus-containing head, and two long fatty acid (hydrocarbon), non-polar "tails." That is, the head of the molecule is hydrophilic (water-loving), and the tail is hydrophobic (water-fearing).
+Cytosol and extracellular fluid - the insides and outsides of the cell - are made up of mostly water.
+In this watery environment, the water loving heads point out towards the water, and the water fearing tails point inwards, and push the water out.
+The resulting double layer is called a phospholipid bilayer.
+A phospholipid bilayer is made up of two layers of phospholipids, in which hydrophobic fatty acids are in the middle of the plasma membrane, and the hydrophilic heads are on the outside.
+An example of a simple phospholipid bilayer is illustrated in Figure below .
+Phospholipid Bilayer.
+The phospholipid bilayer consists of two layers of phospholipids, with a hydrophobic, or water-hating, interior and a hydrophilic, or water-loving, exterior.
+The hydrophilic (polar) head group and hydrophobic tails (fatty acid chains) are depicted in the single phospholipid molecule.
+The polar head group and fatty acid chains are attached by a 3-carbon glycerol unit.
+The hydrophobic fatty acids point towards the middle of the plasma membrane, and the hydrophilic heads point outwards.
+The membrane is stabilized by cholesterol molecules (green).

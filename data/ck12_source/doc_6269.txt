@@ -1,0 +1,20 @@
+Calculate the heat absorbed when 31.6 g of ice at 0°C is completely melted.
+Step 1:
+List the known quantities and plan the problem .
+mass = 31.6 g ice
+molar mass H 2 O( s ) = 18.02 g/mol
+molar heat of fusion = 6.01 kJ/mol
+\Delta H=? \text{ J}
+The mass of ice is first converted to moles.
+This is then multiplied by the conversion factor of \left(\frac{6.01 \text{ kJ}}{1 \text{ mol}}\right) in order to find the kJ of heat absorbed.
+Step 2:
+Solve .
+31.6 \text{ g ice} \times \frac{1 \text{ mol ice}}{18.02 \text{ g ice}} \times \frac{6.01 \text{ kJ}}{1 \text{ mol ice}}=10.5 \text{ kJ}
+Step 3:
+Think about your result .
+The given quantity is a bit less than 2 moles of ice, and so just less than 12 kJ of heat is absorbed by the melting process.
+Molar heats of fusion and solidification are defined.
+Calculations of heat changes during fusion and solidification are described.
+Work on problems 4-5 at the link below:
+In the transition from liquid to solid, is energy absorbed or released?
+In the transition from solid to liquid, is energy absorbed or released?

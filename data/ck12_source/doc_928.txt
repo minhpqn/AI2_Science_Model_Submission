@@ -1,0 +1,20 @@
+The effective current through the lamp is 5.50 A.
+What is the maximum current in the lamp?
+direct current:
+An electric current flowing in one direction only.
+alternating current:
+An electric current that reverses direction in a circuit at regular intervals.
+electric generator:
+An electric generator is a device that converts mechanical energy to electrical energy.
+armature:
+The rotating part of a generator, consisting essentially of copper wire wound around an iron core.
+State Lenz’s law.
+Explain back EMF and explain how it affects motors and generators.
+Diagram of a handcrank powered lightbulb
+This is a diagram of a hand-cranked demonstration generator.
+Turning the hand crank spins a coil inside horseshoe magnets and generates an electric current that lights the bulb.
+In order to generate an electric current in a conductor, the conductor must be part of a complete circuit.
+If the light bulb is removed from this apparatus, the crank is very easy to turn.
+If the light bulb is absent, the circuit is incomplete and no current is generated.
+When the light bulb is place in the circuit, the circuit is complete and turning the crank will generate a current and light the bulb.
+When the crank is turned with bulb in the circuit, it is more difficult to turn the crank.

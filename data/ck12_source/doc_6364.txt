@@ -1,0 +1,20 @@
+Is NO formation spontaneous at room temperature?
+How do we know that the equilibrium between carbonic acid and CO 2 goes strongly to the right?
+nonspontaneous reaction:
+A reaction that does not favor the formation of products at the given set of conditions.
+spontaneous reaction:  A reaction that favors the formation of products at the conditions under which the reaction is occurring.
+Define free energy.
+Describe how changes in  \Delta H and  \Delta S affect \Delta G .
+A steam train converts free energy into mechanical energy
+The steam engine pictured above is slowly going out of style, but is still a picturesque part of the modern railroad.
+The water in a boiler is heated by a fire (usually fueled by coal) and turned to steam.
+This steam then pushes the pistons that drive the wheels of the train.
+It is the pressure created by the steam which allows work to be done in moving the train.
+Many chemical reactions and physical processes release energy that can be used to do other things.
+When the fuel in a car is burned, some of the released energy is used to power the vehicle.
+Free energy is energy that is available to do work.
+Spontaneous reactions release free energy as they proceed.
+Recall that the determining factors for spontaneity of a reaction are the enthalpy and entropy changes that occur for the system.
+The free energy change of a reaction is a mathematical combination of the enthalpy change and the entropy change.
+\Delta G^\circ=\Delta H^\circ - T \Delta S^\circ
+The symbol for free energy is G , in honor of American scientist Josiah Gibbs (1839-1903), who made many contributions to thermodynamics.

@@ -1,0 +1,20 @@
+The Figure below shows the atomic emission spectrum of hydrogen.
+Atomic emission spectrum of hydrogen, helium, and iron
+When light from a hydrogen gas discharge tube is passed through a prism, the light is split into four visible lines.
+Each of these spectral lines corresponds to a different electron transition from a higher energy state to a lower energy state.
+Every element has a unique atomic emission spectrum, as shown by the examples of helium (He) and iron (Fe).
+Classical theory was unable to explain the existence of atomic emission spectra, also known as line-emission spectra.
+According to classical physics, a ground state atom would be able to absorb any amount of energy rather than only discrete amounts.
+Likewise, when the atoms relaxed back to a lower energy state, any amount of energy could be released.
+This would result in what is known a continuous spectrum , where all wavelengths and frequencies are represented.
+White light viewed through a prism and a rainbow are examples of continuous spectra.
+Atomic emission spectra were more proof of the quantized nature of light and led to a new model of the atom based on quantum theory.
+Atomic emission spectra are produced when excited electrons return to ground state.
+The emitted light corresponds to energies of the specific electrons.
+Use the link below to answer the following questions:
+How many spectral lines are there for lithium?
+How many spectral lines are there for beryllium?
+Which element would you expect to have more lines:
+Na or Mg?
+What is the ground state of an atom?
+What is an excited state?

@@ -1,0 +1,20 @@
+The answer has two significant figures because the given pH has two decimal places.
+The diagram below shows all of the interrelationships between [H + ], [OH − ], pH, and pOH.
+Illustration of the relationships between pH, pOH, [OH], and [H]
+Relationships between hydrogen ion concentration, hydroxide ion concentration, pH, and pOH.
+pOH is defined.
+Calculations involving pOH are described.
+Do all calculations at the link below that involve pOH:
+What is the formula for calculating pOH?
+What pOH value is indicative of an acidic solution?
+A pOH value of 3 would indicate what type of solution?
+pOH:
+The negative logarithm of the hydroxide-ion concentration.
+Strong and Weak Acids and Acid Ionization Constant (Ka)
+Define a strong acid.
+List some strong acids.
+Define a weak acid.
+List some weak acids.
+Write the expression for the acid ionization constant.
+Glass is etched using dilute hydrofluoric acid
+How do they etch glass?

@@ -1,0 +1,20 @@
+We can solve this problem using the equation given above relating kinetic energy to the temperature of a gas.
+\frac{1}{2}mv^2&=\frac{3}{2}kT\\\v&=\sqrt{\frac{3kT}{m}}\\\v&=\sqrt{\frac{3*1.38*10^{-23}\;\text{J/K} * 100\;\text{K}}{3.34*10^{-26}\;\text{kg}}}\\\v&=352.1\;\text{m/s}\\\
+Convert the boiling point of water  100^\circ \text{C}  to Fahrenheit
+Convert  70^\circ \text{F}  to Celsius
+The temperature of the box is related to the average speed of the molecules.
+Use momentum principles to relate temperature to pressure.
+Explain conceptually, in words rather than with equations.
+Explain why a lake freezes at the top first, rather than throughout or at the bottom?
+Typical room temperature is about 300 \;\mathrm{K} .
+As you know, the air in the room contains both O_2 and N_2 gases, with nitrogen the lower mass of the two.
+If the average kinetic energies of the oxygen and nitrogen gases are the same (since they are at the same temperature), which gas has a higher average speed?
+Temperature is a measure of the average kinetic energy of molecules.
+Consider a mixture of hydrogen and oxygen gas at a certain temperature.
+Use the formula for kinetic energy to explain why the hydrogen molecules move faster than the oxygen molecules.
+Then explain why there’s no hydrogen in the earth’s atmosphere, and why the moon has no atmosphere at all.
+Calculate the average speed of N_2 molecules at room temperature (300 \;\mathrm{K}) . (You remember from your chemistry class how to calculate the mass (in kg ) of an N_2 molecule, right?)
+How high would the temperature of a sample of O_2 gas molecules have to be so that the average speed of the molecules would be 10 % the speed of light?
+Convert this temperature to Kelvin and Fahrenheit as well.
+Answers to Selected Problems
+1.15 \times 10^{12}\;\mathrm{K}

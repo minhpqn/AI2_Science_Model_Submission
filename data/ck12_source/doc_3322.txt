@@ -1,0 +1,20 @@
+A closed loop through which current can flow is called an electric circuit .
+In homes in the U.S., most electric circuits have a voltage of 120 volts.
+The amount of current (amps) a circuit carries depends on the number and power of electrical devices connected to the circuit.
+Home circuits generally have a safe upper limit of about 20 or 30 amps.
+Parts of an Electric Circuit
+All electric circuits have at least two parts: a voltage source and a conductor.
+They may have other parts as well, such as light bulbs and switches, as in the simple circuit seen in the Figure below .
+To see an animation of a circuit like this one, go to:
+A properly closed circuit
+The voltage source of this simple circuit is a battery.
+In a home circuit, the source of voltage is an electric power plant, which may supply electric current to many homes and businesses in a community or even to many communities.
+The conductor in most circuits consists of one or more wires.
+The conductor must form a closed loop from the source of voltage and back again.
+In the Figure above , the wires are connected to both terminals of the battery, so they form a closed loop.
+Most circuits have devices such as light bulbs that convert electrical energy to other forms of energy.
+In the case of a light bulb, electrical energy is converted to light and thermal energy.
+Many circuits have switches to control the flow of current.
+When the switch is turned on, the circuit is closed and current can flow through it.
+When the switch is turned off, the circuit is open and current cannot flow through it.
+When a contractor builds a new home, she uses a set of plans called blueprints that show her how to build the house.

@@ -1,0 +1,20 @@
+The smallest loops are the higher elevations on the hill.
+The larger loops encircling the smaller loops are downhill.
+If you look at the map, you can see Cady Hill in the lower left and another, smaller hill in the upper right.
+Concentric circles on a topographic map indicate a hill
+Portion of a USGS topographic map of Stowe, VT.
+Cady Hill (elevation 1122 feet) is shown by concentric circles in the lower left portion of the map.
+Another hill (elevation ~ 960 feet) is on the upper right portion of the map.
+Hatched concentric circles indicate a depression .
+The hatch marks are short, perpendicular lines inside the circle.
+The innermost hatched circle represents the deepest part of the depression ( Figure below ).
+The outer hatched circles represent higher elevations.
+On a contour map, a circle with inward hatches indicates a depression
+On a contour map, a circle with inward hatches indicates a depression.
+V-shaped portions of contour lines indicate stream valleys .
+The “V“ shape of the contour lines point uphill.
+There is a V shape because the stream channel passes through the point of the V.
+The open end of the V represents the downstream portion.
+A blue line indicates that there is water running through the valley.
+If there is not a blue line, the V pattern indicates which way water flows.
+Below, you can see examples of V-shaped markings ( Figure below ).

@@ -1,0 +1,20 @@
+Outline how an electric motor changes electrical energy to kinetic energy.
+The little boy on the left is pressing the doorbell on his playhouse.
+The doorbell is connected to a battery, so it actually rings when he pushes the button.
+The little girl on the right is using a hand-held fan to cool off on a hot day.
+The fan is also battery-operated, and the blades of the fan turn in a blur of motion.
+What do the doorbell and fan have in common?
+Both of them work because they contain electromagnets.
+Devices with Electromagnets
+Many common electric devices contain electromagnets.
+An electromagnet is a coil of wire wrapped around a bar of iron or other ferromagnetic material.
+When electric current flows through the wire, it causes the coil and iron bar to become magnetized.
+An electromagnet has north and south magnetic poles and a magnetic field.
+Turning off the current turns off the electromagnet.
+To understand how electromagnets are used in electric devices, we’ll focus on two common devices: doorbells and electric motors like the one that turns the blades of a fan.
+Q:
+Besides doorbells and fans, what are some other devices that contain electromagnets?
+A:
+Any device that has an electric motor contains electromagnets.
+Some other examples include hairdryers, CD players, power drills, electric saws, and electric mixers.
+How a Doorbell Works

@@ -1,0 +1,20 @@
+The Theory of Special Relativity
+Describe time dilation.
+Describe the twin paradox.
+Calculate time interval changes when reference frames have relative motion approaching the speed of light.
+Calculate relativistic length for objects observed traveling at near the speed of light.
+Calculate relativistic mass.
+Cartoon of nuclear weapon being detonated
+E = mc^2 as derived in the special theory of relativity explains the equivalence of mass and energy, which is how nuclear reactions produce the amazing amounts of energy available in thermonuclear weapons.
+The Theory of Special Relativity
+The theory of relativity refers to two different elements of the same theory: special relativity and general relativity.
+The theory of special relativity was first introduced by Albert Einstein in 1905 and was later (1916) considered to be a special case of the more comprehensive theory of general relativity .
+The special theory of relativity was accepted reasonably quickly by physicists considering that it was introduced in 1905 and widely accepted by 1920.
+The theory of general relativity was not accepted as quickly.
+Some physics historians insist that considerable resistance to the theory existed even into the 1950’s and 1960’s.
+At least part of the problem for the acceptance of the theory was that some conclusions from the theory went against common sense and also, there was very little experimental evidence to support the theory.
+The special theory of relativity essentially explains how to interpret motion between different inertial frames of reference, that is, places that are moving at constant speeds relative to each other.
+Special relativity is based on two postulates:
+The laws of physics are the same for all observers within their own inertial reference frame.
+The speed of light in a vacuum is the same for all observers regardless of their relative motion or the motion of the source of the light.
+An inertial reference frame is one in which Newton’s first law, the law of inertia, is valid.

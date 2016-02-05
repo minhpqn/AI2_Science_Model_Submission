@@ -1,0 +1,20 @@
+It is necessary to use Kelvin for the temperature and it is conventional to use the SI unit of liters for the volume.
+However, pressure is commonly measured in one of three units: kPa, atm, or mmHg.
+Therefore,  R can have three different values.
+We will demonstrate how  R is calculated when the pressure is measured in kPa.
+Recall that the volume of 1.00 mol of any gas at STP is measured to be 22.414 L.
+We can substitute 101.325 kPa for pressure, 22.414 L for volume, and 273.15 K for temperature into the ideal gas equation and solve for R .
+R=\frac{PV}{nT}=\frac{101.325 \ \text{kPa} \times 22.414 \text{ L}}{1.000 \ \text{mol} \times 273.15 \text{ K}}=8.314 \ \text{kPa} \cdot \text{L/K} \cdot \text{mol}
+This is the value of  R that is to be used in the ideal gas equation when the pressure is given in kPa.
+The Table below shows a summary of this and the other possible values of R .
+It is important to choose the correct value of  R to use for a given problem.
+Values of the Ideal Gas Constant
+Unit of P
+Unit of V
+Unit of n
+Unit of T
+Value and unit of R
+8.314 \ \text{J/K} \cdot \text{mol}
+0.08206 \ \text{L} \cdot \text{atm/K} \cdot \text{mol}
+62.36 \text{ L} \cdot \text{mmHg/K} \cdot \text{mol}
+Notice that the unit for  R when the pressure is in kPa has been changed to J/K • mol.

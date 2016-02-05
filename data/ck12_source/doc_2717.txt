@@ -1,0 +1,20 @@
+Other chemical reactions release energy when they occur, so they can keep going without any added energy.
+They are called exothermic reactions.
+Q:
+It makes sense that endothermic reactions need activation energy.
+But do exothermic reactions also need activation energy?
+A:
+All chemical reactions need energy to get started, even exothermic reactions.
+Look at the Figure below .
+They compare energy changes that occur during endothermic and exothermic reactions.
+From the graphs, you can see that both types of reactions need the same amount of activation energy in order to get started.
+Only after it starts does the exothermic reaction produce more energy than it uses.
+Activation energy of endothermic and exothermic reactions
+A Common Example
+You have probably used activation energy to start a chemical reaction.
+For example, if you’ve ever struck a match to light it, then you provided the activation energy needed to start a combustion reaction.
+When you struck the match on the box, the friction started the match head burning.
+Combustion is exothermic.
+Once a match starts to burn, it releases enough energy to activate the next reaction, and the next, and so on.
+However, the match won’t burst into flames on its own.
+All chemical reactions, including exothermic reactions, need activation energy to get started.

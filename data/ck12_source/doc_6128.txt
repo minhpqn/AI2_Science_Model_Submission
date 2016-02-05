@@ -1,0 +1,20 @@
+Structure of Water
+Describe the structure of a water molecule.
+Describe the polarity of a water molecule.
+Water is an extremely large component of many systems and is very important
+How much of the Earth's surface is covered with water?
+In his well-known poem “The Rime of the Ancient Mariner,” Samuel Coleridge wrote “Water, water everywhere, Nor any drop to drink.” The narrator was talking about being out on the ocean, but not having any water because he had killed an albatross (apparently bringing bad luck to everyone on the ship).
+About 75% of the Earth’s surface is water.
+The major constituent of the human body (over 60%) is water.
+This simple molecule plays important roles in all kinds of processes.
+Structure of Water
+Water is a simple molecule consisting of one oxygen atom bonded to two different hydrogen atoms.  Because of the higher electronegativity of the oxygen atom, the bonds are polar covalent ( polar bonds ).  The oxygen atom attracts the shared electrons of the covalent bonds to a significantly greater extent than the hydrogen atoms.  As a result, the oxygen atom acquires a partial negative charge (\delta -) , while the hydrogen atoms each acquire a partial positive charge (\delta +) .  The molecule adopts a bent structure because of the two lone pairs of electrons on the oxygen atom.  The H-O-H bond angle is about 105°, slightly smaller than the ideal 109.5° of an sp 3 hybridized atomic orbital.
+Representations of water using different models
+The water molecule, visualized three different ways: ball-and-stick model, space-filling model, and structural formula with partial charges.
+The bent shape of the water molecule is critical because the polar O-H bonds do not cancel one another and the molecule as a whole is polar.
+Figure below illustrates the net polarity of the water molecule.  The oxygen is the negative end of the molecule, while the area between the hydrogen atoms is the positive end of the molecule.
+Water is a very polar molecule because the oxygen is very electronegative
+Water is a polar molecule, as greater electron density is found around the more electronegative oxygen atom.
+Polar molecules attract one another by dipole-dipole forces as the positive end of one molecule is attracted to the negative end of the nearby molecule.  In the case of water, the highly polar O-H bonds results in very little electron density around the hydrogen atoms.
+Each hydrogen atom is strongly attracted to the lone-pair electrons on an adjacent oxygen atom.  These are called hydrogen bonds and are stronger than conventional dipole-dipole forces.
+Hydrogen bonds are formed between electron-deficient hydrogen atoms and atoms with lone pairs

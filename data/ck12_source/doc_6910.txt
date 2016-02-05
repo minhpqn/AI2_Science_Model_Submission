@@ -1,0 +1,20 @@
+The Big Idea
+Conservation of charge is the fourth of the five conservation laws in physics.
+There are two charges, positive and negative, and the conservation of electric charge indicates that the total charge in the universe remains the same.
+In any closed system charge can be transferred from one body to another or can move within the system but the total electric charge remains constant.
+Electromagnetism is associated with charge and is a fundamental force of nature, like gravity.
+If charges are static, the only manifestation of electromagnetism is the Coulomb electric force.
+In the same way that gravitational force depends on mass, the Coulomb electric force depends on the property known as electric charge.
+Like gravity, the Coulomb electric Force decreases with the square of the distance.
+The Coulomb electric force is responsible for many of the forces we discussed previously: the normal force, contact forces such as friction, and so on - all of these forces arise in the mutual attraction and repulsion of charged particles.
+The law determining the magnitude of the Coulomb electric force has the same form as the law of gravity.
+However the electric constant is 20 orders of magnitude greater than the gravitational constant.
+That is why electricity normally dominates gravity at the atomic and molecular level.
+Since there is only one type of mass but two types of charge, gravity will dominate in large bodies unless there is a separation of charge.
+Describe the basics of electrostatics.
+Students will learn the inner workings of electrostatics:
+Why certain objects repulse, why certain objects attract and how to calculate the number of excess electrons or protons in an object.
+q = Ne \text{ } Any object's charge is an integer multiple of an electron's charge.
+Opposite charges attract and like charges repulse
+The electron (and proton) is the fundamental charge unit.
+The charge of an electron and proton is  1.6 \times 10^{-19}  C.

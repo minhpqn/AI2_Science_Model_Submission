@@ -1,0 +1,20 @@
+Describe the influence of temperature on the solubility of gases in water.
+When the temperature of water increases, the amount of dissolved oxygen decreases, which can kill fish
+What happens to the fish in the water next to a nuclear power plant?
+Nuclear power plants require large amounts of water to generate steam for the turbines and to cool the equipment.
+They will usually be situated near bodies of water to use that water as a coolant, returning the warmer water back to the lake or river.
+This increases the overall temperature of the water, which lowers the quantity of dissolved oxygen, affecting the survival of fish and other organisms.
+How Temperature Influences Solubility
+The solubility of a substance is the amount of that substance that is required to form a saturated solution in a given amount of solvent at a specified temperature.
+Solubility is often measured as the grams of solute per 100 g of solvent.
+The solubility of sodium chloride in water is 36.0 g per 100 g water at 20°C.
+The temperature must be specified because solubility varies with temperature.
+For gases, the pressure must also be specified.
+Solubility is specific for a particular solvent.
+We will consider solubility of material in water as solvent.
+The solubility of the majority of solid substances increases as the temperature increases.
+However, the effect is difficult to predict and varies widely from one solute to another.
+The temperature dependence of solubility can be visualized with the help of a solubility curve , a graph of the solubility vs. temperature (see Figure below ).
+Solubility curve of many compounds
+Solubility curves for several compounds.
+Notice how the temperature dependence of NaCl is fairly flat, meaning that an increase in temperature has relatively little effect on the solubility of NaCl.

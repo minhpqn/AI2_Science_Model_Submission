@@ -1,0 +1,20 @@
+equivalence point:
+The point in a neutralization reaction where the number of moles of hydrogen ions is equal to the number of moles of hydroxide ions.
+indicator:
+A substance that has a distinctly different color when in an acidic or basic solution.
+standard solution:
+The solution in a titration whose concentration is known.
+titration:
+An experiment where a volume of a solution of known concentration is added to a volume of another solution in order to determine its concentration.
+Perform calculations to determine concentration of unknown acid or base.
+The calculation of saponification number in the production of soap is typically found through titration
+How is soap made?
+The manufacture of soap requires a number of chemistry techniques.
+One necessary piece of information is the saponification number.
+This is the amount of base needed to hydrolyze a certain amount of fat to produce the free fatty acids that are an essential part of the final product.
+The fat is heated with a known amount of base (usually NaOH or KOH).
+After hydrolysis is complete, the left-over base is titrated to determine how much was needed to hydrolyze the fat sample.
+At the equivalence point in a neutralization, the moles of acid are equal to the moles of base.
+\text{moles acid} = \text{moles base}
+Recall that the molarity  (M) of a solution is defined as the moles of the solute divided by the liters of solution (L) .
+So the moles of solute are therefore equal to the molarity of a solution multiplied by the volume in liters.

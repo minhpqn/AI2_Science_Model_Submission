@@ -1,0 +1,20 @@
+rounding down:
+Adjusting a value to less than the original value.
+rounding up:
+Adjusting a value to more than the original value.
+Uncertainty in Multiplication and Division
+State the rule for rounding values obtained by multiplication or division.
+Apply the rule to appropriate problems.
+Calculators do not keep track of significant figures
+Who should report the numbers - you or your calculator?
+Calculators do just what you ask of them, no more and no less.
+However, they sometimes can get a little out of hand.
+If I multiply 2.48 times 6.3, I get an answer of 15.687, a value that ignores the number of significant figures in either number.
+Division with a calculator is even worse.
+When I divide 12.2 by 1.7, the answer I obtain is 7.176470588.
+Neither piece of data is accurate to nine decimal places, but the calculator doesn’t know that.
+The human being operating the instrument has to make the decision about how many places to report.
+Uncertainty in Multiplication and Division
+The density of a certain object is calculated by dividing the mass by the volume.  Suppose that a mass of 37.46 g is divided by a volume of 12.7 cm 3 .  The result on a calculator would be:
+D=\frac{m}{V}=\frac{37.46 \ \text{g}}{12.7 \ \text{cm}^3}=2.949606299 \ \text{g}/\text{cm}^3
+The value of the mass measurement has four significant figures, while the value of the volume measurement has only three significant figures.  For multiplication and division problems, the answer should be rounded to the same number of significant figures as the measurement with the least number of significant figures.  Applying this rule results in a density of 2.95 g/cm 3 , for three significant figures – the same as the volume measurement.

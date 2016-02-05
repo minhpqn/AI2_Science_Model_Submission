@@ -1,0 +1,20 @@
+Each individual electron in this circuit passes through only one of the light bulbs.
+After the current passes through the switch, it divides into three pieces and each piece passes through one of the bulbs.
+The three pieces of current rejoin after the light bulbs and continue in the circuit to the potential source.
+Three light bulbs in parallel
+In the design of this parallel circuit, each resistor (light bulb) is connected across the battery as if the other two resistors were not present.
+Remember that the current going through each resistor goes through only the one resistor.
+Therefore, the voltage drop across each resistor must be equal to the total voltage drop though the circuit.
+V_T = V_1 = V_2 = V_3
+The total current passing through the circuit will be the sum of the individual currents passing through each resistor.
+I_T = I_1 + I_2 + I_3
+If we return to the analogy of a river, a parallel circuit is the same as the river breaking into three streams, which later rejoin to one river again.
+The amount of water flowing in the river is equal to the sum of the amounts of water flowing in the individual streams.
+Ohm's Law applies to resistors in parallel, just as it did to resistors in a series.
+The current flowing through each resistor is equal to the total voltage drop divided by the resistance in that resistor.
+I_1=\frac{V_T}{R_1} \quad \text{and} \quad I_2=\frac{V_T}{R_2} \quad \text{and} \quad I_3=\frac{V_T}{R_3}
+Since I_T=I_1+I_2+I_3 ,
+then I_T=\frac{V_T}{R_1} + \frac{V_T}{R_2} + \frac{V_T}{R_3} ,
+and \frac{V_T}{R_T}=\frac{V_T}{R_1} + \frac{V_T}{R_2} + \frac{V_T}{R_3} .
+If we divide both sides of the final equation by V_T , we get the relationship between the total resistance of the circuit and the individual parallel resistances in the circuit.
+The total resistance is sometimes called the equivalent resistance.

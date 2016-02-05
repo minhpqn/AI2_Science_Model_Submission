@@ -1,0 +1,20 @@
+A :
+The efficiency of the ramp is:
+\frac{6700 \ \text{J}}{7500 \ \text{J}} \times 100\%=90\%
+For an animated ramp and its efficiency, go to this URL:
+A machine always does less work on an object than the user does on the machine, because the machine must use some of the work to overcome friction.
+Efficiency is the percent of work put into a machine by the user (input work) that becomes work done by the machine (output work).
+It is a measure of how well a machine reduces friction.
+You can calculate the efficiency of a machine with this equation: \mathrm{Efficiency=\frac{Output\;work}{Input\;work} \times 100\%}
+At the following URL, review efficiency and how to calculate it.
+Then do the problems at the bottom of the Web page.
+Check the correct answers and the explanations for them.
+Why is the output work of a machine always less than the input work done on the machine?
+What is the efficiency of a machine?
+If a machine requires an input of 5000 joules of work to put out 4000 joules of work, what is the machine’s efficiency?
+Define actual and ideal mechanical advantage.
+Show how to calculate actual and ideal mechanical advantage.
+Identify the mechanical advantage of different types of machines.
+Did you ever use a hammer to break open a piggy bank?
+When you use a hammer to hit something, you apply force to the end of the handle.
+The head of the hammer, in turn, applies force to the piggy bank or whatever object you are striking.

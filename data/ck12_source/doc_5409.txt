@@ -1,0 +1,20 @@
+Often, because many of these genes regulate the processes that prevent most damage to the genes themselves, DNA damage accumulates as one ages.
+Usually, oncogenes are dominant alleles, as they contain gain-of-function mutations .
+The actions of the mutant allele gene product, many times resulting in a constitutively activated protein, are dominant to the gene product produced by the "normal" allele.
+Meanwhile, mutated tumor suppressors are generally recessive alleles, as they contain loss-of-function mutations .
+A proto-oncogene needs only a mutation in one copy of the gene to generate an oncogene; a tumor suppressor gene needs a mutation in both copies of the gene to render both products defective.
+There are instances when, however, one mutated allele of a tumor suppressor gene can render the other copy non-functional.
+These instances result in what is known as a dominant negative effect .
+Cancers are caused by a series of mutations.
+Each mutation alters the behavior of the cell.
+In this example, the first mutation inactivates a tumor suppressor gene, the second mutation inactivates a DNA repair gene, the third mutation creates an oncogene, and a fourth mutation inactivates several more tumor suppressor genes, resulting in cancer.
+It should be noted that it does not necessarily require four or more mutations to lead to cancer.
+cancer :
+A disease characterized by a population of cells that grow and divide without respect to normal limits.
+carcinogen :
+A cancer causing agent, such as tobacco smoke, radiation, chemicals, or certain infectious agents.
+carcinogenesis :
+The process by which normal cells are transformed into cancer cells; also known as oncogenesis or tumorigenesis.
+dominant negative effect :
+Due to a mutation that results in an altered gene product that acts in a dominant manner to the wild-type gene product.
+gain-of-function mutation :

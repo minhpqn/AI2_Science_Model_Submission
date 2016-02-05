@@ -1,0 +1,20 @@
+Genes that function in patterning the body, providing the placement of certain body parts during development.
+maternal effect :
+Occurs when an organism shows the phenotype expected from the genotype of the mother, irrespective of its own genotype; often due to the mother supplying mRNA or proteins to the egg.
+pair-rule gene :
+A type of gene involved in the development of the segmented embryos of insects.
+TATA box :
+A cis-regulatory element found in the promoter of most eukaryotic genes; when the appropriate cellular signals are present, RNA polymerase binds to the TATA box, completing the initiation complex.
+transcription factor :
+A protein involved in regulating gene expression; usually bound to a cis-regulatory element on the DNA; also known as a regulatory protein or a trans-acting factor.
+Homeobox genes are involved in the regulation of genes important to development.
+They encode transcription factors.
+Gap genes control the shape of a developing zygote early in its development.
+Gap mutants are missing segments in their embryos.
+These genes are highly regulated.
+Use this resource to answer the questions that follow.
+Master genes control basic body plans at
+How were genes that control early embryonic development identified?
+Describe the polarity of the fertilized egg, as it relates to protein expression.
+What does "segmentation" refer to in the developing fly?
+What is a gap mutant?

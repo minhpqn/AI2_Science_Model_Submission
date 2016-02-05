@@ -1,0 +1,20 @@
+A gene is made of DNA at and  .
+List the research that determined that DNA is the genetic material.
+What is transformation?
+What happened to the R-strain bacteria when Avery and his colleagues inactivated DNA in the S strain bacteria?
+DNA Structure and Replication
+Summarize Chargaff’s rules.
+Explain the findings of James Watson and Francis Crick.
+Summarize the process of semi-conservative DNA replication.
+How do these four structures form DNA?
+In an extremely elegant model, that's how.
+As you will soon see, the model predicts how the DNA sequence can code for proteins, and how the molecule can be replicated.
+DNA Structure and Replication
+Other important discoveries about DNA were made in the mid-1900s by Erwin Chargaff.
+He studied DNA from many different species.
+He was especially interested in the four different nitrogen bases of DNA: adenine (A), guanine (G), cytosine (C), and thymine (T) (see Figure below ).
+Chargaff found that concentrations of the four bases differed from one species to another.
+However, within each species, the concentration of adenine was always about the same as the concentration of thymine.
+The same was true of the concentrations of guanine and cytosine.
+These observations came to be known as Chargaff’s rules .
+The significance of the rules would not be revealed until the structure of DNA was discovered.

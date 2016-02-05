@@ -1,0 +1,20 @@
+Lead containers used to store radioactive isotopes are called pigs
+What kind of pig?
+The container pictured above stores a radioisotope that will be administered to a patient as part of a medical treatment.
+The isotope is stored in a lead container that blocks the radiation from escaping and causing exposure to people.
+This lead container is called a “pig”, a term long used for referring to castings of lead or other metals.
+The origin of the term is not clear, but was probable first applied to these containers by the people who made them.
+Penetrating Ability of Emissions
+The various emissions will differ considerably in their ability to go through matter, known as their penetrating ability .
+The α-particle has the least penetrating power since it is the largest and slowest emission.
+It can be blocked by a sheet of paper or a human hand.
+Beta particles are more penetrating than alpha particles, but can be stopped by a thin sheet of aluminum.
+Of the three basic types of emissions, gamma particle are the most penetrating.
+A thick lead shield is required to stop gamma emissions.
+Positrons represent a special case in that they annihilate when they come in contact with electrons.
+The collision of a positron and an electron results in the formation of two gamma emissions that go 180 degrees away from each other.
+Penetrating power of different radioactive emission
+Penetrating ability of radioactive emissions.
+Blocking of alpha particles can easily be accomplished by as little as 10 mm plastic or paper.
+Beta emissions represent a somewhat different situation.
+The negative charge on a beta particle has the potential for activating the element being used to block the radiation.

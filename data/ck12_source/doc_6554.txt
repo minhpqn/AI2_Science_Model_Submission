@@ -1,0 +1,20 @@
+There are no spaces in the name.
+Following are three examples of alcohols and their IUPAC names.
+Nomenclature of three alcohols
+Aliphatic alcohols can be classified according to the number of R groups attached to the carbon with the hydroxyl group.
+If one R group is attached to that carbon, the alcohol is a primary alcohol.
+If two R groups are attached, the alcohol is a secondary alcohol.
+If three R groups are attached, the alcohol is a tertiary alcohol.
+Shown below is an example of each.
+The primary alcohol is 1-propanol, the secondary alcohol is 2-butanol, and the tertiary alcohol is 2-methy-2-propanol.
+Primary, secondary, and tertiary alcohols
+Properties of Alcohols
+The smallest and lightest alcohols (methanol, ethanol, propanol) are completely soluble in water in all proportions.
+In a solution, the hydroxyl groups of alcohol molecules and the water molecules form hydrogen bonds with each other, resulting in complete miscibility.
+However, as the length of the carbon chain increases, the solubility decreases.
+The solubility of 1-butanol is 7.4 g per 100 g of water, while that of 1-pentanol is 2.7 g per 100 g water, and 1-octanol is 0.06 g per 100 g water.
+The carbon chain portion of the larger alcohol molecule is nonpolar and leads to the decreased solubility of the overall compound.
+The presence of hydrogen bonds in alcohols also explains the relatively high boiling points of alcohols compared to alkanes of similar molar mass (see Table below ).
+Boiling Point Comparison of Alkanes and Alcohols
+Molar Mass (g/mol)
+Boiling Point (°C)

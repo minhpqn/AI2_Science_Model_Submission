@@ -1,0 +1,20 @@
+In the problem above, what is the formula weight of neon?
+What value is at the center of all the calculations?
+If we had 79.3 grams of Xe, would we expect a volume that is greater than or less than that obtained with neon?
+Define percent composition.
+Perform percent composition calculations.
+Nutritional information labels can let you know the percent composition
+Is there anything healthy in this jar?
+Packaged foods that you eat typically have nutritional information provided on the label.  The label on a jar of peanut butter (shown above) reveals that one serving size is considered to be 32 g.  The label also gives the masses of various types of compounds that are present in each serving.  One serving contains 7 g of protein, 15 g of fat, and 3 g of sugar.  By calculating the fraction of protein, fat, or sugar in one serving of size of peanut butter and converting to percent values, we can determine the composition of the peanut butter on a percent by mass basis.
+Chemists often need to know what elements are present in a compound and in what percentage.  The percent composition is the percent by mass of each element in a compound.  It is calculated in a similar way that we just indicated for the peanut butter.
+\% \ \text{by mass}=\frac{\text{mass of element}}{\text{mass of compound}} \times 100 \%
+Percent Composition from Mass Data
+The sample problem below shows the calculation of the percent composition of a compound based on mass data.
+Sample Problem One:
+Percent Composition from Mass
+A certain newly synthesized compound is known to contain the elements zinc and oxygen.  When a 20.00 g sample of the sample is decomposed, 16.07 g of zinc remains.  Determine the percent composition of the compound.
+Step 1:
+List the known quantities and plan the problem.
+mass of compound = 20.00 g
+mass of Zn = 16.07 g
+percent Zn = ? %

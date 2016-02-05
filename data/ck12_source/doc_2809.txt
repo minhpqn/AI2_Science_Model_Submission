@@ -1,0 +1,20 @@
+It’s important to realize that the pH scale is based on powers of ten.
+For example, a solution with a pH of 8 is 10 times more basic than a solution with a pH of 7, and a solution with a pH of 9 is 100 times more basic than a solution with a pH of 7.
+Q:
+How much more acidic is a solution with a pH of 4 than a solution with a pH of 7?
+A:
+A solution with a pH of 4 is 1000 (10 × 10 × 10, or 10 3 ) times more acidic than a solution with a pH of 7.
+The pH scale measures acidity
+Q:
+Which solution on the pH scale in the Figure above is the weakest acid?
+Which solution is the strongest base?
+A:
+The weakest acid on the scale is milk, which has a pH value between 6.5 and 6.8.
+The strongest base on the scale is liquid drain cleaner, which has a pH of 14.
+For a deeper understanding of pH and the pH scale, watch the video at this URL:  .
+For an interactive exploration of pH, including an interactive pH scale, go to this URL:  .
+Why pH Matters
+Acidity is an important factor for living things.
+For example, many plants grow best in soil that has a pH between 6 and 7.
+Fish may also need a pH between 6 and 7.
+Certain air pollutants form acids when dissolved in water droplets in the air.

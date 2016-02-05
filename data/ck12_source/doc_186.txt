@@ -1,0 +1,20 @@
+Motion in a Straight Line
+Position and Displacement
+Understand an object's frame of reference.
+Describe the difference between distance and displacement.
+Identify the position, distance, and displacements in various descriptions of motions.
+Drivers in stockcar races often travel 500 miles or more, but their final displacement is only a few feet
+In stockcar races, drivers often travel 500 miles or more, but their final displacement is only a few feet.
+Why?
+Position, Distance, and Displacement
+In order to study how something moves, we must know where it is.
+This location is an object's position.
+To visualize position for objects moving in a straight line, you can imagine the object is on a number line.
+It may be placed at any point on the number line in the positive numbers or the negative numbers.  It is common to choose the original position of the object to be on the zero mark.  In making the zero mark the reference point, you have chosen a frame of reference.  The exact position of an object is the separation between the object and the reference point.
+When an object moves, we often refer to the amount it moves as the distance .
+Distance does not need a reference point and does not need a direction.
+If an automobile moves 50 kilometers, the distance traveled is 50 kilometers regardless of the starting point or the direction of movement.
+If we wish to find the final position of the automobile, however, just having the distance traveled will not allow us to determine the final position.
+We need to know the starting point and the direction of the motion.
+The change in the position of the object is called its displacement .
+The displacement must include a direction because the final position may be either in the positive or negative direction along the number line from the initial position.

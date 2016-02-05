@@ -1,0 +1,20 @@
+A diagram in which the valence electrons of an atom are shown as dots distributed around the element’s symbol.
+State the octet rule.
+Use the octet rule to predict outcomes of chemical reactions.
+Electron filling orbitals is like filling rows at graduation
+How are electrons organized in atoms?
+Graduations are exciting events in one's life.  The processional, the ceremonies, even the speeches can be handled because this marks the end of a stage of life and the beginning of another one.
+The ceremony itself is challenging for those organizing it.  There are just enough seats on the stage for the graduates.  How do you avoid getting too many people in a row and not enough in the next row?
+Someone is stationed at the end of the row to count the students as they enter.
+Only so many are allowed to go into a row, and then you begin to fill the next row.  Electrons in atoms behave the same way.  There are rules that determine where electrons go in compounds.
+The noble gases are unreactive because of their electron configurations.  The noble gas neon has the electron configuration of 1 s 2 2 s 2 2 p 6 .  It has a full outer shell and cannot incorporate any more electrons into the valence shell.
+The other noble gases have the same outer shell electron configuration even though they have different numbers of inner-shell electrons.
+Electron configuration of a neon atom
+Electron configuration of neon atom.
+American chemist Gilbert Lewis (1875-1946) used this observation to explain the types of ions and molecules that are formed by other elements.  He called his explanation the octet rule.  The octet rule states that atoms tend to form compounds in ways that give them eight valence electrons and thus the electron configuration of a noble gas.
+An exception to an octet of electrons is in the case of the first noble gas, helium, which only has two valence electrons.  This primarily affects the element hydrogen, which forms stable compounds by achieving two valence electrons.
+Lithium, an alkali metal with three electrons, is also an exception to the octet rule.
+Lithium tends to lose one electron to take on the electron configuration of the nearest noble gas, helium, leaving it with two valence electrons.
+There are two ways in which atoms can satisfy the octet rule.  One way is by sharing their valence electrons with other atoms.  The second way is by transferring valence electrons from one atom to another.
+Atoms of metals tend to lose all of their valence electrons, which leaves them with an octet from the next lowest principal energy level.  Atoms of nonmetals tend to gain electrons in order to fill their outermost principal energy level with an octet.
+Atoms form compounds in ways that give them eight valence electrons.

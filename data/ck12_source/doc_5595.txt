@@ -1,0 +1,20 @@
+\text{KE} = \frac{1}{2} \ \text{mv}^2
+where \text{KE} = \text{kinetic energy}
+\text{m} = \text{mass}
+\text{v} = \text{velocity}
+Energy is defined as the capacity to do work or to produce heat.
+As discussed previously, kinetic energy is one type of energy and is associated with motion.
+Another frequently encountered energy is potential energy , a type of energy that is stored in matter and released during a chemical reaction.
+The joule (J) is the SI unit of energy and is named after English physicist James Prescott Joule (1818-1889).
+If we go back to the equation for kinetic energy written above, we can put units in (kg for mass and m 2 /s 2 for velocity squared).
+Then, in terms of SI base units a joule is equal to a kilogram times meter squared divided by a second squared (kg • m 2 /s 2 ).
+Another common unit of energy that is often used is the calorie (cal), which is equivalent to 4.184 J.
+Picture of James Prescott Joule
+James Prescott Joule.
+Energy is the capacity to do work or to produce heat.
+Kinetic energy is the energy due to motion.
+Potential energy is energy stored in matter.
+The joule (J) is the SI unit of energy and equals kg • m 2 /s 2 .
+Use the link below to answer the following questions:
+What is kinetic energy dependent upon?
+Do molecules at a higher temperature move faster or slower than molecules at a lower temperature?

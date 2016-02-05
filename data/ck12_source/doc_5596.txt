@@ -1,0 +1,20 @@
+What happens when a chemical reaction releases energy?
+What happens when a chemical reaction absorbs energy?
+What is kinetic energy?
+What is the mathematical equation for kinetic energy?
+What is potential energy?
+What is the SI unit for energy?
+calorie: common unit of energy, which is equal to 4.184 J.
+energy:
+As the capacity to do work or to produce heat.
+joule:
+The SI unit of energy and is named after English physicist James Prescott Joule (1818-1889).
+kinetic energy:
+The energy due to motion.
+potential energy:
+A type of energy that is stored in matter and released during a chemical reaction.
+Temperature and Temperature Scales
+Describe the Fahrenheit temperature scale.
+Describe the Celsius temperature scale.
+Describe the Kelvin temperature scale.
+Touch the top of the stove after it has been on and it feels hot.

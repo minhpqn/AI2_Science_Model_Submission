@@ -1,0 +1,20 @@
+Use the periodic table to determine the number of valence electrons for each atom and the total number of valence electrons.  Arrange the atoms and distribute the electrons so that each atom follows the octet rule.  The oxygen atom will have 8 electrons, while the hydrogen atoms will each have 2.
+Step 2:
+Solve
+Electron dot diagrams for each atom are:
+Lewis electron dot diagrams for hydrogen and oxygen
+Each hydrogen atom with its single electron will form a covalent bond with the oxygen atom where it has a single electron.  The resulting Lewis electron dot structure is:
+Lewis electron dot structure of water
+Step 3:  Think about your result.
+The oxygen atom follows the octet rule with two pairs of bonding electrons and two lone pairs.  Each hydrogen atom follows the octet rule with one bonding pair of electrons.
+Covalent bonds form when electrons in two atoms form overlapping orbitals.
+Lone pair electrons in an atom are not shared with another atom.
+Read the article and practice drawing Lewis structures for some of the single covalent bond compounds listed at the end.
+How does a covalent bond form?
+What do the spins of the shared electrons need to be?
+Do lone pair electrons form covalent bonds?
+lone pair:
+A pair of electrons in a Lewis electron-dot structure that is not shared between atoms.
+Multiple Covalent Bonds
+Define double bond.
+Define triple bond.

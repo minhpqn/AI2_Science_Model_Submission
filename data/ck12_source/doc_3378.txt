@@ -1,0 +1,20 @@
+If you decrease the voltage of the direct current, how does the voltage of the pickup current change?
+How does the number of loops in the pickup coil affect the voltage in that circuit?
+What is an electric transformer?
+How does an electric transformer use electromagnetic induction?
+Compare and contrast step-up and step-down transformers.
+Describe an electrical grid.
+Identify the roles of power plants, transmission lines, and electric substations in an electrical grid.
+These electric power towers carry high-voltage electric lines.
+The lines transmit electricity from power plants to homes like yours.
+The towers are a crucial part of the electrical grid.
+What Is an Electrical Grid?
+An electrical grid is the entire electrical system that generates, transmits, and distributes electric power throughout a region or country.
+A very simple electrical grid is sketched in the Figure below .
+The grid includes a power plant, transmission lines, and electric substations, all of which work together to provide alternating current to customers.
+For an overview of electric power generation, transmission, and distribution in the U.S., go to this URL:
+Click on the image above for more content
+Schematic of a typical power grid
+Electricity originates in power plants.
+They have electric generators that produce electricity by electromagnetic induction.
+In this process, a changing magnetic field is used to generate electric current.

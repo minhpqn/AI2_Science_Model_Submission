@@ -1,0 +1,20 @@
+What’s that blue stuff?
+The reaction of copper wire with nitric acid produces a colorful mix of products that include copper(II) nitrate, nitrogen dioxide, and water.
+Copper salts are blue in solution, reflecting the rather unique arrangements of electrons in the  d orbital as the copper ionizes from metallic copper.
+Identifying Reaction Types
+A redox reaction must involve a change in oxidation number for two of the elements involved in the reaction.
+The oxidized element increases in oxidation number, while the reduced element decreases in oxidation number.
+Single-replacement reactions are redox reactions because two different elements appear as free element (oxidation number of zero) on one side of the equation and as part of a compound on the other side.
+Therefore, its oxidation number must change.
+\text{Zn}+2\text{HCl} \rightarrow \text{ZnCl}_2 + \text{H}_2
+Zn is oxidized from Zn 0 to Zn 2+ and the H is reduced from H + to H 0
+Combustion reactions are redox reactions because elemental oxygen (O 2 ) acts as the oxidizing agent and is itself reduced.
+\text{CH}_4 + 2\text{O}_2 \rightarrow \text{CO}_2 + 2\text{H}_2\text{O}
+Most combination and decomposition reactions are redox reactions since elements are usually transformed into compounds and vice-versa.
+The thermite reaction involves ferric oxide and metallic aluminum:
+\text{Fe}_2\text{O}_3+2\text{Al} \rightarrow \text{Al}_2\text{O}_3+2\text{Fe}
+The thermite reaction involves the oxidation of aluminum and the reduction of iron
+Thermite grenade demonstration.
+We see that the iron is reduced and the aluminum oxidized during the course of the reaction.
+Watch a video of the thermite reaction:
+Click on the image above for more content

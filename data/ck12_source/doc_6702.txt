@@ -1,0 +1,20 @@
+How much time passes until the ball travels 35\;\mathrm{m} horizontally?
+What is the height of the ball after 0.5 seconds? (Assume that, when thrown, the ball is 2 \;\mathrm{m} above the ground.)
+Pablo Sandoval throws a baseball with a horizontal component of velocity of 25 \;\mathrm{m/s} .
+After 2 seconds, the ball is 40 \;\mathrm{m} above the release point.
+Calculate the horizontal distance it has traveled by this time, its initial vertical component of velocity, and its initial angle of projection.
+Also, is the ball on the way up or the way down at this moment in time?
+Barry Bonds hits a 125\;\mathrm{m}(450') home run that lands in the stands at an altitude 30 \;\mathrm{m} above its starting altitude.
+Assuming that the ball left the bat at an angle of 45^\circ from the horizontal, calculate how long the ball was in the air.
+A golfer can drive a ball with an initial speed of 40.0 \;\mathrm{m/s} .
+If the tee and the green are separated by 100\;\mathrm{m} , but are on the same level, at what angle should the ball be driven? ( Hint: you should use 2\cos{(x)}\sin{(x)} = \sin{(2x)}  at some point.)
+How long will it take a bullet fired from a cliff at an initial velocity of 700 \;\mathrm{m/s} , at an angle 30^\circ below the horizontal, to reach the ground 200 \;\mathrm{m} below?
+A diver in Hawaii is jumping off a cliff 45 \;\mathrm{m} high, but she notices that there is an outcropping of rocks 7 \;\mathrm{m} out at the base.
+So, she must clear a horizontal distance of 7 \;\mathrm{m} during the dive in order to survive.
+Assuming the diver jumps horizontally, what is his/her minimum push-off speed?
+If Monte Ellis can jump 1.0 \;\mathrm{m} high on Earth, how high can he jump on the moon assuming same initial velocity that he had on Earth (where gravity is 1/6 that of Earth’s gravity)?
+James Bond is trying to jump from a helicopter into a speeding Corvette to capture the bad guy.
+The car is going 30.0 \;\mathrm{m/s} and the helicopter is flying completely horizontally at 100 \;\mathrm{m/s} .
+The helicopter is 120\;\mathrm{m} above the car and 440 \;\mathrm{m} behind the car.
+How long must James Bond wait to jump in order to safely make it into the car?
+A field goal kicker lines up to kick a 44 yard (40 \;\mathrm{m}) field goal.

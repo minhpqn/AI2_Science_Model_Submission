@@ -1,0 +1,20 @@
+The process of synthesizing a polypeptide/protein from the information in a mRNA sequence; occurs on ribosomes.
+wobble base pair :
+A non-Watson-Crick base pairing between two nucleotides in RNA molecules.
+Wobble Hypothesis :
+States that rules of base pairing are relaxed at the third position of a codon, so that a base can pair with more than one complementary base.
+The genetic code consists of the sequence of bases in DNA or RNA.
+Groups of three bases form codons, and each codon stands for one amino acid (or start or stop).
+Start and stop codons signal the beginning and end of translation; the codons are read in sequence following the start codon until a stop codon is reached.
+The reading frame is the frame of three bases in which the mRNA is read.
+The genetic code is universal, unambiguous, and redundant.
+Transcribe and Translate a Gene at
+What is the genetic code?
+What are codons?
+Describe the role of the Genetic Code in translation.
+What is a reading frame?
+Use the genetic code to translate the following segment of RNA into a sequence of five amino acids:
+GUC-GCG-CAU-AGC-AAG.
+The genetic code is universal, unambiguous, and redundant.
+Explain what this means and why it is important.
+Translation - Advanced

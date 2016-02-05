@@ -1,0 +1,20 @@
+[Ne]3 s 2 3 p 2
+[Ne]3 s 2 3 p 3
+[Ne]3 s 2 3 p 4
+[Ne]3 s 2 3 p 5
+[Ne]3 s 2 3 p 6
+Again, the number of valence electrons increases from one to eight across the third period.
+The fourth and subsequent periods follow the same pattern except for using a different noble gas.
+Potassium has nineteen electrons, one more than the noble gas argon, so its configuration could be written as [Ar]4 s 1 .
+In a similar fashion, strontium has two more electrons than the noble gas krypton, which would allow us to write its electrons distribution as [Kr]5 s 2 .
+All the elements can be represented in this fashion.
+The noble gas configuration system allows some shortening of the total electron configuration by using the symbol for the noble gas of the previous period as part of the pattern of electrons.
+Use the link below to practice writing noble gas configurations:
+What is the element represented by [Ne]3 s 2 3 p 2 ?
+What element has this electron configuration [Ar]3 d 7 4 s 2 ?
+What noble gas would be part of the electron configuration notation for Mn?
+How would you write the electron configuration for Ba?
+noble gas configuration:
+Consists of the elemental symbol of the last noble gas prior to that atom, followed by the configuration of the remaining electrons.
+Jon Sullivan / pdphoto.org.
+CK-12 Foundation - Zachary Wilson. .

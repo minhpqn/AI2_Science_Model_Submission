@@ -1,0 +1,20 @@
+incomplete octet:
+The number of electrons surrounding the central atom in a stable molecule is fewer than eight.
+odd-electron molecules:
+Molecules whose total number of valence electrons is an odd number.
+Define bond energy.
+Describe the relationship between reactivity and bond energy.
+Smog over Los Angeles
+How does smog form?
+We know that nitrogen makes up about 79% of the gases in the air and that this gas is chemically very inert.  However, we also know that a major contributor to the production of  smog is a mixture of nitrogen compounds collectively referred to as NO x .  Due to the high combustion temperatures in modern car engines (brought about by the need for better fuel efficiency), we make more NO x that will react with other materials to create smog.  So, our inert nitrogen gas can be converted to other compounds if enough energy is available to break the triple bonds in the N 2 molecule.
+The formation of a chemical bond results in a decrease in potential energy.  Consequently, breaking a chemical bond requires an input of energy.  Bond energy is the energy required to break a covalent bond between two atoms.  A high bond energy means that a bond is strong and the molecule that contains that bond is likely to be stable and less reactive.  More reactive compounds will contain bonds that have generally lower bond energies.  Some bond energies are listed in the Table below.
+Bond Energy (kJ/mol)
+The halogen elements all exist naturally as diatomic molecules (F 2 , Cl 2 , Br 2 , and I 2 ).  They are generally very reactive and thus have relatively low bond energies.
+As can be seen by a comparison of the bond energies for the various carbon-carbon bonds, double bonds are substantially stronger than single bonds.
+Likewise, triple bonds are even stronger.
+The triple bond that exists between the nitrogen atoms in nitrogen gas (N 2 ) makes it very unreactive.  All plants and animals require the element nitrogen, but it cannot be obtained from the direct absorption of nitrogen gas from the atmosphere because of its strong, unreactive triple bond.  Instead, bacteria convert the nitrogen to a more usable form such as ammonium and nitrate ions, which is then absorbed by plants from the soil.  Animals only obtain nitrogen by eating those plants.
+Bond energy is an indication of the amount of energy needed for a chemical reaction.
+The higher the bond energy, the less reactive the bond is.
+Use the link below to answer the following questions:
+What is needed for bonds to break or form?
+The shorter the bond length, the ______ the bond energy.

@@ -1,0 +1,20 @@
+A self-adjusting mechanism of a stimulus and a response; controlled by a product or effect of the system; also known as a feedback loop.
+kinase :
+A type of enzyme catalyzes phosphorylation; transfers phosphate groups from high-energy donor molecules, such as ATP, to specific substrates.
+The cell cycle is controlled through feedback mechanisms involving cyclin and CDK proteins.
+Three important checkpoints are the G 1 , G 2 , and M phase checkpoints.
+Use this resource to answer the questions that follow.
+Checkpoints and Cell Cycle Control at
+Define a "checkpoint."
+Describe the roles of the G1, G2 and spindle checkpoints.
+What is meant by "hoops" and "scissors?"
+What are cyclin-dependent kinases?
+What is their role?
+What is a cell cycle checkpoint?
+What are the important cell cycle checkpoints?
+Describe the role of the cell cycle checkpoints.
+Gene Regulation and Cancer - Advanced
+Discuss gene regulation in terms of the development of cancer.
+What controls a growing tumor?
+There are two main types of genes involved in cancer formation.
+Mutations in these genes lead to the development of cancer.

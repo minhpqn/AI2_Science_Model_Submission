@@ -1,0 +1,20 @@
+Therefore, when the temperature of the thermometer increases, the liquid volume expands faster than the glass volume, allowing the liquid to rise in the tube.
+The positions of the liquid in the tube can then be calibrated for accurate temperature readings.
+Other properties that change with temperature can also be used to make thermometers; liquid crystal colors and electrical conductivity change with temperature, and are also relatively common thermometers.
+The most commonly used temperature scale in the United States is the Farenheit scale.
+However, this scale is rarely used throughout the world; the metric temperature scale is Celsius.
+This scale, based on the properties of water, was devised by the Swedish physicist, Anders Celsius (1704 – 1744).
+The freezing point of water is 0°C and the boiling point of water was assigned to be 100°C.
+The kinetic energies between these two points was divided evenly into 100 “degrees Celsius”.
+The Kelvin or “Absolute” temperature scale is the scale often used by chemists and physicists.
+It is based on the temperature at which all molecular motion ceases; this temperature is called absolute zero and is 0 K.
+This temperature corresponds to -273.15°C.
+Since absolute zero is the coldest possible temperature, there are no negative values on the Kelvin temperature scale.
+Conveniently, the Kelvin and Celsius scales have the same definition of a degree, which makes it very easy to convert from one scale to the other.
+The relationship between Celsius and Kelvin temperature scales is given by:
+K = °C + 273.15
+On the Kelvin scale, water freezes at 273 K and boils at 373 K.
+Example Problem:  Convert 25°C to Kelvin.
+Solution:
+K = °C + 273 = 25°C + 273 = 298 K
+Blender, the Next Stove?

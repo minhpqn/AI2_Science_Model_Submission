@@ -1,0 +1,20 @@
+Summarize the necessity of the genetic code.
+Explain the role of stop codons.
+Describe characteristics of the genetic code.
+How do you go from four letters to 20 amino acids?
+You need a code.
+And the code that changes the information embedded in DNA and RNA into ordered amino acids and proteins is the genetic code.
+And every living organism uses the same genetic code.
+The Genetic Code
+How is the information in a gene encoded?
+The answer is the genetic code.
+The genetic code consists of the sequence of nitrogen bases—A, C, G, U—in an mRNA chain.
+The four bases make up the “letters” of the genetic code.
+The letters are combined in groups of three to form code “words,” called codons .
+Each codon stands for (encodes) one amino acid, unless it codes for a start or stop signal.
+There are 20 common amino acids in proteins.
+There are 64 possible codons, more than enough to code for the 20 amino acids.
+The genetic code is shown in Figure below .
+To see how scientists cracked the genetic code, go to this link:
+mRNA to amino acid translation table
+The Genetic Code.

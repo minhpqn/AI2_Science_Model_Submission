@@ -1,0 +1,20 @@
+Conversely, if it lost the same amount of energy, it would jump back to its original energy level.
+However, an electron could never exist in between two energy levels.
+These ideas are illustrated in the Figure below .
+Bohr's model of the atom
+This is a two-dimensional model of a three-dimensional atom.
+The concentric circles actually represent concentric spheres.
+Q:
+How is an atom like a ladder?
+A:
+Energy levels in an atom are like the rungs of a ladder.
+Just as you can stand only on the rungs and not in between them, electrons can orbit the nucleus only at fixed distances from the nucleus and not in between them.
+Energy by the Spoonful
+Bohr’s model of the atom is actually a combination of two different ideas:
+Rutherford’s atomic model of electrons orbiting the nucleus and German scientist Max Planck’s idea of a quantum, which Planck published in 1901.
+A quantum (plural, quanta) is the minimum amount of energy that can be absorbed or released by matter.
+It is a discrete, or distinct, amount of energy.
+If energy were water and you wanted to add it to matter in the form of a drinking glass, you couldn’t simply pour the water continuously into the glass.
+Instead, you could add it only in small fixed quantities, for example, by the teaspoonful.
+Bohr reasoned that if electrons can absorb or lose only fixed quantities of energy, then they must vary in their energy by these fixed amounts.
+Thus, they can occupy only fixed energy levels around the nucleus that correspond to quantum increases in energy.

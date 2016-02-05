@@ -1,0 +1,20 @@
+Two such force/velocity combinations are illustrated above.
+According to our study of rotational motion, this implies that as long as the particle does not leave the region of the magnetic field, it will travel in a circle.
+To find the radius of the circle, we set the magnitude of the centripetal force equal to the magnitude of the magnetic force and solve for  r  :
+F_c = \frac{mv^2}{r} = F_B = qvB\sin \theta = qvB\intertext{Therefore,}r = \frac{mv^2}{qvB}
+In the examples above,  \theta  was conveniently 90 degrees, which made  \sin \theta = 1 .
+But that does not really matter; in a constant magnetic fields a different  \theta  will simply decrease the force by a constant factor and will not change the qualitative behavior of the particle.
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+For each of the arrangements of velocity v and magnetic field B below, determine the direction of the force.
+Assume the moving particle has a positive charge.
+As an electron that is traveling in the positive x- direction encounters a magnetic field, it begins to turn in the upward direction (positive y- direction).
+What is the direction of the magnetic field?
+-" x "-direction
++" y "-direction (towards the top of the page)
+-" z "-direction (i.e. into the page)
++" z "-direction (i.e. out of the page)
+none of the above
+A positively charged hydrogen ion turns upward as it enters a magnetic field that points into the page.
+What direction was the ion going before it entered the field?

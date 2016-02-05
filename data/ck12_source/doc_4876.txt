@@ -1,0 +1,20 @@
+So most virologists consider viruses non-living.
+But, they do evolve, which is a characteristic of living organisms.
+Viruses do have significant use in research and medicine, including gene therapy .
+Understanding the structure of viruses and understanding their interaction with host organisms (including how they infect and exploit host cells to reproduce) and understanding their physiology and immunity is beneficial to human health.
+Structural overview of a virus, the T2 phage.
+A 2-dimensional representation is on the left, and a 3-dimensional representation is on the right.
+The virus is essentially nucleic acid surrounded by a protein coat.
+An overview of viruses can be seen at
+Click on the image above for more content
+Viruses were first described by Dmitri Ivanovsky in 1892.
+He described a "non-bacterial pathogen" infecting tobacco plants.
+This was soon followed by the identification of the tobacco mosaic virus by Martinus Beijerinck in 1898.
+Since then, about 5,000 viruses have been described in detail, although it is believed that there are millions of different types.
+Viruses are found in almost every ecosystem on Earth, and are the most abundant type of biological entity.
+Viruses can be classified with a taxonomic structure from order to species.
+No kingdom classification exists.
+Viruses, not being made of cells, do not fall into any of the six prokaryotic or eukaryotic kingdoms.
+capsid :
+The protective protein coat that surrounds the DNA or RNA of a virus particle.
+gene therapy :

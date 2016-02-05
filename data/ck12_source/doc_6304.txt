@@ -1,0 +1,20 @@
+The specific rate constant (k) is the proportionality constant relating the rate of the reaction to the concentrations of reactants.
+The rate law and the specific rate constant for any chemical reaction must be determined experimentally.
+The value of the rate constant is temperature dependent.
+A large value of the rate constant means that the reaction is relatively fast, while a small value of the rate constant means that the reaction is relatively slow.
+The rate law and specific rate constant are defined.
+Read the material at the link below and answer the following questions:
+Why is the sign for reactant concentration negative?
+Why is the sign for product concentration positive?
+What do the lower-case letters in the rate equation represent?
+What is a rate law?
+What is a specific rate constant?
+How are these parameters determined?
+rate law:
+An expression showing the relationship of the reaction rate to the concentrations of each reactant.
+specific rate constant (k) :
+The proportionality constant relating the rate of the reaction to the concentrations of reactants.
+Order of Reaction
+Describe the kinetic characteristics of a first-order reaction.
+The damage caused by a forest fire is proportional to the amount of material to burn
+How harmful are forest fires?

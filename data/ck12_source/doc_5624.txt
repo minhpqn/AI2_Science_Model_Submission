@@ -1,0 +1,20 @@
+Sample Problem:  Significant Figures in Calculations
+Perform the following calculations, rounding the answers to the appropriate number of significant figures.
+0.048 \ \text{m} \times 32.97 \ \text{m}
+14,570 \ \text{kg} \div 5.81 \ \text{L}
+Step 1:  Plan the problem.
+Analyze each of the measured values to determine how many significant figures should be in the result.  Perform the calculation and round appropriately.  Apply the correct units to the answer.
+When multiplying or dividing, the units are also multiplied or divided.
+Step 2:  Calculate
+0.048 \ \text{m} \times 32.97 \ \text{m} = 1.6 \ \text{m}^2 Round to two significant figures because 0.048 has two.
+14,570 \ \text{kg} \div 5.81 \ \text{L} = 2510 \ \text{kg}/ \text{L} Round to three significant figures because 5.81 has three.
+For multiplication and division problems, the answer should be rounded to the same number of significant figures as the measurement with the least number of significant figures.
+Read the information and work on the problems on the following web site:
+What is the basic principle involved in working with multiplication and division?
+What happens to units in multiplication and division problems?
+Uncertainty in Addition and Subtraction
+State the rule for rounding values obtained by addition or subtraction.
+Apply the rule to appropriate problems.
+How old do you think this calculator is?
+Calculators are great devices.
+Their invention has allowed for quick computation at work, school, or other places where manipulation of numbers needs to be done rapidly and accurately.

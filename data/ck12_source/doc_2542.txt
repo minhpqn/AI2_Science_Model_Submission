@@ -1,0 +1,20 @@
+The way Rutherford discovered the atomic nucleus is a good example of the role of creativity in science.
+His quest actually began in 1899 when he discovered that some elements give off positively charged particles that can penetrate just about anything.
+He called these particles alpha (α) particles (we now know they were helium nuclei).
+Like all good scientists, Rutherford was curious.
+He wondered how he could use alpha particles to learn about the structure of the atom.
+He decided to aim a beam of alpha particles at a sheet of very thin gold foil.
+He chose gold because it can be pounded into sheets that are only 0.00004 cm thick.
+Surrounding the sheet of gold foil, he placed a screen that glowed when alpha particles struck it.
+It would be used to detect the alpha particles after they passed through the foil.
+A small slit in the screen allowed the beam of alpha particles to reach the foil from the particle emitter.
+You can see the setup for Rutherford’s experiment in the Figure below .
+Q:
+What would you expect to happen when the alpha particles strike the gold foil?
+A:
+The alpha particles would penetrate the gold foil.
+Alpha particles are positive, so they might be repelled by any areas of positive charge inside the gold atoms.
+Rutherford's experiment of shooting alpha particles at gold foil
+Assuming a plum pudding model of the atom, Rutherford predicted that the areas of positive charge in the gold atoms would deflect, or bend, the path of all the alpha particles as they passed through.
+You can see what really happened in the Figure above .
+Most of the alpha particles passed straight through the gold foil as though it wasn’t there.

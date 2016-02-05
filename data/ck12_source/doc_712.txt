@@ -1,0 +1,20 @@
+Since both waves are lifting the medium, the combined wave crest will be twice as high as the original crests.
+Nearby, a wave trough will overlap another wave trough and the new trough will be twice as deep as the original.
+This is called  constructive interference  because the resultant wave is larger than the original waves.
+Within the interference pattern, the amplitude will be twice the original amplitude.
+Once the waves pass through each other and are alone again, their amplitudes return to their original values.
+In other parts of the wave pattern, crests from one wave will overlap troughs from another wave.
+When the two waves have the same amplitude, this interaction causes them to cancel each other out.
+Instead of a crest or a trough, there is nothing.
+When this cancellation occurs, it is called  destructive interference.
+Interference pattern of raindrops in a pond .
+It is easy to see how waves emanating from multiple sources, such as drops of rainwater in still water, create interference patterns.
+But a single source of waves can create interference patterns with itself as a result of diffraction.
+The Double Slit Experiment
+A similar situation to the raindrops above occurs when straight waves strike a barrier containing two slits.
+These waves are cut off everywhere except for where the waves that pass through the two slits.
+The medium in the slits again acts as a point source to produce circular waves on the far side of the barrier.
+Double slit interference experiment
+As long as these two circular waves have the same wavelength, they interfere constructively and destructively in a specific pattern.
+This pattern is called the  wave interference pattern  and is characterized by light and dark bands.
+The light bands are a result of constructive interference, and the dark bands occur because of destructive interference.

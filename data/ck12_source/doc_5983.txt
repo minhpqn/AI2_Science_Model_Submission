@@ -1,0 +1,20 @@
+Notice that in order to write and balance the equation correctly, it is important to remember the seven elements that exist in nature as diatomic molecules (H 2 , N 2 , O 2 , F 2 , Cl 2 , Br 2 , and I 2 ).
+One sort of combination reaction that occurs frequently is the reaction of an element with oxygen to form an oxide.
+Metals and nonmetals both react readily with oxygen under most conditions.
+Magnesium reacts rapidly and dramatically when ignited, combining with oxygen from the air to produce a fine powder of magnesium oxide.
+2\text{Mg}(s)+\text{O}_2(g) \rightarrow 2\text{MgO}(s)
+This reaction can be seen in the following video:
+Click on the image above for more content
+Sulfur reacts with oxygen to form sulfur dioxide.
+\text{S}(s)+\text{O}_2(g) \rightarrow \text{SO}_2 (g)
+When nonmetals react with one another, the product is a molecular compound.
+Often, the nonmetal reactants can combine in different ratios and produce different products.
+Sulfur can also combine with oxygen to produce sulfur trioxide.
+2\text{S}(s)+3\text{O}_2 (g) \rightarrow 2\text{SO}_3 (g)
+Transition metals are capable of adopting multiple positive charges within their ionic compounds.
+Therefore, most transition metals are capable of forming different products in a combination reaction.
+Iron reacts with oxygen to form both iron(II) oxide and iron(III) oxide.
+& 2\text{Fe}(s)+\text{O}_2 (g) \rightarrow 2\text{FeO}(s)\\& 4 \text{Fe}(s)+3\text{O}_2 (g) \rightarrow 2\text{Fe}_2\text{O}_3(s)
+Sample Problem:
+Combination Reactions
+Potassium is a very reactive alkali metal that must be stored under oil in order to prevent it from reacting with air.

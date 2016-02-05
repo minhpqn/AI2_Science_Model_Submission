@@ -1,0 +1,20 @@
+Calculate the minimum length flat mirror that Marjan would need to see her body from eye level all the way down to her feet.
+Sketch at least 3 ray traces from her eyes showing the topmost, bottommost, and middle rays.
+Consider a concave mirror with a focal length equal to two units, as shown below.
+Carefully trace three rays coming off the top of the object in order to form the image.
+Measure d_o and d_i .
+Use the mirror/lens equation to calculate d_i .
+Find the percent difference between your measured d_i and your calculated d_i .
+Measure the magnification M and compare it to the calculated magnification.
+Consider a concave mirror with unknown focal length that produces a virtual image six units behind the mirror.
+Calculate the focal length of the mirror and draw an \times at the position of the focus.
+Carefully trace three rays coming off the top of the object and show how they converge to form the image.
+Does your image appear bigger or smaller than the object?
+Calculate the expected magnification and compare it to your sketch.
+Consider a convex mirror with a focal length equal to two units.
+Carefully trace three rays coming off the top of the object and form the image.
+Measure d_o and d_i .
+Use the mirror/lens equation to calculate d_i .
+Find the percent difference between your measured d_i and your calculated d_i .
+Measure the magnification M and compare it to the calculated magnification.
+Above is a diagram showing how to make a “ghost light bulb.” The real light bulb is below the box and it forms an image of the exact same size right above it.

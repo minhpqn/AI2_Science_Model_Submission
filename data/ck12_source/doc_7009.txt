@@ -1,0 +1,20 @@
+Thermodynamics and Heat Engines
+The Big Ideas
+Heat is a form of energy transfer.
+It can change the kinetic energy of a substance.
+For example, the average molecular kinetic energy of gas molecules is related to temperature.
+A heat engine turns a portion of the input heat (thermal energy) into mechanical work.
+A second portion of the input heat must be exhausted in order for the engine to have repetitive motion.
+Therefore, in a practical engine it is impossible for all the input heat to be converted to work.
+Entropy is a measure of disorder, or the variety of ways in which a system can organize itself with the same total energy.
+The entropy of any isolated system always tends to disorder (i.e. entropy is always increasing).
+In the universe, the entropy of a subset (like evolution on Earth) can decrease (i.e. more order) but the total entropy of the universe is increasing (i.e. more disorder).
+Thermodynamics is the study of heat engines.
+Any engine or power plant obeys the laws of thermodynamics.
+The first law of thermodynamics is a statement of conservation of energy.
+Total energy, including heat, is conserved in any process and in the complete cycle of a heat engine.
+The second law of thermodynamics as it applies to heat engines gives an absolute limit on the efficiency of any heat engine that goes through repetitious cycles.
+Explain the concept of temperature, where it comes from and how it relates to our everyday world.
+Students will learn the concept of temperature, where it comes from and how it relates to our everyday world.
+KE_{avg} = \frac{1}{2} m v ^2_{avg} = \frac{3}{2}kT
+The average kinetic energy of atoms (each of mass m and average speed v ) in a gas is related to the temperature T of the gas, measured in Kelvin.

@@ -1,0 +1,20 @@
+The home’s electrical system must have step-down transformers that lower the voltage for some of the home’s circuits.
+The electrical grid is the entire electrical system that generates, transmits, and distributes electric power throughout a region or country.
+It includes power plants, transmission lines, and electric substations.
+Power plants are where electric power originates.
+They have electric generators that generate electric current through electromagnetic induction.
+Transmission lines carry electric current from power plants to substations and from substations to homes and other places where electric power is needed.
+Electric substations have step-up or step-down transformers to increase or decrease the voltage of current as needed.
+At the following URL, read Chapter 7 of the Energy Story.
+Be sure to read the “Energy Safety Note!” at the bottom of the Web page.
+Then answer the questions below.
+What is the voltage of current produced at power plants?
+Why is the voltage increased before it is transmitted through the electrical grid?
+Some of the electricity that is transmitted is lost.
+Explain why.
+What happens to electricity when it reaches substations near businesses and homes?
+Some new distribution lines are underground rather than overhead.
+What is a pro of underground lines?
+List two tips for staying safe around the electrical grid.
+Identify the components of an electrical grid.
+What is the source of power in an electrical grid?

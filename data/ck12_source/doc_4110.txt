@@ -1,0 +1,20 @@
+To most animals albinism would be a disadvantage since they need to blend into their environment to avoid predators or catch prey.
+How, then, does the gene that causes albinism stay in the gene pool?
+Evolution Acts on the Phenotype
+Natural selection acts on the phenotype (the traits or characteristics) of an individual.
+On the other hand, natural selection does not act on the underlying genotype (the genetic makeup) of an individual.
+For many traits, the homozygous genotype, AA , for example, has the same phenotype as the heterozygous Aa genotype.
+If both an AA and Aa individual have the same phenotype, the environment cannot distinguish between them.
+So natural selection cannot select for a homozygous individual over a heterozygous individual.
+Even if the "aa" phenotype is lethal, the recessive a allele, will be maintained in the population through heterozygous Aa individuals.
+Furthermore, the mating of two heterozygous individuals can produce homozygous recessive ( aa ) individuals.
+However, natural selection can and does differentiate between dominant and recessive phenotypes.
+Since natural selection acts on the phenotype, if an allele causes death in a homozygous individual, aa , for example, it will not cause death in a heterozygous Aa individual.
+These heterozygous Aa individuals will then act as carriers of the a allele, meaning that the a allele could be passed down to offspring.
+People who are carriers do not express the recessive phenotype, as they have a dominant allele.
+This allele is said to be kept in the population's gene pool.
+The gene pool is the complete set of genes and alleles within a population.
+For example, Tay-Sachs disease is a recessive human genetic disorder.
+That means only individuals with the homozygous recessive genotype, rr will be affected.
+Affected individuals usually die from complications of the disease in early childhood, at an age too young to reproduce.
+The two parents are each heterozygous ( Rr ) for the Tay-Sachs gene; they will not die in childhood and will be carriers of the disease gene.

@@ -1,0 +1,20 @@
+Griffith concluded that the R strain had changed, or transformed, into the lethal S strain.
+Something, such as the "instructions” from the remains of the S strain, had to move into the R strain in order to turn the harmless R strain into the lethal S strain.
+This material that was transferred between strains had to be the heredity material.
+But the transforming material had yet to be identified.
+Transformation is now known as the change in genotype and phenotype due to the assimilation of external DNA (heredity material) by a cell.
+Griffith’s Experimental Results.
+Griffith showed that a substance could be transferred to harmless bacteria and make them deadly.
+The rough (R) strain has no effect on the mouse, whereas the smooth (S) strain is harmful to the mouse.
+Heat-killed S strain also has no effect on the mouse, but the mixture of heat-killed S strain and the R strain is harmful to the mouse.
+Oswald Avery and Colleagues
+Over the next decade, scientists, led by Oswald Avery, tried to identify the material involved in transformation.
+Avery, together with his colleagues Maclyn McCarty and Colin MacLeod, removed various organic compounds from S strain bacteria and tested the remaining compounds for the ability to cause transformation.
+If the remaining material did not cause transformation, than that material could not be the heredity material.
+Avery and his colleagues treated the S strain bacteria with the protease enzymes trypsin and chymotrypsin, or ribonuclease or deoxyribonuclease , mixed the remaining extract with R strain bacteria, and asked if transformation of the R strain bacteria still occurred.
+They found that the proteases, which remove proteins from cells, and ribonuclease, which break apart RNA, did not affect transformation, but an enzyme preparation of deoxyribonuclease, which breaks down DNA, destroyed the transforming power.
+Together, these results showed that neither proteins nor RNA carried the "instructions" (or the genes) which allowed transformation.
+These results also indicated that DNA was the heredity material.
+The year was 1944.
+However, this finding was not widely accepted, partly because so little was known about DNA.
+It was still thought that proteins were better candidates to be the heredity material.

@@ -1,0 +1,20 @@
+When 1 mol of calcium carbonate decomposes into 1 mol of calcium oxide and 1 mol of carbon dioxide, 177.8 kJ of heat is absorbed.
+The process is shown visually in Figure above (B).
+The thermochemical reaction is shown below.
+\text{CaCO}_3(s)+177.8 \ \text{kJ} \rightarrow \text{CaO}(s)+\text{CO}_2(g)
+Because the heat is absorbed by the system, the 177.8 kJ is written as a reactant.
+The heat of reaction is positive for an endothermic reaction.
+\text{CaCO}_3(s) \rightarrow \text{CaO}(s)+\text{CO}_2(g) \quad \Delta H=177.8 \ \text{kJ}
+The way in which a reaction is written influences the value of the enthalpy change for the reaction.
+Many reactions are reversible, meaning that the product(s) of the reaction are capable of combining and reforming the reactant(s).
+If a reaction is written in the reverse direction, the sign of the  \Delta H changes.
+For example, we can write an equation for the reaction of calcium oxide with carbon dioxide to form calcium carbonate.
+\text{CaO}(s)+\text{CO}_2(g) \rightarrow \text{CaCO}_3(s)+177.8 \ \text{kJ}
+The reaction is exothermic and thus the sign of the enthalpy change is negative.
+\text{CaO}(s)+\text{CO}_2(g) \rightarrow \text{CaCO}_3(s) \quad \Delta H=-177.8 \ \text{kJ}
+The components of a thermochemical equation are described.
+Read the material at the link below and work the problems on the screens
+What does a thermochemical equation include?
+Why would this information be important?
+What happens to the sign of the enthalpy change when the reaction is reversed?
+heat of reaction:

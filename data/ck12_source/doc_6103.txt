@@ -1,0 +1,20 @@
+Use Avogadro’s law to solve for the final volume.
+Step 2:
+Solve.
+First, rearrange the equation algebraically to solve for V_2 .
+V_2=\frac{V_1 \times n_2}{n_1}
+Now substitute the known quantities into the equation and solve.
+V_2=\frac{1.90 \text{ L} \times 0.1130 \text{ mol}}{0.0920 \text{ mol}}=2.33 \text{ L}
+Step 3:
+Think about your result.
+Since a relatively small amount of additional helium was added to the balloon, its volume increases slightly.
+Calculations are shown for relationships between volume and number of moles of a gas.
+Work on the problems at the site below:
+What is held constant in the Avogadro’s Law relationship?
+What happens if you add gas to a rigid container?
+Why does a balloon expand when you add air to it?
+Avogadro’s law:
+The volume of a gas is directly proportional to the number of moles of gas when the temperature and pressure are held constant.
+Ideal Gas Law
+Derive the ideal gas law from the combined gas law and Avogadro’s law.
+Calculate the value of the ideal gas constant.

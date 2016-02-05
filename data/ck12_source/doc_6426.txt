@@ -1,0 +1,20 @@
+The coordinates are often referred to as Cartesian coordinates.
+As base is added to acid at the beginning of a titration, the pH rises very slowly.
+Nearer to the equivalence point, the pH begins to rapidly increase.
+If the titration is a strong acid with a strong base, the pH at the equivalence point is equal to 7.
+A bit past the equivalence point, the rate of change of the pH again slows down.
+A titration curve is a graphical representation of the pH of a solution during a titration.
+The Figure below shows two different examples of a strong acid-strong base titration curve.
+On the left is a titration in which the base is added to the acid and so the pH progresses from low to high.
+On the right is a titration in which the acid is added to the base.
+In this case, the pH starts out high and decreases during the titration.
+In both cases, the equivalence point is reached when the moles of acid and base are equal and the pH is 7.
+This also corresponds to the color change of the indicator.
+Titration curves of strong acids and strong bases
+A titration curve shows the pH changes that occur during the titration of an acid with a base.
+On the left, base is being added to acid.
+On the right, acid is being added to base.
+In both cases, the equivalence point is at pH 7.
+Titration curves can also be generated in the case of a weak acid-strong base titration or a strong base-weak acid titration.
+The general shape of the titration curve is the same, but the pH at the equivalence point is different.
+In a weak acid-strong base titration, the pH is greater than 7 at the equivalence point.

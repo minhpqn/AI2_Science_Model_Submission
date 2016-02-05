@@ -1,0 +1,20 @@
+Calculate the time required for the car to freefall from a height of 72 m.
+h = v_{iy} t + \frac{1}{2} gt^2 but since v_{iy}=0 , the equation simplifies to h = \frac{1}{2} gt^2 rearranging for the unknown variable, t , yields
+t = \sqrt{\frac{2h}{g}} = \sqrt{\frac{2(72 \ m)}{10.0 \ m/s^2}} = 3.79 \ s
+Step 2:
+Solve for initial velocity:
+v_{ix} = \frac{d}{t} = \frac{22 \ m}{3.79 \ s} = 5.80 \ m/s
+Answer: \boxed{\mathbf{5.80 \ m/s}}
+Question :
+A ball of mass m is moving horizontally with a speed of v_i off a cliff of height h .
+How much time does it take the ball to travel from the edge of the cliff to the ground?
+Express your answer in terms of g (acceleration due to gravity) and h (height of the cliff).
+Solution :
+Since we are solving or how long it takes for the ball to reach ground, any motion in the x direction is not pertinent.
+To make this problem a little simpler, we will define down as the positive direction and the top of the cliff to be y=0 .
+In this solution we will use the equation y(t)=y_o+v_{oy}t+\frac{1}{2}gt^2 .
+y(t)&=y_o+v_{oy}t+\frac{1}{2}gt^2 && \text{start with the equation}\\\h&=y_o+v_{oy}t+\frac{1}{2}gt^2 && \text{substitute } h \text{ for } y(t) \text{ because that's the position of the ball when it hits the ground after time } t\\\h&=0+v_{oy}+\frac{1}{2}gt^2 && \text{substitute } 0 \text{ for } y_o \text{because the ball starts at the top of the cliff}\\\h&=0+0+\frac{1}{2}gt^2 && \text{substitute } 0 \text{ for } v_{oy} \text{ becauese the ball starts with no vertical component to it's velocity}\\\h&=\frac{1}{2}gt^2 && \text{simplify the equation}\\\t&=\sqrt{\frac{2h}{g}} && \text{solve for } t\\\
+Watch this Explanation
+Click on the image above for more content
+A stone is thrown horizontally at a speed of 8.0 \;\mathrm{m/s} from the edge of a cliff 80 \;\mathrm{m} in height.
+How far from the base of the cliff will the stone strike the ground?

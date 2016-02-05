@@ -1,0 +1,20 @@
+C 8 H 18
+CH 3 CH 2 CH 2 CH 2 CH 2 CH 2 CH 2 CH 3
+C 9 H 20
+CH 3 CH 2 CH 2 CH 2 CH 2 CH 2 CH 2 CH 2 CH 3
+C 10 H 22
+CH 3 CH 2 CH 2 CH 2 CH 2 CH 2 CH 2 CH 2 CH 2 CH 3
+Note that the table shows a variation of a structural formula called a condensed structural formula.
+In this formula, the covalent bonds are understood to exist between each carbon and the hydrogens associated with it, as well as between carbon atoms.
+This table also shows that the boiling points of the alkanes steadily increase as the length of the carbon chain increases.
+This is due to an increase in the strength of the intermolecular attractive forces and is a general feature of other organic molecules as well.
+Hydrocarbon definition and classifications are given.
+Alkanes are defined and listed.
+Read the material at the web site below and answer the following questions:
+What is the composition of natural gas?
+How is crude oil separated into fractions?
+What is “cracking”?
+What is a hydrocarbon?
+What is an alkane?
+Name the alkane that has five carbons in its chain.
+aliphatic hydrocarbons :

@@ -1,0 +1,20 @@
+When the traveling clock was returned and placed next to the other clock, the traveling clock had less time passed.
+In a similar manner, an observer on the rocket ship and an observer on the earth will not measure the length of the rocket ship to be the same length in the direction of its motion.
+The observer on the ship takes out his meter stick and measures the rocket ship to be 15 meters long while the ship sits at rest on the earth.
+An observer outside the ship, standing on the earth, will also measure the ship to be 15 m with his meter stick.
+When the rocket ship flies past the earth at a significant fraction of the speed of light, the observer on the ship takes out his meter stick and measures the length of the ship and again finds it to be 15 m.
+The “stationary” observer on the earth with his meter stick measures the moving rocket ship to be less than 15 m.
+Just for the sake of clarity, let’s say he measures the rocket ship to be 7.5 meters.
+Meterstick in a stationary rocket
+How is it possible that the two observers measure the same rocket ship to be two different lengths?
+When the rocket ship is at rest on the earth, the on-ship meter stick and the off-ship meter stick are exactly the same but when the rocket ship flies past the earth at significant fraction of the speed of light, the on-ship meter stick as seen by the on earth observer has shrunk.
+When the observer on ship says the ship is still 15 m long, the observer on earth says, “Nope, your meter stick has shrunk and so has your ship.
+The ship now measures 7.5 m long using my meter stick.” The on-ship meter stick shrinks by the same percentage that the ship shrinks.
+Meterstick in a moving rocket
+It is important to note that the shortening of the moving object does not produce just a smaller object of the same shape.
+The object is only shortened in the direction of motion.
+Therefore, a long, slender rocket ship would NOT become a smaller version of itself, but rather, would become a short, stubby rocket ship.
+At some point in history, the length contraction was known as the Fitzgerald contraction and physicists have been known to quote an applicable limerick.
+There once was a young man named Fisk,
+Whose fencing was exceedingly brisk,
+So fast was his action,

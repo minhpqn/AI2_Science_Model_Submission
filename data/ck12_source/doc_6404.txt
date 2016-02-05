@@ -1,0 +1,20 @@
+pH + pOH = 14
+The pOH scale is similar to the pH scale in that a pOH of 7 is indicative of a neutral solution.
+A basic solution has a pOH of less than 7, while an acidic solution has a pOH of greater than 7.
+The pOH is convenient to use when finding the hydroxide ion concentration from a solution with a known pH.
+Sample Problem:
+Using pOH
+Find the hydroxide concentration of a solution with a pH of 4.42.
+Step 1:
+List the known values and plan the problem.
+pH = 4.42
+pH + pOH = 14
+[OH-] = ?
+M
+First, the pOH is calculated, followed by the [OH − ].
+Step 2:
+Solve.
+\text{pOH} &=14-\text{pH}=14-4.42=9.58 \\\left [ \text{OH}^- \right ] &=10^{-\text{pOH}}=10^{-9.58}=2.6 \times 10^{-10} \ \text{M}
+Step 3:
+Think about your result.
+The pH is that of an acidic solution, and the resulting hydroxide-ion concentration is less than 1 × 10 -7 M.

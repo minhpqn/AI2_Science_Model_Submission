@@ -1,0 +1,20 @@
+Naming Compounds Using the Stock System
+Naming compounds that involve transition metal cations necessitates the use of the Stock system .
+Consider the binary ionic compound FeCl 3 .
+To simply name this compound iron chloride would be incomplete because iron is capable of forming two ions with different charges.
+The name of any iron-containing compound must reflect which iron ion is in the compound.
+In this case, the subscript in the formula indicates that there are three chloride ions, each with a 1− charge.
+Therefore, the charge of the single iron ion must be 3+.
+The correct name of FeCl 3 is iron(III) chloride, with the cation charge written as the Roman numeral.
+Here are several other examples.
+Cu 2 O
+The first two examples are both oxides of copper (shown in the Figure below ).
+The ratio of copper ions to oxide ions determines the name.
+Since the oxide ion is O 2- , the charges of the copper ion must be 1+ in the first formula and 2+ in the second formula.
+In the third formula, there is one tin ion for every two oxide ions.
+This means that the tin must carry a 4+ charge, making the name tin(IV) oxide.
+Copper I and II oxides have different colors
+Copper(I) oxide, a red solid, and copper(II) oxide, a black solid, are different compounds because of the charge of the copper ion.
+The Stock system allows the specification of transition metal ionic charge when naming ionic compounds.
+Roman numerals are used to indicate the amount of positive charge on the cation.
+Practice naming compounds at the following web site:

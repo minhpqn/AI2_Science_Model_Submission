@@ -1,0 +1,20 @@
+Calculate the force necessary to slide a 4.7-kg chair across a room at a constant speed if the coefficient of kinetic friction between the chair and the floor is 0.68.
+Question:
+F = ? [N]
+Given: m = 4.7\ kg
+{\;}\qquad \quad \mu_k = 0.68
+{\;} \qquad \quad g = 10.0\ m/s^2
+Equations: \sum F = ma
+{\;}\qquad \ \qquad \sum F_y = N - mg = 0, \text{so}\ N = mg
+{\;}\qquad \ \qquad \sum F_x = ma_x
+{\;}\qquad \ \qquad F_{\text{pull}} - f_k = 0 \ (\text{because the chair is moving at}\ constant \ speed,\ \text{so}\ a=0)
+{\;}\qquad \ \qquad F_{\text{pull}} = \mu_k N
+Plug n’ Chug:
+The force necessary to move the chair at a constant speed is equal to the frictional force between the chair and the floor.
+However in order to calculate the frictional force you must first determine the normal force which is (in this case) equal to the weight (i.e.
+F_g ) of the chair.
+N & = mg = (4.7 \ kg)(10 \ m/s^2) = 47 \ N \\\F_{\text{pull}} &= \mu_k \ N = (0.68)(47 \ N) = 32 \ N
+Answer: \boxed{\mathbf{32 \ N}}
+Click on the image above for more content
+Watch this Explanation
+Click on the image above for more content

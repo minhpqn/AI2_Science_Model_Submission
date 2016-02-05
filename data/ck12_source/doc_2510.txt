@@ -1,0 +1,20 @@
+All of these forces are thought to be transmitted by bosons, the force-carrying fundamental particles.
+The different types of bosons and the forces they carry are shown in Table below .
+Consider the examples of gluons, the bosons that carry the strong nuclear force.
+A continuous exchange of gluons between quarks binds them together in both protons and neutrons.
+Note that force-carrying particles for gravity (gravitons) have not yet been found.
+Bosons and Fundamental Forces
+Type of Bosons
+Fundamental Force They Carry
+Particles They Affect
+Distance over Which They Carry Force
+strong nuclear force
+only within the nucleus
+weak nuclear force
+leptons and quarks
+only within the nucleus
+leptons and quarks
+force of gravity
+leptons and quarks
+Q:
+Which type of boson carries force between the negative electrons and positive protons of an atom?

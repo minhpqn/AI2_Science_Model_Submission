@@ -1,0 +1,20 @@
+Using the genotype frequencies shown in Table below , if p = 0.4, what is the frequency of the AA genotype?
+A video explanation of the Hardy-Weinberg model can be viewed at
+Click on the image above for more content
+The Hardy-Weinberg theorem states that, if a population meets certain conditions, it will be in equilibrium.
+In an equilibrium population, allele and genotype frequencies do not change over time.
+The conditions that must be met are no mutation, no migration, very large population size, random mating, and no natural selection.
+Use this resource to answer the questions that follow.
+Hardy-Weinberg Equilibrium Model at
+This resource states that evolution will not occur in a population if seven conditions are met.
+What are these seven conditions?
+If there is no evolution, what happened to gene frequencies?
+What are p and q?
+How is p determined?
+p + q = _____
+p 2 + 2pq + q 2 = _____
+Describe a Hardy-Weinberg equilibrium population.
+What conditions must it meet to remain in equilibrium?
+Assume that a population is in Hardy-Weinberg equilibrium for a particular gene with two alleles, A and a .
+The frequency of A is p , and the frequency of a is q .
+Because these are the only two alleles for this gene, p + q = 1.0.

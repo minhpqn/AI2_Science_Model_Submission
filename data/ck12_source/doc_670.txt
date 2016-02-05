@@ -1,0 +1,20 @@
+The right side of the wave reaches the boundary before the left side of the wave, causing the left side to catch up and the angle of propagation to change slightly.
+This change in direction can be seen in the yellow line, which is slightly angled at the boundary.
+Refraction is similar to how a tank is steered
+The refraction of waves across boundaries operates similarly to the method by which tanks are steered.
+Tanks do not have a steering wheel.
+Instead, they have an accelerator to produce forward motion and separate brakes on each tread.
+The operator uses brakes on both treads at the same time in order to stop, but brakes on only one tread to turn the tank.
+By braking one side, the operator causes that side to slow down or stop while the other side continues at the previous speed, causing the tank to turn towards the slower tread.
+This sketch shows a wave ray striking an interface between old medium and new medium.  A normal line has been drawn as a dotted line perpendicular to the interface.
+The angle between the incident ray and the normal line is called the angle of incidence , shown as θ i , and the angle between the refracted ray and the normal line is called the angle of refraction , θ r .
+Illustrates the angles of incidence and refraction
+We already understand that the change in the wave direction at the border depends on the difference between the two velocities.
+This relationship is conveniently expressed in a mathematical relationship:
+\frac{\sin\theta_r}{\sin\theta_i}=\frac{v_r}{v_i}=\frac{\lambda _r}{\lambda _i}
+The ratio of the sine of the angle of refraction to the sine of the angle of incidence is the same as the ratio of the velocity of the wave in the new medium to the velocity of the wave in the old medium and equal to the ratio of wavelength (λ) in the old medium to the wavelength in the new medium.
+Example Problem:
+A water wave with a wavelength of 3.00 m is traveling in deep water at 16.0 m/s.  The wave strikes a sharp interface with shallow water with an angle of incidence of 53.0^\circ  .  The wave refracts into the shallow water with an angle of refraction of 30.0^\circ  .  What is the velocity of the wave in shallow water and what is its wavelength in the new medium?
+Solution: \frac{\sin\theta_r}{\sin\theta_i}=\frac{v_r}{v_i} so \frac{\sin30^\circ }{\sin53^\circ}=\frac{v_r}{16.0 \ m/s}  and v_r=10.0 \ m/s .
+\frac{v_r}{v_i}=\frac{\lambda _r}{\lambda _i} so \frac{10.0 \ m/s}{16.0 \ m/s}=\frac{\lambda _r}{3.00 \ m} and \lambda _r=1.88 \ m .
+Example Problem:

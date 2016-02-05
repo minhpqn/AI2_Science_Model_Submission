@@ -1,0 +1,20 @@
+Aqueous solutions of lead(II) nitrate and sodium chloride are mixed.
+The products of the reaction are an aqueous solution of sodium nitrate and a solid precipitate of lead(II) chloride.
+Step 1:
+Plan the problem.
+Follow the steps for writing and balancing a chemical equation.
+Step 2:
+Solve.
+Write the skeleton equation with the correct formulas.
+\text{Pb(NO}_3)_2(aq)+\text{NaCl}(aq) \rightarrow \text{NaNO}_3(aq)+\text{PbCl}_2(s)
+Count the number of each atom or polyatomic ion on both sides of the equation.
+1 Pb atom
+1 Pb atom
+2 NO 3 - ions
+1 NO 3 - ions
+1 Na atom
+1 Na atom
+1 Cl atom
+2 Cl atoms
+The nitrate ions and the chlorine atoms are unbalanced.
+Start by placing a 2 in front of the NaCl.

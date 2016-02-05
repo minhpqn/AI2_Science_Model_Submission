@@ -1,0 +1,20 @@
+To perform an accurate throw, one has to figure out both where to throw and how hard.
+We can represent this concept graphically with an arrow: it has an obvious direction, and its length can represent the distance the ball will travel in a given time.
+Such a vector (an arrow between the original and final location of an object) is called a displacement:
+From the above examples, it should be clear that two vectors add to make another vector.
+Sometimes, the opposite operation is useful: we often want to represent a vector as the sum of two other vectors.
+This is called breaking a vector into its components.
+When vectors point along the same line, they essentially add as scalars.
+If we break vectors into components along the same lines, we can add them by adding their components.
+The lines we pick to break our vectors into components along are often called a basis .
+Any basis will work in the way described above, but we usually break vectors into perpendicular components, since it will frequently allow us to use the Pythagorean theorem in time-saving ways.
+Specifically, we usually use the  x  and y  axes as our basis, and therefore break vectors into what we call their  x  and  y  components:
+A final reason for breaking vectors into perpendicular components is that they are in a sense independent: adding vectors along a component perpendicular to an original component one will never change the original component, just like changing the  y  -coordinate of a point can never change its  x  -coordinate.
+Break the Initial Velocity into its Components
+A tennis ball is launched 32^\circ above the horizontal at a speed of 7.0 m/s.
+What are the horizontal and vertical velocity components?
+Question: v_x and v_y = \ ? \ [m/s]
+Given: v = 7.0 \ m/s
+{\;} \qquad \quad \theta = 32^\circ
+Equation: v_x = v \cos \theta \qquad v_y = v \sin \theta
+Plug n’ Chug: v_x = v \cos \theta = (7.0 \ m/s) \cos (32^\circ)=5.9 \ m/s

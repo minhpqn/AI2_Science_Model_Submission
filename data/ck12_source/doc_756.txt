@@ -1,0 +1,20 @@
+Approximately 5000 megawatt-hours of energy passes through this particular substation each year.
+Energy Transfer in Electric Circuits
+Electric power is the energy per unit time converted by an electric circuit into another form of energy.
+We already know that power through a circuit is equal to the voltage multiplied by the current in a circuit:  P = VI .
+It is possible to determine the power dissipated in a single resistor if we combine this expression with Ohm’s Law, V = IR .
+This becomes particularly useful in circuits with more than one resistor, to determine the power dissipated in each one.
+Combining these two equations, we get an expression for electric power that involves only the current and resistance in a circuit.
+P = I^2R
+The power dissipated in a resistor is proportional to the square of the current that passes through it and to its resistance.
+Electrical energy itself can be expressed as the electrical power multiplied by time:
+E = Pt
+We can incorporate this equation to obtain an equation for electrical energy based on current, resistance, and time.
+The electrical energy across a resistor is determined to be the current squared multiplied by the resistance and the time.
+E = I^2Rt
+This equation holds true in ideal situations.
+However, devices used to convert electrical energy into other forms of energy are never 100% efficient.
+An electric motor is used to convert electrical energy into kinetic energy, but some of the electrical energy in this process is lost to thermal energy.
+When a lamp converts electrical energy into light energy, some electrical energy is lost to thermal energy.
+Example Problem:
+A heater has a resistance of 25.0 Ω and operates on 120.0 V.

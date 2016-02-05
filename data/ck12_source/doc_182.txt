@@ -1,0 +1,20 @@
+Addition and Subtraction
+The answer to an addition or subtraction operation must not have any digits further to the right than the shortest addend.
+In other words, the answer should have as many decimal places as the addend with the smallest number of decimal places.
+& \quad 13.3843 \ \text{cm}\\& \quad \ 1.012 \ \text{cm}\\& \underline{+ \;\; 3.22 \ \text{cm} \;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;}\\& \ \ 17.6163 \ \text{cm}=17.62 \ \text{cm}
+Notice that the top addend has a 3 in the last column on the right, but neither of the other two addends have a number in that column.
+In elementary math classes, you were taught that these blank spaces can be filled in with zeros and the answer would be 17.6163 cm.
+In the sciences, however, these blank spaces are unknown numbers, not zeros.
+Since they are unknown numbers, you cannot substitute any numbers into the blank spaces.
+As a result, you cannot know the sum of adding (or subtracting) any column of numbers that contain an unknown number.
+When you add the columns of numbers in the example above, you can only be certain of the sums for the columns with known numbers in each space in the column.
+In science, the process is to add the numbers in the normal mathematical process and then round off all columns that contain an unknown number (a blank space).
+Therefore, the correct answer for the example above is 17.62 cm and has only four significant figures.
+Multiplication and Division
+The answer for a multiplication or division operation must have the same number of significant figures as the factor with the least number of significant figures.
+Example: (3.556 \ \text{cm})(2.4 \ \text{cm}) = 8.5344 \ \text{cm}^2 = 8.5 \ \text{cm}^2
+The factor 3.556 cm has four significant figures, and the factor 2.4 cm has two significant figures.
+Therefore the answer must have two significant figures.
+The mathematical answer of 8.5344 cm 2 must be rounded back to 8.5 cm 2 in order for the answer to have two significant figures.
+Example: (20.0 \ \text{cm})(5.0000 \ \text{cm}) = 100.00000 \ \text{cm}^2 = 100. \ \text{cm}^2
+The factor 20.0 cm has three significant figures, and the factor 5.0000 cm has five significant figures.

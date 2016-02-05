@@ -1,0 +1,20 @@
+What is the pH of a 3.67 × 10 -5 M NaBr solution?
+If we have a weak base with a low ionization constant, can we assume that the [OH - ] in the solution is equal to the concentration of the base?
+The pOH Concept
+Perform calculations of pOH.
+This alkaline lake is thought to have healing properties
+Can water have healing properties?
+Soap Lake has a long history as a healing place.
+Indian tribes would put aside their rivalries when they came to the lake to enjoy the high mineral content of the water.
+In the days before good antibiotics, thousands of visitors would come and enjoy the soothing waters of the lake.
+Soap Lake is alkaline, with water quality thought to be similar to that of the moons of the planet Jupiter.
+The pOH Concept
+As with the hydrogen-ion concentration, the concentration of the hydroxide ion can be expressed logarithmically by the pOH.
+The pOH of a solution is the negative logarithm of the hydroxide-ion concentration.
+pOH = -log[OH - ]
+The pH of a solution can be related to the pOH.
+Consider a solution with a pH = 4.0.
+The [H + ] of the solution would be 1.0 × 10 -4  M.
+Dividing  K_w by this yields a [OH − ] of 1.0 × 10 -10 M.
+Finally the pOH of the solution equals -log(1.0 × 10 -10 ) = 10.
+This example illustrates the following relationship.

@@ -1,0 +1,20 @@
+The slits are separated by 0.011 \;\mathrm{mm} .
+A flat screen is located 1.5 \;\mathrm{m} behind the slits.
+Find the angle made by rays traveling to the third maximum off the optic axis.
+How far from the center of the screen is the third maximum located?
+How would your answers change if the experiment was conducted underwater?
+Again, in your laboratory, 540 \;\mathrm{nm} light falls on a pinhole 0.0038 \;\mathrm{mm} in diameter.
+Diffraction maxima are observed on a screen 5.0 \;\mathrm{m} away.
+Calculate the distance from the central maximum to the first interference maximum.
+Qualitatively explain how your answer to (a) would change if you:
+move the screen closer to the pinhole
+increase the wavelength of light
+reduce the diameter of the pinhole
+Students are doing an experiment with a Helium-neon laser, which emits 632.5 \;\mathrm{nm} light.
+They use a diffraction grating with 8000 lines/cm.
+They place the laser 1 \;\mathrm{m} from a screen and the diffraction grating, initially, 95 \;\mathrm{cm} from the screen.
+They observe the first and then the second order diffraction peaks.
+Afterwards, they move the diffraction grating closer to the screen.
+Fill in the Table ( below ) with the expected data based on your understanding of physics.
+Hint: find the general solution through algebra before plugging in any numbers.
+Plot a graph of the first order distance as a function of the distance between the grating and the screen.

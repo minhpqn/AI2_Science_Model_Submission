@@ -1,0 +1,20 @@
+The speed of visible light through Heinz® vinegar is about 230 million m/s.
+When light passes from one medium to another, it changes speed.
+For example, when light passes from air to glass, it slows down.
+If light strikes a sheet of glass at a 90° angle, or perpendicular to the glass, it slows down but still passes straight through the glass.
+However, if light enters the glass at an angle other than 90°, the light bends as it slows down.
+The bending of light as it changes speed in a new medium is called refraction .
+The Figure below shows how refraction occurs.
+Notice that the speed of light changes again as it passes from the glass back to the air.
+In this case, the speed increases, and the ray of light resumes its initial direction.
+For a more detailed explanation of refraction, watch this video:
+Diagram of refraction
+What’s Your Angle?
+The angle at which light bends when it enters a different medium depends on its change in speed.
+The greater the change in speed, the greater the angle of refraction is.
+For example, light refracts more when it passes from air to diamond than it does when it passes from air to water.
+That’s because the speed of light is slower in diamond than it is in water.
+Q:
+Now can you explain why the straw in the opening image appears to be broken where it enters the water?
+A:
+The straw appears to be broken because of refraction.

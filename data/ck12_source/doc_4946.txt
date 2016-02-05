@@ -1,0 +1,20 @@
+Water channel proteins allow water to diffuse across the membrane at a very fast rate.
+Ion channel proteins allow ions to diffuse across the membrane.
+A gated channel protein is a transport protein that opens a "gate," allowing a molecule to pass through the membrane.
+Gated channels have a binding site that is specific for a given molecule or ion.
+A stimulus causes the "gate" to open or shut.
+The stimulus may be chemical or electrical signals, temperature, or mechanical force, depending on the type of gated channel.
+For example, the sodium gated channels of a nerve cell are stimulated by a chemical signal which causes them to open and allow sodium ions into the cell.
+Glucose molecules are too big to diffuse through the plasma membrane easily, so they are moved across the membrane through gated channels.
+In this way glucose diffuses very quickly across a cell membrane, which is important because many cells depend on glucose for energy.
+A carrier protein is a transport protein that is specific for an ion, molecule, or group of substances.
+Carrier proteins "carry" the ion or molecule across the membrane by changing shape after the binding of the ion or molecule.
+Carrier proteins are involved in passive and active transport.
+A model of a channel protein and carrier proteins is shown in Figure below .
+Facilitated diffusion through the cell membrane.
+Channel proteins and carrier proteins are shown (but not a gated-channel protein).
+Water molecules and ions move through channel proteins.
+Other ions or molecules are also carried across the cell membrane by carrier proteins.
+The ion or molecule binds to the active site of a carrier protein.
+The carrier protein changes shape, and releases the ion or molecule on the other side of the membrane.
+The carrier protein then returns to its original shape.

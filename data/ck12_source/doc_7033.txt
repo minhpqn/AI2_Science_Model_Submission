@@ -1,0 +1,20 @@
+The nuclear process is largely random in direction.
+Therefore, radiation strength decreases with distance by the inverse square of the distance (the 1/\mathit{r}^2 law, which also holds for gravity, electric fields, light intensity, sound intensity, and so on.)
+Alpha decay is the process in which an isotope releases a helium nucleus ( 2 protons and 2 neutrons, \frac{4}{2}\;\mathrm{He} ) and thus decays into an atom with two less protons.
+Example: \ ^{232}_{90} \;\mathrm{Th}\rightarrow\ ^{228}_{88}\;\mathrm{Ra}+\ ^{4}_{2}\;\mathrm{He}
+Beta decay is the process in which one of the neutrons in an isotope decays, leaving a proton, electron and anti-neutrino.
+As a result, the nucleus decays into an atom that has the same number of nucleons, with one neutron replaced by a proton. (Beta positive decay is the reverse process, in which a proton decays into a neutron, anti-electron and neutrino.)
+Example: \ ^{14}_{6}\;\mathrm{C}\rightarrow\ ^{14}_{7}\;\mathrm{N}+\ ^{ 0}_{-1}\;\mathrm{e}^-+\;\mathrm{v}
+Gamma decay is the process in which an excited atomic nucleus kicks out a photon and releases some of its energy.
+The makeup of the nucleus doesn’t change, it just loses energy. (It can be useful to think of this as energy of motion – think of a shuddering nucleus that only relaxes after emitting some light.)
+Example: \ ^{137}_{56}\;\mathrm{Ba}^*\rightarrow\ ^{137}_{56}\;\mathrm{Ba+y}
+Fission and Fusion
+Fission is the process in which an atomic nucleus breaks apart into two less massive nuclei.
+Energy is released in the process in many forms, heat, gamma rays and the kinetic energy of neutrons.
+If these neutrons collide with nuclei and induce more fission, then a runaway chain reaction can take place.
+Fission is responsible for nuclear energy and atom-bomb explosions: the fission of uranium acts as a heat source for the Earth’s molten interior.
+Example: \ ^{1}\;\mathrm{n} + \ ^{235} \;\mathrm{U}\rightarrow\ ^{141}\;\mathrm{Ba} + \ ^{92}\;\mathrm{Kr}+3 ^{1}\;\mathrm{n}
+Fusion is the process in which two atomic nuclei fuse together to make a single nucleus.
+Energy is released in the form of nuclear particles, neutrons, and gamma-rays.
+Example: \ ^{3}_{1}\;\mathrm{H} + \ ^{2}_{1}\;\mathrm{H} \rightarrow\ ^{4}_{2}\;\mathrm{He} + \ ^{1}_{0}\;\mathrm{n + y}
+Alpha Decay (PhET Simulation)

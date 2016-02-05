@@ -1,0 +1,20 @@
+Once activated, MAPK transmit signals downstream to other protein kinases and gene regulatory proteins.
+This cascade of reactions is typical of a signal transaction pathway.
+Many of the genes and proteins involved in signal transduction pathways are interconnected to Ras.
+Any mutation that makes Ras more active or otherwise interrupts the normal signal transduction pathways ( Figure below ) may result in excessive cell division and cancer.
+In Living things share common genes at , Michael Wigler discusses his work on ras, and 1989 Nobel Prize awardees Harold Varmus and Michael Bishop discuss their work retroviruses.
+Tumor Suppressor Genes
+Tumor suppressor genes, as their name implies, normally suppress tumorigenesis.
+When this process is disturbed, such as by a mutation, tumor suppression may not be inhibited as normal.
+An example of a tumor suppressor gene is p53 , which encodes a 53,000 dalton (53kd) protein, The p53 gene is activated by DNA damage.
+DNA may be damaged by ultraviolet light, and any damaged DNA may be harmful to the cell.
+Mutations causing problems with any of the components of Figure below , may lead to the development of cancer.
+So that damaged DNA is not replicated, the cell cycle must be temporarily stopped so that the DNA can be repaired.
+The p53 tumor suppressor gene encodes a transcription factor that regulates the synthesis of cell cycle inhibiting proteins ( Figure below ). p53 often activates a gene named p21, whose protein product temporarily stops the cell cycle.
+If the DNA can not be repaired, p53 activates other genes that lead to cell death, or apoptosis.
+This prevents the cell from passing on damaged DNA.
+If the p53 tumor suppressor gene is defective, as by mutation, DNA damage in the cell may accumulate and the cell may survive to replicate the damaged DNA.
+The damaged DNA would then be passed to other cells through many cell divisions, and cancer could develop.
+Signal transduction pathways.
+Ras (upper middle section) activates a number of pathways but an especially important one seems to be the mitogen-activated protein kinases (MAPK).
+MAPK transmit signals downstream to other protein kinases and gene regulatory proteins.

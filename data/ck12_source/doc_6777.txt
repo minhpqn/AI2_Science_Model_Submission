@@ -1,0 +1,20 @@
+Ignore friction and air resistance.
+What is the final speed of the target?
+What is the kinetic energy of the arrow after it leaves the target?
+What is the final kinetic energy of the target?
+What percent of the initial energy of the arrow was lost in the shooting?
+Answers to Selected Problems
+a. .008\;\mathrm{m} b. 5. 12^\circ
+a. v_0 /14 b. mv_{0}{^{2}}/8 c. 7mv_{0}{^{2}}/392 d. 71 %
+Power and Efficiency
+Define and calculate power and efficiency.
+Students will learn how to calculate power and efficiency.
+Students will also learn the true meaning of both.
+P = \frac{W} {\Delta t} ;
+Power is equal to the energy released per second and has units of Watts ( 1 Watt = J/s).
+\text{Eff} = \frac{P_{out}}{P_{in}} ;
+The efficiency equals the output power divided by the input power
+Guidance Power is the rate at which energy is being transferred.
+Power tells you how many Joules per second of energy is being used to drive something.
+Thus power is simply the change in energy divided by the time.
+Since work is by definition the transfer of energy (in or out of a system), power is also equal to the work divided by the time.

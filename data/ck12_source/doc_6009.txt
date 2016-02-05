@@ -1,0 +1,20 @@
+Mass-Mole Stoichiometry
+Tin metal reacts with hydrogen fluoride to produce tin(II) fluoride and hydrogen gas according to the following balanced equation.
+\text{Sn}(s)+2\text{HF}(g) \rightarrow \text{SnF}_2(s)+\text{H}_2 (g)
+How many moles of hydrogen fluoride are required to react completely with 75.0 g of tin?
+Step 1:
+List the known quantities and plan the problem.
+given: 75.0 g Sn
+molar mass of Sn = 118.69 g/mol
+1 mol Sn = 2 mol HF (mole ratio)
+Use the molar mass of Sn to convert the grams of Sn to moles.
+Then use the mole ratio to convert from mol Sn to mol HF.
+This will be done in a single two-step calculation.
+g Sn → mol Sn → mol HF
+Step 2:
+Solve.
+75.0 \text{ g Sn} \times \frac{1 \text{ mol Sn}}{118.69 \text{ g Sn}} \times \frac{2 \text{ mol HF}}{1 \text{ mol Sn}}=1.26 \text{ mol HF}
+Step 3:
+Think about your result.
+The mass of tin is less than one mole, but the 1:2 ratio means that more than one mole of HF is required for the reaction.
+The answer has three significant figures because the given mass has three significant figures.

@@ -1,0 +1,20 @@
+The cue ball (c) and the 8 ball ( e ) react as shown in the diagram.
+The 8 ball and the cue ball both have a mass of .17\mathrm{kg} .
+What is the velocity of the cue ball?
+What is the direction (the angle) of the cue ball?
+Answer :
+We know the equation for conservation of momentum, along with the masses of the objects in question as well two of the three velocities.
+Therefore all we need to do is manipulate the conservation of momentum equation so that it is solved for the velocity of the cue ball after the collision and then plug in the known values to get the velocity of the cue ball.
+m_{c}v_{ic}+m_{e}v_{ie}&=m_{c}v_{fc}+m_{e}v_{fe}\\v_{fc}&=\frac{m_{c}v_{ic}+m_{e}v_{ie}-m_{e}v_{fe}}{m_{c}}\\v_{fc}&=\frac{.17\mathrm{kg}\times 2.0\mathrm{m/s}+.17\mathrm{kg}\times 0\mathrm{m/s}-.17\mathrm{kg}\times 1.2\mathrm{m/s}}{.17\mathrm{kg}}\\v_{fc}&=.80\mathrm{m/s}\\
+Now we want to find the direction of the cue ball.
+To do this we will use the diagram below.
+We know that the momentum in the y direction of the two balls is equal.
+Therefore we can say that the velocity in the y direction is also equal because the masses of the two balls are equal. m_cv_cy=m_ev_ey \rightarrow v_cy=v_ey
+Given this and the diagram, we can find the direction of the cue ball.
+After 1 second, the 8 ball will have traveled 1.2\mathrm{m} .
+Therefore we can find the distance it has traveled in the y direction. sin25^o=\frac{\text{opposite}}{\text{hypotenuse}}=\frac{x}{1.2\mathrm{m}} \rightarrow x=sin25\times 1.2\mathrm{m}=.51\mathrm{m} Therefore, in one second the cue ball will have traveled .51\mathrm{m} in the y direction as well.
+We also know how far in total the cue ball travels in one second (.80\mathrm{m}) .
+Thus we can find the direction of the cue ball. sin^{-1}\frac{\text{opposite}}{\text{hypotenuse}}=sin^{-1}\frac{.51\mathrm{m}}{.80\mathrm{m}}=40^o
+Watch this Explanation
+Click on the image above for more content
+Note: move the elasticity meter to 100% for perfectly elastic collisions.

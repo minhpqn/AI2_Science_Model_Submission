@@ -1,0 +1,20 @@
+He published his results, along with detailed descriptions of his procedures and observations, in the 1660s.
+These steps were unheard of in his day.
+Mainly because of his careful research and the details he provided about it, Boyle has been called the “father of modern chemistry.”
+It’s Crowded in Here
+Imagine a container of gas molecules like the one in the Figure below .
+The container in the sketch has a lid that can be pushed down to shrink the volume of the gas inside.
+Notice what happens as the lid is lowered.
+The gas molecules crowd closer together because there is less space for them to occupy and they have nowhere else to go.
+Gas molecules have a lot of energy.
+They are always moving and bouncing off each other and anything else in their path.
+When gas molecules bump into things, it creates pressure.
+Pressure is greater when gas molecules occupy a smaller space, because the greater crowding results in more collisions.
+In other words, decreasing the volume of a gas increases its pressure.
+If you go to the URL below, you can watch a simulation of this.
+Demonstration of Boyle's Law
+You Go Up and I’ll Go Down
+As the volume of gas in the container pictured in the Figure above gets smaller, the pressure of the gas molecules becomes greater.
+When two variables change in opposite directions like this, the variables have an inverse, or “upside-down,” relationship.
+Q:
+How could you show an inverse relationship with a graph?

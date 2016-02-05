@@ -1,0 +1,20 @@
+The best-known method of radiometric dating is carbon-14 dating .
+This method is also called radiocarbon dating.
+A living thing takes in carbon-14 (along with stable carbon-12).
+As the carbon-14 decays, it is replaced with more carbon-14.
+After the organism dies, it stops taking in carbon.
+That includes carbon-14.
+The carbon-14 that is in its body continues to decay.
+So the organism contains less and less carbon-14 as time goes on.
+We can estimate the amount of carbon-14 that has decayed by measuring the amount of carbon-14 to carbon-12.
+We know how fast carbon-14 decays.
+With this information, we can tell how long ago the organism died.
+Carbon-14 has a relatively short half-life.
+It decays quickly compared to some other unstable isotopes.
+So carbon-14 dating is useful for specimens younger than 50,000 years old.
+That’s a blink of an eye in geologic time.
+But radiocarbon dating is very useful for more recent events.
+One important use of radiocarbon is early human sites.
+Carbon-14 dating is also limited to the remains of once-living things.
+To date rocks, scientists use other radioactive isotopes.
+Other Radioactive Isotopes

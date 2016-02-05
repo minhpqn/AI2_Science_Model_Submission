@@ -1,0 +1,20 @@
+Look at Carson’s brother Colton in the Figure below .
+He’s getting his scooter started by pushing off with his foot.
+The force he applies to the ground with his foot starts the scooter moving in the opposite direction.
+The harder he pushes against the ground, the faster the scooter will go.
+Scooter rider pushing off the ground
+How much an object accelerates when a force is applied to it depends not only on the strength of the force but also on the object’s mass.
+For example, a heavier scooter would be harder to accelerate.
+Colton would have to push with more force to start it moving and move it faster.
+You can explore the how force, mass, and acceleration are related by doing the activity at this URL:
+Q :
+What units do you think are used to measure force?
+A :
+The SI unit for force is the Newton (N).
+A Newton is the force needed to cause a mass of 1 kilogram to accelerate at 1 m/s 2 , so a Newton equals 1 kg • m/s 2 .
+The Newton was named for the scientist Sir Isaac Newton, who is famous for his laws of motion and gravity.
+Force as a Vector
+Force is a vector, or a measure that has both size and direction.
+For example, Colton pushes on the ground in the opposite direction that the scooter moves, so that’s the direction of the force he is applies.
+He can give the scooter a strong push or a weak push.
+That’s the size of the force.

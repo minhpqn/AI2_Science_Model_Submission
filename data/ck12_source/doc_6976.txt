@@ -1,0 +1,20 @@
+The Big Idea
+Light is a wave of changing electric and magnetic fields.
+Light waves are caused by disturbances in an electromagnetic field, like the acceleration of charged particles (such as electrons).
+Light has a dual nature; at times, it acts like waves, while at other times it acts like particles, called photons .
+Light travels through space at the maximum speed allowed by the laws of physics, called the speed of light.
+Light has no mass, but it carries energy and momentum.
+Fermat's principle states that light will always take the path that takes the least amount of time (not distance).
+Fermat’s Principle governs the paths light will take and explains the familiar phenomena of reflection, refraction, diffraction, scattering and color absorption and dispersion.
+Light rarely travels in a straight line path.
+When photons interact with electrons in matter, the time it takes for this interaction determines the path.
+For example, higher frequency blue light is refracted more than red because blue interacts more frequently with electrons.
+Also, the path of least time is achieved when blue light bends more than red light so that it gets out of the 'slow' region faster.
+Fermat’s Principle explains the many fascinating phenomena of light from rainbows to sunsets to the halos around the moon.
+Speed of Light
+Define the speed of light and a light year.
+Solve problems involving light.
+Students will gain an understanding of the speed of light and work problems involving light.
+The distance of a light year is also explained and practiced.
+D = ct  ; distance is equal to the speed of light multiplied by the time it has traveled
+Light travels at  3 \times 10^8 \text{m/s} .

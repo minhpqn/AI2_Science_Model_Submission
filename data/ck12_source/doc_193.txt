@@ -1,0 +1,20 @@
+Understand the mathematical relationship between initial velocity, acceleration, time, and final velocity.
+A space shuttle, such as the Atlantis, must accelerate to 28,968 km/h to escape from Earth's orbit
+To escape from Earth's orbit, space shuttles such as the Atlantis shown here must accelerate to 28,968 kilometers per hour, called the shuttle's escape velocity .
+An object whose velocity is changing is said to be accelerating.
+Average acceleration , \overline{a} is defined as the rate of change of velocity, or the change in velocity per unit time.
+The units of acceleration are distance over time squared.
+A symbol with a bar over it is read as average – so a-bar is average acceleration.
+Example:  A car accelerates along a straight road from rest to +60.0 km/h in 5.00 s.
+What is the magnitude of its average acceleration?
+The acceleration in this problem is read as kilometers per hour per second.
+In general, it is undesirable to have two different units for the same quantity in a unit expression.
+In this case, it is undesirable to have both hours and seconds.
+To eliminate this problem, we convert the hour units to seconds.
+Converting the original 60.0 km/h to m/s, gives 17.0 m/s.
+\frac{17.0\ m/s}{5.00\ s}=3.40 \ m/s^2
+The acceleration is 3.40 m/s 2 .
+Example:  An automobile is moving along a straight highway in the positive direction and the driver steps on the brakes.
+If the initial velocity is +15.0 m/s and 5.0 s is required to slow down to +5.0 m/s, what was the car’s acceleration?
+\overline{a} = \frac{\Delta v}{\Delta t} = \frac{-10.0 \ m/s}{5.0 \ s} = -2.0 \ m/s^2
+Note that an acceleration is merely a change in velocity.

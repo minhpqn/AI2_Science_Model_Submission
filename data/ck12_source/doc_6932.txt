@@ -1,0 +1,20 @@
+The total resistance is \frac{1}{R_{total}}=\frac{1}{R_1}+\frac{1}{R_2}=\frac{1}{90\Omega}+\frac{1}{10\Omega}=\frac{1}{90\Omega}+\frac{9}{90\Omega}=\frac{10}{90\Omega} thus, R_{total}=\frac{90\Omega}{10}=9\Omega
+^* Note:
+Total resistance for a circuit in parallel will always be smaller than smallest resistor in the circuit.
+Question:
+What is the total current coming out of the power supply?
+Answer:
+Use Ohm’s Law (V=IR) but solve for current (I=V/R) .
+Question:
+How much power does the power supply dissipate?
+Answer:
+P=IV , so the total power equals the total voltage multiplied by the total current.
+Thus, P_{total}=I_{total}V_{total}=(2.2A)(20V)=44.4W .
+So the Power Supply outputs 44W (i.e. 44 Joules of energy per second).
+Question:
+How much power is each resistor dissipating?
+Answer:
+Each resistor has different current across it, but the same voltage.
+So, using Ohm’s law, convert the power formula into a form that does not depend on current.
+P=IV=\left(\frac{V}{R}\right) V=\frac{V^2}{R} Substituted I=V/R into the power formula.
+P_{90\Omega}=\frac{V^2_{90\Omega}}{R_{90\Omega}}=\frac{(20V)^2}{90\Omega}=4.4W;

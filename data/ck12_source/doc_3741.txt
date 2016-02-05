@@ -1,0 +1,20 @@
+Examples include silent point mutations.
+They are neutral because they do not change the amino acids in the proteins they encode.
+Many other mutations have no effect on the organism because they are repaired before protein synthesis occurs.
+Cells have multiple repair mechanisms to fix mutations in DNA.
+One way DNA can be repaired is illustrated in Figure below .
+If a cell’s DNA is permanently damaged and cannot be repaired, the cell is likely to be prevented from dividing.
+DNA repair pathway
+DNA Repair Pathway.
+This flow chart shows one way that damaged DNA is repaired in E. coli bacteria.
+Some mutations have a positive effect on the organism in which they occur.
+They are called beneficial mutations .
+They lead to new versions of proteins that help organisms adapt to changes in their environment.
+Beneficial mutations are essential for evolution to occur.
+They increase an organism’s changes of surviving or reproducing, so they are likely to become more common over time.
+There are several well-known examples of beneficial mutations.
+Here are just two:
+Mutations in many bacteria that allow them to survive in the presence of antibiotic drugs.
+The mutations lead to antibiotic-resistant strains of bacteria.
+A unique mutation is found in people in a small town in Italy.
+The mutation protects them from developing atherosclerosis, which is the dangerous buildup of fatty materials in blood vessels.

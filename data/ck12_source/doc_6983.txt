@@ -1,0 +1,20 @@
+65000 \ x- rays
+6 \times 10^{14} \;\mathrm{Hz}
+Describe why light refracts when entering different substances like water and glass.
+Calculate the angle of refraction using Snell's Law.
+Students will learn why light refracts when entering different substances like water, glass, etc. and how to calculate the angle of refraction using Snell's Law.
+c = 300,000,000 \;\mathrm{m/s} ; the speed of light
+n = \frac{c}{u}
+The index of refraction, n , is the ratio of its speed (c) in a vacuum to the slower speed (u) it travels in a material. n can depend slightly on wavelength.
+n_i \sin{\theta_i} = n_f \sin{\theta_f}  ;
+Snell's Law
+Fermat's principle states that light will always take the path that takes the least amount of time (not distance).
+Refraction follows from this.
+When light travels from air into another material (like glass), its speed through the material is reduced due to interactions between photons that make up the light ray and the densely packed atoms of the material.
+Because light is effectively moving slower in the glass, for example, as compared to air, the light ray bends in order to get out quicker and satisfy Fermat's Principle of least time.
+This is called refraction.
+The figure below demonstrates the refraction a light ray experiences as it passes from air into a rectangular piece of glass and out again.
+Click on the image above for more content
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content

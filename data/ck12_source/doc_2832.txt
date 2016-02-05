@@ -1,0 +1,20 @@
+Show how to write a balanced nuclear equation for beta decay.
+Describe dangers of beta decay.
+If you hear the word decay while your dentist is checking your teeth, it’s probably bad news.
+But if you’re an unstable atomic nucleus, decay is good news.
+When the nucleus of an atom decays, it becomes more stable.
+Which Nuclei Decay
+Atoms with unstable nuclei are radioactive.
+To become more stable, the nuclei undergo radioactive decay.
+In radioactive decay, the nuclei emit energy and usually particles of matter as well.
+There are several types of radioactive decay, including alpha, beta, and gamma decay.
+Energy is emitted in all three types of decay, but only alpha and beta decay also emit particles.
+What Is Beta Decay?
+Beta decay occurs when an unstable nucleus emits a beta particle and energy.
+A beta particle is either an electron or a positron.
+An electron is a negatively charged particle, and a positron is a positively charged electron (or anti-electron).
+When the beta particle is an electron, the decay is called beta-minus decay.
+When the beta particle is a positron, the decay is called beta-plus decay.
+Beta-minus decay occurs when a nucleus has too many neutrons relative to protons, and beta-plus decay occurs when a nucleus has too few neutrons relative to protons.
+Q:
+Nuclei contain only protons and neutrons, so how can a nucleus emit an electron in beta-minus decay or a positron in beta-plus decay?

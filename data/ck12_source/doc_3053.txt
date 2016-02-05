@@ -1,0 +1,20 @@
+Substitute the known values into the equation for distance:
+Mower hanging on wall
+Work can be calculated with the equation:
+Work = Force × Distance.
+The SI unit for work is the joule (J), or Newton • meter (N • m).
+One joule equals the amount of work that is done when 1 N of force moves an object over a distance of 1 m.
+The equation for work can be rearranged to find force or distance if the other variables are known.
+At the following URL, review how to calculate work from force and distance.
+Then solve the practice problems (except for problem 8) at the bottom of the Web page.
+Write the equation for calculating work when force and distance are known.
+What is the SI unit for work?
+What does it represent?
+Clarissa helps her mom put the 200-Newton lawn mower in the back of her mom’s truck.
+They lift the mower up from the ground to the truck bed, which is 1.1 meters above the ground.
+How much work do Clarissa and her mom do?
+Clarissa climbs into the back of the truck to tie the lawn mower in place.
+If she does 528 joules of work raising herself to the truck bed, how much does she weigh?
+Define power, and relate it to work and time.
+Identify the SI unit for power.
+Show how to calculate power from work and time.

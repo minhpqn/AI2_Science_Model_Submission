@@ -1,0 +1,20 @@
+The types of interactions are reflection, refraction, and diffraction.
+Each type of interaction is described in detail below.
+You can see animations of the three types at this URL:
+An echo is an example of wave reflection.
+Reflection occurs when waves bounce back from a surface they cannot pass through.
+Reflection can happen with any type of waves, not just sound waves.
+For example, light waves can also be reflected.
+In fact, that’s how we see most objects.
+Light from a light source, such as the sun or a light bulb, shines on the object and some of the light is reflected.
+When the reflected light enters our eyes, we can see the object.
+Reflected waves have the same speed and frequency as the original waves before they were reflected.
+However, the direction of the reflected waves is different.
+When waves strike an obstacle head on, the reflected waves bounce straight back in the direction they came from.
+When waves strike an obstacle at any other angle, they bounce back at the same angle but in a different direction.
+This is illustrated in the Figure below .
+In this diagram, waves strike a wall at an angle, called the angle of incidence.
+The waves are reflected at the same angle, called the angle of reflection, but in a different direction.
+Notice that both angles are measured relative to a line that is perpendicular to the wall.
+Diagram illustrating reflection
+Refraction is another way that waves interact with matter.

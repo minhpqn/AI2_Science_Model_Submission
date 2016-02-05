@@ -1,0 +1,20 @@
+The Golgi apparatus tends to be larger and more numerous in cells that synthesize and secrete large quantities of materials; for example, the plasma B cells and the antibody-secreting cells of the immune system have prominent Golgi complexes.
+The stack of cisternae has four functional regions: the cis-Golgi network, medial-Golgi, endo-Golgi, and trans-Golgi network.
+Vesicles from the ER fuse with the network and subsequently progress through the stack from the cis- to the trans-Golgi network, where they are packaged and sent to their destination.
+Each cisterna includes special Golgi enzymes which modify or help to modify proteins that travel through it.
+Proteins may be modified by the addition of a carbohydrate group (glycosylation) or phosphate group (phosphorylation).
+These modifications may form a signal sequence on the protein, which determines the final destination of the protein.
+For example, the addition of a mannose-6-phosphate signals the protein for lysosomes.
+This animal cell depicts the Golgi apparatus as a stack of flattened discs.
+The nucleus with the adjacent endoplasmic reticulum, and numerous mitochondria are also easily identifiable.
+The Endomembrane System
+Together with the ER and transport vesicles, the Golgi apparatus is part of the cell's endomembrane system, which transports molecules around the cell.
+This system transports molecules, such as proteins, in vesicles.
+The vesicles that leave the RER are transported to the cis face of the Golgi apparatus, where they fuse with the Golgi membrane and empty their contents into the lumen.
+Once inside the lumen, the molecules are modified, then sorted for transport to their next destinations.
+In addition to the ER, Golgi apparatus, the endomembrane system includes the nuclear envelope, lysosomes, vacuoles, vesicles, peroxisomes and the cell membrane.
+Those proteins destined for areas of the cell other than the ER or Golgi apparatus are moved towards the trans face of the Golgi complex, to a complex network of membranes and associated vesicles known as the trans-Golgi network (TGN) .
+This area of the Golgi is the point at which proteins are sorted and shipped to their intended destinations by their placement into one of at least three different types of vesicles, depending upon the molecular signal they carry.
+The secretory process (vesicular transport) from endoplasmic reticulum to Golgi apparatus.
+Note how the ER is attached to the nuclear envelope and the flow of vesicles from the cis to the trans face of the Golgi apparatus.
+cisternae (singular, cisterna ):

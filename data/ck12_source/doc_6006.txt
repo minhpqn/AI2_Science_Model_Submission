@@ -1,0 +1,20 @@
+To consider larger relative amounts, each coefficient can be multiplied by the same number.
+For example, 10 molecules of nitrogen would react with 30 molecules of hydrogen to produce 20 molecules of ammonia.
+The most useful quantity for counting particles is the mole.
+So if each coefficient is multiplied by a mole, the balanced chemical equation tells us that 1 mole of nitrogen reacts with 3 moles of hydrogen to produce 2 moles of ammonia.
+This is the conventional way to interpret any balanced chemical equation.
+Finally, if each mole quantity is converted to grams by using the molar mass, we can see that the law of conservation of mass is followed. 1 mol of nitrogen has a mass of 28.02 g, while 3 mol of hydrogen has a mass of 6.06 g, and 2 mol of ammonia has a mass of 34.08 g.
+28.02 \ \text{g N}_2 + 6.06 \ \text{g H}_2 \rightarrow 34.08 \ \text{g NH}_3
+Mass and the number of atoms must be conserved in any chemical reaction.
+The number of molecules is not necessarily conserved.
+Apparatus for running the Haber process to form ammonia
+Apparatus for running Haber process.
+A mole ratio is a conversion factor that relates the amounts in moles of any two substances in a chemical reaction.
+The numbers in a conversion factor come from the coefficients of the balanced chemical equation.
+The following six mole ratios can be written for the ammonia forming reaction above.
+&\frac{1 \text{ mol N}_2}{3 \text{ mol H}_2} \quad \quad or \quad \ \ \frac{3 \text{ mol H}_2}{1 \text{ mol N}_2} \\&\frac{1 \text{ mol N}_2}{2 \text{ mol NH}_3} \quad or \quad \ \ \frac{2 \text{ mol NH}_3}{1 \text{ mol N}_2} \\&\frac{3 \text{ mol H}_2}{2 \text{ mol NH}_3} \quad or \quad \ \ \frac{2 \text{ mol NH}_3}{3 \text{ mol H}_2}
+In a mole ratio problem, the given substance, expressed in moles, is written first.
+The appropriate conversion factor is chosen in order to convert from moles of the given substance to moles of the unknown.
+Sample Problem:
+Mole Ratio
+How many moles of ammonia are produced if 4.20 moles of hydrogen are reacted with an excess of nitrogen?

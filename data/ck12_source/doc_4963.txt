@@ -1,0 +1,20 @@
+The process of maintaining a stable environment inside a cell or an entire organism.
+phagocytosis :
+The process of engulfing and breaking down pathogens and other unwanted substances.
+pinocytosis :
+Type of vesicle transport that occurs when the plasma membrane folds inward to form a channel, allowing dissolved substances to enter the cell.
+receptor-mediated endocytosis (RME) :
+Endocytosis in which the inward budding of plasma membrane vesicles containing proteins with receptor sites specific to the molecules being internalized; also known as clathrin-dependent endocytosis.
+Endocytosis and exocytosis are active transport mechanisms in which large molecules enter and leave the cell inside vesicles.
+In endocytosis, a substance or particle from outside the cell is engulfed by the cell membrane.
+The membrane folds over the substance and it becomes completely enclosed by the membrane.
+There are two main kinds of endocytosis: pinocytosis and phagocytosis.
+What is the difference between endocytosis and exocytosis?
+Why is pinocytosis a form of endocytosis?
+Are vesicles involved in passive transport?
+Cell Communication - Advanced
+Describe what is meant by cell communication.
+What does adrenaline do?
+Adrenaline, or epinephrine, is a hormone and a neurotransmitter.
+It increases heart rate, constricts blood vessels, dilates air passages, and participates in the fight-or-flight response of the sympathetic nervous system.
+Adrenaline is produced in the adrenal medulla of the adrenal gland.

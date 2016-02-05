@@ -1,0 +1,20 @@
+Summarize the structure and function of the nuclear envelope.
+Explain the role of the nucleolus.
+Where does the DNA live?
+The answer depends on if the cell is prokaryotic or eukaryotic.
+The main difference between the two types of cells is the presence of a nucleus.
+And in eukaryotic cells, DNA lives in the nucleus.
+The nucleus is a membrane-enclosed organelle found in most eukaryotic cells.
+The nucleus is the largest organelle in the cell and contains most of the cell's genetic information (mitochondria also contain DNA, called mitochondrial DNA, but it makes up just a small percentage of the cell’s overall DNA content).
+The genetic information, which contains the information for the structure and function of the organism, is found encoded in DNA in the form of genes.
+A gene is a short segment of DNA that contains information to encode an RNA molecule or a protein strand.
+DNA in the nucleus is organized in long linear strands that are attached to different proteins.
+These proteins help the DNA coil up for better storage in the nucleus.
+Think how a string gets tightly coiled up if you twist one end while holding the other end.
+These long strands of coiled-up DNA and proteins are called chromosomes.
+Each chromosome contains many genes.
+The function of the nucleus is to maintain the integrity of these genes and to control the activities of the cell by regulating gene expression.
+Gene expression is the process by which the information in a gene is "decoded" by various cell molecules to produce a functional gene product, such as a protein molecule or an RNA molecule.
+The degree of DNA coiling determines whether the chromosome strands are short and thick or long and thin.
+Between cell divisions, the DNA in chromosomes is more loosely coiled and forms long, thin strands called chromatin .
+Before the cell divides, the chromatin coil up more tightly and form chromosomes.

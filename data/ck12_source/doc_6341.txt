@@ -1,0 +1,20 @@
+You can automatically deposit paychecks, pay bills, and designate how much goes into savings or other special accounts each month.
+If you want to maintain 10% of your bank account in savings, you can set up a program that moves money in and out of the account when you get a paycheck or pay bills.
+The amount of money in savings will change as the money comes in and out of the bank, but the ratio of savings to checking will always be constant.
+LeChâtelier’s Principle and the Equilibrium Constant
+Occasionally, when students apply LeChatelier’s principle to an equilibrium problem involving a change in concentration, they assume that K_{eq} must change.
+This seems logical since we talk about “shifting” the equilibrium in one direction or the other.
+However, K_{eq} is a constant, for a given equilibrium at a given temperature, so it must not change.
+Here is an example of how this works.
+Consider the simplified equilibrium below:
+A \rightleftarrows B
+Let’s say we have a 1.0 liter container.
+At equilibrium the following amounts are measured.
+A &=0.50 \text{ mol} \\B &=1.0 \text{ mol}
+The value of  K_{eq} is given by:
+K_{eq}= \frac{\left [B \right ]}{\left [A \right ]}=\frac{1.0 \text{ M}}{0.50 \text{ M}}=2.0
+Now we will disturb the equilibrium by adding 0.50 mole of  A to the mixture.
+The equilibrium will shift towards the right, forming more B .
+Immediately after the addition of  A and before any response, we now have 1.0 mol of  A and 1.0 mol of B .
+The equilibrium then shifts in the forward direction.
+We will introduce a variable (x) , which will represent the change in concentrations as the reaction proceeds.

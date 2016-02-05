@@ -1,0 +1,8 @@
+Suppose you could travel in a spaceship at that speed to that galaxy and back.
+It that were to occur the Earth would be 320,000 years older.
+How much would you have aged?
+Answers to Selected Problems
+\gamma = \infty , the universe would be a dot
+9.15 \times 10^7\;\mathrm{m/s}
+In these lessons students will learn why time is not a constant in relativity theory and how this gives bizarre phenomenon like the famous 'twin paradox'.
+Students will learn to calculate 'gamma factors', time dilation and length contraction in relativistic situations.

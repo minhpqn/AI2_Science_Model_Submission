@@ -1,0 +1,20 @@
+Other human traits have more complex inheritance patterns.
+Mendelian inheritance refers to the inheritance of traits controlled by a single gene with two alleles, one of which may be dominant to the other.
+Not many human traits are controlled by a single gene with two alleles, but they are a good starting point for understanding human heredity.
+How Mendelian traits are inherited depends on whether the traits are controlled by genes on autosomes or the X chromosome.
+Autosomal traits are controlled by genes on one of the 22 human autosomes.
+Consider earlobe attachment.
+A single autosomal gene with two alleles determines whether you have attached earlobes or free-hanging earlobes.
+The allele for free-hanging earlobes ( F ) is dominant to the allele for attached earlobes ( f ).
+Other single-gene autosomal traits include widow’s peak and hitchhiker’s thumb.
+The dominant and recessive forms of these traits are shown in Figure below .
+Which form of these traits do you have?
+What are your possible genotypes for the traits?
+The chart in Figure below is called a pedigree .
+It shows how the earlobe trait was passed from generation to generation within a family.
+Pedigrees are useful tools for studying inheritance patterns.
+You can watch a video explaining how pedigrees are used and what they reveal at this link:  .
+Pedigree for earlobe attachment
+Having free-hanging earlobes is an autosomal dominant trait.
+This figure shows the trait and how it was inherited in a family over three generations.
+Shading indicates people who have the recessive form of the trait.

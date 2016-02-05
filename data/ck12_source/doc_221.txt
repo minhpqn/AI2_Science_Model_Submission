@@ -1,0 +1,20 @@
+The sum of these two vectors is the vector that begins at the origin of the first vector (the red one) and ends at the arrow head of the second (blue) vector.
+So the sum of these two vectors is the purple vector, as shown below.
+One number line with one vector with magnitude 11 in the positive direction and another vector overlapping with magnitude -3, showing the sum of the two vectors with a third with magnitude 8
+The vector sum of the first two vectors is a vector that begins at the origin and has a magnitude of 8 units in the positive direction.  If we were adding three or four vectors all in one dimension, we would continue to place them head to toe in sequence on the number line.
+The sum would be the vector that begins at the beginning of the first vector and goes to the ending of the final vector.
+Adding Vectors in Two Dimensions
+In the following image, vectors  A and  B represent the two displacements of a person who walked 90. m east and then 50. m north.
+We want to add these two vectors to get the vector sum of the two movements.
+Graph of two vectors, representing two displacements of a person who walked 90 mi east and then 50 mi north
+The graphical process for adding vectors in two dimensions is to place the tail of the second vector on the arrow head of the first vector as shown above.
+The sum of the two vectors is the vector that begins at the origin of the first vector and goes to the ending of the second vector, as shown below.
+Two vectors representing two displacements of a person who walked 90 mi east and then 50 mi north, with the third vector connecting the two, creating a triangle indicating the sum
+If we are using totally graphic means of adding these vectors, the magnitude of the sum would be determined by measuring the length of the sum vector and comparing it to the original standard.
+We would also use a compass to measure the angle of the summation vector.
+If we are using calculation means, we can divide 50. m by 90. m and determine inverse tangent of the dividend.
+The result of 29.05 indicates the angle of 29° north of east.
+The length of the sum vector can also be determined mathematically by the Pythagorean theorem, a^2 + b^2 = c^2 .  In this case, the length of the hypotenuse would be the square root of (8100 + 2500) or 103 m.
+If three or four vectors are to be added by graphical means, we would continue to place each new vector head to toe with the vectors to be added until all the vectors were in the coordinate system.
+The sum vector is the vector from the origin of the first vector to the arrowhead of the last vector.
+The magnitude and direction of the sum vector can be measured.

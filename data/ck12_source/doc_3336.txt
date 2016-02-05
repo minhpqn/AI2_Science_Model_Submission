@@ -1,0 +1,20 @@
+Electric current is a flow of electrons.
+All of the valence electrons of silicon atoms in a pure crystal are shared with other silicon atoms, so they are not free to move and carry current.
+There are two different types of semiconductors: n-type and p-type.
+An n-type (negative-type) semiconductor consists of silicon and an element such as phosphorus that gives the silicon crystal extra electrons.
+You can see this in the Figure above .
+An n-type semiconductor is like the negative terminal of a battery.
+A p-type (positive-type) semiconductor consists of silicon and an element such as boron that gives the silicon positively charged “holes” where electrons are missing.
+This is also shown in the Figure above .
+A p-type semiconductor is like the positive terminal of a battery.
+A diode is an electronic component that consists of a p-type and an n-type semiconductor placed side by side, as shown in the Figure below .
+When a diode is connected by leads to a source of voltage, electrons flow from the n-type to the p-type semiconductor.
+This is the only direction that electrons can flow in a diode.
+This makes a diode useful for changing alternating current to direct current.
+Diagram of a diode
+A transistor consists of three semiconductors, either p-n-p or n-p-n.
+Both arrangements are illustrated in the Figure below .
+Current can’t flow through a transistor unless a small amount of current is applied to the center semiconductor (through the base).
+Then a much larger current can flow through the transistor from end to end (from collector to emitter).
+This means that a transmitter can be used as a switch, with pulses of a small current turning a larger current on and off.
+A transistor can also be used to increase the amount of current flowing through a circuit.

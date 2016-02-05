@@ -1,0 +1,20 @@
+Use the combined gas law to solve for the unknown volume (V_2) .
+STP is 273 K and 1 atm.
+The temperatures have been converted to Kelvin.
+Step 2:
+Solve
+First, rearrange the equation algebraically to solve for V_2 .
+V_2=\frac{P_1 \times V_1 \times T_2}{P_2 \times T_1}
+Now substitute the known quantities into the equation and solve.
+V_2=\frac{0.833 \text{ atm} \times 2.00 \text{ L} \times 273 \text{ K}}{1.00 \text{ atm} \times 308 \text{ K}}=1.48 \text{ L}
+Step 3:
+Think about your result.
+Both the increase in pressure and the decrease in temperature cause the volume of the gas sample to decrease.  Since both changes are relatively small, the volume does not decrease dramatically.
+It may seem challenging to remember all the different gas laws introduced so far.
+Fortunately, Boyle’s, Charles’s, and Gay-Lussac’s laws can all be easily derived from the combined gas law.
+For example, consider a situation where a change occurs in the volume and pressure of a gas while the temperature is being held constant.
+In that case, it can be said that T_1 = T_2 .
+Look at the combined gas law and cancel the  T variable out from both sides of the equation.
+What is left over is Boyle’s law:
+P_1 \times V_1 = P_2 \times V_2 .
+Likewise, if the pressure is constant, then  P_1 = P_2 and canceling  P out of the equation leaves Charles’s law.

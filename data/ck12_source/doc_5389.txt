@@ -1,0 +1,20 @@
+They are produced by the thyroid gland.
+Production of these hormones is stimulated by thyroid stimulating hormone (TSH), a glycoprotein secreted by the pituitary gland in the brain.
+TSH binds with the TSH receptor on the surface of the cells of the thyroid gland, initiating a series of biochemical events that result in an increase in circulating thyroid hormones, which have numerous effects.
+T3 and T4 levels are maintained by a negative feedback loop mechanism.
+Mutations within the gene coding for the TSH receptor can result in problems for the body in controlling thyroid hormone levels.
+Gain-of-functions mutations in the gene for the TSH receptor result in the receptor being constitutively active, or "switched on," even in the absence of TSH.
+These mutations result in more thyroid hormone produced, resulting in the inability to maintain homeostasis and detrimental phenotypes.
+A number of loss-of-function mutations have also been identified in the TSH receptor gene.
+Dominant negative mutations have an altered gene product that acts in a dominant manner to the wild-type gene product in the same cell.
+These two gene products often dimerize (combine) to make the protein.
+Often the effects of such a mutation result in an inactive gene product.
+Dominant negative mutations are often more harmful than null alleles.
+Examples of dominant negative mutations occur with the collagen genes.
+Type II collagen is the preeminent protein in cartilage.
+The protein forms from three gene products of the gene for type II collagen, COL2A1 .
+Mutations in the COL2A1 gene result in a phenotypic spectrum of disease, ranging from primatial lethal to comparatively moderate phenotypes.
+The collagen protein is a trimer of three polypeptides.
+A COL2A1 null allele will result in decreased amounts of normal collagen polypeptides produced.
+Decreased amounts of the collagen protein result in a mild phenotype compared to phenotypes that result from a dominant negative mutation.
+Half normal and half mutant polypeptides produced combine to form almost all abnormal collagen protein product.

@@ -1,0 +1,20 @@
+Thermochemistry is the study of energy changes that occur during chemical reactions and during changes of state.  When chemical reactions occur, some chemical bonds are broken, while new chemical bonds form.
+As a result of the rearrangement of atoms, the total chemical potential energy of the system either increases or decreases.
+Heat is transferred energy from a site of higher energy to a site of lower energy.
+Use the link below to answer the following questions:
+What is the correct term for the “heat” an object possesses?
+How do we increase the internal energy of an object?
+What is the internal energy a result of?
+What is heat?
+In which direction does heat flow?
+What does thermochemistry involve?
+heat:
+Energy that is transferred from one object or substance to another because of a difference in temperature between them.
+thermochemistry:
+The study of energy changes that occur during chemical reactions and during changes of state.
+Exothermic and Endothermic Processes
+State the law of conservation of energy.
+Define and endothermic process.
+Define an exothermic process.
+Make conversions involving heat units.
+Heat flows from a warm object to a cold object

@@ -1,0 +1,20 @@
+The change in Gibbs free energy is equal to the change in enthalpy minus the mathematical product of the change in entropy multiplied by the Kelvin temperature.
+Each thermodynamic quantity in the equation is for substances in their standard states.
+The usual units for \Delta H is kJ/mol, while \Delta S is often reported in J/K • mol.
+It is necessary to change the units for \Delta S to kJ/K • mol, so that the calculation of \Delta G is in kJ/mol.
+A spontaneous reaction is one that releases free energy, and so the sign of \Delta G must be negative.
+Since both \Delta H and \Delta S can be either positive or negative, depending on the characteristics of the particular reaction, there are four different general outcomes for \Delta G and these are outlined in the Table below :
+Enthalpy, Entropy, and Free Energy Changes
+− value (exothermic)
++ value (disordering)
++ value (endothermic)
++ value (disordering)
+negative at higher temperatures
+− value (exothermic)
+− value (ordering)
+negative at lower temperatures
++ value (endothermic)
+− value (ordering)
+Keep in mind that the temperature in the Gibbs free energy equation is the Kelvin temperature and so can only be positive.
+When \Delta H is negative and \Delta S is positive, the sign of \Delta G will always be negative, and the reaction will be spontaneous at all temperatures.
+This corresponds to both driving forces being in favor of product formation.

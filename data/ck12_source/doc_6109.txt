@@ -1,0 +1,20 @@
+P =0.987 \ \text{atm}
+R =0.08206 \text{ L} \cdot \text{atm/K} \cdot \text{mol}
+n= ? \ \text{mol}
+\text{molar mass} = ? \ \text{g/mol}
+First the ideal gas law will be used to solve for the moles of unknown gas (n) .
+Then the mass of the gas divided by the moles will give the molar mass.
+Step 2:
+Solve .
+n=\frac{PV}{RT}=\frac{0.987 \ \text{atm} \times 0.677 \text{ L}}{0.08206 \text{ L} \cdot \text{atm/K} \cdot \text{mol} \times 296 \text{ K}}=0.0275 \ \text{mol}
+Now divide g by mol to get the molar mass.
+\text{molar mass}=\frac{1.211 \text{ g}}{0.0275 \ \text{mol}}=44.0 \ \text{g/mol}
+Since N has a molar mass of 14 g/mol and O has a molar mass of 16 g/mol, the formula N 2 O would produce the correct molar mass.
+Step 3:
+Think about your result
+The  R value that corresponds to a pressure in atm was chosen for this problem.
+The calculated molar mass gives a reasonable formula for dinitrogen monoxide.
+Calculating Density of a Gas
+The ideal gas law can be used to find the density of a gas at conditions that are not standard.
+For example, we will determine the density of ammonia gas (NH 3 ) at 0.913 atm and 20°C, assuming the ammonia is ideal.
+First, the molar mass of ammonia is calculated to be 17.04 g/mol.

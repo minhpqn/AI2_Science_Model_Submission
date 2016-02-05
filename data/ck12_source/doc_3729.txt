@@ -1,0 +1,20 @@
+Characteristics of the Genetic Code
+The genetic code has a number of important characteristics.
+The genetic code is universal.
+All known living organisms use the same genetic code.
+This shows that all organisms share a common evolutionary history.
+The genetic code is unambiguous.
+Each codon codes for just one amino acid (or start or stop).
+What might happen if codons encoded more than one amino acid?
+The genetic code is redundant.
+Most amino acids are encoded by more than one codon.
+In Figure above , how many codons code for the amino acid threonine?
+What might be an advantage of having more than one codon for the same amino acid?
+The genetic code consists of the sequence of bases in DNA or RNA.
+Groups of three bases form codons, and each codon stands for one amino acid (or start or stop).
+The codons are read in sequence following the start codon until a stop codon is reached.
+The genetic code is universal, unambiguous, and redundant.
+Click on the image above for more content
+Use this resource to answer the questions that follow.
+Genetic Code at
+What is the genetic code?

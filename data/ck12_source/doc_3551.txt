@@ -1,0 +1,20 @@
+Click on the image above for more content
+Click on the image above for more content
+The Electrochemical Gradient
+The active transport of ions across the membrane causes an electrical gradient to build up across the plasma membrane.
+The number of positively charged ions outside the cell is greater than the number of positively charged ions in the cytosol.
+This results in a relatively negative charge on the inside of the membrane, and a positive charge on the outside.
+This difference in charges causes a voltage across the membrane.
+Voltage is electrical potential energy that is caused by a separation of opposite charges, in this case across the membrane.
+The voltage across a membrane is called membrane potential .
+Membrane potential is very important for the conduction of electrical impulses along nerve cells.
+Because the inside of the cell is negative compared to outside the cell, the membrane potential favors the movement of positively charged ions (cations) into the cell, and the movement of negative ions (anions) out of the cell.
+So, there are two forces that drive the diffusion of ions across the plasma membrane—a chemical force (the ions' concentration gradient), and an electrical force (the effect of the membrane potential on the ions’ movement).
+These two forces working together are called an electrochemical gradient , and will be discussed in detail in "Nerve Cells" and "Nerve Impulses" concepts.
+Active transport is the energy-requiring process of pumping molecules and ions across membranes against a concentration gradient.
+The sodium-potassium pump is an active transport pump that exchanges sodium ions for potassium ions.
+Use this resource to answer the questions that follow.
+The Sodium–Potassium Pump at
+Are there more sodium ions on the outside of cells or the inside?
+Are there more potassium ions on the outside of cells or the inside?
+Describe the role of ATP in active transport.

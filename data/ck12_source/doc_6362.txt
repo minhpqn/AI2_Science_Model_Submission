@@ -1,0 +1,20 @@
+Nitroglycerin is tricky stuff.
+An active ingredient in dynamite (where it is stabilized), “raw” nitroglycerin is very unstable.
+Physical shock will cause the material to explode.
+The reaction is shown below:
+The explosion of nitroglycerin releases large volumes of gases and is very exothermic.
+Reactions are favorable when they result in a decrease in enthalpy and an increase in entropy of the system.
+When both of these conditions are met, the reaction occurs naturally.
+A spontaneous reaction is a reaction that favors the formation of products at the conditions under which the reaction is occurring.
+A roaring bonfire is an example of a spontaneous reaction, since it is exothermic (there is a decrease in the energy of the system as energy is released to the surroundings as heat).
+The products of a fire are composed partly of gases such as carbon dioxide and water vapor.
+The entropy of the system increases during a combustion reaction.
+The combination of energy decrease and entropy increase dictates that combustion reactions are spontaneous reactions.
+Combustion reactions are generally spontaneous reactions
+A nonspontaneous reaction is a reaction that does not favor the formation of products at the given set of conditions.
+In order for a reaction to be nonspontaneous, it must be endothermic, accompanied by a decrease in entropy, or both.
+Our atmosphere is composed primarily of a mixture of nitrogen and oxygen gases.
+One could write an equation showing these gases undergoing a chemical reaction to form nitrogen monoxide.
+Fortunately, this reaction is nonspontaneous at normal temperatures and pressures.
+It is a highly endothermic reaction with a slightly positive entropy change (\Delta \text{S}) .
+Nitrogen monoxide is capable of being produced at very high temperatures and has been observed to form as a result of lightning strikes.

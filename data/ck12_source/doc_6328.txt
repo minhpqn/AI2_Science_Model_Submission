@@ -1,0 +1,20 @@
+The decomposition of mercury(II) oxide can be shown by the following equation, followed by its equilibrium expression.
+2\text{HgO}(s) \rightleftarrows 2\text{Hg}(l)+\text{O}_2(g) \qquad \quad K_{eq}=[\text{O}_2]
+The stoichiometry of an equation can also be used in a calculation of an equilibrium constant.
+At 40°C, solid ammonium carbamate decomposes to ammonia and carbon dioxide gases.
+\text{NH}_4\text{CO}_2\text{NH}_2(s) \rightleftarrows 2\text{NH}_3(g)+\text{CO}_2(g)
+At equilibrium, the [CO 2 ] is found to be 4.71 × 10 -3 M.
+Can the K_{eq} value be calculated from just that information?
+Because the ammonium carbamate is a solid, it is not present in the equilibrium expression.
+The stoichiometry of the chemical equation indicates that as the ammonium carbamate decomposes, 2 mol of ammonia gas is produced for every 1 mol of carbon dioxide.
+Therefore, at equilibrium, the concentration of the ammonia will be twice the concentration of carbon dioxide.
+So [NH 3 ] = 2 × (4.71 × 10 -3 ) = 9.42 × 10 -3 M.
+Substituting these values into the  K_{eq} expression:
+K_{eq}=(9.42 \times 10^{-3})^2 (4.71 \times 10^{-3})=4.18 \times 10^{-7}
+Using Equilibrium Constants
+The equilibrium constants are known for a great many reactions.
+Hydrogen and bromine gases combine to form hydrogen bromide gas.
+At 730°C, the equation and  K_{eq} are given below.
+\text{H}_2(g)+\text{Br}_2(g) \rightleftarrows 2\text{HBr}(g) \qquad \ \ K_{eq}=2.18 \times 10^6
+A certain reaction is begun with only HBr.
+When the reaction mixture reaches equilibrium at 730°C, the concentration of bromine gas is measured to be 0.00243 M.

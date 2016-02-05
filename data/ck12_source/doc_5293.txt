@@ -1,0 +1,20 @@
+A person with a brown allele will have brown hair; a person with no brown alleles will be blond.
+This explains why two brown-haired parents can produce a blond-haired child.
+The other gene pair has a non-red vs. red set of alleles, where the non-red allele is dominant and the allele for red hair is recessive.
+A person with two copies of the red-haired allele will have red hair, but it will be either auburn or bright reddish orange depending on whether the first gene pair gives brown or blond hair, respectively.
+Red hair is due to an epistatic effect on the brown/blonde hair color locus.
+allele :
+An alternative form or different version of a gene.
+epistasis :
+When a gene at one location (locus) alters the phenotypic expression of a gene at another locus.
+epistatic :
+The gene whose phenotype is expressed during epistasis.
+gene pool :
+The complete set of unique alleles in a species or population.
+hypostatic :
+The phenotype altered or suppressed during epistasis; the gene that is not expressed.
+modifier genes :
+Genes that modify the effects of other genes during epistasis.
+pleiotropy :
+A single gene controlling or influencing multiple phenotypic traits.
+Traits controlled by more than two alleles have multiple alleles.

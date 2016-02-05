@@ -1,0 +1,20 @@
+Magnet and Compass (PhET Simulation)
+Sketch the magnetic field lines for the horseshoe magnet shown here.
+Then, show the direction in which the two compasses (shown as circles) should point considering their positions.
+In other words, draw an arrow in the compass that represents North in relation to the compass magnet.
+Find the magnetic field a distance of 20 cm from a wire that is carrying 3 A of electrical current.
+In order to measure the current from big power lines the worker simply clamps a device around the wire.
+This provides safety when dealing with such high currents.
+The worker simply measures the magnetic field and deduces the current using the laws of physics.
+Let's say a worker uses such a clamp and the device registers a magnetic field of 0.02 T.
+The clamp is 0.05 m from the wire.
+What is the electrical current in the wire?
+Answers to Selected Problems
+Both pointing away from north
+3 \times 10^{-6} \text{T}
+Describe the Lorentz force and how moving particles interact in a magnetic field.
+Solve various types of problems involving particles and magnetic fields using the Lorentz force and the right hand rule.
+Students will learn about the Lorentz force and how moving particles interact in a magnetic field.
+In addition, the right hand rule is covered.
+Students will also solve various types of problems involving particles and magnetic fields using the Lorentz force and the right hand rule.
+F_B = qvB\sin{\theta} && \text{Force on a Charged Particle}

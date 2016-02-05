@@ -1,0 +1,20 @@
+It is easiest to visualize the wavelength of a wave as the distance from one wave crest to the next.
+In an equation, wavelength is represented by the Greek letter lambda (\lambda) .
+Depending on the type of wave, wavelength can be measured in meters, centimeters, or nanometers (1 m = 10 9  nm).
+The frequency , represented by the Greek letter nu ( \nu ) , is the number of waves that pass a certain point in a specified amount of time.
+Typically, frequency is measured in units of cycles per second or waves per second.
+One wave per second is also called a Hertz (Hz) and in SI units is a reciprocal second (s -1 ).
+Figure B above shows an important relationship between the wavelength and frequency of a wave.
+The top wave clearly has a shorter wavelength than the second wave.
+However, if you picture yourself at a stationary point watching these waves pass by, more waves of the first kind would pass by in a given amount of time.
+Thus the frequency of the first waves is greater than that of the second waves.
+Wavelength and frequency are therefore inversely related.
+As the wavelength of a wave increases, its frequency decreases.
+The equation that relates the two is:
+\ c = \lambda \nu
+The variable  c is the speed of light.
+For the relationship to hold mathematically, if the speed of light is used in m/s, the wavelength must be in meters and the frequency in Hertz.
+Sample Problem:
+Wavelength and Frequency
+The color orange within the visible light spectrum has a wavelength of about 620 nm.
+What is the frequency of orange light?

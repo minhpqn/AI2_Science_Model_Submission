@@ -1,0 +1,20 @@
+Normal boiling point (°C)
+Molal boiling-point elevation constant, Kb (°C/ m )
+Sample Problem:
+Freezing Point of a Nonelectrolyte
+Ethylene glycol (C 2 H 6 O 2 ) is a molecular compound that is used in many commercial anti-freezes.
+A water solution of ethylene glycol is used in vehicle radiators to lower its freezing point and thus prevent the water in the radiator from freezing.
+Calculate the freezing point of a solution of 400. g of ethylene glycol in 500. g of water.
+Step 1:
+List the known quantities and plan the problem.
+mass C 2 H 6 O 2 = 400. g
+molar mass C 2 H 6 O 2 = 62.08 g/mol
+mass H 2 O = 500.0 g = 0.500 kg
+\text{mass H}_2\text{O}=500.0 \ \text{g}=0.500 \ \text{kg}
+T_f \ \text{of solution}=? \ ^\circ \text{C}
+This is a three-step problem.
+First, calculate the moles of ethylene glycol.
+Then, calculate the molality of the solution.
+Finally, calculate the freezing point depression.
+Step 2:
+Solve.

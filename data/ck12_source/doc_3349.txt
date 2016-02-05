@@ -1,0 +1,20 @@
+Earth has two north poles, geographic north and magnetic north
+Q:
+The north end of a compass needle points toward Earth’s north magnetic pole.
+The like poles of two magnets repel each other, and the opposite poles attract.
+So why doesn’t the north end of a compass needle point to Earth’s south magnetic pole instead?
+A:
+The answer may surprise you.
+The compass needle actually does point to the south pole of magnet Earth.
+However, it is called the north magnetic pole because it is close to the north geographic pole.
+This naming convention was adopted a long time ago to avoid confusion.
+Earth’s Magnetic Field
+Like all magnets, Earth has a magnetic field.
+Earth’s magnetic field is called the magnetosphere .
+You can see a model of the magnetosphere in the Figure below .
+It is a huge region that extends outward from Earth in all directions.
+Earth exerts magnetic force over the entire field, but the force is strongest at the poles, where lines of force converge.
+For an animated model of the magnetosphere, watch this video:  .
+Click on the image above for more content
+Earth acts as a giant magnet with magnetic poles and a magnetic field over which it exerts magnetic force.
+Earth has north and south magnetic poles like a bar magnet.

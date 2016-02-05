@@ -1,0 +1,20 @@
+In neo -pentane (see Figure below ), two carbon atoms branch off from the main chain.
+n-pentane is a straight chain isomer of pentane
+Isopentane is a branched isomer of pentane
+Neopentane is an isomer of pentane with four carbons attached to the center carbon
+How Many Isomers?
+Butane has only two isomers and pentane has just three, but some hydrocarbons have many more isomers than these.
+As you increase the number of carbon atoms in a hydrocarbon, the number of isomers quickly increases.
+For example, heptane, with seven carbon atoms, has nine isomers; and dodecane, with twelve carbon atoms, has 355 isomers.
+Some hydrocarbons with many more carbon atoms have billions of isomers!
+Q:
+Why does the number of carbon atoms in a hydrocarbon determine how many isomers it has?
+A:
+The more carbon atoms there are, the greater the number of possible arrangements of carbon atoms.
+Properties of Isomers
+Because isomers are different compounds, they have different properties.
+Generally, branched-chain isomers have lower boiling and melting points than straight-chain isomers.
+For example, the boiling and melting points of iso -butane are -12 °C and -160 °C, respectively, compared with 0 °C and -138 °C for n -butane.
+The more branching there is, the lower the boiling and melting points are.
+Q:
+The boiling point of n -pentane is 36 °C.

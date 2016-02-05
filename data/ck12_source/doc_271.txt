@@ -1,0 +1,20 @@
+A 6.00 kg ball, A , moving at velocity 3.00 m/s due east collides with a 6.00 kg ball, B , at rest.
+After the collision, A moves off at 40.0° N of E and ball  B moves off at 50.0° S of E.
+Vectors of two balls after a collision
+What is the momentum of  A after the collision?
+What is the momentum of  B after the collision?
+What are the velocities of the two balls after the collision?
+Solution: p_{\text{initial}} = mv = (6.00 \ \text{kg})(3.00 \ \text{m/s}) = 18.0 \ \text{kg m/s}
+This is a right triangle in which the initial momentum is the length of the hypotenuse and the two momenta after the collision are the legs of the triangle.
+p_A = (18.0 \ \text{kg m/s})(\cos 40.0^\circ) = (18.0 \ \text{kg m/s})(0.766) = 13.8 \ \text{kg m/s}
+p_B = (18.0 \ \text{kg m/s})(\cos 50.0^\circ) = (18.0 \ \text{kg m/s})(0.643) = 11.6 \ \text{kg m/s}
+v_A = 2.30 \ \text{m/s} \qquad v_B = 1.93 \ \text{m/s}
+The conservation of momentum law holds for all closed systems regardless of the directions of the objects before and after they collide.
+Momentum is a vector; collisions in two dimensions can be represented by axial vector components.
+This video shows circus performers using conservation of momentum.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+Why do the fliers scrunch up in the air while spinning and twisting?
+What happens to the rate at which they spin when they change shape in the air?
+Billiard ball A , mass 0.17 kg, moving due east with a velocity of 4.0 m/s, strikes stationary billiard ball B , also mass of 0.17 kg.  After the collision, ball  A moves off at an angle of 30° north of east with a velocity of 3.5 m/s, and  ball  B  moves off at an angle of 60 ° south of east .
+What is the speed of  ball  B

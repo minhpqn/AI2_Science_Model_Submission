@@ -1,0 +1,20 @@
+If the potential stays the same and the resistance decreases, what happens to the current?
+stay the same
+If the resistance stays the same and the potential increases, what happens to the current?
+stay the same
+How much current can be pushed through a 30.0 Ω resistor by a 12.0 V battery?
+What voltage is required to push 4.00 A of current through a 32.0 Ω resistor?
+If a 6.00 volt battery will produce 0.300 A of current in a circuit, what is the resistance in the circuit?
+resistance:
+Opposition of a circuit to the flow of electric current.
+Ohm’s Law:
+V = IR .
+Ohms:
+A resistance between two points of a conductor when a constant potential difference of 1 volt, applied to these points, produces in the conductor a current of 1 ampere.
+Energy Transfer in Electric Circuits
+Explain how devices convert electrical energy to other forms.
+Use  P = I^2R and  E = I^2Rt for calculations involves energy transfer in electrical circuits.
+Describe the reason for the use of high voltage lines for transmitting electrical energy.
+Define the kilowatt-hour.
+Electrical transmission substation
+Part of the electrical grid, an electrical transmission sub-station receives extremely high current levels, then passes the electrical energy on to as many as 200,000 homes.

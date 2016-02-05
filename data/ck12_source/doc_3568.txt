@@ -1,0 +1,20 @@
+That replacement process also requires light, working with an enzyme complex to split water molecules.
+In this process of photolysis (“splitting by light”), H 2 O molecules are broken into hydrogen ions, electrons, and oxygen atoms.
+The electrons replace those originally lost from chlorophyll.
+Hydrogen ions and the high-energy electrons from chlorophyll will carry on the energy transformation drama after the light reactions are over.
+The oxygen atoms, however, form oxygen gas, which is a waste product of photosynthesis.
+The oxygen given off supplies most of the oxygen in our atmosphere.
+Before photosynthesis evolved, Earth’s atmosphere lacked oxygen altogether, and this highly reactive gas was toxic to the many organisms living at the time.
+Something had to change!
+Most contemporary organisms rely on oxygen for efficient respiration.
+So plants don’t just “restore” the air, they also had a major role in creating it!
+To summarize, chloroplasts “capture” sunlight energy in two ways.
+Light ‘‘excites’’ electrons in pigment molecules, and light provides the energy to split water molecules, providing more electrons as well as hydrogen ions.
+Light Energy to Chemical Energy
+Excited electrons that have absorbed light energy are unstable.
+However, the highly organized electron carrier molecules embedded in chloroplast membranes order the flow of these electrons, directing them through electron transport chains (ETCs).
+At each transfer, small amounts of energy released by the electrons are captured and put to work or stored.
+Some is also lost as heat with each transfer, but overall the light reactions are extremely efficient at capturing light energy and transforming it into chemical energy.
+Two sequential transport chains harvest the energy of excited electrons, as shown in Figure below .
+(1) First, they pass down an ETC, which captures their energy and uses it to pump hydrogen ions by active transport into the thylakoids.
+These concentrated ions store potential energy by forming a chemiosmotic or electrochemical gradient – a higher concentration of both positive charge and hydrogen inside the thylakoid than outside. (The gradient formed by the H + ions is known as a chemiosmotic gradient .) Picture this energy buildup of H + as a dam holding back a waterfall.

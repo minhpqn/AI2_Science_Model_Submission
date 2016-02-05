@@ -1,0 +1,20 @@
+How far from the base of the building will the ball land?
+An arrow is fired downward at an angle of 45 degrees from the top of a 200 m cliff with a velocity of 60.0 m/s.
+How long will it take the arrow to hit the ground?
+How far from the base of the cliff will the arrow land?
+trajectory:
+The ballistic trajectory of a projectile is the path that a thrown or launched projectile will take under the action of gravity, neglecting all other forces, such as air resistance, without propulsion.
+Define centripetal acceleration.
+Understand the theory of the centripetal acceleration equation.
+Use the centripetal acceleration equation.
+Understand the angular relationship between velocity and centripetal acceleration.
+Use the equations for motion in two directions and Newton's Laws to analyze circular motion.
+Weather satellite orbiting Earth is an example of circular motion
+Weather satellites, like the one shown above, are found miles above the earth's surface.
+Satellites can be polar orbiting, meaning they cover the entire Earth asynchronously, or geostationary, in which they hover over the same spot on the equator.
+The earth is a sphere.
+If you draw a horizontal straight line from a point on the surface of the earth, the surface of the earth drops away from the line.
+The distance that the earth drops away from the horizontal line is very small – so small, in fact, that we cannot represent it well in a drawing.
+In the sketch below, if the blue line is 1600 m, the amount of drop (the red line) would be 0.20 m.
+If the sketch were drawn to scale, the red line would be too short to see.
+Drawing a horizontal line from the surface of the Earth shows a very small vertical drop

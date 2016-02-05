@@ -1,0 +1,20 @@
+A coefficient is a small whole number placed in front of a formula in an equation in order to balance it.
+The 2 in front of the H 2 means that there are a total of  2 \times 2 = 4 atoms of hydrogen as reactants.
+Visually, the reaction looks like the Figure below .
+Carbon and hydrogen react to form methane
+Reaction between carbon and hydrogen to form methane.
+In the balanced equation, there is one atom of carbon and four atoms of hydrogen on both sides of the arrow.
+Below are guidelines for writing and balancing chemical equations.
+Determine the correct chemical formulas for each reactant and product.
+Write the skeleton equation.
+Count the number of atoms of each element that appears as a reactant and as a product.
+If a polyatomic ion is unchanged on both sides of the equation, count it as a unit.
+Balance each element on at a time by placing coefficients in front of the formulas.
+No coefficient is written for a 1.
+It is best to begin by balancing elements that only appear in one formula on each side of the equation.
+NEVER change the subscripts in a chemical formula – you can only balance equations by using coefficients.
+Check each atom or polyatomic ion to be sure that they are equal on both sides of the equation.
+Make sure that all coefficients are in the lowest possible ratio.
+If necessary, reduce to the lowest ratio.
+Sample Problem:
+Balancing Chemical Equations

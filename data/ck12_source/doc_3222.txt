@@ -1,0 +1,20 @@
+Like other waves, electromagnetic waves transfer energy from one place to another.
+The transfer of energy by electromagnetic waves is called electromagnetic radiation .
+Electromagnetic waves can transfer energy through matter or across empty space.
+For an excellent video introduction to electromagnetic waves, go to this URL:
+Click on the image above for more content
+Q:
+How do microwaves transfer energy inside a microwave oven?
+A:
+They transfer energy through the air inside the oven to the food.
+May the Force Be with You
+A familiar example may help you understand the vibrating electric and magnetic fields that make up electromagnetic waves.
+Consider a bar magnet, like the one in the Figure below .
+The magnet exerts magnetic force over an area all around it.
+This area is called a magnetic field.
+The field lines in the diagram represent the direction and location of the magnetic force.
+Because of the field surrounding a magnet, it can exert force on objects without touching them.
+They just have to be within its magnetic field.
+Magnetic field of a bar magnet
+Q:
+How could you demonstrate that a magnet can exert force on objects without touching them?

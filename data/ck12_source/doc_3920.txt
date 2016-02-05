@@ -1,0 +1,20 @@
+Distinguish between dispersal and migration.
+What would old luggage have to do with population growth?
+Moving into an area, or immigration, is a key factor in the growth of populations.
+Shown above is actual vintage luggage left by some of the millions of immigrants who came through Ellis Island and into the United States.
+Populations gain individuals through births and immigration.
+They lose individuals through deaths and emigration.
+These factors together determine how fast a population grows.
+Population Growth Rate
+Population growth rate ( r ) is how fast a population changes in size over time.
+A positive growth rate means a population is increasing.
+A negative growth rate means it is decreasing.
+The two main factors affecting population growth are the birth rate ( b ) and death rate ( d ).
+Population growth may also be affected by people coming into the population from somewhere else ( immigration , i ) or leaving the population for another area ( emigration , e ).
+The formula for population growth takes all these factors into account.
+r = ( b + i ) - ( d + e )
+r = population growth rate
+b = birth rate
+i = immigration rate
+d = death rate
+e = emigration rate

@@ -1,0 +1,20 @@
+But, sulfuric acid is hazardous stuff, so the batteries are now sealed to protect people.
+Beacuse of the acid's dangerous nature, it is not a good idea to cut into a battery to see what it looks like – you could get acid burns.
+The Ion-Product of Water
+The self-ionization of water (the process in which water ionizes to hydronium ions and hydroxide ions) occurs to a very limited extent.
+When two molecules of water collide, there can be a transfer of a hydrogen ion from one molecule to the other.
+The products are a positively charged hydronium ion and a negatively charged hydroxide ion.
+\text{H}_2\text{O}(l)+\text{H}_2\text{O}(l) \rightleftarrows \text{H}_3\text{O}^+(aq)+\text{OH}^-(aq)
+We often use the simplified form of the reaction:
+\text{H}_2\text{O}(l) \rightleftarrows \text{H}^+(aq)+\text{OH}^-(aq)
+The equilibrium constant for the self-ionization of water is referred to as the ion-product for water and is given the symbol K_w .
+K_w = [ \text{H}^+ ][ \text{OH}^- ]
+The ion-product of water  (K_w) is the mathematical product of the concentration of hydrogen ions and hydroxide ions.
+Note that H 2 O is not included in the ion-product expression because it is a pure liquid.
+The value of  K_w is very small, in accordance with a reaction that favors the reactants.
+At 25°C, the experimentally determined value of  K_w in pure water is 1.0 × 10 -14 .
+K_w=[\text{H}^+][\text{OH}^-]=1.0 \times 10^{-14}
+In pure water, the concentrations of hydrogen and hydroxide ions are equal to one another.
+Pure water or any other aqueous solution in which this ratio holds is said to be neutral.
+To find the molarity of each ion, the square root of  K_w is taken.
+[\text{H}^+]=[\text{OH}^-]=1.0 \times 10^{-7} \ \text{M}

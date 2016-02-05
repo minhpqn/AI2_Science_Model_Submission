@@ -1,0 +1,20 @@
+Step 1:
+List the known quantities and plan the problem.
+wavelength  (\lambda) = 620 nm
+speed of light  (c) = 3.00 × 10 8 m/s
+conversion factor 1 m = 10 9 nm
+Convert the wavelength to m, then apply the equation c=\lambda\nu and solve for frequency.
+Dividing both sides of the equation by \lambda yields:
+Step 2:
+Calculate
+620 \ \text{nm} \times \left(\frac{1 \ \text{m}}{10^9 \ \text{nm}}\right) &=6.20 \times 10^{-7} \ \text{m}\\\nu = \frac{c}{\lambda}=\frac{3.0 \times 10^8 \ \text{m/s}}{6.20 \times 10^{-7} \ \text{m}} &=4.8 \times 10^{14} \ \text{Hz}
+Step 3:
+Think about your result.
+The value for the frequency falls within the range for visible light.
+All waves can be defined in terms of their frequency and intensity.
+c=\lambda\nu expresses the relationship between wavelength and frequency.
+Read the material on the link below and answer the questions as they come up:
+What is the relationship between wavelength and frequency?
+amplitude:
+The height of the wave, the distance between the crest and the trough
+crest:

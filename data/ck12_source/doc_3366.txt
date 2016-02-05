@@ -1,0 +1,20 @@
+Look back at the electromagnet hanging from the crane in the opening photo.
+It is useful to turn on its magnetic field so it can pick up the metal car parts.
+It is also useful to turn off its magnetic field so it can drop the parts into the train car.
+An electromagnet is a solenoid wrapped around a bar of iron or other ferromagnetic material.
+The magnetic field of the solenoid magnetizes the iron bar.
+The combined magnetic force of the magnetized wire coil and iron bar makes an electromagnet very strong.
+Electromagnets can be turned on or off and their strength can be changed by controlling the electric current.
+Experiment with the electromagnet simulation at the following URL.
+Then fill in the blanks in the sentences below.
+Increasing the number of loops in the wire coil __________ the strength of the magnetic field.
+Decreasing the voltage of the direct current __________ the strength of the magnetic field.
+Each time the alternating current changes direction, the magnetic field __________.
+When the amplitude of the alternating current is greater, the strength of the magnetic field is __________.
+The more quickly the alternating current changes direction, the more quickly the magnetic field __________.
+What is an electromagnet?
+How could you increase the strength of an electromagnet?
+Why are electromagnets the strongest of all magnets?
+How could the crane operator in the opening photo cause the electromagnet to drop the metal parts into the train car?
+Define electromagnet and identify electromagnetic devices.
+Explain how a doorbell works.

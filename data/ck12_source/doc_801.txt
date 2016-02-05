@@ -1,0 +1,20 @@
+Every species has a population.
+Or many populations.
+This group of penguins, which are all members of the same species and all living together in the same space, is a population.
+What is a Population
+A population is a group of organisms of the same species, all living in the same area and interacting with each other.
+Since they live together in one area, members of the same species reproduce together.
+Ecologists who study populations determine how healthy or stable the populations are.
+They also study how the individuals of a species interact with each other and how populations interact with the environment.
+If a group of similar organisms in the same area cannot reproduce with members of the other group, then they are members of two distinct species and form two populations.
+Ecologists look at many factors that help to describe a population.
+First, ecologists can measure the number of individuals that make up the population, known as population size .
+They can then determine the population density , which is the number of individuals of the same species in an area.
+Population density can be expressed as number per area , such as 20 mice/acre, or 50 rabbits/square mile.
+Ecologists also study how individuals in a population are spread across an environment.
+This spacing of individuals within a population is called dispersion .
+Some species may be clumped or clustered ( Figure below ) in an area.
+Others may be evenly spaced ( Figure below ).
+Still others may be spaced randomly within an area.
+The population density and dispersion have an effect on reproduction and population size.
+What do you think the relationship is between population density, dispersion and size?

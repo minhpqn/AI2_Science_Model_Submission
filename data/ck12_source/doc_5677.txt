@@ -1,0 +1,20 @@
+Why?
+We need to take into account the percent natural abundances of each isotope in order to calculate what is called the weighted average.
+The atomic mass of an element is the weighted average of the atomic masses of the naturally occurring isotopes of that element.
+The sample problem below demonstrates how to calculate the atomic mass of chlorine.
+Sample Problem:
+Calculating Atomic Mass
+Use the atomic masses of each of the two isotopes of chlorine along with their percent abundances to calculate the average atomic mass of chlorine.
+Step 1:
+List the known and unknown quantities and plan the problem.
+chlorine-35: atomic mass = 34.969 amu and % abundance = 75.77%
+chlorine-37: atomic mass = 36.966 amu and % abundance = 24.23%
+Average atomic mass of chlorine
+Change each percent abundance into decimal form by dividing by 100.
+Multiply this value by the atomic mass of that isotope.
+Add together for each isotope to get the average atomic mass.
+Step 2:
+Calculate
+& \text{chlorine-35} && 0.7577 \times 34.969=26.50 \ \text{amu}\\& \text{chlorine-37} && 0.2423 \times 36.966=8.957 \ \text{amu}\\& \text{average atomic mass} && 26.50 + 8.957=35.45 \ \text{amu}
+Note:
+Applying significant figure rules results in the 35.45 amu result without excessive rounding error.

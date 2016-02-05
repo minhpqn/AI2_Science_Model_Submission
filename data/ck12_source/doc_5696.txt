@@ -1,0 +1,20 @@
+Why do we see emission lines when electrons return to the ground state?
+atomic emission spectrum:
+The pattern of lines formed when light passes through a prism to separate it into the different frequencies of light it contains.
+continuous spectrum:
+All wavelengths of light are present.
+excited state:
+A state where the potential energy of the atom is higher than the ground state.
+ground state:
+The lowest energy state of the atom.
+Bohr's Atomic Model
+Climbing a ladder requires energy
+How does this worker's energy change as he climbs up and down the ladder?
+Climbing a ladder takes energy.
+At every step, you are pushing yourself up against gravity, and accumulating potential energy.
+Coming back down releases that potential energy as you descend step by step.
+If you are not careful, you can release that potential energy all at once when you fall off the ladder (never a good idea).
+In addition, you take the climb or descent in steps.
+There is no “in-between” position on the ladder – your foot either hits a rung or it hits empty space and you are in trouble until you find a rung to stand on.
+Bohr’s Atomic Model
+Following the discoveries of hydrogen emission spectra and the photoelectric effect, the Danish physicist Niels Bohr (1885 – 1962) proposed a new model of the atom in 1915.

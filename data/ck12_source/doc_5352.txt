@@ -1,0 +1,20 @@
+How Do Cells Make Proteins? at
+DNA to Protein at  .
+What is meant by “DNA → RNA → Protein?”
+What is a biopolymer?
+What are the three types of biopolymers?
+Make a table illustrating the nine potential types of transfers.
+Describe reverse transcription.
+Define RNA silencing.
+Transcription - Advanced
+Describe how transcription makes RNA from a DNA template.
+How does a cell use the information in its DNA?
+To transcribe means "to paraphrase or summarize in writing." The information in DNA is transcribed - or summarized - into a smaller version - RNA - that can be used by the cell.
+This process is called transcription.
+Only certain specific "segments" - genes - in the DNA are transcribed at any one time.
+Transcription is “DNA → RNA.” In other words, transcription is the transfer of the genetic instructions from DNA to RNA.
+During transcription, a complementary copy of RNA is made.
+Whereas in DNA replication both strands of the DNA double helix are used as templates, in transcription only one strand is needed.
+RNA polymerase enzymatically “reads” a template strand of DNA, known as the coding strand, to synthesize the complementary RNA strand.
+Transcription is usually divided into 3 stages, appropriately named initiation, elongation and termination.
+In eukaryotes, transcription can be additionally divided into 5 stages: preinitiation, initiation, promoter clearance, elongation and termination.

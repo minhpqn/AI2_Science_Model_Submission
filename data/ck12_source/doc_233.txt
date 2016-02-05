@@ -1,0 +1,20 @@
+Motion in Two Dimensions
+Projectile Motion for an Object Launched Horizontally
+State the relationship between the vertical and horizontal velocities of a projectile launched horizontally.
+Find the time for a horizontally launched projectile to strike the ground.
+Calculate the range of a horizontally launched projectile.
+Bike jumping, like other sports that involve vector motions in perpendicular directions, requires more physical practice than mathematical analysis
+The activity of bike jumping, like other sports that involve vector motions in perpendicular directions, requires more physical practice than mathematical analysis.  The laws of physics apply to the activity, however, whether the biker is aware of them or not.
+Projectile Motion for an Object Launched Horizontally
+Objects that are launched into the air are called projectiles .
+The path followed by a projectile in motion is called a trajectory .
+The image of the snowboarder in the chapter introduction showed his trajectory; every object has a trajectory even when we cannot see it.
+Projectile motion , or the object's trajectory, is described in terms of position, velocity, and acceleration.
+Even with only an object's current location, velocity, and acceleration, we can calculate when and where the object will land.
+Our knowledge that perpendicular components of vectors do not affect each other allow us to easily analyze the motion of projectiles.
+Diagram of two balls (one red and one blue) dropped at the same time, with a photograph taken every second so there are 5 images of the two balls
+In the diagram, two balls (one red and one blue) are dropped at the same time.  The red ball is released with no horizontal motion and the blue ball is dropped but also given a horizontal velocity of 10 m/s.
+As the balls fall to the floor, a photograph is taken every second so that in 5 seconds, we have 5 images of the two balls.  Each vertical line on the diagram represents 5 m.
+Since the blue ball has a horizontal velocity of 10 m/s, you will see that for every second, the blue ball has moved horizontally 10 m.  That is, in each second, the blue ball has increased its horizontal distance by 10 m.
+This horizontal motion is due to the ball's constant velocity.
+The red ball was dropped straight down with no horizontal velocity and therefore, in each succeeding second, the red ball falls straight down with no horizontal motion.

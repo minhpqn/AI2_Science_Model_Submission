@@ -1,0 +1,20 @@
+The ground state is n=1 , the first excited state is n=2 , and so on.
+The energy that is gained by the atom is equal to the difference in energy between the two energy levels.
+When the atom relaxes back to a lower energy state, it releases energy that is again equal to the difference in energy of the two orbits (see Figure below ).
+Bohr's atomic model hydrogen emission spectra
+Bohr model of the atom: electron is shown transitioning from the n = 3 energy level to the n = 2 energy level.
+The photon of light that is emitted has a frequency that corresponds to the difference in energy between the two levels.
+The change in energy, \Delta E , then translates to light of a particular frequency being emitted according to the equation E=hv .
+Recall that the atomic emission spectrum of hydrogen had spectral lines consisting of four different frequencies.
+This is explained in the Bohr model by the realization that the electron orbits are not equally spaced.
+As the energy increases further and further from the nucleus, the spacing between the levels gets smaller and smaller.
+Based on the wavelengths of the spectral lines, Bohr was able to calculate the energies that the hydrogen electron would have in each of its allowed energy levels.
+He then mathematically showed which energy level transitions corresponded to the spectral lines in the atomic emission spectrum ( Figure below ).
+Electron energy diagrams for the hydrogen atom
+The electron energy level diagram for the hydrogen atom.
+He found that the four visible spectral lines corresponded to transitions from higher energy levels down to the second energy level (n=2) .
+This is called the Balmer series.
+Transitions ending in the ground state  (n =1) are called the Lyman series, but the energies released are so large that the spectral lines are all in the ultraviolet region of the spectrum.
+The transitions called the Paschen series and the Brackett series both result in spectral lines in the infrared region because the energies are too small.
+Bohr’s model was a tremendous success in explaining the spectrum of the hydrogen atom.
+Unfortunately, when the mathematics of the model was applied to atoms with more than one electron, it was not able to correctly predict the frequencies of the spectral lines.

@@ -1,0 +1,20 @@
+Weight of water displaced =9800 x \ \text{N}
+x = 0.600 \ \text{m}
+The cube will sink such that 0.60 m are underwater and 0.40 m are above water.
+Sink or Swim
+MIT students explain buoyancy in the video ''Sink or Swim,'' at
+If an object is submerged in a liquid, the object will displace a volume of the liquid equal to the volume of the submerged object.
+The forces exerted by the fluid on the sides of the submerged object are balanced, but the forces exerted by the fluid on the top and bottom of the object are not equal.
+The liquid exerts a net upward force on the submerged or floating object, called buoancy.
+The magnitude of buoancy is equal to the weight of the displaced water.
+Archimedes' Principle states that the buoyant force is equal to the weight of the displaced liquid.
+The following video is on buoyancy.
+Use this resource to answer the two questions that follow.
+Click on the image above for more content
+Why were they unable to use the overturned boat as a submarine?
+Why does the bubble in the tube shrink as it is taken lower in the pool?
+Additional Practice Questions:
+If a ship has a mass of 200,000,000 kg, how much water would it need to displace in order to float?
+A 40.0 kg cylinder that is 1.2 m tall and has a 0.20 m diameter falls off the pier and gets completely submerged when it hits the water.  What is the buoyant force on the cylinder when it is under water?  Will it sink or float?   The formula for finding the volume of a cylinder is \pi r^2h .
+The formula for the volume of a sphere is 4 \pi r^3 .  A 1.7 × 10 -6 kg air bubble has a diameter of 1.00 cm and is submerged in water.  What is the buoyant force on the bubble?
+A cylinder with a radius of 11 cm and a height of 3.4 cm has a mass of 10.0 kg.

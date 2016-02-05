@@ -1,0 +1,20 @@
+A proton has a positive charge of  1.6 \times 10^{-19} \ C and a mass of 1.673 \times 10^{-27} \ kg .
+The neutron is electrically neutral and has a mass of 1.675 \times 10^{-27} \ kg .
+These two constituents of a nucleus are referred to collectively as nucleons.
+Although the hydrogen nucleus consists of a single proton, the nuclei of all other elements contain both neutrons and protons.
+The different types of nuclei are referred to as nuclides .
+The number of protons in a nucleus is called the atomic number and is designated by the symbol Z .
+The total number of nucleons, neutrons and protons, is designated by the symbol  A and is called the mass number .
+A nuclide with 7 protons and 8 neutrons thus has  Z = 7 and A = 15 .
+The number of neutrons, N , is N = A- Z .
+To specify a given nuclide, we need give only  A and Z .
+These can be shown in a complete nuclear symbol which takes the form
+where  X is the chemical symbol for the element,  A is the mass number, and  Z is the atomic number.
+For example, a nitrogen nucleus containing 7 protons and 8 neutrons would be ^{15}_7 N .
+Since all nitrogen atoms have 7 protons in their nucleus, sometimes the 7 is omitted and the symbol is written simply as ^{15} N .
+This same nuclide is also sometimes written as nitrogen-15.
+The identity of an atom is determined by the number of protons in the nucleus.
+All hydrogen atoms must have exactly 1 proton in the nucleus.
+The number of neutrons in the nuclei of atoms of a particular element, however, may vary.
+For example, a hydrogen atom will always have 1 proton, but may have zero, one, or two neutrons in the nucleus - as long as it has 1 proton, it is a hydrogen atom.
+Nuclei that have the same number of protons in the nucleus but a different number of neutrons are called isotopes .

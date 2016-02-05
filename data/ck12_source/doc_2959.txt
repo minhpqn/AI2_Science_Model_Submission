@@ -1,0 +1,20 @@
+What is speed?
+If you walk 3 kilometers in 30 minutes, what is your average speed in kilometers per hour?
+Compare and contrast instantaneous and average speed.
+What distance will a truck travel in 3 hours at an average speed of 50 miles per hour?
+Describe how to draw a position-time graph.
+Explain how a position-time graph shows the velocity of a moving object.
+Show how to calculate the average velocity of a moving object from a position-time graph of its motion.
+Drawing line graphs can help you understand motion.
+In this article, you’ll learn how to draw position-time graphs and how they show velocity.
+Q:
+What’s missing from the graph being drawn in the picture above?
+A:
+The x- and y-axes are missing.
+Graphing Position and Time
+The motion of an object can be represented by a position-time graph like Graph 1 in the Figure below .
+In this type of graph, the y-axis represents position relative to the starting point, and the x-axis represents time.
+A position-time graph shows how far an object has traveled from its starting position at any given time since it started moving.
+Position time graph for an object
+Q:
+In the Figure above , what distance has the object traveled from the starting point by the time 5 seconds have elapsed?

@@ -1,0 +1,20 @@
+When gas particles collide with objects it produces gas pressure.
+Define atmospheric pressure.
+Describe how atmospheric pressure changes with elevation above sea level.
+Describe the use of a barometer.
+A large difference in pressure between two areas is an important criterion for generating storm reports
+What do storm reports inform people of?
+The pressure in the atmosphere is an important factor in determining what the weather will be like.
+If the barometric pressure is high in an area, this will cause air to move to a region of lower pressure.
+The greater the difference in pressure between the two areas, the stronger the winds will develop.
+Under certain conditions, the winds can produce a tornado (a violent rotating column of air that reaches from a thunderstorm down to the ground).
+Atmospheric pressure is the pressure exerted by gas particles in Earth’s atmosphere as those particles collide with objects.
+A barometer is an instrument used to measure atmospheric pressure.
+A traditional mercury barometer consists of an evacuated tube immersed in a container of mercury.
+Air molecules push down on the surface of the mercury.
+Because the inside of the tube is a vacuum, the mercury rises inside the tube.
+The height to which the mercury rises is dependent on the external air pressure.
+A barometer measures the pressure of the surrounding atmosphere
+(A) A barometer measures atmospheric pressure as the height of a column of mercury. (B) A modern aneroid barometer in the form of a dial is used by meteorologists to help them predict upcoming weather.
+A more convenient barometer, called an aneroid barometer , measures pressure by the expansion and contraction of a small spring within an evacuated metal capsule.
+Atmospheric Pressure and Altitude

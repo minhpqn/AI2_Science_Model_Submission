@@ -1,0 +1,20 @@
+angiosperm :
+Seed plant in which seeds develop within a vessel, which may later become the fruit.
+anther :
+The male reproductive structure of a flower; site of meiosis and pollen development.
+artificial fertilization :
+The process of transferring pollen from the male part of the flower to the female part of another flower; done in order to have seeds that will grow into plants that have a desired trait.
+characteristic :
+A heritable feature, such as flower color.
+cross-pollination :
+Fertilization in which pollen from one flower pollinates a flower on a different plant.
+heritable factors :
+The unit which is passed from parent to offspring; know known as the gene.
+pollen :
+Plant reproductive structure which protects male sex cells during pollination.
+pollination :
+Fertilization in plants; process in which pollen is transferred to female gametes in an ovary.
+self-pollination :
+Fertilization in which the pollen from a flower on a single plant transfers to the stigma of the same flower or another flower on the same plant.
+stigma :
+Part of the female reproductive structures of a flower; top section of a pistil, often "sticky" to catch pollen; a photosensitive structure that orients the movement of the cell towards light; known as an eyespot.

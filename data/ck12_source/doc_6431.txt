@@ -1,0 +1,20 @@
+The hydroxide ion that is produced as a result of the above reaction makes the solution slightly basic.
+Salt hydrolysis is a reaction in which one of the ions from a salt reacts with water, forming either an acidic or basic solution.
+Salts That Form Basic Solutions
+When solid sodium fluoride is dissolved into water, it completely dissociates into sodium ions and fluoride ions.
+The sodium ions do not have any capability of hydrolyzing, but the fluoride ions hydrolyze to produce a small amount of hydrofluoric acid and hydroxide ion.
+\text{F}^-(aq)+\text{H}_2\text{O}(l) \rightleftarrows \text{HF}(aq)+\text{OH}^-(aq)
+Salts that are derived from the neutralization of a weak acid (HF) by a strong base (NaOH) will always produce salt solutions that are basic.
+Salts That Form Acidic Solutions
+Ammonium chloride (NH 4 Cl) is a salt that is formed when the strong acid HCl is neutralized by the weak base NH 3 .
+Ammonium chloride is soluble in water.
+The chloride ion produced is incapable of hydrolyzing because it is the conjugate base of the strong acid HCl.
+In other words, the Cl − ion cannot accept a proton from water to form HCl and OH − , as the fluoride ion did in the previous section.
+However, the ammonium ion is capable of reacting slightly with water, donating a proton and so acting as an acid.
+\text{NH}^+_4(aq)+\text{H}_2\text{O}(l) \rightleftarrows \text{H}_3\text{O}^+(aq)+\text{NH}_3(aq)
+Salts That Form Neutral Solutions
+A salt that is derived from the reaction of a strong acid with a strong base forms a solution that has a pH of 7.
+An example is sodium chloride, formed from the neutralization of HCl by NaOH.
+A solution of NaCl in water has no acidic or basic properties, since neither ion is capable of hydrolyzing.
+Other salts that form neutral solutions include potassium nitrate (KNO 3 ) and lithium bromide (LiBr).
+The T able below summarizes how to determine the acidity or basicity of a salt solution.

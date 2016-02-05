@@ -1,0 +1,20 @@
+This ensures that each new cell has a set of genetic material identical to that of the parental cell.
+This process is called DNA replication .
+The second growth phase (G2):
+Proteins are synthesized that will help the cell divide.
+At the end of interphase, the cell is ready to enter mitosis.
+Diagram of the cell cycle
+Shown is the cell cycle.
+Notice that most of the cell cycle is spent in Interphase (G1, S, and G2).
+Mitosis and cytokinesis occur during the Mitotic phase.
+Some cells may enter a resting phase during which progression through the cycle stops.
+During mitosis , the nucleus divides as the chromosomes are equally separated.
+One nucleus becomes two nuclei, each with an identical set of chromosomes .
+Mitosis is followed by cytokinesis , when the cytoplasm divides, resulting in two cells.
+After cytokinesis, cell division is complete.
+The one parent cell (the dividing cell) forms two genetically identical daughter cells (the cells that divide from the parent cell).
+The term "genetically identical" means that each cell has an identical set of DNA, and this DNA is also identical to that of the parent cell.
+If the cell cycle is not carefully controlled, it can cause a disease called cancer in which the cells divide out of control.
+A tumor can result from this kind of growth.
+The cell cycle describes the "life" of a cell.
+Interphase, the stage of the cell cycle when the cell, preparing to divide, is divided into the G1, S, and G2 stages.

@@ -1,0 +1,20 @@
+A :
+The machine must apply the force over a shorter distance.
+That’s because a machine doesn’t change the amount of work and work equals force times distance.
+Therefore, if force increases, distance must decrease.
+For the same reason, if a machine increases the distance over which the force is applied, it must apply less force.
+Examples of machines that increase force are steering wheels and pliers (see Figure below ).
+Read below to find out how both of these machines work.
+In each case, the machine applies more force than the user applies to the machine, but the machine applies the force over a shorter distance.
+Examples of force increasing machine
+Examples of machines that increase the distance over which force is applied are leaf rakes and hammers (see Figure below ).
+Read below to find out how these two machines work.
+In each case, the machine increases the distance over which the force is applied, but it reduces the strength of the force.
+Examples of distance increasing machines
+Changing the Direction of Force
+Some machines change the direction of the force applied by the user.
+They may or may not also change the strength of the force or the distance over which the force is applied.
+Two examples of machines that work this way are the claw ends of hammers and flagpole pulleys.
+You can see in the Figure below how each of these machines works.
+In both cases, the direction of the force applied by the user is reversed by the machine.
+Examples of direction changing machines

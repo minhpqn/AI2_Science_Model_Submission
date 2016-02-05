@@ -1,0 +1,20 @@
+Another example of a human polygenic trait is adult height.
+If human height followed simple Mendelian genetics, than people would either be tall or short, with both phenotypes probably falling into a very narrow range.
+But like skin color, humans height fall into essentially a phenotypic spectrum.
+Within the human population, every conceivable height between less than 5 feet and over 7 feet probably exists.
+This range can not be controlled by just one gene with two alleles.
+In fact, several genes, each with more than one allele, contribute to human height, resulting in many possible adult heights.
+For example, one adult’s height might be 1.655 m (5.430 feet), and another adult’s height might be 1.656 m (5.433 feet) tall.
+Adult height ranges from less than 5 feet to more than 6 feet, but the majority of people fall near the middle of the range, as shown in Figure below .
+Human Adult Height.
+Like many other polygenic traits, adult height has a bell-shaped distribution.
+Many disorders with genetic components are polygenic, including autism, certain cancers, diabetes and numerous others.
+Most phenotypic characteristics are the result of the interaction of multiple genes.
+The environment plays a significant role in many of these phenotypes.
+But what happens when multiple genes are either missing or duplicated?
+Changes in Chromosome Number
+So far we have focused on traits due to one gene or several genes.
+But what about many genes? 100s or 1000s of genes?
+What would happen if an entire chromosome were missing or duplicated?
+What if a human had only 45 chromosomes?
+Or 47?

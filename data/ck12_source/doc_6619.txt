@@ -1,0 +1,20 @@
+The Human Genome Project started in 1990 with the lofty goal of sequencing the complete set of human DNA.
+This project was completed in April 2003, ahead of schedule and under the budget set for it (a rare occurrence for a government project).
+With this knowledge, we can now identify genetic disorders quickly and personalize treatment for many diseases.
+However, much work still remains to fully understand the connections between specific DNA sequences and specific diseases.
+The Genetic Code
+Each particular organism contains many protein molecules that are specific to that organism.
+The particular base sequence of DNA is responsible for the production of all of the different proteins that are present in each and every living thing that has ever inhabited the Earth.
+How does that work?
+Cells use the unique sequence of DNA bases to decide which proteins to synthesize.
+A gene is a segment of DNA that carries a code for making a specific polypeptide chain.
+The cell essentially decodes the DNA in order to make whatever peptides and proteins are needed by that organism.
+The genetic code works as a series of three-letter codes.
+Each sequence of three letters, called a triplet, corresponds to one of the twenty common amino acids.
+The triplets are read by the cell, one after the other, in the process of protein synthesis.
+The Table below shows all of the possible triplets and the amino acids that result from each three-letter code.
+Click on the image above to view the table
+The DNA code word GCA corresponds to the amino acid arginine, while the DNA code word TCG corresponds to the amino acid serine.
+Most amino acids are represented by more than one possible triplet code, but each triplet code yields only one particular amino acid.
+Three of the DNA code words (TAA, TAG, and TGA) are stop or termination code words.
+The translation of a DNA base sequence begins with a start code word and runs until a stop code word is reached.

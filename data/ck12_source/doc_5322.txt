@@ -1,0 +1,20 @@
+They also asked what was the radioactivity in the bacterial pellet: 32 P or 35 S.
+Only the radioactively labeled DNA was found inside the bacteria, whereas the radioactive proteins stayed in the solution ( Figure below ).
+These experiments demonstrated that DNA is the genetic material and that protein does not transmit genetic information.
+The Hershey and Chase experiment.
+T2 virus with either radioactive protein (upper section) or radioactive DNA (lower section) were used to infect bacteria.
+A blender was used to remove the phage from the bacteria followed by centrifugation.
+The radioactive DNA was found inside the bacteria (lower section), demonstrating that DNA is the genetic material.
+See Bacteria and viruses have DNA too at for a description of the work of Joshua Lederberg.
+bacteriophage :
+A virus that infects and replicates within bacteria; also known as phage.
+deoxyribonuclease :
+A type of nuclease that catalyzes the degradation of DNA;
+DNase.
+lytic cycle :
+Cycle of viral reproduction in which the virus kills the host, releasing newly formed virions.
+protease :
+An enzyme that conducts proteolysis or hydrolysis of the peptide bonds between amino acids in a polypeptide chain; includes trypsin and chymotrypsin.
+ribonuclease :
+A type of nuclease that catalyzes the degradation of RNA;
+RNase.

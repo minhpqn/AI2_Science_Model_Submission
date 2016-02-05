@@ -1,0 +1,20 @@
+These “rules” help meteorologists forecast the weather.
+For example, low pressure is likely to bring stormy weather.
+So if a center of low pressure is moving your way, you can expect a storm.
+People often complain when the weather forecast is wrong.
+Weather forecasts today, however, are much more accurate than they were just 20 years ago.
+Scientists who study and forecast the weather are called meteorologists.
+How do they predict the weather?
+The first thing they need is data.
+Their data comes from various instruments.
+Weather instruments measure weather conditions.
+One of the most important conditions is air pressure, which is measured with a barometer ( Figure below ).
+There are also a number of other commonly used weather instruments ( Figure below ):
+A thermometer measures temperature.
+An anemometer measures wind speed.
+A rain gauge measures the amount of rain.
+A hygrometer measures humidity.
+A wind vane shows wind direction.
+A snow gauge measures the amount of snow.
+Diagram of a barometer
+The greater the air pressure outside the tube, the higher the mercury rises inside the tube.

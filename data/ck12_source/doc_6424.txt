@@ -1,0 +1,20 @@
+\text{moles solute} = M \times L
+We can then set the moles of acid equal to the moles of base.
+M_A \times V_A=M_B \times V_B
+M_A  is the molarity of the acid, while  M_B is the molarity of the base.  V_A and  V_B are the volumes of the acid and base, respectively.
+Suppose that a titration is performed and 20.70 mL of 0.500 M NaOH is required to reach the end point when titrated against 15.00 mL of HCl of unknown concentration.
+The above equation can be used to solve for the molarity of the acid.
+M_A=\frac{M_B \times V_B}{V_A}=\frac{0.500 \ \text{M} \times 20.70 \ \text{mL}}{15.00 \ \text{mL}}=0.690 \ \text{M}
+The higher molarity of the acid compared to the base in this case means that a smaller volume of the acid is required to reach the equivalence point.
+The above equation works only for neutralizations in which there is a 1:1 ratio between the acid and the base.
+The sample problem below demonstrates the technique to solve a titration problem for a titration of sulfuric acid with sodium hydroxide.
+Sample Problem:
+Titration
+In a titration of sulfuric acid against sodium hydroxide, 32.20 mL of 0.250 M NaOH is required to neutralize 26.60 mL of H 2 SO 4 .
+Calculate the molarity of the sulfuric acid.
+Step 1:
+List the known values and plan the problem.
+molarity NaOH = 0.250 M
+volume NaOH = 32.20 mL
+volume H 2 SO 4 = 26.60 mL
+molarity H 2 SO 4 = ?

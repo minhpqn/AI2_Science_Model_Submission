@@ -1,0 +1,20 @@
+The feeding positions in a food chain or web are called trophic levels .
+The different trophic levels are defined in the Table below .
+Examples are also given in the table.
+All food chains and webs have at least two or three trophic levels.
+Generally, there are a maximum of four trophic levels.
+Where It Gets Food
+1st Trophic Level:
+Producer
+Makes its own food
+Plants make food
+2nd Trophic Level:
+Primary Consumer
+Mice eat plant seeds
+3rd Trophic Level:
+Secondary Consumer
+Consumes primary consumers
+Snakes eat mice
+4th Trophic Level:
+Tertiary Consumer
+Consumes secondary consumers

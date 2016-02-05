@@ -1,0 +1,20 @@
+Q:
+The volume of the blue rectangular solid above is 150 cm 3 .
+If it has a mass of 300 g, what is its density?
+A:
+The density of the rectangular solid is:
+\text{Density} = \dfrac{300 \ \text{g}}{150 \ \text{cm}^3}= 2 \ \text{g/cm}^3
+Q:
+Suppose you have two boxes that are the same size but one box is full of feathers and the other box is full of books.
+Which box has greater density?
+A:
+Both boxes have the same volume because they are the same size.
+However, the books have greater mass than the feathers.
+Therefore, the box of books has greater density.
+Units of Derived Quantities
+A given derived quantity, such as area, is always expressed in the same type of units.
+For example, area is always expressed in squared units, such as cm 2 or m 2 .
+If you calculate area and your answer isn’t in squared units, then you have made an error.
+Q:
+What units are used to express volume?
+A:

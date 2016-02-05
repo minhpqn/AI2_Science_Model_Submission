@@ -1,0 +1,20 @@
+If you want the power dissipated (i.e. released) by a light bulb, then you multiply the voltage drop across the light bulb by the current going through that light bulb.
+Power is the rate that energy is released.
+The units for power are Watts (W) , which equal Joules per second [W] = [J]/[s] .
+Therefore, a 60\;\mathrm{W} light bulb releases 60 Joules of energy every second.
+Click on the image above for more content
+A small flash light uses a single AA battery which provides a voltage of 1.5 V.
+If the bulb has a resistance of 2\;\Omega , how much power is dissipated by the light bulb.
+Since the light bulb is the only object in the circuit, we know the voltage drop across the light bulb is equal to that of the battery.
+Therefore, we can use Ohm's law to solve for the current in the resistor.
+Now we can determine the power of the bulb.
+Watch this Explanation
+Click on the image above for more content
+Ohm's Law (PhET Simulation)
+A light bulb with resistance of 80\ \Omega is connected to a 9\;\mathrm{V} battery.
+What is the electric current going through it?
+What is the power (i.e. wattage) dissipated in this light bulb with the 9\;\mathrm{V} battery?
+How many electrons leave the battery every hour?
+How many Joules of energy leave the battery every hour?
+A bird is standing on an electric transmission line carrying 3000\;\mathrm{A} of current.
+A wire like this has about 3.0 \times 10^{-5}\ \Omega of resistance per meter.

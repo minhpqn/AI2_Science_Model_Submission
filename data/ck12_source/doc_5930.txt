@@ -1,0 +1,20 @@
+Promotion of 2s electron.
+This is followed by hybridization of the three occupied orbitals to form a set of three sp 2 hybrids, leaving the 2p z orbital unhybridized (see  Figure below ).
+Boron hybrid sp2 orbitals
+Formation of sp 2 orbital.
+The geometry of the sp 2 hybrid orbitals is trigonal planar, with the lobes of the orbitals pointing towards the corners of a triangle (see Figure below ).  The angle between any two of the hybrid orbital lobes is 120°.  Each can bond with a 2 p orbital from a fluorine atom to form the trigonal planar BF 3 molecule.
+Image of how s and p orbitals combine to form sp2 orbitals
+The process of sp 2 hybridization is the mixing of an s orbital with a set of two p orbitals (p x and p y ) to form a set of three sp 2 hybrid orbitals.
+Each large lobe of the hybrid orbitals points to one corner of a planar triangle.
+Other molecules with a trigonal planar electron domain geometry form sp 2 hybrid orbitals.  Ozone (O 3 ) is an example of a molecule whose electron domain geometry is trigonal planar, though the presence of a lone pair on the central oxygen makes the molecular geometry bent.
+The hybridization of the central O atom of ozone is sp 2 .
+Paired electrons can be hybridized and then participate in covalent bonding.
+Use the link below to answer the following questions.  Only read the boron section.
+How many unpaired electrons are in the ground state of boron?
+Where does the boron get three unpaired electrons for bonding to form BCl 3 ?
+What is the geometry of the BCl 3 ?
+Does the ground state beryllium atom contain any unpaired electrons?
+Why does one 2s electron in Be get promoted to a 2p orbital?
+What is the geometry of the two sp orbitals?
+Sigma and Pi Bonds
+Define sigma and pi bonds.

@@ -1,0 +1,20 @@
+Click on the image above for more content
+Some old doors have the door knob in the center of the door like in the picture below.
+If you had a door of mass 20 kg and 1.5 m wide, what would be the angular acceleration if you pushed at the center of the door with a force of 50 N?
+What would the angular acceleration be if you pushed at the far end of the door with the same force?
+Where should you push the door if you want to open it the fastest?
+To solve this problem, we will plug in the known values into Newton's second law for rotation and solve for \alpha .
+When calculating the moment of inertia of the door, we'll consider it a rod being rotated about one end.
+We'll first calculate the angular acceleration when pushing from the center of the door.
+Now we'll calculate the angular acceleration when pushing from the end of the door.
+Clearly, it is much faster and easier to open doors when pushing from the point farthest from the hinge.
+Watch this Explanation
+Click on the image above for more content
+In the figure we have a horizontal beam of length, L , pivoted on one end and supporting 2000 \;\mathrm{N} on the other.
+Find the tension in the supporting cable, which is at the same point at the weight and is at an angle of 30 degrees to the vertical.
+Ignore the weight of the beam.
+Two painters are on the fourth floor of a Victorian house on a scaffold, which weighs 400 \;\mathrm{N} .
+The scaffold is 3.00 \;\mathrm{m} long, supported by two ropes, each located 0.20 \;\mathrm{m} from the end of the scaffold.
+The first painter of mass 75\;\mathrm{kg} is standing at the center; the second of mass, 65.0 \;\mathrm{kg} , is standing 1.00 \;\mathrm{m} from one end.
+Draw a free body diagram, showing all forces and all torques. (Pick one of the ropes as a pivot point.)
+Calculate the tension in the two ropes.

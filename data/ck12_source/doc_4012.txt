@@ -1,0 +1,20 @@
+What allowed scientists to see a virus for the first time?
+Explain how viruses replicate.
+Distinguish between replication of a DNA virus and RNA virus.
+Define reverse transcriptase.
+Notice the viruses sitting on the bacteria?
+Why is the virus sitting here?
+Remember, viruses are not living.
+So how do they replicate?
+Replication of Viruses
+Populations of viruses do not grow through cell division because they are not cells.
+Instead, they use the machinery and metabolism of a host cell to produce new copies of themselves.
+After infecting a host cell, a virion uses the cell’s ribosomes, enzymes, ATP, and other components to replicate.
+Viruses vary in how they do this.
+For example:
+Some RNA viruses are translated directly into viral proteins in ribosomes of the host cell.
+The host ribosomes treat the viral RNA as though it were the host’s own mRNA.
+Some DNA viruses are first transcribed in the host cell into viral mRNA.
+Then the viral mRNA is translated by host cell ribosomes into viral proteins.
+In either case, the newly made viral proteins assemble to form new virions.
+The virions may then direct the production of an enzyme that breaks down the host cell wall.

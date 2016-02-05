@@ -1,0 +1,20 @@
+Answer:
+Use Ohm’s Law (V=IR) but solve for current (I=V/R) .
+I_{total}=\frac{V_{total}}{R_{total}}=20V/2.91\Omega=0.69\ Amps
+Question:
+What is the power dissipated by the power supply?
+Answer:
+P=IV , so the total power equals the total voltage multiplied by the total current.
+Thus, P_{total}=I_{total}V_{total}=(0.69A)(20V)=13.8W .
+Question:
+How much power is the 20\Omega resistor dissipating?
+Answer:
+The 20\Omega has the full 0.69Amps running through it because it is part of the ‘main river’ (this is not the case for the other resistors because the current splits).
+P_{20 \Omega} = I^2_{20 \Omega} R_{20 \Omega} = (0.69A)^2 (20 \Omega) = 9.5W
+Question:
+If these resistors are light bulbs, order them from brightest to least bright.
+Answer:
+The brightness of a light bulb is directly given by the power dissipated.
+So we could go through each resistor as we did the 20\Omega guy and calculate the power then simply order them.
+But, we can also think it out.
+For the guys in parallel the current splits with most of the current going through the 10\Omega path (less resistance) and less going through the 90\Omega+10\Omega path.

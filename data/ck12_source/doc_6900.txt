@@ -1,0 +1,20 @@
+Your friend's instrument is in tune and is playing a note at 256 Hz, but you are slightly out of tune and are playing a note at 258 Hz.
+What is the beat frequency?
+1.9 Hz or 2.1 Hz
+Describe the Doppler effect and use the Doppler shift equations to determine frequencies and speeds.
+Students will learn what the Doppler effect is and how to determine frequencies and speeds using the Doppler shift equations.
+Doppler Shifts : f_o &= f \frac{v+v_o}{v-v_s} && f_o \mathrm{~(observed~frequency)~is~shifted~up~when~source~and~observer~moving~closer}\\\f_o &= f \frac{v-v_o}{v+v_s} && f_o \mathrm{~(observed~frequency)~is~shifted~down~when~source~and~observer~moving~apart, where}\\\& && v \text{ is the speed of sound, } v_s \text{ is the speed of the source, and } v_o \text{ is the speed of the observer}
+Guidance The Doppler Effect occurs when either the source of a wave or the observer of a wave (or both) are moving.
+When a source of a wave is moving towards you, the apparent frequency of the wave you detect is higher than that emitted.
+For instance, if a car approaches you while playing a note at 500 Hz, the sound you hear will be slightly higher frequency.
+The opposite occurs (the frequency observed is lower than emitted) for a receding wave or if the observer moves away from the source.
+It’s important to note that the speed of the wave does not change –it’s traveling through the same medium so the speed is the same.
+Due to the relative motion between the source and the observer the frequency changes, but not the speed of the wave.
+Note that while the effect is similar for light and electromagnetic waves the formulas are not exactly the same as for sound.
+Question :
+How fast would a student playing an A note ( 440\mathrm{Hz} ) have to move towards you in order for you to hear a G note ( 784\mathrm{Hz} )?
+Answer :
+We will use the Doppler shift equation for when the objects are getting closer together and solve for the speed of the student (the source).
+f_o=f(\frac{v+v_o}{v-v_s}) \Rightarrow f_o\times (v-v_s)=f\times (v+v_o) \Rightarrow vf_o-v_sf_o=f\times (v+v_o) \Rightarrow v_s=-(\frac{f\times (v+v_o)-vf_o}{f_o})
+Now we plug in the known values to solve for the velocity of the student.
+v_s=-(\frac{f\times (v+v_o)-vf_o}{f_o})=-(\frac{440\mathrm{Hz}\times (343\mathrm{m/s}+0\mathrm{m/s})-343\mathrm{m/s}\times 784\mathrm{Hz}}{784\mathrm{Hz}})=151\mathrm{m/s}

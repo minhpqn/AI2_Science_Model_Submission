@@ -1,0 +1,20 @@
+If you know the name of a binary ionic compound, you can write its chemical formula .  Start by writing the metal ion with its charge, followed by the nonmetal ion with its charge.  Because the overall compound must be electrically neutral, decide how many of each ion is needed in order for the positive and negative charge to cancel each other out.  Consider the compound aluminum nitride.  The ions are:
+\text{Al}^{3+} \quad \text{N}^{3-}
+Since the ions have charges that are equal in magnitude, one of each will be the lowest ratio of ions in the formula.  The formula of aluminum nitride is AlN.
+The ions for the compound lithium oxide are:
+\text{Li}^+ \quad \text{O}^{2-}
+In this case, two lithium ions are required to balance out the charge of one oxide ion.  The formula of lithium oxide is Li 2 O.
+An alternative way to writing a correct formula for an ionic compound is to use the crisscross method.  In this method, the numerical value of each of the ion charges is crossed over to become the subscript of the other ion.  Signs of the charges are dropped.  Shown below is the crisscross method for aluminum oxide.
+Crisscross method for aluminum oxide
+The red arrows indicate that the 3 from the 3+ charge will cross over to become the subscript of the O.
+The 2 from the 2− charge will cross over to become the subscript of the Al.
+The formula for aluminum oxide is Al 2 O 3 .
+Be aware that ionic compounds are empirical formulas and so must be written as the lowest ratio of the ions.  In the case of aluminum nitride, the crisscross method would yield a formula of Al 3 N 3 , which is not correct.  It must be reduced to AlN.  Following the crisscross method to write the formula for lead(IV) oxide would involve the following steps:
+Crisscross method for lead (IV) oxide
+The crisscross first yields Pb 2 O 4 for the formula, but that must be reduced to the lower ratio and PbO 2 is the correct formula.
+Formulas for binary compounds begin with the metal followed by the non-metal.
+Positive and negative charges must cancel each other out.
+Ionic compound formulas are written using the lowest ratio of ions.
+Use the link below to answer the following questions:
+How did Lavoisier improve chemical nomenclature?
+Practice writing formulas using some of the examples given here.

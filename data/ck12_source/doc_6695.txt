@@ -1,0 +1,20 @@
+First solve for the time it takes you to reach the other side.
+Let's let north be the y-direction and the direction across the river be the x-direction.
+\Delta x = v_{x} t
+9 m = 1.5 m/s \times t
+thus,  t = 6 s
+Now, use the time you are in the water to find how far the river has carried you north.
+\Delta y = v_{y} t
+\Delta y = 2 m/s \times 6 s
+\Delta y = 12 m
+Watch this Explanation
+Click on the image above for more content
+If a river is flowing south at 4 m/s and you swim straight across (i.e. east) at 2 m/s; admittedly, you're going to drift a bit south.
+That said, calculate that distance that you drifted south from your starting point.
+The river is 16 m wide.
+If a river is flowing south at 3 m/s and you swim at an angle of 30 degrees north of directly east at 1 m/s, how far did you drift up or down stream from your starting point once you reach the other side?
+The river is 10 m wide.
+If a river is flowing north at 2 m/s and you can swim at 4 m/s, what angle should you swim at such that you arrive directly across the river (i.e. no drift north or south from starting point on other side)?
+The river is 10 m wide.
+If a river is flowing south at 5 m/s and you can swim at 4 m/s maximum, is it possible to arrive directly across?
+Why or why not?

@@ -1,0 +1,20 @@
+Define “ionization energy.”
+Do valence electrons have larger or smaller ionization energies that the inner-shell kernel electrons?
+What is electron shielding?
+Describe the trends in ionization energy from left to right across the periodic table.
+Describe the trends in ionization energy from top to bottom of a group in the periodic table.
+Why is the second ionization energy for lithium so much larger than the first ionization energy?
+electron shielding:
+As more electrons are added to a nucleus, the outer electrons become shielded from the nucleus by the inner shell electrons
+ionization energy:
+The energy required to remove an electron from a specific atom.
+It is measured in kJ/mol, which is an energy unit, much like calories.
+Define electron shielding.
+Explain sublevel shielding.
+A roller derby game is like electron shielding
+What is the goal of a roller derby game?
+Roller derby is a popular sport, although it is unfamiliar to many people.
+The basic purpose is to set one team member (the “jammer”) past the opposing team to score points.
+Other members of the team serve as blockers to prevent the opposing team from stopping the jammer.
+Blockers interfere with the interaction between the jammer and the opponents by getting between the jammer and the skaters trying to stop her.
+The attraction between an electron and the nucleus of the atom is not a simple issue.  Only with hydrogen is there a one-to-one relationship that can be discussed in terms of direct charge attraction.  As the size of the atom increases, the number of protons and electrons also increase.

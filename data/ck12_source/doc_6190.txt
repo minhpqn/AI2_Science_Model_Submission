@@ -1,0 +1,20 @@
+By knowing how cold it will get and how much water is in the radiator, we can determine how much antifreeze to add to achieve our desired freezing point depression.
+We can do this because we know what the antifreeze is.
+Can we switch things around and get some information about the properties of the antifreeze (such as its molecular weight) from the freezing point decrease?
+It turns out that we can do this fairly easily and accurately.
+Changes in melting point and boiling point can be used to determine molecular weight
+Changes in temperature.
+Calculating Molar Mass
+In the laboratory, freezing point or boiling point data can be used to determine the molar mass of an unknown solute.
+Since we know the relationship between a decrease in freezing point and the concentration of solute, if we dissolve a known mass of our unknown solute into a known amount of solvent, we can calculate the molar mass of the solute.
+The  K_f or  K_b of the solvent must be known.
+We also need to know if the solute is an electrolyte or a nonelectrolyte.
+If the solvent is an electrolyte, you would need to know the number of ions is produced when it dissociates.
+Sample Problem:
+Molar Mass from Freezing Point Depression
+38.7 g of a nonelectrolyte is dissolved into 218 g of water.
+The freezing point of the solution is measured to be -5.53°C.
+Calculate the molar mass of the solute.
+Step 1:
+List the known quantities and plan the problem.
+\Delta T_f=-5.53^\circ \ \text{C}

@@ -1,0 +1,20 @@
+There are two general types of electron microscopes: the Transmission Electron Microscope and the Scanning Electron Microscope.
+The Transmission Electron Microscope shoots electrons through the sample and measures how the electron beam changes because it is scattered in the sample.
+The Scanning Electron Microscope scans an electron beam over the surface of an object and measures how many electrons are scattered back.
+Transmission electron microscopy (TEM) is an imaging method in which a beam of electrons is passed through a specimen.
+An image is formed on photographic film or a fluorescent screen by the electrons that scatter when passing through the object.
+TEM images show the inside of the object.
+The scanning electron microscope (SEM) is a type of electron microscope capable of producing high-resolution images of a sample surface.
+Due to the manner in which the image is created, SEM images have a characteristic three-dimensional appearance and are useful for judging the surface structure of the sample.
+Sometimes objects need to be specially prepared to make them better suited for imaging under the scanning electron microscope, as shown with the insect in Figure below
+Electron microscopes are usually used in vacuum chambers under low pressures to avoid scattering the electrons in the gas.
+This makes the microscopes considerably larger and more expensive than optical microscopes.
+The different types of images from the two electron microscopes are shown in Figure below .
+Zoom into a Leaf at
+This fish has been coated in gold, as part of the preparation for viewing with an SEM.
+SEM and TEM images of the algae Chlamydomonas .
+The SEM image, shown at the right, is a three-dimensional image of the surface of the organism, whereas the TEM image is a two-dimensional image of the interior of the organism.
+In the microbiology lab, aseptic technique refers to the procedures that are carried out under sterile conditions.
+Scientists who study microbes are called microbiologists.
+Microbiologists must carry out their lab work using the aseptic technique to prevent microbial contamination of themselves, contamination of the environment they are working in, including work surfaces or equipment, and contamination of the sample they are working on.
+Bacteria live on just about every surface on Earth, so if a scientist wants to grow a particular type of bacterium in the lab, he or she needs to be able to sterilize their equipment to prevent contamination by other bacteria or microorganisms.

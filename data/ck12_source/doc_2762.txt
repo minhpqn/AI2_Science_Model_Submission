@@ -1,0 +1,20 @@
+A:
+The saturated fatty acid molecule has 12 hydrogen atoms.
+This is as many hydrogen atoms as can possibly be bonded to carbon atoms in this molecule.
+The unsaturated fatty acid molecule has 10 hydrogen atoms, or two less than the maximum possible number.
+The saturated fatty acid has only single bonds between its carbon atoms.
+The unsaturated fatty acid has a double bond between two of its carbon atoms.
+Some lipids contain the element phosphorus as well as carbon, hydrogen, and oxygen.
+These lipids are called phospholipids.
+Two layers of phospholipid molecules make up the cell membranes of living things.
+In the Figure below , you can see how phospholipid molecules are arranged in a cell membrane.
+One end of each phospholipid molecule is polar, so it has a partial electric charge.
+Water is also polar and has electrically charged ends, so it is attracted to the oppositely charged end of a phospholipid molecule.
+This end of the phospholipid molecule is described as hydrophilic, which means “water loving.”
+The other end of each phospholipid molecule is nonpolar and has no electric charge.
+This end of the phospholipid molecule repels polar water and is described as hydrophobic, or “water hating.”
+Phospholipids in a membrane
+In the Figure above , the hydrophilic ends of the phospholipid molecules are on the outsides of the cell membrane, and the hydrophobic ends are on the inside of the cell membrane.
+This arrangement of phospholipids allows some substances to pass through the cell membrane while keeping other substances out.
+You can see how this works in the video at the URL below.
+Lipids are a class of biochemical compounds that living things use to store energy.

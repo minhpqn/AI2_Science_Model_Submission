@@ -1,0 +1,20 @@
+acidity :
+A measure of the ability of a solution to neutralize a base; refers to the hydronium ion concentration of a solution.
+base :
+A solution with a pH higher than 7.
+neutralization reaction :
+A chemical reaction where a base and an acid react to form a salt.
+pepsin :
+The main digestive enzyme in the stomach; degrades food proteins into peptides.
+pH :
+The negative logarithm of the hydrogen ion concentration; the scale that is used to measure acidity.
+solubility :
+The ability of a solute to dissolve in a particular solvent.
+solute :
+The substance that is dissolved in a solvent.
+solution :
+Mixture that has the same composition throughout; mixture of a solute in a solvent.
+solvent :
+A substance that dissolves another substance to form a solution.
+A solution is a homogeneous mixture in which a solute dissolves in a solvent.
+Water is a very common solvent, especially in organisms.

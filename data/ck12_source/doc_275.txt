@@ -1,0 +1,20 @@
+What definition is given in the video for energy?
+What is the definition given in the video for work?
+What unit is used in the video for work?
+Visit the following website and answer the questions for practice at calculating work.
+How much work is done by the force of gravity when a 45 N object falls to the ground from a height of 4.6 m?
+A workman carries some lumber up a staircase.  The workman moves 9.6 m vertically and 22 m horizontally.  If the lumber weighs 45 N, how much work was done by the workman?
+A barge is pulled down a canal by a horse walking beside the canal.  If the angle of the rope is 60.0°, the force exerted is N, and the barge is pulled 100. m, how much work did the horse do?
+Diagram of horse hauling a barge down the canal
+work:
+A force is said to do work when it acts on a body so that there is a displacement of the point of application, however small, in the direction of the force.
+Thus a force does work when it results in movement.  The work done by a constant force of magnitude  F  on a point that moves a distance  d  in the direction of the force is the product,  W = Fd .
+joule:  The SI unit of work or energy, equal to the work done by a force of one Newton when its point of application moves through a distance of one meter in the direction of the force.
+Given two of the three variables in P=\frac{W}{t} , calculate the third.
+Nuclear power station produces thousands of megawatts of power
+Typical Pressurized Water Reactors (PWR), a type of nuclear power reactor originally built in the 1970s, produce 1100 to 1500 megawatts, or about 1,500,000,000 Joules/second.
+By comparison, a windmill farm with hundreds of individual windmills produces about 5 megawatts (5,000,000 Joules/second).
+Power is defined as the rate at which work is done, or the rate at which energy is transformed.
+In SI units, power is measured in Joules per second, which is given a special name: the watt , W .
+1.00 watt = 1.00 J/s
+Another unit for power that is fairly common is horsepower.

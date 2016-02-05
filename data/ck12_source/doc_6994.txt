@@ -1,0 +1,20 @@
+Leaves tip, passes straight through the center of lens and exits without bending.
+You have a converging lens of focal length 2 units.
+If you place an object 5 units away from the lens, (a) draw a ray diagram of the situation to estimate where the image will be and (b) list the charactatistics of the image.
+Finally (c) calculate the position of the image.
+A diagram of the situation is shown below.
+(a):
+To draw the ray diagram, we'll follow the steps laid out above for converging lenses.
+First we draw the a ray that travels parallel to the principle axis and refracts through the focus on the other side (the red ray).
+Next we draw a ray through the focus on the same side that refracts out parallel (the green ray).
+Finally we draw the ray that travels straight through the center of the lens without refracting (the blue ray).
+The result is shown below.
+(b):
+Based on the ray diagram and the initial position of the object, we know that the image is a real, inverted, and smaller than the original object.
+(c):
+To calculate the exact position of the object, we can use the lens maker's equation.
+\frac{1}{f}&=\frac{1}{d_o} + \frac{1}{d_i}\\\\frac{1}{d_i}&=\frac{1}{f} - \frac{1}{d_o}\\\\frac{1}{d_i}&=\frac{1}{2\;\text{units}} - \frac{1}{5\;\text{units}}\\\\frac{1}{d_i}&=\frac{3}{10\;\text{units}}\\\d_i&=3.33\;\text{units}\\\
+Watch this Explanation
+Click on the image above for more content
+Note: this simulation only shows the effects of a convex lens
+Geometric Optics (PhET Simulation)

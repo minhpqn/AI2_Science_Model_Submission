@@ -1,0 +1,20 @@
+What is a hydrate?
+How can you convert a hydrate to an anhydrous compound?
+What does hexahydrate mean?
+Anhydrous:
+Without water.
+Hydrate:
+A compound that has one or more water molecules bound to each formula unit
+Determining Empirical Formulas
+Define empirical formula.
+Calculate the empirical formula for a compound when given the elemental analysis of the compound.
+Scientist trying to determine the formula of a compound in the early days of chemistry
+What is occuring in this picture?
+In the early days of chemistry, there were few tools for the detailed study of compounds.
+Much of the information regarding the composition of compounds came from the elemental analysis of inorganic materials.
+The “new” field of organic chemistry (the study of carbon compounds) faced the challenge of not being able to characterize a compound completely.
+The relative amounts of elements could be determined, but so many of these materials had carbon, hydrogen, oxygen, and possibly nitrogen in simple ratios.
+We did not know exactly how many of these atoms were actually in a specific molecule.
+Determining Empirical Formulas
+An empirical formula is one that shows the lowest whole-number ratio of the elements in a compound.  Because the structure of ionic compounds is an extended three-dimensional network of positive and negative ions, all formulas of ionic compounds are empirical.
+However, we can also consider the empirical formula of a molecular compound.  Ethene is a small hydrocarbon compound with the formula C 2 H 4 (see Figure below ).  While C 2 H 4 is its molecular formula and represents its true molecular structure, it has an empirical formula of CH 2 .  The simplest ratio of carbon to hydrogen in ethene is 1:2.

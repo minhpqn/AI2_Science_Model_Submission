@@ -1,0 +1,20 @@
+The joule, however, is a very small unit of energy and using the joule to state the amount of energy used by a household would require a very large number.
+For that reason, electric companies measure their energy sales in a large number of joules called a kilowatt hour  (kWh).
+A kilowatt hour is exactly as it sounds - the number of kilowatts (1,000 W) transferred per hour.
+1.00 \ \text{kilowatt hour} = (1000 \ J/s)(3600 \ s) = 3.6 \times 10^6 \ J
+Example Problem:
+A color television uses about 2.0 A when operated on 120 V.
+How much power does the set use?
+If the TV is operated for 8.00 hours per day, how much energy in kWh does it use per day?
+At $0.15 per kWh, what does it cost to run the TV for 30 days?
+P = VI = (120 \ V)(2.0 \ A) = 240 \ W
+E=\frac{(240 \ J/s)(8 \ h)(3600 \ s/h)}{3.6 \times 10^6 \ J/kWh}=1.92 \ kWh
+\text{Cost} = (1.92 \ kWh)(30)(\$0.15) = \$8.64
+Electric power is the energy per unit time converted by an electric circuit into another form of energy.
+The formula for electric power is  P = I^2R .
+The electric energy transferred to a resistor in a time period is equal to the electric power multiplied by time, E = Pt , and can also be calculated using E = I^2Rt .
+Electric companies measure their energy sales in a large number of joules called a kilowatt hour (kWh) which is equivalent to 3.6 \times 10^6 \ J .
+The following video is on electrical energy and power.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+What is this video about?

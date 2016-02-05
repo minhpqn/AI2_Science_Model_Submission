@@ -1,0 +1,20 @@
+M_1 \times L_1=M_2 \times L_2
+Finally, because the two sides of the equation are set equal to one another, the volume can be in any units we choose, as long as that unit is the same on both sides.
+Our equation for calculating the molarity of a diluted solution becomes:
+M_1 \times V_1 = M_2 \times V_2
+Suppose that you have 100. mL of a 2.0 M solution of HCl.
+You dilute the solution by adding enough water to make the solution volume 500. mL.
+The new molarity can easily be calculated by using the above equation and solving for M_2 .
+M_2=\frac{M_1 \times V_1}{V_2}=\frac{2.0 \text{ M} \times 100. \text{ mL}}{500. \text{ mL}}=0.40 \text{ M } HCl
+The solution has been diluted by one-fifth since the new volume is five times as great as the original volume.
+Consequently, the molarity is one-fifth of its original value.
+Another common dilution problem involves deciding how much of a highly concentrated solution is requires to make a desired quantity of solution of lesser concentration.
+The highly concentrated solution is typically referred to as the stock solution.
+Sample Problem:
+Dilution of a Stock Solution
+Nitric acid (HNO 3 ) is a powerful and corrosive acid.
+When ordered from a chemical supply company, its molarity is 16 M.
+How much of the stock solution of nitric acid needs to be used to make 8.00 L of a 0.50 M solution?
+Step 1:
+List the known quantities and plan the problem.
+stock HNO 3 = 16 M

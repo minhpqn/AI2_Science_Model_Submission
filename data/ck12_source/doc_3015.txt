@@ -1,0 +1,20 @@
+Show how to calculate force from mass and acceleration.
+Xander goes airborne on his scooter as he exits a half-pipe at Newton’s Skate Park.
+How did he gain enough speed in the half-pipe to fly into the air when he got to the top?
+His increase in speed was due partly to the force of gravity.
+Acceleration, Force, and Mass
+A change in an object’s motion—such as Xander speeding up on his scooter—is called acceleration .
+Acceleration occurs whenever an object is acted upon by an unbalanced force.
+The greater the net force acting on the object, the greater its acceleration will be, but the mass of the object also affects its acceleration.
+The smaller its mass is, the greater its acceleration for a given amount of force.
+Newton’s second law of motion summarizes these relationships.
+According to this law, the acceleration of an object equals the net force acting on it divided by its mass.
+This can be represented by the equation:
+\mathrm{Acceleration=\frac{Net\;force}{Mass}} or \mathrm{a=\frac{F}{m}}
+This equation for acceleration can be used to calculate the acceleration of an object that is acted on by a net force.
+For example, Xander and his scooter have a total mass of 50 kilograms.
+Assume that the net force acting on Xander and the scooter is 25 Newtons.
+What is his acceleration?
+Substitute the relevant values into the equation for acceleration:
+\text{a}=\frac{\text{F}}{\text{m}}=\frac{25 \ \text{N}}{50 \ \text{kg}}=\frac{0.5 \ \text{N}}{\text{kg}}
+The Newton is the SI unit for force.

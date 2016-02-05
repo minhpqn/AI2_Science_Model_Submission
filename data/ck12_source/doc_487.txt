@@ -1,0 +1,20 @@
+Maybe you need them yourself.
+Lenses are used to correct vision problems.
+Two of the most common vision problems are myopia and hyperopia.
+Myopia is also called nearsightedness.
+It affects about one third of people.
+People with myopia can see nearby objects clearly, but distant objects appear blurry.
+The picture below shows how a person with myopia might see two boys that are a few meters away ( Figure below ).
+This diagram illustrates how a person with myopia sees an image
+On the left, you can see how a person with normal vision sees two boys.
+The right image shows how a person with myopia sees the boys.
+In myopia, the eye is too long.
+Below, you can see how images are focused on the retina of someone with myopia ( Figure below ).
+Myopia is corrected with a concave lens, which curves inward like the inside of a bowl.
+The lens changes the focus, so images fall on the retina as they should.
+This illustrations shows how light rays are improperly focused in individuals with myopia and hyperopia
+The eye of a person with myopia is longer than normal.
+As a result, images are focused in front of the retina ( top left ).
+A concave lens is used to correct myopia to help focus images on the retina ( top right ).
+Farsightedness, or hyperopia, occurs when objects are focused in back of the retina ( bottom left ).
+It is corrected with a convex lens ( bottom right ).

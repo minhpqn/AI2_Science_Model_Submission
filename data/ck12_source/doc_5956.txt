@@ -1,0 +1,20 @@
+Think about your result.
+In a multi-step problem, be sure that the units check.
+Conversions between moles and volume of a gas are shown.
+Work the practice problems at the link below.
+Focus on conversions between volume and moles, but try some of the others:
+Why do the gases need to be at STP?
+When does the identity of the gas become important?
+Make calculations dealing with molar mass and density of a gas.
+Carbon dioxide sinks in air
+Why does carbon dioxide sink in air?
+When we run a reaction to produce a gas, we expect it to rise into the air.  Many students have done experiments where gases such as hydrogen are formed.  The gas can be trapped in a test tube held upside-down over the reaction.  Carbon dioxide, on the other hand, sinks when it is released.  Carbon dioxide has a density greater that air, so it will not rise like these other gases would.
+As you know, density is defined as the mass per unit volume of a substance.  Since gases all occupy the same volume on a per mole basis, the density of a particular gas is dependent on its molar mass.  A gas with a small molar mass will have a lower density than a gas with a large molar mass.  Gas densities are typically reported in g/L.  Gas density can be calculated from molar mass and molar volume.
+Balloons float because they contain helium, which is lighter than air
+Balloons filled with helium gas float in air because the density of helium is less than the density of air.
+Sample Problem One:
+Gas Density
+What is the density of nitrogen gas at STP?
+Step 1:
+List the known quantities and plan the problem.
+N 2 = 28.02 g/mol

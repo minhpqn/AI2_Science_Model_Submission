@@ -1,0 +1,20 @@
+Draw vectors to represent these motions:
+moving 3 cm to the right
+moving 2 cm to the left
+Define speed, and give the SI unit for speed.
+Show how to calculate average speed from distance and time.
+Describe instantaneous speed.
+Show how to calculate distance or time from speed when the other variable is known.
+Did you ever play fast-pitch softball?
+If you did, then you probably have some idea of how fast the pitcher throws the ball.
+For a female athlete like the one in the opening image, the ball may reach a speed of 120 km/h (about 75 mi/h).
+For a male athlete, the ball may travel even faster.
+A fast-pitch pitcher uses a “windmill” motion to throw the ball.
+This is a different technique than other softball pitches, and it explains why the ball travels so fast.
+How fast or slow something moves is its speed .
+Speed determines how far something travels in a given amount of time.
+The SI unit for speed is meters per second (m/s).
+Speed may be constant, but often it varies from moment to moment.
+Even if speed varies during the course of a trip, it’s easy to calculate the average speed by using this formula:
+For example, assume you go on a car trip with your family.
+The total distance you travel is 120 miles, and it takes 3 hours to travel that far.

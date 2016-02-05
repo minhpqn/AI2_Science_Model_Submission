@@ -1,0 +1,20 @@
+Example Problem:
+A farmer heaves a 7.56 kg bale of hay with a final velocity of 4.75 m/s.
+(a) What is the kinetic energy of the bale?
+(b) The bale was originally at rest.
+How much work was done on the bale to give it this kinetic energy?
+(a) KE = \frac{1}{2} \ mv^2 = \left(\frac{1}{2}\right)(7.56 \ \text{kg})(4.75)^2 = 85.3 \ \text{Joules}
+(b) \text{Work done} = \Delta KE = 85.3 \ \text{Joules}
+Example Problem:
+What is the kinetic energy of a 750. kg car moving at 50.0 km/h?
+Solution: \left(\frac{50.0 \ \text{km}}{\text{h}}\right) \left(\frac{1000 \ \text{m}}{\text{km}}\right) \left(\frac{1 \ \text{h}}{3600 \ \text{s}}\right)=13.9 \ \text{m/s}
+KE = \frac{1}{2} \ mv^2 = \left(\frac{1}{2}\right)(750. \ \text{kg})(13.9 \ \text{m/s})^2 = 72,300 \ \text{Joules}
+Example Problem:
+How much work must be done on a 750. kg car to slow it from 100. km/h to 50.0 km/h?
+Solution:
+From the previous example problem, we know that the  KE of this car when it is moving at 50.0 km/h is 72,300 Joules.  If the same car is going twice as fast, its  KE will be four times as great because  KE is proportional to the square of the velocity.  Therefore, when this same car is moving at 100. km/h, its  KE is 289,200 Joules.
+Therefore, the work done to slow the car from 100. km/h to 50.0 km/h is (289,200 \ \text{Joules}) - (72,300 \ \text{Joules}) = 217,000 \ \text{Joules}
+Energy is the ability to change an object’s motion or position.
+The energy of motion is called kinetic energy.
+The formula for kinetic energy is KE = \frac{1}{2} \ mv^2 .
+The work done on an object equals the kinetic energy gain or loss by the object, W_{\text{NET}} = \Delta KE .

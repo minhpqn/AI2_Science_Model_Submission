@@ -1,0 +1,20 @@
+Model of carbon dioxide, which is linear
+AB 3 :
+Boron Trifluoride (BF 3 )
+Boron trifluoride consists of a central boron atom with three single bonds to fluorine atoms (see  Figure below ) .  The boron atom also has an incomplete octet.
+Structure of boron trifluoride, which has a trigonal planar shape
+Boron trifluoride bonding.
+The geometry of the BF 3 molecule is called trigonal planar (see Figure below ).  The fluorine atoms are positioned at the vertices of an equilateral triangle.  The F-B-F angle is 120° and all four atoms lie in the same plane.
+Model of boron trifluoride, which has a trigonal trigonal shape
+Boron trifluoride model.
+AB 4 :
+Methane (CH 4 )
+Methane is an organic compound that is the primary component of natural gas.  Its structure consists of a central carbon atom with four single bonds to hydrogen atoms (see  Figure below ).
+In order to maximize their distance from one another, the four groups of bonding electrons do not lie in the same plane.  Instead, each of the hydrogen atoms lies at the corners of a geometrical shape called  a tetrahedron.  The carbon atom is at the center of the tetrahedron.
+Each face of a tetrahedron is an equilateral triangle.
+The tetrahedral structure of methane
+Tetrahedral structure of methane.
+The molecular geometry of the methane molecule is tetrahedral (see Figure below ).
+The H-C-H bond angles are 109.5°, which is larger than the 90° that they would be if the molecule was planar.  When drawing a structural formula for a molecule such as methane, it is advantageous to be able to indicate the three-dimensional character of its shape.
+The structural formula below is called a perspective drawing.  The dotted line bond is to be visualized as receding into the page, while the solid triangle bond is to be visualized as coming out of the page.
+Perspective model of methane

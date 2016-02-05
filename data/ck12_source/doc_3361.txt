@@ -1,0 +1,20 @@
+He turned off the current in the wire to see what would happen to the compass needle.
+The needle swung back to its original position, pointing north once again.
+Oersted had discovered that an electric current creates a magnetic field.
+The magnetic field created by the current was strong enough to attract the needle of the nearby compass.
+Oersted Learns More
+Oersted wanted to learn more about the magnetic field created by a current.
+He placed a compass at different locations around a wire with current flowing through it.
+You can see what he found in the Figure below .
+The lines of magnetic force circle around the wire in a counterclockwise direction.
+You can learn more about Oersted’s investigations at the URL below.
+Click on the image above for more content
+Direction of magnetic field relative to current
+From Magnets to Electricity
+Just about a decade after Oersted discovered that electric current can produce a magnetic field, an English scientist named Michael Faraday discovered that the opposite is also true.
+A magnetic field can produce an electric current.
+This is known as Faraday’s law.
+The process by which a magnetic field produces current is called electromagnetic induction.
+It occurs when a conductor, such as a wire, crosses lines of force in a magnetic field.
+This can happen when a wire is moving relative to a magnet or a magnet is moving relative to a wire.
+Electricity can be used to produce a magnetic field.

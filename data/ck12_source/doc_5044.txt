@@ -1,0 +1,20 @@
+Desert plants (jade plant, right) fix CO 2 by CAM photosynthesis only at night, closing stomata in the daytime to conserve water.
+Plants such as corn solve the problem by using a separate compartment to fix CO 2 .
+C-4 plants utilize a specific leaf anatomy.
+These plants have both bundle-sheath cells, which are photosynthetic cells arranged into tightly packed coverings or sheaths around the veins of a leaf, and loosely arranged mesophyll cells, which lie between the bundle sheath cells and the leaf surface.
+The bundle-sheath cells form a protective covering on leaf veins.
+The Calvin Cycle is confined to the chloroplasts of these bundle sheath cells in C-4 plants.
+Instead of direct fixation to RuBisCO in the Calvin Cycle, CO 2 is incorporated into a 4-carbon organic acid, which has the ability to regenerate CO 2 in the chloroplasts of the bundle sheath cells.
+Bundle sheath cells can then utilize this CO 2 to generate carbohydrates by the conventional C-3 pathway.
+In this diagram of the cross section of a leaf, bundle sheath cells can be seen in pink around a leaf vein, and mesophyll cells can be seen in green surrounding the bundle sheath cells and the outer layers of the leaf.
+Also noticeable is a cut-away of two guard cells (purple) surrounding a stomata.
+In these C-4 plants, fixation of CO 2 occurs in mesophyll cells when it combines with a 3-carbon molecule, phosphoenolpyruvate (PEP), resulting in a 4-carbon oxaoloacetate molecule.
+This reaction is catalyzed by the enzyme PEP carboxylase.
+Because the first stable organic molecule has four carbons (oxaoloacetate), this adaptation has the name C-4.
+This 4-carbon molecule is converted into another 4-carbon molecule, malate, which is shuttled unto the bundle-sheath cells, where it is broken down into CO 2 and a 3-carbon pyruvate.
+When enough CO 2 accumulates, RuBisCo fixes it a second time, this time as part of the Calvin Cycle.
+The pyruvate is transported back to the mesophyll cell where it is converted into phosphoenolpyruvate, allowing the process to continue.
+Compartmentalization allows efficient use of low concentrations of carbon dioxide in these specialized plants.
+See C-4 Photosynthesis at (16:58) for further information.
+Click on the image above for more content
+Cacti and succulents such as the jade plant avoid water loss by fixing CO 2 only at night.

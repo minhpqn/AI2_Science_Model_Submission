@@ -1,0 +1,20 @@
+E_{total} = 1,563,000 \;\mathrm{J}
+a. 34 \;\mathrm{m/s \ at \ B}; 49 \;\mathrm{m/s \ at \ C \ and \ F}; 28 \;\mathrm{m/s \ at \ D}, 40 \;\mathrm{m/s \ at \ E}, 0 \;\mathrm{m/s \ at \ H} b. it will make it up to only 90m, so 30m short of point H
+a. 1.7 J b. 1.3 m/s c. 0.4 J, 0.63 m/s
+Define work and calculate the amount of work done.
+Students will learn that work is simply the transfer of energy into or out of a system.
+Students will learn how to calculate the work done and how to incorporate it into energy conservation.
+W = F_{x} \Delta x = Fd \ \cos \circleddash ;
+Work is equal to the distance an object moves multiplied by the component of the force in the direction that object is moving.
+W = work (in Joules; work is just energy being transferred)
+When an object moves in the direction of an applied force, we say that the force does work on the object.
+Note that the force may be slowing the object down, speeding it up, maintaining its velocity --- any number of things.
+In all cases, the net work done is given by this formula:
+W = \vec{F}\cdot \vec{d} = \vec{F}\cdot \Delta \vec{x} && \text {Work is the dot product of force and displacement.}
+In other words, if an object has traveled a distance  d  under force \vec{F}  , the work done on it will equal to  d  multiplied by the component of \vec{F} along the object's path.
+Consider the following example of a block moving horizontally with a force applied at some angle:
+Here the net work done on the object by the force will be F d \cos \theta .
+A 1kg ball has been attached to a 2m string and is at rest on a frictionless surface.
+If you exert a constant force of 10N on the string and pull the ball over the course of 5m and then begin spinning the ball in a circle, after 3 revolutions, what is the total amount of work you have done on the ball?
+Since the centripetal force you exert on the ball in order to make it spin is perpendicular to the ball's path, you do not work on the ball while spinning it in a circle.
+Therefore, the only work you do on the ball is when you are pulling it in a straight line.

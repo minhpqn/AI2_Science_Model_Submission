@@ -1,0 +1,20 @@
+For example, the GG parent and the Gg offspring have the same phenotype (green pods) but different genotypes.
+An organism's genotype results in an organism's phenotype.
+For example, if your dog has black hair, you cannot easily tell its genotype (that would take some scientific analysis), but you can easily tell its phenotype.
+allele :
+An alternative form or different version of a gene.
+gene :
+A segment of DNA that contains information to encode an RNA molecule or a single polypeptide.
+genetic disorder :
+A phenotype due to a mutation in a gene or chromosome; a genetic disease.
+genotype :
+The genetic makeup of an organism; specifically, the two alleles present.
+heterozygous :
+Describes a genotype or individual having two different alleles for a gene.
+homozygous :
+Describes a genotype or individual having two copies of the same allele for a gene.
+loci (singular, locus ):
+The specific location of a gene or DNA sequence on a chromosome.
+melanin :
+The pigment that gives human skin, hair, and eyes their color.
+phenotype :

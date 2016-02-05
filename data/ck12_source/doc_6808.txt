@@ -1,0 +1,20 @@
+If a boy of 50\;\mathrm{kg} hangs from the rope, how far will it stretch?
+If the boy kicks himself up a bit, and then is bouncing up and down ever so slightly, what is his frequency of oscillation?
+Would he notice this oscillation?
+If so, how?
+If not, why not?
+If a 5.0\;\mathrm{kg} mass attached to a spring oscillates 4.0 times every second, what is the spring constant k of the spring?
+A horizontal spring attached to the wall is attached to a block of wood on the other end.
+All this is sitting on a frictionless surface.
+The spring is compressed 0.3\;\mathrm{m} .
+Due to the compression there is 5.0\;\mathrm{J} of energy stored in the spring.
+The spring is then released.
+The block of wood experiences a maximum speed of 25\;\mathrm{m/s} .
+Find the value of the spring constant.
+Find the mass of the block of wood.
+What is the equation that describes the position of the mass?
+What is the equation that describes the speed of the mass?
+Draw three complete cycles of the block’s oscillatory motion on an x vs. t graph.
+A spider of 0.5\;\mathrm{g} walks to the middle of her web.
+The web sinks by 1.0\;\mathrm{mm} due to her weight.
+You may assume the mass of the web is negligible.

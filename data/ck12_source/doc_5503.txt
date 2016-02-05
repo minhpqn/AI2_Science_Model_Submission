@@ -1,0 +1,20 @@
+These include the western blot and northern blot.
+These procedures analyze proteins and RNA, respectively.
+RFLP and Southern blot analysis involved several steps:
+First, the DNA being analyzed is cut into different-sized pieces using restriction enzymes.
+The resulting DNA fragments are separated by gel electrophoresis.
+Next, an alkaline solution or heat is applied to the gel so that the DNA denatures and separates into single strands.
+Nitrocellulose paper is pressed evenly against the gel and then baked so the DNA is permanently attached to it.
+The DNA is now ready to be analyzed using a radioactive single-stranded DNA probe in a hybridization reaction.
+After hybridization, excess probe is washed from the membrane, and the pattern of hybridization is visualized on X-ray film by autoradiography ( Figure below ).
+Mutations can create or abolish restriction enzyme (RE) recognition sites, thus affecting quantities and length of DNA fragments resulting from RE digestion.
+Hybridization is when two genetic sequences bind together because of the hydrogen bonds that form between the base pairs.
+To make hybridization work, the radioactive probe has to be denatured so that it is single-stranded.
+The denatured probe and the Southern blot are incubated together, allowing the probe to bind to the corresponding fragment on the Southern blot.
+The probe will bond to the denatured DNA wherever it finds a fit.
+Hybridization of a probe made to a variable segment of DNA will produce a DNA fingerprint pattern specific for an individual.
+This procedure has a number of steps and is very labor intensive.
+PCR-based methods are much simpler.
+CODIS :
+The Combined DNA Index System, is maintained by the Federal Bureau of Investigation and stores DNA profiles.
+DNA fingerprint :

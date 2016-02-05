@@ -1,0 +1,20 @@
+Click on the image above for more content
+Now the mass on the spring has been replaced by a mass that is twice the rotating mass.
+Also, the distance between the rotating mass and the pivot has been changed to 1.5 m.
+What velocity will keep the period the same now?
+Click on the image above for more content
+Describe the harmonic motion of a pendulum and calculate its period.
+Students will learn about the harmonic motion of a pendulum and how to calculate its period.
+T_{\text{pendulum}} = 2\pi\sqrt{\frac{L}{g}} ;
+Period of a pendulum of length L
+In harmonic motion there is always a restorative force , which acts in the opposite direction of the velocity.
+The restorative force changes during oscillation and depends on the position of the object.
+In a pendulum it is the component of gravity along the path of motion.
+The force on the oscillating object is directly opposite that of the direction of velocity.
+For pendulums, the period gets larger as the length of the pendulum increases.
+You have a mass swinging on the end of 1 m pendulum.
+If the maximum linear velocity of the mass is 2 m/s, (a) calculate the period of the pendulum and (b) calculate the amplitude of the pendulum.
+To calculate the period of the pendulum, we can just plug in the given length into the equation above.
+To find the amplitude, we'll use the equation given in the Period and Frequency lesson that gives us the velocity as a function of time.
+Since the problem says that the given velocity is the maximum velocity, we know that the pendulum is at the bottom of it's arc and 1/4th (or 3/4th's) of it's way through one period.
+Based on this knowledge, we can plug in 1/4 of the period for the change in time.

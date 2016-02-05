@@ -1,0 +1,20 @@
+Genetic recombination after duplication of different domains forms new combinations of domains with new functions.
+For example, the human eye uses four genes to make structures that sense light: three for color vision and one for night vision; all four arose from a single ancestral gene.
+DNA sequences that can translocate around the genome comprise a significant fraction of the genetic material of plants and animals.
+There may be some evolutionary significance to these movable elements.
+One example is the Alu sequence or Alu element.
+More than a million copies of the Alu sequence are present in the human genome, making this transposon equivalent to just under 11% of the human genome.
+Alu insertions are sometimes disruptive and can result in inherited disorders.
+The insertion or deletion of Alu sequences are associated with some specific effects in humans, including breast cancer, familial hypercholesterolemia, hemophilia and neurofibromatosis.
+Alu elements are about 300 base pairs long and are classified as short interspersed elements (SINEs) among the class of repetitive DNA elements.
+It is believed modern Alu elements evolved from a head to tail fusion of two distinct antique RNA monomers over 100 million years ago.
+The monomers are opposing but complementary RNA fragments joined by an A-rich linker.
+Alu elements are derived from the signal recognition particle RNA.
+This RNA is the RNA component of the signal recognition particle (SRP) ribonucleoprotein complex.
+This complex is a universally conserved ribonucleoprotein that directs the traffic of proteins within the cell and allows them to be secreted.
+The Alu element probably originated from a 7SL RNA gene after deletion of a central sequence.
+Human SRP RNA.
+Alu elements were derived from a similar sequence.
+Notice all the hairpin loops of repeating complimentary sequence.
+How do new chromosomes form?
+Is it possible for two chromosomes to fuse?

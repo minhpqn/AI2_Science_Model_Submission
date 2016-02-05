@@ -1,0 +1,20 @@
+We can calculate exactly how much effort force is required to lift the resistance in this system:
+\text{Output Work} = \text{Input Work}
+(\text{Resistance Force})(\text{Resistance Arm}) = (\text{Effort Force})(\text{Effort Arm})
+(500. \ \text{N})(0.400 \ \text{m}) = (x)(0.800 \ \text{m})
+x = 250. \ \text{N}
+In this case, since the effort arm is twice as long as the resistance arm, the effort force required is only half the resistance force.
+This machine allows us to lift objects using only half the force required to lift the object directly against the pull of gravity.
+The distance the effort force is moved is twice as far as the resistance will move.
+Thus, the input work and the output work are equal.
+(a) How much force is required to lift a 500. kg stone using an ideal lever whose resistance arm is 10.0 cm and whose effort arm is 2.00 m?
+(b) What is the IMA?
+(c) If the actual effort force required to lift the stone was 305 N, what was the AMA?
+(a) (\text{resistance force})(\text{resistance arm}) = (\text{effort force})(\text{effort arm})
+\text{effort force}=\frac{(\text{resistance force})(\text{resistance arm})}{(\text{effort arm})}=\frac{(4900 \ \text{N})(0.100 \ \text{m})}{(2.00 \ \text{m})}=245 \ \text{N}
+(b) \text{IMA}=\frac{\text{effort arm}}{\text{resistance arm}}=\frac{2.00 \ \text{m}}{0.100 \ \text{m}}=20
+(c) \text{AMA}=\frac{\text{resistance force}}{\text{effort force}}=\frac{4900 \ \text{N}}{305 \ \text{N}}=16
+A  pulley  is a wheel on an axle that is designed to rotate with movement of a cable along a groove at its circumference.
+Pulleys are used in a variety of ways to lift loads, apply forces, and to transmit power, but the simplest of pulleys serves only to reverse the direction of the effort force.
+It consists of a single pulley attached directly to a non-moving surface with a rope or cable through it.
+As a downward force is applied to one side of the pulley, the other side of the pulley, with the attached resistance force, is pulled upward.

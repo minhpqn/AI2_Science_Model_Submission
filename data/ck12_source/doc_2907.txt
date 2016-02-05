@@ -1,0 +1,20 @@
+In peas, purple flowers are dominant to white.
+If one of these purple flowers is crossed with a white flower, all the offspring will have purple flowers.
+This law explains what Mendel had seen in the F1 generation when a tall plant was crossed with a short plant.
+The two heredity factors in this case were the short and tall factors.
+Each individual in the F1 would have one of each factor, and as the tall factor is dominant to the short factor (the recessive factor), all the plants appeared tall.
+In describing genetic crosses, letters are used.
+The dominant factor is represented with a capital letter ( T for tall) while the recessive factor is represented by a lowercase letter ( t ).
+For the T and t factors, three combinations are possible:
+TT , Tt , and tt .
+TT plants will be tall, while plants with tt will be short.
+Since T is dominant to t , plants that are Tt will be tall because the dominant factor masks the recessive factor.
+In this example, we are crossing a TT tall plant with a tt short plant.
+As each parent gives one factor to the F1 generation, all of the F1 generation will be Tt tall plants.
+When the F1 generation ( Tt ) is allowed to self-pollinate, each parent will give one factor ( T or t ) to the F2 generation.
+So the F2 offspring will have four possible combinations of factors:
+TT , Tt , tT , or tt .
+According to the laws of probability, 25% of the offspring would be tt , so they would appear short.
+And 75% would have at least one T factor and would be tall.
+One hereditary factor is dominant to the other.
+The dominant trait masks the recessive factor, so that when both factors are present, only the effects of the dominant factor are noticeable.

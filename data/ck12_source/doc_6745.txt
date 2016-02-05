@@ -1,0 +1,20 @@
+for a particle travels a distance 2\pi r in an amount of time T
+\vec{F_G} = \frac{Gm_1 m_2}{r^2}
+\vec{a_c} = \frac{v^2}{r}
+When can Gravity Act as a Centripetal Force?
+We saw last chapter that the force of Gravity causes an attraction between two objects of mass  m_1  and  m_2  at a distance  r  of \vec{F_G} = \frac{Gm_1 m_2}{r^2}. \text{ [4]} By Newton's Third Law, both objects experience the force: equal in magnitude and opposite in direction, and both will move as an effect of it.
+If one of the objects is much lighter than the other (like the earth is to the sun, or a satellite is to earth) we can approximate the situation by saying that the heavier mass (the sun) does not move, since its acceleration will be far smaller due to its large mass.
+Then, if the lighter mass remains at a relatively constant absolute distance from the heavier one (remember, centripetal force needs to be constant in magnitude), we can say that the lighter mass experiences an effectively centripetal force and thus has a centripetal acceleration.
+Math of Centripetal Gravity
+Gravity is not always a centripetal force.
+This is a really important point.
+It only acts as a centripetal force when conditions approximate those listed above --- very much like it isn't constant near the surface of the earth, but very close to it.
+If gravity provides centripetal force and acceleration, we can set [2] equal to [4].
+It's important to remember that in [2]  m  refers to the lighter mass, since that is the one traveling.
+Then, \frac{G\cancel{m_1}m_2}{\cancelto{r}{r^2}} = \frac{\cancel{m_1}v^2}{\cancel{r}}\intertext{So, the relationship between velocity and radius for a circular orbit of a light object around an heavy mass (note the mass of the lighter object cancels) is:}Gm_2 = {v_{\text{orb}}}^2 r_{\text{orb}}
+This is the orbit where a satellite completes one orbit of the Earth every 24 hours, staying above the same spot (longitude) on Earth.
+This is a very important orbit for spy satellites and TV satellites among others.
+You force the speed of the satellite to be a value such that the satellite makes one rotation every 24 hours.
+Watch this Explanation
+Click on the image above for more content
+A digital TV satellite is placed in geosynchronous orbit around Earth, so it is always in the same spot in the sky.

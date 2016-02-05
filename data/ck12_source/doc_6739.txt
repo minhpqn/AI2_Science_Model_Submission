@@ -1,0 +1,20 @@
+Click on the image above for more content
+A 700kg car makes a turn going at 30 m/s with radius of curvature of 120m.
+What is the force of friction between the car’s tires and the road?
+An object of mass 10 \;\mathrm{kg} is in a circular orbit of radius 10 \;\mathrm{m} at a velocity of 10 \;\mathrm{m/s} .
+Calculate the centripetal force (in N ) required to maintain this orbit.
+What is the acceleration of this object?
+Suppose you are spinning a child around in a circle by her arms.
+The radius of her orbit around you is 1 meter.
+Her speed is 1 \;\mathrm{m/s} .
+Her mass is 25 \;\mathrm{kg} .
+What is the magnitude and direction of tension in your arms?
+In her arms?
+A racecar is traveling at a speed of 80.0 \;\mathrm{m/s} on a circular racetrack of radius 450 \;\mathrm{m} .
+What is its centripetal acceleration in \;\mathrm{m/s}^2 ?
+What is the centripetal force on the racecar if its mass is 500 \;\mathrm{kg} ?
+What provides the necessary centripetal force in this case?
+The radius of the Earth is 6380 \;\mathrm{km} .
+Calculate the velocity of a person standing at the equator due to the Earth’s 24 hour rotation.
+Calculate the centripetal acceleration of this person and express it as a fraction of the acceleration g due to gravity.
+Is there any danger of “flying off”?

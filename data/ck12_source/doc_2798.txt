@@ -1,0 +1,20 @@
+The concentration of a solution is the amount of solute in a given amount of solution.
+A solution with a lot of dissolved solute has a high concentration and is called a concentrated solution.
+A solution with little dissolved solute has a low concentration and is called a dilute solution.
+Calculating the Concentration of a Solution
+The concentration of a solution represents the percentage of the solution that is the solute.
+You can calculate the concentration of a solution using this formula:
+\mathrm{Concentration= \frac{Mass \; (or \; volume) \; of \;
+Solute}{Mass \; (or \; volume) \; of \;
+Solution} \times 100\%}
+For example, if a 100-gram solution of salt water contains 3 grams of salt, then its concentration is:
+\mathrm{Concentration= \frac{3g}{100g} \times 100\%}=3\%
+Q:
+A 1000 mL container of brand A juice drink contains 250 mL of juice and 750 mL of water.
+A 600 mL container of brand B juice drink contains 200 mL of juice and 400 mL of water.
+Which brand of juice drink is more concentrated, brand A or brand B?
+A: \mathrm{Concentration(A)= \frac{250\; mL}{1000\; mL} \times 100\%}=25\%
+\mathrm{Concentration(B)= \frac{200\; mL}{600\; mL} \times 100\%}=33\%
+You can conclude that brand B is more concentrated.
+At the following URLs, you can learn how to solve concentration problems that are a little more challenging.
+The concentration of a solution is the amount of solute in a given amount of solution.

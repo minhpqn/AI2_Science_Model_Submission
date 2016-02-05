@@ -1,0 +1,20 @@
+If the secondary voltage is larger than the primary voltage, the transformer is called a step-up transformer .
+If the voltage out of the transformer is smaller than the voltage in, then the transformer is called a step-down transformer .
+In an ideal transformer, the electric power put into the primary equals the electric power delivered by the secondary.
+V_PI_P = V_SI_S
+The current that flows in the primary depends on how much current is required by the secondary circuit.
+Example Problem:
+A particular step-up transformer has 200 turns on the primary coil and 3000 turns on the secondary coil.
+If the voltage on the primary coil is 90.0 V, what is the voltage on the secondary coil?
+If the current in the secondary circuit is 2.00 A, what is the current in the primary coil?
+What is the power in the primary circuit?
+What is the power in the secondary circuit?
+\frac{V_P}{V_S}=\frac{N_P}{N_S} \qquad \frac{90.0 \ V}{V_S}=\frac{200}{3000} \qquad V_S=\frac{(90.0 \ V)(3000)}{(200)}=1350 \ V
+\frac{I_S}{I_P}=\frac{N_P}{N_S} \qquad \frac{2.00 \ A}{I_P}=\frac{200}{3000} \qquad I_P=30.0 \ A
+P_P = V_PI_P = (90.0 \ V)(30.0 \ A) = 2700 \ W
+P_S = V_SI_S = (1350 \ V)(2.00 \ A) = 2700 \ W
+When a current begins to flow in a wire, a circular magnetic field forms around the wire.
+Within the first fractional second when the current begins to flow, the magnetic field expands outward from the wire.
+If a second wire is placed nearby, the expanding field will pass through the second wire and induce a brief current in the wire.
+A transformer is a device used to increase or decrease alternating current voltages.
+A transformer has two coils, electrically insulated from each other.

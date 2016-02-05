@@ -1,0 +1,20 @@
+The moles of CaCl 2 is first calculated, followed by the molality of the solution.
+The freezing and boiling points are then determined, including multiplying by 3 for the three ions.
+Step 2:
+Solve.
+82.20 \text{ g CaCl}_2 \times \frac{1 \text{ mol CaCl}_2}{110.98 \text{ g CaCl}_2} &= 0.7407 \text{ mol CaCl}_2\\\frac{0.7407 \text{ mol CaCl}_2}{0.400 \text{ kg H}_2\text{O}} &= 1.85 \ m \ \text{CaCl}_2
+\Delta T_f &= K_f \times m \times 3=-1.86^\circ \text{C}/m \times 1.85 \ m \times 3=-10.3^\circ \text{C} && T_f=-10.3^\circ \text{C}\\\Delta T_b &= K_b \times m \times 3=0.512^\circ \text{C}/m \times 1.85 \ m \times 3=2.84^\circ \text{C} && T_b=102.84^\circ \text{C}
+Step 3:
+Think about your result.
+Since the normal boiling point of water is 100.00°C, the calculated result for \Delta T_b  must be added to 100.00 to find the new boiling point.
+The effect of ionization on colligative properties is described.
+Do the practice and homework problems dealing with ionic solutions toward the end of the section on the link below:
+Why do ionic materials change the colligative properties of a solution?
+Would HCl be expected to alter colligative properties?
+Calcium carbonate is ionic, but insoluble in water.
+What effect would it have on the boiling point of water?
+Calculating Molar Mass
+Perform calculations for the determination of molar mass from changes in boiling or freezing points.
+It is possible to calculate quantities like molecular weight from freezing point depression
+How much antifreeze is needed?
+We know that we can put antifreeze into a radiator and keep an engine from freezing up.

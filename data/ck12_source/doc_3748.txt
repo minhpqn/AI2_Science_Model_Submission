@@ -1,0 +1,20 @@
+Explain the roles of the operator, the promoter, and the repressor.
+Summarize regulation of the lac operon.
+On or off?
+When it comes to genes, that is an important question.
+And if you're a single-celled organism like a bacterium, conserving energy by not producing unnecessary proteins is very important.
+Prokaryotic Gene Regulation
+Transcription is regulated differently in prokaryotes and eukaryotes.
+In general, prokaryotic regulation is simpler than eukaryotic regulation.
+The Role of Operons
+Regulation of transcription in prokaryotes typically involves operons.
+An operon is a region of DNA that consists of one or more genes that encode the proteins needed for a specific function.
+The operon also includes a promoter and an operator.
+The operator is a region of the operon where regulatory proteins bind.
+It is located near the promoter and helps regulate transcription of the operon genes.
+The Lac Operon
+A well-known example of operon regulation involves the lac operon in E. coli bacteria (see Figure below and the video at the link below).
+The lac operon consists of a promoter, an operator, and three genes that encode the enzymes needed to digest lactose, the sugar found in milk.
+The lac operon is regulated by lactose in the environment.
+The Lac Operon video at explains the operon in further detail.
+When lactose is absent, a repressor protein binds to the operator.

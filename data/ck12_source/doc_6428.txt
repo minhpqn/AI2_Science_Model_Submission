@@ -1,0 +1,20 @@
+How does that work?
+An indicator is a weak acid that ionizes within a known pH range, usually about 2 pH units.
+We can represent the protonated form of the indicator molecule as HIn and the deprotonated form as In − .
+The following equilibrium exists for the indicator.
+\text{HIn}(aq) \rightleftarrows \text{H}^+(aq)+\text{In}^-(aq)
+According to LeChâtelier’s principle, the addition of H + ions (as in a low pH solution) drives the equilibrium to the left and the protonated HIn predominates.
+The addition of OH − (as in a high pH solution) decreases the H + concentration and drives the equilibrium to the right and the deprotonated In − predominates.
+To be useful as an indicator, the two forms must be different colors.
+In the case of phenolphthalein, the protonated form is colorless, while the deprotonated form is pink.
+The Figure below shows a variety of acid-base indicators that can be used in titration experiments.
+Many indicators can be used for acid-base experiments
+Depending on the pH at the equivalence point, the appropriate indicator must be chosen.
+For example, bromphenol blue has a yellow color below a pH of about 3 and a blue-violet color above a pH of about 4.
+Bromphenol blue would not be a good choice as the indicator for a strong acid-strong base titration, because the pH is 7 at the equivalence point.
+Instead, it could be used for a strong acid-weak base titration, where the pH at the equivalence point is lower.
+Most indicators have two colored forms.
+Universal indicator displays the entire rainbow of colors from low pH to high pH (see Figure below ).
+Universal indicator is used to make pH paper, which can be used to quickly test solutions for their approximate pH.
+Universal indicator can be used to quickly test the pH of a solution
+Universal indicator tape.

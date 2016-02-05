@@ -1,0 +1,20 @@
+A gas produced in a chemical reaction can be collected by water displacement.
+Because the gas is collected over water, it is not pure but is mixed with vapor from the evaporation of the water.
+Dalton’s law can be used to calculate the amount of the desired gas by subtracting the contribution of the water vapor.
+P_{\text{Total}} &=P_g+P_{H_2 O} \qquad P_g \text{ is the pressure of the desired gas}\\P_g &=P_{\text{Total}}- P_{H_2 O}
+In order to solve a problem, it is necessary to know the vapor pressure of water at the temperature of the reaction (see Table below ).
+The sample problem illustrates the use of Dalton’s law when a gas is collected over water.
+Click on the image above to view the table
+Sample Problem:
+Gas Collected by Water Displacement
+A certain experiment generates 2.58 L of hydrogen gas, which is collected over water.
+The temperature is 20°C and the atmospheric pressure is 98.60 kPa.
+Find the volume that the dry hydrogen would occupy at STP.
+Step 1:
+List the known quantities and plan the problem.
+V_{\text{Total}} =2.58 \text{ L}
+T=20^ \circ \text{C}=293 \text{ K}
+P_{\text{Total}} =98.60 \text{ kPa}=739.7 \text{ mmHg}
+V_{H_2} \ \text{at} \ STP= ? \text{ L}
+The atmospheric pressure is converted from kPa to mmHg in order to match units with the table.
+The sum of the pressures of the hydrogen and the water vapor is equal to the atmospheric pressure.

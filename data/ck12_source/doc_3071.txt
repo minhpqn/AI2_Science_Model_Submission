@@ -1,0 +1,20 @@
+This force causes the object to split apart.
+Diagram of a wedge at work
+A knife is another example of a wedge.
+In the Figure below , a knife is being used to chop tough pecans.
+The job is easy to do with the knife because of the wedge shape of the blade.
+The very thin edge of the blade easily enters and cuts through the pecans.
+You can see other examples of wedges, as well as a history of the wedge, at the following URL:
+Knife cutting through nuts
+Mechanical Advantage of a Wedge
+The mechanical advantage of a simple machine is the factor by which it multiplies the force applied to the machine.
+It is the ratio of the output force to the input force.
+A wedge applies more force to the object (output force) than the user applies to the wedge (input force), so the mechanical advantage of a wedge is greater than 1.
+A longer, thinner wedge has a greater mechanical advantage than a shorter, wider wedge.
+With all wedges, the trade-off is that the output force is applied over a shorter distance, so force may need to be applied to the wedge repeatedly to push it through the object.
+Q :
+Which wedge in the Figure below do you think would do the same amount of work with less input force?
+Wedges of different shapes
+A :
+The wedge on the left has a greater mechanical advantage, so it would do the same amount of work with less input force.
+A wedge is a simple machine that consists of two inclined planes, giving it a thin end and thick end.

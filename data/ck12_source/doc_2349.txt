@@ -1,0 +1,20 @@
+This statement may or may not be true, but it is not a scientific hypothesis.
+That’s because it can’t be tested.
+Given the nature of the hypothesis, there are no observations a scientist could make to test whether or not it is false.
+A Scientific Hypothesis Must Be Falsifiable
+A hypothesis may be testable, but even that isn’t enough for it to be a scientific hypothesis.
+In addition, it must be possible to show that the hypothesis is false if it really is false.
+Consider this statement:
+“There are other planets in the universe where life exists.”
+This statement is testable.
+If it is true, it is at least theoretically possible to find evidence showing that it’s true.
+For example, a spacecraft could be sent from Earth to explore the universe and report back if it discovers an inhabited planet.
+If such a planet were found, it would prove the statement is true.
+However, the statement isn’t a scientific hypothesis.
+Why?
+If it is false, it’s not possible to show that it’s false.
+The spacecraft may never find an inhabited planet, but that doesn't necessarily mean there isn’t one.
+Given the vastness of the universe, we would never be able to check every planet for life!
+Both Testable and Falsifiable
+Let’s consider one last example, which is illustrated in the Figure below :
+"Any two objects dropped at the same time from the same height will reach the ground at the same time (assuming the absence of air resistance)."

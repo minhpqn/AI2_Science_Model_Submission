@@ -1,0 +1,20 @@
+This MIT video examines the phenomenon of Joule heating through the perspective of a blender, reproducing the experiment of the  English physicist James Prescott Joule .
+See the video at
+The thermal energy, or heat, of an object is obtained by adding up the kinetic energy of all the molecules within it.
+Temperature is the average kinetic energy of the molecules.
+Absolute zero is the temperature where molecular motion stops and is the lowest possible temperature.
+Zero on the Celsius scale is the freezing point of water and 100°C is the boiling point of water.
+The relationship between Celsius and Kelvin temperature scales is given by K = °C + 273.15.
+The following video demonstrates how some materials conduct heat better than others.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+Which material was a better conductor of heat?
+Explain why metals feel cold even when thay are at room temperature.
+Heat and temperature practice problems and questions:
+Convert 4.22 K to °C.
+Convert 37°C to K.
+If you had beeswax attached to one end of a metal skewer and you placed the other end of the skewer in a flame, what would happen after a few minutes?
+Which contains more heat, a coffee cup of boiling water or a bathtub of room temperature water?
+thermal energy:
+The total energy of a substance particles due to their translational movement or vibrations.
+heat: energy transferred from one body to another by thermal interactions.

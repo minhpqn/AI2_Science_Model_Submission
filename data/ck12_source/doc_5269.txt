@@ -1,0 +1,20 @@
+Specifically, two noncoding, complementary RNAs, XIST and TSIX, initiate and control the inactivation process.
+XIST, or X-inactive specific transcript, was discovered due to its specific expression from inactive female X chromosomes.
+XIST has four unique properties:
+The XIST gene produces a 17 kilo base (kb) RNA molecule; the RNA is not translated into a protein.
+The XIST gene is only expressed in cells containing at least two X chromosomes; it is not normally expressed in XY cells.
+Cells with more than two X chromosomes have higher levels of XIST RNA, resulting in the inactivation of the additional X chromosomes.
+The result is that only one X chromosome per cell can remain active.
+XIST RNA remains in the nucleus where it binds to the chromosome from which it is produced.
+XIST RNA recruits additional silencing proteins to bind to the inactive X chromosome.
+TSIX, on the other hand, does the opposite of XIST.
+Notice that TSIX is XIST backwards.
+TSIX is XIST's antisense partner.
+The TSIX gene is transcribed in the opposite direction of the XIST gene, and it is transcribed across the entire XIST gene.
+TSIX is a 40 kb noncoding RNA transcribed from the X chromosome that does not produce the XIST RNA.
+There is an inverse relationship between TSIX and XIST expression.
+The X chromosome that expresses XIST does not transcribe TSIX as XIST expression leads to inactivation of that same X chromosome.
+On the other X chromosome, TSIX is expressed and XIST is not.
+This suggests that TSIX is required to block XIST expression on the active X chromosome, keeping that chromosome from being inactivated.
+Inheritance of Sex Chromosomes.
+Mothers pass only X chromosomes to their children.

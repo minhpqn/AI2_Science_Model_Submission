@@ -1,0 +1,20 @@
+Mendel summarized his findings in two laws: the Law of Segregation and the Law of Independent Assortment.
+The Law of Segregation is based on his findings from his first set of experiments.
+Mendel stated that heritable factors are segregated during gamete formation.
+More precisely, this law states that a pair of alleles is separated, or segregated, during the formation of gametes.
+During meiosis, homologous chromosomes are randomly separated.
+Each resulting gamete has an equal probability or chance of receiving either of the two alleles.
+In other words, each gamete has only one allele for each gene.
+See Genes are real things at for an animation of Hugo de Vries, Carl Correns and Erich von Tschermak-Seysenneg rediscovering Mendel's work in the year 1900.
+allele :
+An alternative form or different version of a gene.
+dominant :
+The allele that is expressed when two separate alleles are inherited.
+gene :
+A segment of DNA that contains information to encode an RNA molecule or a single polypeptide.
+Law of Segregation :
+Mendel’s first law of inheritance; states that the two factors (alleles) controlling a characteristic separate during gamete formation.
+recessive :
+The allele that is expressed only in the absence of a dominant allele.
+Mendel developed a theory that explained simple patterns of inheritance in which two alleles are inherited to result in one of several traits in offspring.
+The law of segregation states that a pair of alleles is segregated during the formation of gametes and that each gamete has an equal chance of getting either one of the allele.

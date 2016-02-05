@@ -1,0 +1,20 @@
+Their electrons can move freely and carry electric current.
+You can see in detail how this occurs at the URL below.
+Atoms of nonmetals such as the carbon, on the other hand, hold onto their electrons.
+Their electrons can’t move freely and carry current.
+A few elements, called metalloids, can conduct electricity, but not as well as metals.
+Examples include silicon and germanium in group 14.
+Both become better conductors at higher temperatures.
+These elements are called semiconductors.
+Q:
+How many valence electrons do atoms of silicon and germanium have?
+What happens to their valence electrons when the atoms are exposed to an electric field?
+A:
+Atoms of these two elements have four valence electrons.
+When the atoms are exposed to an electric field, the valence electrons move away from the atoms and allow current to flow.
+Valence electrons are the electrons in the outer energy level of an atom that can participate in interactions with other atoms.
+Because valence electrons are so important, atoms may be represented by electron dot diagrams that show only their valence electrons.
+The number of valence electrons in atoms may cause them to be unreactive or highly reactive.
+For those atoms that are reactive, the number of valence electrons also determines whether they tend to give up or gain electrons in chemical reactions.
+Metals, which easily give up electrons, can conduct electricity.
+Nonmetals, which attract electrons, generally cannot.

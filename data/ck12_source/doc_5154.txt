@@ -1,0 +1,20 @@
+The mitosis checkpoint determines the end of one cycle and the beginning of the next.
+This checkpoint occurs at the point in metaphase where all the chromosomes should have aligned at the metaphase plate.
+This checkpoint signals the beginning of anaphase, allowing the cell to complete mitosis and prepare for the beginning of G 1 of the next cell cycle.
+The DNA synthesis (S) checkpoint determines if the cell is ready for mitosis.
+DNA repair enzymes check the replicated DNA at this point.
+If the checkpoint is passed, the many molecular mechanisms and processes needed for mitosis will begin.
+Checkpoints in the eukaryotic cell cycle ensure that the cell is ready to proceed before it moves on to the next phase of the cycle.
+In this diagram the G 1 , S, and M checkpoints are shown.
+G 0 phase
+1 st growth phase
+2 nd growth phase
+The G 1 checkpoint ensures that the cell has completed its homeostatic functions and is ready for DNA synthesis.
+The S phase checkpoint ensures that DNA replication is complete.
+The G 2 checkpoint ensures that the cell is ready to enter the M (mitosis) phase and divide.
+A checkpoint in the middle of mitosis (at metaphase) ensures that the cell is ready to complete cell division.
+cyclin-dependent kinases (CDK) :
+A family of protein kinases discovered for their role in regulating the cell cycle; also involved in regulating transcription, mRNA processing, and the differentiation of nerve cells.
+cyclins :
+A family of proteins that control the progression of cells through the cell cycle; activates cyclin-dependent kinase (CDK) enzymes.
+feedback regulation :

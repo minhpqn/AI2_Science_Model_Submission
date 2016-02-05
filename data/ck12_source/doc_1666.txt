@@ -1,0 +1,20 @@
+This represents a tiny embryo just beginning to form.
+Once an egg is fertilized, the resulting single cell must divide many, many times to develop a fetus.
+Both mitosis and meiosis involve cell division; is this type of cell division an example of mitosis or meiosis?
+The answer is mitosis.
+With each division you are making a genetically exact copy of the parent cell, which only happens through mitosis.
+Mitosis vs.
+Meiosis
+Mitosis, meiosis, and sexual reproduction are discussed at and
+Click on the image above for more content
+Both mitosis and meiosis result in eukaryotic cells dividing.
+So what is the difference between mitosis and meiosis?
+The primary difference is the differing goals of each process.
+The goal of mitosis is to produce two daughter cells that are genetically identical to the parent cell, meaning the new cells have exactly the same DNA as the parent cell.
+Mitosis happens when you want to grow, for example.
+You want all your new cells to have the same DNA as the previous cells.
+The goal of meiosis, however, is to produce sperm or eggs, also known as gametes .
+The resulting gametes are not genetically identical to the parent cell.
+Gametes are haploid cells, with only half the DNA present in the diploid parent cell.
+This is necessary so that when a sperm and an egg combine at fertilization , the resulting zygote has the correct amount of DNA—not twice as much as the parents.
+The zygote then begins to divide through mitosis.

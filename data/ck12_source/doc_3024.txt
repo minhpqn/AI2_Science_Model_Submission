@@ -1,0 +1,20 @@
+That’s because of momentum.
+What Is Momentum?
+Momentum is a property of a moving object that makes it hard to stop.
+The more mass it has or the faster it’s moving, the greater its momentum.
+Momentum equals mass times velocity and is represented by the equation:
+Momentum = Mass × Velocity
+Q :
+What is Cody’s momentum as he stands at the top of the ramp?
+A :
+Cody has no momentum as he stands there because he isn’t moving.
+In other words, his velocity is zero.
+However, Cody will gain momentum as he starts moving down the ramp and picks up speed.
+Q :
+Cody’s older brother Jerod is pictured in the Figure below .
+If Jerod were to travel down the ramp at the same velocity as Cody, who would have greater momentum?
+Who would be harder to stop?
+A :
+Jerod obviously has greater mass than Cody, so he would have greater momentum.
+He would also be harder to stop.
+You can see an animation demonstrating the role of mass and velocity in the momentum of moving objects at this URL:

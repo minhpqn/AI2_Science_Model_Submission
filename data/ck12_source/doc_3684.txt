@@ -1,0 +1,20 @@
+Frequencies of crossing-over can be used to construct a linkage map like the one in Figure below .
+A linkage map shows the locations of genes on a chromosome.
+Linkage map for the human X chromosome
+Linkage Map for the Human X Chromosome.
+This linkage map shows the locations of several genes on the X chromosome.
+Some of the genes code for normal proteins.
+Others code for abnormal proteins that lead to genetic disorders.
+Which pair of genes would you expect to have a lower frequency of crossing-over: the genes that code for hemophilia A and G6PD deficiency, or the genes that code for protan and Xm?
+Linked genes are located on the same chromosome.
+Sex-linked genes are located on a sex chromosome, and X-linked genes are located on the X chromosome.
+The frequency of crossing-over between genes is used to construct linkage maps that show the locations of genes on chromosomes.
+Use these resources to answer the questions that follow.
+Recombination and Estimating the Distance Between Genes at
+What is recombination?
+What determines the amount of recombination between two genes?
+What are recombinant gametes?
+What is a centimorgan?
+T.
+H.
+Morgan at

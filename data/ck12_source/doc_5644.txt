@@ -1,0 +1,20 @@
+How many electrons can there be in each type of orbital shown in the Figure above ?
+A:
+There can be a maximum of two electrons in any orbital, regardless of its shape.
+Q:
+Where is the nucleus in each orbital?
+A:
+The nucleus is at the center of each orbital.
+It is in the middle of the sphere in the S orbital and in the pinched part of the P orbital.
+What’s Your Energy Level?
+Electrons are located at fixed distances from the nucleus, called energy levels.
+You can see the first three energy levels in the Figure below .
+The diagram also shows the maximum possible number of electrons at each energy level.
+Electrons at lower energy levels, which are closer to the nucleus, have less energy.
+At the lowest energy level, which has the least energy, there is just one orbital, so this energy level has a maximum of two electrons.
+Only when a lower energy level is full are electrons added to the next higher energy level.
+Electrons at higher energy levels, which are farther from the nucleus, have more energy.
+They also have more orbitals and greater possible numbers of electrons.
+Electrons at the outermost energy level of an atom are called valence electrons.
+They determine many of the properties of an element.
+That’s because these electrons are involved in chemical reactions with other atoms.

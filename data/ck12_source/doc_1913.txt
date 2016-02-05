@@ -1,0 +1,20 @@
+They form different, stable elements when they decay.
+The decay of an unstable isotope to a stable element occurs at a constant rate.
+This rate is different for each parent-daughter isotope pair.
+The decay rate is measured in a unit called the half-life.
+The half-life is the time it takes for half of a given amount of an isotope to decay.
+For example, the half-life of carbon-14 is 5,730 years.
+Imagine that you start out with 100 grams of carbon-14.
+In 5,730 years, half of it decays.
+This leaves 50 grams of carbon-14.
+Over the next 5,730 years, half of the remaining amount will decay.
+Now there are 25 grams of carbon-14.
+How many grams will there be in another 5,730 years?
+The figure below graphs the rate of decay of a substance ( Figure below ).
+Graph of the decay of an imaginary radioactive substance with a half-life of one year
+The rate of decay of a radioactive substance is constant over time.
+A half-life is the time it takes for half of the parent isotopes of an element to change to the daughter product.
+With alpha decay, the nucleus loses two protons and two neutrons.
+Carbon-14 has a half-life of 5,730 years.
+Use the resource below to answer the questions that follow.
+What Is Carbon Dating? at

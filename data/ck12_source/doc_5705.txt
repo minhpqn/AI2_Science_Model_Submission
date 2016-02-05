@@ -1,0 +1,20 @@
+At the heart of quantum mechanics is the idea that we cannot specify accurately the location of an electron.
+All we can say is that there is a probability that it exists within this certain volume of space.
+The scientist Erwin Schrödinger developed an equation that deals with these calculations, which we will not pursue at this time.
+Picture of Erwin Schrodinger
+Quantum mechanics involves the study of material at the atomic level.
+This field deals with probabilities since we cannot definitely locate a particle.
+Use the link below to answer the following questions:
+What were the scientific interests of Schrödinger’s father?
+When did Schrödinger discover his wave equation?
+What award did he receive for this work?
+In what other areas did Schrödinger carry out research?
+What does quantum mechanics deal with?
+How would you describe an electron?
+What did Schrödinger demonstrate about the location of a particle?
+quanta:
+Plural of quantum, smallest amount of energy that can exist independently.
+quantum mechanics:
+The study of the motion of objects that are atomic or subatomic in size and thus demonstrate wave-particle duality.
+Heisenberg Uncertainty Principle
+State the Heisenberg Uncertainty Principle.

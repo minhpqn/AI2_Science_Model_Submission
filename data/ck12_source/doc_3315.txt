@@ -1,0 +1,20 @@
+Q:
+The tungsten wire inside a light bulb is extremely thin.
+How does this help it do its job?
+A:
+The extremely thin wire has more resistance than a wider wire would.
+This helps the wire resist electric current and change it to light.
+In physics, resistance is opposition to the flow of electric charges that occurs as electric current travels through matter.
+The SI unit for resistance is the ohm.
+All materials have resistance.
+How much resistance a material has depends on the type of material, its width, its length, and its temperature.
+Resistance is a hindrance when a material is being used to transmit electric current.
+Resistance is helpful when a material is being used to produce heat or light.
+Explore the interactive simulation at the following URL.
+Then answer the questions below.
+For a given voltage, how does increasing resistance affect the current in the circuit?
+For a given level of resistance, how does increasing the voltage affect the current in the circuit?
+Based on your answers to questions 1 and 2, write a simple equation to sum up the relationships among current, voltage, and resistance.
+What is resistance?
+Name the SI unit for resistance.
+Explain what causes resistance.

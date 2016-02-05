@@ -1,0 +1,20 @@
+Given data about the optical density of the media, predict whether the light will bend toward the normal or away from the normal.
+State Snell’s Law and solve refraction problems using it.
+Solve problems using the relationship between the index of refraction and the velocity of light in the media.
+Explain effects caused by the refraction of light.
+A pencil looks bent in a glass of water due to refraction
+When a light ray passes at an angle through the boundary between optically different media, the light does not travel in a straight line.
+The pencil in the glass of liquid shown above is a normal straight pencil.
+The light that travels from the pencil through the liquid, through the glass, and into the air is bent differently than light from the portion of the pencil that is not in the liquid.
+Your eye assumes the light from both portions of the pencil moved in a straight line, but the two portions of the pencil do not appear to be lined up.
+Your eye thinks the pencil is broken.
+Refraction of Light
+The speed of light is different in different media.
+If the speed of light is slower in a particular medium, that medium is said to be more optically dense .
+When a wave front enters a new medium at an angle, it will change directions.  If the light is entering a more optically dense medium, the light bends toward the normal line.
+If the light is entering a less optically dense medium, the light will bend away from the normal line.
+Remember that the normal line is the line perpendicular to the medium interface.
+In the sketch below, light wave fronts are moving upward from the bottom of the page and encounter a boundary into a more optically dense medium.
+The light waves bend toward the normal line.
+Because the right end of the wave fronts enter the new medium first, they slow down first.
+When the right side of the wave front is moving more slowly that the left side, the wave front will change directions.

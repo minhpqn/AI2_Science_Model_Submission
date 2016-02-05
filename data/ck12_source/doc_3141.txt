@@ -1,0 +1,20 @@
+Temperature is read off the scale at the height of the liquid in the tube.
+To learn more about measuring temperature, watch the animation “Measuring Temperature” at this URL:
+Illustration of a thermometer
+Q:
+Why does the liquid in the thermometer expand and contract when temperature changes?
+A:
+When the temperature is higher, particles of the liquid have greater kinetic energy, so they move about more and spread apart.
+This causes the liquid to expand.
+The opposite happens when the temperature is lower and particles of liquid have less kinetic energy.
+The particles move less and crowd closer together, causing the liquid to contract.
+The thermometer pictured in the Figure above measures temperature on two different scales:
+Celsius (C) and Fahrenheit (F).
+Although some scientists use the Celsius scale, the SI scale for measuring temperature is the Kelvin scale .
+If you live in the U.S., you are probably most familiar with the Fahrenheit scale.
+The Table below compares all three temperature scales.
+Each scale uses as reference points the freezing and boiling points of water.
+Notice that temperatures on the Kelvin scale are not given in degrees (°).
+Freezing Point of Water
+Boiling Point of Water
+Because all three temperature scales are frequently used, it’s useful to know how to convert temperatures from one scale to another.

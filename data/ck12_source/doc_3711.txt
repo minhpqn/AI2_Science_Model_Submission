@@ -1,0 +1,20 @@
+DNA is found in chromosomes.
+In eukaryotic cells, chromosomes always remain in the nucleus, but proteins are made at ribosomes in the cytoplasm.
+How do the instructions in DNA get to the site of protein synthesis outside the nucleus?
+Another type of nucleic acid is responsible.
+This nucleic acid is RNA , or ribonucleic acid.
+RNA is a small molecule that can squeeze through pores in the nuclear membrane.
+It carries the information from DNA in the nucleus to a ribosome in the cytoplasm and then helps assemble the protein.
+In short:
+DNA → RNA → Protein
+Discovering this sequence of events was a major milestone in molecular biology.
+It is called the central dogma of molecular biology .
+You can watch a video about the central dogma and other concepts in this lesson at this link:
+The vocabulary of DNA, including the two processes involved in the central dogma, transcription and translation , is discussed at
+Click on the image above for more content
+An overview of protein synthesis can be viewed at
+The central dogma of molecular biology states that DNA contains instructions for making a protein, which are copied by RNA.
+RNA then uses the instructions to make a protein.
+In short:
+DNA → RNA → Protein, or DNA to RNA to Protein.
+Click on the image above for more content

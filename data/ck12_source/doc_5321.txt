@@ -1,0 +1,20 @@
+The structure of DNA was still unknown, and many scientists were not convinced that genes from bacteria and more complex organisms could be similar.
+See A gene is made of DNA at  to see Oswald Avery describe his Griffith's and his work.
+Alfred Hershey and Martha Chase
+In 1952, Alfred Hershey and Martha Chase put this skepticism to rest.
+They conclusively demonstrated that DNA is the genetic material.
+Hershey and Chase used the T2 bacteriophage , a virus that infects bacteria, to prove this point.
+A virus is essentially DNA (or RNA) surrounded by a protein coat ( Figure below ).
+To reproduce, a virus must infect a cell and use that host cell’s machinery to make more viruses, a replicative process known as the lytic cycle .
+The T2 bacteriophage can quickly turn an Escherichia coli (E. coli) bacteria into a T2 producing system.
+But to do that, the genetic material from T2, which could only be either protein or DNA, must be transferred to the bacteria.
+Which one was it?
+Structural overview of T2 phage.
+A 2-dimensional representation is on the left, and a 3-dimensional representation is on the right.
+The phage is essentially nucleic acid surrounded by a protein coat.
+Hershey and Chase performed a series of classic experiments, taking advantage of the fact that T2 is essentially just DNA and protein.
+In the experiments, T2 phages with either radioactive 32 P-labeled DNA or radioactive 35 S-labeled protein were used to infect bacteria.
+Either the radioactive proteins or radioactive DNA would be transferred to the bacteria, depending on which one was the genetic material.
+Thus, identifying which one was transferred would identify the genetic material.
+In both experiments, bacteria were separated from the phage coats by blending, followed by centrifugation.
+Hershey and Chase then asked which phase following centrifugation was radioactive: the supernatant or the cell pellet.

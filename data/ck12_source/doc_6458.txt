@@ -1,0 +1,20 @@
+Step 1:
+Plan the problem .
+Use the oxidation number rules to assign oxidation numbers to each atom in the balanced equation.
+Coefficients do not affect oxidation numbers.
+The oxidized atom increases in oxidation number and the reduced atom decreases in oxidation number.
+Step 2:
+Solve .
+\overset{+3}{\text{Fe}_2} \overset{-2}{\text{O}_3} (s)+3 \overset{+2}{\text{C}} \overset{-2}{\text{O}} (g) \rightarrow 2 \overset{0}{\text{Fe}}(s)+3 \overset{+4}{\text{C}} \overset{-2}{\text{O}_2}(g)
+The element carbon is oxidized because its oxidation number increases from +2 to +4.
+The iron(III) ion within the Fe 2 O 3 is reduced because its oxidation number decreases from +3 to 0.
+The carbon monoxide (CO) is the reducing agent since it contains the element that is oxidized.
+The Fe 3+ ion is the oxidizing agent since it is reduced in the reaction.
+Processes for determining which atoms are oxidized and which are reduced in a chemical reaction are described.
+Complete problems 31-43 at the link below:
+In the example reaction above, list the ways the reduction of ferric oxide fits the definitions of oxidation and reduction.
+In the reaction below, what is oxidized and what is reduced? \text{Cr}_2\text{O}_{3(s)} + 2\text{Al}_{(s)} \rightarrow 2\text{Cr}_{(s)} + \text{Al}_{2}\text{O}_{3(s)}
+List the ways that the conversion of aluminum in the reaction above fits the definitions in the table.
+Identifying Reaction Types
+List criteria for determining whether or not a given reaction involves oxidation and reduction.
+The reaction of copper with nitric acid leaves a blue solution of copper 2+ ion behind

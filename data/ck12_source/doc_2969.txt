@@ -1,0 +1,20 @@
+Bicyclist accelerating on a downhill stretch
+Q:
+The cyclist slows down at the end of the race.
+His velocity changes from 6 m/s to 2 m/s during a period of 4 seconds without any change in direction.
+What was his average acceleration during these 4 seconds?
+A:
+Use the equation given above for acceleration:
+\text{acceleration} & =\frac{\Delta v}{\Delta t} \\\ & = \frac{6 \ \text{m/s}-2 \ \text{m/s}}{4 \ \text{s}} \\\ & = \frac{4 \ \text{m/s}}{4 \ \text{s}} \\\ & = \frac{1 \ \text{m/s}}{1 \ \text{s}} \\\ & = 1 \ \text{m/s}^2
+To calculate average acceleration when direction is not changing, divide the change in velocity by the change in time using the formula: \text{acceleration}=\frac{\Delta v}{\Delta t}\\\
+The SI unit for acceleration is m/s 2 .
+Practice calculating acceleration by doing the worksheet at this URL:
+Write the equation for acceleration without a change in direction.
+What is the SI unit for acceleration?
+During the final 5 seconds of a race, a cyclist increased her velocity from 4 m/s to 7 m/s.
+What was her average acceleration during those last 5 seconds?
+Show how to draw a velocity-time graph.
+Explain what the slope of a velocity-time graph represents.
+The sprinter in this image is just taking off from the starting blocks to run a short race down a straight track.
+She starts in a burst of speed and will pick up even more speed during the first few seconds of the race.
+She’ll keep running at top speed until she crosses the finish line.

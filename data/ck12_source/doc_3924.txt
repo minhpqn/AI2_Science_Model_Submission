@@ -1,0 +1,20 @@
+Therefore, most do not grow exponentially.
+Certainly, no population can keep growing exponentially for very long.
+Many factors may limit growth.
+Often, the factors are density dependent (known as density-dependent factors ).
+These are factors that are influential when the population becomes too large and crowded.
+For example, the population may start to run out of food or be poisoned by its own wastes.
+As a result, population growth slows and population size levels off.
+Curve B in Figure above represents this pattern of growth, which is called logistic growth .
+At what population size does growth start to slow in the logistic model of growth?
+That depends on the population’s carrying capacity (see Figure above ).
+The carrying capacity (K) is the largest population size that can be supported in an area without harming the environment.
+Population growth hits a ceiling at that size in the logistic growth model.
+K -Selected and r -Selected Species
+Species can be divided into two basic types when it comes to how their populations grow.
+Species that live in stable environments are likely to be K -selected .
+Their population growth is controlled by density-dependent factors.
+Population size is generally at or near the carrying capacity.
+These species are represented by curve B in Figure above .
+Species that live in unstable environments are likely to be r -selected .
+Their potential population growth is rapid.

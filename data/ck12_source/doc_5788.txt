@@ -1,0 +1,20 @@
+The largest electronegativity (3.98) is assigned to fluorine and all other electronegativities measurements are on a relative scale.
+Since metals have few valence electrons, they tend to increase their stability by losing electrons to become cations.
+Consequently, the electronegativities of metals are generally low.
+Nonmetals have more valence electrons and increase their stability by gaining electrons to become anions.
+The electronegativities of nonmetals are generally high.
+Electronegativities generally increase from left to right across a period.
+This is due to an increase in nuclear charge.
+Alkali metals have the lowest electronegativities, while halogens have the highest.
+Because most noble gases do not form compounds, they do not have electronegativities.
+Note that there is little variation among the transition metals.
+Electronegativities generally decrease from top to bottom within a group due to the larger atomic size.
+Of the main group elements, fluorine has the highest electronegativity (EN = 4.0) and cesium the lowest (EN = 0.79).
+This indicates that fluorine has a high tendency to gain electrons from other elements with lower electronegativities.
+We can use these values to predict what happens when certain elements combine.
+The following video shows this.
+Click on the image above for more content
+When the difference between electronegativities is greater than ~1.7, then a complete exchange of electrons occurs.
+Typically this exchange is between a metal and a nonmetal.
+For instance, sodium and chlorine will typically combine to form a new compound and each ion becomes isoelectronic with its nearest noble gas.
+When we compare the EN values, we see that the electronegativity for Na is 0.93 and the value for Cl is 3.2.

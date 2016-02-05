@@ -1,0 +1,20 @@
+This movement is harnessed in electrical motors .
+Electrical motors change electrical energy into mechanical energy.
+The motor consists of an electrical circuit with part of the wires inside a magnetic field.
+This can be seen below.
+Positive charges move through the circuit in the direction of the light purple arrows.
+When the charges move up through the part of the coil that is right next to the north pole, the right hand rule tells us that the wire suffers the force, F , pushing the wire in the direction of the blue arrow, toward the back of the sketch.
+On the other side of the coil, where the charges are moving down through the field, the right hand rule shows the force would push this side of the coil toward the front.
+These two forces are working together, rotating the coil in the direction of the circular red arrow.
+Schematic of a more advanced electric motor
+Where the rotating coil (in grey) meets the wires attached to the power source (black), we find a split ring commutator.
+The coil turns, but the commutator and power source do not.
+As the coil turns, it moves off of the blue box connector and as it continues to turn, it connects to the other blue box connector.
+As the coil turns, it reverses its connections to the external circuit.
+Therefore, inside the coil, the current is always flowing in the same direction because the left side of the coil is always attached to the left side of the external circuit.
+This allows the coil, or armature, to continue to spin the same direction all the time.
+In electrical motors, these coils often consist of not just one, but many wires, as can be seen here:
+Cutaway of a real electric motor
+When current runs through the circuit, a force will be exerted on the wire.
+An electrical motor changes electrical energy into mechanical energy.
+A split ring commutator keeps the current in the coil flowing in the same direction even though the coil changes sides every half turn.

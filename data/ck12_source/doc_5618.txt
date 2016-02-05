@@ -1,0 +1,20 @@
+Again, another measurer may report the length to be 2.54 cm or 2.56 cm.
+In this case, there are two certain digits (the 2 and the 5), with the hundredths digit being uncertain.
+Clearly, the top ruler is a superior ruler for measuring lengths as precisely as possible.
+Uncertainty exists in all measurements.
+The degree of uncertainty is affected in part by the quality of the measuring tool.
+Read the material at the link below and answer the questions on the web site:
+What is uncertainty in measurements?
+Why is the top ruler more reliable in measuring length than the bottom ruler?
+How could the top ruler be made more accurate?
+uncertainty: lack of sureness about something.
+Define significant figures.
+Use significant figure rules to express numerical values correctly.
+Speed limits have uncertainty built into it
+How fast do you drive?
+As you enter the town of Jacinto City, Texas, the sign below tells you that the speed limit is 30 miles per hour.
+But what if you happen to be driving 31 miles an hour?
+Are you in trouble?
+Probably not, because there is a certain amount of leeway built into enforcing the regulation.
+Most speedometers do not measure the vehicle speed very accurately and could easily be off by a mile or so (on the other hand, radar measurements are much more accurate).
+So, a couple of miles/hour difference won’t matter that much.

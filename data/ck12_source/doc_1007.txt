@@ -1,0 +1,20 @@
+Why the difference?
+The actual space occupied by the earth is three dimensional and spherical.
+When that space is altered in order to fit it onto a two-dimensional sheet of paper, the actual geometry of the surface is altered.
+A straight line on a curved surface does not mean the same thing as a straight line on a flat surface.
+When an object travels through curved space, it must follow the curvature of the space in order to move in a straight line.
+When there is no mass in a volume of space, the space is not curved.
+An object passing through such space would follow a straight line in our normal way of thinking of a straight line.
+Straight line in flat space
+Straight line in curved space
+When a large mass is placed in the space, however, the space is curved due to the presence of the mass.
+In this case, an object passing through the space must follow the curvature of the space in order to follow a straight line.
+Thus the path of the object bends toward the mass.
+The change in the direction the object appears to be exactly the same as it would have been following Newton’s law of gravity.
+In the general theory of relativity, objects move toward each other not because of a force that acts at a distance but because they are following curved space.
+The mathematical expressions describing the properties of a gravitational field around a mass are given in a set of formulas called the Einstein Field Equations .
+These formulas are a highly complex system of partial differential equations, which are beyond the scope of our material.
+Under normal levels of gravitational field strength, however, the relativistic mathematics for gravity reduce to Newton’s mathematics for gravity.
+When gravitational field strength is extremely high, however, the correct movement of objects can only be calculated with Einstein’s relativistic gravity.
+Mass tells space how to curve and space tells mass how to move.
+Experimental tests to garner support for the general theory of relativity were not easy to find.

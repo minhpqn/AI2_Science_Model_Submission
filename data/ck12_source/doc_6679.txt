@@ -1,0 +1,20 @@
+Sketch the velocity vs. time and speed vs. time graphs.
+Label your x and y axes appropriately.
+0.1 hours = 6 minutes
+Discuss in class
+Velocity and Acceleration
+Explain the meaning of acceleration and how it differs from velocity.
+Calculate average acceleration.
+Students will learn the meaning of acceleration, how it is different than velocity and how to calculate average acceleration.
+v = velocity (m/s)
+v_i = initial velocity
+v_f = final velocity
+\Delta v = change in velocity = v_f - v_i
+v_{avg} = \frac{\Delta x}{\Delta t}
+a = acceleration (m/s^2)
+a_{avg} = \frac{\Delta v}{\Delta t}
+Acceleration is the rate of change of velocity.
+So in other words, acceleration tells you how quickly the velocity is increasing or decreasing.
+An acceleration of  5 \ m/s^2  indicates that the velocity is increasing by  5 m/s  in the positive direction every second.
+Gravity near the Earth pulls an object downwards toward the surface of the Earth with an acceleration of 9.8 \ m/s^2 ( \approx 10 \ m/s^2) .
+In the absence of air resistance, all objects will fall with the same acceleration.

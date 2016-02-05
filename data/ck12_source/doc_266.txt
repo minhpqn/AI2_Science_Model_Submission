@@ -1,0 +1,20 @@
+However, the change in momentum of the bat is not obvious at all.
+This occurs primarily because the bat is more massive than the ball.
+Additionally, the bat is held firmly by the batter, so the batter's mass can be combined with the mass of the bat.
+Since the bat's mass is so much greater than that of the ball, but they have equal and opposite forces, the bat's final velocity is significantly smaller than that of the ball.
+Consider another system: that of two ice skaters.
+If we have one of the ice skaters exert a force on the other skater, the force is called an internal force because both the object exerting the force and the object receiving the force are inside the system.
+In a closed system such as this, momentum is always conserved.
+The total final momentum always equals the total initial momentum in a closed system.
+Conversely, if we defined a system to contain just one ice skater, putting the other skater outside the system, this is not a closed system.
+If one skater pushes the other, the force is an external force because the receiver of the force is outside the system.
+Momentum is not guaranteed to be conserved unless the system is closed.
+In a closed system, momentum is always conserved.
+Take another example: if we consider two billiard balls colliding on a billiard table and ignore friction, we are dealing with a closed system.
+The momentum of ball  A before the collision plus the momentum of ball  B before collision will equal the momentum of ball  A after collision plus the momentum of ball  B after collision.
+This is called the law of conservation of momentum  and is given by the equation p_{A \text{before}}+p_{B \text{before}}=p_{A \text{after}} + p_{B \text{after}}
+Example Problem:
+Ball  A has a mass of 2.0 kg and is moving due west with a velocity of 2.0 m/s while ball  B has a mass of 4.0 kg and is moving west with a velocity of 1.0 m/s.
+Ball  A overtakes ball  B and collides with it from behind.
+After the collision, ball  A is moving westward with a velocity of 1.0 m/s.
+What is the velocity of ball  B after the collision?

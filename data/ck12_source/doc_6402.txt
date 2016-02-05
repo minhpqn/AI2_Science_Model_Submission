@@ -1,0 +1,20 @@
+mass NaOH = 1.0 g
+molar mass NaOH = 40.00 g/mol
+volume solution = 1.0 L
+K_w= 1.0 \times 10^{-14}
+pH of solution = ?
+First, convert the mass of NaOH to moles.
+Second, calculate the molarity of the NaOH solution.
+Because NaOH is a strong base and is soluble, the [OH − ] will be equal to the concentration of the NaOH.
+Third, use  K_w to calculate the [H + ] in the solution.
+Lastly, calculate the pH.
+Step 2:
+Solve .
+& 1.00 \ {\cancel{\text{g NaOH}}} \times \frac{1 \ \text{mol NaOH}}{40.00 \ {\cancel{\text{g NaOH}}}}=0.025 \ \text{mol NaOH} \\& \text{Molarity}=\frac{0.025 \ \text{mol NaOH}}{1.00 \ \text{L}}=0.025 \ \text{M NaOH}=0.025 \ \text{M OH}^- \\& \left [ \text{H}^+ \right ]=\frac{K_w}{\left [ \text{OH}^- \right ]}=\frac{1.0 \times 10^{-14}}{0.025 \ \text{M}}=4.0 \times 10^{-13} \ \text{M} \\& \text{pH}=- \log \left [ \text{H}^+ \right ]=- \log(4.0 \times 10^{-13})=12.40
+Step 3:
+Think about your result .
+The solution is basic and so its pH is greater than 7.
+The reported pH is rounded to two decimal places because the original mass and volume has two significant figures.
+Calculations of pH for acidic and basic solutions are described.
+Carry out the requested calculations at the link below:
+What is the pH of a 4.5 × 10 -3 M HI solution?

@@ -1,0 +1,20 @@
+The sugar dissolves and the mixture that is now in the cup is made up of a solute (the sugar), that is dissolved in the solvent (the water).
+The mixture of a solute in a solvent is called a solution .
+Imagine now that you have a second cup with 100ml of water, and you add 45 grams of sucrose to the water.
+Just like the first cup, the sugar is the solute, and the water is the solvent.
+But now you have two mixtures of different solute concentrations.
+In comparing two solutions of unequal solute concentration, the solution with the higher solute concentration is hypertonic , and the solution with the lower concentration is hypotonic .
+Solutions of equal solute concentration are isotonic .
+The first sugar solution is hypotonic to the second solution.
+The second sugar solution is hypertonic to the first.
+You now add the two solutions to a beaker that has been divided by a selectively permeable membrane.
+The pores in the membrane are too small for the sugar molecules to pass through, but are big enough for the water molecules to pass through.
+The hypertonic solution is on one side of the membrane and the hypotonic solution on the other.
+The hypertonic solution has a lower water concentration than the hypotonic solution, so a concentration gradient of water now exists across the membrane.
+Water molecules will move from the side of higher water concentration to the side of lower concentration until both solutions are isotonic.
+What if the two solutions being compared are on either side of a cell membrane?
+A hypertonic solution is one having a larger concentration of a substance on the outside of a cell than is found within the cells themselves.
+A hypotonic solution contains a lesser concentration of impermeable solutes outside the cell compared to within the cell.
+Osmosis is the diffusion of water molecules across a selectively permeable membrane from an area of higher concentration to an area of lower concentration.
+Water moves into and out of cells by osmosis.
+If a cell is in a hypertonic solution, the solution has a lower water concentration than the cell cytosol does, and water moves out of the cell until both solutions are isotonic.

@@ -1,0 +1,20 @@
+But the medium of a mechanical wave can be any state of matter, even a solid.
+Q:
+How do the particles of the medium move when a wave passes through them?
+A:
+The particles of the medium just vibrate in place.
+As they vibrate, they pass the energy of the disturbance to the particles next to them, which pass the energy to the particles next to them, and so on.
+Particles of the medium don’t actually travel along with the wave.
+Only the energy of the wave travels through the medium.
+Types of Mechanical Waves
+There are three types of mechanical waves: transverse, longitudinal, and surface waves.
+They differ in how particles of the medium move.
+You can see this in the Figure below and in the animation at the following URL.
+Diagram illustrating transverse, longitudinal, and surface waves
+In a transverse wave, particles of the medium vibrate up and down perpendicular to the direction of the wave.
+In a longitudinal wave, particles of the medium vibrate back and forth parallel to the direction of the wave.
+In a surface wave, particles of the medium vibrate both up and down and back and forth, so they end up moving in a circle.
+Q:
+How do you think surface waves are related to transverse and longitudinal waves?
+A:
+A surface wave is combination of a transverse wave and a longitudinal wave.

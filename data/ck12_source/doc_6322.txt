@@ -1,0 +1,20 @@
+When the curve levels out and the concentrations all become constant, equilibrium has been reached.
+At equilibrium, concentrations of all substances are constant.
+In reaction B, the process begins with only HI and no H 2 or I 2 .
+In this case, the concentration of HI gradually decreases while the concentrations of H 2 and I 2 gradually increase until equilibrium is again reached.
+Notice that in both cases, the relative position of equilibrium is the same, as shown by the relative concentrations of reactants and products.
+The concentration of HI at equilibrium is significantly higher than the concentrations of H 2 and I 2 .
+This is true whether the reaction began with all reactants or all products.
+The position of equilibrium is a property of the particular reversible reaction and does not depend upon how equilibrium was achieved.
+A reaction goes to equilibrium regardless of the concentration of the reactants
+Equilibrium between reactants and products.
+Conditions for Equilibrium and Types of Equilibrium
+It may be tempting to think that once equilibrium has been reached, the reaction stops.
+Chemical equilibrium is a dynamic process.
+The forward and reverse reactions continue to occur even after equilibrium has been reached.
+However, because the rates of the reactions are the same, there is no change in the relative concentrations of reactants and products for a reaction that is at equilibrium.
+The conditions and properties of a system at equilibrium are summarized below.
+The system must be closed, meaning no substances can enter or leave the system.
+Equilibrium is a dynamic process.
+Even though we don’t necessarily see the reactions, both forward and reverse are taking place.
+The rates of the forward and reverse reactions must be equal.

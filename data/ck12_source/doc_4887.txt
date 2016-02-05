@@ -1,0 +1,20 @@
+The only way to remove the integral proteins from the membrane are with synthetic detergents, nonpolar solvents and denaturing agents that disrupt the hydrophobic interactions of the bilayer.
+Integral membrane proteins can be classified according to their relationship with the bilayer:
+Transmembrane proteins span the entire plasma membrane.
+Their function is mainly to regulate the transport of specific molecules across the membrane.
+There are two basic types of transmembrane proteins, alpha-helical and beta-barrels, which are discussed in Organic Compounds:
+Proteins (Advanced) .
+Integral monotopic proteins are permanently attached to the membrane from only one side.
+Examples of integral membrane proteins and their functions are:
+glycoprotein (cell-to-cell interactions)
+Na+/K+ ATPase (responsible for establishing and maintaining the electrochemical gradients of Sodium and Potassium ions across the plasma membrane)
+glucose permease (the reversible transporter protein of glucose)
+ion channels & gates (the flow of ions across the cell membrane)
+gap junction proteins (a direct connection between the cytoplasm of two cells, which allows various molecules and ions to pass freely between cells)
+Bacterial rhodopsins (a protein in archaeans that uses the energy of light to pump protons across the membrane)
+Peripheral membrane proteins , also called extrinsic proteins, are only temporarily associated with the membrane.
+Most peripheral membrane proteins are hydrophilic so usually they are either attached to integral membrane proteins, or they can directly bound to a polar head group of the bilayer.
+This way they can be easily removed, which allows them to be involved in cell signaling.
+Peripheral membrane proteins are often associated with ion channels and transmembrane receptors.
+Examples of peripheral membrane proteins and their functions are:
+spectrin (links the plasma membrane to the actin cytoskeleton for determination of cell shape, arrangement of transmembrane proteins, and organization of organelles)

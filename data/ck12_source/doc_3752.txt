@@ -1,0 +1,20 @@
+Figure below shows how a mutation in a hox gene can affect an insect’s development.
+Other organisms, including humans, also have how genes.
+You can learn more about homeobox genes at this link:
+Effect of Hox gene mutation in fruit fly
+Effect of Hox Gene Mutation.
+Scientists caused a mutation in a hox gene of this fruit fly.
+As a result of the mutation, a leg grew out of its head where an antenna should have developed.
+Gene Expression and Cancer
+The mutations that cause cancer generally occur in two types of regulatory genes: tumor-suppressor genes and proto-oncogenes (see Figure below ).
+These genes produce regulatory proteins that control the cell cycle.
+When the genes mutate, cells with mutations divide rapidly and without limits, potentially resulting in a tumor and cancer.
+Flowchart of how cancer develops
+How Cancer Develops.
+This flow chart shows how a series of mutations in tumor-suppressor genes and proto-oncogenes leads to cancer.
+Regulation of transcription in eukaryotes is generally more complex than in prokaryotes.
+It involves unique regulatory elements in different cells as well as common regulatory elements such as the TATA box.
+Regulation is especially important during development.
+It may involve regulatory genes such as homeobox genes that switch other regulatory genes on or off.
+Mutations in regulatory genes that normally control the cell cycle cause cancer.
+Use this resource to answer the questions that follow.

@@ -1,0 +1,20 @@
+Beautiful sunsets are another manifestation of Rayleigh scattering that occurs when light travels long distances through the atmosphere.
+The blue light and some green is scattered away, making the sun appear red.
+Question :
+In a dark room a blue light is shined on a magenta shirt what color does it appear?
+How about a yellow shirt?
+Answer :
+Since magenta is the combination of red and blue and only blue light is available to be reflected, the shirt will appear blue.
+As for the yellow shirt, there is no blue light in yellow (yellow is the combination of red and green), thus the shirt will appear black since no light is reflected off it.
+Watch this Explanation
+Click on the image above for more content
+Color Vision (PhET Simulation)
+Consult the color table for human perception under the ‘Key Concepts’ section and answer the questions which follow.
+Your coat looks magenta in white light.
+What color does it appear in blue light?
+In green light?
+Which secondary color would look black under a blue light bulb?
+You look at a cyan-colored ribbon under white light.
+Which of the three primary colors is your eye not detecting?
+The primary colors of light are red, green, and blue.
+This is due to the way our eyes see color and the chemical reactions in the cone cells of the retina.

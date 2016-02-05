@@ -1,0 +1,20 @@
+a. 1.11 \times 10^8 \;\mathrm{m/s} b. 9.1 \times 10^{-30} \;\mathrm{N} < < 6.4 \times 10^{-14} \;\mathrm{N} d. .00364 \;\mathrm{T} e. .173 \;\mathrm{m} f. 7.03 \times 1016 \;\mathrm{m/s}^2 g. 3.27^\circ
+a. 8.39 \times 10^7 \;\mathrm{m/s} b. 2.68 \times 10^{-13} \;\mathrm{N}, -y c. 2.95 \times 10^17 \;\mathrm{m/s}^2 d. .00838 \;\mathrm{m} e. 1.68 \times 10^6 \;\mathrm{N/C} f. 16,800 \;\mathrm{V}
+Current and Magnetism
+Analyze and solve problems involving current carrying wires in magnetic fields.
+Students will learn to analyze and solve problems involving current carrying wires in magnetic fields.
+F_{\text{wire}}= LIB\sin(\theta) &&\text{Force on a Current Carrying Wire}
+In this equation, L refers to the length of the wire, I to the electric current, B the magnitude of the magnetic field and  \theta is the angle between the direction of the current and the direction of the magnetic field.
+B_{\text{wire}} = \frac{\mu_0 I}{2 \pi r}&& \text{Magnetic field at a distance } r \text{ from a current-carrying wire}\\\text{Where } \mu_0=4 \pi \times 10^{-7} \;\text{Tm/A} &&\text{Permeability of Vacuum (approximately same for air also)}
+Force on a Wire
+Since a wire is nothing but a collection of moving charges, the force it will experience in a magnetic field will simply be the vector sum of the forces on the individual charges.
+If the wire is straight --- that is, all the charges are moving in the same direction --- these forces will all point in the same direction, and so will their sum.
+Then, the direction of the force can be found using the second right hand rule, while its magnitude will depend on the length of the wire (denoted   L ), the strength of the current, the strength of the field, and the angle between their directions:
+Two current-carrying wires next to each other each generate magnetic fields and therefore exert forces on each other:
+Click on the image above for more content
+A wire loop and an infinitely long current carrying cable are placed a distance r apart.
+The infinitely long wire is carrying a current I_1 to the left and the loop is carrying a current I_2 CCW.
+The dimensions of the wire loop are shown in the diagram illustrating the situation below.
+What is the magnitude and direction of the net force on the loop (the mass of the wires are negligible)?
+In this problem, it is best to start by determining the direction of the force on each segment of the loop.
+Based on the first right hand rule, the magnetic field from the infinite cable points into the page where the loop is.

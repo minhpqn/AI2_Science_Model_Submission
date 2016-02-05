@@ -1,0 +1,20 @@
+A:
+No, they could not.
+In an ionic compound, the positive metal ion is always written first, followed by the negative nonmetal ion.
+Therefore, A and C must always come first, followed by D or B.
+An example of a double replacement reaction is sodium chloride (NaCl) reacting with silver fluoride (AgF).
+This reaction is represented by the equation:
+NaCl + AgF → NaF + AgCl
+During the reaction, chloride and fluoride ions change places, so two new compounds are formed in the products: sodium fluoride (NaF) and silver chloride (AgCl).
+To better understand how and why double replacement reactions occur, watch the video at this URL:
+Q:
+When iron sulfide (FeS) and hydrogen chloride (HCl) react together, a double replacement reaction occurs.
+What are the products of this reaction?
+What is the chemical equation for this reaction?
+A:
+The products of the reaction are iron chloride (FeCl 2 ) and hydrogen sulfide (H 2 S).
+The chemical equation for this reaction is:
+FeS + 2HCl → H 2 S + FeCl 2
+A replacement reaction occurs when elements switch places in compounds.
+This type of reaction involves ions.
+Generally, more reactive elements replace less reactive elements.

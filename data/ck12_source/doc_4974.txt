@@ -1,0 +1,20 @@
+Guanine nucleotide-binding proteins; a family of proteins involved in transmitting chemical signals outside the cell, causing changes inside the cell.
+G protein-linked receptor :
+A large protein family of transmembrane receptors that bind molecules outside the cell and activate signal transduction pathways inside the cell; also known as G protein coupled receptors and seven-transmembrane domain receptors.
+GTPase :
+A large family of hydrolase enzymes that can bind and hydrolyze guanosine triphosphate (GTP) to guanosine diphosphate (GDP).
+second messenger :
+A molecule that relays a signal from a receptor on the cell surface to target molecules inside the cell.
+signal-transduction :
+The process that occurs when an extracellular signaling molecule activates a cell surface receptor, which then alters intracellular molecules creating a response.
+Signal transduction occurs when a ligand binds its receptor and alters intracellular conditions.
+Often the signal is transducer from the outside of the cell to the inside.
+This process usually involves G-protein linked receptors and cyclic AMP.
+Use this resource to answer the questions that follow.
+Signal Transduction Pathways at
+Click on the image above for more content
+Describe a general signal transduction pathway.
+What is meant by a phosphorylation cascade?
+How is adenyl cyclase activated?
+What is the role of adenyl cyclase?
+Describe the role of cAMP.

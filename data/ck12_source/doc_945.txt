@@ -1,0 +1,20 @@
+nuclear disintegration (radioactive decay):
+Radioactive decay is the process by which an unstable atomic nucleus losses energy by emitting ionizing particles or radiation in an attempt to become stable.
+gamma rays:
+A photon of penetrating electromagnetic radiation (gamma radiation) emitted from an atomic nucleus.
+radioactivity:
+The spontaneous emission of radiation from an unstable atomic nucleus.
+alpha particles:
+A positively charged particle, equivalent to a helium atom nucleus and consisting of two protons and two neutrons.
+beta particles:
+High-speed electrons; specifically those emitted by a radioactive nucleus in beta decay.
+transmutation:
+The transformation of one element into another by one or a series of nuclear reactions.
+Write correct equations for nuclear reactions.
+Calculate amount of material remaining after a given number of half-lives.
+Nuclear detonation from Operation Castle
+Operation Castle was a series of nuclear tests that the United States conducted in 1954 in the Bikini and Enewetok atolls in the Marshall Islands of the Pacific.
+The purpose of the tests was to validate the designs of different thermonuclear weapons.
+In all nuclear reactions, the total of the atomic numbers on the left side of the equation must equal the total of the atomic numbers on the right side of the equation.
+Furthermore, the sum of the mass numbers on the left of the equation must equal the sum of the mass numbers on the right of the equation.
+In addition to alpha and beta decay, there are a number of other types of nuclear reactions.

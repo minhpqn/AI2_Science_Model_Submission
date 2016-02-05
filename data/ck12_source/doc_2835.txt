@@ -1,0 +1,20 @@
+The nucleus emits a beta particle and energy.
+A beta particle is either an electron (beta-minus decay) or a positron (beta-plus decay).
+In beta-minus decay, a neutron breaks down to a proton and an electron, and the electron is emitted from the nucleus.
+In beta-plus decay, a proton breaks down to a neutron and a positron, and the positron is emitted from the nucleus.
+Balanced nuclear equations show how the numbers of protons and neutrons change in beta decay.
+Beta radiation is harmful to living things.
+Read the article about beta decay at the following URL.
+Be sure to watch the short video at the bottom of the page.
+Then answer the questions below.
+Write a balanced nuclear equation for the beta-minus decay of cesium-137.
+Identify the new element that results from the reaction.
+How many neutrons does this element have?
+What are beta emitters?
+Give three examples.
+Compare and contrast beta-minus and beta-plus decay.
+Fill in the missing subscript and superscript in this nuclear equation to balance it:
+\mathrm{^{14}_?
+C} → \mathrm{^?_7 N} + \mathrm{^0_{-1} e} + energy
+Does the equation represent beta-minus or beta-plus decay?
+How do you know?

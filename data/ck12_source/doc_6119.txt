@@ -1,0 +1,20 @@
+2.91 mol O 2
+P_{\text{Total}}=104 \ \text{kPa}
+P_{H_2}=? \ \text{kPa}
+P_{O_2}=? \ \text{kPa}
+First, the mole fraction of each gas can be determined.
+Then, the partial pressure can be calculated by multiplying the mole fraction by the total pressure.
+Step 2:
+Solve .
+& X_{H_2}=\frac{1.24 \ \text{mol}}{1.24 \ \text{mol} + 2.91 \ \text{mol}}=0.299 && X_{O_2}=\frac{2.91 \ \text{mol}}{1.24 \ \text{mol} + 2.91 \ \text{mol}}=0.701 \\& P_{H_2}=0.299 \times 104 \text{ kPa}=31.1 \text{ kPa} && P_{O_2}=0.701 \times 104 \text{ kPa}=72.9 \text{ kPa}
+Step 3:
+Think about your result .
+The hydrogen is slightly less than one third of the mixture, so it exerts slightly less than one third of the total pressure.
+Use of the mole fraction allows calculation to be made for mixtures of gases.
+Watch the video at the link below and answer the following questions:
+Click on the image above for more content
+What is mole percent?
+Do the mole fractions add up to 1.00?
+What other way could you calculate the mole fraction of oxygen once you have the mole fraction of nitrogen?
+What is mole fraction?
+How do you determine partial pressure of a gas when given the mole fraction and the total pressure?

@@ -1,0 +1,20 @@
+A catalytic converter reduces the amount of toxic products created from incomplete combustion
+Where did the sun go?
+Gasoline-powered vehicles emit a lot of harmful materials.
+Nitrogen oxides are formed when atmospheric nitrogen reacts with oxygen at the high temperatures found in a car engine.
+Carbon monoxide is a by-product of incomplete combustion of hydrocarbons.
+Evaporated and unused fuel releases volatile hydrocarbons into the atmosphere to help form smog.
+The presence of a catalytic converter in the exhaust system of the car causes these materials to react and be changed into less harmful products.
+Sometimes a substance can be added to a chemical reaction and it will cause that reaction to undergo a dramatic increase in rate.
+Hydrogen peroxide is used as a disinfectant for scrapes and cuts and is found in many medicine cabinets as a 3% aqueous solution.
+Hydrogen peroxide naturally decomposes to produce water and oxygen gas, but the reaction is very slow.
+A bottle of hydrogen peroxide will last for several years before it needs to be replaced.
+However, the addition of just a small amount of manganese(IV) oxide to hydrogen peroxide will cause it to decompose completely in just a matter of minutes.
+A catalyst is a substance that increases the rate of a chemical reaction by lowering the activation energy without being used up in the reaction.
+After the reaction occurs, a catalyst returns to its original state and so catalysts can be used over and over again.
+Because it is neither a reactant nor a product, a catalyst is shown in a chemical equation by being written above the yield arrow.
+2\text{H}_2 \text{O}_2(aq) \overset{\text{MnO}_2}{\longrightarrow} 2\text{H}_2\text{O}(l)+\text{O}_2(g)
+A catalyst works by changing the specific way in which the reaction occurs, called its mechanism.
+The important outcome from the use of a catalyst is that the overall activation energy of the reaction is lowered (see Figure below ).
+With a lower activation energy barrier, a greater percentage of reactant molecules are able to have effective collisions and the reaction rate increases.
+The addition of a catalyst lowers activation energy, which increases the rate of a reaction

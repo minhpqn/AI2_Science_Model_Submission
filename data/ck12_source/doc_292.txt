@@ -1,0 +1,20 @@
+Work resulting in motion is caused when the work is converted into kinetic energy, while work resulting in a change of position is caused by a conversion into potential energy.
+Work is also spent overcoming friction and that work would be converted into heat, but we will consider primarily frictionless systems.
+If we consider the potential energy of a bent stick or a stretched rubber band, the potential energy can be calculated by multiplying the force exerted by the stick or rubber band by the distance over which the force will be exerted.
+The formula for calculating this potential energy looks exactly like the formula for calculating work done:
+W = Fd .
+The only difference is that work is calculated when the object actually moves and potential energy is calculated when the system is still at rest, before any motion actually occurs.
+In the case of gravitational potential energy, the force exerted by the object is its weight and the distance it can travel is its height above the earth.
+Since the weight of an object is calculated by W = mg , then gravitational potential energy can be calculated by PE = mgh , where m is the mass of the object,  g is the acceleration due to gravity, and h is the height the object will fall.
+Example Problem:
+A 3.00 kg object is lifted from the floor and placed on a shelf that is 2.50 m above the floor.
+(a) What was the work done in lifting the object?
+(b) What is the gravitational potential energy of the object sitting on the shelf?
+(c) If the object falls off the shelf and falls to the floor in the absence of air resistance, what will its velocity be when it hits the floor?
+Solution: \text{weight of the object} = mg = (3.00 \ kg)(9.80 \ m/s^2) = 29.4 \ N
+(a) W = Fd = (29.4 \ N)(2.50 \ m) = 73.5 \ J
+(b) PE = mgh = (3.00 \ kg)(9.80 \ m/s^2)(2.50 \ m) = 73.5 \ J
+(c) KE = PE \ \text{so} \ \frac{1}{2} \ mv^2 = 73.5 \ J
+v= \sqrt{\frac{2KE}{m}}= \sqrt{\frac{(2)(73.5 \ J)}{3.00 \ kg}}=7.00 \ m/s
+Example Problem:
+A pendulum is constructed from a 7.58 kg bowling ball hanging on a 3.00 m long rope.  The ball is pulled back until the rope makes an angle of  45^\circ with the vertical.

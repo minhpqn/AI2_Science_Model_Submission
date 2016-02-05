@@ -1,0 +1,20 @@
+A dominant trait is the most influential trait and masks the other trait.
+Do you remember what happened when Mendel crossed purple flowered-plants and white flowered-plants?
+All the offspring had purple flowers.
+There was no blending of traits in any of Mendel's experiments.
+Mendel had to come up with a theory of inheritance to explain his results.
+He developed a theory called the law of segregation .
+The Law of Segregation
+Mendel proposed that each pea plant had two hereditary factors for each trait.
+There were two possibilities for each hereditary factor, such as a purple factor or white factor.
+One factor is dominant to the other.
+The other trait that is masked is called the recessive factor, meaning that when both factors are present, only the effects of the dominant factor are noticeable ( Figure below ).
+Although you have two hereditary factors for each trait, each parent can only pass on one of these factors to the offspring.
+When the sex cells, or gametes (sperm or egg), form, the heredity factors must separate, so there is only one factor per gamete.
+In other words, the factors are "segregated" in each gamete.
+Mendel's law of segregation states that the two hereditary factors separate when gametes are formed.
+When fertilization occurs, the offspring receive one hereditary factor from each gamete, so the resulting offspring have two factors.
+The law of segregation predates our understanding or meiosis.
+Mendel developed his theories without an understanding of DNA, or even the knowledge that DNA existed.
+Quite a remarkable feat!
+Purple flowers are dominant to white in pea plants

@@ -1,0 +1,20 @@
+It’s often useful to have ways to signify different people or objects like athletes on teams.
+The same is true of atoms.
+It’s important to be able to distinguish atoms of one element from atoms of other elements.
+Elements are pure substances that make up all other matter, so each one is given a unique name.
+The names of elements are also represented by unique one- or two-letter symbols, such as H for hydrogen, C for carbon, and He for helium.
+You can see other examples in the Figure below .
+The periodic table
+Q:
+The table shown in the Figure above is called the periodic table of the elements.
+Each symbol stands for a different element.
+What do you think the symbol K stands for?
+A:
+The symbol K stands for the element potassium.
+The symbol comes from the Latin name for potassium, which is kalium .
+The symbols in the Figure above would be more useful if they revealed more information about the atoms they represent.
+For example, it would be useful to know the numbers of protons and neutrons in the atoms.
+That’s where atomic number and mass number come in.
+The number of protons in an atom is called its atomic number .
+This number is very important because it is unique for atoms of a given element.
+All atoms of an element have the same number of protons, and every element has a different number of protons in its atoms.

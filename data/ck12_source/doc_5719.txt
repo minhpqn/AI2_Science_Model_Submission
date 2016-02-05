@@ -1,0 +1,20 @@
+What is the difference between the two helium electrons?
+What does the Pauli exclusion principle state?
+What does the two values for the spin quantum number allow?
+Pauli exclusion principle:
+No two electrons in an atom can have the same set of four quantum numbers.
+Hund's Rule and Orbital Filling Diagrams
+State Hund’s rule.
+Apply Hund’s rule to the filling of orbitals.
+Use orbital filling diagrams to describe the locations of electrons in an atom.
+Electron orbitals are limited, like the weight on a bridge
+Have you ever wondered what those load limit signs mean on a bridge?
+The sign above says that nothing over five tons is allowed because it will do damage to the structure.
+There are limits to the amount of weight that a bridge can support, there are limits to the number of people that can safely occupy a room, and there are limits to what can go into an electron orbital.
+The last of the three rules for constructing electron arrangements requires electrons to be placed one at a time in a set of orbitals within the same sublevel.
+This minimizes the natural repulsive forces that one electron has for another.
+Hund’s rule states that orbitals of equal energy are each occupied by one electron before any orbital is occupied by a second electron and that each of the single electrons must have the same spin.
+The Figure below shows how a set of three p orbitals is filled with one, two, three, and four electrons.
+Diagram of Hund's rule in boron, carbon, nitrogen, and oxygen
+The 2p sublevel, for the elements boron (Z = 5), carbon (Z = 6), nitrogen (Z = 7), and oxygen (Z = 8).
+According to Hund’s rule, as electrons are added to a set of orbitals of equal energy, one electron enters each orbital before any orbital receives a second electron.

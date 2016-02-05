@@ -1,0 +1,20 @@
+When DNA is damaged by sunlight, the damage is recognized differently depending on whether the DNA is transcriptionally active (transcription-coupled repair) or not (global excision repair).
+After the initial recognition step, the damage is repaired in a similar manner with the final outcome being the restoration of the normal nucleotide sequence.
+One form of DNA repair corrects mistakes made during DNA replication or recombination.
+DNA mismatch repair is a system for recognizing and repairing erroneous insertion, deletion and mis-incorporation of bases that can arise during these processes.
+Mismatch repair is a highly conserved process from prokaryotes to eukaryotes.
+The Mut proteins are the major active components of this repair system.
+MutS, MutH and MutL are three proteins essential in detecting the mismatch and directing repair machinery to it.
+These three proteins recognize the mismatch and cause the DNA to loop out.
+MutH cuts the DNA strand near the closest methylated site to the mismatch, and a helices separates the DNA strands.
+The entire MutSHL complex then slides along the DNA in the direction of the mismatch, followed by an exonuclease that digests the single-stranded DNA.
+The single-stranded gap created by the exonuclease is then be repaired by DNA Polymerase III.
+Nucleotide Excision Repair
+Nucleotide excision repair (NER) removes the vast majority of UV-induced DNA damage, mostly in the form of thymine dimers.
+Genetic diseases that result from mutations in the NER genes include Xeroderma pigmentosum and Cockayne's syndrome.
+NER enzymes recognize changes in the shape of the DNA double helix.
+Recognition of these changes leads to the removal of the damage, creating a single-strand gap in the DNA.
+This gap is subsequently filled in by DNA polymerase, which uses the undamaged strand as a template.
+In E. coli , this process is controlled by the UvrABC endonuclease enzyme complex, which consists of four Uvr proteins:
+UvrA, UvrB, UvrC, and DNA helicase II (or UvrD).
+In eukaryotes, this process is more complicated, controlled by nine major proteins.

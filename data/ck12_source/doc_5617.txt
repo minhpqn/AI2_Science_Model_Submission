@@ -1,0 +1,20 @@
+The absolute value of the error divided by the accepted value and multiplied by 100%.
+Describe uncertainty in measurements.
+Police arresting man
+How do police officers identify criminals?
+After a bank robbery has been committed, police will ask witnesses to describe the robbers.
+They will usually get some answer such as “medium height.” Others may say “between 5 foot 8 inches and 5 foot 10 inches.” In both cases, there is a significant amount of uncertainty about the height of the criminals.
+Some error or uncertainty always exists in any measurement.
+The amount of uncertainty depends both upon the skill of the measurer and upon the quality of the measuring tool.
+While some balances are capable of measuring masses only to the nearest 0.1 g, other highly sensitive balances are capable of measuring to the nearest 0.001 g or even better.
+Many measuring tools such as rulers and graduated cylinders have small lines which need to be carefully read in order to make a measurement.
+The figure below shows two rulers making the same measurement of an object (indicated by the blue arrow).
+Uncertainty in measurement on a ruler
+Uncertainty in measurement.
+With either ruler, it is clear that the length of the object is between 2 and 3 cm.
+The bottom ruler contains no millimeter markings.
+With that ruler, the tenths digit can be estimated and the length may be reported as 2.5 cm.  However, another person may judge that the measurement is 2.4 cm or perhaps 2.6 cm.
+While the 2 is known for certain, the value of the tenths digit is uncertain.
+The top ruler contains marks for tenths of a centimeter (millimeters).
+Now the same object may be measured as 2.55 cm.
+The measurer is capable of estimating the hundredths digit because he can be certain that the tenths digit is a 5.

@@ -1,0 +1,20 @@
+As the pressure begins to rise, the attractive forces cause the volume of the gas to be less than expected and the value of  \frac{PV}{RT} drops under 1.
+Continued pressure increase results in the volume of the particles to become significant and the value of  \frac{PV}{RT} rises to greater than 1.
+Notice, that the magnitude of the deviations from ideality is greatest for the gas at 200 K and least for the gas at 1000 K.
+Real gases deviate from ideal gases at high pressures and at low temperatures
+Real gases deviate from ideal gases at high pressures and at low temperatures.
+The ideality of a gas also depends on the strength and type of intermolecular attractive forces that exist between the particles.
+Gases whose attractive forces are weak are more ideal than those with strong attractive forces.
+At the same temperature and pressure, neon is more ideal than water vapor because neon’s atoms are only attracted by weak dispersion forces, while water vapor’s molecules are attracted by relatively stronger hydrogen bonds.
+Helium is a more ideal gas than neon because its smaller number of electrons means that helium’s dispersion forces are even weaker than those of neon.
+The properties of real gases and their deviations from ideality are described.
+Use the link below to answer the following questions:
+What is the compressibility factor for a perfect (ideal) gas?
+What does it mean if Z>1 ?
+What does it mean if Z<1 ?
+What becomes more significant as the pressure increases?
+Do the attractive forces between gas particles become more prominent at higher or lower temperatures?
+Would HCl gas be more or less ideal than helium?
+real gas:
+A gas that does not behave according to the assumptions of the kinetic-molecular theory.
+Dalton's Law of Partial Pressures

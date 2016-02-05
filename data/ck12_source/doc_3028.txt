@@ -1,0 +1,20 @@
+Pressure in Fluids
+Explain why fluids exert pressure.
+Relate pressure to force and area.
+Identify the SI unit for pressure.
+Show how to calculate pressure.
+Name factors that affect fluid pressure.
+Did you ever use a bicycle pump like the one seen in the opening image?
+When you push down on the handle, it forces air out through the hose, and the air enters the tire through a tiny opening.
+Like other fluids (liquids and gases), air can flow and take the shape of its container.
+The air that enters the tire from the pump quickly spreads out to fill the entire tire evenly.
+As the tire fills with air, it feels firmer.
+That’s because the air exerts pressure against the inside surface of the tire.
+Why Fluids Exert Pressure
+All fluids exert pressure like the air inside a tire.
+The particles of fluids are constantly moving in all directions at random.
+As the particles move, they keep bumping into each other and into anything else in their path.
+These collisions cause pressure, and the pressure is exerted equally in all directions.
+When particles are crowded together in one part of an enclosed space, such as the air particles first entering a tire, they quickly spread out to fill all the available space.
+That’s because particles of fluids always move from an area of higher pressure to an area of lower pressure.
+This explains why air entering a tire through a tiny opening quickly fills the entire tire.

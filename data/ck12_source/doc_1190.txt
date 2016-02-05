@@ -1,0 +1,20 @@
+Even though the backpacks are the same size, the bag that contains your books is going to be much heavier.
+It has a greater density than the backpack with your pillow.
+Density describes how much matter is in a certain amount of space.
+Substances that have more matter packed into a given space have higher densities.
+The water in a drinking glass has the same density as the water in a bathtub or swimming pool.
+All substances have characteristic densities, which does not depend on how much of a substance you have.
+Mass is a measure of the amount of matter in an object.
+The amount of space an object takes up is described by its volume.
+The density of an object depends on its mass and its volume.
+Density can be calculated using the following equation:
+\text{Density}\; =\; \text{Mass}/\text{Volume}
+Samples that are the same size but have different densities, will have different masses.
+Gold has a density of about 19 g/cm 3 .
+Pyrite has a density of only about 5 g/cm 3 .
+Quartz is even less dense than pyrite and has a density of 2.7 g/cm 3 .
+If you picked up a piece of pyrite and a piece of quartz that were the same size, the pyrite would seem almost twice as heavy as the quartz.
+Specific gravity is used to identify minerals.
+Specific gravity measures how heavy the mineral is relative to the same volume of water.
+Hardness is a mineral’s ability to resist being scratched.
+Minerals that are not easily scratched are hard.

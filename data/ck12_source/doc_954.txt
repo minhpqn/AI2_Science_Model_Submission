@@ -1,0 +1,20 @@
+The purpose of the control rods is to absorb some of the neutrons and thus stop them from causing further disintegrations.
+The control rods can be raised or lowered into the fuel rod bundle.
+When the control rods are lowered all the way into the fuel rod bundle, they absorb so many neutrons that the chain reaction essentially stops.
+When more heat is desired, the control rods are raised so that the chain reaction speeds up and more heat is generated.
+The control rods are operated in a fail-safe system so that power is necessary to hold them up.
+During a power failure, gravity will pull the control rods down to shut off the system.
+It is possible, however, to convert U-238 to a fissionable isotope that will function as a fuel for nuclear reactors.
+This process is carried out in reactors called breeder reactors.
+None of the civilian nuclear power plants in the U.S. are breeder reactors.
+Click on the image above for more content
+Follow up questions:
+What does PWR stand for?
+What do the control rods do?
+Once the steam is generated, what is it used for?
+Nuclear power plants produce electricity through
+U-235 nuclei split when struck by
+The most important difference between a nuclear power plant and a fossil fuel plant is
+the size of the generator.
+the shape of the generator.
+Which of the following will function as fuel in a fission reactor?

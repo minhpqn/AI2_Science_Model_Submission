@@ -1,0 +1,20 @@
+Scientific theories are constructed in order to explain, predict, and understand phenomena.
+This could include explanations for the movement of planets, weather patterns, or the behavior of animals.
+In many instances we are constructing models of reality.
+A theory makes generalizations about observations and is made up of a related set of ideas and models.
+The important difference between theories and models is that the first is explanatory as well as descriptive, while the second is only descriptive and predictive in a much more limited sense.
+A model organism is a non-human species that is extensively studied to understand particular biological processes and concepts.
+These organisms are chosen because it is believed that discoveries made in the model organism will provide insight into the workings of other organisms, including humans.
+Model organisms range from single-celled bacteria to complex multi-cellular organisms.
+Even some viruses are utilized as models, though technically a virus is not considered an organism.
+The Table below lists some common model organisms.
+All of these organisms listed have had their complete genomes sequenced.
+E. coli bacteria
+African clawed frog
+abstract model :
+A theoretical construct that represents something.
+model organism :
+A non-human species that is extensively studied to understand particular biological phenomena.
+scientific model :
+A physical, mathematical, or logical representation of a system, phenomenon, or process; allow scientists to investigate a phenomenon in a controlled way.
+scientific modeling :

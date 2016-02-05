@@ -1,0 +1,20 @@
+A steam engine is an external combustion engine.
+How an External Combustion Engine Works
+An external combustion engine burns fuel externally, or outside the engine.
+The burning fuel releases thermal energy, which is used to heat water and change it to steam.
+The pressure of the steam moves a piston back and forth inside a cylinder.
+The kinetic energy of the moving piston can be used to turn a vehicle’s wheels, a turbine, or other mechanical device.
+The Figure below explains in greater detail how this type of engine works.
+You can see an animated external combustion engine at this URL:
+Diagram illustrating how an external combustion engine works
+Q:
+What type of energy does the piston have when it moves back and forth inside the cylinder?
+A:
+Like anything else that is moving, the moving piston has kinetic energy.
+A combustion engine is a complex machine that burns fuel to produce thermal energy and then uses the thermal energy to do work.
+An external combustion engine burns fuel externally, or outside the engine.
+An external combustion engine burns fuel to heat water and produce steam.
+The steam is under pressure and is used to push a piston back and forth inside a cylinder.
+As the piston moves back and forth, it moves a piston rod, which can do work.
+Do a Web quest to learn more about steam engines, including when they were invented and how they changed industry and transportation.
+Make a list of all the other uses of steam engines that you find.

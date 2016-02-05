@@ -1,0 +1,20 @@
+Codons are complementary groups of bases in mRNA.
+Steps of Transcription
+Transcription takes place in three steps: initiation, elongation, and termination.
+The steps are illustrated in Figure below .
+Initiation is the beginning of transcription.
+It occurs when the enzyme RNA polymerase binds to a region of a gene called the promoter .
+This signals the DNA to unwind so the enzyme can ‘‘read’’ the bases in one of the DNA strands.
+The enzyme is now ready to make a strand of mRNA with a complementary sequence of bases.
+Elongation is the addition of nucleotides to the mRNA strand.
+RNA polymerase reads the unwound DNA strand and builds the mRNA molecule, using complementary base pairs.
+There is a brief time during this process when the newly formed RNA is bound to the unwound DNA.
+During this process, an adenine (A) in the DNA binds to an uracil (U) in the RNA.
+Termination is the ending of transcription, and occurs when RNA polymerase crosses a stop (termination) sequence in the gene.
+The mRNA strand is complete, and it detaches from DNA.
+Steps of transcription: initiation, elongation, termination
+Steps of Transcription.
+Transcription occurs in the three steps - initiation, elongation, and termination - shown here.
+In eukaryotes, the new mRNA is not yet ready for translation.
+It must go through additional processing before it leaves the nucleus.
+This may include splicing, editing, and polyadenylation.

@@ -1,0 +1,20 @@
+Since 1 in. is equal to 2.54 cm, then 1 = {\frac{2.54 \;\mathrm{cm}}{1 \;\mathrm{in}}} = {\frac{1 \;\mathrm{in}}{2.54 \;\mathrm{cm}}} .
+Thus, one can multiply by this form of 1 in order to cancel units (see video below).
+Write out every step and show all your units cancelling as you go.
+When converting speeds from metric to American units, remember the following rule of thumb: a speed measured in mi/hr is about double the value measured in m/s ( i.e., 10 \mathrm{m/s} is equal to about 20 MPH).
+Remember that the speed itself hasn’t changed, just our representation of the speed in a certain set of units.
+When you’re not sure how to approach a problem, you can often get insight by considering how to obtain the units of the desired result by combining the units of the given variables.
+For instance, if you are given a distance (in meters) and a time (in hours), the only way to obtain units of speed (meters/hour) is to divide the distance by the time.
+This is a simple example of a method called dimensional analysis , which can be used to find equations that govern various physical situations without any knowledge of the phenomena themselves.
+Question : 20 m/s = ? mi/hr
+20 m/s (1 mi/1600 m) = .0125 mi/s
+.0125 mi/s (60 s/min) = .75 mi/min
+.75 mi/min (60 min/hr) = 45 mi/hr
+Watch this Explanation
+Click on the image above for more content
+Estimate or measure your height.
+Convert your height from feet and inches to meters.
+Convert your height from feet and inches to centimeters (100 \;\mathrm{cm} = 1 \;\mathrm{m})
+Estimate or measure the amount of time that passes between breaths when you are sitting at rest.
+Convert the time from seconds into hours
+Convert the time from seconds into milliseconds \;\mathrm{(ms)}

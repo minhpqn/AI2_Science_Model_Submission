@@ -1,0 +1,20 @@
+The slowest peak in a roller coaster ride is the tallest peak and is the rate determining step
+Roller coasters-fun or frightful?
+For many people, a roller coaster is the epitome of excitement, while for others it is a torture device to be avoided at all costs (and some folks are in-between).
+For a roller coaster, the rate-limiting step is the climb up to the top at the beginning of the ride, where the cars are hauled slowly to the peak of the ride.
+This peak must be the highest because the potential energy at this point must be enough to cause the roller coaster to move through the smaller peaks without stopping.
+Potential Energy Diagrams
+The potential energy diagram can illustrate the mechanism for a reaction by showing each elementary step of the reaction with distinct activation energy (see Figure below ).
+A potential energy diagram illustrates the course of a reaction across each elementary step
+The potential energy diagram shows an activation energy peak for each of the elementary steps of the reaction.
+The valley between represents the intermediate for the reaction.
+The reaction whose potential energy diagram is shown in the figure is a two-step reaction.
+The activation energy for each step is labeled E a1 and E a2 .
+Each elementary step has its own activated complex, labeled AC 1 and AC 2 .
+Note that the overall enthalpy change of the reaction  (\Delta{H}) is unaffected by the individual steps, since it depends only on the initial and final states.
+In this example, the rate-limiting step in the reaction is the first step, leading to the formation of the activated complex AC 1 .
+The activation energy is higher for this step than for step two, which has a considerably lower activation energy.
+If the rate-limiting step were the second step, the peak labeled AC 2 would be higher than the peak for AC 1 and E a2 would be greater than E a1 .
+The same approach can be taken for a potential energy diagram with more than two peaks.
+A potential energy diagram for a two-step reaction is shown and labeled.
+View the section on two-step reactions at the site below and then do the self-test (both buttons are at the top of the slide).

@@ -1,0 +1,20 @@
+Other machines increase the distance over which the force is applied but decrease the strength of the force.
+Still other machines change the direction of the force, with or without also increasing its strength or distance.
+Which way a machine works determines its mechanical advantage, as shown in the Table below
+Strength of Force
+Distance Over which Force is Applied
+stays the same (changes direction only)
+stays the same
+The actual mechanical advantage of a machine reflects the increase or decrease in force achieved by the machine.
+It takes into account the force needed to overcome friction.
+The actual mechanical advantage can be calculated with the equation: \mathrm{Actual\;Mechanical\;Advantage=\frac{Output\;force}{Input\;force}}
+The ideal mechanical advantage of a machine reflects the increase or decrease in force there would be without friction.
+It is always greater than the actual mechanical advantage because all machines must overcome friction.
+The ideal mechanical advantage can be calculated with the equation: \mathrm{Ideal\;Mechanical\;Advantage=\frac{Input\;Distance}{Output\;Distance}}
+The mechanical advantage of a machine may be greater than, less than, or equal to 1, depending on the type of machine.
+Watch the video about mechanical advantage at the following URL, and then solve the problems below.
+Click on the image above for more content
+Juan uses a lever to lift a rock.
+He places the rock on the short arm of the lever and pushes down on the other arm of the lever.
+He applies 30 N of force over a distance of 1 m.
+The other end of the lever moves in the opposite direction and raises the rock a distance of 0.2 m.

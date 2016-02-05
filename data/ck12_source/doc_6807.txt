@@ -1,0 +1,20 @@
+U_{sp} = \frac{1}{2} kx^2  ; the potential energy of a spring is equal to one half times the spring constant times the distance squared that it is stretched or compressed from equilibrium
+The oscillating object does not lose any energy in SHM.
+Friction is assumed to be zero.
+In harmonic motion there is always a restorative force, which attempts to restore the oscillating object to its equilibrium position.
+The restorative force changes during an oscillation and depends on the position of the object.
+In a spring the force is given by Hooke’s Law:
+F = -kx
+The period, T , is the amount of time needed for the harmonic motion to repeat itself, or for the object to go one full cycle.
+In SHM, T is the time it takes the object to return to its exact starting point and starting direction.
+The frequency, f, is the number of cycles an object goes through in 1 second.
+Frequency is measured in Hertz (Hz) . 1\ Hz = 1 cycle per sec.
+The amplitude, A , is the distance from the equilibrium (or center) point of motion to either its lowest or highest point ( end points ).
+The amplitude, therefore, is half of the total distance covered by the oscillating object.
+The amplitude can vary in harmonic motion, but is constant in SHM.
+Click on the image above for more content
+Watch this Explanation
+Click on the image above for more content
+Mass & Springs (PhET Simulation)
+A rope can be considered as a spring with a very high spring constant k, so high, in fact, that you don’t notice the rope stretch at all before it “pulls back.”
+What is the k of a rope that stretches by 1\;\mathrm{mm} when a 100\;\mathrm{kg} weight hangs from it?

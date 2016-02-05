@@ -1,0 +1,20 @@
+As light passes through the lens, it forms a reduced real image.
+The image focuses on film (or a sensor) at the back of the camera.
+The lens may be moved back and forth to bring the image into focus.
+The shutter controls the amount of light that actually strikes the film (or sensor).
+It stays open longer in dim light to let more light in.
+For a series of animations showing how a camera works, go to this URL:
+Schematic of a camera
+Did you ever see a cat chase after a laser light, like the one in Figure below ?
+A laser is a device that produces a very focused beam of visible light of just one wavelength and color.
+Waves of laser light are synchronized so the crests and troughs of the waves line up.
+The diagram in Figure below shows why a beam of laser light is so focused compared with ordinary light from a flashlight.
+Lasers are created by tight beams of coherent light
+The following Figure below provides a closer look at the tube where laser light is created.
+Electrons in a material such as a ruby crystal are stimulated to radiate photons of light of one wavelength.
+At each end of the tube is a concave mirror.
+The photons of light reflect back and forth in the tube off these mirrors.
+This focuses the light.
+The mirror at one end of the tube is partly transparent.
+A constant stream of photons passes through the transparent part, forming the laser beam.
+You can see an animation showing how a laser works at this URL:

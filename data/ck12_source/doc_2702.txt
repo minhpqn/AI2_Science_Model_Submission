@@ -1,0 +1,20 @@
+These reactions are called replacement reactions.
+What Is a Replacement Reaction?
+A replacement reaction occurs when elements switch places in compounds.
+This type of reaction involves ions (electrically charged versions of atoms) and ionic compounds.
+These are compounds in which positive ions of a metal and negative ions of a nonmetal are held together by ionic bonds.
+Generally, a more reactive element replaces an element that is less reactive, and the less reactive element is set free from the compound.
+There are two types of replacement reactions: single and double.
+Both types are described below.
+Q:
+Can you predict how single and double replacement reactions differ?
+A:
+One way they differ is that a single replacement reaction involves one reactant compound, whereas a double replacement reaction involves two reactant compounds.
+Keep reading to learn more about these two types of reactions.
+Single Replacement Reactions
+A single replacement reaction occurs when one element replaces another in a single compound.
+This type of reaction has the general equation:
+A + BC → B + AC
+In this equation, A represents a more reactive element and BC represents the original compound.
+During the reaction, A replaces B, forming the product compound AC and releasing the less reactive element B.
+An example of a single replacement reaction occurs when potassium (K) reacts with water (H 2 O).

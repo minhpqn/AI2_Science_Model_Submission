@@ -1,0 +1,20 @@
+Why is it important to have values for R in kPa, atm, and mmHg?
+Why do the units of R include pressure, temperature, volume, and moles?
+Instruction and practice problems involving the universal gas law:
+The initial pressure in a helium gas cylinder is 30 atm.  After many balloons have been blown up, the pressure in the cylinder has decreased to 6 atm while the volume and temperature remain the same.  What fraction of the original amount of gas remains in the cylinder?
+Calculate the volume of 8.88 mol of helium gas at 20.0°C and 1.19 atm pressure.
+Universal gas law:
+PV = nRT
+Universal gas law constant:
+Two common values are 0.0821 \ L \cdot atm/mol \cdot K and R = 8.314 \ J/mol \cdot K .
+Courtesy of L.
+Murphy/NOAA.
+CK-12 Foundation. .
+CCSA
+Samantha Bacic.
+CK-12 Foundation .
+Samantha Bacic.
+CK-12 Foundation .
+Samantha Bacic.
+CK-12 Foundation .
+Photo courtesy PDPhoto.org.

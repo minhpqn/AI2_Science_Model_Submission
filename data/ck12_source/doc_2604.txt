@@ -1,0 +1,20 @@
+The only exception is helium, which has just two electrons.
+But helium also has a full outer energy level, because its only energy level (energy level 1) can hold a maximum of two electrons.
+A full outer energy level is the most stable arrangement of electrons.
+As a result, noble gases cannot become more stable by reacting with other elements and gaining or losing valence electrons.
+Therefore, noble gases are rarely involved in chemical reactions and almost never form compounds with other elements.
+Noble Gases and the Octet Rule
+Because the noble gases are the least reactive of all elements, their eight valence electrons are used as the standard for nonreactivity and to explain how other elements interact.
+This is stated as the octet (“group of eight”) rule.
+According to this rule, atoms react to form compounds that allow them to have a group of eight valence electrons like the noble gases.
+For example, sodium (with one valence electron) reacts with chlorine (with seven valence electrons) to form the stable compound sodium chloride (table salt).
+In this reaction, sodium donates an electron and chlorine accepts it, giving each element an octet of valence electrons.
+Some Uses of Noble Gases
+Did you ever get helium balloons like those in the opening picture?
+Unlike a balloon filled with air, a balloon filled with helium needs to be weighted down so it won’t float away — although you don’t have to use an elephant!.
+Q:
+Why does a helium balloon float away if it’s not weighted down?
+A:
+Helium atoms have just two protons, two neutrons, and two electrons, so they have less mass than any other atoms except hydrogen.
+As a result, helium is lighter than air, explaining why a helium balloon floats up into the air unless weighted down.
+Early incandescent light bulbs, like the one pictured in the Figure below , didn’t last very long.

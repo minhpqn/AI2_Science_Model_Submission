@@ -1,0 +1,20 @@
+Beta Decay (PhET Simulation)
+Which of the following is true for the following reaction? \ ^{236}\;\mathrm{U} \rightarrow \ ^{90}\;\mathrm{Sr} + \ ^{143}\;\mathrm{Xe} + 3 ^{1}\;\mathrm{n}
+This is a fission reaction.
+This is a fusion reaction.
+This is not a valid reaction, because the equations don’t balance.
+You detect a high number of alpha particles every second when standing a certain distance from a radioactive material.
+If you triple your distance from the source, the number of alpha particles you detect will decrease.
+By what factor will it decrease?
+It will stay the same.
+Write the nuclear equations A \to B + C for the following reactions.
+The alpha decay of ^{219}\mathrm{Ra} .
+The beta decay of ^{158}\mathrm{Eu} .
+The beta decay of ^{53}\mathrm{Ti} .
+The alpha decay of ^{211}\mathrm{Bi} .
+Radium-226 undergoes alpha decay.
+What element is produced?
+Write the nuclear reaction for each of the processes described below:
+Calcium-45 decays to produce Scandium (Sc)
+undergoes alpha decay
+helium-3 is produced by beta decay of a certain nuclide

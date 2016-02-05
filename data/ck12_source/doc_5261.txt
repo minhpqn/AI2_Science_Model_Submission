@@ -1,0 +1,20 @@
+The frequency of recombination refers to the rate of crossing-over ( recombination ) events between two loci.
+This frequency can be used to estimate genetic distances between the two loci, and create a linkage map .
+In other words, the frequency can be used to estimate how close or how far apart the two loci are on the chromosome.
+In the early 20 th century, Thomas Hunt Morgan, working with the fruit fly Drosophila Melanogaster , showed that genes can be linked.
+He showed that genes located on the same chromosome do not show independent assortment.
+He was able to demonstrated that the amount of crossing over between linked genes differs.
+This led to the idea that the frequency of crossover events would indicate the distance separating genes on a chromosome.
+Morgan's student, Alfred Sturtevant, developed the first genetic map, also called a linkage map.
+Sturtevant proposed that the greater the distance between linked genes, the greater the chance that non-sister chromatids would cross over in the region between the genes during meiosis.
+By determining the number of recombinants - offspring in which a cross-over event has occured - it is possible to determine the approximate distance between the genes.
+This distance is called a genetic map unit (m.u.), or a centimorgan , and is defined as the distance between genes for which one product of meiosis in 100 products is a recombinant.
+So, a recombinant frequency of 1% (1 out of 100) is equivalent to 1 m.u.
+Loci with a recombinant frequency of 10% would be separated by 10 m.u.
+The recombination frequency will be 50% when two genes are widely separated on the same chromosome or are located on different chromosomes.
+This is the natural result of independent assortment.
+Linked genes have recombination frequencies less than 50%.
+Thomas Hunt Morgan also demonstrated linkage to sex chromosomes in Drosophila.
+See Chromosomes carry genes at and Genes get shuffled when chromosomes exchange pieces at for two animations on the work of Morgan and Sturtevant.
+Determining recombination frequencies between genes located on the same chromosome allows a linkage map to be developed.
+Linkage mapping is critical for identifying the location of genes that cause genetic diseases.

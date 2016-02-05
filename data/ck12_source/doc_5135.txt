@@ -1,0 +1,20 @@
+How many chromosomes do humans have?
+Chromosomal Division - Advanced
+Describe the basic properties of chromosomes.
+How is it assured that every cell in your body has the same DNA?
+Chromosomes, like those shown here, must form prior to cell division, to ensure that each daughter cell receives a complete set of genetic material.
+Each chromosome is made of two identical sister chromatids.
+Each chromatid is 1/2 of the "X." Essentially, each daughter cell receives half of each "X-shaped" chromosome.
+DNA, Chromosomes, and Genes
+DNA contains the information necessary to make proteins, direct a cell’s activities, and give an organism its traits.
+Obviously, it is a very important molecule.
+Actually , in human cells, DNA is organized into 46 molecules called chromosomes.
+See DNA is packaged in a chromosome at  to see Roger Kornberg speak about his work.
+The information in DNA is organized into structural units scattered along the length of the DNA molecule.
+These units are known as genes .
+A gene contains the information necessary to encode an RNA molecule or a protein.
+A diploid human cell has about 44,000 genes; two copies of each of about 22,000 genes.
+So, a single DNA molecule contains hundreds to thousands of genes.
+Through the process of gene expression, which involves transcription and translation , different cell types use the information in different genes to make different proteins.
+This process gives different cell types distinct activities.
+Thus, a liver cell will have many different proteins than a kidney cell, giving the two cells types distinct activities.

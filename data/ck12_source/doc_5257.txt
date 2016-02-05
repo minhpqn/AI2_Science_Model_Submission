@@ -1,0 +1,20 @@
+mutation :
+A change in the nucleotide sequence of DNA or RNA.
+retrotransposon :
+A genetic element that can amplify itself in a genome.
+satellite DNA :
+Large segments of tandemly repeating, non-coding DNA.
+short tandem repeats (STRs) :
+Short sequences of 100-200 bp, usually due to repeats of 1-6 bp sequences; also known as a micro satellite.
+single nucleotide polymorphisms (SNPs) :
+A DNA sequence variation occurring when a single nucleotide differs between members of a species or paired chromosomes in an individual.
+Theory of Endosymbiosis :
+Theory that proposes that eukaryotic organelles, such as mitochondria, evolved from ancient, free-living prokaryotes that invaded other prokaryotic cells.
+transposable element :
+A DNA sequence that can change its relative position (self-transpose) within the genome of a single cell.
+transposon :
+A DNA sequence that can change its relative position (self-transpose) within the genome of a single cell.
+VNTR :
+Variable Number of Tandem Repeat; short nucleotide sequence ranging from 14 to 100 nucleotides long, organized into clusters of tandem repeats, usually repeated in the range between 4 and 40 times per loci.
+The genome refers to all the DNA of a particular species.
+The human genome consists of 24 distinct chromosomes: 22 autosomal chromosomes, plus the sex-determining X and Y chromosomes.

@@ -1,0 +1,20 @@
+Sample Problem:
+Density Calculations
+An 18.2 g sample of zinc metal has a volume of 2.55 cm 3 .
+Calculate the density of zinc.
+Step 1:
+List the known quantities and plan the problem.
+mass = 18.2 g
+volume = 2.55 cm 3
+density = ? g/cm 3
+Use the equation for density, D = \frac{m}{V} , to solve the problem.
+Step 2:
+Calculate
+D=\frac{m}{V}=\frac{18.2 \ \text{g}}{2.55 \ \text{cm}^3}=7.14 \ \text{g}/\text{cm}^3
+Step 3:
+Think about your result.
+If 1 cm 3 of zinc has a mass of about 7 grams, then 2 and a half cm 3 will have a mass about 2 and a half times as great.
+Metals are expected to have a density greater than that of water and zinc’s density falls within the range of the other metals listed above
+Since density values are known for many substances, density can be used to determine an unknown mass or an unknown volume.
+Dimensional analysis will be used to ensure that units cancel appropriately.
+Sample Problem:

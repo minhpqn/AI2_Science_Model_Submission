@@ -1,0 +1,20 @@
+There is friction f between the tires and the road.
+For the following situation, identify the 3^{rd} law force pairs on the associated free body diagrams.
+Label each member of one pair A , each member of the next pair B , and so on.
+The spring is stretched so that it is pulling the block of wood to the right.
+Draw free body diagrams for the situation below.
+Notice that we are pulling the bottom block out from beneath the top block.
+There is friction between the blocks!
+After you have drawn your FBDs, identify the 3^{rd} law force pairs, as above.
+Discuss in class
+Define friction and explain the difference between static and kinetic friction.
+Solve problems involving friction.
+In this lesson students will learn about friction, the difference between static and kinetic friction and how to solve problems involving friction.
+\text{Static and Kinetic Friction}\begin{cases}f_s \le \mu_s | F_N| & \text{Opposes potential motion of surfaces in contact}\\\f_k = \mu_k | F_N| & \text{Opposes motion of surfaces in contact}\end{cases}
+The force of friction can actually be described in terms of the coefficient of friction, \mu .
+It is determined experimentally and varies depending upon the two surfaces in contact.
+Static friction ( \mu_s ) acts between two surfaces that are in contact but not in motion with respect to each other.
+This force prevents objects from sliding.
+It always opposes potential motion, and it rises in magnitude to a maximum value given by the formula below. ^2
+Kinetic friction ( \mu_k ) acts between two surfaces that are in contact and in motion with respect to each other.
+This force reduces the acceleration and it always opposes the direction of motion. ^2

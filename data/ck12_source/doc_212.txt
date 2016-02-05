@@ -1,0 +1,20 @@
+Weight is measured in force units—newtons—by a calibrated spring scale as shown here.
+The weight of an object is measured in Newtons with a calibrated spring scale
+The force of gravity is given by Newton’s Second Law, F = ma , where F is the force of gravity in newtons, m is the mass of the object in kilograms, and a is the acceleration due to gravity, 9.81 m/s 2 .
+When the formula is used specifically for finding weight from mass or vice versa, it may appear as W = mg .
+Example Problem:
+What is the weight of an object sitting on the Earth’s surface if the mass of the object is 43.7 kg?
+Solution:
+W = mg = (43.7 \ \text{kg})(9.81 \ \text{m/s}^2) = 429 \ \text{N}
+Example Problem:
+What is the mass of an object whose weight sitting on the Earth is 2570 N?
+m=\frac{W}{a}=\frac{2570 \ \text{N}}{9.81 \ \text{m/s}^2}=262 \ \text{kg}
+The mass of an object is measured in kilograms and is defined as the amount of matter in an object.
+Mass is determined by comparing an object to known masses on a balance.
+The weight of an object on the Earth is defined as the force acting on the object by the Earth’s gravity.
+Weight is measured by a calibrated spring scale.
+The formula relating mass and weight is W = mg .
+A song about the difference between mass and weight sung by Mr.
+Edmunds to the tune of Sweet Caroline.
+Remember to make allowances for the fact that he is a teacher, not a professional singer.
+Use this resource to answer the questions that follow.

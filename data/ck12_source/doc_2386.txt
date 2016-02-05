@@ -1,0 +1,20 @@
+State why graphs are useful in science.
+Describe bar graphs and their uses.
+Describe circle graphs and what they show.
+Describe line graphs and how they are used.
+Tornadoes, like the one pictured here, are very powerful storms that can cause incredible destruction.
+Their winds may exceed 300 miles per hour, and they can completely level towns and neighborhoods in just minutes.
+Because tornadoes can be so serious, they are closely monitored, measured, and counted.
+As a result, there are a lot of data on tornadoes.
+One way to present these data is with graphs.
+Using Graphs in Science
+Graphs are very useful tools in science.
+They can help you visualize a set of data.
+With a graph, you can actually see what all the numbers in a data table mean.
+Three commonly used types of graphs are bar graphs, circle graphs, and line graphs.
+Each type of graph is suitable for showing a different type of data.
+The data in Table below shows the average number of tornadoes per year for the ten U.S. cities that have the most tornadoes.
+The data were averaged over the time period 1950–2007.
+Average Number of Tornadoes per Year (1950–2007) in U.S.
+Cities with the Greatest Number of Tornadoes
+Average Number of Tornadoes(per 1000 Square Miles)

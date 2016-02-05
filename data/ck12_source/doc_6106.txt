@@ -1,0 +1,20 @@
+A kilopascal multiplied by a liter is equal to the SI unit for energy, a joule (J).
+Sample Problem:
+Ideal Gas Law
+What volume is occupied by 3.760 g of oxygen gas at a pressure of 88.4 kPa and a temperature of 19°C?
+Assume the oxygen is ideal.
+Step 1:
+List the known quantities and plan the problem.
+P = 88.4 \ \text{kPa}
+T = 19^\circ \text{C} = 292 \text{ K}
+\text{mass} \ O_2 = 3.760 \text{ g}
+O_2 = 32.00 \text{ g/mol}
+R = 8.314 \text{ J/K} \cdot \text{mol}
+V = ? \text{ L}
+In order to use the ideal gas law, the number of moles of O 2 (n) must be found from the given mass and the molar mass.
+Then, use  PV = nRT to solve for the volume of oxygen.
+Step 2:
+Solve .
+3.760 \text{ g} \times \frac{1 \ \text{mol} \ O_2}{32.00 \text{ g} \ O_2}=0.1175 \ \text{mol} \ O_2
+Rearrange the ideal gas law and solve for V .
+V=\frac{nRT}{P}=\frac{0.1175 \ \text{mol} \times 8.314 \text{ J/K} \cdot \text{mol} \times 292 \text{ K}}{88.4 \ \text{kPa}}=3.23 \text{ L } O_2

@@ -1,0 +1,20 @@
+This creates a reverse fault .
+A thrust fault is a type of reverse fault.
+With a thrust fault the angle of the fault is close to horizontal.
+Rocks can slip many miles along thrust faults ( Figure below ).
+Picture of a thrust fault
+In this thrust fault, the rock on the right is thrust over the rock on the left.
+The rock on the right has also started to fold because of this movement.
+An animation of a thrust fault is seen here:
+A strike-slip fault is a dip-slip fault where the dip of the fault plane is vertical.
+Strike-slip faults result from shear stresses.
+If you stand with one foot on each side of a strike-slip fault, one side will be moving toward you while the other side moves away from you.
+If your right foot moves toward you, the fault is known as a right-lateral strike-slip fault.
+If your left foot moves toward you, the fault is a left-lateral strike-slip fault ( Figure below ).
+Diagram of a strike-slip fault
+Diagram of a right lateral strike-slip fault.
+An animation of a strike-slip fault is seen here:
+San Andreas Fault
+The San Andreas Fault in California is a right-lateral strike slip fault ( Figure below ).
+It is also a transform fault because the San Andreas is a plate boundary.
+Unlike what some people think, California will not fall into the ocean someday.

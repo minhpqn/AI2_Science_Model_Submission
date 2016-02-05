@@ -1,0 +1,20 @@
+electron configuration:
+A map of the electrons for a given atom.
+d orbital:
+Five orbitals characterized by l=2 .
+f orbitals:
+The most complex set of orbitals with seven orbital shapes for  l=3 .
+p orbitals:
+Three dumbbell shaped orbitals for l=1 .
+s orbitals:
+Spherical orbitals where l=0 .
+State the Aufbau principle.
+Use the Aufbau principle to determine the electron configuration of an atom.
+Construction of a building starts from the bottom, like the Aufbau Principle
+How are buildings constructed?
+Construction of a building begins at the bottom.
+The foundation is laid and the building goes up step by step.
+You obviously cannot start with the roof since there is no place to hang it.
+The building goes from the lowest level to the highest level in a systematic way.
+In order to create ground state electron configurations for any element, it is necessary to know the way in which the atomic sublevels are organized in order of increasing energy.
+The Figure below shows the order of increasing energy of the sublevels.

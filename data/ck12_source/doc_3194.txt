@@ -1,0 +1,20 @@
+Compare and contrast constructive and destructive interference.
+Explain how standing waves occur.
+When raindrops fall into still water, they create tiny waves that spread out in all directions away from the drops.
+What happens when the waves from two different raindrops meet?
+They interfere with each other.
+When Waves Meet
+When two or more waves meet, they interact with each other.
+The interaction of waves with other waves is called wave interference .
+Wave interference may occur when two waves that are traveling in opposite directions meet.
+The two waves pass through each other, and this affects their amplitude.
+Amplitude is the maximum distance the particles of the medium move from their resting positions when a wave passes through.
+How amplitude is affected by wave interference depends on the type of interference.
+Interference can be constructive or destructive.
+Constructive interference occurs when the crests, or highest points, of one wave overlap the crests of the other wave.
+You can see this in the Figure below .
+As the waves pass through each other, the crests combine to produce a wave with greater amplitude.
+You can see an animation of constructive interference at this URL:
+Diagram illustrating constructive interference
+Destructive interference occurs when the crests of one wave overlap the troughs, or lowest points, of another wave.
+The Figure below shows what happens.

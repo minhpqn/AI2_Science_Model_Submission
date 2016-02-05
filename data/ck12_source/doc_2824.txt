@@ -1,0 +1,20 @@
+This machine scans a patient’s body and detects radiation.
+A low level of radiation occurs naturally in the environment.
+This background radiation is generally assumed to be safe for living things.
+Long-term or high-dose exposure to radiation can harm living things and damage nonliving materials such as metals.
+One reason radiation is dangerous is that it generally can’t be detected with the senses.
+It can be detected only with devices such as Geiger counters.
+Radiation has several important uses, including diagnosing and treating cancer.
+Watch the video about uses of radiation at the following URL, and then answer the questions below.
+Click on the image above for more content
+Alpha radiation is used in smoke alarms.
+Explain how a smoke alarm uses this form of radiation.
+Identify a use of beta radiation, and explain how it works.
+List three uses of gamma radiation, and describe one of them in detail.
+What are two sources of background radiation?
+How can radiation harm living things?
+What is radon, and why is it harmful to people?
+How does a Geiger counter detect radiation?
+What are some uses of radiation?
+Define radioactive decay.
+Describe three types of radioactive decay.

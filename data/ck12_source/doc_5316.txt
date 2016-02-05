@@ -1,0 +1,20 @@
+What tells the first cell of an organism what to do?
+How does that first cell know to divide and become two cells, then four cells, and so on?
+Does this cell have instructions?
+What are those instructions and what do they really do?
+What happens when those instructions don’t work properly?
+Are the “instructions” the genetic material?
+Though today it seems completely obvious that deoxyribonucleic acid, or DNA , is the genetic material, this was not always known.
+Practically everything a cell does, be it a liver cell, a skin cell, or a bone cell, it does because of proteins.
+It is your proteins that make a bone cell act like a bone cell, a liver cell act like a liver cell, or a skin cell act like a skin cell.
+It is the proteins that perform the functions of the cell, and of course, many of those functions are specific for the bone cell, liver cell, skin cell, or any other type of cell.
+In other words, it is the proteins that give an organism its traits.
+We know that it is your proteins that that make you tall or short, have light or dark skin, or have brown or blue eyes.
+But what tells those proteins how to act?
+It is the structure of the protein that determines its function.
+And it is the order and type of amino acids that determine the structure of the protein.
+And that order and type of amino acids that make up the protein are determined by your DNA sequence.
+The relatively large chromosomes that never leave the nucleus are made of DNA.
+And, as proteins are made on the ribosomes in the cytoplasm, how does the information encoded in the DNA get to the site of protein synthesis?
+That’s where RNA comes into this three-player act.
+DNA → RNA → Protein

@@ -1,0 +1,20 @@
+Human Genetic Disorders
+Many genetic disorders are caused by mutations in one or a few genes.
+Others are caused by chromosomal mutations.
+Some human genetic disorders are X-linked or Y-linked, which means the faulty gene is carried on these sex chromosomes.
+Other genetic disorders are carried on one of the other 22 pairs of chromosomes; these chromosomes are known as autosomes or autosomal (non-sex) chromosomes.
+Some genetic disorders are due to new mutations, others can be inherited from your parents.
+Autosomal Recessive Disorders
+Some genetic disorders are caused by recessive alleles of a single gene on an autosome.
+An example of  autosomal recessive genetic disorders  are Tay-Sachs disease and cystic fibrosis.
+Children with cystic fibrosis have excessively thick mucus in their lungs, which makes it difficult for them to breathe.
+The inheritance of this recessive allele is the same as any other recessive allele, so a Punnett square can be used to predict the probability that two carriers of the disease will have a child with cystic fibrosis.
+Recall that carriers have the recessive allele for a trait but do not express the trait.
+What are the possible genotypes of the offspring in the following table ( Table below )?
+What are the possible phenotypes?
+According to this Punnett square, two parents that are carriers ( Ff ) of the cystic fibrosis gene have a 25% chance of having a child with cystic fibrosis ( ff ).
+The affected child must inherit two recessive alleles.
+The carrier parents are not affected.
+Tay-Sachs disease is a severe genetic disorder in which affected children do not live to adulthood, so the gene is not passed from an affected individual.
+Carriers of the Tay-Sachs gene are not affected.
+How does a child become affected with Tay-Sachs?

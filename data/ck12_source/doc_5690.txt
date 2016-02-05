@@ -1,0 +1,20 @@
+Step 3:
+Think about your result.
+While the resulting energy may seem very small, this is for only one photon of light.
+Visible quantities of light consist of huge quantities of photons.
+Recall that a hertz is equal to a reciprocal second, so the units agree in the equation.
+A quantum relates to the energy gained or absorbed by an object.
+The value of Planck’s constant is h=6.626 \times 10^{-34} \ \text{J} \cdot \text{s} .
+Use the link below to answer the following questions:
+According to classical physics, what should happen as the electron accelerates around the nucleus?
+What did Planck assume?
+How are changes in energy carried out at the sub-atomic level?
+What did classical physics predict about hot objects?
+What did Planck find?
+What is a quantum?
+Planck’s constant: h=6.626 \times 10^{-34} \ J \cdot s .
+quantum:
+The minimum quantity of energy that can either be lost or gained by an atom.
+Describe the photoelectric effect.
+Image of a solar sail
+Are you a fan of science fiction?

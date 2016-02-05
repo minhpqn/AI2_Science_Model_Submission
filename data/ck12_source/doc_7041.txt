@@ -1,0 +1,17 @@
+After some hard work, you measure the current amount of ^{14}\mathrm{C} in the skeleton to be 0.000054 grams.
+How old is this skeleton?
+Are you famous?
+Micol had in her lab two samples of radioactive isotopes: ^{151}\mathrm{Pm} with a half-life of 1.183 days and ^{134}\;\mathrm{Ce} with a half-life of 3.15 days.
+She initially had 100 \;\mathrm{mg} of the former and 50 \;\mathrm{mg} of the latter.
+Do a graph of quantity remaining (vertical axis) vs. time for both isotopes on the same graph.
+Using the graph determine at what time the quantities remaining of both isotopes are exactly equal and what that quantity is.
+Micol can detect no quantities less than 3.00 \;\mathrm{mg} .
+Again, using the graph , determine how long she will wait until each of the original isotopes will become undetectable.
+The Pm goes through \beta- decay and the Ce decays by means of electron capture.
+What are the two immediate products of the radioactivity?
+It turns out both of these products are themselves radioactive; the Pm product goes through \beta- decay before it becomes stable and the Ce product goes through \beta+ decay before it reaches a stable isotope.
+When all is said and done, what will Micol have left in her lab?
+Answers to Selected Problems
+t = 144,700 years
+In these lessons students will develop a deep understanding of radiation and how to solve problems involving the half life and decay constant equations.
+In addition, the lesson on carbon dating covers an understanding and also develops the skills to solve carbon dating problems.

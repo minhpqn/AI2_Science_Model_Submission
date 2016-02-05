@@ -1,0 +1,20 @@
+none of these are true.
+The force between like magnetic poles will be
+could be repulsive or attractive.
+Why is a magnet able to attract a non-magnetic piece of iron?
+If you had two iron rods and noticed that they attract each other, how could you determine if both were magnets or only one was a magnet?
+magnet:
+A body that can attract certain substances, such as iron or steel, as a result of a magnetic field.
+magnetic pole:
+Either of two regions of a magnet, designated north and south, where the magnetic field is strongest.
+Electromagnetic interactions cause the north poles of magnets to be attracted to the south poles of other magnets, and conversely.
+The north pole of a magnet is the pole out of which magnetic lines of force point, while the south pole is the pole into which they point.
+ferromagnetic:
+A body or substance having a high susceptibility to magnetization, the strength of which depends on that of the applied magnetizing field, and which may persist after removal of the applied field.
+This is the kind of magnetism displayed by iron, and is associated with parallel magnetic alignment of adjacent domains.
+magnetic field:
+A field of force surrounding a permanent magnet or a moving charged particle.
+magnetic domain:
+An atom or group of atoms within a material that have some kind of “net” magnetic field.
+temporary magnet:
+A piece of iron that is a magnet while in the presence of another magnetic field but loses its magnetic characteristics when the other field is removed.

@@ -1,0 +1,20 @@
+The sloping surface of the inclined plane supports part of the weight of the object as it moves up the slope.
+As a result, it takes less force to move the object uphill.
+The trade-off is that the object must be moved over a greater distance than if it were moved straight up to the higher elevation.
+You can see several other examples of inclined planes at this URL:
+Object being moved up ramp
+Mechanical Advantage of an Inclined Plane
+The mechanical advantage of a simple machine is the factor by which it multiplies the force applied to the machine.
+It is the ratio of output force (the force put out by the machined) to input force (the force put into the machine).
+For an inclined plane, less force is put into moving an object up the slope than if the object were lifted straight up, so the mechanical advantage is greater than 1.
+The more gradual the slope of the inclined plane, the less input force is needed and the greater the mechanical advantage.
+Q :
+Which inclined plane pictured in the Figure below has a greater mechanical advantage?
+Inclined planes with different mechanical advantages
+A :
+The inclined plane on the right has a more gradual slope, so it has a greater mechanical advantage.
+Less force is needed to move objects up the gentler slope, yet the objects attain the same elevation as they would if more force were used to push them up the steeper slope.
+An inclined plane is a simple machine that consists of a sloping surface connecting a lower elevation to a higher elevation.
+It is used to move objects more easily to the higher elevation.
+Less force is needed to move an object uphill with an inclined plane, but the force must be applied over a greater distance.
+The mechanical advantage of an inclined plane is always greater than 1, because the machine puts out more force than the user puts into it.

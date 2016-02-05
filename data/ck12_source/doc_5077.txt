@@ -1,0 +1,20 @@
+Process in cellular respiration or photosynthesis which produces ATP; uses the energy of hydrogen ions diffusing through ATP synthase.
+chemiosmotic gradient :
+H + difference across a membrane; established by the active transport of hydrogen ions by an electron transport chain.
+electrochemical gradient :
+Difference across a membrane due to both a chemical force and an electrical force; drives the movement of ions across the membrane.
+electron transport chain :
+Series of electron-transport molecules that pass high-energy electrons from molecule to molecule and capture their energy.
+oxidative phosphorylation :
+A metabolic process that uses energy released by the oxidation of nutrients to produce adenosine triphosphate (ATP).
+The third and final stage of aerobic cellular respiration, the electron transport chain, accounts for most of the ATP.
+Stage 3 transfers the energy from NADH and FADH 2 to make ATP.
+During electron transport, energy is used to pump hydrogen ions across the mitochondrial inner membrane, from the matrix into the intermembrane space.
+A chemiosmotic gradient causes hydrogen ions to flow back across the mitochondrial membrane into the matrix, through ATP synthase, producing ATP.
+When ATP from glycolysis and the Krebs Cycle are added, a total of 38 ATP result from aerobic respiration of one molecule of glucose.
+Mitochondria at  .
+Summarize the overall task of Stage 3 of aerobic respiration.
+Explain the principle of chemiosmosis.
+Name the three stages of aerobic cellular respiration.
+Then write the overall equation, and identify which stage:
+Uses each reactant.

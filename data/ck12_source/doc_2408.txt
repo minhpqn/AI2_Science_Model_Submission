@@ -1,0 +1,20 @@
+For example, the volume of a rectangular room can be calculated with the formula:
+Volume = length × width × height
+If the length of the room is 5.0 meters, the width is 3.0 meters, and the height is 2.5 meters, then the volume of the room is:
+Volume = 5.0 m × 3.0 m × 2.5 m = 37.5 m 3
+Q:
+What is the volume of the dinosaur in the diagram above?
+A:
+The volume of the water alone is 4.8 mL.
+The volume of the water and dinosaur together is 5.6 mL.
+Therefore, the volume of the dinosaur alone is 5.6 mL – 4.8 mL = 0.8 mL.
+Matter is all the “stuff” that exists in the universe.
+It has both mass and volume.
+Mass measures the amount of matter in a substance or an object.
+The basic SI unit for mass is the kilogram (kg).
+Volume measures the amount of space that a substance or an object takes up.
+The basic SI unit for volume is the cubic meter (m 3 ).
+Do the mass and volume quiz at this URL.
+Be sure to check your answers.
+How do scientists define matter?
+What is mass?

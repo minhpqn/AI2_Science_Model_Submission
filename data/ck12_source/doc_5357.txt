@@ -1,0 +1,20 @@
+The addition of RNA nucleotides to the growing RNA transcript during transcription; also refers to the process during translation of adding additional amino acids to the growing polypeptide chain.
+initiation :
+The start of transcription; signaled by the transcription initiation complex formed by the promoter, transcription factors, and RNA polymerase; also refers to the start of translation.
+polyadenylation :
+The addition of a string of adenines to the mRNAs 3’-end; signals the termination of translation in eukaryotes.
+preinitiation complex :
+A large complex of proteins that is necessary for the transcription of protein-coding genes in eukaryotes; helps position RNA polymerase II; also found in archaea genes.
+promoter :
+A segment of DNA that allows a gene to be transcribed; segment where RNA polymerase binds to start transcription.
+repressor :
+A protein that binds to non-coding sequences on the DNA (operator) that are close to or overlap the promoter region, impeding RNA polymerase's progress along the strand.
+Rho-dependent termination :
+Involves a protein factor (Rho), which destabilizes the RNA-DNA hybrid, releasing the newly synthesized mRNA from the elongation complex.
+RNA polymerase II :
+The enzyme that reads a template strand of DNA during transcription to synthesize the complementary RNA strand.
+TATA box :
+A cis -regulatory element found in the promoter of most eukaryotic genes; when the appropriate cellular signals are present, RNA polymerase binds to the TATA box, completing the initiation complex.
+termination :
+The end of transcription; involves the detachment of the RNA from the DNA template; also refers to the end of translation when the ribosome comes to one of the three stop codons, for which there is no tRNA.
+transcription :

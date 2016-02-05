@@ -1,0 +1,20 @@
+The use of light in devices such as these is possible because of optics.
+Optics and Optical Instruments
+Optics is the study of visible light and the ways it can be used to extend human vision and do other tasks.
+Knowledge of light was needed for the invention of optical instruments such as microscopes, telescopes, and cameras, in addition to optical fibers.
+These instruments use mirrors and lenses to reflect and refract light and form images.
+Q:
+What is an image?
+A:
+An image is a copy of an object created by the reflection or refraction of visible light.
+A light microscope is an instrument that uses lenses to make enlarged images of objects that are too small for the unaided eye to see.
+A common type of light microscope is a compound microscope, like the one shown in the Figure below .
+A compound microscope has at least two convex lenses: one or more objective lenses and one or more eyepiece lenses.
+The objective lenses are close to the object being viewed.
+They form an enlarged image of the object inside the microscope.
+The eyepiece lenses are close to the viewer’s eyes.
+They form an enlarged image of the first image.
+The magnifications of all the lenses are multiplied together to yield the overall magnification of the microscope.
+Some light microscopes can magnify objects more than 1000 times!
+For more on light microscopes and the images they create, watch the video at this URL:
+Schematic of a light microscope

@@ -1,0 +1,20 @@
+These are called translational degrees of freedom.
+Diatomic gas molecules, on the other hand have more: the three translational explained above still exist, but there are now also vibrational and rotational degrees of freedom.
+Monatomic and diatomic degrees of freedom can be illustrated like this:
+Temperature is an average of kinetic energy over degrees of freedom, not a sum .
+Let's try to understand why this is in reference to our monoatomic ideal gas.
+In the derivation above, volume was constant; so, temperature was essentially proportional to pressure, which in turn was proportional to the kinetic energy due to translational motion of the molecules.
+If the molecules had been able to rotate as well as move around the box, they could have had the same kinetic energy with slower translational velocities, and, therefore, lower temperature.
+In other words, in that case, or assumption that the kinetic energy of the atoms only depends on their velocities, implied between equations [2] and [3], would not have held .
+Therefore, the number of degrees of freedom in a substance determines the proportionality between molecular kinetic energy and temperature: the more degrees of freedom, the more difficult it will be to raise its temperature with a given energy input.
+This is why it takes so long to boil water but so little time to heat up a piece of metal with the same mass.
+A note about the above discussion:
+Since the objects at the basis of our understanding of thermodynamics are atoms and molecules, quantum effects can make certain degrees of freedom inaccessible at specific temperature ranges.
+Unlike most cases in your current physics class, where these can be ignored, in this case, quantum effects can make an appreciable difference.
+For instance, the vibrational degrees of freedom of diatomic gas molecules discussed above are, for many gases, inaccessible in very common conditions, although we do not have the means to explain this within our theory.
+In fact, this was one of the first major failures of classical physics that ushered in the revolutionary discoveries of the early 20th century.
+Convert 75 degrees Fahrenheit to Celsius.
+To do this conversion, we'll just use the equation given above.
+T_c&=\frac{5}{9}(T_f - 32^\circ \text{F})\\\T_c&=\frac{5}{9}(75^\circ \text{F} - 32^\circ \text{F})\\\T_c&=23.8^\circ \text{C}
+The mass of a neon atom is 3.34*10^{-26}\;\text{kg} .
+If the temperature of the neon atom 100 K, what is it's average velocity?

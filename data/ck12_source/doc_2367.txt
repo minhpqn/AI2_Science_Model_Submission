@@ -1,0 +1,20 @@
+A:
+The length of the red line is 3.2 cm.
+Measuring Mass with a Balance
+Mass is the amount of matter in an object.
+Scientists often measure mass with a balance.
+A type of balance called a triple beam balance is pictured in Figure below .
+To use this type of balance, follow these steps:
+Place the object to be measured on the pan at the left side of the balance.
+Slide the movable masses to the right until the right end of the arm is level with the balance mark.
+Start by moving the larger masses and then fine tune the measurement by moving the smaller masses as needed.
+Read the three scales to determine the values of the masses that were moved to the right.
+Their combined mass is equal to the mass of the object.
+Picture of a triple beam balance
+The Figure below is an enlarged version of the scales of the triple beam balance in Figure above .
+It allows you to read the scales.
+The middle scale, which measures the largest movable mass, reads 300 grams.
+This is followed by the top scale, which reads 30 grams.
+The bottom scale reads 5.1 grams.
+Therefore, the mass of the object in the pan is 335.1 grams (300 grams + 30 grams + 5.1 grams).
+How to read a triple beam balance

@@ -1,0 +1,20 @@
+Use the graph of the sunspot cycle below to answer the following questions. (Note that this is real data from our sun, so it doesn’t look like a perfect sine wave.
+What you need to do is estimate the best sine wave that fits this data.)
+Estimate the period T in years.
+When do we expect the next “solar maximum?”
+Answers to Selected Problems
+a.
+Buoyant force and gravity b.
+T = 6 \;\mathrm{s}, f = 1/6 \;\mathrm{Hz}
+a. 0.0038 \;\mathrm{s} b. 0.0038 \;\mathrm{s}
+a.
+About 11 years b.
+About 2014
+Calculate periods, frequencies, etc. of spring systems in harmonic motion.
+Students will learn to calculate periods, frequencies, etc. of spring systems in harmonic motion.
+T = \frac{1}{f} ;
+Period is the inverse of frequency
+T_{\text{spring}} = 2\pi\sqrt{\frac{m}{k}} ;
+Period of mass m on a spring with constant k
+F_{sp} = -kx  ; the force of a spring equals the spring constant multiplied by the amount the spring is stretched or compressed from its equilibrium point.
+The negative sign indicates it is a restoring force (i.e. direction of the force is opposite its displacement from equilibrium position.

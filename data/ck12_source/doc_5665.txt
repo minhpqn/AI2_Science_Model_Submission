@@ -1,0 +1,20 @@
+The symbols in the Figure above would be more useful if they revealed more information about the atoms they represent.
+For example, it would be useful to know the numbers of protons and neutrons in the atoms.
+That’s where atomic number and mass number come in.
+The number of protons in an atom is called its atomic number .
+This number is very important because it is unique for atoms of a given element.
+All atoms of an element have the same number of protons, and every element has a different number of protons in its atoms.
+For example, all helium atoms have two protons, and no other elements have atoms with two protons.
+In the case of helium, the atomic number is 2.
+The atomic number of an element is usually written in front of and slightly below the element’s symbol, like in the Figure below for helium.
+Atomic and mass number of helium
+Atoms are neutral in electrical charge because they have the same number of negative electrons as positive protons.
+Therefore, the atomic number of an atom also tells you how many electrons the atom has.
+This, in turn, determines many of the atom’s properties.
+There is another number in the Figure above for helium.
+That number is the mass number , which is the mass of the atom in a unit called the atomic mass unit (amu) .
+One atomic mass unit is the mass of a proton, or about 1.67 × 10 -27 kilograms, which is an extremely small mass.
+To better appreciate how small an atomic mass unit is, go to this URL:
+A neutron has just a tiny bit more mass than a proton, so its mass is often assumed to be one atomic mass unit as well.
+Because electrons have virtually no mass, just about all the mass of an atom is in its protons and neutrons.
+Therefore, the total number of protons and neutrons in an atom determines its mass in atomic mass units.

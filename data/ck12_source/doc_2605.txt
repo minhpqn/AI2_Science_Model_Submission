@@ -1,0 +1,20 @@
+The filaments quickly burned out.
+Although air was pumped out of the bulb, it wasn’t a complete vacuum.
+Oxygen in the small amount of air remaining inside the light bulb reacted with the metal filament.
+This corroded the filament and caused dark deposits on the glass.
+Filling a light bulb with argon gas prevents these problems.
+That’s why modern light bulbs are filled with argon.
+Q:
+How does argon prevent the problems of early light bulbs?
+A:
+As a noble gas with eight electrons, argon doesn’t react with the metal in the filament.
+This protects the filament and keeps the glass blub free of deposits.
+Argon is used in incandescent lightbulbs
+Noble gases are also used to fill the glass tubes of lighted signs like the one in the Figure below .
+Although noble gases are chemically nonreactive, their electrons can be energized by sending an electric current through them.
+When this happens, the electrons jump to a higher energy level.
+When the electrons return to their original energy level, they give off energy as light.
+Different noble gases give off light of different colors.
+Neon gives off reddish-orange light, like the word “Open” in the sign below.
+Krypton gives off violet light and xenon gives off blue light.
+Noble gases are nonreactive, nonmetallic elements in group 18 of the periodic table.

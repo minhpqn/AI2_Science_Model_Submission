@@ -1,0 +1,20 @@
+This is the incident angle that corresponds to the largest possible refracted angle, 90^\circ .
+No such angle
+Describe how light reflects off various types of mirrors.
+Students will learn how light reflects off mirrors.
+Flat mirrors, concave mirrors and convex mirrors are all covered.
+\frac{1}{f} = \frac{1}{d_o} +\frac{1}{d_i} \;  ;
+The len's maker's equation
+Where f is the focal length of the mirror,  d_o  is the distance of the object from the mirror and  d_i  is the distance the image is formed from the mirror.
+M = \frac{-d_i}{d_0}
+The size of an object’s image is larger (or smaller) than the object itself by its magnification, M .
+The level of magnification is proportional to the ratio of d_i and d_o .
+An image that is double the size of the object would have magnification M = 2 .
+R = 2f
+The radius of curvature of a mirror is twice its focal length
+Mirrors are made from highly reflective metal that is applied to a curved or flat piece of glass.
+Converging mirrors can be used to focus light – headlights, telescopes, satellite TV receivers, and solar cookers all rely on this principle.
+Converging mirrors (also known as concave mirrors) are curved towards the incoming light and focus parallel rays at the focal point.
+Diverging mirrors (also known as convex mirrors) are curved away from the incoming light and do not focus, but scatter the light instead.
+The focal length , f , of a lens or mirror is the distance from the surface of the lens or mirror to the place where the light is focused.
+This is called the focal point or focus .

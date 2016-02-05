@@ -1,0 +1,20 @@
+However, the variable  x will represent the concentration of the hydroxide ion.
+The pH is found by taking the negative logarithm to get the pOH, followed by subtracting from 14 to get the pH.
+The procedure for calculating the pH of a weak acid or base is illustrated.
+Perform the calculations at the site below:
+What does  x stand for in the equation?
+What simplifying assumption is made?
+What would  x stand for if we were calculating pOH?
+Neutralization Reaction and Net Ionic Equations for Neutralization Reactions
+Define neutralizations reaction.
+Write balanced equations for neutralization reactions.
+Write net ionic equations for neutralization reactions.
+Pouring concrete often generates alkaline waste that must first be neutralized
+Who cleans up afterwards?
+Pouring concrete and working it are messy jobs.
+In the process, a lot of wastewater with an alkaline pH is generated.
+Often, regulations require that this wastewater be cleaned up at the site.
+One practical way to neutralize the basic pH is to bubble CO 2 into the water.
+The carbon dioxide forms a weak acid (carbonic acid, H 2 CO 3 ) in solution which serves to bring the alkaline pH down to something closer to neutral.
+Neutralization Reactions and Net Ionic Equations for Neutralization Reactions
+A neutralization reaction is a reaction in which an acid and a base react in an aqueous solution to produce a salt and water.

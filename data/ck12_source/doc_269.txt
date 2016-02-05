@@ -1,0 +1,20 @@
+the rifle has a great deal more mass than the bullet.
+the momentum of the rifle is unchanged.
+the impulse on the rifle is less than the impulse on the bullet.
+none of these.
+Law of Conservation of Momentum:
+The total linear momentum of an isolated system remains constant regardless of changes within the system.
+Conservation of Momentum in Two Dimensions
+Use the conservation of momentum and vector analysis to solve two-dimensional collision problems.
+Review vector components.
+Billiards involves collisions in two dimensions
+In a game of billiards, it is important to be able to visualize collisions in two dimensions – the best players not only know where the target ball is going but also where the cue ball will end up.
+Conservation of Momentum in Two Dimensions
+Conservation of momentum in all closed systems is valid, regardless of the directions of the objects before and after they collide.
+Most objects are not confined to a single line, like trains on a rail.
+Rather, many objects, like billiard balls or cars, can move in two dimensions.
+Conservation of momentum for these objects can also be calculated; momentum is a vector and collisions of objects in two dimensions can be represented by axial vector components.
+To review axial components, revisit Vectors:
+Resolving Vectors into Axial Components and Vectors:
+Vector Addition.
+Example Problem:

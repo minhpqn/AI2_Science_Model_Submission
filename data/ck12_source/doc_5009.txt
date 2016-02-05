@@ -1,0 +1,20 @@
+In animals, an important function of enzymes is to help digest food.
+Digestive enzymes speed up reactions that break down large molecules of carbohydrates, proteins, and fats into smaller molecules the body can use.
+Without digestive enzymes, animals would not be able to break down food molecules quickly enough to provide the energy and nutrients they need to survive.
+active site :
+Site on the enzyme where the reaction occurs.
+biochemical reaction :
+Chemical reaction within a cell or organism; usually controlled by an enzyme.
+enzyme :
+Chemical, usually a protein, that speeds up chemical reactions in organisms; a biological catalyst.
+pepsin :
+The main digestive enzyme in the stomach; degrades food proteins into peptides.
+reactant :
+Substance involved in a chemical reaction that is present at the beginning of the reaction.
+substrates :
+The reactants in an enzyme catalyzed reaction.
+trypsin :
+Digestive enzyme which break protein chains in food into smaller peptide fragments; a serine protease, cleaves peptide chains mainly at the carboxyl side of the amino acids lysine or arginine, except when either is followed by proline.
+Enzymes are needed to speed up chemical reactions in organisms.
+They work by lowering the activation energy of reactions.
+Enzymes position substrates into active sites.

@@ -1,0 +1,20 @@
+In addition to holding cells together, tight junctions play a role in the transport of materials.
+Tight junctions prevent the passage of molecules and ions through the space between cells.
+So these molecules and ions must actually enter cells (either by diffusion or active transport) in order to proceed through a tissue.
+This allows tight junctions to indirectly play a role over what substances are allowed into a specific cell.
+Tight junctions play this role in maintaining the blood-brain barrier.
+centriole :
+A cylindrical shaped cell structure composed of nine triplets of microtubules; structure from which spindle fibers originate.
+centrosome :
+An organelle that serves as the main microtubule organizing center (MTOC) of the animal cell.
+connexon :
+An assembly of six connexin proteins; part of a gap junction channel between the cytoplasm of two adjacent cells.
+desmosome :
+A junctional complex cell structure specialized for cell-to-cell adhesion.
+gap junction :
+A specialized intercellular connection between a various animal cell-types; directly connects the cytoplasm of two cells; the narrow gap between the pre- and post-synaptic cells in electrical synapses.
+microtubule organizing center (MTOC) :
+A structure found in eukaryotic cells from which microtubules emerge.
+plasmodesmata :
+Microscopic channels which traverse the cell walls of plant cells; enables transport and communication between them.
+tight junction :

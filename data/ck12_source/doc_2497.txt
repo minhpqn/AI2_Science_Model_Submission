@@ -1,0 +1,20 @@
+The number of protons in an atom determines the electrical charge of the nucleus.
+The nucleus also contains neutrons, but they are neutral in charge.
+The one proton in a hydrogen nucleus, for example, gives it a charge of +1, and the two protons in a helium nucleus give it a charge of +2.
+To learn more about the relationship between protons and elements, go to this URL:
+Q:
+There are six protons in each atom of carbon.
+What is the electrical charge of a carbon nucleus?
+A:
+The electrical charge of a carbon nucleus is +6.
+What Are Protons Made of?
+Protons are made of fundamental particles called quarks and gluons.
+As you can see in the Figure below , a proton contains three quarks (colored circles) and three streams of gluons (wavy white lines).
+Two of the quarks are called up quarks (u), and the third quark is called a down quark (d).
+The gluons carry the strong nuclear force between quarks, binding them together.
+This force is needed to overcome the electric force of repulsion between positive protons.
+Although protons were discovered almost 100 years ago, the quarks and gluons inside them were discovered much more recently.
+Scientists are still learning more about these fundamental particles.
+You can take an animated tour of the atom, including protons and their fundamental particles, at this URL:  .
+Image of quarks in a proton
+A proton one of three main particles that make up the atom.

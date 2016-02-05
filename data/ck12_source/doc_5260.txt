@@ -1,0 +1,20 @@
+Regulatory sequences controlling gene expression are associated with exon sequences.
+The introns are usually excised (removed) during post-transcriptional modification of the mRNA.
+Human cells make significant use of alternative splicing (see the Protein Synthesis concepts) to produce a number of different proteins from a single gene.
+So even though the human genome is surprisingly similar in size to the genomes of simpler organisms, the human proteome is thought to be much larger.
+A proteome is the complete set of proteins expressed by a genome, cell, tissue, or organism.
+As stated above, our roughly 20,000+ genes are located on 24 distinct chromosomes.
+So many genes are located on the same chromosome.
+Chromosome 1 is the largest chromosome with approximately 246 million base pairs, whereas chromosome 21 and 22 are the smallest chromosomes, with just under 50 million base pairs each.
+See
+for additional information on each human chromosome.
+Linkage refers to particular genetic loci , or alleles inherited together, suggesting that they are physically on the same chromosome, and located close together on that chromosome.
+Two or more loci that are on the same chromosome are physically connected and tend to segregate together during meiosis, unless a cross over event occurs between them.
+A crossing-over event during prophase I of meiosis is rare between loci that usually segregate together; these loci will usually be close together on the same chromosome.
+They are, therefore, said to be linked.
+Alleles for genes on different chromosomes are not linked; they sort independently (independent assortment) of each other during meiosis.
+A gene is also said to be linked to a chromosome if it is physically located on that chromosome.
+For example, a gene (or loci) is said to be linked to the X-chromosome if it is physically located on the X-chromosome chromosome.
+The physical location of a gene is important when analyzing the inheritance patterns of phenotypes due to that gene.
+The inheritance patterns of phenotypes may be different if the gene is located on a sex chromosome or an autosome.
+This will be further discussed in additional Human Genetics concepts.

@@ -1,0 +1,20 @@
+The Figure below is an illustration of gas particles exerting pressure inside a container.
+The collision of gas molecules with the walls of a container generates pressure
+Collision of gas particles with container wall.
+The pressure inside the hot air balloon is affected by temperature.
+As the molecules heat up, they move faster and strike the inside wall of the balloon harder.
+This increased motion of the gas particles increases the force on an area of the balloon, producing a rise in the pressure.
+Pressure is defined as \frac{\text{force}}{\text{volume}} .
+Gas pressure is the result of collisions between gas particles and an object.
+An increase in temperature will produce an increase in pressure of a gas.
+Use the link below to answer the following questions:
+What physical properties does a gas particle possess?
+When applying pressure to a gas, how are the forces in the container affected?
+What determines the momentum of a single molecule?
+What is pressure?
+What causes pressure by a gas?
+What would happen to the pressure if gas particles suddenly stopped moving?
+How does temperature affect pressure?
+pressure:
+Defined as \frac{\text{force}}{\text{volume}} .
+collision:

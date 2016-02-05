@@ -1,0 +1,20 @@
+missense mutations :
+Point mutation which codes for a different amino acid.
+nonsense mutation :
+Point mutation which codes for a premature stop codon.
+null allele :
+A mutant copy of a gene that completely lacks that gene's normal function.
+point mutations :
+Exchange one nucleotide for another; known as base substitution mutations.
+silent mutation :
+Point mutation which codes for the same amino acid.
+somatic mutation :
+A mutation in a body cell, not in a gamete; cannot be transmitted to the next generation.
+splice site mutation :
+Mutation in the coding region of a gene that alters splicing of the mRNA.
+transition :
+A purine to purine, or a pyrimidine to pyrimidine change.
+transversion :
+A purine is replaced by a pyrimidine, or a pyrimidine is replaced by a purine.
+Germline mutations can be passed on to descendants; somatic mutations cannot be transmitted to the next generation.
+Chromosomal alterations are large changes in the chromosome structure.

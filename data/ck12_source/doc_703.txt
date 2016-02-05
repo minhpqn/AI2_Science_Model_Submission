@@ -1,0 +1,20 @@
+Use the lens equation to locate image positions for objects that are outside 2F, between 2F and F, and inside F of convex lenses.
+Use the magnification equation to determine image sizes for convex lenses.
+Refracting telescope at the Lick Observatory
+Refracting telescopes, such as the one shown here, use lenses to focus the image.
+The telescope in this picture is one of the largest refracting telescopes in the world, and can be found in the Lick Observatory in San Jose, California.
+You can get more information about this telescope at: www.ucolick.org/public/telescopes/36-inch.html .
+Images in Double Convex Lenses
+Lenses are made of transparent material such as glass or plastic with an index of refraction greater than that of air.
+At least one of the faces is a part of a sphere; a convex lens  is thicker at the center than the edges, and a concave lens  is thicker at the edges than the center.
+Convex lenses are called converging lenses, because they refract parallel light rays so that they meet.
+They are one of the most useful and important parts of all optical devices, and are found in eyeglasses, telescopes, microscopes, magnifying glasses, cameras and many other objects.
+Both the mirror equation and the magnification equation also apply to lenses.
+However, when dealing with lenses, the mirror equation is renamed the Lens Equation.
+Image formed by a convex lens
+Double convex lenses have focal points on both sides of the lens, but it is also necessary to use points at twice the focal length to locate objects and images.
+Therefore, along the principal axis, there are points identified as F  and as 2F  on both sides of the lens.
+As with mirrors, we only need to trace two rays in order to locate the image for lenses.
+Both rays change direction while inside the lens, and their convergence point on the opposite side of the lens is the image location.
+As can be seen in the figure above, Ray 1 approaches the lens parallel to the principal axis and is refracted through the focal point on the other side.
+Ray 2 travels through the focal point and is then refracted parallel to the principal axis.

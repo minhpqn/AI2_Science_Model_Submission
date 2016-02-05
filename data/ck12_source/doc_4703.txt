@@ -1,0 +1,20 @@
+Deductive Reasoning:
+Deduction
+Deduction involves determining a single fact from a general statement; it is only as accurate as the statement.
+For example, we know that all organisms are made of cells and need to maintain homeostasis and must reproduce to stay alive.
+Therefore, since humans are organisms, we can then deduce that humans are made of cells, maintain homeostasis and reproduce.
+Deductions are based on valid reasoning.
+The reasoning in the following argument is valid, because there is no way in which the reasons 1 and 2, could be true and the conclusion, 3, be false:
+Reason 1:
+All humans are mortal.
+Reason 2:
+Albert Einstein is a human.
+Conclusion:
+Albert Einstein is mortal ( Figure below ).
+Albert Einstein (1879–1955) Deductive reasoning has helped us determine that Albert Einstein is a mortal being.
+Inductive Reasoning:
+Induction
+Induction involves determining a general statement that is very likely to be true from several facts.
+For example, if we have had a test every Tuesday for the past three months, we will have a test next Tuesday (and every Tuesday after that).
+Induction contrasts strongly with deduction.
+Even in the best, strongest cases of induction, the truth of the reason does not guarantee the truth of the conclusion.

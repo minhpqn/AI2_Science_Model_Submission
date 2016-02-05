@@ -1,0 +1,20 @@
+Use the resource below to answer the questions that follow.
+The Law of Multiple Proportions at
+Who identified the Law of Multiple Proportions?
+What is significant about this law?
+How did this law aid in the understanding of atomic structure?
+What other laws helped in the formation of modern atomic theory?
+State the law of multiple proportions.
+In carbon dioxide, how many grams of oxygen would there be if there are 24 grams of carbon?
+How many grams of carbon would be present in carbon monoxide that contains 2.66 grams of oxygen?
+law of multiple proportions:  Whenever the same two elements form more than one compound, the different masses of one element that combine with the same mass of the other element are in the ratio of small whole numbers.
+Mass Ratio Calculation
+Define mass ratio.
+Calculate the mass ratio of an element in two different compounds.
+Two reactions involving the same reactants but in different proportions
+What are the similarities and differences between these two equations?
+One of the fundamental laws of chemistry deals with the fact that we cannot (using chemical means) create or destroy matter.  When a reaction is run, the number of atoms of each specific type must be the same on both sides of the equation.  For some materials, it turns out that one element can combine with a second element in more than one ratio.  Carrying out mass ratio calculations helped establish the law of multiple proportions.
+Mass Ratio Calculations
+Copper reacts with chlorine to form two compounds.  Compound A consists of 4.08 g of copper for every 2.28 g of chlorine.  Compound B consists of 7.53 g of copper for every 8.40 g of chlorine.  What is the lowest whole number mass ratio of copper that combines with a given mass of chlorine?
+Step 1:  List the known quantities and plan the problem.
+Compound A = 4.08 g Cu and 2.28 g Cl

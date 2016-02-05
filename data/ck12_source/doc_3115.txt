@@ -1,0 +1,20 @@
+A:
+Her gravitational potential energy is:
+GPE = 360 N × 1.2 m = 432 N • m, or 432 J
+Elastic Potential Energy
+Potential energy due to an object’s shape is called elastic potential energy.
+This energy results when an elastic object is stretched or compressed.
+The farther the object is stretched or compressed, the greater its potential energy is.
+A point will be reached when the object can’t be stretched or compressed any more.
+Then it will forcefully return to its original shape.
+Look at the pogo stick in the Figure below .
+Its spring has elastic potential energy when it is pressed down by the boy's weight.
+When it can’t be compressed any more, it will spring back to its original shape.
+The energy it releases will push the pogo stick—and the boy—off the ground.
+You can see how a pogo stick spring compresses and then returns to its original shape in the animation at this URL:
+This pogo stick stores energy in its spring
+Q:
+The girl in the Figure below is giving the elastic band of her slingshot potential energy by stretching it.
+She’s holding a small stone against the stretched band.
+What will happen when she releases the band?
+A:

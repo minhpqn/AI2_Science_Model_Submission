@@ -1,0 +1,20 @@
+What We Learn from Seismograms
+Seismograms contain a lot of information about an earthquake: its strength, length, and distance.
+Wave height is used to determine the magnitude of the earthquake.
+The seismogram shows the different arrival times of the seismic waves ( Figure below ).
+The first waves are P-waves since they are the fastest.
+S-waves come in next and are usually larger than P-waves.
+The surface waves arrive just after the S-waves.
+If the earthquake has a shallow focus, the surface waves are the largest ones recorded.
+These seismograms show the arrival of P-waves and S-waves
+These seismograms show the arrival of P-waves and S-waves.
+A seismogram may record P-waves and surface waves, but not S-waves.
+This means that it was located more than halfway around the Earth from the earthquake.
+What does that mean?
+Earth's outer core is liquid.
+S-waves cannot travel through liquid.
+So the liquid outer core creates an S-wave shadow zone on the opposite side of the Earth from the quake.
+Like most things, seismographs are now digital.
+Information from seismic waves is fed into computers at seismic stations around the world.
+This animation shows three different stations picking up seismic waves:
+A seismograph records seismic waves on a seismogram.

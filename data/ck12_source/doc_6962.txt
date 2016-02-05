@@ -1,0 +1,20 @@
+Electric Circuits:
+Capacitors
+The Big Idea
+When current flows through wires and resistors in a circuit as a result of a difference in electric potential, charge does not build up significantly anywhere on its path.
+Capacitors are devices placed in electric circuits where charge can build up.
+The amount of charge a capacitor can store before it “fills up” depends on its shape and how much electric potential is applied.
+The ratio of charge stored in a capacitor to the voltage applied is called its capacitance , measured in Farads (F) .
+The larger the electric potential in volts, the stronger the electric field that is used to “cram” the charge into the device.
+Any capacitor will fill up with enough charge.
+Capacitors store energy when charged, and release it when they discharge.
+Describe how a capacitor works.
+Solve basic problems involving the classic two plate capacitor.
+Students will learn how a capacitor works and how to solve basic problems involving the classic two plate capacitor.
+\begin{cases}\epsilon_0 = 8.85 \times 10^{-12} \text{F/m} & \text{Constant called the permittivity of free space}\\Q = CV & \text{Charge stored in a capacitor}\\C = \frac{\kappa \epsilon_0 A}{d} & \text{For two parallel metal plates, area A} \text{, separation} \; d, \text{dielectric} \; \kappa\\\end{cases}
+A capacitor is a device that stores charge.
+It is typically two very large flat plates wrapped in a cylinder with a dielectric substance in between the two.
+The dielectric allows the plates to be at a high voltage (and thus store more charge) without arcing between them.
+The capacitance, literally tells you how much charge it can hold.
+The capacitance of a capacitor only depends on its geometry.
+Here some important things to keep in mind in regards to capacitors:

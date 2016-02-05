@@ -1,0 +1,20 @@
+What is the total current in the circuit?
+What is the voltage drop across the 30.0 Ω resistor?
+What is the voltage drop across the parallel portion of the circuit?
+What is the current through each resistor?
+Three 15.0 Ω resistors are connected in parallel and the combination is then connected in series with a 10.0 Ω resistor.
+The entire combination is then placed across a 45.0 V potential difference.
+Find the equivalent resistance for the entire circuit.
+combined or combination circuits:
+A route for the flow of electricity that has elements of both series and parallel circuits.
+Ammeters and Voltmeters
+Describe the primary difference between the construction of ammeters and voltmeters.
+Describe whether ammeters should be placed in circuits in series or parallel and explain why.
+Describe whether voltmeters should be placed in circuits in series or parallel and explain why.
+Control room of a nuclear power plant
+This photo is of the interior of the control room for a nuclear power plant.
+Many of the meters are reading information about the water temperature and the nuclear reaction that is occurring, but the majority of the meters are reading data about the electric energy being generated.
+Ammeters and Voltmeters
+Ammeters and voltmeters are cleverly designed for the way they are used.
+Ammeters measure the current of a circuit, and voltmeters measure the voltage drop across a resistor.
+It is important in the design and use of these meters that they don't change the circuit in such a way as to influence the readings.

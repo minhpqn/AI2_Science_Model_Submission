@@ -1,0 +1,20 @@
+The controlled variables are controlled by you, otherwise they would influence the dependent variable.
+The independent variable answers the question, "What do I change?"
+The dependent variables answer the question, "What do I observe?"
+The controlled variables answer the question, "What do I keep the same?"
+In an old joke, a person claims that they are snapping their fingers "to keep tigers away," and justifies their behavior by saying, "See, it works!" While this experiment does not falsify the hypothesis that "snapping your fingers keeps tigers away," it does not support the hypothesis either because not snapping your fingers will also keep tigers away.
+It also follows that not snapping your fingers will not cause tigers to suddenly appear ( Figure below ).
+Are tigers really scared of snapping fingers, or is it more likely they are just not found in your neighborhood?
+Considering which of the hypotheses is more likely to be true can help you arrive at a valid answer.
+This principle, called Occam’s razor states that the explanation for a phenomenon should make as few assumptions as possible.
+In this case, the hypothesis “there are no tigers in my neighborhood to begin with” is more likely, because it makes the least number of assumptions about the situation.
+To demonstrate a cause and effect hypothesis, an experiment must often show that, for example, a phenomenon occurs after a certain treatment is given to a subject, and that the phenomenon does not occur in the absence of the treatment.
+One way to test a cause and effect hypothesis is to perform a controlled experiment.
+In a controlled experiment, two identical experiments are carried out side-by-side.
+In one of the experiments, the independent variable being tested is used, and in the other experiment, the control, the independent variable is not used.
+A controlled experiment generally compares the results obtained from an experimental sample against a control sample.
+The control sample is almost identical to the experimental sample except for the one variable whose effect is being tested.
+A good example would be a drug trial.
+The sample or group receiving the drug would be the experimental group, and the group receiving the placebo would be the control.
+A placebo is a form of medicine that does not contain the drug that is being tested.
+Controlled experiments can still be conducted when it is difficult to exert complete control over all the conditions in an experiment.

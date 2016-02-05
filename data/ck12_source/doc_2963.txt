@@ -1,0 +1,20 @@
+Q:
+Jerod is riding his bike at a constant speed.
+As he rides down his street he is moving from east to west.
+At the end of the block, he turns right and starts moving from south to north, but he’s still traveling at the same speed.
+Has his velocity changed?
+A:
+Although Jerod’s speed hasn’t changed, his velocity has changed because he is moving in a different direction.
+Q:
+How could you use vector arrows to represent Jerod’s velocity and how it changes?
+A:
+The arrows might look like this:
+Calculating Average Velocity
+You can calculate the average velocity of a moving object that is not changing direction by dividing the distance the object travels by the time it takes to travel that distance.
+You would use this formula:
+This is the same formula that is used for calculating average speed.
+It represents velocity only if the answer also includes the direction that the object is traveling.
+Let’s work through a sample problem.
+Toni’s dog is racing down the sidewalk toward the east.
+The dog travels 36 meters in 18 seconds before it stops running.
+The velocity of the dog is:

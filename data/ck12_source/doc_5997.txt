@@ -1,0 +1,20 @@
+A double-replacement reaction is a reaction in which the positive and negative ions of two ionic compounds exchange places to form two new compounds.
+The general form of a double-replacement (also called double-displacement) reaction is:
+AB+CD \rightarrow AD+CB
+In this reaction,  A and  C are positively-charged cations, while  B and  D are negatively-charged anions.
+Double-replacement reactions generally occur between substances in aqueous solution.
+In order for a reaction to occur, one of the products is usually a solid precipitate, a gas, or a molecular compound such as water.
+Formation of a Precipitate
+A precipitate forms in a double-replacement reaction when the cations from one of the reactants combine with the anions from the other reactant to form an insoluble ionic compound.
+When aqueous solutions of potassium iodide and lead(II) nitrate are mixed, the following reaction occurs.
+2\text{KI}(aq)+\text{Pb(NO}_3)_2(aq) \rightarrow 2\text{KNO}_3(aq)+\text{PbI}_2 (s)
+There are very strong attractive forces that occur between Pb 2+ and I − ions and the result is a brilliant yellow precipitate (see Figure below ).
+The other product of the reaction, potassium nitrate, remains soluble.
+The formation of lead iodide precipitate
+Formation of lead iodide precipitate.
+Formation of a Gas
+Some double-replacement reactions produce a gaseous product which then bubbles out of the solution and escapes into the air.
+When solutions of sodium sulfide and hydrochloric acid are mixed, the products of the reaction are aqueous sodium chloride and hydrogen sulfide gas.
+\text{Na}_2\text{S}(aq)+2\text{HCl}(aq) \rightarrow 2\text{NaCl}(aq)+\text{H}_2\text{S}(g)
+Formation of a Molecular Compound
+Another kind of double-replacement reaction is one that produces a molecular compound as one of its products.

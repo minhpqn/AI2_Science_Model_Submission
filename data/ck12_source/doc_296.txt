@@ -1,0 +1,20 @@
+What is the velocity of the cannon ball when it strikes the earth?
+Solution:
+Since the angle at which the cannon ball is fired is unknown, we cannot use the usual equations from projectile motion.
+However, at the moment the cannon ball is fired, it has a certain  KE due to the mass of the ball and its speed and it has a certain  PE due to its mass and it height above the earth.
+Those two quantities of energy can be calculated.
+When the ball returns to the earth, its  PE will be zero.
+Therefore, its  KE at that point must account for the total of its original KE + PE .
+T
+E_{\text{TOTAL}} = KE + PE = \frac{1}{2} \ mv^2 + mgh
+=\left(\frac{1}{2}\right)(5.00 \ kg)(30.0 \ m/s)^2 + (5.00 \ kg)(9.80 \ m/s^2)(50.0 \ m)
+= 2250 \ J + 2450 \ J = 4700 \ J
+\frac{1}{2} \ mv{_f}^2 = 4700 \ J \
+\ v_f=\sqrt{\frac{(2)(4700 \ J)}{5.00 \ kg}}=43.4 \ m/s
+Example Problem:  A 2.00 g bullet moving at 705 m/s strikes a 0.250 kg block of wood at rest on a frictionless surface.
+The bullet sticks in the wood and the combined mass moves slowly down the table.
+(a) What is the  KE of the bullet before the collision?
+(b) What is the speed of the combination after the collision?
+(c) How much  KE was lost in the collision?
+(a) KE_{\text{BULLET}} = \frac{1}{2} \ mv^2 = \left(\frac{1}{2}\right)(0.00200 \ kg)(705 \ m/s)^2 = 497 \ J
+(b) m_Bv_B + m_Wv_W = (m_{B+W})(v_{B+W})

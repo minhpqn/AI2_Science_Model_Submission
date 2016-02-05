@@ -1,0 +1,20 @@
+A positively charged balloon will attract negatively charged hair
+Electrons are transferred in this way whenever there is friction between materials that differ in their ability to give up or accept electrons.
+Watch the animation “Balloons and Static Electricity” at the following URL to see how electrons are transferred by friction between a sweater and a balloon.
+Q:
+If you rub a balloon against a wall, it may stick to the wall.
+Explain why.
+A:
+Electrons are transferred from the wall to the balloon, making the balloon negatively charged and the wall positively charged.
+The balloon sticks to the wall because opposite charges attract.
+Whenever electrons are transferred between objects, neutral matter becomes charged.
+For example, when atoms lose or gain electrons they become charged particles called ions.
+Three ways electrons can be transferred are conduction, friction, and polarization.
+In each case, the total charge remains the same.
+This is the law of conservation of charge.
+Conduction occurs when there is direct contact between materials that differ in their ability to give up or accept electrons.
+Polarization is the movement of electrons within a neutral object due to the electric field of a nearby charged object.
+It occurs without direct contact between the two objects.
+Electrons are transferred whenever there is friction between materials that differ in their ability to give up or accept electrons.
+At the following URL, review how charges are transferred through friction.
+Watch the animation and read the list of more-positive to less-positive materials.

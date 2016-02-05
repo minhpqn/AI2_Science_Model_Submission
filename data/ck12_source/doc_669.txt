@@ -1,0 +1,20 @@
+Refraction of Mechanical Waves
+Define and describe refraction of mechanical waves.
+State and use the law of refraction.
+A straw looks bent in a glass of water due to refraction
+A straw in a glass of water seen from the side often appears broken, even though it is not.
+The apparent break is due to the bending of light rays leaving the straw; as the light passes from the water to the glass and from the glass to the air, the light rays are bent.
+Nonetheless, your eye traces the light ray backward as if the light has followed a straight path from its origin at the straw.
+Since the light appears to have come from a different place, your eye sees the straw as being broken.
+Refraction of Mechanical Waves
+When any wave strikes a boundary between media, some of the energy is reflected and some is transmitted.
+When the wave strikes the media interface at an angle, the transmitted wave will move in a slightly different direction than the incident wave.
+This phenomenon is known as refraction .
+Refraction of a light ray
+Consider the image sketched above.
+Suppose that the waves represented here are water waves.
+The wave crests are represented by the black lines in the image.
+As such, the distance between two consecutive black lines is the wavelength.
+Let the red line represent a transition from deep to shallow water.
+This transition is called the media interface .
+As the waves hit the boundary, the waves slow down.

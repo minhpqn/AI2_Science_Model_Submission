@@ -1,0 +1,20 @@
+In this process, the nuclei give off energy and may also emit charged particles of matter.
+Types of radioactive decay include alpha, beta, and gamma decay.
+In alpha and beta decay, both particles and energy are emitted.
+In gamma decay , only energy, in the form of gamma rays, is emitted.
+Alpha and beta decay occur when a nucleus has too many protons or an unstable ratio of protons to neutrons.
+When the nucleus emits a particle, it gains or loses one or two protons, so the atom becomes a different element.
+Gamma decay, in contrast, occurs when a nucleus is in an excited state and has too much energy to be stable.
+This often happens after alpha or beta decay has occurred.
+Because only energy is emitted during gamma decay, the number of protons remains the same.
+Therefore, an atom does not become a different element during this type of decay.
+Q:
+The Figure below shows how helium-3 (He-3) decays by emitting a gamma particle.
+How can you tell that the atom is still the same element after gamma decay occurs?
+A:
+The nucleus of the atom has two protons (red) before the reaction occurs.
+After the nucleus emits the gamma particle, it still has two protons, so the atom is still the same element.
+Diagram illustrating gamma decay
+Dangers of Gamma Radiation
+Gamma rays are the most dangerous type of radiation.
+They can travel farther and penetrate materials more deeply than can the charged particles emitted during alpha and beta decay.

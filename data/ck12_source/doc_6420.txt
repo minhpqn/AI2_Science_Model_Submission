@@ -1,0 +1,20 @@
+What is a neutralization reaction?
+What is a salt?
+Write the net ionic equation for the neutralization of a strong acid and a strong base.
+neutralization reaction:
+A reaction in which an acid and a base react in an aqueous solution to produce a salt and water.
+salt:
+An ionic compound composed of a cation from a base and an anion from an acid.
+Define equivalence point.
+Describe how to perform a titration experiment.
+Biodiesel synthesis requires the amount of acid to be determined before adding lye
+Didn’t that used to be French fries?
+A lot of research is going on these days involving the development of biodiesel fuels.
+Often this material can be made from used vegetable oils.
+The vegetable oil is treated with lye to create the biofuel.
+In the oils is a variable amount of acid that needs to be determined so the workers will know how much lye to add to make the final fuel.
+Before the lye is added, the native vegetable oil is titrated to find out how much free acid is present.
+Then the amount of lye added can be adjusted to take into account the amount needed to neutralize these free acids.
+In the neutralization of hydrochloric acid by sodium hydroxide, the mole ratio of acid to base is 1:1.
+\text{HCl}(aq)+\text{NaOH}(aq) \rightarrow \text{NaCl}(aq)+\text{H}_2\text{O}(l)
+One mole of HCl would be fully neutralized by one mole of NaOH.

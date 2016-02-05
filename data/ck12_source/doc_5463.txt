@@ -1,0 +1,20 @@
+Many plasmids/vectors include selectable markers - usually some sort of antibiotic resistance ( Figure above ).
+When cultures are grown in the presence of an antibiotic, only bacteria transfected with the vector containing resistance to that antibiotic should grow.
+However, these selection procedures do not guarantee that the DNA of insert is present in the cells.
+Further analysis of the resulting colonies is required to confirm that cloning was successful.
+This may be accomplished by means of a process PCR or restriction fragment analysis, both of which need to be followed by gel electrophoresis and/or DNA sequencing (DNA sequence analysis).
+DNA sequence analysis, PCR, or restriction fragment analysis will all determine if the plasmid/vector contains the insert.
+Restriction fragment analysis is digestion of isolated plasmid/vector DNA with restriction enzymes.
+If the isolated DNA contains the target DNA, that fragment will be excised by the restriction enzyme digestion.
+Gel electrophoresis will separate DNA molecules based on size and charge.
+Examples are shown in Figure below .
+Gel electrophoresis is an analytical technique used to separate DNA fragments by size and charge.
+Notice in Figure below that the "gels" are rectangular in shape.
+The gels are made of a gelatin-like material of either agarose or polyacrylamide.
+An electric field, with a positive charge applied at one end of the gel, and a negative charge at the other end, forces the fragments to migrate through the gel.
+DNA molecules migrate from negative to positive charges due to the net negative charge of the phosphate groups in the DNA backbone.
+Longer molecules migrate more slowly through the gel matrix.
+After the separation is completed, DNA fragments of different lengths can be visualized using a fluorescent dye specific for DNA, such as ethidium bromide.
+The resulting stained gel shows bands correspond to DNA molecules of different lengths, which also correspond to different molecular weights.
+Band size is usually determined by comparison to DNA ladders containing DNA fragments of known length.
+Gel electrophoresis can also be used to separate RNA molecules and proteins.

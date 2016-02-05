@@ -1,0 +1,20 @@
+Question :
+The half-life of ^{239} Pu is 24,119 years.
+You have 31.25 micrograms left, and the sample you are studying started with 2000 micrograms.
+How long has this rock been decaying?
+Answer :
+We will use the equation for time and simply plug in the known values. t=t_H\frac{\ln{\frac{N}{N_0}}}{\ln{\frac{1}{2}}}=24119\mathrm{y}\frac{\ln{\frac{31.25\mu\mathrm{g}}{2000\mu\mathrm{g}}}}{\ln{\frac{1}{2}}}=144,700\mathrm{years}
+Watch this Explanation
+Click on the image above for more content
+The half-life of ^{239}\mathrm{Pu} is 24,119 years.
+You have 31.25 micrograms left, and the sample you are studying started with 2000 micrograms.
+How long has this rock been decaying?
+A certain fossilized plant is 23,000 years old.
+Anthropologist Hwi Kim determines that when the plant died, it contained 0.250 \;\mathrm{g} of radioactive ^{14}\mathrm{C} (t_H = 5730 \;\mathrm{years}) .
+How much should be left now?
+Jaya unearths a guinea pig skeleton from the backyard.
+She runs a few tests and determines that 99.7946 % of the original ^{14}\mathrm{C} is still present in the guinea pig’s bones.
+The half-life of ^{14}\mathrm{C} is 5730 years.
+When did the guinea pig die?
+You use the carbon dating technique to determine the age of an old skeleton you found in the woods.
+From the total mass of the skeleton and the knowledge of its molecular makeup you determine that the amount of ^{14}\mathrm{C} it began with was 0.021 grams.

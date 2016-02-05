@@ -1,0 +1,20 @@
+How many oxygen atoms are in one molecule of water?
+How many oxygen atoms are in one molecule of acetic acid?
+What does a molecular formula tell us?
+What does a molecular formula not tell us?
+What do the subscripts mean in a molecular formula?
+If I wrote C 6 H 11 O 5 C 6 H 11 O 6 as the molecular formula for sucrose, would that be correct?
+Explain your answer.
+Sometimes the formula for acetic acid is written CH 3 COOH.
+Is this a true molecular formula?
+molecule:
+Two or more atoms that have been chemically combined.
+molecular formula:
+A chemical formula of a molecular compound that shows the kinds and numbers of atoms present in a molecule of the compound.
+Define empirical formula.
+Describe how to determine the empirical formula for a compound.
+Antoine Lavoisier's laboratory
+What might the scientists in this picture be discussing?
+When the French scientist Antoine Lavoisier conducted his experiments, he did not know what the products of reactions were going to be.  He had to isolate the material (whether he was heating mercury or measuring gases from breathing) and then study its elemental composition before he could understand the processes that were occurring.
+Discovering that a new compound exists is the start of a long research project.  In order to make this new compound in the lab, we need to know a lot about its structure.  Often, the place to start is to determine the elements in the material.  Then we can find out the relative amounts of each element to continue our evaluation of this new material.
+An empirical formula is a formula that shows the elements in a compound in their lowest whole-number ratio.

@@ -1,0 +1,20 @@
+The strong nuclear force is transferred between quarks by fundamental force-carrying particles called gluons.
+Both protons and neutrons consist of quarks.
+The exchange of gluons holds quarks together within a proton or neutron.
+Excess, or residual, strong force holds together protons and neutrons in the nucleus.
+The strong nuclear force is strong enough to overcome the electromagnetic force of repulsion pushing protons apart.
+Both forces are represented in the Figure below .
+Diagram of strong nuclear force
+The types of quarks found in protons and neutrons are called up quarks (u) and down quarks (d).
+Each proton consists of two up quarks and one down quark (uud), and each neutron consists of one up quark and two down quarks (udd).
+This diagram represents two protons.
+The strong nuclear force works only over very short distances.
+As a result, it isn’t effective if the nucleus gets too big.
+As more protons are added to the nucleus, the electromagnetic force of repulsion between them gets stronger, while the strong nuclear force of attraction between them gets weaker.
+This puts an upper limit on the number of protons an atom can have and remain stable.
+If atoms have more than 83 protons, the electromagnetic repulsion between them is greater than the strong nuclear force of attraction between them.
+This makes the nucleus unstable, or radioactive, so it breaks down.
+The following video discusses the strong nuclear force and its role in the atom.
+The video also introduces the weak nuclear force, which is described next.
+Click on the image above for more content
+Weak Nuclear Force

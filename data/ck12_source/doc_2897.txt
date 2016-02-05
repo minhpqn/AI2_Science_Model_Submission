@@ -1,0 +1,20 @@
+Notice that more than one codon may encode for a single amino acid.
+For example, glycine (Gly) is encoded by a GGG, GGA, GGC, and GGU.
+Notice there are 64 codons.
+Of the 64 codons, three are stop codons.
+Translation is the process of reading the mRNA code in the ribosome to make a protein.
+Sets of three bases on the mRNA, called codons, are read in order to select the correct amino acid for building a protein.
+Use the resources below to answer the following questions.
+Cell Translation at
+What reads the sequence of the mRNA?
+What are three nucleotides that code for an amino acid called?
+What brings amino acids to the translation site?
+What is an anticodon?
+Where are they found?
+What is their function?
+About how many amino acids are present in your average protein?
+How many ribosomes read a single mRNA molecule at the same time?
+How is this beneficial to the organism?
+Transcribe and Translate a Gene at
+Go to this site to make a protein.
+Practice and see how fast you can transcribe DNA and translate mRNA.

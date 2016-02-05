@@ -1,0 +1,20 @@
+1.00 horsepower = 746 watts
+Example Problem:  A 70.0 kg man runs up a long flight of stairs in 4.0 s.
+The vertical height of the stairs is 4.5 m.
+Calculate the power output of the man in watts and horsepower.
+Solution:  The force exerted must be equal to the weight of the man: mg = (70.0 \ \text{kg})(9.80 \ \text{m/s}^2) = 686 \ \text{N}
+W = Fd = (686 \ \text{N})(4.5 \ \text{m}) = 3090 \ \text{N m} = 3090 \ \text{J}
+P=\frac{W}{t}=\frac{3090 \ \text{J}}{4.0 \ \text{s}}=770 \ \text{J/s}=770 \ \text{W}
+P = 770 \ \text{W} = 1.03 \ \text{hp}
+Since  P = \frac{W}{t} and W = Fd , we can use these formulas to derive a formula relating power to the speed of the object that is produced by the power.
+The velocity in this formula is the average speed of the object during the time interval.
+Example Problem:  Calculate the power required of a 1400 kg car if the car climbs a 10° hill at a steady 80. km/h.
+Solution:
+First convert 80. km/h to m/s: 22.2 m/s.
+In 1.00 s, the car would travel 22.2 m on the road surface but the distance traveled upward would be (22.2 m)(sin 10°) = (22.2 m)(0.174) = 3.86 m.
+The force in the direction of the upward motion is the weight of the car: (1400 kg)(9.80 m/s 2 ) = 13720 N.
+W = Fd = (13720 \ \text{N})(3.86 \ \text{m}) = 53,000 \ \text{J}
+Since this work was done in 1.00 second, the power would be 53,000 W.
+This problem can be solved a different way; by calculating the upward component of the velocity of the car.
+The process would be similar, and start with finding the vertical component of the velocity vector: (22.2 m/s)(sin 10°) = (22.2 m/s)(0.174) = 3.86 m/s.
+Again, calculate the weight of the car: (1400 kg)(9.80 m/s 2 ) = 13720 N.

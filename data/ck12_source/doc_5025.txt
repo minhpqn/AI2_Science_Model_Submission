@@ -1,0 +1,20 @@
+chlorophyll :
+The primary pigment of photosynthesis; found in the thylakoid membranes of chloroplasts.
+FADH 2 :
+Flavin adenine dinucleotide; an energy carrier molecule produced during the Krebs cycle of aerobic cellular respiration.
+glucose :
+The carbohydrate product of photosynthesis; it serves as the universal fuel for life:
+C 6 H 12 O 6 .
+NADH :
+Short-term energy carrier; temporarily stores energy during cellular respiration; nicotinamide adenine dinucleotide.
+NADP + (NADPH) :
+Nicotinamide adenine dinucleotide phosphate; an energy carrier molecule produced in the light reactions of photosynthesis;
+NADPH is the reduced form of NADP + .
+photosynthesis :
+The process by which carbon dioxide and water are converted to glucose and oxygen, using sunlight for energy.
+All organisms use similar energy-carrying molecules for food and to carry out life processes.
+Glucose (C 6 H 12 O 6 ,) is a nearly universal fuel delivered to cells, and the primary product of photosynthesis.
+ATP molecules store smaller amounts of energy and are used within cells to do work.
+Chlorophyll and NADPH molecules hold energy temporarily during the process of photosynthesis.
+The fact that all organisms use similar energy-carrying molecules shows one aspect of the grand "Unity of Life." Name two universal energy-carrying molecules, and explain why most organisms need both carriers rather than just one.
+A single cell may use millions of ATP molecules each second.

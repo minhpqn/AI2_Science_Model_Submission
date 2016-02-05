@@ -1,0 +1,20 @@
+Lewis Electron-Dot Structures
+In a previous chapter, you learned that the valence electrons of an atom can be shown in a simple way with an electron dot diagram.
+A hydrogen atom is shown as H• because of its one valence electron.
+The structures of molecules that are held together by covalent bonds can be diagrammed by Lewis electron-dot structures .  The hydrogen molecule is shown in the Figure below .
+Picture of a hydrogen atom and molecule
+On the left is a single hydrogen atom with one electron.
+On the right is an H 2 molecule showing the electron cloud overlap.
+The shared pair of electrons is shown as two dots in between the two H symbols (H:H).  This is called a single covalent bond , when two atoms are joined by the sharing of one pair of electrons.
+The single covalent bond can also be shown by a dash in between the two symbols (H–H).
+A structural formula is a formula that shows the arrangement of atoms in a molecule and represents covalent bonds between atoms by dashes.
+The Octet Rule and Covalent Bonds
+When ions form, they conform to the octet rule by either losing or gaining electrons in order to achieve the electron configuration of the nearest noble gas.
+In a similar way, nonmetal atoms share electrons in the formation of a covalent in bond such a way that each of the atoms involved in the bond can attain a noble-gas electron configuration.
+The shared electrons are “counted” for each of the atoms involved in the sharing.
+For hydrogen (H 2 ), the shared pair of electrons means that each of the atoms is able to attain the electron configuration of helium, the noble gas with two electrons.
+For atoms other than hydrogen, the sharing of electrons will usually provide each of the atoms with eight valence electrons.
+Lewis electron-dot structures show the bonding in covalent molecules.
+Covalent bonds between atoms can be indicated either with dots (:) or a dash (-).
+Use the link below to answer the following questions:
+Who developed the electron-dot structure system?

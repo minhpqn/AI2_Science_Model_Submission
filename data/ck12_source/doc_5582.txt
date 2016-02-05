@@ -1,0 +1,20 @@
+SI Base Units
+Define the SI system of units.
+List the seven base units of measurement.
+How long is a yard?
+It depends on whom you ask and when you asked the question.
+Today we have a standard definition of the yard, which you can see marked on every football field.
+If you move the ball ten yards, you get a first down and it doesn’t matter whether you are playing in Los Angeles, Dallas, or Green Bay.
+But at one time that yard was arbitrarily defined as the distance from the tip of the king’s nose to the end of his outstretched hand.
+Of course, the problem there is simple: new king, new distance (and then you have to remark all those football fields).
+SI Base Units
+All measurements depend on the use of units that are well known and understood.
+The English system of measurement units (inches, feet, ounces, etc.) are not used in science because of the difficulty in converting from one unit to another.
+The metric system is used because all metric units are based on multiples of 10, making conversions very simple.
+The metric system was originally established in France in The International System of Units is a system of measurement based on the metric system.
+The acronym SI is commonly used to refer to this system and stands for the French term, Le Système International d’Unités .
+The SI was adopted by international agreement in 1960 and is composed of seven base units, as shown in Table below .
+SI Base Units of Measurement
+SI Base Unit
+Amount of a Substance
+The first five units are frequently encountered in chemistry.

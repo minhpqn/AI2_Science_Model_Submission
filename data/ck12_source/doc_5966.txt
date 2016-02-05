@@ -1,0 +1,20 @@
+There are two ways to view that ratio.  Considering one molecule of ethene, the ratio is 1 carbon atom for every 2 atoms of hydrogen.
+Considering one mole of ethene, the ratio is 1 mole of carbon for every 2 moles of hydrogen.  So the subscripts in a formula represent the mole ratio of the elements in that formula.
+Ball and stick model of ethene
+Ball-and-stick model of ethene, C 2 H 4 .
+In a procedure called elemental analysis , an unknown compound can be analyzed in the laboratory in order to determine the percentages of each element contained within it.  These percentages can be transformed into the mole ratio of the elements, which leads to the empirical formula.  The steps to be taken are outlined below.
+Assume a 100 g sample of the compound so that the given percentages can be directly converted into grams.
+Use each element’s molar mass to convert the grams of each element to moles.
+In order to find a whole-number ratio, divide the moles of each element by whichever of the moles from step 2 is the smallest.
+If all the moles at this point are whole numbers (or very close), the empirical formula can be written with the moles as the subscript of each element.
+In some cases, one or more of the moles calculated in step 3 will not be whole numbers.  Multiply each of the moles by the smallest whole number that will convert each into a whole number.
+Write the empirical formula.
+Sample Problem One:
+Determining the Empirical Formula of a Compound
+A compound of iron and oxygen is analyzed and found to contain 69.94% iron and 30.06% oxygen.  Find the empirical formula of the compound.
+Step 1:
+List the known quantities and plan the problem.
+% of Fe = 69.94%
+% of O = 30.06%
+Empirical formula = Fe ?
+O ?

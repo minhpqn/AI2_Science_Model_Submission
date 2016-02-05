@@ -1,0 +1,20 @@
+Velocity is a vector.
+A vector is measurement that includes both size and direction.
+Vectors are often represented by arrows.
+When using an arrow to represent velocity, the length of the arrow stands for speed, and the way the arrow points indicates the direction.
+If you’re still not sure of the difference between speed and velocity, watch the cartoon at this URL:
+Click on the image above for more content
+Using Vector Arrows to Represent Velocity
+The arrows in the Figure below represent the velocity of three different objects.
+Arrows A and B are the same length but point in different directions.
+They represent objects moving at the same speed but in different directions.
+Arrow C is shorter than arrow A or B but points in the same direction as arrow A.
+It represents an object moving at a slower speed than A or B but in the same direction as A.
+These objects are moving at different speed and in different directions
+Differences in Velocity
+Objects have the same velocity only if they are moving at the same speed and in the same direction.
+Objects moving at different speeds, in different directions, or both have different velocities.
+Look again at arrows A and B from the Figure above .
+They represent objects that have different velocities only because they are moving in different directions.
+A and C represent objects that have different velocities only because they are moving at different speeds.
+Objects represented by B and C have different velocities because they are moving in different directions and at different speeds.

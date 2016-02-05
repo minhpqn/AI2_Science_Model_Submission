@@ -1,0 +1,20 @@
+Question b : v_f = ? [m/s]
+Given: (same as above)
+Equation: v_f = v_i + at
+Plug n’ Chug: v_f = v_i +at = 0 + (10 \ m/s^2)(2.3 \ s) = 23 \ m/s
+Answer: \boxed{\mathbf{23 \ m/s}}
+Example Problem 2
+The second tallest building in the world is the Petronas Tower in Malaysia.
+If you were to drop a penny from the roof which is 378.6 m (1242 ft) high, how long would it take to reach the ground?
+You may neglect air friction.
+Question: t = ? [s]
+Given: h = 378.6 \ m
+{\;} \qquad \quad g = 10 \ m/s^2
+{\;} \qquad \quad v_i = 0 \ m/s
+Equation: \Delta x = v_it + \frac{1}{2}at^2 or h = v_it + \frac{1}{2}gt^2
+Plug n’ Chug: since v_i = 0 , the equation simplifies to h = \frac{1}{2} gt^2 rearranging for the unknown variable, t , yields
+t = \sqrt{\frac{2h}{g}} = \sqrt{\frac{2(378.6 \ m)}{10.0 \ m/s^2}} = 8.70 \ s
+Answer: \boxed{\mathbf{8.70 \ s}}
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content

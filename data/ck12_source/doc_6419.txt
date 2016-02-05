@@ -1,0 +1,20 @@
+Different mole ratios occur for other polyprotic acids or bases with multiple hydroxides such as Ca(OH) 2 .
+Reactions Involving a Weak Acid or Weak Base
+Reactions where at least one of the components is weak do not generally result in a neutral solution.
+The reaction between weak nitrous acid and strong potassium hydroxide is shown below.
+In order to write the net ionic equation, the weak acid must be written as a molecule since it does not ionize to a great extent in water.
+The base and the salt are fully dissociated.
+\text{HNO}_2(aq)+\text{K}^+(aq)+\text{OH}^-(aq) \rightarrow \text{K}^+(aq)+\text{NO}^-_2(aq)+\text{H}_2\text{O}(l)
+The only spectator ion is the potassium ion, resulting in the net ionic equation:
+\text{HNO}_2(aq)+\text{OH}^-(aq) \rightarrow \text{NO}^-_2(aq)+\text{H}_2\text{O}(l)
+The strong hydroxide ion essentially “forces” the weak nitrous acid to become ionized.
+The hydrogen ion from the acid combines with the hydroxide ion to form water, leaving the nitrite ion as the other product.
+The resulting solution is not neutral (pH = 7), but instead is slightly basic.
+Reactions can also involve a weak base and strong acid, resulting in a solution that is slightly acidic.
+The molecular and net ionic equations for the reaction of hydrochloric acid and ammonia are shown below.
+& \text{HCl}(aq)+\text{NH}_3(aq) \rightarrow \text{NH}_4\text{Cl}(aq) \\& \text{H}^+(aq)+\text{NH}_3(aq) \rightarrow \text{NH}^+_4(aq) \qquad \qquad (\text{Cl}^- \ \text{is spectator ion)}
+Reactions between acids and bases that are both weak may result in solutions that are neutral, acidic, or basic.
+Neutralization is defined.
+Equations for acid-base neutralizations are given.
+Net ionic equations for neutralization reactions are given.
+Do the problems on the sheet at the link below:

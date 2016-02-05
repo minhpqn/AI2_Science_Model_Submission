@@ -1,0 +1,20 @@
+How are genetic diseases usually inherited?
+Complex Traits - Advanced
+Discuss complex inheritance patterns.
+Define codominant alleles and give examples.
+Define incomplete dominance.
+What does it mean to be dominant?
+Well, if you're in this gorilla's troop, it better be obvious.
+Could there be more than one dominant gorilla in a troop?
+No.
+So what happens if there are two dominant alleles of the same gene.
+Do they fight until one leaves?
+Or do they figure out how to get along?
+Traits inherited in a simple Mendelian pattern are either dominate or recessive.
+The trait is produced by only one gene.
+But this is not the case for many traits; rarely is inheritance as simple as one gene with two alleles, and either dominant or recessive inheritance.
+More complex patterns of inheritance are common.
+These were introduced in the Non-Mendelian Inheritance concept.
+Mendel’s pea plants showed complete dominance of one allele over the other.
+The offspring always completely looked like one of the parents – there was never any phenotype “in between” the two parents.
+The heterozygous individuals were indistinguishable from the homozygous dominant individuals.

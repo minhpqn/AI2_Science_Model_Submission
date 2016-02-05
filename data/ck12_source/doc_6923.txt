@@ -1,0 +1,20 @@
+Electric Circuits:
+Batteries and Resistors
+The Big Ideas
+The name electric current is given to the phenomenon that occurs when an electric field moves down a wire at close to the speed of light.
+Voltage is the electrical energy density (energy divided by charge) and differences in this density (voltage) cause electric current.
+Resistance is the amount a device in the wire resists the flow of current by converting electrical energy into other forms of energy.
+A device, the resistor, could be a light bulb, transferring electrical energy into heat and light or an electric motor that converts electric energy into mechanical energy.
+The difference in energy density across a resistor or other electrical device is called voltage drop.
+In electric circuits (closed loops of wire with resistors and constant voltage sources) energy must be conserved.
+It follows that changes in energy density, the algebraic sum of voltage drops and voltage sources, around any closed loop will equal zero.
+In an electric junction there is more than one possible path for current to flow.
+For charge to be conserved at a junction the current into the junction must equal the current out of the junction.
+Voltage and Current
+Describe voltage, current and the relationship between current and charge.
+Students will learn the concepts of voltage and current and the relationship between current and charge.
+I = \frac{\Delta q}{\Delta t} ; current is the rate at which charge passes by; the units of current are Amperes (1 \ A = 1 \ C/s)
+Conductors have an effectively infinite supply of charge, so when they are placed in an electric field, a separation of charge occurs.
+A battery with a potential drop across the ends creates such an electric field; when the ends are connected with a wire, charge will flow across it.
+The term given to the flow of charge is electric current , and it is measured in Amperes (A) --- Coulombs per second.
+Current is analogous to a river of water, but instead of water flowing, charge does.

@@ -1,0 +1,20 @@
+An electric transformer is a device that uses electromagnetic induction to change the voltage of electric current.
+Electromagnetic induction is the process of generating current with a magnetic field.
+It occurs when a magnetic field and electric conductor, such as a coil of wire, move relative to one another.
+A transformer may either increase or decrease voltage.
+You can see the basic components of an electric transformer in the Figure below .
+For an animation showing how a transformer works, go to this URL:
+Click on the image above for more content
+Schematic of a generic transformer
+The transformer in the diagram consists of two wire coils wrapped around an iron core.
+Each coil is part of a different circuit.
+When alternating current passes through coil P, it magnetizes the iron core.
+Because the current is alternating, the magnetic field of the iron core keeps reversing.
+This is where electromagnetic induction comes in.
+The changing magnetic field induces alternating current in coil S of the other circuit.
+Stepping Up or Stepping Down
+Notice that coil P and coil S in the Figure above have the same number of turns of wire.
+In this case, the voltages of the primary and secondary currents are the same.
+Usually, the two coils of a transformer have different numbers of turns.
+In that case, the voltages of the two currents are different.
+When coil S has more turns than coil P, the voltage in the secondary current is greater than the voltage in the primary current (see Figure below ).

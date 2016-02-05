@@ -1,0 +1,20 @@
+First increase and then decrease?
+Increase with time?
+Decrease with time?
+Stay the same?
+If the half-life of a substance is 5 seconds, it ceases to be radioactive (i.e. it ceases emitting particles), …
+… after 5 seconds.
+… after 10 seconds
+… after 20 seconds.
+… after a very long time.
+You have 5 grams of radioactive substance A and 5 grams of radioactive substance B.
+Both decay by emitting alpha-radiation, and you know that the higher the number of alpha-particles emitted in a given amount of time, the more dangerous the sample is.
+Substance A has a short half-life (around 4 days or so) and substance B has a longer half-life (around 10 months or so).
+Which substance is more dangerous right now?
+Explain.
+Which substance will be more dangerous in two years?
+Explain.
+A certain radioactive material has a half-life of 8 minutes.
+Suppose you have a large sample of this material, containing 10^{25} atoms.
+How many atoms decay in the first 8 minutes?
+Does this strike you as a dangerous release of radiation?

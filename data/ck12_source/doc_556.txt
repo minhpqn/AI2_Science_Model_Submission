@@ -1,0 +1,20 @@
+It can be described as a specific response to a specific pathogen, meaning it uses methods to target just one pathogen at a time.
+These methods involve B and T cells.
+B Cell Response
+B cells respond to pathogens and other cells from outside the body in the blood and lymph.
+Most B cells fight infections by making antibodies.
+An antibody is a large, Y-shaped protein that binds to an antigen , a protein that is recognized as foreign.
+Antigens are found on the outside of bacteria, viruses and other foreign microorganisms.
+Each antibody can bind with just one specific type of antigen ( Figure below ).
+They fit together like a lock and key.
+Once an antigen and antibody bind together, they signal for a phagocyte to destroy them.
+Phagocytes are white blood cells that engulf targeted antigens by phagocytosis.
+As the antigen is on the outside of a pathogen, the pathogen is destroyed by this process.
+At any one time the average human body contains antibodies that can react with about 100,000,000 different antigens.
+This means that there can be 100,000,000 different antibody proteins in the body.
+This diagram illustrates how an antibody binds to an antigen
+This diagram shows how an antibody binds with an antigen.
+The antibody was produced by a B cell.
+It binds with just one type of antigen.
+Antibodies produced by different B cells bind with other types of antigens.
+The antigen-binding sites can vary, such that they are specific for just one antigen.

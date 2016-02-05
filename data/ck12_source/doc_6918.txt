@@ -1,0 +1,20 @@
+Electric field due to charge q at a distance r from the charge.
+F = q E \; \;  ;
+Force due to an electric field.
+Gravity and the Coulomb force have a nice property in common: they can be represented by fields .
+Fields are a kind of bookkeeping tool used to keep track of forces.
+Take the electromagnetic force between two charges given above: \vec{F_e} = \frac{kq_1q_2}{r^2} If we are interested in the acceleration of the first charge only --- due to the force from the second charge --- we can rewrite this force as the product of {q_1}  and \frac{kq_2}{r^2} .
+The first part of this product only depends on properties of the object we're interested in (the first charge), and the second part can be thought of as a property of the point in space where that object is.
+In fact, the quantity \frac{kq_2}{r^2} captures everything about the electromagnetic force on any object possible at a distance r from q_2  .
+If we had replaced  q_1  with a different charge,  q_3  , we would simply multiply  q_3  by \frac{kq_2}{r^2} to find the new force on the new charge.
+Such a quantity, \frac{kq_2}{r^2} here, is referred to as the electric field from charge  q_2  at that point: in this case, it is the electric field due to a single charge: \vec{E_f} = \frac{kq}{r^2}
+The electric field is a vector quantity, and points in the direction that a force felt by a positive charge at that point would.
+If we are given the electric field at some point, it is just a matter of multiplication --- as illustrated above --- to find the force any charge  q_0  would feel at that point: \underbrace{\vec{F_e}}_{\text{Force on charge }q_0} = \underbrace{\vec{E_f}}_{\text{Field}} \underbrace{\times q_0}_{\text{Charge}} &&\text{Force on charge }q_0\text{ in an electric field} Note that this is true for all electric fields, not just those from point charges.
+In general, the electric field at a point is the force a positive test charge of magnitude 1 would feel at that point .
+Any other charge will feel a force along the same line (but possibly in the other direction) in proportion to its magnitude.
+In other words, the electric field can be thought of as "force per unit charge".
+In the case given above, the field was due to a single charge.
+Such a field is shown in the figure below.
+Notice that this a field due to a positive charge, since the field arrows are pointing outward.
+The field produced by a point charge will be radially symmetric i.e., the strength of the field only depends on the distance,  r  , from the charge, not the direction; the lengths of the arrows represent the strength of the field.
+Question :

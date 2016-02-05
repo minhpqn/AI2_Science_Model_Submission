@@ -1,0 +1,20 @@
+Unlike most other home appliances, a refrigerator generally runs nonstop every day of the year.
+Can you think of another home appliance that gets such constant use?
+Purpose of a Cooling System
+A refrigerator is an example of a cooling system.
+Another example is an air conditioner.
+The purpose of any cooling system is to transfer thermal energy in order to keep things cool.
+A refrigerator, for example, transfers thermal energy from the cool air inside the refrigerator to the warm air in the kitchen.
+If you’ve ever noticed how warm the back of a running refrigerator gets, then you know that it releases a lot of thermal energy into the room.
+Q:
+Thermal energy always moves from a warmer area to a cooler area.
+How can thermal energy move from the cooler air inside a refrigerator to the warmer air in a room?
+A:
+The answer is work.
+How a Refrigerator Works
+A refrigerator must do work to reverse the normal direction of thermal energy flow.
+Work involves the use of force to move something, and doing work takes energy.
+In a refrigerator, the energy is usually provided by electricity.
+You can read in detail in the Figure below how a refrigerator does its work.
+For an animation of how a refrigerator works, go to this URL:
+The key to how a refrigerator or other cooling system works is the refrigerant.

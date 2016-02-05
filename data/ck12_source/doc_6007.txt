@@ -1,0 +1,20 @@
+Step 1:
+List the known quantities and plan the problem.
+given:
+H 2 = 4.20 mol
+mol of NH 3
+The conversion is from mol H 2 → NH 3 .
+The problem states that there is an excess of nitrogen, so we do not need to be concerned with any mole ratio involving N 2 .
+Choose the conversion factor that has the NH 3 in the numerator and the H 2 in the denominator.
+Step 2:
+Solve.
+4.20 \text{ mol H}_2 \times \frac{2 \text{ mol NH}_3}{3 \text{ mol H}_2}=2.80 \text{ mol NH}_3
+The reaction of 4.20 mol of hydrogen with excess nitrogen produces 2.80 mol of ammonia.
+Step 3:
+Think about your result.
+The result corresponds to the 3:2 ratio of hydrogen to ammonia from the balanced equation.
+Mole ratios allow comparison of the amounts of any two materials in a balanced equation.
+Calculations can be made to predict how much product can be obtained from a given number of moles of reactant.
+Do problems 1-4 at the link below:
+If a reactant is in excess, why do we not worry about the mole ratios involving that reactant?
+What is the mole ratio of H to N in the ammonia molecule?

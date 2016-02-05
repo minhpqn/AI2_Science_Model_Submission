@@ -1,0 +1,20 @@
+Schrödinger’s work on orbitals is the basis of the modern model of the atom, which scientists call the quantum mechanical model.
+The modern model is also commonly called the electron cloud model.
+That’s because each orbital around the nucleus of the atom resembles a fuzzy cloud around the nucleus, like the ones shown in the Figure below for a helium atom.
+The densest area of the cloud is where the electrons have the greatest chances of being.
+Schrodinger's model of the atom
+Q:
+In the model pictured in the Figure above , where are the two helium electrons most likely to be?
+A:
+The two electrons are most likely to be inside the sphere closest to the nucleus where the cloud is darkest.
+Bohr’s model of the atom, in which electrons circle the nucleus at fixed energy levels, cannot explain all the behaviors of electrons.
+In the 1920s, Erwin Schrödinger proposed that electrons travel in waves, which means their exact positions cannot be determined.
+He developed an equation to calculate the chances of an electron being in any given place.
+Using his equation, he identified regions around the nucleus, called orbitals, where electrons are most likely to be.
+Orbitals are the basis of the electron cloud model of the atom.
+This model is still accepted by scientists today.
+Watch the video about the electron cloud model at the following URL, and then answer the questions below.
+Click on the image above for more content
+What influences the movement of electrons in atoms?
+What is the Heisenberg uncertainty principle?
+How is the Heisenberg uncertainty principle related to electron orbitals?

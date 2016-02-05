@@ -1,0 +1,20 @@
+Single Covalent Bonds
+A covalent bond forms when two orbitals with one electron each overlap each other.  For the hydrogen molecule, this can be shown as:
+Electronic configuration of a hydrogen molecule
+Upon formation of the H 2 molecule, the shared electrons must have opposite spin, so they are shown with opposite spin in the atomic 1 s orbital.
+The halogens also form single covalent bonds in their diatomic molecules.  An atom of any halogen, such as fluorine, has seven valence electrons.  Its unpaired electron is located in the 2 p orbital.
+Electronic configuration of a fluorine molecule
+The single electrons in the third 2 p orbital combine to form the covalent bond:
+Picture of electron distribution in a fluorine molecule
+On the left is a fluorine atom with seven valence electrons.
+On the right is the F 2 molecule.
+The diatomic fluorine molecule (F 2 ) contains a single shared pair of electrons.  Each F atom also has three pair of electrons that are not shared with the other atom.  A lone pair is a pair of electrons in a Lewis electron-dot structure that is not shared between atoms.
+The oxygen atom in the water molecule shown below has two lone pair sets of electrons.  Each F atom has three lone pairs.  Combined with the two electrons in the covalent bond, each F atom follows the octet rule.
+Sample Problem 9.1:  Lewis Electron Dot Structures
+Draw the Lewis electron dot structure for water.
+Step 1:
+List the known quantities and plan the problem
+molecular formula of water = H 2 O
+1 O atom = 6 valence electrons
+2 H atoms = 2 × 1 = 2 valence electrons
+total number of valence electrons = 8

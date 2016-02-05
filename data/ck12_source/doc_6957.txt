@@ -1,0 +1,20 @@
+As the loop enters the field, the flux will start at zero and begin to increase until the loop is entirely inside the field.
+The flux will increase from 0 Tm 2 to some maximum value in the time it takes for the loop to move into the field.
+We can find this maximum value using the dimensions of the loop and the strength of the magnetic field.
+The dot product will be equal to one since the area and magnetic field vectors are parallel.
+\Phi_f&=NBA\\\\Phi_f&=1*5\:\text{T} * \pi (.25\:\text{m})^2\\\\Phi_f&=.98\:\text{Tm}^2\\\
+Since we also know the radius of the loop and the speed at which it is being pulled, we also can find out how long it will take for the loop to move within the magnetic field.
+Now we can find the induced Emf in the loop.
+Emf&=\frac{\Delta \Phi}{\Delta t}\\\Emf&=\frac{.98\:\text{Tm}^2 - 0\:\text{Tm}^2}{.25\:\text{s}}\\\Emf&=3.92\:\text{V}\\\
+(b):
+There will be no inuduced Emf in the loop once the entire loop is inside the magnetic field because the magnetic flux will not be changing.
+(c):
+As the loop exits the magnetic field, the induced Emf will have the same magntiude as when it entered the field except that this time it will be negative because the flux is decreasing.
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+Faraday's Electromagnetic Lab (PhET Simulation)
+Inductance Problem Set
+A speaker consists of a diaphragm (a flat plate), which is attached to a magnet.
+A coil of wire surrounds the magnet.
+How can an electrical current be transformed into sound?

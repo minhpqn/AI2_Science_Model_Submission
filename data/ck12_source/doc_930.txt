@@ -1,0 +1,20 @@
+The magnet falling through the aluminum tube takes several times as long to fall the same distance.
+Follow up questions:
+In general, how would the observation change if the aluminum tube were replaced with a copper tube?
+In general, how would the observation change if the glass tube were replaced with a copper tube?
+Consider the sketch at below.
+Will a current be induced in the coil on the right when the magnet passes through?
+Two magnets being dropped through rings
+Will a current be induced in the coil on the left when the magnet passes through?
+If a current is induced in the coil when the magnet passes through, which way will the current flow?
+If both magnets are dropped though the loops shown at the same time, which magnet would reach the ground first?
+the one on the left
+the one on the right
+they would hit the ground together
+Will a hand generator be more difficult to turn when it is generating current or when it is not generating current?
+Lenz’s law:
+An induced electromotive force generates a current that induces a counter magnetic field that opposes the magnetic field generating the current.
+back-EMF:
+Back electromotive force is the voltage generated during the operation of a rotating machine (a generator or a motor).
+Describe the function of a transformer.
+Explain the relationship between turns and voltage ratio.

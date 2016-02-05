@@ -1,0 +1,20 @@
+What is the probability of cutting a deck of playing cards and getting an ace?
+How can you determine the probability of two independent events that occur together?
+What is the probability that two heterozygous individuals will have offspring with attached earlobes?
+Define probability.
+Apply the term to a coin toss.
+How is gamete formation like tossing a coin?
+With a BB homozygote, what is the chance of a gamete having the B allele?
+The b allele?
+Explain a Punnett square.
+Describe how to use a Punnett square for a monohybrid and dihybrid cross.
+Predict genotypes of parents and offspring using a Punnett square.
+Determine phenotypes of offspring using a Punnett square.
+What do you get when you cross an apple and an orange?
+Though the above fruit may not result, it would be nice to scientifically predict what would result.
+Predicting the possible genotypes and phenotypes from a genetic cross is often aided by a Punnett square.
+A Punnett square is a chart that allows you to easily determine the expected percentage of different genotypes in the offspring of two parents.
+An example of a Punnett square for pea plants is shown in Figure below .
+In this example, both parents are heterozygous for flower color ( Bb ).
+The gametes produced by the male parent are at the top of the chart, and the gametes produced by the female parent are along the side.
+The different possible combinations of alleles in their offspring are determined by filling in the cells of the Punnett square with the correct letters (alleles).

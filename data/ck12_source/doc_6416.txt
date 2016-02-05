@@ -1,0 +1,20 @@
+First, an ICE table is set up with the variable  x used to signify the change in concentration of the substance due to ionization of the acid.
+Then the  K_a expression is used to solve for  x and calculate the pH.
+Step 2:
+Solve.
+[HNO 2 ]
+[H + ]
+[NO 2 − ]
+The  K_a expression and value is used to set up an equation to solve for x .
+K_a=4.5 \times 10^{-4}=\frac{(x)(x)}{2.00 - x}=\frac{x^2}{2.00 - x}
+The quadratic equation is required to solve this equation for x .
+However, a simplification can be made because of the fact that the extent of ionization of weak acids is small.
+The value of  x will be significantly less than 2.00, so the " -x ” in the denominator can be dropped.
+4.5 \times 10^{-4}&=\frac{x^2}{2.00 - x} \approx \frac{x^2}{2.00} \\x&=\sqrt{4.5 \times 10^{-4}(2.00)}=2.9 \times 10^{-2} \ \text{M}= \left [ H^+ \right ]
+Since the variable  x represents the hydrogen-ion concentration, the pH of the solution can now be calculated.
+pH=- \log[\text{H}^+]=- \log[2.9 \times 10^{-2}]=1.54
+Step 3:
+Think about your result.
+The pH of a 2.00 M solution of a strong acid would be equal to - \log(2.00) = -0.30 .
+The higher pH of the 2.00 M nitrous acid is consistent with it being a weak acid and therefore not as acidic as a strong acid would be.
+The procedure for calculating the pH of a solution of a weak base is similar to that of the weak acid in the sample problem.

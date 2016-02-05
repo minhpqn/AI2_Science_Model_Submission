@@ -1,0 +1,20 @@
+The electrochemical potential across a membrane determines the tendency of an ion to cross the membrane.
+The membrane may be that of a cell or organelle or other sub cellular compartment.
+The electrochemical potential arises from three factors:
+the difference in the concentration of the ions on either side of the membrane,
+the charge of the ions (for example Na + , Ca ++ , Cl - ), and
+the difference in voltage between the two sides of the membrane (the transmembrane potential).
+Cotransport of ions by symporters and antiporter carriers is commonly used to actively move ions across biological membranes.
+Transmembrane ATPases are often involved in maintaining ion gradients.
+The Na+/K+ ATPase uses ATP to build and maintain a sodium ion gradient and a potassium ion gradient.
+Proton Gradients and ATP synthase
+One particular ion gradient with biological significance is the proton (H + ) gradient.
+This type of gradient is established through active transport involving proton pumps.
+The proton gradient is used during photosynthesis and cellular respiration to generate a chemiosmotic potential, or proton motive force.
+This potential energy is used for the synthesis of ATP by oxidative phosphorylation.
+The proton gradient can also be used to store energy for heat production and flagellar rotation.
+The energy held within the proton gradient can be used to synthesize ATP.
+ATP synthase is a transmembrane enzyme that provides energy for the cell to use by producing ATP.
+The protein has two distinct regions, F 0 and F 1 .
+The F 0 domain is embedded within the membrane, while the F 1 domain is above the membrane, inside the matrix of the mitochondria, or the stroma of the chloroplast.
+The F 0 region is the proton pore, allowing hydrogen ions to diffuse across the membrane.

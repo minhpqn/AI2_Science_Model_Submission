@@ -1,0 +1,20 @@
+The Big Idea
+The third conservation law is conservation of angular momentum.
+This vector quantity is the product of rotational velocity and rotational inertia.
+In any closed system (including the universe) the quantity of angular momentum is fixed.
+Angular momentum can be transferred from one body to another, but cannot be lost or gained.
+If a system has its angular momentum changed from the outside it is caused by a torque.
+Torque is a force applied at a distance from the center of rotation.
+Kinematics of Rotation
+Apply the kinematic equations for rotation.
+Students will learn how to apply the kinematic equations for rotation.
+v = r \omega
+linear speed v is equal to the angular speed  \omega  multiplied by the radius of the rotating object.
+a = r \alpha
+linear acceleration a is equal to the angular acceleration  \alpha multiplied by the radius of the rotating object.
+\theta (t) = \theta_0 + \omega_0 t + 1/2 \alpha t^2
+Rotational equivalent of  x (t) = x_i + v_i t +1/2at^2
+\omega (t) = \omega_0 + \alpha t
+Rotational equivalent of  v_f = v_i + at
+\omega^2 = \omega_0^2 + 2 \alpha (\triangle \theta)
+Rotational equivalent of  v_f^2 = v_i^2 + 2a \Delta x

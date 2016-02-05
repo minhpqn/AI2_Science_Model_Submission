@@ -1,0 +1,20 @@
+F_e=\frac{Kq_1q_2}{d^2}
+The SI unit of charge is the coulomb, C , which is the charge of 6.25 \times 10^{18} electrons.
+The charge on a single electron is  1.60 \times 10^{-19} \ C and is known as the elementary charge.
+The electrical force is a vector quantity that is positive in repulsion and negative in attraction.
+The following video covers Coulomb's Law.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+What happens when like charges are placed near each other?
+What happens when opposite charged are placed near each other?
+What happens to the force of attraction if the charges are placed closer together?
+Practice problems on Coulomb’s Law:
+Suppose that two point charges, each with a charge of +1.00 C, are separated by a distance of 1.0 m:
+Will the charges attract or repel?
+What is the magnitude of the force between them?
+If the distance between them is doubled, what does the force become?
+What is the electrical force between two balloons, each having 5.00 C of charge, that are 0.300 m apart?
+Two spheres are charged with the same charge of -0.0025 C and are separated by a distance of 8.00 m.  What is the electrical force between them?
+A red foam ball and a blue foam ball are 4.00 m apart.
+The blue ball has a charge of 0.000337 C and is attracting the red ball with a force of 626 N.
+What is the charge on the red ball?

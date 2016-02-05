@@ -1,0 +1,20 @@
+\text{d = spacing of slits}
+\text{m = number of maximum (i.e. m = 0 is the central maximum, m = 1 is the 1st maximum and thus the first dot to the right and left of the center, etc.)}
+\text{L = distance form diffraction grating to screen}
+\Delta y = \text{distance from nth spot out from the center (if m = 1 then it is the 1st spot)}
+Maximum = place where waves constructively interfere
+Minimum = place where waves destructively interfere
+Because the screen distance L is much larger than the slit distance d , one can see that
+\frac{\Delta y}{L} = \text{tan} \theta \approx \text{sin} \theta  .
+Thus, the condition for a first maximum becomes
+\lambda = d \sin{\theta} = d \frac{\Delta y}{L}
+One can now easily calculate where the first maximum should appear if given the wavelength of the laser light, the distance to the screen and the distance between slits.
+First Maximum:  \Delta y = \frac {L \lambda}{d}
+White light (which is comprised of all wavelengths and thus all colors) separates into a rainbow pattern as shown below.
+Each wavelength of light has a unique interference pattern given by the equation above.
+Thus all the wavelengths (i.e. colors) have a unique  \Delta y  based on the equation given at the end of Example 1.
+This is how white light separates out into its individual wavelengths producing a rainbow after going through a diffraction grating.
+Watch this Explanation
+Click on the image above for more content
+Wave Interference (PhET Simulation)
+In your laboratory, light from a 650 \;\mathrm{nm} laser shines on two thin slits.

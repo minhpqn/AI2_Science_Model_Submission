@@ -1,0 +1,20 @@
+DNA replication is said to be semi-conservative because of this process of replication, where the resulting double helix is composed of both an old strand and a new strand.
+For an animation of DNA replication, see
+DNA replication occurs when the DNA strands “unzip”, and the original strands of DNA serve as a template for new nucleotides to join and form a new strand.
+The replication fork is obvious at the point of separation of the double helix.
+The semi-conservative mechanism of replication was one of three models originally proposed for DNA replication:
+Semiconservative replication would produce two copies that each contained one of the original strands and one new strand.
+Conservative replication would leave the two original template DNA strands together in a double helix, with the new DNA composed entirely of two new strands.
+Dispersive replication would produce two copies of the DNA, both containing a mixture of old and new material.
+Of these three models, the semi-conservative model seemed most reasonable since it would allow each new daughter strand to remain associated with its template strand.
+The semiconservative model was confirmed by the Meselson-Stahl experiment.
+DNA replication is a semi-conservative process.
+Half of the parent DNA molecule is conserved in each of the two daughter DNA molecules.
+The Meselson-Stahl Experiment
+In 1958, Matthew Meselson and Franklin Stahl identified evidence that supported the hypothesis that DNA replication was semiconservative.
+The experiment took advantage of the fact that nitrogen is a major constituent of DNA, and that two forms of nitrogen are available: 14 N and a heavier isotope, 15 N.
+The DNA of cells grown in 15 N medium have a higher density than cells grown in normal 14 N medium.
+The experiment was performed as follows:
+E. coli were grown for several generations in a medium with 15 N.
+After that, E. coli cells with only 15 N in their DNA were transferred to a 14 N medium and were allowed to divide.
+After one round of replication, DNA was isolated and was compared to pure 14 N DNA and 15 N DNA.

@@ -1,0 +1,20 @@
+The old pulley is a single fixed pulley.
+It is securely attached to the beam above it.
+Click on the image above to view the table
+Mechanical Advantage of Pulleys
+The mechanical advantage of a simple machine such as a pulley is the factor by which the machine changes the force applied to it.
+The ideal mechanical advantage of a machine is its mechanical advantage in the absence of friction.
+All machines must overcome friction, so the ideal mechanical advantage is always somewhat greater than the actual mechanical advantage of the machine as it is used in the real world.
+In a pulley, the ideal mechanical advantage is equal to the number of rope segments pulling up on the object.
+The more rope segments that are helping to do the lifting work, the less force that is needed for the job.
+Look at the table of types of pulleys.
+It gives the ideal mechanical advantage of each type.
+In the single fixed pulley, only one rope segment pulls up on the load, so the ideal mechanical advantage is 1.
+In other words, this type of pulley doesn’t increase the force that is applied to it.
+However, it does change the direction of the force.
+This allows you to use your weight to pull on one end of the rope and more easily raise the load attached to the other end.
+In the single moveable pulley, two rope segments pull up on the load, so the ideal mechanical advantage is 2.
+This type of pulley doesn’t change the direction of the force applied to it, but it increases the force by a factor of 2.
+In a compound pulley, two or more rope segments pull up on the load, so the ideal mechanical advantage is 2 or greater than 2.
+This type of pulley may or may not change the direction of the force applied to it—it depends on the number and arrangement of pulleys—but the increase in force may be great.
+To learn more about the mechanical advantage of different types of pulleys, watch the video at this link:

@@ -1,0 +1,20 @@
+Sound waves are longitudinal waves.
+Thus, the molecules of the medium vibrate back and forth in the same direction as the wave is traveling through.
+The medium for sound is normally air for humans, but sound waves can travel in water, metal, etc. as well.
+An object oscillating with frequency f will create waves which oscillate with the same frequency f .
+The speed of a sound wave in air depends subtly on pressure, density, and temperature, but is about 343 m/s at room temperature.
+Describe the pressure changes in the air as a sound wave passes a given point, then explain why a very loud sound can damage your tympanic membrane (ear drum).
+As a sound wave passes a certain point, the air pressure at that point alternates between high and low pressure.
+When sound waves pass into the ear, the alternating pressures cause a pressure difference on either side of the tympanic membrane.
+The pressure differences between the inside and outside of the membrane cause the membrane to move back and forth with the same frequency as the changes in pressure.
+What we perceive as very loud sounds are sound waves with very large amplitudes, meaning that the differences in pressure are very large.
+The larger changes in pressure could cause damage to the membrane by causing it to vibrate too violently.
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+Sound (PhET Simulation)
+Describe how sound is produce in a speaker, travels to your ear and how your ear converts these sound waves into sound in your brain.
+The Indian instrument called a “sitar” uses two sets of strings, one above the other.
+Only one set of strings is played but both make sound.
+Research the sitar and explain briefly how this works.
+For more information about the Sitar, see

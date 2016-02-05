@@ -1,0 +1,20 @@
+Another lab group says they can’t make that determination without knowing the velocity the balls have on impact.
+They ask for a timer.
+The instructor says you don’t need one; use your meter stick.
+Explain.
+Design an experiment to prove momentum conservation with balls of different masses, giving apparatus, procedure and design.
+Give some sample numbers.
+A 3 kg ball is moving 2 m/s in the positive x- direction when it is struck dead center by a 2 kg ball moving in the positive y- direction at 1 m/s.
+After collision the 3 kg ball moves at 3 m/s 30 degrees from the positive x- axis.
+Find the velocity and direction of the 2 kg ball.
+Answers to Selected Problems
+8 \;\mathrm{m/s} same direction as the cue ball and 0 \;\mathrm{m/s}
+\mathrm{v}_{golf} =-24.5 \;\mathrm{m/s}; \mathrm{vpool} = 17.6 \;\mathrm{m/s}
+1.5 \ m/s \ 54^\circ
+Solve problems involving inelastic collisions.
+\sum p_{\text{initial}} = \sum p_{\text{final}} \; \; \text{The total momentum does not change in closed systems}
+In an inelastic collision, momentum is conserved within the system but kinetic energy is not; energy from the collision is turned into other forms besides kinetic energy.
+For example, some of the kinetic energy goes into producing heat and deforming the objects.
+You can find the change in kinetic energy by calculating the kinetic energy of all the objects before and after the collision, but you must first use conservation of momentum to solve for the unknown values.
+In a perfectly inelastic collision, the objects will stick together and combine into a single mass.
+This means that when you calculate the final momentum of the system, you should consider there to be only one object with a larger total mass.

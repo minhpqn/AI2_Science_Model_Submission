@@ -1,0 +1,20 @@
+You can watch an animation of the humoral immune response at this link:
+B Cell Activation
+B cells must be activated by an antigen before they can fight pathogens.
+This happens in the sequence of events shown in Figure below .
+First, a B cell encounters its matching antigen and engulfs it.
+The B cell then displays fragments of the antigen on its surface.
+This attracts a helper T cell .
+The helper T cell binds to the B cell at the antigen site and releases cytokines that “tell” or signal the B cell to develop into a plasma cell .
+B lymphocytes are further discussed at
+Click on the image above for more content
+Activation of a B cell
+Activation of a B cell must occur before it can respond to pathogens.
+What role do T cells play in the activation process?
+Plasma Cells and Antibody Production
+Plasma cells are activated B cells that secrete antibodies.
+Antibodies are large, Y-shaped proteins that recognize and bind to antigens.
+Plasma cells are like antibody factories, producing many copies of a single type of antibody.
+The antibodies travel throughout the body in blood and lymph.
+Each antibody binds to just one kind of antigen.
+When it does, it forms an antigen-antibody complex (see Figure below ).

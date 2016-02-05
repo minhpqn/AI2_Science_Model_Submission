@@ -1,0 +1,20 @@
+molar mass NaF = 41.99 g/mol
+volume solution = 0.500 L
+K_b of F - = 1.4 × 10 −11
+pH of solution = ?
+The molarity of the F − solution can be calculated from the mass, molar mass, and solution volume.
+Since NaF completely dissociates, the molarity of the NaF is equal to the molarity of the F − ion.
+An ICE Table ( below ) can be used to calculate the concentration of OH − produced and then the pH of the solution.
+Step 2:
+Solve.
+20.0 \ \cancel{\text{g NaF}} \times \frac{1 \ \cancel{\text{mol NaF}}}{41.99 \ \cancel{\text{g NaF}}}\times \frac{1 \ \text{mol F}^-}{1 \ \cancel{\text{mol NaF}}}&=0.476 \ \text{mol F}^- \\\frac{0.476 \ \text{mol F}^-}{0.5000 \ \text{L}}&=0.953 \ \text{M F}^-
+\text{Hydrolysis equation:} \qquad \text{F}^-(aq)+\text{H}_2\text{O}(l)\rightleftarrows \text{HF}(aq)+\text{OH}^-(aq)
+[F - ]
+[OH - ]
+0.953 - x
+K_b &=1.4\times 10^{-11}=\frac{(x)(x)}{0.953-x}=\frac{x^2}{0.953-x}\approx \frac{x^2}{0.953} \\x &=[\text{OH}^-]=\sqrt{1.4\times 10^{-11}(0.953)}=3.65\times 10^{-6} \ \text{M} \\\text{pOH} &=-\log (3.65\times 10^{-6})=5.44 \\\text{pH} &=14-5.44=8.56
+Step 3:
+Think about your result.
+The solution is slightly basic due to the hydrolysis of the fluoride ion.
+Salts That Form Acidic Solutions
+When the ammonium ion dissolves in water, the following equilibrium exists:

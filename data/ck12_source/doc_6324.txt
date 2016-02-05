@@ -1,0 +1,20 @@
+Define equilibrium constant.
+Write the equation for the general equilibrium constant.
+Adding excess oxygen can help displace carbon monoxide from red blood cells
+What is carbon monoxide poisoning?
+Red blood cells transport oxygen to the tissues so they can function.
+In the absence of oxygen, cells cannot carry out their biochemical responsibilities.
+Oxygen moves to the cells attached to hemoglobin, a protein found in the red cells.
+In cases of carbon monoxide poisoning, CO binds much more strongly to the hemoglobin, blocking oxygen attachment and lowering the amount of oxygen reaching the cells.
+Treatment involves the patient breathing pure oxygen to displace the carbon monoxide.
+The equilibrium reaction shown below illustrates the shift toward the right when excess oxygen is added to the system:
+\text{Hb}(\text{CO})_4(aq) + 4\text{O}_2 (g) \leftrightharpoons \text{Hb}(\text{O}_2)_4(aq) + 4\text{CO} (g)
+Consider the hypothetical reversible reaction in which reactants  A and  B react to form products  C and D .
+This equilibrium can be shown below, where the lower case letters represent the coefficients of each substance.
+aA + bB \rightleftarrows cC+dD
+As we have established, the rates of the forward and reverse reactions are the same at equilibrium, and so the concentrations of all of the substances are constant.
+Since that is the case, it stands to reason that a ratio of the concentrations for any given reaction at equilibrium maintains a constant value.
+The equilibrium constant (K_{eq}) is the ratio of the mathematical product of the concentrations of the products of a reaction to the mathematical product of the concentrations of the reactants of the reaction.
+Each concentration is raised to the power of its coefficient in the balanced chemical equation.
+For the general reaction above, the equilibrium constant expression is written as follows:
+K_{eq}=\frac{\left [ C\right ]^c \left [ D\right ]^d}{\left [ A\right ]^a \left [B \right ]^b}

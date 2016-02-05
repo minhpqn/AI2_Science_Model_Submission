@@ -1,0 +1,20 @@
+A location in DNA that has neither a purine nor a pyrimidine base; apurinic or apyrimidinic site; also known as an a basic site.
+base excision repair :
+A cellular mechanism that repairs damaged DNA throughout the cell cycle.
+DNA mismatch repair :
+A system for recognizing and repairing insertions, deletions and mis-incorporation of bases in the DNA.
+DNA repair :
+A collection of processes by which a cell identifies and corrects damage to its DNA.
+global genomic NER :
+Repairs damage in both transcribed and untranscribed DNA strands in active and inactive genes throughout the genome.
+nucleotide excision repair :
+DNA repair mechanism that repair DNA damaged by a variety of mutagens.
+transcription-coupled NER :
+Repair process initiated when RNA polymerase detects a changes in the double helix shape.
+DNA repair mechanisms correct mistakes caused naturally or by mutagens in the DNA sequence.
+DNA repair mechanisms may excise the base or the whole nucleotide prior to repairing with the correct sequence.
+Numerous proteins are involved in this process.
+Use this resource to answer the questions that follow.
+What is DNA repair? at
+Abnormalities in DNA repair mechanisms have been associated with what disease?
+What are three different DNA repair pathways found in mammalian cells?

@@ -1,0 +1,20 @@
+The probability of rolling the 6 would remain the same, as would the probability of choosing the card.
+Going back to our Venn diagrams, independent events are represented as those events that occur in both sets.
+If we look just at Example 2, event A is randomly choosing a student holding a part-time job, and event B is randomly choosing a student on the honor roll.
+These 2 events are independent of each other.
+In other words, whether you hold a part-time job is not dependent on your being on the honor roll, or vice versa.
+The outcome of one event is not dependent on the outcome of the second event.
+To calculate the probability, you would look at the overlapping part of the diagram.
+The region representing A and B is the probability of both events occurring.
+Let’s look at a specific example.
+In ABC High School, 30 percent of the students have a part-time job, and 25 percent of the students from the high school are on the honor roll.
+Event A represents randomly choosing a student holding a part-time job.
+Event B represents randomly choosing a student on the honor roll.
+What is the probability of both events occurring?
+Event A is randomly choosing a student holding a part-time job, and event B is randomly choosing a student on the honor roll.
+These 2 events are independent of each other.
+In other words, whether you hold a part-time job is not dependent on your being on the honor roll, or vice versa.
+The outcome of one event is not dependent on the outcome of the second event.
+To calculate the probability, you would look at the overlapping part of the Venn diagram.
+The region representing A and B is the probability of both events occurring.
+Let’s look at the probability calculation, which is done with the Multiplication Rule:

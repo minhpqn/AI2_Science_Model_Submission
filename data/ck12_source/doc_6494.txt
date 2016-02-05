@@ -1,0 +1,20 @@
+The production of sodium hydroxide is extremely electricity intensive
+A big electric bill
+Production of NaOH is an important industrial process.
+Three different methods are employed, all of which involve the use of electricity.
+When calculating the price of sodium hydroxide a company has to charge in order to make a profit, the cost of electricity has to be factored in.
+To make a metric ton of NaOH, between 3300-5000 kWh (kilowatt hours) are required.
+Compare that with the power needed to run an average house.
+You could power a home for 6-10 months with the same amount of electricity.
+Electrolysis of Molten Sodium Chloride
+Molten (liquid) sodium chloride can be electrolyzed to produce sodium metal and chlorine gas.
+The electrolytic cell used in the process is called a Down’s cell (see Figure below ).
+Structure of a Down's Cell, which is used to electrolyze sodium chloride
+A Down’s cell is used for the electrolysis of molten sodium chloride.
+In a Down’s cell, the liquid sodium ions are reduced at the cathode to liquid sodium metal.
+At the anode, liquid chloride ions are oxidized to chlorine gas.
+The reactions and cell potentials are shown below:
+& \text{oxidation (anode):} && 2\text{Cl}^-(l) \rightarrow \text{Cl}_2(g) + 2e^- && E^0 =-1.36 \text{ V} \\& \text{reduction (cathode):} && \text{Na}^+ (l) + e^- \rightarrow \text{Na}(l) && E^0 = -2.71 \text{ V} \\\hline& \text{overall reaction:} && 2\text{Na}^+(l) + 2\text{Cl}^-(l) \rightarrow 2\text{Na} (l) + \text{Cl}_2(g) && E^0{_\text{cell}} = -4.07 \text{ V}
+The battery must supply over 4 volts to carry out this electrolysis.
+This reaction is a major source of production of chlorine gas and is the only way to obtain pure sodium metal.
+Chlorine gas is widely used in cleaning, disinfecting, and in swimming pools.

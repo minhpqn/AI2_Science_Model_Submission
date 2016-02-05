@@ -1,0 +1,20 @@
+Assume that a friend hands you a heavy book to hold as he turns the combination lock on his locker.
+Which of you does more work?
+Show how to calculate work from force and distance.
+Identify and define the SI unit for work.
+Use the equation for work to find force or distance when the other two variables are known.
+Clarissa is cutting the grass in her grandmother’s yard using an old-fashioned push mower.
+The mower has no motor, so Clarissa is doing all the work.
+How much work does Clarissa do pushing the mower around the yard?
+The amount of work depends on how much force she uses and how far she pushes the mower.
+Work, Force, and Distance
+Work is the use of force to move an object.
+It is directly related to both the force applied to the object and the distance the object moves.
+Work can be calculated with this equation:
+Work = Force x Distance.
+How Much Work?
+The equation for work can be used to calculate work if force and distance are known.
+To use the equation, force is expressed in Newtons (N), and distance is expressed in meters (m).
+For example, assume that Clarissa uses 100 Newtons of force to push the mower and that she pushes it for a total of 200 meters as she cuts the grass in her grandmother’s yard.
+Then, the amount of work Clarissa does is:
+Work = 100 N × 200 m = 20,000 N • m

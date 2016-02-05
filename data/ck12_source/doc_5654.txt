@@ -1,0 +1,20 @@
+A:
+Isotopes of an element are named for their total number of protons and neutrons.
+Q:
+The element oxygen has 8 protons.
+How many protons and neutrons are there in oxygen-17?
+A:
+Oxygen-17—like all atoms of oxygen—has 8 protons.
+Its name provides the clue that it has a total of 17 protons and neutrons.
+Therefore, it must have 9 neutrons (8 + 9 = 17).
+Particles in Neutrons
+Neutrons consist of fundamental particles known as quarks and gluons.
+Each neutron contains three quarks, as shown in the diagram below.
+Two of the quarks are called down quarks (d) and the third quark is called an up quark (u).
+Gluons (represented by wavy black lines in the diagram) are fundamental particles that are given off or absorbed by quarks.
+They carry the strong nuclear force that holds together quarks in a neutron.
+A neutron is one of three main particles that make up the atom.
+It is found in the nucleus and is neutral in electric charge.
+It has about the same mass and diameter as a proton.
+Neutrons are found in all atoms except for most atoms of hydrogen.
+All the atoms of a given element have the same number of protons and electrons, but they may vary in their numbers of neutrons.

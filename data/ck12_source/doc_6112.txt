@@ -1,0 +1,20 @@
+V=\frac{nRT}{P}=\frac{1.094 \text{ mol} \times 62.36 \text{ L} \cdot \text{mmHg/K} \cdot \text{mol} \times 327 \text{ K}}{728 \text{ mmHg}}=30.6 \text{ L}
+Step 3:
+Think about your result.
+The mass of ethanol is slightly more than one half mole, meaning that the mole ratio results in slightly more than one mole of carbon dioxide being produced.
+Because of the elevated temperature and reduced pressure compared to STP, the resulting volume is larger than 22.4 L.
+The ideal gas law is used to calculate stoichiometry problems for gases.
+Solve the problems on the worksheet at this site:
+Do we need gas conditions to be at STP to calculate stoichiometry problems?
+Why do we want to determine the stoichiometry of these reactions?
+What assumption are we making about the gases involved?
+Real and Ideal Gases
+Define a real gas.
+Describe differences between real gases and ideal gases.
+Intermolecular forces can cause deviations from ideality in gases
+Location, Location, Location
+The behavior of a molecule depends a lot on its structure.
+We can have two compounds with the same number of atoms and yet they act very differently.
+Ethanol (C 2 H 5 OH) is a clear liquid that has a boiling point of about 79°C.
+Dimethylether (CH 3 OCH 3 ) has the same number of carbons, hydrogens, and oxygens, but boils at a much lower temperature (-25°C).
+The difference lies in the amount of intermolecular interaction (strong H-bonds for ethanol, weak van der Waals force for the ether).

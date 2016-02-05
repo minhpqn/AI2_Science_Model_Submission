@@ -1,0 +1,20 @@
+Models of very complex systems are often based on mathematical equations or computer simulations.
+A person who develops a model must be able to recognize whether a model reflects reality.
+They must also be able to identify and work with differences between actual data and theory.
+A model is evaluated mostly by how it reflects past observations of the phenomenon.
+Any model that is not consistent with reproducible observations must be modified or rejected.
+However, a fit to observed data alone is not enough for a model to be accepted as valid.
+Other factors important in evaluating a model include:
+its ability to explain past observations,
+its ability to predict future observations,
+its ability to control events,
+the cost of its use, especially when used with other models,
+ease of use and how it looks.
+Some examples of the different types of models that are used by science are shown in Figures below and below .
+A computer model of wind patterns across the continental United States for 21 June, 2013.
+This model is used to forecast wind speeds and directions.
+Data on wind speed, direction, and related data are entered into a computer which then produces this simulation.
+This visual model is much easier for a person to understand than a large table of numbers.
+Biosphere 2 is an example of a very large three-dimensional model which biologists built to attempt to recreate a self-sustaining biome.
+To learn more about biomes and ecosystems, see Concept Ecology (Advanced) .
+Theories as Models

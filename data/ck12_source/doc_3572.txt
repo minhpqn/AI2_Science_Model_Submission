@@ -1,0 +1,20 @@
+Only autotrophs can build low-energy inorganic CO 2 into high-energy organic molecules like glucose.
+This process is carbon fixation .
+Stomata and guard cells on leaves
+Stomata on the underside of leaves take in CO 2 and release water and O 2 .
+Guard cells close the stomata when water is scarce.
+Leaf cross-section (above) and stoma (below).
+Plants have evolved three pathways for carbon fixation.
+The most common pathway combines one molecule of CO 2 with a 5-carbon sugar called ribulose biphosphate (RuBP).
+The enzyme which catalyzes this reaction (nicknamed RuBisCo ) is the most abundant enzyme on earth!
+The resulting 6-carbon molecule is unstable, so it immediately splits into two 3-carbon molecules.
+The 3 carbons in the first stable molecule of this pathway give this largest group of plants the name “C
+Dry air, hot temperatures, and bright sunlight slow the C 3 pathway for carbon fixation.
+This is because stomata , tiny openings under the leaf which normally allow CO 2 to enter and O 2 to leave, must close to prevent loss of water vapor ( Figure above ).
+Closed stomata lead to a shortage of CO 2 .
+Two alternative pathways for carbon fixation demonstrate biochemical adaptations to differing environments.
+Plants such as corn solve the problem by using a separate compartment to fix CO 2 .
+Here CO 2 combines with a 3-carbon molecule, resulting in a 4-carbon molecule.
+Because the first stable organic molecule has four carbons, this adaptation has the name C 4 .
+Shuttled away from the initial fixation site, the 4-carbon molecule is actually broken back down into CO 2 , and when enough accumulates, RuBisCo fixes it a second time!
+Compartmentalization allows efficient use of low concentrations of carbon dioxide in these specialized plants.

@@ -1,0 +1,20 @@
+Their 40S subunit has an 18S RNA (1900 nucleotides) and 33 proteins.
+The large subunit is composed of a 5S RNA (120 nucleotides), 28S RNA (4700 nucleotides), a 5.8S RNA (160 nucleotides) subunits and about 49 proteins.
+The ribosomes found in chloroplasts and mitochondria of eukaryotes also consist of large and small subunits bound together with proteins into one 70S particle.
+These organelles are believed to be descendants of bacteria and as such their ribosomes are similar to those of bacteria.
+ribonucleoprotein :
+A nucleoprotein that contains RNA; includes the ribosome, vault ribonucleoproteins, and small nuclear RNPs (snRNPs).
+ribosome :
+A non-membrane bound organelle inside all cells; site of protein synthesis (translation).
+ribozyme :
+An RNA molecule with a tertiary structure that enables it to catalyze a chemical reaction.
+Svedberg unit :
+A non-SI unit for sedimentation rate; technically a measure of time that offers a measure of particle size; 10 -13 seconds (100 fs).
+translation :
+The process of synthesizing a polypeptide/protein from the information in a mRNA sequence; occurs on ribosomes.
+Ribosomes are small organelles and are the site of protein synthesis.
+They are found in all cells.
+Ribosomes are composed of a large and small subunit.
+Prtokaryotic ane eukaryotic ribosomal subunits differ in size.
+What is the role of the ribosome?
+What is a significant difference between the structure of a ribosome and other organelles?

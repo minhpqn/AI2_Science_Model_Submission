@@ -1,0 +1,20 @@
+This is reflected in the chemical equation for the reaction.
+The equation should be balanced.
+In a balanced equation, the same number of atoms of a given element appear on each side of the arrow.
+For example, in the equation above, there are four hydrogen atoms on each side of the arrow.
+Types of Chemical Reactions
+In general, a chemical reaction involves the breaking and forming of chemical bonds.
+In the methane reaction above, bonds are broken in methane and oxygen, and bonds are formed in carbon dioxide and water.
+A reaction like this, in which a compound or element burns in oxygen, is called a combustion reaction .
+This is just one of many possible types of chemical reactions.
+Other types of chemical reactions include synthesis, decomposition, and substitution reactions.
+A synthesis reaction occurs when two or more chemical elements or compounds unite to form a more complex product.
+For example, nitrogen (N 2 ) and hydrogen (H 2 ) unite to form ammonia (NH 3 ):
+N 2 + 3 H 2 → 2 NH 3 .
+A decomposition reaction occurs when a compound is broken down into smaller compounds or elements.
+For example, water (H 2 O) breaks down into hydrogen (H 2 ) and oxygen (O 2 ):
+2 H 2 O → 2 H 2 + O 2 .
+A substitution reaction occurs when one element replaces another element in a compound.
+For example, sodium (Na + ) replaces hydrogen (H) in hydrochloric acid (HCl), producing sodium chloride (NaCl) and hydrogen gas (H 2 ):
+2 Na + + 2 HCl → 2 NaCl + H 2 .
+Reduction-oxidation reactions, or redox reactions include all chemical reactions in which atoms have their oxidation state changed.

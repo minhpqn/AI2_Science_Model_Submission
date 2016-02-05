@@ -1,0 +1,20 @@
+DNA helicase :
+The enzyme that breaks the hydrogen bonds holding the two DNA strands together during DNA replication.
+DNA ligase :
+Enzyme that can attach together (ligates) strands of DNA with double strand breaks.
+DNA polymerase :
+The enzyme that builds a new DNA strand during DNA replication.
+DNA replication :
+The process of copying DNA prior to cell division (eukaryotes) or reproduction (prokaryotes).
+lagging strand :
+The DNA strand at the opposite side of the replication fork from the leading strand.
+leading strand :
+The DNA strand that DNA polymerase constructs in the 5' → 3' direction.
+Okazaki fragments :
+Short fragments of DNA that comprise the lagging strand.
+primase :
+An enzyme that builds a short RNA primer on the lagging strand during DNA replication.
+replication fork :
+Site where DNA helices unwinds the DNA, allowing DNA replication to proceed.
+semi-conservative :
+DNA replication process where half of the parent DNA molecule is conserved in each of the two daughter DNA molecules.

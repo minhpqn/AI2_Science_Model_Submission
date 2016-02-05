@@ -1,0 +1,20 @@
+Compound light microscopes use lenses to focus light.
+Typical magnification of a light microscope is up to 1500x.
+The various parts of the microscope are labeled.
+This specifically is a phase contrast microscope.
+Phase contrast microscopy is particularly important in biology, as it reveals many cellular structures that are not visible with a simpler bright field microscope.
+This scientist is using a stereo microscope, which is a light microscope with two ocular lenses.
+Resolution is a measure of the clarity of an image; it is the minimum distance two points can be separated and still be distinguished as two separate points.
+Because light beams have a physical size, which is described in wavelengths, it is difficult to see an object that is about the same size or smaller than the wavelength of light.
+Objects smaller than about 0.2 micrometers appear fuzzy, and objects below that size cannot be seen.
+Magnification involves enlarging the image of an object so that it appears much bigger than its actual size.
+Magnification also refers to the number of times an object is magnified.
+For example, a lens that magnifies 100X, magnifies an object 100 times larger than its actual size.
+Light microscopes have three objective lenses that have different magnifications, as shown in Figure below .
+The ocular lens has a magnification of 10X, so a 100X objective lens and the ocular lens together will magnify an object by 1000X.
+Objective lenses of a light microscope.
+Objective lenses of a light microscope.
+Visible light has wavelengths of 400 to 700 nanometers, which is larger than many objects of interest such as the insides of cells.
+Scientists use different types of microscopes in order to get better resolution and magnification of objects that are smaller than the wavelength of visible light.
+Objects that are to be viewed under an electron microscope may need to be specially prepared to make them suitable for magnification.
+Electron microscopes use electrons instead of photons (light), because electrons have a much shorter wavelength than photons and thus allow a researcher to see things at much higher magnification, far higher than an optical microscope can possibly magnify.

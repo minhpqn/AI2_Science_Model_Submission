@@ -1,0 +1,20 @@
+The coat has both red and white hairs; not pink hairs, but red AND white hairs.
+The letter R indicates red hair color, and R’ white hair color.
+In cases of codominance, the genotype of the organism can be determined from its phenotype.
+The heifer in Figure below shows both coat colors and therefore is RR’ heterozygous for coat color.
+The flower in Figure below also has two codominant alleles; it has red and white petals, not pink petals.
+Both colors appear in the phenotype.
+(left) The roan coat of this cow is made up of red and white hairs.
+Both the red and white hair alleles are codominant.
+Therefore cattle with a roan coat are heterozygous for coat color ( RR’ ). (right) The flower has red and white petals because of codominance of red-petal and white-petal alleles.
+But what if there were pink petals as opposed to red and white petals?
+Which allele would be dominant?
+Both?
+Neither?
+Incomplete dominance occurs when the phenotype of the offspring is somewhere in between the phenotypes of both parents; a completely dominant allele does not occur.
+For example, when red snapdragons ( C R C R ) are crossed with white snapdragons ( C W C W ), the F 1 hybrids are all pink hetrozygotes for flower color ( C R C W ).
+The pink color is an intermediate between the two parent colors ( Figure below ).
+When two F 1 ( C R C W ) hybrids are crossed they will produce red, pink, and white flowers.
+The genotype of an organism with incomplete dominance can be determined from its phenotype ( Table below ).
+Snapdragons show incomplete dominance in the traits for flower color.
+The pink snapdragon has pink petals because of incomplete dominance of a red-petal allele and a recessive white-petal allele.

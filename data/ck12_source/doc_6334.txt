@@ -1,0 +1,20 @@
+Describe how temperature affects the direction of an equilibrium reaction.
+A mix of carbon dioxide and carbon generates carbon monoxide under high temperatures
+We tend to think of carbon monoxide only as a hazardous gas produced from incomplete combustion of carbon products.
+However, there is a large market for industrially-manufactured carbon monoxide that is used to synthesize most of the acetic acid produced in the world.
+One reaction that leads to CO formation involves its formation by passing air over excess carbon at high temperatures.
+The initial product (carbon dioxide) equilibrates with the remaining hot carbon, forming carbon monoxide.
+At lower temperatures, CO 2 formation is favored while CO is the predominant product above 800°C.
+Effect of Temperature
+Increasing or decreasing the temperature of a system at equilibrium is also a stress to the system.
+The equation for the Haber-Bosch process is written again below, as a thermochemical equation.
+\text{N}_2(g)+3\text{H}_2(g) \rightleftarrows 2\text{NH}_3(g)+91 \text{ kJ}
+The forward reaction is the exothermic direction: the formation of NH 3 releases heat.
+The reverse reaction is the endothermic direction: as NH 3 decomposes to N 2 and H 2 , heat is absorbed.
+An increase in the temperature of a system favors the direction of the reaction that absorbs heat, the endothermic direction.
+Absorption of heat in this case is a relief of the stress provided by the temperature increase.
+For the Haber-Bosch process, an increase in temperature favors the reverse reaction.
+The concentration of NH 3 in the system decreases, while the concentrations of N 2 and H 2 increase.
+A decrease in the temperature of a system favors the direction of the reaction that releases heat, the exothermic direction.
+For the Haber-Bosch process, a decrease in temperature favors the forward reaction.
+The concentration of NH 3 in the system increases, while the concentrations of N 2 and H 2 decrease.

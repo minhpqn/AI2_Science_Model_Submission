@@ -1,0 +1,20 @@
+A basketball game requires shooting accuracy
+How do professional basketball players improve their shooting accuracy?
+Basketball is one of those sports where you need to hit the target.
+A football field goal kicker might have room for some deviation from a straight line – for college and pro football there is an 18 foot 6 inch space for the ball to go through.
+In basketball, the basket is only 18 inches across and the ball is a little less than 10 inches across – not much room for error.
+The ball has to be on target in order to go into the basket and score.
+Accuracy and Precision
+In everyday speech, the terms accuracy and precision are frequently used interchangeably.  However, their scientific meanings are quite different.  Accuracy is a measure of how close a measurement is to the correct or accepted value of the quantity being measured.  Precision is a measure of how close a series of measurements are to one another.
+Precise measurements are highly reproducible, even if the measurements are not near the correct value.
+Darts thrown at a dartboard are helpful in illustrating accuracy and precision
+A basketball game requires shooting accuracy
+The distribution of darts on a dartboard shows the difference between accuracy and precision.
+Assume that three darts are thrown at the dartboard, with the bulls-eye representing the true, or accepted, value of what is being measured.  A dart that hits the bulls-eye is highly accurate, whereas a dart that lands far away from the bulls-eye displays poor accuracy.
+The Figure above demonstrates four possible outcomes.
+The darts have landed far from each other and far from the bulls-eye.  This grouping demonstrates measurements that are neither accurate, nor precise.
+The darts are close to one another, but far from the bulls-eye.
+This grouping demonstrates measurements that are precise, but not accurate.  In a laboratory situation, high precision with low accuracy often results from a systematic error.  Either the measurer makes the same mistake repeatedly or the measuring tool is somehow flawed.  A poorly calibrated balance may give the same mass reading every time, but it will be far from the true mass of the object.
+The darts are not grouped very near to each other, but are generally centered around the bulls-eye.
+This demonstrates poor precision, but fairly high accuracy.
+This situation is not desirable in a lab situation because the “high” accuracy may simply be random chance and not a true indicator of good measuring skill.

@@ -1,0 +1,20 @@
+The electron being removed from a Mg atom is a 3 s electron, which is only shielded by the inner core electrons.
+Since there is a greater degree of electron shielding in the Al atom, it is slightly easier to remove the valence electron and its ionization energy is less than that of Mg.
+This is despite the fact that the nucleus of the Al atom contains one more proton than the nucleus of the Mg atom .
+There is another anomaly between Groups 15 and 16.
+Atoms of Group 16 (O, S, etc.) have lower ionization energies than atoms of Group 15 (N, P, etc.).
+Hund’s rule is behind the explanation.
+In a nitrogen atom, there are three electrons in the 2 p sublevel and each is unpaired.
+In an oxygen atom, there are four electrons in the 2 p sublevel, so one orbital contains a pair of electrons.
+It is that second electron in the orbital that is removed in the ionization of an oxygen atom.
+Since electrons repel each other, it is slightly easier to remove the electron from the paired set in the oxygen atom than it is to remove an unpaired electron from the nitrogen atom.
+Electron shielding refers to the blocking of valence shell electron attraction by the nucleus due to the presence of inner-shell electrons.
+Electrons in an s orbital can shield p electrons at the same energy level because of the spherical shape of the s orbital.
+Electrons in paired spin configurations are slightly easier to remove than unpaired electrons.
+Use the link below to answer the following questions:
+Why are electrons highly attracted to the nucleus?
+What happens when additional electrons are present in different orbits?
+What electrons are mainly influenced by electron shielding?
+Define “electron shielding."
+Why do group 13 elements have lower ionization energies than group 2 elements?
+What influence does a larger shielding effect have on ionization energy?

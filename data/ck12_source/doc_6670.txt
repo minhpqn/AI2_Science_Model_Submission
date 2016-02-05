@@ -1,0 +1,20 @@
+\pi  “pi ”
+\Omega  “Omega” *
+\Sigma  “Sigma” *
+\Delta  “Delta” *
+Two very common Greek letters are \Delta and \Sigma . \Delta is used to indicate that we should use the change or difference between the final and initial values of that specific variable. \Sigma denotes the sum or net value of a variable.
+Every answer to a physics problem must include units.
+Even if a problem explicitly asks for a speed in meters per second (m/s), the answer is 5 m/s, not 5.
+If a unit is named after a person, it is capitalized.
+So you write “10 Newtons,” or “10 N,” but “10 meters,” or “10 m.”
+Metric units use a base numbering system of 10.
+Thus a centimeter is ten times larger than a millimeter.
+A decimeter is 10 times larger than a centimeter and a meter is 10 times larger than a decimeter.
+Thus a meter is 100 times larger than a centimeter and 1000 times larger than a millimeter.
+Going the other way, one can say that there are 100 cm contained in a meter.
+Question :
+Convert 2500 m/s into km/s
+Solution :
+A km (kilometer) is 1000 times bigger than a meter.
+Thus, one simply divides by 1000 and arrives at 2.5 km/s
+Question :

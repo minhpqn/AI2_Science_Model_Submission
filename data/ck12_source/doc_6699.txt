@@ -1,0 +1,20 @@
+None of the above.
+Projectile Motion Problem Solving
+Use the equations of motion in two dimensions in order to solve projectile motion problems.
+Students will learn how to use the equations of motion in two dimensions in order to solve problems for projectiles.
+It is necessary to understand how to break a vector into its x and y components.
+Break the Initial Velocity Vector into its Components
+Apply the Kinematics Equations
+\textbf{Vertical Direction} && \textbf{Horizontal Direction}\\\y(t) = y_i +v_{iy} t - \tfrac{1}{2} g t^2 && x(t) = x_{i} +v_{ix}t\\\v_{y}(t) = v_{iy} -gt && v_{x}(t) = v_{ix} \\\{v_y}^2 = {v_{0y}}^2 - 2g (\Delta y) && \\\a_y = -g = -9.8 \mathrm{m/s^2} \approx -10\mathrm{m/s^2} && a_x = 0\\\
+To work these problems, separate the “Big Three” equations into two sets: one for the vertical direction, and one for the horizontal.
+Keep them separate.
+The only variable that can go into both sets of equations is time; use time to communicate between the x and y components of the object's motion.
+CSI discovers a car at the bottom of a 72 m cliff.
+How fast was the car going if it landed 22m horizontally from the cliff’s edge? (Note that the cliff is flat, i.e. the car came off the cliff horizontally).
+Question: v = \ ? \ [m/s]
+Given: h = \Delta y = 72 \ m
+{\;}\qquad \quad d = \Delta x = 22 \ m
+{\;}\qquad \quad g = 10.0 \ m/s^2
+Equation: h = v_{iy} t + \frac{1}{2} gt^2 and d = v_{ix} t
+Plug n’ Chug:
+Step 1:

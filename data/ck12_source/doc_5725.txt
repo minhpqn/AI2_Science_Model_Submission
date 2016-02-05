@@ -1,0 +1,20 @@
+Each occupied sublevel designation is written followed by a superscript that is the number of electrons in that sublevel.
+Define valence electron.
+Be able to indicate valence electrons when given the electron configuration for an atom.
+Chemical reaction of iodine
+What makes a particular element very reactive and another element non-reactive?
+A chemical reaction involves either electron removal, electron addition, or electron sharing.
+The path a specific element will take depends on where the electrons are in the atom and how many there are.
+Electron Configurations of Second-Period Elements
+1 s 2 2 s 1
+1 s 2 2 s 2
+1 s 2 2 s 2 2 p 1
+1 s 2 2 s 2 2 p 2
+1 s 2 2 s 2 2 p 3
+1 s 2 2 s 2 2 p 4
+1 s 2 2 s 2 2 p 5
+1 s 2 2 s 2 2 p 6
+In the study of chemical reactivity, we will find that the electrons in the outermost principal energy level are very important and so they are given a special name.
+Valence electrons are the electrons in the highest occupied principal energy level of an atom.
+In the second period elements listed above, the two electrons in the 1 s sublevel are called inner-shell electrons and are not involved directly in the element’s reactivity or in the formation of compounds.
+Lithium has a single electron in the second principal energy level and so we say that lithium has one valence electron.

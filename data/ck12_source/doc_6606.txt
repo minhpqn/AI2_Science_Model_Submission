@@ -1,0 +1,20 @@
+Because the active site of an enzyme has such a unique shape, only one particular substrate is capable of binding to that enzyme.
+In other words, each enzyme catalyzes only one chemical reaction with only one substrate.
+Once the enzyme/substrate complex is formed, the reaction occurs and the substrate is transformed into products.
+Finally, the product molecule or molecules are released from the active site.
+Note that the enzyme is left unaffected by the reaction and is now capable of catalyzing the reaction of another substrate molecule.
+An inhibitor is a molecule which interferes with the function of an enzyme, either by slowing or stopping the chemical reaction.
+Inhibitors can work in a variety of ways, but one of the most common is illustrated in the Figure below .
+Diagram illustrating competitive inhibition
+A competitive inhibitor is a molecule that binds to the active site of an enzyme without reacting, thus preventing the substrate from binding.
+The inhibitor binds competitively at the active site and blocks the substrate from binding.
+Since no reaction occurs with the inhibitor, the enzyme is prevented from catalyzing the reaction.
+Cyanide is a potent poison which acts as a competitive inhibitor.
+It binds to the active site of the enzyme cytochrome c oxidase and interrupts cellular respiration.
+The binding of the cyanide to the enzyme is irreversible and the affected organism dies quickly.
+A non-competitive inhibitor does not bind at the active site.
+It attaches at some other site on the enzyme and changes the shape of the protein.
+This shift in three-dimensional structure alters the shape of the active site so that the substrate will no longer fit in the site properly (see Figure below ).
+Diagram illustrating non-competitive inhibition
+Some enzymes require the presence of a non-protein molecule called a cofactor in order to function properly.
+Cofactors can be inorganic metal ions or small organic molecules.

@@ -1,0 +1,20 @@
+The concentration of copper(II) ions in the half-cell solution decreases.
+The cathode is the positive electrode.
+Ions move through the membrane to maintain electrical neutrality in the cell.
+In the cell illustrated above, sulfate ions will move from the copper side to the zinc side to compensate for the decrease in Cu 2+ and the increase in Zn 2+ .
+The two half-reactions can again be summed to provide the overall redox reaction occurring in the voltaic cell.
+\text{Zn}(s) + \text{Cu}^{2+}(aq) \rightarrow \text{Zn}^{2+}(aq)+\text{Cu}(s)
+The structure of a voltaic cell is described.
+The reactions producing electron flow are given.
+Read the material at the link below and answer the following questions:
+What is the difference between an electrolytic cell and a voltaic cell?
+Where does the oxidation reaction take place in a voltaic cell?
+Where does the reduction reaction take place?
+List some examples of voltaic cells that are of commercial importance.
+What does a voltaic cell do?
+Why are the two electrodes physically separated?
+What is the purpose of the porous membrane?
+anode:
+The electrode at which oxidation occurs.
+cathode:
+The electrode at which reduction occurs.

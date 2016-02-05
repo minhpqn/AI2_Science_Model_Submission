@@ -1,0 +1,20 @@
+Linkage refers to particular genetic loci or alleles inherited together, suggesting that they are physically on the same chromosome, and located close together on that chromosome.
+Use this resource to answer the questions that follow.
+In your own words, answer the following:
+What is a chromosome?
+What do chromosomes do?
+Do all living things have the same types of chromosomes?
+How are chromosomes inherited?
+How were chromosomes discovered?
+What does the term linkage refer to?
+What is a linkage map?
+What helps create a linkage map?
+What did Thomas Hunt Morgan discover?
+What did Alfred Sturtevant propose?
+G and I have a recombination frequency of 8.5%.
+G and H have a recombination frequency of 14%.
+H and I have a recombination frequency of 22.5%.
+Use these values to construct a rudimentary map for the chromosome that will tell you the order of the three genes relative to each other along the chromosome.
+Will this information also tell you the genes absolute position on the chromosome?
+Autosomal Traits - Advanced
+Define autosome and autosomal trait.

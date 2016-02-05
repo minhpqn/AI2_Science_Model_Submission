@@ -1,0 +1,20 @@
+Click on the image above for more content
+Click on the image above for more content
+The Moving Man (PhET Simulation)
+Ms.
+Reitman’s scooter starts from rest and accelerates at 2.0 m/s^2 .
+Where will the scooter be relative to its starting point after 7.0 seconds?
+What is the scooter's velocity after 1s? after 2s? after 7s?
+A horse is galloping forward with an acceleration of 3 \;\mathrm{m/s}^2 .
+Which of the following statements is not necessarily true?
+You may choose more than one.
+The horse is increasing its speed by 3 m/s every second, from 0 m/s to 3 m/s to 6 m/s to 9 m/s.
+The speed of the horse will triple every second, from 0 m/s to 3 m/s to 9 m/s to 27 m/s.
+Starting from rest, the horse will cover 3 m of ground in the first second.
+Starting from rest, the horse will cover 1.5 m of ground in the first second.
+Below are images from a race between Ashaan (above) and Zyan (below), two daring racecar drivers.
+High speed cameras took four pictures in rapid succession.
+The first picture shows the positions of the cars at t = 0.0 .
+Each car image to the right represents times 0.1, 0.2, and 0.3 seconds later.
+Who is ahead at t = 0.2 \;\mathrm{s} ?
+Explain.

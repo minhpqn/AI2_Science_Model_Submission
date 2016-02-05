@@ -1,0 +1,20 @@
+CF can result from more than a thousand different mutations; currently it is not possible to test for each one.
+As new DNA testing methodologies are developed, testing for more mutations will become more common and less expensive.
+Testing analyzes DNA for the most common mutations, such as a deletion of amino acid 508 (phenylalenine, also known as ΔF508).
+If a family has a known uncommon mutation, specific screening for that mutation can be performed.
+However, it must be noted that because there may be other not yet identified mutations that result in CF, and as not all known mutations are found on current tests, a negative screen does not guarantee that a child will not have CF.
+Tay-Sachs disease is a genetic disorder that is fatal in its most common variant, known as Infantile Tay-Sachs disease.
+Tay-Sachs is an autosomal recessive disorder, requiring the inheritance of a defective gene from each parent.
+The disease results from the accumulation of harmful quantities of fat in the nerve cells of the brain.
+Tay-Sachs results from mutations in the HEXA gene located on chromosome 15, which encodes the alpha-subunit of the lysosomal enzyme beta-N-acetylhexosaminidase A, which normally breaks down the fat.
+More than 90 mutations, including substitutions, insertions, deletions, splice site mutations, and other more complex patterns have been characterized in this gene, and new mutations are still being reported.
+Each of these mutations alters the protein product, inhibiting the function of the enzyme.
+Tay-Sachs disease is a rare disease.
+Unaffected carriers of a Tay-Sachs allele may not know they have the allele.
+Other autosomal disorders such as cystic fibrosis and sickle cell anemia are far more common.
+The importance of Tay-Sachs lies in the fact that an inexpensive enzyme assay test was developed.
+The automation of this analysis has provided one of the first "mass screening" tools in medical genetics.
+Two unaffected carriers can have a child homozygous for a Tay-Sachs allele, resulting, currently, in a lethal phenotype.
+Tay-Sachs alleles are maintained in a population through these unknowing heterozygous carriers.
+Anyone can be a carrier of the Tay-Sachs mutation, but the disease is most common among the Ashkenazi Jewish population.
+About 1 in every 27 members of the Ashkenazi Jewish population carries the Tay-Sachs gene.

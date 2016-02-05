@@ -1,0 +1,20 @@
+\Delta \vec{p} = \vec{p_{f}} - \vec{p_{i}}
+\Delta \vec{p} = \vec{F_{net}} \Delta t
+The force imparted on an object is equal to the change in momentum divided by the time interval over which the objects are in contact.
+Internal forces are forces for which both Newton’s Third Law force pairs are contained within the system.
+For example, consider a two-car head-on collision.
+Define the system as just the two cars.
+In this case, internal forces include that of the fenders pushing on each other, the contact forces between the bolts, washers, and nuts in the engines, etc.
+External forces are forces that act on the system from outside.
+In our previous example, external forces include the force of gravity acting on both cars (because the other part of the force pair, the pull of gravity the Earth experiences coming from the cars, is not included in the system) and the forces of friction between the tires and the road.
+If there are no external forces acting on a system of objects, the initial momentum of the system will be the same as the final momentum of the system.
+Otherwise, the final momentum will change by  \Delta \vec{p} = \vec{F}\Delta t .
+We call such a change in momentum  \Delta \vec{p}  an impulse .
+Click on the image above for more content
+Watch this Explanation
+Click on the image above for more content
+You jump off of the top of your house and hope to land on a wooden deck below.
+Consider the following possible outcomes:
+You hit the deck, but it isn’t wood!
+A camouflaged trampoline slows you down over a time period of 0.2 seconds and sends you flying back up into the air.
+You hit the deck with your knees locked in a straight-legged position.

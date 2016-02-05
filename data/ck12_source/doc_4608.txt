@@ -1,0 +1,20 @@
+All three types of T cells must be activated by an antigen before they can fight an infection or cancer.
+T cell activation is illustrated in Figure below .
+It begins when a B cell or nonspecific leukocyte engulfs a virus and displays its antigens.
+When the T cell encounters the matching antigen on a leukocyte, it becomes activated.
+What happens next depends on which type of T cell it is.
+Mechanism for T cell activation
+T cell activation requires another leukocyte to engulf a virus and display its antigen.
+Helper T Cells
+Helper T cells are like the “managers” of the immune response.
+They secrete cytokines , which activate or control the activities of other lymphocytes.
+Most helper T cells die out once a pathogen has been cleared from the body, but a few remain as memory cells .
+These memory cells are ready to produce large numbers of antigen-specific helper T cells like themselves if they are exposed to the same antigen in the future.
+Helper T cells are discussed at
+Click on the image above for more content
+Cytotoxic T Cells
+Cytotoxic T cells destroy virus-infected cells and some cancer cells.
+Once activated, a cytotoxic T cell divides rapidly and produces an “army” of cells identical to itself.
+These cells travel throughout the body “searching” for more cells to destroy.
+Figure below shows how a cytotoxic T cell destroys a body cell infected with viruses.
+This T cell releases toxins that form pores in the membrane of the infected cell.

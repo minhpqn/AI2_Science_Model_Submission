@@ -1,0 +1,20 @@
+The Electric Field
+Define an electric field.
+Solve problems relating to field, force, and charge.
+Plasma globes contain strong electrical fields
+A plasma globe, such as the one pictured above, is filled with a mixture of noble gases and has a high-voltage electrode at the center.
+The swirling lines are electric discharge lines that connect from the inner electrode to the outer glass insulator.
+When a hand is placed on the surface of the globe, all the electric discharge travels directly to that hand.
+The Electric Field
+Coulomb’s Law gives us the formula to calculate the force exerted on a charge by another charge.
+On some occasions, however, a test charge suffers an electrical force with no apparent cause.
+That is, as observers, we cannot see or detect the original charge creating the electrical force.
+Michael Faraday dealt with this problem by developing the concept of an electric field.
+According to Faraday, a charge creates an electric field about it in all directions.
+If a second charge is placed at some point in the field, the second charge interacts with the field and experiences an electrical force.
+Thus, the interaction we observe is between the test charge and the field and a second particle at some distance is no longer necessary.
+The strength of the electric field is determined point by point and can only be identified by the presence of test charge.
+When a positive test charge, q t ,  is placed in an electric field, the field exerts a force on the charge.
+The field strength can be measured by dividing the force by the charge of the test charge.
+Electric field strength is given the symbol  E and its unit is Newtons/coulomb.
+The test charge can be moved from location to location within the electric field until the entire electric field has been mapped in terms of electric field intensity.

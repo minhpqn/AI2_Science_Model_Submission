@@ -1,0 +1,20 @@
+The closest star beyond our sun is Alpha Centauri, 4 LY away.
+Some distant quasars are 2 billion LY away.
+Why do astronomers say that to look at these distant objects is to look back in time?
+Explain briefly.
+Answers to Selected Problems
+a.  1.44 \times 10^{11} \text{m}  b. 8.95 \times 10^{7} \text{miles}
+about 25,000 cyr
+Describe how our eye detects color and how color addition works.
+Students will learn how our eye detects color and how color addition works.
+Reflection and transmission of color in various situations is also covered.
+White light consists of a mixture of all the visible colors: red, orange, yellow, green, blue, indigo, and violet (ROYGBIV).
+Our perception of the color black is tied to the absence of light.
+Our eyes include color-sensitive and brightness-sensitive cells.
+The three different color-sensitive cells (cones) can have sensitivity in three colors: red, blue, and green.
+Our perception of other colors is made from the relative amounts of each color that the cones register from light reflected from the object we are looking at.
+Our brightness-sensitive cells (rods) work well in low light.
+This is why things look ‘black and white’ at night.
+The chemical bonds in pigments and dyes – like those in a colorful shirt – absorb light at frequencies that correspond to certain colors.
+When you shine white light on these pigments and dyes, some colors are absorbed and some colors are reflected.
+We only see the colors that objects reflect .

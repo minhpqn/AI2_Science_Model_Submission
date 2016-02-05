@@ -1,0 +1,20 @@
+Sketch this process on a P-V diagram.
+Sketch cubes with volumes corresponding to the old and new volumes.
+Answers to Selected Problems
+a. 21,000 \;\mathrm{Pa} b.
+Decreases to 61,000 \;\mathrm{Pa} c. 5.8 \;\mathrm{km}
+a.  8.34 \times 10^{23} b. 6.64 \times 10^{-27}\;\mathrm{kg} c. 1600 \;\mathrm{m/s} d. 744 \;\mathrm{kPa} e. 4.2 \times 10^{20} or 0.0007 \;\mathrm{moles} g. 0.00785 \;\mathrm{m}^3
+Give an overview of Heat Engines and Pressure Volume diagrams.
+Calculate ideal efficiencies of heat engines.
+Students will learn about Heat Engines, Pressure Volume diagrams and how to calculate ideal efficiencies of heat engines.
+Q_{\text{in}} = Q_{\text{out}} + W +\Delta U
+U is the internal energy of the gas. (This is the first law of Thermodynamics and applies to all heat engines.)
+e_c = 1-\frac{T_c}{T_h} && \text{Efficiency of a Carnot (ideal) heat engine}
+where  T_c  and  T_h  are the temperatures of the hot and cold reservoirs, respectively.
+adiabatic expansion is a process occurring without the exchange of heat with the environment
+isothermal expansion is a process occurring without a change in temperature
+isobaric expansion is a process occurring without a change in pressure
+Heat engines transform input heat into work in accordance with the laws of thermodynamics.
+For instance, as we learned in the previous Concept, increasing the temperature of a gas at constant volume will increase its pressure.
+This pressure can be transformed into a force that moves a piston.
+The mechanics of various heat engines differ but their fundamentals are quite similar and involve the following steps:

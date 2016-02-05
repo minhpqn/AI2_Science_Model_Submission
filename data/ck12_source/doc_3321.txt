@@ -1,0 +1,20 @@
+This equation can be used to calculate current when voltage and resistance are known.
+Review Ohm’s law and how to calculate current at the following URL.
+Then try to solve the two problems at the bottom of the Web page.
+Be sure to check your answers against the correct solutions.
+State Ohm’s law.
+An electric appliance is connected by wires to a 240-volt source of voltage.
+If the combined resistance of the appliance and wires is 12 ohms, how much current is flowing through the circuit?
+Define electric circuit.
+Describe the parts of an electric circuit.
+Show how to represent a simple electric circuit with a circuit diagram.
+Jose made this sketch of a battery and light bulb for science class.
+If this were a real set up, the light bulb wouldn’t work.
+The problem is the loose wire on the left.
+It must be connected to the positive terminal of the battery in order for the bulb to light up.
+Q:
+Why does the light bulb need to be connected to both battery terminals?
+A:
+Electric current can flow through a wire only if it forms a closed loop.
+Charges must have an unbroken path to follow between the positively and negatively charged parts of the voltage source, in this case, the battery.
+Electric Circuit Basics

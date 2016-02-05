@@ -1,0 +1,20 @@
+Data on the reaction mechanism shows us that the reaction occurs in two steps:
+Step 1: 2 \text{NO}(g) \rightarrow \text{N}_2 \text{O}_2(g)
+Step 2: \text{N}_2 \text{O}_2(g)+ \text{O}_2(g) \rightarrow 2 \text{NO}_2(g)
+So we see that each elementary step is bimolecular and not termolecular.
+Notice that the colliding molecules may be the same (as in step 1 above) or different (as in step 2 above).
+Another reaction involves the conversion of ozone (O 3 ) to oxygen (O 2 ) with ultraviolet light.
+The two elementary steps are as follows:
+& \text{O}_3 + \text{ultraviolet light} \rightarrow \text{O}_2+ {\text{O} \cdot} (\text{free radical}) \ \text{slow reaction} \\& {\text{O} \cdot} + \text{O}_3 \rightarrow 2 \text{O}_2 \ \text{fast reaction}
+The first step is unimolecular (one molecule of ozone reacts) and the second step is bimolecular (one ozone free radical and one ozone molecule react together).
+Molecularity is defined and examples are given.
+Do the molecularity parts of problems 4 and 5 at the link below:
+What is a unimolecular reaction?
+What is a bimolecular reaction?
+Why are termolecular reactions rare?
+molecularity:
+The number of molecules reacting in an elementary step.
+Define rate-determining step.
+Like in an airport, the rate of a line is constricted by the slowest step
+Waiting in line
+Airline travel can be very frustrating.

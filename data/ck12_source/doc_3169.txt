@@ -1,0 +1,20 @@
+How Many Cylinders?
+Most cars have at least four cylinders connected to the crankshaft.
+Their pistons move up and down in sequence, one after the other.
+A powerful car may have eight pistons, and some racecars may have even more.
+The more cylinders a car engine has, the more powerful its engine can be.
+A combustion engine is a complex machine that burns fuel to produce thermal energy and then uses the energy to do work.
+An internal combustion engine burns fuel internally, or inside the engine.
+In an internal combustion engine, a mixture of fuel and air is burned in a closed cylinder, forcing a piston to move up and down.
+In a car, the moving piston rotates a crankshaft, which turns a driveshaft.
+The turning driveshaft causes the wheels of the car to turn.
+Review how an internal combustion engine works at the following URL.
+Be sure to watch the animation.
+Then answer the questions below.
+What is a four-stroke engine?
+What pushes the piston upward to compress the fuel-air mixture?
+When does the spark plug fire?
+What pushes the piston downward and produces power?
+On which stroke of the piston are exhaust gases expelled?
+What is a combustion engine?
+What is an internal combustion engine?

@@ -1,0 +1,20 @@
+Using the normal force and the coefficient of friction, we can find the frictional force.
+We can also find the mass of the box from its weight since we know the acceleration due to gravity.
+Then we can find the net force and the acceleration.
+F_F = \mu F_N = (0.20)(2000. \ \text{N}) = 400. \ \text{N}
+\text{mass of box}=\frac{\text{weight}}{g}=\frac{2000. \ \text{N}}{9.8 \ \text{m}/\text{s}^2}=204 \ \text{g}
+F_{\text{NET}} = \text{pushing force} - \text{frictional force} = 500. \ \text{N} - 400. \ \text{N} = 100. \ \text{N}
+a=\frac{F_N}{m}=\frac{100. \ \text{N}}{204 \ \text{kg}}=0.49 \ \text{m/s}^2
+Example Problem:
+Two boxes are connected by a rope running over a pulley, as shown in the figure below.
+The coefficient of sliding friction between box A and the table is 0.20. (Ignore the masses of the rope and the pulley and any friction in the pulley.) The mass of box A is 5.0 kg and the mass of box B is 2.0 kg.
+The entire system (both boxes) will move together with the same acceleration and velocity.
+Find the acceleration of the system.
+A diagram of a system of two boxes connected by a rope running over a pulley
+Solution:
+The force acting to move the system is the weight of box B, and the force resisting the movement is the force of friction between the table and box A.
+The mass of the system is the sum of the masses of both boxes.
+The acceleration of the system can be found by dividing the net force by the total mass.
+F_N (\text{box A}) = mg = (5.0 \ \text{kg})(9.8 \ \text{m/s}^2) = 49 \ \text{N}
+F_{\text{friction}} = \mu F_N = (0.20)(49 \ \text{N}) = 9.8 \ \text{N}
+\text{Weight of box B} = mg = (2.0 \ \text{kg})( 9.8 \ \text{m/s}^2) = 19.6 \ \text{N}

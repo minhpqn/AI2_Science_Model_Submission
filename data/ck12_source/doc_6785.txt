@@ -1,0 +1,20 @@
+Lastly, we'll find the angular displacement of the mass.
+\omega^2&=\omega_o^2 + 2\alpha\Delta\theta\\\\omega^2&= 0 + 2\alpha\Delta\theta\\\\Delta\theta&=\frac{\omega^2}{2\alpha}\\\\Delta\theta&=\frac{(7.06\;\text{rad/s})^2}{2*2\:\text{rad/s}^2}\\\\Delta\theta&=12.5\;\text{rad}\\\
+Watch this Explanation
+Click on the image above for more content
+You spin up some pizza dough from rest with an angular acceleration of 5\;\mathrm{rad/s}^2 .
+How many radians has the pizza dough spun through in the first 10 seconds?
+How many times has the pizza dough spun around in this time?
+What is its angular velocity after 5 seconds?
+Driving in your truck, you notice that your speed is 30 m/s.
+The wheels of your truck are 0.5 meters in radius.
+An ant is stuck on one of your wheels.
+What is the rotating speed of the ant in rads per second?
+How many radians has the ant covered in 4 seconds?
+How many times did the ant go fully around in the 4 seconds (i.e. how many full revolutions did the ant make?
+Now the truck begins to accelerate at  2 m/s^2  for the next 6 seconds.
+What is the ants angular acceleration?
+After 6 seconds, what is the ants rotational speed in radians per second?
+how many full revolutions has the ant made in these 6 seconds while the truck was accelerating?
+a. 250 \;\mathrm{rad} b. almost 40 \;\mathrm{revolutions} c. 25 \;\mathrm{rad/s}
+a. 60 rads/s b. 240 radians c. 38 full revolutions d. 4 rads/s^2  e. 84 rads/s f. 432 revolutions

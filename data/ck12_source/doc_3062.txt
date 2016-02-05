@@ -1,0 +1,20 @@
+This man is pushing heavy boxes on a dolly.
+If he were to push the boxes across the ground without the dolly, it would take a lot more force because he would have to overcome the sliding friction between the boxes and the ground.
+Using a dolly reduces the friction because rolling friction between the wheels and the ground is much less than sliding friction.
+Machines and Friction
+A dolly is a machine because it changes a force to make work easier.
+What is work?
+In physics, work is defined as the use of force to move an object over a distance.
+It is represented by the equation:
+Work = Force x Distance
+All machines make work easier, but they don’t increase the amount of work that is done.
+You can never get more work out of a machine than you put into it.
+In fact, a machine always does less work on an object than the user does on the machine.
+That’s because a machine must use some of the work put into it to overcome friction.
+Friction is the force that opposes motion between any surfaces that are touching.
+All machines involve motion, so they all have friction.
+How much work is needed to overcome friction in a machine depends on the machine’s efficiency.
+Efficiency is the percent of work put into a machine by the user (input work) that becomes work done by the machine (output work).
+The output work is always less than the input work because some of the input work is used to overcome friction.
+Therefore, efficiency is always less than 100 percent.
+The closer to 100 percent a machine’s efficiency is, the better it is at reducing friction.

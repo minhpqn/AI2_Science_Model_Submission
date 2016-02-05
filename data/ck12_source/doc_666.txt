@@ -1,0 +1,20 @@
+What is the frequency heard by a person driving at 15 m/s toward a blowing factory whistle if the emitted frequency is 800.
+Hz and the speed of sound is 340. m/s?
+While standing near a railroad crossing, a person hears a distant train horn.
+According to the train’s engineer, the frequency emitted by the horn is 440 Hz and the train is traveling toward the railroad crossing at 20.0 m/s.
+If the speed of sound is 340 m/s, what frequency will the observer hear?
+After the train passed the person at the crossing, what frequency would he hear?
+Doppler effect:
+The shift in frequency of wave form energy emitted by a source moving relative to an observer as perceived by the observer: the shift is to higher frequencies when the source approaches and to lower frequencies when it recedes.
+Reflection of Mechanical Waves
+State the law of reflection.
+Solve problems using the law of reflection.
+Given data about the media on either side of a barrier, determine whether the reflected wave will be upright or inverted.
+Wave reflecting off a barrier
+When mechanical waves strike a barrier, at least part of the energy of the waves will be reflected back into the media from which they came.
+You experience this every single day, when you look in the mirror and see your own reflection.
+Reflection of Mechanical Waves
+When a wave strikes an obstacle or comes to the end of the medium it is traveling in, some portion of the wave is reflected back into the original medium.
+It reflects back at an equal angle that it came in.
+These angles are called the angle of incidence and the angle of reflection .
+The normal line, the incident and reflected rays, and the angles of incidence and reflection are all shown in the diagram sketched above.

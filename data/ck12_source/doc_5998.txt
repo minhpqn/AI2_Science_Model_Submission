@@ -1,0 +1,20 @@
+Many examples in this category are reactions that produce water.
+When aqueous hydrochloric acid is reacted with aqueous sodium hydroxide, the products are aqueous sodium chloride and water.
+\text{HCl}(aq)+\text{NaOH}(aq) \rightarrow \text{NaCl}(aq)+\text{H}_2\text{O}(l)
+Sample Problem:
+Double-Replacement Reactions
+Write a complete and balanced chemical equation for the following double-replacement reactions.
+One product is indicated as a guide.
+A.  \text{NaCN}(aq)+\text{HBr}(aq) \rightarrow  (hydrogen cyanide gas is formed)
+B.  (\text{NH}_4)_2\text{SO}_4(aq)+\text{Ba(NO}_3)_2(aq) \rightarrow (a precipitate of barium sulfate forms)
+Step 1:
+Plan the problem
+In A, the production of a gas drives the reaction.
+In B, the production of a precipitate drives the reaction.
+In both cases, use the ionic charges of both reactants to construct the correct formulas of the products.
+Step 2:
+Solve
+A.
+The cations of both reactants are +1 charged ions, while the anions are -1 charged ions.
+After exchanging partners, the balanced equation is:
+\text{NaCN}(aq)+\text{HBr}(aq) \rightarrow \text{NaBr}(aq)+\text{HCN}(g)

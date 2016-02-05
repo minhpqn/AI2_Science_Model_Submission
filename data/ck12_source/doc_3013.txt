@@ -1,0 +1,20 @@
+Force, Mass, and Acceleration
+Whenever an object speeds up, slows down, or changes direction, it accelerates.
+Acceleration occurs whenever an unbalanced force acts on an object.
+Two factors affect the acceleration of an object: the net force acting on the object and the object’s mass.
+Newton’s second law of motion describes how force and mass affect acceleration.
+The law states that the acceleration of an object equals the net force acting on the object divided by the object’s mass.
+This can be represented by the equation:
+Q :
+While Tony races along on his rollerblades, what net force is acting on the skates?
+A :
+Tony exerts a backward force against the ground, as you can see in the Figure below , first with one skate and then with the other.
+This force pushes him forward.
+Although friction partly counters the forward motion of the skates, it is weaker than the force Tony exerts.
+Therefore, there is a net forward force on the skates.
+Skater exerting force
+Direct and Inverse Relationships
+Newton’s second law shows that there is a direct relationship between force and acceleration.
+The greater the force that is applied to an object of a given mass, the more the object will accelerate.
+For example, doubling the force on the object doubles its acceleration.
+The relationship between mass and acceleration is different.

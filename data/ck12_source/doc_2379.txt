@@ -1,0 +1,20 @@
+As another example, assume that you want to calculate the volume of the block of wood shown below.
+The volume of the block is represented by the formula:
+Volume = length × width × height
+Therefore, you would do the following calculation:
+Volume = 1.2 cm × 1.0 cm × 1 cm = 1.2 cm 3
+Q:
+Does this answer have the correct number of significant figures?
+A:
+No, it has too many significant figures.
+The correct answer is 1 cm 3 .
+That’s because the height of the block has just one significant figure.
+Therefore, the answer can have only one significant figure.
+Rules for Rounding
+To get the correct answer in the volume calculation above, rounding was necessary.
+Rounding is done when one or more ending digits are dropped to get the correct number of significant figures.
+In this example, the answer was rounded down to a lower number (from 1.2 to 1).
+Sometimes the answer is rounded up to a higher number.
+How do you know which way to round?
+Follow these simple rules:
+If the digit to be rounded (dropped) is less than 5, then round down.

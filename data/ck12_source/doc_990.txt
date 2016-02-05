@@ -1,0 +1,20 @@
+A black hole is a region of space from which gravity prevents anything, including light, from escaping.
+white dwarf:
+A star, approximately the size of the earth, that has undergone gravitational collapse and is in the final stage of evolution for low-mass stars, beginning hot and white and ending cold and dark (black dwarf).
+black dwarf:
+See definition for white dwarf.
+The Hertzsprung-Russell Diagram
+Describe the stars present in each of the significant areas on the Hertzsprung-Russell Diagram.
+The constellation Orion
+The star constellation “Orion, The Hunter”.
+Orion is one of the most beautiful of all constellations, and one of the easiest to find.
+It looks like a large (slightly twisted) rectangle high in winter's south-southeastern sky.
+Two of the brightest stars in the evening sky lie at opposite corners of the rectangle: bright orange-red Betelgeuse at the northeastern corner (upper left in the photo) and even brighter Rigel at the southwest (lower right in the photo).
+Betelgeuse is at least 300 times the Sun's diameter, and perhaps much more.
+It puts out about 100,000 times more energy than the Sun does.
+When Betelgeuse dies, it will create a fireball that will briefly outshine billions of normal stars.
+Betelgeuse is a red giant and Rigel is a blue giant.
+The Hertzsprung-Russell diagram (often referred to as the H-R diagram) is a scatter graph that shows various classes of stars in the context of properties such as their luminosity , absolute magnitude, color, and effective temperature.
+Created around 1910 by Ejnar Hertzsprung and Henry Norris Russell, the diagram provided a great help in understanding stellar evolution.
+There are several forms of the Hertzsprung-Russell diagram, and the nomenclature is not very well defined.
+The original diagram displayed the spectral type of stars on the horizontal axis and the absolute magnitude on the vertical axis.

@@ -1,0 +1,20 @@
+ENCODE was a colossal project, involving over 440 scientists in 32 labs the world-over, whose goal was to understand the human genome.
+It had been thought that about 80% of the human genome was "junk" DNA.
+ENCODE has established that this is not true.
+Now it is thought that about 80% of the genome is active.
+In fact, much of the human genome is regulatory sequences, on/off switches that tell our genes what to do and when to do it.
+Dr.
+Eric Green, director of the NHGRI, which organized this project, states, "It's this incredible choreography going on, of a modest number of genes and an immense number of ... switches that are choreographing how those genes are used."
+It is now thought that at least three-quarters of the genome is involved in making RNA, and most of this RNA appears to help regulate gene activity.
+Scientists have also identified about 4 million sites where proteins bind to DNA and act in a regulatory capacity.
+These new findings demonstrate that the human genome has remarkable and precise, and complex, controls over the expression of genetic information within a cell.
+See ENCODE data describes function of human genome at for additional information.
+allele :
+An alternative form or different version of a gene.
+GenBank :
+The NIH genetic sequence database, a collection of all publicly available DNA sequences.
+human genome :
+All of the hereditary information encoded in the DNA of homo sapiens , including the genes and non-coding sequences.
+Human Genome Project (HGP) :
+A project to understand the genetic make-up of the human species by determining the DNA sequence of the human genome and the genome of a few model organisms.
+National Center for Biotechnology Information (NCBI) :

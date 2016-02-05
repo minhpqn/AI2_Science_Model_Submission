@@ -1,0 +1,20 @@
+Do you care about the distance the scissors have traveled or their displacement?
+Explain your answer.
+You’re trying to predict how long it’s going to take to get to Los Angeles for the long weekend.
+Do you care about the distance you’ll travel or your displacement?
+Explain your answer.
+discuss in class
+No, displacement is 'as the crow flies' so to speak, while distance takes into account the curves and turns that the fox takes.
+Explain the meaning of speed, velocity and average velocity.
+Students will learn the meaning of speed, velocity and average velocity.
+Speed = distance/time
+v_{avg} & = \frac{\boldsymbol{\Delta} x}{\Delta t} \\
+Guidance Speed is the distance traveled divided by the time it took to travel that distance.
+Velocity is the instantaneous speed and direction.
+Average velocity is the displacement divided by the time.
+Pacific loggerhead sea turtles migrate over 7,500 miles (12,000 km) between nesting beaches in Japan and feeding grounds off the coast of Mexico.
+If the average speed of a loggerhead is about 45 km/day, how long does it take for it to complete the distance of a one-way migration?
+Question: t = ? [days]
+Given: d = 12,000 \ km
+{\;} \qquad v_{avg} = 45 \ km/day
+Equation: v_{avg} = \frac{d}{t} therefore t = \frac{d}{v_{avg}}

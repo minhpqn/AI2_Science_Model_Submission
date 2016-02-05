@@ -1,0 +1,20 @@
+These nuclear reactors were originally designed at the Oak Ridge National Laboratory for use as nuclear submarine power plants.
+The total mass of a stable nucleus is always less than the sum of the masses of its constituent protons and neutrons.
+This is known as mass defect .
+As an example of this, consider the mass of a ^4_2 He nucleus compared to the sum of the masses of its constituent nucleons.
+The mass of a ^4_2 He  nucleus is 4.002603 amu.
+The mass of two neutrons and two protons is (2)(1.008665 \ \text{amu}) + (2)(1.007825 \ \text{amu}) = 4.032980 \ \text{amu} .
+Thus, the mass of the helium-4 nucleus is 0.030377 amu less than the masses of its constituents.
+The lost mass has gone into energy that is called binding energy .
+The binding energy is equal to the amount of energy that would have to be put into the helium-4 nucleus in order to break it into its constituent protons and neutrons.
+Without the binding energy, the repulsion between the protons would blow this nucleus apart.
+We often refer to the average binding energy per nucleon which is defined as the total binding energy of a nucleus divided by the number of nucleons in the nucleus.
+Each nucleus, therefore, has competing forces.
+The repulsive force between the protons tends to blow the nucleus apart and the binding energy tends to hold the nucleus together.
+If the average binding energy per nucleon overcomes the repulsion, the nucleus stays together and it referred to as stable.
+If the repulsion overcomes the average binding energy per nucleon, the nucleus may blow apart or undergo nuclear disintegration .
+When a nucleus disintegrates, it throws off pieces of itself and energy in the form of gamma rays .
+This disintegration process came to be called radioactivity .
+Early researchers in radioactivity found that the emissions from radioactivity could be classified into three distinct types according to their penetrating power.
+One type of radiation could barely penetrate a sheet of paper.
+The second type could pass through as much as 3 mm of aluminum.

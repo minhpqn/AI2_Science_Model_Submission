@@ -1,0 +1,20 @@
+Nonpolar molecules such as those found in grease or oil do not dissolve in water.  We will first examine the process that occurs when an ionic compound such as table salt (sodium chloride) dissolves in water.
+Water molecules move about continuously due to their kinetic energy.
+When a crystal of sodium chloride is placed into water, the water’s molecules collide with the crystal lattice.
+Recall that the crystal lattice is composed of alternating positive and negative ions.
+Water is attracted to the sodium chloride crystal because water is polar and has both a positive and a negative end.
+The positively charged sodium ions in the crystal attract the oxygen end of the water molecules because they are partially negative.
+The negatively charged chloride ions in the crystal attract the hydrogen end of the water molecules because they are partially positive.
+The action of the polar water molecules takes the crystal lattice apart (see image below).
+When salt dissolves, the component ions are surrounded by water molecules
+After coming apart from the crystal, the individual ions are then surrounded by solvent particles in a process called solvation .  Note that the individual Na + ions are surrounded by water molecules with the oxygen atom oriented near the positive ion.  Likewise, the chloride ions are surrounded by water molecules with the opposite orientation.  Hydration is the process of solute particles being surrounded by water molecules arranged in a specific manner.
+Hydration helps to stabilize aqueous solutions by preventing the positive and negative ions from coming back together and forming a precipitate.
+Table sugar is sucrose (C 12 H 22 O 11 ) and is an example of a molecular compound.  Solid sugar consists of individual sugar molecules held together by intermolecular attractive forces.  When water dissolves sugar, it separates the individual sugar molecules by disrupting the attractive forces, but does not break the covalent bonds between the carbon, hydrogen, and oxygen atoms.  Dissolved sugar molecules are also hydrated, but without as distinct an orientation to the water molecules as in the case of the ions.
+The sugar molecule contains many -OH groups that can form hydrogen bonds with the water molecules, helping form the sucrose solution.
+Motion of water molecules helps break up interactions between solid ions or molecules.
+Solvation involves surrounding ions with solvent particles.
+Ionic solute molecules are hydrated (surrounded by solvent molecules in a specific orientation).
+Use the link below to answer the following questions:
+Does the bond-breaking step require energy or release energy?
+Does the hydration process require energy or release energy?
+Does the distribution of solvent-solute clusters require energy or release energy?

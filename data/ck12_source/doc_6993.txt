@@ -1,0 +1,20 @@
+You can make a real image of an object by putting it farther from a mirror or lens than the focal length.
+Virtual images are typically right-side-up.
+You can make virtual images by moving the lens closer to the object than the focal length.
+In ray tracing problems, you will do a careful ray tracing with a ruler (including the extrapolation of rays for virtual images).
+It is best if you can use different colors for the three different ray tracings.
+When sketching diverging rays, you should use dotted lines for the extrapolated lines in front of a lens in order to produce the virtual image.
+When comparing measured distances and heights to calculated distances and heights, values within 10 % are considered “good.” Use the Table ( below ) as your guide.
+( convex )
+Ray #1:
+Leaves tip, travels parallel to optic axis, refracts and travels through to the focus.
+Ray #2:
+Leaves tip, travels through focus on same side, travels through lens, and exits lens parallel to optic axis on opposite side.
+Ray #3:
+Leaves tip, passes straight through center of lens and exits without bending.
+( concave )
+Ray #1:
+Leaves tip, travels parallel to optic axis, refracts OUTWARD by lining up with focus on the SAME side as the candle.
+Ray #2:
+Leaves tip, heads toward the focus on the OPPOSITE side, and emerges parallel from the lens.
+Ray #3:

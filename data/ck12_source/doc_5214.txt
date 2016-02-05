@@ -1,0 +1,20 @@
+Unfortunately, Darwin knew nothing of Mendel's discoveries and didn’t understand heredity.
+This made his arguments about evolution less convincing to many people.
+This is an example of the importance of the scientific inquiry mindset elimination of bias.
+Even though he had repeated his studies using thousands of pea plants, and applied statistics to analyze his findings, Mendel's work was initially rejected as most biologists still believed in blending inheritance, and they did not understand his laws.
+It was not until after he died (January 6, 1884) that his work gained wide acceptance.
+By 1900, research into discontinuous inheritance - why do traits "disappear" in the F 1 generation? - led to independent duplication of Mendel's work by Hugo de Vries and Carl Correns, and then the rediscovery of Mendel's writings and laws.
+Soon afterwards, other biologists started to establish genetics , the study of heredity, as a science.
+Linked Genes on Chromosomes
+We now know that the only alleles that are inherited independently are ones that are located far apart on a chromosome or that are on different chromosomes.
+There are many genes that are close together on a chromosome, and are packaged into the gametes together.
+Genes that are inherited in this way are called linked genes .
+Linked genes tend to be inherited together because they are located on the same chromosome; that are located at the same locus.
+Genes located for apart on the same chromosome, at different loci , may be inherited separately due to a possible genetic recombination event during prophase I of meiosis.
+Genetic linkage was first discovered by the British geneticists William Bateson and Reginald Punnett shortly after Mendel's laws were rediscovered.
+dihybrid :
+Offspring that result from a dihybrid cross.
+dihybrid cross :
+A cross in which the inheritance of two characteristics are tracked at the same time.
+genetics :
+The branch of biology that focuses on heredity in organisms; the study of heredity.

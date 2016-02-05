@@ -1,0 +1,20 @@
+Use vector arrows to represent the velocity of a car that travels north at 50 mi/h and then travels east at 25 mi/h.
+Another car travels northwest for 2 hours and covers a distance of 90 miles.
+What is the average velocity of the car?
+Give examples of acceleration.
+Describe how it feels to accelerate.
+Imagine the thrill of riding on a roller coaster like this one!
+The coaster slowly crawls to the top of the track and then flies down the other side.
+It also zooms around twists and turns at breakneck speeds.
+These changes in speed and direction are what make a roller coaster ride so exciting.
+Changes in speed or direction are called acceleration.
+Acceleration is a measure of the change in velocity of a moving object.
+It measures the rate at which velocity changes.
+Velocity, in turn, is a measure of the speed and direction of motion, so a change in velocity may reflect a change in speed, a change in direction, or both.
+Both velocity and acceleration are vectors.
+A vector is any measurement that has both size and direction.
+People commonly think of acceleration as in increase in speed, but a decrease in speed is also acceleration.
+In this case, acceleration is negative and called deceleration.
+A change in direction without a change in speed is acceleration as well.
+Q:
+Can you think of an example of acceleration that doesn’t involve a change in speed?

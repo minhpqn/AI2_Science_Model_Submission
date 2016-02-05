@@ -1,0 +1,20 @@
+\frac{178.2 \ \text{days}}{59.4 \ \text{days}/ \text{half-life}} = 3 \ \text{half-lives}
+Then we simply count activity:
+\text{initial activity}\ (t_0) &= 32,000 \ \text{cpm} \\\text{after one half-life} &= 16,000 \ \text{cpm} \\\text{after two half-lives} &= 8,000 \ \text{cpm} \\\text{after three half-lives} &= 4,000 \ \text{cpm}
+Be sure to keep in mind that the initial count is at time zero  (t_0) and we subtract from that count at the first half-life.
+The second half-life has an activity of half the previous count (not the initial count).
+For the more mathematically inclined, the following formula can be used to calculate the amount of radioactivity remaining after a given time:
+N_t = N_0 \times (0.5)^{\text{number of half-lives}}
+where N_t = \text{activity at time} \ t
+N_0 = \text{initial activity at time} = 0
+If we have an initial activity of 42,000 cpm, what will the activity be after four half-lives?
+N_t &=N_0(0.5)^4 \\&=(42,000)(0.5)(0.5)(0.5)(0.5) \\&=2625 \ \text{cpm}
+Graph of a typical radioactive decay curve
+Typical radioactive decay curve.
+The graph above illustrates a typical decay curve for a radioactive material.
+The activity decreases by one-half during each succeeding half-life.
+Half-lives of different elements vary considerably, as shown in Table below :
+2.1 million years
+We have talked about the activity and decay of individual isotopes.
+In the real world, there is a decay chain that takes place until a stable end-product is produced.
+For U-238, the chain is a long one, with a mix of isotopes having very different half-lives.

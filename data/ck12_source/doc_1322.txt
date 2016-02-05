@@ -1,0 +1,20 @@
+There are two major types of seismic waves.
+Body waves travel through the Earth’s interior.
+Surface waves travel along the ground surface.
+In an earthquake, body waves are responsible for the sharp jolts.
+Surface waves are responsible for the rolling motions that do most of the damage in an earthquake.
+Primary waves (P-waves) and secondary waves (S-waves) are the two types of body waves ( Figure below ).
+Body waves move at different speeds through different materials.
+P-waves are faster.
+They travel at about 6 to 7 kilometers (about 4 miles) per second.
+Primary waves are so named because they are the first waves to reach a seismometer.
+P-waves squeeze and release rocks as they travel.
+The material returns to its original size and shape after the P-wave goes by.
+For this reason, P-waves are not the most damaging earthquake waves.
+P-waves travel through solids, liquids, and gases.
+S-waves are slower than P-waves.
+They are the second waves to reach a seismometer.
+S-waves move up and down.
+They change the rock’s shape as they travel.
+S-waves are about half as fast as P-waves, at about 3.5 km (2 miles) per second.
+S-waves can only move through solids.

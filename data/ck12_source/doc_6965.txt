@@ -1,0 +1,20 @@
+Does the voltage of the capacitor increase, decrease or stay the same?
+Explain
+The dielectric is now removed from the middle with battery attached.
+What happens?
+Answers to Selected Problems
+a. 100 \;\mathrm{V} b.
+Because as charges build up they repel each other from the plate and a greater voltage is needed to create a stronger electric field forcing charge to flow
+a. decrease b. negative work ('sucked in') c.
+Goes back up to what it was before inserted dielectric d.
+V is constant, since capacitance goes down, charge must go down.
+There's probably a discharge across the capacitor.
+Describe how energy is stored in a capacitor and calculate said energy.
+Students learn how energy is stored in a capacitor and how to calculate said energy.
+The electric potential energy, U_{\text{C}}  , stored in the capacitor is given by
+U_{\text{C}} = \frac{1}{2}CV^2
+Suppose we have two parallel metal plates set a distance d from one another.
+We place a positive charge on one of the plates and a negative charge on the other.
+In this configuration, there will be a uniform electric field between the plates pointing from, and normal to, the plate carrying the positive charge.
+The magnitude of this field is given by E = \frac{V}{d} where V is the potential difference (voltage) between the two plates.
+The amount of charge, Q , held by each plate is given by Q = CV where again V is the voltage difference between the plates and C is the capacitance of the plate configuration.

@@ -1,0 +1,20 @@
+It acts almost like the "skin" of the cell, controlling the movement of substances in and out of cells.
+The cell membrane is semi-permeable , allowing only select ions and organic molecules to enter and/or leave the cell.
+The cell membrane consists of two layers of phospholipids (a lipid bilayer) with embedded proteins which have numerous functions.
+More about the cell membrane will be discussed in the The Plasma Membrane (Advanced) concepts.
+Cytoplasm is the general term for all of the material inside the cell, excluding the nucleus of eukaryotic cells.
+All the contents of a prokaryotic cell are contained within the cytoplasm.
+Cytoplasm is made up of cytosol , a watery fluid that contains cytoskeletal fragments, dissolved particles and organelles.
+Organelles are structures that carry out specific functions inside the cell.
+It is within the cytoplasm that most cellular activities occur, such as many metabolic pathways and processes such as cell division.
+More about the cytoplasm will be discussed in the Cell Structures:
+The Cytoplasm and Cytoskeleton (Advanced) concept.
+Ribosomes are the organelles on which proteins are made during protein synthesis .
+Ribosomes are found throughout the cytosol of the cell and attached to the endoplasmic reticulum organelle.
+Ribosomes order amino acids using messenger RNA (mRNA) as a template in a process called translation.
+Ribosomes are made from complexes of ribosomal RNAs (rRNA) and proteins called ribonucleoproteins .
+Each ribosome is divided into two subunits.
+The smaller subunit binds to the mRNA pattern, while the larger subunit binds to the transfer RNA (tRNA) and the growing polypeptide chain.
+More about the ribosome will be discussed in the Cell Structures:
+Ribosomes (Advanced) concept.
+All cells also have DNA .

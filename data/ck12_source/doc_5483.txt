@@ -1,0 +1,20 @@
+Predict the risk of future development of a disease in otherwise healthy individuals or their children.
+Identify carriers (unaffected individuals who are heterozygous for a recessive disease gene).
+Perform prenatal diagnostic screening.
+Perform newborn screening.
+Consultations with human geneticists and genetic counselors are an important first step in genetic testing.
+They will most likely prescribe some sort of prenatal screening (see the Human Genetics:
+Diagnosis and Treatment (Advanced) concept).
+Prenatal screening (also known as prenatal diagnosis or prenatal testing) is the testing for diseases or conditions in a fetus or embryo before it is born.
+Methods may involve amniocentesis or chorionic villus sampling to remove fetal cells.
+DNA can be isolated from these cells and analyzed.
+If the mutation that results in the phenotype is known, that specific base can be analyzed, either through restriction fragment length polymorphism analysis or, more likely, through PCR and DNA sequence analysis.
+As it is the baby’s DNA that is being analyzed, the analysis will determine if the developing baby will have the mutation and develop the phenotype, or not have the mutation.
+Parents can then be informed of the probability of the baby developing the disease.
+In human genetics, preimplantation genetic diagnosis (PIGD) is genetic analysis performed on embryos prior to implantation.
+PIGD is considered an alternative to prenatal diagnosis.
+Its main advantage is that it avoids selective pregnancy termination, as the method makes it highly likely that the baby will be free of the disease in question.
+In PIGD, in vitro fertilization is used to obtain embryos for analysis.
+DNA is isolated from developing embryos prior to implantation, and specific genetic loci are screened for mutations, usually using PCR based analysis.
+Embryos that lack the specific mutation can then be implanted into the mother, thereby guaranteeing that the developing baby will not have the specific mutation analyzed for (and thus not have the disease associated with that mutation).
+KQED:

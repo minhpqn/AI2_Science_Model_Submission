@@ -1,0 +1,20 @@
+\Delta S = \text{change in entropy (J/K} \cdot \text{mol)}
+T = \text{temperature (Kelvin)}
+Note that all values are for substances in their standard state.
+In performing calculations, it is necessary to change the units for \Delta S to kJ/K • mol, so that the calculation of \Delta G  is in kJ/mol.
+Sample Problem:
+Gibbs Free Energy
+Methane gas reacts with water vapor to produce a mixture of carbon monoxide and hydrogen according to the balanced equation below.
+\text{CH}_4(g)+\text{H}_2\text{O}(g) \rightarrow \text{CO}(g)+3\text{H}_2(g)
+The  \Delta H^\circ for the reaction is +206.1 kJ/mol, while the \Delta S^\circ is +215 J/K • mol .
+Calculate the  \Delta G^\circ at 25°C and determine if the reaction is spontaneous at that temperature.
+Step 1:
+List the known values and plan the problem.
+\Delta H^\circ =206.1 \ \text{kJ/mol}
+\Delta S^\circ = 215 \ \text{J/K}\cdot \text{mol}=0.215 \ \text{kJ/K}\cdot \text{mol}
+T =25^\circ \text{C}=298 \ \text{K}
+\Delta G^\circ =? \ \text{kJ/mol}
+Prior to substitution into the Gibbs free energy equation, the entropy change is converted to  kJ/K • mol and the temperature to Kelvins.
+Step 2:
+Solve.
+\Delta G^\circ =\Delta H^\circ - T\Delta S^\circ = 206.1 \ \text{kJ/mol} - 298 \ \text{K}(0.215 \ \text{kJ/K}\cdot \text{mol})=+142.0 \ \text{kJ/mol}

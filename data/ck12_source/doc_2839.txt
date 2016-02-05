@@ -1,0 +1,20 @@
+A radioactive isotope, or radioisotope, has atoms with unstable nuclei.
+The unstable nuclei naturally decay, or break down, by losing energy and particles of matter to become more stable.
+If they gain or lose protons as they decay, they become different elements.
+Over time, as the nuclei continue to decay, less and less of the original radioisotope remains.
+Rate of Radioactive Decay
+A radioisotope decays and changes to a different element at a constant rate.
+The rate is measured in a unit called the half-life .
+This is the length of time it takes for half of a given amount of the radioisotope to decay.
+This rate is always the same for a given radioisotope, regardless of temperature, pressure, or other conditions outside the nuclei of its atoms.
+Q:
+How is repeatedly cutting paper in half like the decay of a radioisotope?
+A:
+As a radioisotope decays, the amount of the radioisotope decreases by half during each half-life, just as a piece of paper decreases in size by half each time you cut it down the center.
+You can see a video of this half-life analogy at the following URL.
+The concept of half-life is illustrated in the Figure below for the decay of phosphorus-32 to sulfur-32.
+The half-life of phosphorus-32 is 14 days.
+After 14 days, half of the original amount of phosphorus-32 has decayed, so only half remains.
+After another 14 days, half of the remaining amount (or a quarter of the original amount) is still left, and so on.
+Diagram illustrating half-life of radioactive samples
+Q:

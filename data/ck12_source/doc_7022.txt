@@ -1,0 +1,20 @@
+Heat is supplied to the engine from some source at a higher temperature  (T_h)  .
+Some of this heat is transferred into mechanical energy through work done  (W)  .
+The rest of the input heat is transferred to some source at a lower temperature  (T_c)  until the system is in its original state.
+A single cycle of such an engine can be illustrated as follows:
+In effect, such an engine allows us to 'siphon off' part of the heat flow between the heat source and the heat sink.
+The efficiency of such an engine is define as the ratio of net work performed to input heat; this is the fraction of heat energy converted to mechanical energy by the engine:  e = \frac{W}{Q_i} && \text{Efficiency of a heat engine}
+If the engine does not lose energy to its surroundings (of course, all real engines do), then this efficiency can be rewritten as
+e = \frac{Q_i-Q_o}{Q_i} && \text{Efficiency of a lossless heat engine}
+An ideal engine, the most efficient theoretically possible, is called a Carnot Engine.
+Its efficiency is given by the following formula, where the temperatures are, respectively, the temperature of the exhaust environment and the temperature of the heat input, in Kelvins.
+In a Carnot engine heat is input and exhausted in isothermal cycles, and the efficiency is \eta = 1 -\frac{T_{\mathrm{cold}}}{T_\mathrm{hot}}  .
+In all real engines heat is lost to the environment, thus the ideal efficiency is never even close to being obtained.
+The Stirling engine is a real life heat engine that has a cycle similar to the theoretical Carnot cycle.
+The Stirling engine is very efficient compared to a gasoline engine and could become an important player in today's world where green energy and efficiency will reign supreme.
+Some Important Points
+In a practical heat engine, the change in internal energy must be zero over a complete cycle.
+Therefore, over a complete cycle W = \Delta Q .
+The work done by a gas during a portion of a cycle = P\Delta\!V , note \Delta\!V can be positive or negative.
+Gas Heat Engines
+When gas pressure-forces are used to move an object then work is done on the object by the expanding gas.

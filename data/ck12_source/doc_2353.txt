@@ -1,0 +1,20 @@
+Variables might include factors relating to the ramp or to the object.
+An example of a variable relating to the ramp is its steepness.
+An example of a variable relating to the object is the way it moves—it might roll or slide down the ramp.
+Either of these variables could be manipulated by the researcher, so you could choose one of them for your manipulated variable.
+Assume you are sliding wooden blocks down a ramp in your experiment.
+You choose steepness of the ramp for your manipulated variable.
+You want to measure how changes in steepness affect the time it takes a block to reach the bottom of the ramp.
+You decide to test two blocks on two ramps, one steeper than the other, and see which block reaches the bottom first.
+You use a shiny piece of varnished wood for one ramp and a rough board for the other ramp.
+You raise the rough board higher so it has a steeper slope (see sketch below).
+You let go of both blocks at the same time and observe that the block on the ramp with the gentler slope reaches the bottom sooner.
+You’re surprised, because you expected the block on the steeper ramp to go faster and get to the bottom first.
+Q:
+What explains your result?
+A:
+The block on the steeper ramp would have reached the bottom sooner if all else was equal.
+The problem is that all else was not equal.
+The ramps varied not only in steepness but also in smoothness.
+The block on the smoother ramp went faster than the block on the rougher ramp, even though the rougher ramp was steeper.
+This example illustrates another important aspect of experiments: experimental controls.

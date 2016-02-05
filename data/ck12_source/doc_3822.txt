@@ -1,0 +1,20 @@
+Knowing the genotypes of each population member, we can count the number of alleles of each type in the gene pool.
+The table shows how this is done.
+Number of Individuals in the Population with that Genotype
+Number of Allele A Contributed to the Gene Pool by that Genotype
+Number of Allele a Contributed to the Gene Pool by that Genotype
+Let the letter p stand for the frequency of allele A .
+Let the letter q stand for the frequency of allele a .
+We can calculate p and q as follows:
+p = number of A alleles/total number of alleles = 140/200 = 0.7
+q = number of a alleles/total number of alleles = 60/200 = 0.3
+Notice that p + q = 1.
+Evolution occurs in a population when allele frequencies change over time.
+What causes allele frequencies to change?
+That question was answered by Godfrey Hardy and Wilhelm Weinberg in 1908 (see the Hardy-Weinberg Theorem concept).
+Microevolution occurs over a short period of time in a population or species.
+Macroevolution occurs over geologic time above the level of the species.
+The population is the unit of evolution.
+A population’s gene pool consists of all the genes of all the members of the population.
+For a given gene, the population is characterized by the frequency of different alleles in the gene pool.
+Use this resource to answer the questions that follow.

@@ -1,0 +1,20 @@
+It includes all digits that can be read directly from the measuring device plus one estimated digit.
+Look at the sketch of a beaker below.
+How much blue liquid does the beaker contain?
+The top of the liquid falls between the mark for 40 mL and 50 mL, but it’s closer to 50 mL.
+A reasonable estimate is 47 mL.
+In this measurement, the first digit (4) is known for certain and the second digit (7) is an estimate, so the measurement has two significant figures.
+Now look at the graduated cylinder sketched below.
+How much blue liquid does it contain?
+First, it’s important to note that you should read the amount of liquid at the bottom of its curved surface.
+This falls about half way between the mark for 36 mL and the mark for 37 mL, so a reasonable estimate would be 36.5 mL.
+Q:
+How many significant figures does this measurement have?
+A:
+There are three significant figures in this measurement.
+You know that the first two digits (3 and 6) are accurate.
+The third digit (5) is an estimate.
+Rules for Counting Significant Figures
+The examples above show that it’s easy to count the number of significant figures when you are making a measurement.
+But what if someone else has made the measurement?
+How do you know which digits are known for certain and which are estimated?

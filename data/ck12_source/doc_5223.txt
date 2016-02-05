@@ -1,0 +1,20 @@
+Using Probability in a Heterozygous Cross
+We can calculate the probability of any one of the offspring being heterozygous ( Pp ) or homozygous ( PP or pp ) for flower color.
+The probability of a plant inheriting the P or p allele from a heterozygous parent is ½.
+Multiply the probabilities of inheriting both alleles to find the probability that any one plant will be a pp homozygote.
+½ × ½ = ¼ or 0.25
+Only 25 %, or one outcome out of four, will result in a plant homozygous for white flower color ( pp ).
+The possibility that any one plant will be a PP homozygote is also 1/4.
+The heterozygous allele combination can happen twice ( Pp or pP ), so the two probabilities are added together ¼ + ¼ = 2/4, or ½.
+The probability that an offspring plant will be Pp heterozygous is ½.
+probability :
+The likelihood, or chance, that a certain event will occur.
+Probability is the likelihood that a certain event will occur.
+It is expressed by comparing the number of events that actually occur to the total number of possible events.
+Probability can be expressed as a fraction, decimal, or ratio.
+Use this resource to answer the questions that follow.
+Fundamentals of Inheritance at
+Define probability as a sentence.
+Define probability as a fraction.
+What is the probability of cutting a deck of playing cards and getting an ace?
+How can you determine the probability of two independent events that occur together?

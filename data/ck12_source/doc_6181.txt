@@ -1,0 +1,20 @@
+The chemical nature of the solute is not important because the vapor pressure is merely a physical property of the solvent.
+The only requirement is that the solute only dissolved and does not undergo a chemical reaction with the solvent.
+While the chemical nature of the solute is not a factor, it is necessary to take into account whether the solute is an electrolyte or a nonelectrolyte.
+Recall that ionic compounds are strong electrolytes and thus dissociate into ions when they dissolve.
+This results in a larger number of dissolved particles.
+For example, consider two different solutions of equal concentration.
+One is made from the ionic compound sodium chloride, while the other is made from the molecular compound glucose.
+The following equations show what happens when these solutes dissolve.
+& \text{NaCl}(s) \rightarrow \text{Na}^+(aq)+\text{Cl}^-(aq) && 2 \ \text{dissolved particles}\\& \text{C}_6\text{H}_{12}\text{O}_6(s) \rightarrow \text{C}_6\text{H}_{12}\text{O}_6(aq) && 1 \ \text{dissolved particle}
+The sodium chloride dissociates into two ions, while the glucose does not dissociate.
+Therefore, equal concentrations of each solution will result in twice as many dissolved particles in the case of the sodium chloride.
+The vapor pressure of the sodium chloride solution will be lowered twice the amount as the glucose solution.
+Addition of a nonvolatile solute to a solution lowers the vapor pressure of the solution.
+Watch the video at the link given and answer the following questions:
+Click on the image above for more content
+What happens between the water molecules and the solute molecules?
+How does this affect vapor pressure?
+What is a non-volatile material?
+The boiling point of diethyl ether is 34.6°C.
+Would this compound be considered non-volatile?

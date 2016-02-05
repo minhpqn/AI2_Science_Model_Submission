@@ -1,0 +1,20 @@
+The image looks very real until you try to touch it.
+What is the focal length of the concave mirror?
+Answers to Selected Problems
+C. +4 units e.
+M=-1
+a. 6 units c. bigger;
+M = 3
+c. 1.5 units e.
+M=2/3
+Describe how light behaves when passing through converging and diverging lenses.
+Use ray tracing diagrams and calculate image distances and magnification using the lens' maker's equation.
+Students will learn how light behaves when passing through converging and diverging lenses.
+Students will also learn how to do ray tracing diagrams and calculate image distances and magnification using the lens' maker's equation.
+\frac{1}{f} = \frac{1}{d_o} +\frac{1}{d_i} \;  ;
+The len's maker's equation
+Where f is the focal length of the lens,  d_o  is the distance of the object from the lens and  d_i  is the distance the image is formed from the lens.
+M = \frac{-d_i}{d_0}
+The size of an object’s image is larger (or smaller) than the object itself by its magnification, M .
+The level of magnification is proportional to the ratio of d_i and d_o .
+An image that is double the size of the object would have magnification M = 2 .

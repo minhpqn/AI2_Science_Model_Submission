@@ -1,0 +1,20 @@
+How do you purify water?
+Purification of water for drinking and other uses is a complicated process.
+Heavy metals need to be removed, a process accomplished by addition of carbonates and sulfates.
+Lead contamination can present major health problems, especially for younger children.
+Lead sulfates and carbonates are very insoluble, so will precipitate out of solution very easily.
+Conversion of  K_{sp} to Solubility
+Solubility Product Constants (25°C)
+Ca 3 (PO 4 ) 2
+The known  K_{sp} values from the Table above can be used to calculate the solubility of a given compound by following the steps listed below.
+Set up an ICE problem (Initial, Change, Equilibrium) in order to use the  K_{sp} value to calculate the concentration of each of the ions.
+The concentration of the ions leads to the molar solubility of the compound.
+Use the molar mass to convert from molar solubility to solubility.
+The  K_{sp} of calcium carbonate is 4.5 × 10 -9 .
+We begin by setting up an ICE table showing the dissociation of CaCO 3 into calcium ions and carbonate ions.
+The variable  s will be used to represent the molar solubility of CaCO 3 .
+In this case, each formula unit of CaCO 3 yields one Ca 2+ ion and one CO 3 2− ion.
+Therefore, the equilibrium concentrations of each ion are equal to s .
+& \text{CaCO}_3(s) \quad \rightleftarrows \quad \text{Ca}^{2+}(aq)+ \text{CO}_3^{2-}(aq) \\\text{Initial }(\text{M}) & \qquad \qquad \qquad \qquad \quad 0.00 \qquad \quad \ 0.00 \\\text{Change }(\text{M}) & \qquad \qquad \qquad \qquad \quad +s \qquad \quad +s \\\qquad \text{Equilibrium }(\text{M}) & \qquad \qquad \qquad \qquad \qquad \ s \qquad \qquad s
+The  K_{sp} expression can be written in terms of  s and then used to solve for s .
+K_{sp}&=[ \text{Ca}^{2+}][ \text{CO}_3^{2-}]=(s)(s)=s^2 \\s&=\sqrt{K_{sp}}=\sqrt{4.5 \times 10^{-9}}=6.7 \times 10^{-5} \ \text{M}

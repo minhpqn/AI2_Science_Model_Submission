@@ -1,0 +1,20 @@
+It shows how natural selection can keep a harmful allele in a gene pool.
+You can also watch a video about natural selection and sickle-cell anemia at this link:
+Sickle-cell anemia blood cells, and normal red blood cell
+Sickle Cell and Natural Selection.
+Notice the normal-shaped red blood cell on the left, and the sickle-shaped cell on the right.
+100% normal hemoglobin
+Somewhat reduced fitness because of no resistance to malaria
+Enough normal hemoglobin to prevent sickle-cell anemia
+Highest fitness because of resistance to malaria
+100% abnormal hemoglobin, causing sickle-cell anemia
+Greatly reduced fitness because of sickle-cell anemia
+Here’s how natural selection can keep a harmful allele in a gene pool:
+The allele ( S ) for sickle-cell anemia is a harmful autosomal recessive.
+It is caused by a mutation in the normal allele ( A ) for hemoglobin (a protein on red blood cells).
+Malaria is a deadly tropical disease.
+It is common in many African populations.
+Heterozygotes ( AS ) with the sickle-cell allele are resistant to malaria.
+Therefore, they are more likely to survive and reproduce.
+This keeps the S allele in the gene pool.
+The sickle-cell example shows that fitness depends on phenotypes.

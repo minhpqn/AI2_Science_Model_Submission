@@ -1,0 +1,20 @@
+Calculate the distance that the stunt driver should land from the bottom of the cliff.
+\mathrm{g} \sin \theta
+b.  20\;\mathrm{N} c. 4.9\;\mathrm{N} d. 1.63 \;\mathrm{kg} e.
+Eraser would slip down the wall
+a. 1450\;\mathrm{N} b. 5600\;\mathrm{N} c. 5700\;\mathrm{N} d.
+Friction between the tires and the ground e.
+Fuel, engine, or equal and opposite reaction
+b. 210\;\mathrm{N} c. no, the box is flat so the normal force doesn’t change d. 2.8 \;\mathrm{m/s}^2 e.  28 \;\mathrm{m/s} f. no g. 69\;\mathrm{N} h. 57\;\mathrm{N} i. 40\;\mathrm{N} j. 0.33 k.
+a. zero b. -kx0
+b. f_1= \mu_km_1\mathrm{g} \cos\theta; f_2 = \mu_km_2\mathrm{g} \cos\theta c.
+Ma d.
+T_A= (m_1 + m_2) (a + \mu \cos\theta) and T_B = m_2a + \mu m_2 \cos\theta e.
+Solve by using d = 1/2at^2 and substituting h for d
+a.
+Yes, because it is static and you know the angle and m_1 b.
+Yes, T_A and the angle gives you m_1 and the angle and T_C gives you m_2, m_1 = T_A \cos 25/\mathrm{g} and m_2 = T_C \cos 30/\mathrm{g}
+a. 3 seconds d. 90 \;\mathrm{m}
+In this chapter students will gain an understanding of force and what causes changes in motion.
+In addition, students will learn how to solve many different types of problems involving vectors, incline planes, friction, etc.
+An object will not change its state of motion (i.e., accelerate) unless an unbalanced force acts on it.

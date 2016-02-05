@@ -1,0 +1,20 @@
+We also know the frequency because we just found the period, so all we have to do is solve for the amplitude.
+v(t)&=-2\pi fA\cos(2\pi f\Delta t) && \text{start with the equation for velocity}\\\v_{max}&=-2\pi fA\cos(2\pi f\frac{1}{4}T) && \text{put in the terms we know}\\\A&=-\frac{v_{max}}{2\pi f\cos(2\pi f\frac{1}{4}T)} && \text{solve for the amplitude}\\\A&=-\frac{2\:\text{m/s}}{2\pi \frac{1}{2}\:\text{Hz}*\cos(2\pi *\frac{1}{2}\:\text{Hz}*\frac{1}{4}*2\:\text{s})} && \text{plug in the known values}\\\A&=.63\:\text{m}
+Watch this Explanation
+Click on the image above for more content
+Pendulum Lab (PhET Simulation)
+Why doesn’t the period of a pendulum depend on the mass of the pendulum weight?
+Shouldn’t a heavier weight feel a stronger force of gravity?
+The pendulum of a small clock is 1.553\;\mathrm{cm} long.
+How many times does it go back and forth before the second hand goes forward one second?
+On the moon, how long must a pendulum be if the period of one cycle is one second?
+The acceleration of gravity on the moon is one sixth that of Earth.
+Answers to Selected Problems
+We have explored two examples of simple harmonic motion: the pendulum and the mass-spring system in the previous lesson.
+The purpose of this investigation is to get you to notice the connections between the two systems.
+Your task:
+Match the period of the pendulum system with that of the spring system.
+You are only allowed to change the mass involved in the spring system.
+Consider the effective length of the pendulum to be fixed at 2m because that is the distance between the center of mass and the pivot.
+The spring constant(13.5N/m) is also fixed.
+You may use any relationships you have learned about to help you.

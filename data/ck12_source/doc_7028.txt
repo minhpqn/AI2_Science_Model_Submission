@@ -1,0 +1,20 @@
+\gamma = \frac{1}{\sqrt{1-\beta^2}}
+The dimensionless Lorentz “gamma” factor \gamma can be calculated from the speed, and tells you how much time dilation or length contraction there is. 1 \le \gamma \le \infty  .
+T' = \gamma T
+If a moving object experiences some event which takes a period of time T (say, the amount of time between two heart beats), and the object is moving towards or away from you with Lorentz gamma factor \gamma , the period of time T' measured by you will appear longer.
+The speed of light will always be measured to be the same (about 3\times10^8 \;\mathrm{m/s} ) regardless of your motion towards or away from the source of light.
+In order for this bizarre fact to be true, we must reconsider what we mean by ‘space,’ ‘time,’ and related concepts, such as the concept of ‘simultaneous’ events. (Events which are seen as simultaneous by one observer might appear to occur at different times to an observer moving with a different velocity.
+Note that both observers see the same laws of physics, just a different sequence of events.)
+Clocks moving towards or away from you run more slowly, and objects moving towards or away from you shrink in length.
+These are known as Lorentz time dilation and length contraction; both are real, measured properties of the universe we live in.
+Lorentz \gamma Factor
+Electron at the Stanford Linear Accelerator
+Click on the image above for more content
+Watch this Explanation
+Click on the image above for more content
+Suppose you discover a speedy subatomic particle that exists for a nanosecond before disintegrating.
+This subatomic particle moves at a speed close to the speed of light.
+Do you think the lifetime of this particle would be longer or shorter than if the particle were at rest?
+The muon particle (\mu-) has a half-life of 2.20\times10^{-6} \;\mathrm{s} .
+Most of these particles are produced in the atmosphere, a good 5-20 \;\mathrm{km} above Earth, yet we see them all the time in our detectors here on Earth.
+In this problem you will find out how it is possible that these particles make it all the way to Earth with such a short lifetime.

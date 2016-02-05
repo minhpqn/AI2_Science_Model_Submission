@@ -1,0 +1,20 @@
+On the other end of the spectrum, the solubility of zinc hydroxide is only 4.2 × 10 -4  g/L of water at the same temperature.
+Many ionic compounds containing hydroxide are relatively insoluble.
+Most ionic compounds that are considered to be insoluble will still dissolve to a small extent in water.
+These “mostly insoluble” compounds are considered to be strong electrolytes because whatever portion of the compound that dissolved also dissociates.
+As an example, silver chloride dissociates to a small extent into silver ions and chloride ions upon being added to water.
+\text{AgCl}(s) \rightleftarrows \text{Ag}^+(aq)+\text{Cl}^-(aq)
+The process is written as an equilibrium because the dissociation occurs only to a small extent.
+Therefore, an equilibrium expression can be written for the process.
+Keep in mind that the solid silver chloride does not have a variable concentration and so is not included in the expression.
+This equilibrium constant is called the solubility product constant , (K_{sp}) and is equal to the mathematical product of the ions each raised to the power of the coefficient of the ion in the dissociation equation.
+The stoichiometry of the formula of the ionic compound dictates the form of the  K_{sp} expression.
+For example the formula of calcium phosphate is Ca 3 (PO 4 ) 2 .
+The dissociation equation and  K_{sp} expression are shown below:
+\text{Ca}_3(\text{PO}_4)_2(s) \rightleftarrows 3\text{Ca}^{2+}(aq)+2\text{PO}^{3-}_4(aq) \quad K_{sp}=[\text{Ca}^{2+}]^3[\text{PO}^{3-}_4]^2
+The Table below lists solubility product constants for some common nearly insoluble ionic compounds.
+Solubility Product Constants (25°C)
+Ca 3 (PO 4 ) 2
+The solubility product constant is defined.
+Calculations using solubility product constants are illustrated.
+Read the material at the link below and solve the problems at the end of the reading:

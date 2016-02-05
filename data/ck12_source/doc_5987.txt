@@ -1,0 +1,20 @@
+A reaction is also considered to be a decomposition reaction even when one or more of the products are still compounds.
+A metal carbonate decomposes into a metal oxide and carbon dioxide gas.
+For example, calcium carbonate decomposes into calcium oxide and carbon dioxide.
+\text{CaCO}_3(s) \rightarrow \text{CaO}(s)+\text{CO}_2(g)
+Metal hydroxides decompose on heating to yield metal oxides and water.
+Sodium hydroxide decomposes to produce sodium oxide and water.
+2\text{NaOH}(s) \rightarrow \text{Na}_2\text{O}(s)+\text{H}_2\text{O}(g)
+Some unstable acids decompose to produce nonmetal oxides and water.
+Carbonic acid decomposes easily at room temperature into carbon dioxide and water.
+\text{H}_2\text{CO}_3(aq) \rightarrow \text{CO}_2(g)+\text{H}_2\text{O}(l)
+Sample Problem:
+Decomposition Reactions
+When an electric current is passed through pure water, it decomposes into its elements.
+Write a balanced equation for the decomposition of water.
+Step 1:
+Plan the problem
+Water is a binary compound composed of hydrogen and oxygen.
+The hydrogen and oxygen gases produced in the reaction are both diatomic molecules.
+Step 2:
+Solve

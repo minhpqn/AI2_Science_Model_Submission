@@ -1,0 +1,20 @@
+Each human somatic cell (a body cell, or every cell other than a gamete) normally has two sets of chromosomes, one set inherited from each parent.
+These cells are said to have a diploid number of chromosomes.
+Each set contains 23 chromosomes, for a total of 46 chromosomes.
+Each chromosome differs in size, from about 250 million nucleotide pairs on the largest chromosome (chromosome #1) to less than 50 million nucleotide pairs on chromosome #22.
+Each chromosome contains a specific set of genes, as well as regulatory elements and other nucleotide sequences, making each chromosome essential to survival.
+Each pair of chromosomes consists of two chromosomes that are similar in size and shape.
+They contain the same genes at the same loci , though they may have different alleles.
+These pairs of chromosomes are known as homologous chromosomes , or homologues .
+Upon fertilization, a zygote is formed ( Figure below ).
+A zygote is the first cell of a new individual.
+In humans, a zygote contains 23 pairs (or two sets) of chromosomes.
+Any cell containing two sets of chromosomes is said to be diploid.
+The zygote forms from the fusion of two haploid gametes.
+A haploid cell contains one set of chromosomes.
+In humans, a haploid gamete contains 23 chromosomes.
+Biologists use the symbol n to represent one set of chromosomes, and 2n to represent two sets.
+Homologous chromosomes form a pair, one from each parent.
+Homologous chromosomes are similar in size and shape, and contain the same genes, though they may have different alleles.
+Alleles are alternative forms of the same gene.
+This diagram represents two pairs of homologous chromosomes.

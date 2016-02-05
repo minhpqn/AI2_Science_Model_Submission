@@ -1,0 +1,20 @@
+Telomerase is a reverse transcriptase that uses an RNA intermediate to elongate the 3' end of DNA strands in the telomere regions after each replication cycle.
+RNA replication is the copying of one RNA to another.
+Many RNA viruses copy their RNA using RNA replication.
+RNA-dependent RNA polymerases are the enzymes specific for this process, as opposed DNA-dependent RNA polymerase, which catalyzes the transcription of RNA from a DNA template.
+RNA-dependent RNA polymerase is also known as RNA replicase.
+These enzymes are found in many eukaryotic cells, where they are involved in RNA silencing.
+RNA silencing refers to mechanisms of gene silencing, in which the expression of one or more genes is downregulated or entirely suppressed by the binding of an antisense RNA molecule.
+An antisense RNA molecule is a single-stranded RNA that is complementary to a mRNA strand transcribed within a cell.
+These two RNAs bind to each other and prevent translation.
+RNA interference is a form of gene silencing.
+allele :
+An alternative form or different version of a gene.
+antisense RNA :
+A single-stranded RNA molecule that is complementary to a messenger RNA strand transcribed within a cell.
+biopolymer :
+Polymers produced by living organisms; composed of linked monomers such as nucleotides or amino acids; includes DNA, RNA, and proteins.
+central dogma of molecular biology :
+A framework for understanding the transfer of sequence information between sequential information-carrying biopolymers DNA, RNA, and protein.
+gene :
+A segment of DNA that contains information to encode an RNA molecule or a single polypeptide.

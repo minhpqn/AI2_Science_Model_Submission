@@ -1,0 +1,20 @@
+In fact, gravity can act over very long distances.
+However, the farther two objects are from each other, the weaker is the force of gravity between them.
+Less massive objects also have less gravity than more massive objects.
+You are already very familiar with Earth’s gravity.
+It constantly pulls you toward the center of the planet.
+It prevents you and everything else on Earth from being flung out into space as the planet spins on its axis.
+It also pulls objects that are above the surface—from meteors to skydivers—down to the ground.
+Gravity between Earth and the moon and between Earth and artificial satellites keeps all these objects circling around Earth.
+Gravity also keeps Earth and the other planets moving around the much more massive sun.
+Q :
+There is a force of gravity between Earth and you and also between you and all the objects around you.
+When you drop a paper clip, why doesn’t it fall toward you instead of toward Earth?
+A :
+Earth is so much more massive than you that its gravitational pull on the paper clip is immensely greater.
+Gravity and Weight
+Weight measures the force of gravity pulling downward on an object.
+The SI unit for weight, like other forces, is the Newton (N).
+On Earth, a mass of 1 kilogram has a weight of about 10 Newtons because of the pull of Earth’s gravity.
+On the moon, which has less gravity, the same mass would weigh less.
+Weight is measured with a scale, like the spring scale shown in the Figure below .

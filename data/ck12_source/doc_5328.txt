@@ -1,0 +1,20 @@
+Complementary Base Pairs
+The double helical nature of DNA, together with the findings of Chargaff, demonstrated the base-pairing nature of the bases.
+Adenine always pairs with thymine, and guanine always pairs with cytosine ( Figure below ).
+Because of this complementary nature of DNA, the bases on one strand determine the bases on the other strand.
+These complementary base pairs explain why the amounts of guanine and cytosine are present in equal amounts, as are the amounts of adenine and thymine.
+Adenine and guanine are known as purines .
+These bases consist of two ring structures.
+Purines make up one of the two groups of nitrogenous bases.
+Thymine and cytosine are pyrimidines , which have just one ring structure.
+By having a purine always combine with a pyrimidine in the DNA double helix, the distance between the two sugar-phosphate backbones is constant, maintaining the uniform shape of the DNA molecule.
+The two strands in the DNA backbone run in "anti-parallel" directions to each other.
+That is, one of the DNA strands is built in the 5' → 3' direction, while the complementary strand is built in the 3' → 5' direction.
+In the DNA backbone, the sugars are joined together by phosphate groups that form bonds between the third and fifth carbon atoms of adjacent sugars.
+In a double helix, the direction of the nucleotides in one strand is opposite to their direction in the other strand. 5' and 3' each mark one end of a strand.
+A strand running in the 5' → 3' direction that has adenine will pair with base thymine on the complementary strand running in 3' → 5' direction.
+The base-pairing nature of DNA.
+Adenine always pairs with thymine, and they are held together with two hydrogen bonds.
+The guanine-cytosine base pair is held together with three hydrogen bonds.
+Note that one sugar-phosphate backbone is in the 5’ → 3’ direction, with the other strand in the opposite 3’ → 5’ orientation.
+Notice that the 5'-end begins with a free (not attached to the sugar of another nucleotide) phosphate group, while the 3'-end has a free (not attached to the phosphate group of another nucleotide) deoxyribose sugar.

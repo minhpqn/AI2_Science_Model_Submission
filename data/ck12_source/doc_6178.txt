@@ -1,0 +1,20 @@
+\text{Molality} \ (m)=\frac{\text{moles of solute}}{\text{kilograms of solvent}}=\frac{\text{mol}}{\text{kg}}
+Molality differs from molarity only in the denominator.
+While molarity is based on the liters of solution, molality is based on the kilograms of solvent.
+Concentrations expressed in molality are used when studying properties of solutions related to vapor pressure and temperature changes.
+Molality is used because its value does not change with changes in temperature.
+The volume of a solution, on the other hand, is slightly dependent upon temperature.
+Sample Problem:
+Calculating Molality
+Determine the molality of a solution prepared by dissolving 28.60 g of glucose (C 6 H 12 O 6 ) into 250. g of water.
+Step 1:
+List the known quantities and plan the problem.
+mass solute= 28.60 g C 6 H 12 O 6
+mass solvent = 250. g = 0.250 kg
+molar mass C 6 H 12 O 6 = 180.18 g/mol
+molality = ? m
+Convert grams of glucose to moles and divide by the mass of the water in kilograms.
+Step 2:
+Solve.
+28.60 \text{ g C}_6\text{H}_{12}\text{O}_6 \times \frac{1 \text{ mol C}_6\text{H}_{12}\text{O}_6}{180.18 \text{ g C}_6\text{H}_{12}\text{O}_6} &= 0.1587 \text{ mol C}_6\text{H}_{12}\text{O}_6\\\frac{0.1587 \text{ mol C}_6\text{H}_{12}\text{O}_6}{0.250 \text{ kg H}_2\text{O}} &= 0.635 \ m \ \text{C}_6\text{H}_{12}\text{O}_6
+Step 3:

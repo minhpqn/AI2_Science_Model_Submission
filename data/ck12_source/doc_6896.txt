@@ -1,0 +1,20 @@
+Plug n’ Chug: f = \frac{v} {\lambda} = \frac{6.0 \ m/s}{28 \ m} = 0.21 \ Hz
+Answer: \boxed{\mathbf{0.21 \ Hz}}
+Question b :
+T = ? [s]
+Given: f = 0.21 \ Hz
+Equation:
+T = \frac{1}{f}
+Plug n’ Chug:
+T = \frac{1}{f} = \frac{1}{0.21 \ Hz} = 4.76 \ s
+Answer: \boxed{\mathbf{4.76 \ s}}
+Click on the image above for more content
+Bored in class, you start tapping your finger on the table.
+Your friend, sitting right next to you also starts tapping away.
+But while you are tapping once every second, you’re friend taps twice for every one tap of yours.
+What is the Period and frequency of your tapping?
+What is the Period and frequency of your friend’s tapping?
+Your tapping starts small waves going down the desk.
+Sort of like hitting a bell with a hammer.
+The frequency of the sound you hear is 1200 Hz.
+You know the wave speed in wood is about 3600 m/s.

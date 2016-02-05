@@ -1,0 +1,20 @@
+Beginning in the late 1970’s, ozone depletion was recognized as a significant environmental issue.
+The most dramatic decrease in ozone occurs seasonally over the continent of Antarctica.
+The size and duration of the ozone hole steadily increased, with the largest hole recorded in 2006.
+Fortunately, most countries have recognized the danger of CFCs and dramatically curtailed their use in recent years.
+It is hoped that ozone depletion will slow and that the ozone layer may eventually be restored to its earlier levels.
+An alkyl halide is an organic compound in which one or more halogen atoms are substituted for one or more hydrogen atoms in a hydrocarbon.
+The general formulas for organic molecules with functional groups use the letter R to stand for the rest of the molecule outside of the functional group.
+Because there are four possible halogen atoms (fluorine, chlorine, bromine, or iodine) that can act as the functional group, we use the general formula R−X to represent an alkyl halide.
+The rules for naming simple alkyl halides are listed below.
+Name the parent compound by finding the longest continuous carbon atom chain that also contains the halogen.
+Add a prefix for the particular halogen atom.
+The prefixes for each of the four halogens are fluoro- , chloro- , bromo- , and iodo- .
+If more than one kind of halogen atom is present, put them in alphabetical order.
+If there is more than one of the same halogen on a given carbon atom, use the prefixes di- , tri- , or tetra- before the prefix for the halogen.
+As with hydrocarbons, number the carbon chain in a way that makes the sum of halogen numbers as low as possible.
+If different halogens are in equivalent positions, give the lower number to the one that comes first in alphabetical order.
+Add the numerical prefix into the name before the halogen prefix.
+Separate numbers with commas and separate numbers from names or prefixes with a hyphen.
+There are no spaces in the name.
+Listed below are some examples of names and structural formulas of a few alkyl halides.

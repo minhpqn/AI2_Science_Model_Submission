@@ -1,0 +1,20 @@
+S_1  and  P_1 are the solubility and the pressure at an initial set of conditions;  S_2 and  P_2 are the solubility and pressure at another changed set of conditions.
+Solubilities of gases are typically reported in g/L, as seen in sample problem 16.1.
+The solubility of a certain gas in water is 0.745 g/L at standard pressure.
+What is its solubility when the pressure above the solution is raised to 4.50 atm?
+The temperature is constant at 20°C.
+Step 1:
+List the known quantities and plan the problem.
+S_1=0.745 \ \text{g} / \text{L}
+P_1=1.00 \ \text{atm}
+P_2=4.50 \ \text{atm}
+S_2= \ ? \ \text{g} / \text{L}
+Substitute into Henry’s law and solve for S_2 .
+Step 2:
+Solve.
+S_2=\frac{S_1 \times P_2}{P_1}=\frac{0.745 \text{ g/L} \times 4.50 \text{ atm}}{1.00 \text{ atm}}=3.35 \text{ g/L}
+Step 3:
+Think about your result.
+The solubility is increased to 4.5 times its original value according to the direct relationship.
+The pressure above a liquid affects the solubility of a gas in the liquid.
+Watch the video at the link below and answer the questions:

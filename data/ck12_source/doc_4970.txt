@@ -1,0 +1,20 @@
+Family of cell surface receptors for many polypeptide growth factors, cytokines, and hormones; specifically phosphorylate tyrosine amino acids; also known as receptor tyrosine kinases.
+Signal transduction begins with a ligand binding to its receptor.
+Cell-surface receptors bind a ligand outside of the cell and internalize the signal, acting through a second messenger.
+Nuclear receptors bind a ligand inside the cell and change transcription of genes by acting as a transcription factor.
+Use this resource to answer the questions that follow.
+G-Protein Coupled Hormone Signal Transduction at
+Click on the image above for more content
+What is a peptide hormone?
+How does the message from a peptide hormone enter the cell?
+Describe the structure of a G-protein.
+Describe the function of an activated G-protein.
+What is the function of an active phospholipase C?
+What are the two second messengers discussed in this process?
+What is the role of an active protein kinase C?
+Compare and contrast cell-surface and nuclear receptors.
+What is a second messenger?
+What are nuclear receptors functions?
+Signal Transduction - Advanced
+Outline the process of signal transduction.
+How is information transduced from the outside of the cell?

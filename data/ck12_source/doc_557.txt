@@ -1,0 +1,20 @@
+T Cell Response
+There are different types of T cells, including killer T cells and helper T cells.
+Killer T cells destroy infected, damaged, or cancerous body cells ( Figure below ).
+When the killer T cell comes into contact with the infected cell, it releases poisons.
+The poisons make tiny holes in the cell membrane of the infected cell.
+This causes the cell to burst open.
+Both the infected cell and the pathogens inside it are destroyed.
+A killer T cell recognizes a body cell infected with a virus and causes it to burst
+In this diagram, a killer T cell recognizes a body cell infected with a virus.
+After the killer T cell makes contact with the infected cell, it releases poisons that cause the infected cell to burst.
+This kills both the infected cell and the viruses inside it.
+Helper T cells do not destroy infected or damaged body cells.
+But they are still necessary for an immune response.
+They help by releasing chemicals that control other lymphocytes.
+The chemicals released by helper T cells “switch on” both B cells and killer T cells so they can recognize and fight specific pathogens.
+B cells produce antibodies against pathogens in the blood and lymph.
+Killer T cells destroy body cells infected with pathogens.
+Use the resource below to answer the questions that follow.
+Specific Immunity at
+Click on the image above for more content

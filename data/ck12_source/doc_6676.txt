@@ -1,0 +1,20 @@
+Displacement is a vector quantity (direction matters), where as distance is a scalor (only the amount matters).
+Distance and displacement are the same in the case where the object travels in a straight line and always moving in the same direction.
+Problem:
+An indecisive car goes 120 m North, then 30 m south then 60m North.
+What is the car's distance and displacement?
+Distance is the total amount traveled.
+Thus distance = 120 + 30 + 60 m = 210 m
+Displacement is the amount displaced from the starting position.
+Thus displacement = 120 - 30 + 60 m = 150 m.
+Problem:
+An 8^{\text{th}} grader is timed to run 24 feet in 12 seconds, what is her speed in meters per second?
+D & = vt\\\24 \ ft & = v(12 \ s)\\\ v & = 24 \ ft/12 \ s = 2 \ ft/s\\\v & = 2 \ ft/s \ast (1 m/3.28 \ ft) = 0.61 \ m/s
+Watch this Explanation
+Click on the image above for more content
+What is the difference between distance d and displacement \triangle x Write a few sentences explaining this.
+Does the odometer reading in a car measure distance or displacement?
+Imagine a fox darting around in the woods for several hours.
+Can the displacement \triangle x of the fox from his initial position ever be larger than the total distance d he traveled?
+Explain.
+Your brother borrowed the scissors from your room and now you want to use them.

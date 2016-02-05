@@ -1,0 +1,20 @@
+The Sodium-Potassium Pump
+Active transport is the energy-requiring process of pumping molecules and ions across membranes "uphill" - against a concentration gradient.
+To move these molecules against their concentration gradient, a carrier protein is needed.
+Carrier proteins can work with a concentration gradient (during passive transport), but some carrier proteins can move solutes against the concentration gradient (from low concentration to high concentration), with an input of energy.
+In active transport, as carrier proteins are used to move materials against their concentration gradient, these proteins are known as pumps.
+As in other types of cellular activities, ATP supplies the energy for most active transport.
+One way ATP powers active transport is by transferring a phosphate group directly to a carrier protein.
+This may cause the carrier protein to change its shape, which moves the molecule or ion to the other side of the membrane.
+An example of this type of active transport system, as shown in Figure below , is the sodium-potassium pump, which exchanges sodium ions for potassium ions across the plasma membrane of animal cells.
+How a sodium-potassium pump work
+The sodium-potassium pump system moves sodium and potassium ions against large concentration gradients.
+It moves two potassium ions into the cell where potassium levels are high, and pumps three sodium ions out of the cell and into the extracellular fluid.
+As is shown in Figure above , three sodium ions bind with the protein pump inside the cell.
+The carrier protein then gets energy from ATP and changes shape.
+In doing so, it pumps the three sodium ions out of the cell.
+At that point, two potassium ions from outside the cell bind to the protein pump.
+The potassium ions are then transported into the cell, and the process repeats.
+The sodium-potassium pump is found in the plasma membrane of almost every human cell and is common to all cellular life.
+It helps maintain cell potential and regulates cellular volume.
+A more detailed look at the sodium-potassium pump is available at (13:53) and

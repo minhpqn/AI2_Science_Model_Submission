@@ -1,0 +1,20 @@
+Pulling Down and Pushing Up
+One force acting on you—and all the other objects on Earth—is gravity.
+Look at the physics book in the Figure below .
+Gravity pulls the book downward with a force of 20 Newtons.
+Why doesn’t the book fall to the ground?
+The table pushes upward on the book with the same amount of force.
+The combined force, or net force , acting on the book is 0 Newtons.
+That’s because upward and downward forces are balanced, so they cancel out.
+You can learn more about net force at this URL:
+This physics book is at rest because it has balanced forces
+Forces Acting in Opposite Directions
+In general, whenever forces act on an object in opposite directions—like the book on the table—the net force is equal to the difference between the two forces.
+In other words, one force is subtracted from the other to calculate the net force.
+If the opposing forces are equal, or balanced, the net force is zero, as it is for the book.
+That’s why the book doesn’t fall to the ground but instead remains resting on the table.
+However, if the opposing forces are unbalanced, the net force is greater than zero, although it will be less than either of the individual forces.
+In this case, the object will move in the same direction as the net force.
+Look at the dogs playing tug-of-war in the Figure below .
+The dogs are pulling the rope in opposite directions, but one dog is pulling with more force than the other.
+The net force acting on the rope is 2 Newtons to the right, so the rope will move to the right.

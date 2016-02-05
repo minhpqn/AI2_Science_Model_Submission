@@ -1,0 +1,20 @@
+Pressure Units and Conversion
+A barometer measures gas pressure by the height of the column of mercury.
+One unit of gas pressure is the millimeter of mercury (mmHg).
+An equivalent unit to the mmHg is called the torr, in honor of the inventor of the barometer, Evangelista Torricelli.
+The pascal (Pa) is the standard unit of pressure.
+A pascal is a very small amount of pressure, so the more useful unit for everyday gas pressures is the kilopascal (kPa).
+A kilopascal is equal to 1000 pascals.
+Another commonly used unit of pressure is the atmosphere (atm).
+Standard atmospheric pressure is called 1 atm of pressure and is equal to 760 mmHg and 101.3 kPa.
+Atmospheric pressure is also often stated as pounds/square inch (psi).
+The atmospheric pressure at sea level is 14.7 psi.
+1 \ \text{atm}=760 \ \text{mmHg} = 760 \ \text{torr} = 101.3 \ \text{KPa} = 14.7 \ \text{psi}
+It is important to be able to convert between different units of pressure.
+To do so, we will use the equivalent standard pressures shown above.
+Sample Problem:
+Pressure Unit Conversions
+The atmospheric pressure in a mountainous location is measured to be 613 mmHg.
+What is this pressure in atm and in kPa?
+Step 1:
+List the known quantities and plan the problem.

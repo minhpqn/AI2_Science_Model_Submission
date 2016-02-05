@@ -1,0 +1,20 @@
+A:
+Scientists use a standard method to represent a chemical reaction, called a chemical equation.
+What Is a Chemical Equation?
+A chemical equation is a shorthand way to sum up what occurs in a chemical reaction.
+The general form of a chemical equation is:
+Reactants → Products
+The reactants in a chemical equation are the substances that begin the reaction, and the products are the substances that are produced in the reaction.
+The reactants are always written on the left side of the equation and the products on the right.
+The arrow pointing from left to right shows that the reactants change into the products during the reaction.
+This happens when chemical bonds break in the reactants and new bonds form in the products.
+As a result, the products are different chemical substances than the reactants that started the reaction.
+For a good overview of chemical equations and how to write them, watch the video at this URL:
+Q:
+What is the general equation for the reaction in which iron rusts?
+A:
+Iron combines with oxygen to produce rust, which is the compound named iron oxide.
+This reaction could be represented by the general chemical equation below.
+Note that when there is more than one reactant, they are separated by plus signs (+).
+If more than one product were produced, plus signs would be used between them as well.
+Iron + Oxygen → Iron Oxide

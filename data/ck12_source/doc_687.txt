@@ -1,0 +1,20 @@
+Click on the image above for more content
+In this video, a hole is drilled in the side of a plastic bottle filled with liquid.  An arc of liquid shoots out through the hole.  A laser pointer is aimed through the opposite side of the bottle so that the light also exits through the hole.  The stream of liquid acts like an optical fiber and the light undergoes total internal reflection as it follows the stream of liquid.  As the amount of liquid in the bottle decreases, the arc of the stream of liquid changes and the direction of the light follows the stream of liquid.  Toward the end, the light beam is shining almost 90^\circ  from the direction of the laser pointer.
+The following video discusses total internal reflection.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+What phenomenon occurs when the light does not enter the new medium and remains in the old medium?
+When does this phenomenon occur?
+Find the critical angle for light passing from diamond into air, given  n_{\text{diamond}} = 2.42 .
+When two swimmers are under water in a swimming pool, it is possible for the interface between the water and the air to act as a mirror, allowing the swimmers to see images of each other if they look up at the underside of the surface.  Explain this phenomenon.
+Robert shines a laser beam through a slab of plastic and onto the interface between the slab of plastic and the air on the other side.  The index of refraction for the plastic is 1.62.  If the angle of incidence in the plastic is 54^\circ , will the laser beam pass out of the plastic into the air?
+total internal reflection:
+When light is passing from a medium of higher index of refraction into a medium of lower index of refraction is completely reflected by the boundary between the two media.
+critical angle:
+The smallest angle of incidence at which a light ray passing from one medium to another less refractive medium will be totally reflected from the boundary between the two.
+fiber optics:  The science or technology of light transmission through very fine, flexible glass or plastic fibers without energy loss making use of the principle of total internal reflection.
+Image copyright YAKOBCHUK VASYL, 2014.
+Christopher Auyeung.
+CK-12 Foundation .
+Christopher Auyeung.
+CK-12 Foundation .

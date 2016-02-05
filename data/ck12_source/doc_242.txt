@@ -1,0 +1,20 @@
+If we were to increase the speed at which we rotate our hand, we increase the velocity of the yo-yo - it is spinning faster.
+As it spins faster, it also changes direction faster.
+The acceleration increases.
+Now let's think about the bottom of the equation: the radius.
+If we halve the length of the yo-yo string (bring the yo-yo closer to us), we make the yo-yo's velocity greater.
+Again, it moves faster, which increases the acceleration.
+If we make the string longer again, this decreases the acceleration.
+We now understand why the relationship between the radius and the acceleration is an inverse relationship - as we decrease the radius, the acceleration increases, and visa versa.
+Vectors of acceleration and velocity are perpendicular in uniform circular motion
+Example Problem:
+A ball at the end of a string is swinging in a horizontal circle of radius 1.15 m.
+The ball makes exactly 2.00 revolutions per second.
+What is its centripetal acceleration?
+Solution:
+We first determine the velocity of the ball using the facts that the circumference of the circle is  2 \pi r and the ball goes around exactly twice per second.
+v=\frac{(2)(2 \pi r)}{t}=\frac{(2)(2)(3.14)(1.15 \ \text{m})}{1.00 \ \text{s}}=14.4 \ \text{m/s}
+We then use the velocity and radius in the centripetal acceleration equation.
+a_c=\frac{v^2}{r}=\frac{(14.4 \ \text{m/s})^2}{1.15 \ \text{m}}=180. \ \text{m/s}^2
+Example Problem:
+The moon's nearly circular orbit around the earth has a radius of about 385,000 km and a period of 27.3 days.

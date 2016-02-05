@@ -1,0 +1,20 @@
+A process is described for calculations of dilutions.
+Read the material and work the problems at the link below:
+What does not change when additional water is added to a solution?
+What is a stock solution?
+How is a stock solution used?
+micropipette:
+A pipette designed to transfer very small amounts of fluid.
+pipette:
+A calibrated glass tube for the accurate transfer of liquids.
+Perform calculations involving molality.
+Molality is very useful when the volume of a solution changes, such as under heating
+How do you measure physical parameters of solutions?
+For many purposes, the use of molarity is very convenient.
+However, when we want to know the concentration of solute present in situations where there are temperature changes, molarity won’t work.
+The volume of the solution will change somewhat with temperature, enough to make accurate data observations and calculations in error.
+Another parameter is needed, one not affected by the temperature of the material we are studying.
+A final way to express the concentration of a solution is by its molality.
+The molality ( m ) of a solution is the moles of solute divided by the kilograms of solvent.
+A solution that contains 1.0 mol of NaCl dissolved into 1.0 kg of water is a “one-molal” solution of sodium chloride.
+The symbol for molality is a lower-case m written in italics.

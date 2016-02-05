@@ -1,0 +1,20 @@
+The pH of a solution is the negative logarithm of the hydrogen-ion concentration.
+pH = -log[H + ]
+In pure water or a neutral solution the [H + ] = 1.0 × 10 -7  M.
+Substituting into the pH expression:
+pH = -log[1.0 × 10 -7 ] = -(-7.00) = 7.00
+The pH of pure water or any neutral solution is thus 7.00.
+For recording purposes, the numbers to the right of the decimal point in the pH value are the significant figures.
+Since 1.0 × 10 -7 has two significant figures, the pH can be reported as 7.00.
+A logarithmic scale condenses the range of acidity to numbers that are easy to use.
+Consider a solution with [H + ] = 1.0 × 10 -4  M.
+That is a hydrogen-ion concentration that is 1000 times higher than the concentration in pure water.
+The pH of such a solution is 4.00, a difference of just 3 pH units.
+Notice that when the [H + ] is written in scientific notation and the coefficient is 1, the pH is simply the exponent with the sign changed.
+The pH of a solution with the [H + ] = 1 × 10 -2  M is 2 and the pH of a solution with the [H + ] = 1 × 10 -10  M is 10.
+As we saw earlier, a solution with the [H + ] higher than 1.0 × 10 -7 is acidic, while a solution with the [H + ] lower than 1.0 × 10 -7 is basic.
+Consequently, solutions whose pH is less than 7 are acidic, while those with a pH higher than 7 are basic.
+The Figure below illustrates this relationship, along with some examples of various solutions.
+pH values of several common materials
+The pH values for several common materials.
+The concept of pH is defined.

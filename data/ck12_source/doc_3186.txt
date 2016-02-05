@@ -1,0 +1,20 @@
+Wave Frequency and Energy
+The frequency of a wave is the same as the frequency of the vibrations that caused the wave.
+For example, to generate a higher-frequency wave in a rope, you must move the rope up and down more quickly.
+This takes more energy, so a higher-frequency wave has more energy than a lower-frequency wave with the same amplitude.
+You can see examples of different frequencies in the Figure below (Amplitude is the distance that particles of the medium move when the energy of a wave passes through them.)
+Relationship between frequency and energy
+Wave frequency is the number of waves that pass a fixed point in a given amount of time.
+The SI unit for wave frequency is the hertz (Hz), where 1 hertz equals 1 wave passing a fixed point in 1 second.
+A higher-frequency wave has more energy than a lower-frequency wave with the same amplitude.
+At the following URL, use the wave simulator to make waves with various amounts of energy.
+Measure the frequency and wavelength of the waves, and check your measurements.
+Then answer the question at the bottom of the Web page.
+What is wave frequency?
+What is the SI unit for wave frequency?
+Assume that 10 waves pass a fixed point in 5 seconds.
+What is the frequency of the waves in hertz?
+Relate wave frequency to the energy of waves.
+Define wave speed.
+Relate wave speed to wavelength and wave frequency.
+Show how to calculate wave speed.

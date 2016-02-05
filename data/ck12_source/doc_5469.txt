@@ -1,0 +1,20 @@
+Many of the applications will be discussed in the additional concepts.
+PCR was developed in 1983 by Kary Mullis.
+Due to the importance of this process and the significance it has had on scientific research, Dr.
+Mullis was awarded the Nobel Prize in Chemistry in 1993, just 10 years after his discovery.
+See  for animations of Dr.
+Mullis and PCR.
+To say that PCR, molecular cloning and the Human Genome Project has revolutionized biology and medicine would be an understatement.
+These efforts have led to numerous accolades, including Nobel prizes, and more may follow.
+Some of the ways that these discoveries have shaped our lives are the focus of the Concept Biotechnology (Advanced) concepts.
+annealing step :
+Second step of a PCR cycle; allows oligonucleotide primers to bind to their specific site on single-strnaded DNA.
+denaturation step :
+First step of a PCR cycle; disrupts the hydrogen bonds between complementary bases of the DNA strands, yielding single strands of DNA.
+extension step :
+Third step of a PCR cycle; allows Taq polymerase to extend primer, forming double-stranded DNA.
+oligonucleotide primer :
+Short single-stranded piece of DNA; hydrogen bonds to a DNA strand to serve as a initiation segment for DNA polymerase to extend.
+Polymerase Chain Reaction (PCR) :
+A repeating series of cycles used to amplify millions of times specific regions of a DNA strand.
+Taq polymerase :

@@ -1,0 +1,20 @@
+Newton's cradle is an example of nearly elastic collisions
+This device is known as Newton’s cradle.
+As the balls collide with each other, nearly all the momentum and kinetic energy is conserved.
+If one ball swings down, exactly one ball will swing up; if three balls swing down, exactly three will swing back up.
+The collisions between the balls are very nearly elastic.
+Elastic and Inelastic Collisions
+For all collisions in a closed system, momentum is conserved.
+In some collisions in a closed system, kinetic energy is conserved.
+When both momentum and kinetic energy are conserved, the collision is called an elastic collision.  Most collisions are inelastic because some amount of kinetic energy is converted to potential energy, usually by raising one of the objects higher (increasing gravitation PE) or by flexing the object.
+Any denting or other changing of shape by one of the objects will also be accompanied by a loss of kinetic energy.
+The only commonly seen elastic collisions are those between billiard balls or ball bearings, because these balls do not compress.
+And, of course, collisions between molecules are elastic if no damage is done to the molecules.
+Much more common are inelastic collisions .
+These collisions occur whenever kinetic energy is not conserved, primarily when an object's height is increased after the collision or when one of the objects is compressed.
+Example Problem:  A 12.0 kg toy train car moving at 2.40 m/s on a straight, level train track, collides head-on with a second train car whose mass is 36.0 kg and was at rest on the track.
+If the collision is perfectly elastic and all motion is frictionless, calculate the velocities of the two cars after the collision.
+Solution:  Since the collision is elastic, both momentum and KE are conserved.
+We use the conservation of momentum and conservation of KE equations.
+Conservation of momentum: m_1 v_1+m_2v_2=m_1v{_1}^\prime+m_2v{_2}^\prime
+Conservation of KE: \frac{1}{2} m_1v{_1}^2+\frac{1}{2}m_2v_2^2=\frac{1}{2}m_1{v{_1}^\prime}^2=\frac{1}{2} m_2{v{_2}^\prime}^2

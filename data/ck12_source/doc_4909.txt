@@ -1,0 +1,20 @@
+Briefly, the ribosomes interact with other RNA molecules to make chains of amino acids called polypeptide chains, due to the peptide bond that forms between individual amino acids.
+Inside the ribosome, three sites participate in the translation process, the A, P and E sites.
+Translation will be discussed in detail the Protein Synthesis:
+Translation (Advanced) concept.
+Ribosomes from bacteria, archaea and eukaryotes, have significantly different structures and RNA sequences.
+The ribosomes in the mitochondria of eukaryotic cells significantly resemble those in bacteria, reflecting the likely evolutionary origin of mitochondria.
+Ribosomes are produced in the nucleolus, and then transported to the cytoplasm.
+Ribosomes are made of ribosomal proteins, called ribonucleoproteins , and ribosomal RNA (rRNA).
+Each ribosome has two parts, a large and a small subunit, as shown in Figure below .
+The subunits are attached to each other.
+During translation, the smaller subunit binds to the mRNA, while the larger subunit binds to the tRNA with attached amino acids.
+When a ribosome finishes reading an mRNA molecule, the two ribosomal subunits disassociate.
+The two subunits that make up a ribosome, small organelles that are intercellular protein factories.
+The two ribosomal subunits are named base on their sedmentation rate in a centrifuge.
+The unit of measurement is the Svedberg unit , a measure of the rate of sedimentation, not the size.
+This accounts for why fragment names do not add up (70S is made of 50S and 30S).
+Prokaryotes have 70S ribosomes, each consisting of a small (30S) and a large (50S) subunit.
+Their small subunit has a 16S RNA subunit (consisting of 1540 nucleotides) bound to 21 proteins.
+The large subunit is composed of a 5S RNA subunit (120 nucleotides), a 23S RNA subunit (2900 nucleotides) and 31 proteins.
+Eukaryotes have 80S ribosomes, each consisting of a small (40S) and large (60S) subunit.

@@ -1,0 +1,20 @@
+Assume that an object has been placed in the pan of a triple beam balance.
+The scales of the balance are shown below.
+What is the mass of the object?
+How much liquid does this graduated cylinder contain?
+Accuracy and Precision
+Define accuracy of measurements.
+Define precision of measurements.
+Have you ever played golf, like the boy in this photo?
+Even if you haven’t played golf before, you probably know that the goal of the game is to hit the ball into a hole with the fewest strokes of the club.
+Golf is a good way to understand two important concepts in scientific measurement: accuracy and precision.
+The accuracy of a measurement is how close the measurement is to the true value.
+If you were to hit four different golf balls toward an over-sized hole, all of them might land in the hole.
+These shots would all be accurate because they all landed in the hole.
+This is illustrated in the sketch below.
+As you can see from the sketch above, the four golf balls did not land as close to one another as they could have.
+Each one landed in a different part of the hole.
+Therefore, these shots are not very precise.
+The precision of measurements is how close they are to each other.
+If you make the same measurement twice, the answers are precise if they are the same or at least very close to one another.
+The golf balls in the sketch below landed quite close together in a cluster, so they would be considered precise.

@@ -1,0 +1,20 @@
+The base pairing in RNA is unique to each molecule of RNA and results in a three-dimensional structure that gives each molecule functional properties.
+Unlike DNA, their structures do not consist of long double helices but rather collections of short helices combined into a functional molecule.
+Because of the structure of RNA, the RNA molecule can achieve biochemical catalysis, similar to that of enzymes.
+For instance, the structure of the ribosome allows peptide bond formation during protein synthesis.
+The active site of the ribosome is composed entirely of RNA.
+nucleotide :
+Monomer of nucleic acids, composed of a nitrogen-containing base, a five-carbon sugar, and a phosphate group.
+protein synthesis :
+The process in which cells make proteins; includes transcription of DNA and translation of mRNA.
+ribose : 5-carbon sugar of an RNA nucleotide.
+uracil :
+Nitrogenous base specific for RNA; replaces the base thymine in DNA.
+RNA is a single-stranded nucleic acid.
+RNA contains the nitrogenous base uracil.
+RNA can fold into three-dimensional structures with functional properties.
+About RNA at  .
+Describe the differences between DNA and RNA.
+How does RNA have functional properties?
+What is the structural difference between uracil and thymine?
+RNA Types - Advanced

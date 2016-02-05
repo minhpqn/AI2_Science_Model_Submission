@@ -1,0 +1,20 @@
+The other atom attracts the shared electrons less strongly, so it is has a partial positive charge.
+In a water molecule, the oxygen atom attracts the shared electrons more strongly than the hydrogen atoms do.
+This explains why the oxygen side of the water molecule has a partial negative charge and the hydrogen side of the molecule has a partial positive charge.
+Q:
+If a molecule is polar, how might this affect its interactions with nearby molecules of the same compound?
+A:
+Opposite charges on different molecules of the same compound might cause the molecules to be attracted to each other.
+Because of water’s polarity, individual water molecules are attracted to one another.
+You can see this in the Figure below .
+The positively charged hydrogen side of one water molecule is attracted to the negatively charged oxygen side of a nearby water molecule.
+This force of attraction is called a hydrogen bond .
+You can watch hydrogen bonds forming between water molecules in the animation at this URL:
+Hydrogen bonds between polar water molecules
+Hydrogen bonds are intermolecular (“between-molecule”) bonds, rather than intramolecular (“within-molecule”) bonds.
+They occur not only in water but in other polar molecules in which positive hydrogen atoms are attracted to negative atoms in nearby molecules.
+Hydrogen bonds are relatively weak as chemical bonds go.
+For example, they are much weaker than the bonds holding atoms together within molecules of covalent compounds.
+To learn more about hydrogen bonding and when it occurs, see the video at this URL:
+Click on the image above for more content
+Hydrogen Bonds and Changes of State

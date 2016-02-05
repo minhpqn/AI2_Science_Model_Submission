@@ -1,0 +1,20 @@
+Enthalpy  (H) is the heat content of a system at constant pressure.
+Chemists routinely measure changes in enthalpy of chemical systems as reactants are converted into products.
+The heat that is absorbed or released by a reaction at constant pressure is the same as the enthalpy change, and is given the symbol \Delta H .
+Unless otherwise specified, all reactions in this material are assumed to take place at constant pressure.
+The change in enthalpy of a reaction is a measure of the differences in enthalpy of the reactants and products.
+The enthalpy of a system is determined by the energies needed to break chemical bonds and the energies needed to form chemical bonds.
+Energy needs to be put into the system in order to break chemical bonds – they do not come apart spontaneously in most cases.
+Bond formation to produce products will involve release of energy.
+The change in enthalpy shows the trade-offs made in these two processes.
+Does it take more energy to break bonds that that needed to form bonds?
+If so, the reaction is endothermic and the enthalpy change is positive.
+If more energy is produced in bond formation than that needed for bond breaking, the reaction is exothermic and the enthalpy is negative.
+Several factors influence the enthalpy of a system.
+Enthalpy is an extensive property, determined in part by the amount of material we work with.
+The state of reactants and products (solid, liquid, or gas) influences the enthalpy value for a system.
+The direction of the reaction affects the enthalpy value.
+A reaction that takes place in the opposite direction has the same numerical enthalpy value, but the opposite sign.
+Enthalpy is related to the heat of a reaction.
+Factors influencing entropy are described.
+Read the material at the link below and answer the following questions:

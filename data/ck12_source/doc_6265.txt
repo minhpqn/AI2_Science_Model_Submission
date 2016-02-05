@@ -1,0 +1,20 @@
+The enthalpy change for a chemical reaction.
+thermochemical equation:
+A chemical equation that includes the enthalpy change of the reaction.
+Stoichiometric Calculations and Enthalpy Changes
+Perform calculations of enthalpy equations.
+Enthalpy changes are important in many fields
+What will it cost?
+There is a growing concern about the damage to the environment from emissions from manufacturing plants.
+Many companies are taking steps to reduce these harmful emissions by adding equipment that will trap the pollutants.
+In order to know what equipment (and how many) to order, studies need to be done to measure the amount of product currently produced.
+The since pollution is often both particulate and thermal, energy changes need to be determined in addition to the amounts of products released.
+Stoichiometric Calculations and Enthalpy Changes
+Chemistry problems that involve enthalpy changes can be solved by techniques similar to stoichiometry problems.  Refer again to the combustion reaction of methane.
+Since the reaction of 1 mol of methane released 890.4 kJ, the reaction of 2 mol of methane would release 2 \times 890.4 \text{ kJ} = 1781 \text{ kJ} .
+The reaction of 0.5 mol of methane would release \frac{890.4 \text{ kJ}}{2}= 445.2 \text{ kJ} .
+As with other stoichiometry problems, the moles of a reactant or product can be linked to mass or volume.
+Sample Problem:
+Calculating Enthalpy Changes
+Sulfur dioxide gas reacts with oxygen to form sulfur trioxide in an exothermic reaction according to the following thermochemical equation.
+2\text{SO}_2(\text{g}) + \text{O}_2(\text{g}) \rightarrow 2\text{SO}_3(\text{g})+198 \text{ kJ}

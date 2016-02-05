@@ -1,0 +1,20 @@
+atomic mass unit:  Abbreviated as "amu." A mass equal to one twelfth the mass of an atom of carbon-12.
+Calculating Atomic Mass
+Define atomic mass.
+Calculate atomic mass given relevant information about the isotopes.
+Pile of rocks and boulders
+Have you ever tried to move a boulder?
+You have a pile of rocks to move and need to decide what equipment you want to rent to move them.  If the rocks are fairly small, you can get a shovel to pick them up.  Larger rocks could be moved by hand, but big boulders will need some sort of mechanical scoop.  The amount of each kind of rock will also determine how much time you will need to get the job done.  Knowing the relative amounts of large, medium, and small rocks can be very useful in deciding how to approach the job.
+Most elements occur naturally as a mixture of two or more isotopes.
+Table below shows the natural isotopes of several elements, along with the percent natural abundance of each.
+Atomic Masses and Percent Abundances of Some Natural Isotopes
+atomic mass (amu)
+For some elements, one particular isotope predominates greatly over the other isotopes.
+Naturally occurring hydrogen is nearly all hydrogen-1 and naturally occurring oxygen is nearly all oxygen-16.
+For many other elements, however, more than one isotope may exist in more substantial quantities.
+Chlorine (atomic number 17) is a yellowish-green toxic gas.
+About three quarters of all chlorine atoms have 18 neutrons, giving those atoms a mass number of 35.
+About one quarter of all chlorine atoms have 20 neutrons, giving those atoms a mass number of 37.
+Were you to simply calculate the arithmetic average of the precise atomic masses , you would get 36.
+\frac{(34.969+36.966)}{2}=35.968 \ \text{amu}
+Clearly the actual average atomic mass from the last column of the table is significantly lower.

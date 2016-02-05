@@ -1,0 +1,20 @@
+hydrogen bond:
+An intermolecular attractive force in which a hydrogen atom that is covalently bonded to a small, highly electronegative atom is attracted to a lone pair of electrons on an atom in a neighboring molecule.
+Valence Bond Theory
+Define valence bond theory.
+Describe how to use valence bond theory to explain aspects of covalent bonds.
+Bonding of fluorine atoms in the fluorine molecule
+What happens next?
+We have seen that the old fish-hook idea of atoms connecting that Democritus liked so much just doesn’t work.
+Electrons don’t have little hooks on them, but they are the basis for connecting atoms to form molecules.
+You have learned how to write Lewis electron-dot structures for molecules and predict their shape using VSEPR theory.
+Now it is time to apply these abilities to understand how the electrons behave in their atomic orbitals when a covalent bond forms.
+Valence Bond Theory
+You have learned that a covalent bond forms when the electron clouds of two atoms overlap with each other.  In a simple H 2 molecule, the single electron in each atom becomes attracted to the nucleus of the other atom in the molecule as the atoms come closer together.
+An optimum distance, equal to the bond length, is eventually attained, and the potential energy reaches a minimum.
+A stable, single covalent bond has formed between the two hydrogen atoms.
+Other covalent bonds form in the same way as unpaired electrons from two atoms “match up” to form the bond.
+In a fluorine atom, there is an unpaired electron in one of the 2p orbitals.  When a F 2 molecule forms, the 2p orbitals from each of the two atoms overlap to produce the F−F covalent bond.
+The overlapping orbitals do not have to be of the same type.
+In a molecule of HF, the 1s orbital of the hydrogen atom overlaps with the 2p orbital of the fluorine atom (see Figure below ).
+A molecule of hydrogen fluoride

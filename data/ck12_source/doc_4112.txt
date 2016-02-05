@@ -1,0 +1,20 @@
+Equilibrium can also be maintained within a population's genes; that means, no evolution can occur.
+But outside influences usually prevent equilibrium from staying established.
+Sometimes understanding how common a gene is within a population is necessary.
+Or, more specifically, you may want to know how common a certain form of that gene is within the population, such as a recessive form.
+This can be done using the Hardy-Weinberg model, but it can only be done if the frequencies of the genes are not changing.
+The Hardy-Weinberg model describes how a population can remain at genetic equilibrium , referred to as the Hardy-Weinberg equilibrium.
+Genetic equilibrium occurs when there is no evolution within the population.
+In other words, the frequency of alleles (variants of a gene) will be the same from one generation to another.
+At genetic equilibrium, the gene or allele frequencies are stable — they do not change.
+For example, let's assume that red hair is determined by the inheritance of a gene with two alleles— R and r .
+The dominant allele, R , encodes for non-red hair, while the recessive allele, r , encodes for red hair.
+If a population's gene pool contains 90% R and 10% r alleles, then the next generation would also have 90% R and 10% r alleles.
+However, this only works under a strict set of conditions.
+The five conditions that must be met for genetic equilibrium to occur include:
+No mutation (change) in the DNA sequence.
+No migration (moving into or out of a population).
+A very large population size.
+No natural selection.
+These five conditions rarely occur in nature.
+When one or more of the conditions does not exist, then evolution can occur.

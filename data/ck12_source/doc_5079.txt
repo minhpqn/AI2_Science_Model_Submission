@@ -1,0 +1,20 @@
+C 6 H 12 O 6 + 2NAD + + 2P i + 2ADP → 2NADH + 2ATP
+Anaerobic and aerobic respiration share the glycolysis pathway.
+If oxygen is not present, fermentation may take place, producing lactic acid or ethyl alcohol and carbon dioxide.
+Products of fermentation still contain chemical energy and are used widely to make foods and fuels.
+Pyruvate still contains a great deal of chemical energy.
+In fact, two pyruvate molecules contain most of the chemical energy from the original glucose molecule.
+If oxygen is present, pyruvate enters the mitochondria for complete breakdown by the Krebs Cycle and electron transport chain.
+If oxygen is not present, cells must transform pyruvate to regenerate NAD + in order to continue making ATP.
+Keep in mind that glycolysis produces a net total of 2 ATP.
+Two different pathways accomplish the regeneration of NAD + with rather famous products: lactic acid (C 3 H 6 O 3 ) and ethyl alcohol (C 2 H 6 O) ( Figure above ).
+Making ATP in the absence of oxygen by glycolysis alone is known as fermentation .
+Therefore, these two pathways are called lactic acid fermentation and alcoholic fermentation .
+If you lack interest in organisms, such as yeast and bacteria, which have “stuck with” the anaerobic tradition, the products of these chemical reactions may still intrigue you.
+Fermentation makes bread, yogurt, beer, wine, and some new biofuels.
+In addition, some of your body’s cells are facultative anaerobes, retaining one of these ancient pathways for short-term, emergency use.
+Behind each release of gas is an army of gut bacteria undergoing some crazy biochemistry.
+These bacteria break down the remains of digested food through fermentation, creating gas in the process.
+Learn what these bacteria have in common with beer brewing at
+Click on the image above for more content
+alcoholic fermentation :

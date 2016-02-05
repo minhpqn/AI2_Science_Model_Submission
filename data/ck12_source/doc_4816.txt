@@ -1,0 +1,20 @@
+The letters G, U, C, and A stand for the bases in RNA, specifically mRNA or messenger RNA.
+Each group of three bases makes up a codon, and each codon represents one amino acid (represented here by a single letter, such as V (valine), H (histidine), or L (leucine)).
+A string of codons specifies the sequence of amino acids in a protein.
+DNA and RNA have different functions relating to the genetic code and proteins.
+Like a set of blueprints, DNA contains the genetic instructions for the correct sequence of amino acids in proteins.
+RNA uses the information in DNA to assemble the amino acids and make the proteins.
+More about the genetic code and the role of nucleic acids will be discussed in Concept Molecular Biology (Advanced) .
+Adenosine Triphosphate (ATP) , or Adenosine-5'-triphosphate, is another important nucleic acid.
+ATP is described as the "energy currency" of the cell or the "molecular unit of currency." One molecule of ATP contains three phosphate groups, and it is produced by ATP synthase from inorganic phosphate and adenosine diphosphate (ADP) or adenosine monophosphate (AMP).
+The structure of ATP consists of the purine base adenine, attached to the 1' carbon atom of the pentose sugar ribose.
+Three phosphate groups are attached at the 5' carbon atom of the pentose sugar.
+It is the removal of these phosphate groups that convert ATP to ADP (adenosine diphosphate) and to AMP (adenosine monophosphate).
+ATP is produced during cellular respiration, and will be further discussed in the Cellular Respiration (Advanced) concepts.
+ATP is used as a substrate in signal transduction pathways by kinases that phosphorylate proteins and lipids, as well as by adenylate cyclase, which uses ATP to produce the second messenger molecule cyclic AMP (cAMP).
+The ratio between ATP and AMP determines the amount of available energy.
+This regulates the metabolic pathways that produce and consume ATP.
+Apart from its roles in energy metabolism and signaling, ATP is also incorporated into DNA and RNA by polymerases during both DNA replication and transcription.
+When ATP is used in DNA synthesis, the ribose sugar is first converted to deoxyribose by ribonucleotide reductase.
+ATP.
+The ATP molecule clearly shows the three phosphate groups.

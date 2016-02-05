@@ -1,0 +1,20 @@
+An inertial reference frame can be defined as either of the following:
+A reference frame in which Newton's law of inertia is valid.
+A reference frame which isn't accelerating.
+A reference frame in which all three of Newton's laws are valid.
+time dilation:
+The relativistic effect of the slowing of a clock with respect to an observer.
+In Special Relativity, a clock moving with respect to an observer appears to run more slowly than to an observer moving with the clock.
+In General Relativity, time dilation is also caused by gravity; clocks on the earth's surface, for example, run more slowly than clocks at high altitudes, where gravitational forces are weaker.
+length contraction:
+One of the aspects of Einstein's theory of special relativity is that the length of objects moving at relativistic speeds undergoes a contraction along the dimension of motion.
+An observer at rest (relative to the moving object) would observe the moving object to be shorter in length.
+mass and energy equivalence:
+The physical principle that a measured quantity of energy is equivalent to a measured quantity of mass.
+Another way of stating it is that mass and energy are different forms of the same thing.
+The equivalence is expressed by Einstein's equation, E = mc^2 , where  E represents energy,  m the equivalent mass, and  c the speed of light.
+The Theory of General Relativity
+The student will:
+state the conditions under which Einstein’s theory of gravity reduces to Newton’s theory of gravity.
+state two instances of experimental support for the general theory of relativity.
+Telescope image of a region of space with super massive black holes

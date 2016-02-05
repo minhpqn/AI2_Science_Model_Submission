@@ -1,0 +1,20 @@
+The electron is moving at right angles to the magnetic field.
+What force acts on the electron?
+Solution:
+F=Bqv=(0.0400 \ N/amp \cdot m)(1.6 \times 10^{-19} \ C)(3.0 \times 10^6 \ m/s)
+=1.9 \times 10^{-14} \ N
+When the current is traveling through a magnetic field while inside a wire, the magnetic force is still exerted but now it is calculated as the force on the wire rather than on the individual charges in the current.
+The equation for the force on the wire is given as F = BIL , where B is the strength of the magnetic field, I  is the current in amps and L  is the length of the wire in and perpendicular to the field.
+Example Problem:
+A wire 0.10 m long carries a current of 5.0 A.
+The wire is at right angles to a uniform magnetic field.
+The force the field exerts on the wire is 0.20 N.
+What is the magnitude of the magnetic field?
+Solution:
+B=\frac{F}{IL}=\frac{0.20 \ N}{\left(5.0 \ A \right) \left(0.10 \ m\right)}=0.40 \ \frac{N}{A \cdot m}
+A moving charged particle creates a magnetic field around it.
+Charge through a wire creates a magnetic field around it, the properties of which can be determined using a right hand rule.
+When a moving charged particle moves through another magnetic field, that field will exert a force on the moving charged particle that can be expressed using  F = Bqv .
+The relationships between the moving charged particle, magnetic field, and the force exerted can be determined using the right hand rule if the particle is positive, or the left hand rule if it is negative.
+When the current is traveling through a magnetic field while inside a wire, the magnetic force is still exerted but now it is calculated as the force on the wire rather than on the individual charges in the current, calculated using  F = BIL .
+In this video, a wire is attached to a battery so that a current flows through the wire.

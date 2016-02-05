@@ -1,0 +1,20 @@
+And that is what makes us unique.
+The human genome is the genome - all the DNA - of Homo sapiens .
+Humans have about 3.2 billion bases of information, divided into roughly 20,000 to 23,000 genes, which are spread among non-coding sequences of DNA and distributed among 24 distinct chromosomes (22 autosomes plus the X and Y sex chromosomes) ( Figure below ).
+These 24 chromosomes are arranged into 23 pairs: 22 pairs of autosomes, numbered 1-22, with chromosome 1 being the largest and chromosome 22 the smallest, and one pair of sex chromosomes.
+Females have a pair of X chromosomes, while males have an X and a Y chromosome.
+The genome is all of the hereditary information encoded in the DNA, including the genes and non-coding sequences.
+The Human Genome Project (see the DNA Technology:
+The Human Genome Project (Advanced) concept) has produced a reference sequence of the human genome.
+The human genome consists of protein-coding exons, associated introns and regulatory sequences, genes that encode other RNA molecules, and “junk” DNA, regions in which no function as yet been identified.
+Human Genome, Chromosomes, and Genes.
+Each chromosome of the human genome contains many genes as well as noncoding intergenic (between genes) regions.
+Each pair of chromosomes is shown here in a different color.
+Notice that there are 23 pairs of chromosomes.
+Satellite DNA and Transposons
+The majority of the human genome is non-coding sequence.
+These sequences include regulatory sequences, and DNA with unknown functions.
+These sequences include tandem repeat elements known as satellite DNA , and transposons.
+Satellite DNA consists of very large arrays of tandemly repeating, non-coding DNA.
+The repeating units can be just a single base (a mono nucleotide repeat), two bases (a dinucleotide repeat), three bases (a trinucleotide repeat) or a much larger repeating unit.
+Some repeating units are several thousand base pairs long, and the total size of a satellite DNA segment can be several megabases without interruption.

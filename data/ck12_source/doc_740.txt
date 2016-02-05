@@ -1,0 +1,20 @@
+voltage:
+Electric potential difference, usually expressed in volts.
+volts:
+The International System unit of electric potential, equal to the difference of electric potential between two points on a conducting wire carrying a constant current of one ampere when the power dissipated between the points is one watt.
+Millikan Oil Drop Experiment
+Explain how Millikan used electric fields to find the charge of the electron.
+Original equipment used in Milikan's oil experiment
+This is the original equipment used by Robert Millikan and Harvey Fletcher in 1909 at the Univeristy of Chicago to measure the electric charge on a single electron.
+With incredible perserverence, they were able to determine the charge to within 1% of the currently accepted value.
+Millikan Oil Drop Experiment
+The sketch below shows a diagram of the Millikan oil drop experiment.
+Two parallel charged plates are placed with the positively charged plate above and the negatively charged plate below.
+The positively charged plate has a pinhole opening in its center.
+An atomizer is used to spray drops of oil into the apparatus.
+The friction of the oil passing through the narrow opening puts a charge on many of the oil drops.
+As the oil drops fall, one or more pass through the pinhole opening and enter the area between the plates.
+Diagram of Milikan's oil experiment
+The charge on the plates is adjustable.
+By measuring the terminal velocity of the oil drops with the electric field off, Millikan could determine the mass of the drops.
+Millikan and his graduate assistant were able to determine the force of the field on the drops when it was turned on by comparing the velocity of the drops with the field on to their velocity with the field off.

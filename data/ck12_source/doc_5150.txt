@@ -1,0 +1,20 @@
+centriole :
+A cylindrical shaped cell structure composed of nine triplets of microtubules; structure from which spindle fibers originate.
+cytokinesis :
+Division of the cytoplasm, forming two daughter cells.
+kinetochore :
+The protein structure on chromatids where the spindle fibers attach during cell division.
+metaphase :
+Phase of mitosis during which chromosomes line up at the equator of the cell.
+metaphase plate :
+The center (equator) of a cell during mitosis; chromosomes line up at the metaphase plate to ensure the proper separation of the sister chromatids.
+mitosis :
+The division of the nucleus into two genetically identical nuclei.
+phragmosome :
+A sheet of cytoplasm that forms in highly vacuolated plant cells to prepare for mitosis; forms in the approximate center of the cell.
+preprophase :
+Phase of mitosis prior to prophase; only in plant cells; ensures the nucleus is positioned in the center of the cell.
+prometaphase :
+Phase of mitosis during which the nuclear envelope breaks down, centrioles separate, and a spindle moves through the center of the cell.
+prophase :
+First phase of mitosis during which chromatin condense into chromosomes, the nuclear envelope breaks down, centrioles separate, and a spindle begins to form.

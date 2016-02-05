@@ -1,0 +1,20 @@
+The amplitude, therefore, is half of the total distance covered by the oscillating object.
+The amplitude can vary in harmonic motion but is constant in SHM.
+The amplitude of a wave often determines its strength or intensity; the exact meaning of "strength" depends on the type of wave.
+For example, a sound wave with a large amplitude is a loud sound and a light wave with a large amplitude is very bright.
+A medium is the substance through which the wave travels.
+For example, water acts as the medium for ocean waves, while air molecules act as the medium for sound waves.
+When a wave passes through a medium, the medium is only temporarily disturbed.
+When an ocean wave travels from one side of the Mediterranean Sea to the other, no actual water molecules move this great distance.
+Only the disturbance propagates (moves) through the medium.
+An object oscillating with frequency f will create waves which oscillate with the same frequency f .
+The speed v and wavelength \lambda of a wave depend on the nature of the medium through which the wave travels.
+There are two main types of waves we will consider: longitudinal and transverse waves.
+In longitudinal waves, the vibrations of the medium are in the same direction as the wave motion.
+A classic example is a wave traveling down a line of standing dominoes: each domino will fall in the same direction as the motion of the wave.
+A more physical example is a sound wave.
+For sound waves, high and low pressure zones move both forward and backward as the wave moves through them.
+In transverse waves, the vibrations of the medium are perpendicular to the direction of motion.
+A classic example is a wave created in a long rope: the wave travels from one end of the rope to the other, but the actual rope moves up and down, and not from left to right as the wave does.
+Water waves act as a mix of longitudinal and transverse waves.
+A typical water molecule pretty much moves in a circle when a wave passes through it.

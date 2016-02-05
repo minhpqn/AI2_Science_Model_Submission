@@ -1,0 +1,20 @@
+Consider the heating curve shown below.
+Heating curve of water
+The heating curve shown is for water but other substances have similarly shaped heating curves.
+Suppose you begin with solid water (ice) at -30°C and add heat at a constant rate.
+The heat you add in the beginning will be absorbed as kinetic energy and the temperature of the solid will increase.
+When you reach a temperature of 0°C (the melting point for water), the heat you add is no longer absorbed as kinetic energy.
+Instead, the added heat is absorbed as potential energy and the particles separate from each other.
+During the flat part of the curve labeled “melting”, heat is being added constantly but the temperature does not increase.
+At the left edge of this flat line, the water is solid; by the time enough heat has been added to get to the right edge, the water is liquid, but maintains the same temperature.
+Once all the water is in the liquid form, the added heat will once again be absorbed as kinetic energy and the temperature will increase again.
+During the time labeled “water being heated as a liquid”, all the added heat is absorbed as kinetic energy.
+When a temperature of 100°C (the boiling point of water) is reached, the added heat is once again absorbed as potential energy and the molecules separate from liquid form into gaseous form.
+When all the substance has been converted into gas, the temperature will again begin to rise.
+Heats of Fusion and Vaporization of Some Common Substances
+Heat of Fusion, \underline{H_f \ (J/kg)}
+Heat of Vaporization, \underline{H_v \ (J/kg)}
+2.05 \times 10^5
+5.07 \times 10^6
+6.30 \times 10^4
+1.64 \times 10^6

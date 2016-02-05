@@ -1,0 +1,20 @@
+Wavelength and Wave Energy
+The wavelength of a wave is related to the wave’s energy.
+Short-wavelength waves have more energy than long-wavelength waves of the same amplitude. (Amplitude is a measure of how far particles of the medium move up and down or back and forth when a wave passes through them.) You can see examples of transverse waves with shorter and longer wavelengths in the Figure below .
+Waves with short and long wavelengths
+Q:
+Of all the colors of visible light, red light has the longest wavelength and violet light has the shortest wavelength.
+Which color of light has the greatest energy?
+A:
+Violet light has the greatest energy because it has the shortest wavelength.
+Wavelength is one way of measuring the size of waves.
+It is the distance between two corresponding points on adjacent waves, usually measured in meters.
+The wavelength of a transverse wave can be measured as the distance between two adjacent crests.
+The wavelength of a longitudinal wave can be measured as the distance between two adjacent compressions.
+Short-wavelength waves have more energy than long-wavelength waves of the same amplitude.
+At the following URL, read about the anatomy of a wave.
+Then do the Check Your Understanding questions at the bottom of the Web page.
+Be sure to check your answers.
+What is the wavelength of a wave?
+Draw a simple transverse wave and label the wavelength.
+Define wave frequency.

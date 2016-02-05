@@ -1,0 +1,20 @@
+mass of O in 1 mol Cl 2 O 7 = 112.00 g
+molar mass of Cl 2 O 7 = 182.90 g/mol
+percent Cl = ? %
+percent O = ? %
+Calculate the percent by mass of each element by dividing the mass of that element in 1 mole of the compound by the molar mass of the compound and multiplying by 100%.
+Step 2:
+Calculate.
+\% \ \text{Cl}&=\frac{70.90 \ \text{g Cl}}{182.90 \ \text{g}} \times 100 \%=38.76 \% \ \text{Cl} \\\% \ \text{O}&=\frac{112.00 \ \text{g O}}{182.90 \ \text{g}} \times 100 \%=61.24 \% \ \text{O} \\
+Step 3:
+Think about your result.
+The percentages add up to 100%.
+Percent composition can also be used to determine the mass of a certain element that is contained in any mass of a compound.  In the previous sample problem, it was found that the percent composition of dichlorineheptoxide is 38.76% Cl and 61.24% O.  Suppose that you needed to know the masses of chlorine and oxygen present in a 12.50 g sample of dichlorineheptoxide.  You can set up a conversion factor based on the percent by mass of each element.
+12.50 \ \text{g Cl}_2 \text{O}_7 \times \frac{38.76 \ \text{g Cl}}{100 \ \text{g Cl}_2\text{O}_7}&=4.845 \ \text{g Cl} \\12.50 \ \text{g Cl}_2 \text{O}_7 \times \frac{61.24 \ \text{g O}}{100 \ \text{g Cl}_2\text{O}_7}&=7.655 \ \text{g O} \\
+The sum of the two masses is 12.50 g, the mass of the sample size.
+Processes are described for calculating the percent composition of a material based on mass or on chemical composition.
+Use the link below to review material and do calculations.
+Read both parts of the lesson and do as many calculations as you have time for.
+What is the formula for calculating percent composition?
+What information do you need to calculate percent composition by mass?
+What do subscripts in a chemical formula tell you?

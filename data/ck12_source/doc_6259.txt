@@ -1,0 +1,20 @@
+What is the heat of reaction?
+What units are used?
+During the experimental measurement of heat of reaction, is heat lost to the surroundings or gained from the surroundings?
+What is enthalpy?
+What is an extensive property?
+Do the states of reactants and products influence enthalpy values?
+enthalpy (H) :
+The heat content of a system at constant pressure.
+Perform calculations involving calorimetry relationships.
+The amount of calories contained in food can be measured using a bomb calorimeter
+How many calories are in your food?
+At one time, calories in foods were measured with a bomb calorimeter (see figure above).
+A weighed amount of the food would be placed in the calorimeter and the system was then sealed and filled with oxygen.
+An electric spark ignited the food-oxygen mixture.
+The amount of heat released when the food burned would give an idea of the food calories present.
+Today calories are calculated from the protein, carbohydrate, and fat content of the food (all determined by chemical analysis).
+No more bombs needed.
+Calorimetry is the measurement of the transfer of heat into or out of a system during a chemical reaction or physical process.
+A calorimeter is an insulated container that is used to measure heat changes.
+The majority of reactions that can be analyzed in a calorimetry experiment are either liquids or aqueous solutions.

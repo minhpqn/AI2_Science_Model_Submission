@@ -1,0 +1,20 @@
+This allows any problems with the design to be worked out before a final design is selected and produced.
+Q:
+Assume you want to design a product that lets a person in a wheelchair carry around small personal items so they are easy to access.
+What questions might you research first?
+A:
+You might research questions such as:
+What personal items are people likely to need to carry with them?
+What types of carriers or holders are there that might be modified for use by people in a wheelchair?
+Where might a carrier be attached to a wheelchair or person in a wheelchair without interfering with the operation of the chair or hindering the person?
+Q:
+Suppose you have come up with a possible solution to the problem described in the previous question.
+How might you make a model of your idea?
+How could you test your model?
+A:
+First, you might make a sketch of your idea.
+Then you could make an inexpensive model using simple materials such as cardboard, newspaper, tape, or string.
+You could test your model by trying to carry several personal items in it while maneuvering around a room in a wheelchair.
+You would also want to make sure that you could do things like open doors, turn on light switches, and get in and out of the chair without the carrier getting in the way.
+Technological design is the process in which new technology is developed.
+Steps of the technological design process include: identify a problem, research the problem, generate possible solutions, select the best solution, create a model, test the model, refine and retest the model as needed, and communicate the final solution.

@@ -1,0 +1,20 @@
+STP is defined as 1.00 atm and 0°C, or 273 K.
+Example Problem:
+Determine the volume of 1.00 mol of any gas at STP.
+Solution:  First isolate V from PV=nRT.
+Then plug in known values and solve.
+V=\frac{nRT}{P}=\frac{(1.00 \ \text{mol})(0.0821 \ \text{L} \cdot \text{atm/mol} \cdot \text{K})(273 \ \text{K})}{(1.00 \ \text{atm})}=22.4 \ \text{liters}
+For any gas at STP, one mole has a volume of 22.4 liters.
+This can be an extremely convenient conversion factor.
+Example Problem:
+A sample of oxygen gas occupies 10.0 liters at STP.
+How many moles of oxygen are in the container?
+n=\frac{PV}{RT}=\frac{(1.00 \ \text{atm})(10.0 \ \text{L})}{(0.0821 \ \text{L} \cdot \text{atm/mol} \cdot \text{K})(273 \ \text{K})}=0.446 \ \text{moles}
+The universal gas law is PV = nRT , where  P is pressure,  V is volume,  n is number of moles,  R is the universal gas law constant, and  T is the absolute temperature.
+The value of  R varies depending on the units used for  P and V .
+Two common values are 0.0821 \ \text{L} \cdot \text{atm/mol} \cdot \text{K} and R = 8.314 \ \text{J/mol} \cdot \text{K} .
+STP is standard temperature and pressure; 273 K and 1.00 atm.
+One mole of a gas at STP has a volume of 22.4 liters.
+The following video discusses the constant R .
+Use this resource to answer the questions that follow.
+Click on the image above for more content

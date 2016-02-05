@@ -1,0 +1,20 @@
+Step 2:
+Calculate.
+\frac{0.761 \ \text{g}}{1 \ \text{L}} \times \frac{22.4 \ \text{L}}{1 \ \text{mol}}=17.0 \ \text{g} / \text{mol}
+Step 3:
+Think about your result.
+Because the density of the gas is less than 1 g/L, the molar mass is less than 22.4.
+Calculations are described showing conversions between molar mass and density for gases.
+Use the link below to answer the following questions:
+Which of the gases has the highest density?
+Which gas has the lowest density?
+Would you expect nitrogen to have a higher or lower density that oxygen?
+Why?
+How is density calculated?
+How is molar mass calculated?
+What would be the volume of 3.5 moles of a gas?
+Mole Road Map
+Perform calculations involving interconversions of mass, moles, and volume of a gas.
+Chemistry road maps are similar to actual maps
+How do I get from here to there?
+If I want to visit the town of Manteo, North Carolina, out on the coast, I will need a map of how to get there.  I may have a printed map or I may download directions from the internet, but I need something to get me going in the right direction.  Chemistry road maps serve the same purpose.  How do I handle a certain type of calculation?

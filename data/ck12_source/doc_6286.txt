@@ -1,0 +1,20 @@
+The enthalpy change associated with the formation of one mole of a compound from its elements in their standard states.
+Calculating Heat of Reaction from Heat of Formation
+Calculate standard heat of reaction using standard heats of formation.
+Diamond has a different heat of reaction than graphite because of the different heat of formation
+How are diamonds made?
+Natural diamonds are mined from sites around the world.
+However, the price of natural diamonds is carefully controlled, so other sources for diamonds are being explored.
+Several different methods for producing synthetic diamonds are available, usually involving treating carbon at very high temperatures and pressures.
+The diamonds produced are now of high quality, but are primarily used in industrial applications.
+Diamonds are one of the hardest materials available and are widely used for cutting and grinding tools.
+Calculating Heat of Reaction from Heat of Formation
+An application of Hess’s law allows us to use standard heats of formation to indirectly calculate the heat of reaction for any reaction that occurs at standard conditions.
+An enthalpy change that occurs specifically under standard conditions is called the standard enthalpy (or heat) of reaction and is given the symbol \Delta H^\circ .
+The standard heat of reaction can be calculated by using the following equation.
+\Delta H^\circ= \sum n \Delta H_f^\circ(\text{products}) - \sum n \Delta H_f^\circ(\text{reactants})
+The symbol Σ is the Greek letter sigma and means “the sum of”.
+The standard heat of reaction is equal to the sum of all the standard heats of formation of the products minus the sum of all the standard heats of formation of the reactants.
+The symbol “ n ” signifies that each heat of formation must first be multiplied by its coefficient in the balanced equation.
+Click on the image above to view the table
+Sample Problem:

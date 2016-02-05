@@ -1,0 +1,20 @@
+Getting the same result when an experiment is repeated is called replication .
+If research results can be replicated, it means they are more likely to be correct.
+Repeated replication of investigations may turn a hypothesis into a theory.
+On the other hand, if results cannot be replicated they are likely to be incorrect.
+Why Replication Is Important in Science:
+An Example
+The following example shows why replication is important in science.
+In 1998, a British researcher published an article in a medical journal reporting that he had found a link between a common childhood vaccine and autism (see Figure below ).
+According to the article, children in his study developed autism soon after receiving the vaccine.
+Following publication of the article, many parents refused to have their children vaccinated.
+Several epidemics occurred as a result, and some children died of the diseases.
+Child receiving vaccination
+This child is receiving a vaccine.
+Soon after the original study was published, other researchers tried to replicate the research.
+However, it could not be replicated.
+No other studies could find a link between the vaccine and autism.
+As a result, scientists became convinced that the original results were incorrect.
+Eventually, investigators determined that the original study was a fraud.
+They learned that its author had received a large amount of money to find evidence that the vaccine causes autism, so he faked his research results.
+If other scientists had not tried to replicate the research, the truth might never have come out.

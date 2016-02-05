@@ -1,0 +1,20 @@
+Current flowing through a wire is like water flowing through a hose.
+Increasing voltage with a higher-volt battery increases the current.
+This is like opening the tap wider so more water flows through the hose.
+Increasing resistance reduces the current.
+This is like stepping on the hose so less water can flow through it.
+If you still aren’t sure about the relationships among current, voltage, and resistance, watch the video at this URL:
+Click on the image above for more content
+Using Ohm’s Law to Calculate Current
+You can use the equation for current (above) to calculate the amount of current flowing through a circuit when the voltage and resistance are known.
+Consider an electric wire that is connected to a 12-volt battery.
+If the wire has a resistance of 2 ohms, how much current is flowing through the wire?
+Current = \mathrm{\frac{12\;volts}{2\;ohms}} = 6 amps
+Q:
+If a 120-volt voltage source is connected to a wire with 10 ohms of resistance, how much current is flowing through the wire?
+A:
+Substitute these values into the equation for current:
+Current = \mathrm{\frac{120\;volts}{10\;ohms}} = 12 amps
+According to Ohm’s law, greater voltage results in more current and greater resistance results in less current.
+Ohm’s law can be represented by the equation:
+\mathrm{Current \ (amps)} = \mathrm{\frac{Voltage \ (volts)}{Resistance \ (ohms)}}

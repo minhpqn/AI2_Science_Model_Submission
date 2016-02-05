@@ -1,0 +1,20 @@
+Describe how a nuclear power plant generates electricity.
+Aerial view of a nuclear power plant
+When Things Go Awry
+On Wednesday, March 28, 1979, the residents of Middleton, PA woke up to a very scary situation.
+A nuclear power plant near the town had experienced a series of malfunctions that led to the release of some radioactive gases into the atmosphere, along with a partial meltdown of the reactor core.
+Fortunately, follow-up studies have shown that there were no health effects on workers or the general public.
+A thorough investigation was conducted that led to significant improvements in safety and operations of these power plants.
+One of the two reactors was shut down completely, but the other one is still in operation and will be permanently deactivated in 2014.
+Nuclear Power Generation
+The generation of electricity is critical for operation of businesses, health care delivery, schools, homes, and other areas requiring the use of electrical power.
+According to 2011 statistics, coal is used for 42% of the total power generated, with natural gas being employed for another 25%.
+Nuclear power plants are employed in about 19% of the cases, with renewable energy sources supplying the last 13%.
+All of these fuels are used to heat water to generate steam.
+The steam then turns a turbine to generate electricity.
+The diagram below shows the layout of a typical nuclear power plant.
+The radioactive rods are in the red container along with water, which is heated to steam.
+The energy for this heat comes from fission reactions of uranium.
+The steam passes through the turbine and causes the turbine to spin, generating electricity.
+As the steam condenses, it is run through a cooling tower to lower its temperature.
+The water then recirculates through the reactor core to be used again.

@@ -1,0 +1,20 @@
+How does Newton's Cradle work?
+How does a Newton's Cradle show conservation of momentum?
+A 0.111 kg hockey puck moving at 55 m/s is caught by a 80. kg goalie at rest.  With what speed does the goalie slide on the (frictionless) ice?
+A 0.050 kg bullet strikes a 5.0 kg stationary wooden block and embeds itself in the block.  The block and the bullet fly off together at 9.0 m/s.  What was the original velocity of the bullet?
+A 0.50 kg ball traveling at 6.0 m/s due east collides head on with a 1.00 kg ball traveling in the opposite direction at -12.0 m/s.
+After the collision, the 0.50 kg ball moves away at -14 m/s.  Find the velocity of the second ball after the collision.
+Two carts are stationary with a compressed spring between them and held together by a thread.
+When the thread is cut, the two carts move apart.  After the spring is released, one cart  m = 3.00 \ \text{kg} has a velocity of 0.82 m/s east.
+What is the magnitude of the velocity of the second cart  (m = 1.70 \ \text{kg}) after the spring is released?
+Two carts with a spring between them
+Compared to falling on a tile floor, a glass may not break if it falls onto a carpeted floor.  This is because
+less impulse in stopping.
+longer time to stop.
+both of these
+neither of these.
+A butterfly is hit by a garbage truck on the highway.  The force of the impact is greater on the
+it is the same for both.
+A rifle recoils from firing a bullet.
+The speed of the rifle’s recoil is small compared to the speed of the bullet because
+the force on the rifle is small.

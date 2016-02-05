@@ -1,0 +1,20 @@
+(0.00200 \ kg)(705 \ m/s) + (0.250 \ kg)(0 \ m/s) = (0.252 \ kg)(V)
+(1.41 \ kg \ m/s) =(0.252 \ kg)(V)
+V = 5.60 \ m/s
+(c) KE_{\text{COMBINATION}} = \frac{1}{2} \ mv^2 = \left(\frac{1}{2}\right)(0.252 \ kg)(5.60 \ m/s)^2 = 3.95 \ J
+KE_{\text{LOST}} = KE_{\text{BEFORE}} - KE_{\text{AFTER}} = 497 \ J - 4 \ J = 493 \ J
+In a closed system, energy may change forms but the total amount of energy is constant.
+The following video demonstrates Newton Ball tricks.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+What happens when one ball is pulled up to one side and released?
+What h appens when three balls are pulled up to one side and released?
+What happens when two balls are pulled out from each side and released?
+Practice problems with answers for the law of conservation of energy:
+A 15.0 kg chunk of ice falls off the top of an iceberg.  If the chunk of ice falls 8.00 m to the surface of the water,
+what is the kinetic energy of the chunk of ice when its hits the water, and
+what is its velocity?
+An 85.0 kg cart is rolling along a level road at 9.00 m/s.  The cart encounters a hill and coasts up the hill.
+Assuming the movement is frictionless, at what vertical height will the cart come to rest?
+Do you need to know the mass of the cart to solve this problem?
+A circus performer swings down from a platform on a rope tied to the top of a tent in a pendulum-like swing.

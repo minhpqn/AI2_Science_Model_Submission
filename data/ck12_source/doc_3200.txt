@@ -1,0 +1,20 @@
+You’ll often see the speed of sound given as 343 meters per second.
+But that’s just the speed of sound under a certain set of conditions, specifically, through dry air at 20 °C.
+The speed of sound may be very different through other matter or at other temperatures.
+Speed of Sound in Different Media
+Sound waves are mechanical waves, and mechanical waves can only travel through matter.
+The matter through which the waves travel is called the medium (plural, media).
+The Table below gives the speed of sound in several different media.
+Generally, sound waves travel most quickly through solids, followed by liquids, and then by gases.
+Particles of matter are closest together in solids and farthest apart in gases.
+When particles are closer together, they can more quickly pass the energy of vibrations to nearby particles.
+You can explore the speed of sound in different media at this URL:
+Medium (20 °C)
+Speed of Sound Waves (m/s)
+Q:
+The table gives the speed of sound in dry air.
+Do you think that sound travels more or less quickly through air that contains water vapor? (Hint:
+Compare the speed of sound in water and air in the table.)
+A:
+Sound travels at a higher speed through water than air, so it travels more quickly through air that contains water vapor than it does through dry air.
+Temperature and Speed of Sound

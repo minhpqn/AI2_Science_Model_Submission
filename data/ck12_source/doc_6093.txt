@@ -1,0 +1,20 @@
+State Charles’ Law.
+Use this law to perform calculations involving volume-temperature relationships.
+When bread is baked, the carbon dioxide inside expands
+How do you bake bread?
+Everybody enjoys the smell and taste of freshly-baked bread.
+It is light and fluffy as a result of the action of yeast on sugar.
+The yeast converts the sugar to carbon dioxide, which at high temperatures causes the dough to expand.
+The end-result is an enjoyable treat, especially when covered with melted butter.
+As a gas is heated at constant pressure, its volume increases
+As a container of confined gas is heated, its molecules increase in kinetic energy and push the movable piston outward, resulting in an increase in volume.
+French physicist Jacques Charles (1746-1823) studied the effect of temperature on the volume of a gas at constant pressure.
+Charles’s law states that the volume of a given mass of gas varies directly with the absolute temperature of the gas when pressure is kept constant.
+The absolute temperature is temperature measured with the Kelvin scale.
+The Kelvin scale must be used because zero on the Kelvin scale corresponds to a complete stoppage of molecular motion.
+Mathematically, the direct relationship of Charles’s law can be represented by the following equation:
+As with Boyle’s law, k is constant only for a given gas sample.
+The Table below shows temperature and volume data for a set amount of gas at a constant pressure.
+The third column is the constant for this particular data set and is always equal to the volume divided by the Kelvin temperature.
+When this data is graphed, the result is a straight line, indicative of a direct relationship, shown in Figure below .
+The volume of a gas increases as the Kelvin temperature increases

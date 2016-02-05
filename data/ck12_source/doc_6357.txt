@@ -1,0 +1,20 @@
+Entropy and Free Energy
+List factors that influence the entropy of a system.
+List situations that illustrate the concept of entropy.
+A jigsaw puzzle is initially very disordered
+What will it look like?
+When the pieces of a jigsaw puzzle are dumped from the box, the pieces naturally hit the table in a very random pattern.
+In order to put the puzzle together, a great deal of work must be done to overcome the natural disorder of the pieces.
+The pieces need to be turned right-side up, then sorted by color or edge (some people like to put the border together first).
+Then comes the challenge of finding the exact spot of each piece of the puzzle in order to get the final organized picture.
+There is a tendency in nature for systems to proceed toward a state of greater disorder or randomness.
+Entropy is a measure of the degree of randomness or disorder of a system.
+Entropy is an easy concept to understand when thinking about everyday situations.
+The entropy of a room that has been recently cleaned and organized is low.
+As time goes by, it likely will become more disordered and thus its entropy will increase (see Figure below ).
+The natural tendency of a system is for its entropy to increase.
+A messy room has more entropy than a neat room
+The messy room on the right has more entropy than the highly ordered room on the left.
+Chemical reactions also tend to proceed in such a way as to increase the total entropy of the system.
+How can you tell if a certain reaction shows an increase or a decrease in entropy?
+The molecular state of the reactants and products provide certain clues.

@@ -1,0 +1,20 @@
+The double helix shape forms naturally and is very strong, making the two polynucleotide chains difficult to break apart.
+How DNA folds into chromosomes
+DNA Molecule.
+Bonds between complementary bases help form the double helix of a DNA molecule.
+The letters A, T, G, and C stand for the bases adenine, thymine, guanine, and cytosine.
+The sequence of these four bases in DNA is a code that carries instructions for making proteins.
+Shown is how the DNA winds into a chromosome.
+An animation of DNA structure can be viewed at
+Roles of Nucleic Acids
+DNA is also known as the hereditary material or genetic information.
+It is found in genes, and its sequence of bases makes up a code.
+Between "starts" and "stops," the code carries instructions for the correct sequence of amino acids in a protein (see Figure below ).
+DNA and RNA have different functions relating to the genetic code and proteins.
+Like a set of blueprints, DNA contains the genetic instructions for the correct sequence of amino acids in proteins.
+RNA uses the information in DNA to assemble the correct amino acids and help make the protein.
+The information in DNA is passed from parent cells to daughter cells whenever cells divide.
+The information in DNA is also passed from parents to offspring when organisms reproduce.
+This is how inherited characteristics are passed from one generation to the next.
+RNA codon and protein sequence
+The letters G, U, C, and A stand for the bases in RNA.

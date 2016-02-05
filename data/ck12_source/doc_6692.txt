@@ -1,0 +1,20 @@
+Two-Dimensional and Projectile Motion
+The Big Idea
+In this chapter, we explore the motion of projectiles under the influence of gravity --- fired cannonballs, thrown basketballs, and other objects that have no way of propelling themselves and do not experience significant air resistance.
+We know that vectors can be separated into components (see first lesson); if they are separated into perpendicular components the motion along each component can be treated independently.
+This is the insight that allows us to solve two dimensional projectile motion problems: we break any initial velocity vector into a component parallel to the ground and a component perpendicular to it.
+The force of gravity --- which will be explained in more detail later --- accelerates any object near the surface of the earth toward its center at a rate of  g = 9.8 \mathrm{m/s^2}  .
+This acceleration is in the direction perpendicular to the surface of the earth, conventionally labeled  y  .
+Since in projectile motion under the sole influence of gravity any acceleration the object experiences is in the  y  direction, its horizontal, or  x  , velocity remains constant throughout its flight (at least in the absence of air resistance, which we ignore for the time being).
+To solve two dimensional motion problems, we apply the kinematics equations of one-dimensional motion to each of the two directions.
+In the  y  direction, we can use the uniform acceleration equations to solve for time in flight.
+Using this time, we can find how far the object traveled in the  x  direction also.
+Solve two dimensional problems by breaking all vectors into their x and y components.
+In order to solve two dimensional problems it is necessary to break all vectors into their x and y components.
+Different dimensions do not 'talk' to each other.
+Thus one must use the equations of motion once for the x-direction and once for the y-direction.
+For example, when working with the x-direction, one only includes the x-component values of the vectors in the calculations.
+Note that if an object is 'launched horizontally', then the full value is in the x-direction and there is no component in the y-direction.
+The first new concept introduced here is that of a vector: a scalar magnitude with a direction.
+In a sense, we are almost as good at natural vector manipulation as we are at adding numbers.
+Consider, for instance, throwing a ball to a friend standing some distance away.

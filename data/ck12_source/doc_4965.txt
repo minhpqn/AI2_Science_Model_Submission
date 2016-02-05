@@ -1,0 +1,20 @@
+Endocrine signals are hormones, produced by endocrine organs.
+These signals travel through the blood stream to reach all parts of the body.
+The target cell then needs to be able to recognize the signal.
+Chemical signals are received by the target cell on receptor proteins.
+Most receptor proteins are found associated with the plasma membrane, but some are also found inside the cell.
+Receptor proteins are very specific for only one particular signal molecule, much like a lock that recognizes only one key.
+Therefore, a cell has lots of receptor proteins to recognize the large number of cell signal molecules.
+There are three stages to sending and receiving a cell "message:" reception, transduction, and response.
+Reception occurs when a ligand binds to its receptor.
+Through transduction, the signal is then internalized.
+The ligand does not have to be internalized for this process to occur.
+The response may initiate a cascade of reactions including the activation/deactivation of enzymes and/or an alternation in gene transcription.
+cell receptor :
+Specialized proteins that take part in communication between the cell and the extracellular environment; often are integral membrane proteins.
+cell signaling :
+Part of a complex communication system that governs basic cellular activities and coordinates cell actions.
+endocrine signaling :
+Cell communication over long distances.
+hormone :
+A chemical messenger molecule.

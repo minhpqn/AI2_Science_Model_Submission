@@ -1,0 +1,20 @@
+A small amount of mass is “left over” and released as energy, as predicted by Einstein’s famous equation E = mc^2 , that relates mass and energy.
+This process is known as nuclear fission.
+The neutron must be a “slow” neutron, traveling at a speed that is approximately that of the molecules of a gas at the same temperature in the system producing the neutrons.
+High-speed (“fast”) neutrons will not result in nuclear fission.
+Fission reaction of Uranium-235
+Fission of a uranium nucleus produced by collision with a neutron.
+The example above illustrates the basic nuclear fission process.
+A neutron (generally produced by some controlled process, not usually a natural event) collides with an atom of U-235.
+Momentarily, a U-236 atom forms which then splits into two smaller atoms (Kr-93 and Ba-141) in the diagram.
+This process results in the release of three new neutrons, which can then initiate fission reactions with more atoms.
+We will see later how this propagation of neutrons can be employed in a reactor for the generation of electricity.
+An extended version of this process can be seen in the figure below.
+Not every collision of a neutron with U-235 results in a fission reaction.
+A neutron from the initial fission process may strike an atom of U-238, which does not continue the process.
+Another neutron may not collide with a nucleus and is lost in the environment.
+However, a third neutron produced from the initial collision can collide with more U-235 and continue the chain reaction to produce more neutrons.
+Chain fission reaction of Uranium-235
+Fission reaction with U-235.
+Typical nuclear fission reactions balance in terms of mass.
+The total mass of the reactants is equal to the total mass of the products:

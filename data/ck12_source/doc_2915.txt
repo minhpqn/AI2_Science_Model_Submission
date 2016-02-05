@@ -1,0 +1,20 @@
+If two individuals have a certain phenotype, does that mean they must have the same genotype?
+A tall, green plant is homozygous for each trait.
+If T is the tall allele, and G is the green allele, what is the genotype and the phenotype of this plant?
+Distinguish incomplete dominance from codominance.
+Describe the genetics of ABO blood types in humans.
+How would Mendel explain blood types?
+The inheritance of traits is not always as simple as Mendel's rules.
+Each characteristic Mendel investigated was controlled by one gene that had only two possible alleles, one of which was completely dominant over the other.
+We now know that inheritance is often more complicated than this.
+In blood types, for example, there are actually three alleles instead of two.
+And some traits even have more than three alleles.
+Exceptions to Mendel's Rules
+In all of Mendel’s experiments, he worked with traits where a single gene controlled the trait.
+Each also had one allele that was always dominant over the recessive allele.
+But this is not always true.
+There are exceptions to Mendel’s rules, and these exceptions usually have something to do with the dominant allele.
+If you cross a homozygous red flower with a homozygous white flower, according to Mendel's laws, what color flower should result from the cross?
+Either a completely red or completely white flower, depending on which allele is dominant.
+But since Mendel's time, scientists have discovered this is not always the case.
+One allele is NOT always completely dominant over another allele.

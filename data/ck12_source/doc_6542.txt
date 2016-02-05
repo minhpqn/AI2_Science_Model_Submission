@@ -1,0 +1,20 @@
+Molecules can differ in the way the atoms are arranged – the same combination of atoms can be assembled in more than one way.
+These compounds are known as isomers.
+Isomers are molecules with the same molecular formulas, but different arrangements of atoms.
+We will look at some isomer possibilities for alkanes and alkenes.
+A structural isomer is one in which two or more or organic compounds have the same molecular formulas but different structures.
+The two pentane molecules below differ only in the location of the methyl group.
+Example of alkane structural isomers
+Alkenes can also demonstrate structural isomerism.
+In alkenes, there are multiple structural isomers based on where in the chain the double bond occurs.
+The condensed structural formulas of 1-butene and 2-butene show this.
+Example of alkene structural isomers
+The number in the name of the alkene refers to the lowest numbered carbon in the chain that is part of the double bond.
+With a molecule such as 2-butene, a different type of isomerism called geometric isomerism can be observed.
+Geometric isomers are isomers in which the order of atom bonding is the same but the arrangement of atoms in space is different.
+The double bond in an alkene is not free to rotate because of the nature of the pi bond.
+Therefore, there are two different ways to construct the 2-butene molecule.
+The image below shows the two geometric isomers, called cis -2-butene and trans -2-butene.
+Cis and trans alkenes are geometric isomers
+The cis isomer has the two single hydrogen atoms on the same side of the molecule, while the trans isomer has them on opposite sides of the molecule.
+In both molecules, the bonding order of the atoms is the same.

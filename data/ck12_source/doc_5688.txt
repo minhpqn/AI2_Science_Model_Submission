@@ -1,0 +1,20 @@
+The peak of the wave
+frequency:
+Is the number of waves that pass a certain point in a specified amount of time.
+trough:
+The low point of the wave cycle.
+wavelength:
+The distance between two successive peaks.
+Quantization of Energy
+Describe the relationship between the amount of energy absorbed or released by an object and the frequency of the radiation observed.
+Every so often you hear a commercial or a news story with the words “quantum leap” in it.
+The quantum leap is supposed to be a major breakthrough, a big change, something extraordinarily large.
+The reality is far different.
+Instead of the big, extravagant change the “quantum” that scientists know about is a very small difference in the location of an electron around a nucleus – hardly an enormous shift at all.
+Quantization of Energy
+German physicist Max Planck (1858-1947) studied the emission of light by hot objects.
+You have likely seen a heated metal object glow an orange-red color (see Figure below ).
+A heated object gives off energy in quanta
+A heated object may glow different colors.
+The atoms in this piece of metal are releasing energy in discrete units called quanta.
+Classical physics, which explains the behavior of large, everyday objects, predicted that a hot object would emit electromagnetic energy in a continuous fashion.

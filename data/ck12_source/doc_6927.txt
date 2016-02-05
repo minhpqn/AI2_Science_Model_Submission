@@ -1,0 +1,20 @@
+The bird’s feet are 6\;\mathrm{cm} apart.
+The bird, itself, has a resistance of about 4 \times 10^5\ \Omega.
+What voltage does the bird feel?
+What current goes through the bird?
+What is the power dissipated by the bird?
+By how many Joules of energy does the bird heat up every hour?
+A 120\;\mathrm{V}, 75\;\mathrm{W} light bulb is shining in your room and you ask yourself…
+What is the resistance of the light bulb?
+How bright would it shine with a 9\;\mathrm{V} battery (i.e. what is its power output)?
+Students measure an unknown resistor and list their results in the Table ( below ); based on their results, complete the following:
+Show a circuit diagram with the connections to the power supply, ammeter and voltmeter.
+Graph voltage vs. current; find the best-fit straight line.
+Use this line to determine the resistance.
+How confident can you be of the results?
+Use the graph to determine the current if the voltage were 13\;\mathrm{V} .
+A certain 48-V electric forklift can lift up to 7000 lb at a maximum rate of 76 ft/min.
+What is its power?
+What current must the battery produce to achieve this power?
+Answers to Selected Problems
+a. 0.11 \;\mathrm{A} b. 1.0 \;\mathrm{W} c. 2.5 \times 10^{21} electrons d. 3636 \;\mathrm{W}

@@ -1,0 +1,20 @@
+Assume the person’s eyes are 6.0 cm below the top of the head.
+Solution:
+The law of reflection tells us that the angle of incidence equals the angle of reflection.
+From this, we know that the light ray leaving the person's toes will strike the mirror halfway between his toes and his eyes.
+The distance from the person’s toes to eyes is 1.74 m, so the bottom of the mirror must be 0.87 m above the floor.
+The light ray that leaves the top of the person’s head and reflects from the mirror into his eyes must strike the mirror 3.0 cm below the top of his head.
+Length of a mirror on the wall
+Therefore, the top of the mirror is 1.77 m above the floor and the bottom of the mirror is 0.87 m above the floor.
+The height of the mirror is 1.77 \ m - 0.87 \ m = 0.90 \ m .
+It doesn’t take much analysis to recognize that the distance the person stands from the mirror does NOT affect the results.
+If you can’t see your feet in a mirror, getting closer or farther away from the mirror won’t make any difference.
+When you look at an image of yourself in a plane mirror, there are some differences that are apparent.
+In the image below, you see a woman cleaning a mirror.
+The object woman has the cleaning cloth in her left hand.
+The image woman, however, is holding the cleaning cloth in her right hand.
+Images in a plane mirror are reversed left and right but are not reversed top and bottom.
+Picture of a woman and her reflection in a mirror
+Our eye and brain interpret any light rays that enter an eye as having traveled in a straight line path.
+For a plane mirror, the image will be the same size as the object and will be the same distance behind the mirror as the object is in front of the mirror.
+Since the light forming the image does not pass through the image, it is called a virtual image.

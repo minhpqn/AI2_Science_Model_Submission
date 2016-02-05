@@ -1,0 +1,20 @@
+This is easily determined when the oil drop is stationary; namely, when the downward gravitational force exactly equals the upward electrical force on the drop.
+Example Problem:  An oil drop weighs 1.9 \times 10^{-14} \ N .  It is suspended in an electric field whose intensity is 4.0 \times 10^4 \ N/C .  Since the oil drop is suspended, the gravitational force, 1.9 \times 10^{-4} \ N , is equal to the electrical force, F_E = Eq .
+What is the charge on the oil drop?
+Solution: q=\frac{weight}{E}=\frac{1.9 \times 10^{-14} \ N}{4.0 \times 10^4 \ N/C}=4.8 \times 10^{-19} \ C
+The charge on this particular oil drop was 4.8 \times 10^{-19} \ C .
+In doing his experiment, however, Millikan faced a problem.
+When the oil is sprayed through the atomizer, some oil drops are negatively charged, but we don’t know how many extra electrons the drops acquire.
+The charge on this oil drop could be the result of having one extra electron, or having five extra electrons.
+In order to determine the charge on one electron, the oil drop experiment was carried out many times, and the charges on many oil drops was determined.
+The smallest charge was found to be 1.6 \times 10^{-19} \ C , and all the other charges on oil drops were found to be whole number multiples of 1.6 \times 10^{-19} \ C .  In the example problem above, we would conclude that the oil drop held three extra electrons.
+Using a uniform electric field between two charged parallel plates and oil drops, Millikan determined the charge on a single electron.
+The friction of the oil passing through the narrow opening puts charges on many of the oil drops.
+When an oil drop is stopped by adjusting the charge on the plates, its weight, mg , downward equals the electrical force, E_q , upward.
+The video below covers the Millikan oil drop experiment in more detail.
+Use this resource to answer the following questions.
+Click on the image above for more content
+What was the purpose of the X-rays passing through the instrument?
+At which university was the oil drop experiment conducted?
+Give reasons for each drop requiring a different voltage to balance.
+Why do some oil drops not react to adjustments in voltage?

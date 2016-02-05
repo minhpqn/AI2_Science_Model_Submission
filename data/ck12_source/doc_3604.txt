@@ -1,0 +1,20 @@
+The Cell Cycle
+Cell division is just one of several stages that a cell goes through during its lifetime.
+The cell cycle is a repeating series of events that include growth, DNA synthesis, and cell division.
+The cell cycle in prokaryotes is quite simple: the cell grows, its DNA replicates, and the cell divides.
+In eukaryotes, the cell cycle is more complicated.
+The Eukaryotic Cell Cycle
+The diagram in Figure below represents the cell cycle of a eukaryotic cell.
+As you can see, the eukaryotic cell cycle has several phases.
+The mitotic phase (M) actually includes both mitosis and cytokinesis.
+This is when the nucleus and then the cytoplasm divide.
+The other three phases (G1, S, and G2) are generally grouped together as interphase .
+During interphase, the cell grows, performs routine life processes, and prepares to divide.
+These phases are discussed below.
+You can watch a eukaryotic cell going through these phases of the cell cycle at the following link:
+Eukaryotic Cell Cycle
+Eukaryotic Cell Cycle.
+This diagram represents the cell cycle in eukaryotes.
+The First Gap, Synthesis, and Second Gap phases make up interphase (I).
+The M (mitotic) phase includes mitosis and cytokinesis.
+After the M phase, two cells result.

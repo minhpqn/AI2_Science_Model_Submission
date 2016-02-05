@@ -1,0 +1,20 @@
+Over time, the ancient internal prokaryote turned into an organelle, resulting in a large cell with an internal organelle.
+By definition, this is an eukaryotic cell.
+Unlike nuclear DNA which is inherited from the father and mother, mitochondrial DNA (mtDNA is most often inherited from mothers.
+However paternal mtDNA occasionally slips through with sperm.
+The technical process is still unclear but a study was down using Caenorhabditis elegans that showed double membrane vesicles, called autophagosomes, engulf paternal mitochondria and destroy them.
+Since mothers provide the mtDNA and fathers will never pass on a mtDNA, a child shares the same or similar mtDNA sequence as does his/her siblings and mother.
+This direct inheritance has allowed biologists to track the origin of modern human and to draw maternal lineages.
+Unfortunately, maternal mt(DNA)is susceptible to mutations which are a cause of inherited disease, such as breast cancer.
+Although, it is important to note that most mutations do not lead to defected mtDNA.
+Heteroplasmy is the presence of a mixture of more than one type of mtDNA.
+Most people have homoplasmic cells, meaning that their cells contain only normal, undefected mtDNA.
+However, people with both normal, undefected mtDNA and not normal, defected mtDNA, may inherit mitochondrial diseases.
+The ultimate condition leading to disease is when the proportion of mutant mtDNA reaches a threshold, after which the cell can no longer cope, resulting in disease.
+This threshold varies among different tissues and different mutations.
+ATP ( adenosine triphosphate ):
+Energy-carrying molecule that cells use to power their metabolic processes; energy-currency of the cell.
+ATP synthase :
+Ion channel and enzyme complex; chemically bonds a phosphate group to ADP, producing ATP as H + ions flow through the ion channel.
+cellular respiration :
+Metabolic process which transfers chemical energy from glucose (a deliverable fuel molecule) to ATP (a usable energy-rich molecule); most efficient in the presence of oxygen (aerobic).

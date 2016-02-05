@@ -1,0 +1,20 @@
+Elements and Protons
+For an atom of one element to change into a different element, the number of protons in its nucleus must change.
+That’s because each element has a unique number of protons.
+For example, lead atoms always have 82 protons, and gold atoms always have 79 protons.
+Q:
+So how can one element change into another?
+A:
+The starting element must be radioactive, and its nuclei must gain or lose protons.
+Radioactivity is the ability of an atom to emit, or give off, charged particles and energy from its nucleus.
+The charged particles and energy are called by the general term radiation .
+Only unstable nuclei emit radiation.
+They are unstable because they have too much energy, too many protons, or an unstable ratio of protons to neutrons.
+For example, all elements with more than 83 protons—such as uranium, radium, and polonium—have unstable nuclei.
+They are called radioactive elements.
+The nuclei of these elements must lose protons to become more stable.
+When they do, they become different elements.
+How Radioactivity Was Discovered
+Radioactivity was discovered in 1896 by a French physicist named Antoine Henri Becquerel, who is pictured below .
+Becquerel was experimenting with uranium, which was known to glow after being exposed to sunlight.
+Becquerel wanted to see if the glow was caused by rays of energy, like rays of light or X-rays.

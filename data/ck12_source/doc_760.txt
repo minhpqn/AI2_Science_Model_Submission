@@ -1,0 +1,20 @@
+Examples of devices that help protect users from electricity
+The amount of electric current that passes through a circuit depends on the voltage pushing the current and the resistance opposing the flow of current.
+Circuits are designed for a specific voltage and resistance so that the current flow will be known.
+If the current is too large, the heat loss can damage the circuit, burn the resistors, or even burn the surrounding objects.
+Even with circuits designed to prevent such situations, accidents can happen, such as when wires touch each other unexpectedly.
+To prevent disasters, electrical circuits contain devices such as electrical fuses, circuit breakers, and surge protectors  to control the amount of current in the circuit.
+Examples of these devices are shown above, and explained below.
+Controlling Current in Electric Circuits
+In the wiring of a building, the wires carrying the current in and out are different and never touch directly.
+The charge passing through the circuit always passes through an appliance (which acts as a resistor) or through another resistor, which limits the amount of current that can flow through a circuit.
+Appliances are designed to keep current at a relatively low level for safety purposes.
+The appropriate voltage and resistance in a circuit keeps the current in control and keeps the circuit safe.
+It is possible, however, for something to happen that causes the wire bringing the current in to come into contact with either the wire carrying the current out or the ground wire, thus causing what is called a  short circuit .
+In a short circuit, some or all of the resistance is cut out of the circuit allowing the voltage to push a huge current through the wires.
+For example, if a circuit has a potential difference of 100 volts and it is intended for the circuit to contain a 100 ohm resistance, then the wires carrying the current for this circuit will be designed for 1.0 amp.
+If that 100 ohm resistance is suddenly cut out of the circuit and only 0.10 ohm resistance remains, then the voltage will push 1000 amps of current through the circuit.
+This current overheats the wires and may damage the circuits or start a fire in the walls or the appliance.
+There are many possible causes of a short circuit, one possible cause could be something overheating, melting wires, and thereby fusing the circuit closed, bypassing the resistance.  Another cause might be something damaging the insulation of a wire, allowing the incoming and grounds wires to touch.
+In any case, once the resistance is lost, the voltage pushes a huge amount of charge through the wires causing them to overheat.
+There are multiple ways to prevent these situations from occurring.

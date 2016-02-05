@@ -1,0 +1,20 @@
+Why is it a good idea for Noreen to open her bag of chips before she drives to the top of a high mountain?
+How much pressure are you exerting on the floor when you stand on one foot? (You will need to estimate the area of your foot in square meters.)
+Calculate the amount of force exerted on a 2 \;\mathrm{cm} \times 2 \;\mathrm{cm} patch of your skin due to atmospheric pressure (P_0 = 101,000 \;\mathrm{Pa}) .
+Why doesn’t your skin burst under this force?
+Assuming that the pressure of the atmosphere decreases exponentially as you rise in elevation according to the formula P = P_0 e^\frac{-h} {a} , where P_0 is the atmospheric pressure at sea level (101,000 \;\mathrm{Pa}) , h is the altitude in km and a is the scale height of the atmosphere (a \approx 8.4 \;\mathrm{km}) .
+Use this formula to determine the change in pressure as you go from San Francisco to Lake Tahoe, which is at an elevation approximately 2 \;\mathrm{km} above sea level.
+If you rise to half the scale height of Earth’s atmosphere, by how much does the pressure decrease?
+If the pressure is half as much as on sea level, what is your elevation?
+An instructor has an ideal monatomic helium gas sample in a closed container with a volume of 0.01\;\mathrm{m}^3 , a temperature of 412 \;\mathrm{K} , and a pressure of 474 \;\mathrm{kPa} .
+Approximately how many gas atoms are there in the container?
+Calculate the mass of the individual gas atoms.
+Calculate the speed of a typical gas atom in the container.
+The container is heated to 647 \;\mathrm{K} .
+What is the new gas pressure?
+While keeping the sample at constant temperature, enough gas is allowed to escape to decrease the pressure by half.
+How many gas atoms are there now?
+Is this number half the number from part (a)?
+Why or why not?
+The closed container is now compressed isothermally so that the pressure rises to its original pressure.
+What is the new volume of the container?

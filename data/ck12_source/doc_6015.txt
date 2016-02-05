@@ -1,0 +1,20 @@
+Sample Problem:
+Volume-Volume Stoichiometry
+The combustion of propane gas produces carbon dioxide and water vapor.
+\text{C}_3 \text{H}_8 (g)+5\text{O}_2 (g) \rightarrow 3\text{CO}_2 (g)+4\text{H}_2 \text{O} (g)
+What volume of oxygen is required to completely combust 0.650 L of propane?
+What volume of carbon dioxide is produced in the reaction?
+Step 1:
+List the known quantities and plan the problem.
+given: 0.650 L C 3 H 8
+1 volume C 3 H 8 = 5 volumes O 2
+1 volume C 3 H 8 = 3 volumes CO 2
+volume O 2 = ?
+L
+volume CO 2 = ?
+L
+Two separate calculations can be done using the volume ratios.
+Step 2:
+Solve.
+0.650 \text{ L C}_3 \text{H}_8 \times \frac{5 \text{ L O}_2}{1 \text{ L C}_3 \text{H}_8} &= 3.25 \text{ L O}_2\\0.650 \text{ L C}_3 \text{H}_8 \times \frac{3 \text{ L CO}_2}{1 \text{ L C}_3 \text{H}_8} &= 1.95 \text{ L CO}_2
+Step 3:

@@ -1,0 +1,20 @@
+Students will also learn when a force is acting as a centripetal force and how to apply it.
+F_C = \frac{mv^2}{r} \begin{cases}m & \text{mass (in kilograms, kg)}\\\v & \text{speed (in meters per second, m/s}\text{)}\\\r & \text{radius of circle}\end{cases}
+a_C = \frac{v^2}{r} \begin{cases}v & \text{speed (in meters per second, m/s}\text{)}\\r & \text{radius of circle}\end{cases}
+If a mass  m  is traveling with velocity  \vec{v}  and experiences a centripetal --- always perpendicular --- force  \vec{F_c}  , it will travel in a circle of radius
+r = \frac{m v^2}{|\vec{F}|} \text{ [1]}\intertext{Alternatively, to keep this mass moving at this velocity in a circle of this radius, one needs to apply a centripetal force of}\vec{F_c} = \frac{mv^2}{r} \text{ [2]}\intertext{By Newton's Second Law, this is equivalent to a centripetal acceleration of:}\vec{F_c} =\cancel{m}\vec{a_c} = \cancel{m}\frac{v^2}{r} \text{ [3]}
+If you are 4m from the center of a Merry-Go-Round that is rotating at 1 revolution every 2 seconds, what is your centripetal acceleration?
+First we need to find your tangential velocity.
+We can do this using the given angular velocity.
+\omega&=\frac{2\pi\text{ rad}}{2\text{ s}}\\\omega&=\pi\text{ rad/s}\\\omega&=\frac{v}{r}\\v&=\omega r\\v&=\pi\;\text{rad/s}*4\;\text{m}\\v&=4\pi\;\text{m/s}
+Now we can find your centripetal acceleration using the radius of your rotation.
+Watch this explanation
+Ladybug Motion in 2D (PhET Simulation)
+A 6000 kg roller coaster goes around a loop of radius 30m at 6 m/s.
+What is the centripetal acceleration?
+For the Gravitron ride above, assume it has a radius of 18 m and a centripetal acceleration of 32 m/s 2 .
+Assume a person is in the graviton with 180 cm height and 80 kg of mass.
+What is the speed it is spinning at?
+Note you may not need all the information here to solve the problem.
+1.2 m/s 2
+Centripetal Force Problems

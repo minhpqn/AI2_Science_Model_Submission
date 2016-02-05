@@ -1,0 +1,20 @@
+The resulting positive value of  \Delta G indicates that the reaction is not spontaneous at 25°C.
+Step 3:
+Think about your result.
+The unfavorable driving force of increasing enthalpy outweighed the favorable increase in entropy.
+The reaction will be spontaneous only at some elevated temperature.
+Available values for enthalpy and entropy changes are generally measured at the standard conditions of 25°C and 1 atm pressure.
+The values are slightly temperature dependent and so we must use caution when calculating specific  \Delta G values at temperatures other than 25°C.
+However, since the values for  \Delta H and  \Delta S do not change a great deal, the tabulated values can safely be used when making general predictions about the spontaneity of a reaction at various temperatures.
+Calculations of free energy changes are described.
+Watch the video at the link below and answer the following questions:
+Click on the image above for more content
+Why is  \Delta H negative in this example?
+What would happen if you forgot to change the sign of the T\Delta S value in the first calculation?
+What indicates that the reaction is spontaneous?
+What would happen to  \Delta H if you forgot to change the units for  \Delta S to kJ/K • mol ?
+What are standard conditions for enthalpy and entropy changes?
+At what temperature would the reaction become spontaneous?
+Temperature and Free Energy
+Describe the effect of temperature on \Delta G .
+The production of steel is nonspontaneous at low temperatures, but spontaneous at higher temperatures

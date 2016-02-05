@@ -1,0 +1,20 @@
+Radar stands for radio detection and ranging.
+It is the use of reflected microwaves to determine vehicle speeds, track storms, or detect air traffic.
+At the following URL, run the microwave simulation.
+Simulate heating a cup of coffee in the microwave oven and view the waves as a curve.
+Observe what happens to the molecules of coffee and its temperature as you change power levels, starting at 25% and working up to 100%.
+Then answer the questions below.
+Describe how the microwaves change as you increase the power of the microwave oven.
+What happens to the molecules and the temperature of the coffee as you increase the power?
+Relate the change in microwaves to the change in molecules and temperature.
+What are microwaves?
+Identify uses of microwaves.
+How does a cell phone use microwaves to encode and transmit sounds?
+What does radar stand for?
+How does radar work?
+Identify electromagnetic waves that are commonly called light.
+Describe infrared light and its sources.
+Distinguish visible light from other wavelengths of light.
+Describe ultraviolet light, and explain why it is dangerous.
+Slip!
+Slop!

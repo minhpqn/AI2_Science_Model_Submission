@@ -1,0 +1,20 @@
+This cyclist is in constant motion as he competes in an off-road mountain bike race.
+Both his speed and his direction keep changing.
+Velocity is a measure that represents both speed and direction.
+Changes in velocity are measured by acceleration .
+Acceleration reflects how quickly velocity is changing.
+It may involve a change in speed, a change in direction, or both.
+You can see off-road bikers accelerating in these ways in the exciting mountain bike race at this URL:
+Calculating Average Acceleration in One Direction
+Calculating acceleration is complicated if both speed and direction are changing or if you want to know acceleration at any given instant in time.
+However, it’s relatively easy to calculate average acceleration over a period of time when only speed is changing.
+Then acceleration is the change in velocity (represented by Δv) divided by the change in time (represented by Δt):
+\text{acceleration}=\frac{\Delta v}{\Delta t}
+Accelerating on a Bike
+Look at the cyclist in the Figure below .
+With the help of gravity, he speeds up as he goes downhill on a straight part of the trail.
+His velocity changes from 1 meter per second at the top of the hill to 6 meters per second by the time he reaches the bottom.
+If it takes him 5 seconds to reach the bottom, what is his average acceleration as he races down the hill?
+\text{acceleration} & =\frac{\Delta v}{\Delta t} \\\ & = \frac{6 \ \text{m/s}-1 \ \text{m/s}}{5 \ \text{s}} \\\ & = \frac{5 \ \text{m/s}}{5 \ \text{s}} \\\ & = \frac{1 \ \text{m/s}}{1 \ \text{s}} \\\ & = 1 \ \text{m/s}^2
+In words, this means that for each second the cyclist travels downhill, his velocity (in this case, his speed) increases by 1 meter per second on average.
+Note that the answer to this problem is expressed in m/s 2 , which is the SI unit for acceleration.

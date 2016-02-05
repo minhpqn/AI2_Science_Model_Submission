@@ -1,0 +1,20 @@
+Crystal Structures of Metals
+Define closest packing.
+Describe closest packing arrangements in metals.
+<> Stacking cannonballs is like a crystal structure
+How would you stack cannon balls?
+Before modern artillery with explosive shells, cannons were used to fire cannon balls at the enemy.  The soldiers operating the cannon needed to be able to get to the cannon balls quickly and efficiently.
+An arrangement such as the pyramid worked well for the purpose.
+Crystal Structures of Metals
+When identical spheres are stacked, each successive layer fits into the small spaces where different spheres come together.  This orderly and regular arrangement of the metal balls minimizes the empty space between them.  Closest packing is the most efficient arrangement of spheres.  Atoms of a metal crystal are arranged in similar patterns, called close-packed structures.  Pure metals adopt one of several related close-packed structures as shown below.
+Diagram of body centered, face centered, and hexagonal crystal structures
+Most pure metals naturally adopt one of these three closest packing arrangements.
+On the far left is the body-centered cubic (bcc) structure.  In that crystal, metal atoms occupy the eight corners of a cube along with one atom in the very center.  The coordination number of each atom in the body-centered cubic structure is 8.  In the face-centered cubic (fcc) structure, there are eight atoms at each corner of the cube and six atoms in the center of each face.  The coordination number of each atom in the face-centered cubic structure is 12.  The hexagonal close-packed (hcp) structure also has a coordination number of 12, but crystals of this type are hexagonally shaped rather than cubic.
+Atoms of a metal crystal are arranged in close-packed structures.
+This type of structure minimizes the empty space between the atoms.
+Use the link below to answer the following questions:
+Is simple cubic packing an efficient way to stack spheres?
+What is the coordination number of a body-centered cubic stacking?
+What is the most efficient way of stacking spheres?
+How much space is filled with this structure?
+What is the most efficient arrangement of spheres?

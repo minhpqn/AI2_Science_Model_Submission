@@ -1,0 +1,20 @@
+This process is called exocytosis.
+In addition to the Golgi apparatus and ER, vesicles can also fuse with other organelles within the cell.
+Vesicles from the Golgi apparatus can be seen in Figure below .
+Because a vesicle is essentially a small organelle, the space inside the vesicle can be chemically different from the cytosol.
+It is within the vesicles that the cell can perform various metabolic activities, as well as transport and store molecules.
+Vesicles from the Golgi apparatus can be seen in this figure.
+Types of Vesicles
+Vesicles can be classified by their contents and function.
+Transport vesicles are part of the endomembrane system.
+They are able to move molecules such as proteins between locations inside the cell.
+For example, transport vesicles move proteins from the rough endoplasmic reticulum to the Golgi apparatus.
+Lysosomes are vesicles that are formed by the Golgi apparatus.
+They contain powerful enzymes that could break down (digest) the cell.
+Lysosomes break down harmful cell products, waste materials, and cellular debris and then force them out of the cell.
+They also digest invading organisms such as bacteria.
+Lysosomes also break down cells that are ready to die, a process called autolysis.
+Peroxisomes are vesicles that use oxygen to break down toxic substances in the cell.
+Unlike lysosomes, which are formed by the Golgi apparatus, peroxisomes self-replicate by growing bigger and then dividing.
+They are common in liver and kidney cells that break down harmful substances.
+Peroxisomes are named for the hydrogen peroxide (H 2 O 2 ) that is produced when they break down organic compounds.

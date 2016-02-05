@@ -1,0 +1,20 @@
+Carbonic acid / hydrogen carbonate ion
+H 2 CO 3 / HCO 3 −
+Dihydrogen phosphate ion / hydrogen phosphate ion
+H 2 PO 4 − / HPO 4 2−
+Ammonia / ammonium ion
+NH 3 / NH 4 +
+One example of a buffer is a solution made of acetic acid (the weak acid) and sodium acetate (the salt).
+The pH of a buffer consisting of 0.50 M CH 3 COOH and 0.50 M CH 3 COONa is 4.74.
+If 10.0 mL of 1.0 M HCl is added to 1.0 L of the buffer, the pH only decreases to 4.73.
+This ability to “soak up” the additional hydrogen ions from the HCl that was added is due to the reaction below.
+\text{CH}_3\text{COO}^-(aq)+\text{H}^+(aq) \rightarrow \text{CH}_3\text{COOH}(aq)
+Since both the acetate ion and the acetic acid were already present in the buffer, the only thing that changes is the ratio of one to the other.
+Small changes in that ratio have only very minor effects on the pH.
+If 10.0 mL of 1.0 M NaOH were added to another 1.0 L of the same buffer, the pH would only increase to 4.76.
+In this case the buffer takes up the additional hydroxide ions.
+\text{CH}_3\text{COOH}(aq)+\text{OH}^-(aq) \rightarrow \text{CH}_3\text{COO}^-(aq)+\text{H}_2\text{O}(l)
+Again the ratio of acetate ion to acetic acid changes slightly, this time causing a very small increase in the pH.
+It is possible to add so much acid or base to a buffer that its ability to resist a significant change in pH is overwhelmed.
+The buffer capacity is the amount of acid or base that can be added to a buffer solution before a large change in pH occurs.
+The buffer capacity is exceeded when the number of moles of H + or OH − that are added to the buffer exceeds the number of moles of the buffer components.

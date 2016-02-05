@@ -1,0 +1,20 @@
+List blood types in humans.
+Describe how blood type is determined.
+Explain universal donors and universal recipients.
+What's your type?
+As this woman donates blood, you can see her blood collecting in a special bag.
+This bag is coded with her blood type.
+That makes it possible for doctors and nurses to match up the blood she is giving to a recipient that has the same blood type.
+Do you know what your blood type is?
+Maybe you have heard people say that they have type A or type O blood.
+Blood type is a way to describe the type of antigens , or proteins, on the surface of red blood cells (RBCs).
+There are four blood types;
+A, B, AB, and O.
+Type A blood has type A antigens on the RBCs in the blood.
+Type AB blood has A and B antigens on the RBCs.
+Type B has B antigens on the RBCs.
+Type O does not have either A or B antigens.
+The ABO blood group system is important if a person needs a blood transfusion.
+A blood transfusion is the process of putting blood or blood products from one person into the circulatory system of another person.
+The blood type of the recipient needs to be carefully matched to the blood type of the donor.
+That's because different blood types have different types of antibodies, or proteins, released by the blood cells.

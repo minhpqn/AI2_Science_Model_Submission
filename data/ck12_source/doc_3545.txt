@@ -1,0 +1,20 @@
+Facilitated diffusion is a type of passive transport.
+Even though facilitated diffusion involves transport proteins, it is still passive transport because the solute is moving down the concentration gradient.
+Small nonpolar molecules can easily diffuse across the cell membrane.
+However, due to the hydrophobic nature of the lipids that make up cell membranes, polar molecules (such as water) and ions cannot do so.
+Instead, they diffuse across the membrane through transport proteins.
+A transport protein completely spans the membrane, and allows certain molecules or ions to diffuse across the membrane.
+Channel proteins, gated channel proteins, and carrier proteins are three types of transport proteins that are involved in facilitated diffusion.
+A channel protein , a type of transport protein, acts like a pore in the membrane that lets water molecules or small ions through quickly.
+Water channel proteins (aquaporins) allow water to diffuse across the membrane at a very fast rate.
+Ion channel proteins allow ions to diffuse across the membrane.
+A gated channel protein is a transport protein that opens a "gate," allowing a molecule to pass through the membrane.
+Gated channels have a binding site that is specific for a given molecule or ion.
+A stimulus causes the "gate" to open or shut.
+The stimulus may be chemical or electrical signals, temperature, or mechanical force, depending on the type of gated channel.
+For example, the sodium gated channels of a nerve cell are stimulated by a chemical signal which causes them to open and allow sodium ions into the cell.
+Glucose molecules are too big to diffuse through the plasma membrane easily, so they are moved across the membrane through gated channels.
+In this way glucose diffuses very quickly across a cell membrane, which is important because many cells depend on glucose for energy.
+A carrier protein is a transport protein that is specific for an ion, molecule, or group of substances.
+Carrier proteins "carry" the ion or molecule across the membrane by changing shape after the binding of the ion or molecule.
+Carrier proteins are involved in passive and active transport.

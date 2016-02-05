@@ -1,0 +1,20 @@
+What Is Resistance?
+In physics, resistance is opposition to the flow of electric charges in an electric current as it travels through matter.
+The SI unit for resistance is the ohm.
+Resistance occurs because moving electrons in current bump into atoms of matter.
+Resistance reduces the amount of electrical energy that is transferred through matter.
+That’s because some of the electrical energy is absorbed by the atoms and changed to other forms of energy, such as heat.
+You can see an animation of resistance at the level of atoms and electrons at this URL:
+Q:
+In the rugby analogy to resistance in physics, what do the players on each team represent?
+A:
+The player on the blue and black team represents a moving electron in an electric current.
+The players on the red and blue team represent particles of matter through which the current is flowing.
+Factors That Affect Resistance
+How much resistance a material has depends on several factors: the type of material, its width, its length, and its temperature.
+All materials have some resistance, but certain materials resist the flow of electric current more or less than other materials do.
+Materials such as plastics have high resistance to electric current.
+They are called electric insulators.
+Materials such as metals have low resistance to electric current.
+They are called electric conductors.
+A wide wire has less resistance than a narrow wire of the same material.

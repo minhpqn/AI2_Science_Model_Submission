@@ -1,0 +1,20 @@
+Scientists often represent the electromagnetic wave with the image below.
+Diagram of an electromagnetic wave
+The black line represents the straight path of the light itself.
+Along this path, there exists an electric field that will reach a maximum positive charge, slowly collapse to zero charge, and then expand to a maximum negative charge.
+Similarly, there is an changing magnetic field that oscillates from maximum north pole field to maximum south pole field.
+Along the path of the electromagnetic wave, these changing fields repeat, oscillating over and over again.
+However, the oscillating electric and magnetic fields demonstrate a weaving pattern that is not the way light travels.
+For an electromagnetic wave, the crests and troughs represent the oscillating fields, not the path of the light.
+Although light waves look different from waves in a rope, we still characterize light waves by their wavelength, frequency, and velocity.
+We can measure along the path of the wave the distance the wave travels between one crest and the succeeding crest, which is the wavelength of the electromagnetic radiation.
+Like transverse waves through a medium, the frequency of electromagnetic waves is the number of full cycles of waves that pass a certain point in a set unit of time.
+The velocity for all electromagnetic waves traveling through a vacuum is the same:  3.00 \times 10^8 \ m/s , which is symbolized by the lower case c .
+The relationship, then, for the velocity, wavelength, and frequency of electromagnetic waves is: c = \lambda f .
+The entire spectrum of electromagnetic waves includes very low energy electric waves up to very high energy gamma rays.
+As you probably know, ultraviolet rays, X-rays, and radio waves are also waves on the electromagnetic spectrum.
+The full electromagnetic spectrum is shown below.
+You can see that visible light is a very small fraction of the electromagnetic spectrum.
+The electromagnetic spectrum
+The colors that we see are blends of some number of individual frequencies of visible light.  The surface of materials have chemical structures that cause particular frequencies of light to be either absorbed or reflected.
+Our eyes pick up the frequencies that are reflected (or generated) by the object and the frequencies are blended so that we see one color.

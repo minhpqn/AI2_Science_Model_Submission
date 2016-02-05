@@ -1,0 +1,20 @@
+In the liquid state, the molecular motion and the molecular attractions are more balanced.
+While the particles stay more or less in contact with each other, they are still free to move and can slide past one another easily.
+In the solid state, the attractive forces dominate.
+The particles are pulled together into a tightly packed pattern which does not allow the particles to pass each other.
+The molecular motion in this form is essentially reduced to vibration in place.
+Increasing the temperature of a substance means increasing the molecular motion (kinetic energy) of the molecules in the substance.
+The phase in which a substance exists is the result of a competition between attractive forces and molecular motion.
+Diagrams illustrating the differences between gas, liquid, and solid states
+For most substances, when the temperature of the solid is raised high enough, the substance changes to a liquid, and when the temperature of the liquid is raised high enough, the substance changes to a gas.
+We typically visualize a solid as tiny particles in constant motion held together by attractive forces.
+As we add heat to the solid, the motion, or the kinetic energy, of the particles increases.
+At some temperature, the motion of the particles becomes great enough to overcome the attractive forces.
+The thermal energy that was added to the solid up to this point was absorbed by the solid as kinetic energy, increasing the speed of the molecules.
+The lowest temperature at which the particles are able to exist in the liquid form is called the melting point .
+In order for the molecules to actually separate from each other, more energy must be added.
+This energy, called  heat of fusion or heat of melting, is absorbed by the particles as potential energy as the solid changes to a liquid.
+Recognize that, once the temperature of a solid has been raised to the melting point, it is still necessary for the solid to absorb additional thermal energy in the form of potential energy as the molecules separate.
+The boiling point of a liquid is the temperature at which the particles have sufficient molecular motion to exist in the form of a gas.
+Once again, however, in order for the particles to separate to the gaseous form, they must absorb a sufficient amount of potential energy.
+The amount of potential energy necessary for a phase change to gaseous form is called the heat of vaporization .

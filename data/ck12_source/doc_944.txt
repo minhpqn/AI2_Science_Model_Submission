@@ -1,0 +1,20 @@
+The mass lost in mass defect has gone into energy that is called binding energy.
+Each nucleus has competing forces.
+The repulsive force between the protons tends to blow the nucleus apart and the binding energy tends to hold the nucleus together.
+If the repulsion overcomes the average binding energy per nucleon, the nucleus may blow apart or undergo nuclear disintegration.
+Early researchers in radioactivity found that the emissions from radioactivity could be classified into three distinct types according to their penetrating power.
+They named these three types of radiation alpha (\alpha) , beta (\beta) , and gamma  (\gamma) respectively.
+When a nucleus emits an  \alpha particle, the remaining particle will contain two less protons and two less neutrons.
+As a result of beta decay, the daughter product will have the same mass number as the parent and an atomic number one greater than the parent.
+Follow up questions:
+Why does the Geiger counter record clicks even when there is no radioactive source present?
+What is the charge on an alpha particle?
+What is the charge on a beta particle?
+Write the nuclear equation showing beta decay of a copper-64 nucleus.
+Write the nuclear equation showing the alpha decay of a uranium-238 nucleus.
+What element is formed by the beta decay of sodium-24?
+What element is formed by the alpha decay of bismuth-211?
+mass defect:
+The amount by which the mass of an atomic nucleus is less than the sum of the masses of its constituent particles.
+binding energy:
+The net energy required to decompose a nucleus into its components.

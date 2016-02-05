@@ -1,0 +1,20 @@
+effective collision:
+Bonds break between atoms.
+ineffective collision:
+No rearrangement of atoms occurs.
+Define activation energy.
+Fireworks do not detonate until lit because they have a high activation energy
+How do fireworks light up the sky?
+The sight of fireworks exploding across the night sky is always exciting.
+These materials, invented hundreds of years ago, can be dangerous if not handled properly.
+The chemicals do not react until the fuse burns down and heat is applied to the system.
+Then the rocket is launched and explodes high in the sky.
+Picture of calcium metal
+Calcium metal stored in an argon atmosphere.
+Why do some chemical reactions occur readily while others require input of heat in order to take place?
+If we mix metallic sodium with water, a reaction occurs immediately, releasing a great deal of heat (enough to ignite the hydrogen gas that is formed).
+Group II metals, such as calcium, react at a much slower rate.
+Unlike the extremely vigorous reaction with sodium, the reaction with calcium is slow enough that we can trap the hydrogen gas released.
+Supplying reactant particles with energy causes the bonds between the atoms to vibrate with a greater frequency.
+This increase in vibrational energy makes a chemical bond more likely to break and a chemical reaction more likely to occur when those particles collide with other particles.
+The activation energy for a reaction is the minimum energy that colliding particles must have in order to undergo a reaction.

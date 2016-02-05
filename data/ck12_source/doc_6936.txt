@@ -1,0 +1,20 @@
+Well the second path is ten times the resistance of the first, so it will have one tenth of the total current.
+Thus, there is approximately and 0.069 Amps going through the 90\Omega and 10\Omega path and 0.621Amps going through the 10\Omega path.
+P_{10 \Omega} &= I^2_{10\Omega}R_{10 \Omega}=(0.621A)^2(10\Omega)=3.8W\\P_{90+10\Omega} &= I^2_{90+10\Omega}R_{90 + 10 \Omega}=(0.069A)^2(100\Omega)=0.5W
+We now know that the 20\Omega is the brightest, 10\Omega is second and then the 90\Omega and last the 10\Omega (-these last two have same current flowing through them, so 90\Omega is brighter due to its higher resistance).
+^* Note:
+Adding up these two plus the 9.5W from the 20\Omega resistor gives us 13.8W, which is the total power previously calculated, so we have confidence everything is good.
+Click on the image above for more content
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+Circuit Construction Kit (DC Only) (PhET Simulation)
+What will the ammeter read for the circuit shown to the right?
+You can use the simulation below to check your answer.
+Click on the blue arrow and select the part of the circuit you want to track.
+Then scroll down to the Data tab and you can see the current and voltage in different parts of the circuit.
+Click on the image above for more content
+Draw the schematic of the following circuit.
+Analyze the circuit below.
+Find the current going out of the power supply
+How many Joules per second of energy is the power supply giving out?

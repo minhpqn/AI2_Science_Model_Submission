@@ -1,0 +1,20 @@
+Limiting factors include a low food supply and lack of space.
+Limiting factors can lower birth rates, increase death rates, or lead to emigration.
+When organisms face limiting factors, they show logistic growth (S-shaped curve, curve B:
+Figure below ).
+Competition for resources like food and space cause the growth rate to stop increasing, so the population levels off.
+This flat upper line on a growth curve is the carrying capacity.
+The carrying capacity (K) is the maximum population size that can be supported in a particular area without destroying the habitat.
+Limiting factors determine the carrying capacity of a population.
+Recall that when there are no limiting factors, the population grows exponentially.
+In exponential growth (J-shaped curve, curve A:
+Figure below ), as the population size increases, the growth rate also increases.
+Organisms show exponential growth in the absence of limiting factors, while they show logistic growth in the presence of limiting factors
+Exponential and Logistic Growth.
+Curve A shows exponential growth.
+Curve B shows logistic growth.
+Notice that the carrying capacity (K) is also shown.
+Food Supply as Limiting Factor
+If there are 12 hamburgers at a lunch table and 24 people sit down at a lunch table, will everyone be able to eat?
+At first, maybe you will split hamburgers in half, but if more and more people keep coming to sit at the lunch table, you will not be able to feed everyone.
+This is what happens in nature.

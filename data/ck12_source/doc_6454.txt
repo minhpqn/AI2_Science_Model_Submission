@@ -1,0 +1,20 @@
+H 2 , Br 2 , Na, Be, K, O 2 , P 4 , all have oxidation number of 0.
+Monatomic ions have oxidation number equal to charge.  Li^+ = +1 ,  Ba^{2+}= +2 ,  Fe^{3+}= +3 , I^{-}= -1 , O^{2-}= -2 , etc.
+Alkali metal oxidation numbers = +1.
+Alkaline earth oxidation numbers = +2.
+Aluminum = +3 in all of its compounds.
+Oxygen’s oxidation number is -2 except when in hydrogen peroxide (H 2 O 2 ), or a peroxide ion (O 2 2- ) where it is -1.
+Hydrogen’s oxidation number is +1, except for when bonded to metals as the hydride ion forming binary compounds.
+In LiH, NaH, and CaH 2 , the oxidation number is -1.
+Fluorine has an oxidation number of -1 in all of its compounds.
+Halogens (Cl, Br, I) have negative oxidation numbers when they form halide compounds.
+When combined with oxygen, they have positive numbers.
+In the chlorate ion (ClO 3 - ), the oxidation number of Cl +5, and the oxidation number of O is -2.
+In a neutral atom or molecule, the sum of the oxidation numbers must be 0.
+In a polyatomic ion, the sum of the oxidation numbers of all the atoms in the ion must equal the charge on the ion.
+Sample Problem:
+What is the oxidation number for Mn in the compound KMnO 4 ?
+The oxidation number for K is +1 (rule 2)
+The oxidation number for O is -2 (rule 2)
+Since this is a compound (there is no charge indicated on the molecule), the net charge on the molecule is zero (rule 6)
+So we have +1 + Mn + 4(-2) &= 0 \\Mn -7 &= 0 \\ Mn &= +7

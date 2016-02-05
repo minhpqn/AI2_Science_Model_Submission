@@ -1,0 +1,20 @@
+A = B = C \ldots they’re all at the same electric potential
+Below are the electric potential lines for a certain arrangement of charges.
+Draw the direction of the electric field for all the black dots.
+A metal sphere with a net charge of +5\ \mu \mathrm{C} and a mass of 400 \;\mathrm{g} is placed at the origin and held fixed there.
+Find the electric potential at the coordinate (6 \;\mathrm{m}, 0) .
+If another metal sphere of -3 \ \mu \mathrm{C} charge and mass of 20 \;\mathrm{g} is placed at the coordinate (6 \;\mathrm{m}, 0) and left free to move, what will its speed be just before it collides with the metal sphere at the origin?
+Collisions of electrons with the surface of your television set give rise to the images you see.
+How are the electrons accelerated to high speed?
+Consider the following: two metal plates (The right hand one has small holes allow electrons to pass through to the surface of the screen.), separated by 30 \;\mathrm{cm} , have a uniform electric field between them of 400 \;\mathrm{N/C} .
+Find the force on an electron located at a point midway between the plates
+Find the voltage difference between the two plates
+Find the change in electric potential energy of the electron when it travels from the back plate to the front plate
+Find the speed of the electron just before striking the front plate (the screen of your TV)
+a. 7500\mathrm{V} b. 1.5 \;\mathrm{m/s}
+a. 6.4 \times 10^{-17}\;\mathrm{N} b. 1300\mathrm{V} c. 2.1 \times 10 ^{-16} \;\mathrm{J} d. 2.2 \times 10^7 \;\mathrm{m/s}
+Describe what an electric field is and draw electric field lines.
+Calculate electric fields, find the direction a charge would move upon entering an electric field, and determine the force on that charge.
+Students will learn what an electric field is, how to draw electric field lines and how to calculate electric fields.
+They will also learn to apply the electric field in order to find the direction a charge would move upon entering the field and the force on it.
+E = \frac{k q}{r^2} \; \;  ;

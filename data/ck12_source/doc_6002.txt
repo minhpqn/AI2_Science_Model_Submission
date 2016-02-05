@@ -1,0 +1,20 @@
+Describe everyday applications of the concept of stoichiometry.
+Determining the amount of lab equipment is a form of stoichiometry
+How much equipment do you need for an experiment?
+You are in charge of setting out the lab equipment for a chemistry experiment.
+If you have twenty students in the lab (and they will be working in teams of two) and the experiment calls for three beakers and two test tubes, how much glassware do you need to set out?
+Figuring this out involves a type of balanced equation and the sort of calculations you would do for a chemical reaction.
+You have learned about chemical equations and the techniques used in order to balance them.
+Chemists use balanced equations to allow them to manipulate chemical reactions in a quantitative manner.
+Before we look at a chemical reaction, let’s consider the equation for the ideal ham sandwich.
+Making a ham sandwich involves stoichiometry
+The ideal ham sandwich.
+Our ham sandwich is composed of 2 slices of ham (H), a slice of cheese (C), a slice of tomato (T), 5 pickles (P), and 2 slices of bread (B).
+The equation for our sandwich is shown below:
+2\text{H}+\text{C}+\text{T}+5\text{P}+2\text{B} \rightarrow \text{H}_2\text{CTP}_5\text{B}_2
+Now let us suppose that you are having some friends over and need to make five ham sandwiches.
+How much of each sandwich ingredient do you need?
+You would take the number of each ingredient required for one sandwich (its coefficient in the above equation) and multiply by five.
+Using ham and cheese as examples and using a conversion factor, we can write:
+5 \text{H}_2\text{CTP}_5\text{B}_2 \times \frac{2 \ \text{H}}{1 \ \text{H}_2 \text{CTP}_5\text{B}_2} &= 10 \ \text{H}\\5 \text{H}_2\text{CTP}_5\text{B}_2 \times \frac{1 \ \text{C}}{1 \ \text{H}_2\text{CTP}_5\text{B}_2} &= 5 \ \text{C}
+The conversion factors contain the coefficient of each specific ingredient as the numerator and the formula of on sandwich as the denominator.

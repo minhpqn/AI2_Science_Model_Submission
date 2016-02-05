@@ -1,0 +1,20 @@
+CDKs are present in all eukaryotes, and their regulatory function in the cell cycle has been evolutionarily conserved.
+CDKs are small proteins with little more than the kinase domain.
+A CDK binds to a cyclin regulatory protein, activating the protein; without binding to cyclin, the CDK has little kinase activity.
+CDKs phosphorylate their substrates on serines and threonines, so they are serine-threonine kinases.
+CDKs are also involved in regulating transcription, mRNA processing, and the differentiation of nerve cells.
+The cell cycle has key checkpoints.
+When the cell receives key signals or information via feedback regulation , the cell can begin the next phase of the cell cycle.
+The cell can also receive signals that delay passage to the next phase of the cell cycle.
+These signals allow the cell to complete the previous phase before moving forward.
+Three key checkpoints are the cell growth (G 1 ) checkpoint, the G 2 checkpoint, and the mitosis checkpoint.
+The DNA synthesis checkpoint is another checkpoint.
+The cell growth (G 1 ) checkpoint allows the cell to proceed into the S phase of the cell cycle and continue on to divide, or delay division, or enter a resting stage.
+The cell spends most of the cycle in the G 1 phase.
+G 1 is where the cell carries out its main functions.
+If the cell has performed its functions and has grown to significant size to be divided in half, key proteins will signal the cell to proceed to the S phase and stimulate DNA replication to begin.
+If the cells are not to divide, such as some muscle and nerve cells, the cell will stop at this checkpoint and move into a resting phase, G 0 .
+Some cells may stay in this resting period permanently, never dividing.
+The second checkpoint is located at the end of G 2 phase.
+Passing this checkpoint triggers the start of the mitosis.
+If this checkpoint is passed, the cell initiates the many molecular processes that signal the beginning of mitosis.

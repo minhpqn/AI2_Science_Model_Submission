@@ -1,0 +1,20 @@
+When dealing with oxidation numbers, we must always include the charge on the atom.
+Another way to determine the oxidation number of Mn in this compound is to recall that the permanganate anion (MnO 4 ) has a charge of -1.
+In this case:
+Mn + 4(-2) &= -1 \\Mn -8 &= -1 \\Mn &= +7
+Sample Problem:
+What is the oxidation number for iron in Fe 2 O 3 ?
+& O \text{ is} -2 \ (\text{rule } 2) \\& 2Fe + 3(-2) = 0 \\& 2Fe = 6 \\& Fe = 3.
+If we have the compound FeO, then  Fe + (-2) = 0 and Fe = 2 .
+Iron is one of those materials that can have more than one oxidation number.
+The halogens (except for fluorine) can also have more than one number.
+In the compound NaCl, we know that Na is +1, so Cl must be -1.
+But what about NaClO 3 ?
+Na & =1 \\O & = -2 \\1 + Cl + 3(-2) &= 0 \\1 + Cl - 6 & = 0. \\Cl - 5 &= 0 \\Cl &= +5.
+Not quite what we expected, but Cl, Br, and I will exhibit multiple oxidation numbers in compounds.
+Rules for determining oxidation numbers are listed.
+Examples of oxidation number determinations are provided.
+Work the problems at the link below:
+What is the oxidation number for the element zinc?
+Nitrogen can exist in several oxide forms.
+What is the oxidation number of N in NO? in N 2 O? in NO 2 ?

@@ -1,0 +1,20 @@
+Describe how air pressure in the atmosphere changes from sea level to the top of the atmosphere.
+What factors explain why atmospheric pressure changes as altitude increases?
+Explain how differences in air pressure allow us to breathe.
+State Pascal’s law.
+Describe how Pascal’s law applies to a tube of toothpaste.
+Explain how transmission of fluid pressure is used in brakes and other equipment.
+Did you ever watch someone make balloon animals like this turkey?
+When you blow up a balloon, you force air inside the balloon through a small opening.
+The air spreads out and presses against the inside of the balloon, forcing it to expand.
+Pressure always spreads throughout a contained fluid like air in a balloon.
+Pressure and Force
+Pressure is the amount of force acting on a given area.
+It is represented by the equation:
+The pressure exerted by a fluid increases if more force is applied or if the same force is applied over a smaller area.
+The equation for pressure can be rewritten as:
+Force = Pressure × Area
+This equation shows that the same pressure applied to a greater area increases the force.
+Pascal and His Law
+Some of the earliest scientific research on pressure in fluids was conducted by a French mathematician and physicist named Blaise Pascal (1623–1662).
+The SI unit of pressure, the Pascal (Pa), is named for him because of his important research.

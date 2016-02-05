@@ -1,0 +1,20 @@
+Step 2:
+Solve.
+42.23 \text{ g } NH_4Cl \times \frac{1 \text{ mol } NH_4Cl}{53.50 \text{ g } NH_4Cl} &= 0.7893 \text{ mol } NH_4Cl\\\frac{0.7893 \text{ mol } NH_4Cl}{0.5000 \text{ L}} &= 1.579 \text{ M}
+Step 3:
+Think about your result.
+The molarity is 1.579 M, meaning that a liter of the solution would contain 1.579 mol NH 4 Cl.
+Four significant figures are appropriate.
+In a laboratory situation, a chemist must frequently prepare a given volume of solutions of a known molarity.
+The task is to calculate the mass of the solute that is necessary.
+The molarity equation can be rearranged to solve for moles, which can then be converted to grams.
+See sample problem 16.3.
+A chemist needs to prepare 3.00 L of a 0.250 M solution of potassium permanganate (KMnO 4 ).
+What mass of KMnO 4 does she need to make the solution?
+Step 1:
+List the known quantities and plan the problem.
+molarity = 0.250 M
+volume = 3.00 L
+molar mass KMnO 4 = 158.04 g/mol
+mass KMnO 4 = ? g
+Moles of solute is calculated by multiplying molarity by liters.

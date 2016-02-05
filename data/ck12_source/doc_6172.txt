@@ -1,0 +1,20 @@
+Then, moles is converted to grams.
+Step 2:
+Solve.
+\text{mol KMnO}_4 = 0.250 \text{ M KMnO}_4 \times 3.00 \text{ L} &= 0.750 \text{ mol KMnO}_4\\0.750 \text{ mol KMnO}_4 \times \frac{158.04 \text{ g KMnO}_4}{1 \text{ mol KMnO}_4} &=119 \text{ g KMnO}_4
+Step 3:
+Think about your result.
+When 119 g of potassium permanganate is dissolved into water to make 3.00 L of solution, the molarity is 0.250 M.
+Watch a video of molarity calculations:
+Click on the image above for more content
+Calculations using the concept of molarity are described.
+Read the material and work the problems at the site below:
+What does M stand for?
+What does molarity tell us that percent solution information does not tell us?
+What do we need to know about a molecule in order to carry out molarity calculations?
+molarity (M):
+The number of moles of solute dissolved in one liter of solution.
+Describe the process for preparing solutions.
+Precision is very important in chemistry
+How much water do I add?
+Back in the “good old days” (whenever that really was), many cooks didn’t bother with careful measurements.

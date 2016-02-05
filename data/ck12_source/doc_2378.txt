@@ -1,0 +1,20 @@
+How can you tell how many significant figures there are in the measurement?
+There are several rules for counting significant figures:
+Leading zeros are never significant.
+For example, in the number 006.1, only the 6 and 1 are significant.
+Zeros within a number between nonzero digits are always significant.
+For example, in the number 106.1, the zero is significant, so this number has four significant figures.
+Zeros that show only where the decimal point falls are not significant.
+For example, the number 470,000 has just two significant figures (4 and 7).
+The zeros just show that the 4 represents hundreds of thousands and the 7 represents tens of thousands.
+Therefore, these zeros are not significant.
+Trailing zeros that aren't needed to show where the decimal point falls are significant.
+For example, 4.00 has three significant figures.
+Q:
+How many significant figures are there in each of these numbers: 20,080, 2.080, and 2000?
+A:
+Both 20,080 and 2.080 contain four significant figures, but 2000 has just one significant figure.
+Determining Significant Figures in Calculations
+When measurements are used in a calculation, the answer cannot have more significant figures than the measurement with the fewest significant figures.
+This explains why the homework answer above is wrong.
+It has more significant figures than the measurement with the fewest significant figures.

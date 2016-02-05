@@ -1,0 +1,20 @@
+Students will learn to break down and solve capacitor circuits.
+C = \frac{Q}{V} && \text{Definition of Capacitance}
+C_{\text{parallel}} &= C_1 + C_2 + C_3 + \dots && \text{Capacitors in parallel add like resistors in series}\\\frac{1}{C_{\text{series}}} &= \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3}+ \dots && \text{Capacitors in series add like resistors in parallel}
+When a capacitor is placed in a circuit, current does not actually travel across it.
+Rather, equal and opposite charge begins to build up on opposite sides of the capacitor --- mimicking a current --- until the electric field in the capacitor creates a potential difference across it that balances the voltage drop across any parallel resistors or the voltage source itself (if there are no resistors in parallel with the capacitor).
+The ratio of charge on a capacitor to potential difference across it is called capacitance.
+It is important to break down a complicated circuit into the equivalent capacitance using the rules for capacitors in series and capacitors in parallel.
+Also remember that capacitors in parallel have the same voltage while capacitors in series have the same charge.
+In the circuit shown below, determine (a) the total capacitance and (b) the total charge stored.
+(a):
+In solving this problem, we'll call the 20\;\mu\text{F} capacitor C_1 , the 60\;\mu\text{F} capacitor C_2 , the 40\;\mu\text{F} capacitor C_3 , and the 100\;\mu\text{F} capacitor C_4 .
+Our first step will be to find the equivalent capacitance of C_2 and C_3 .
+\frac{1}{C_{2,3}}&=\frac{1}{C_2}+\frac{1}{C_3}\\\frac{1}{C_{2,3}}&=\frac{1}{60\;\mu\text{F}} + \frac{1}{40\;\mu\text{F}}\\\frac{1}{C_{2,3}}&=\frac{5}{120\;\mu\text{F}}\\C_{2,3}&=24\;\text{F}\\
+Next, we'll combine the capacitance of C_{2,3} and C_4 .
+C_{2,3,4}&=C_{2,3} + C_4\\C_{2,3,4}&=24\;\mu\text{F} + 100\;\mu\text{F}\\ C_{2,3,4}&=124\;\mu\text{F}\\
+Finally, we can combine C_{2,3,4} with C_1 to find the total capacitance.
+\frac{1}{C_{eq}}&=\frac{1}{C_1} + \frac{1}{C_{2,3,4}}\\\frac{1}{C_{eq}}&=\frac{1}{20\;\mu\text{F}} + \frac{1}{124\;\mu\text{F}}\\\frac{1}{C_{eq}}&=.058\;\mu\text{F}^{-1}\\C_{eq}&=17.22\;\mu\text{F}\\
+(b):
+Now we can use this value to find the total charge stored on all the capacitors by also using the voltage provided on the diagram.
+Q&=CV\\Q&=17.22\;\mu\text{F} * 10\;\text{V}\\Q&=172.2\mu\text{C}

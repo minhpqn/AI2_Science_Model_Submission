@@ -1,0 +1,20 @@
+The Big Idea
+For static electric charges, the electromagnetic force is manifested by the Coulomb electric force alone.
+If charges are moving, an additional force emerges, called magnetism.
+The 19^{th} century realization that electricity and magnetism are dual aspects of the same force completely changed our understanding of the world we live in.
+Insights due to Ampere, Gauss, and Maxwell led to the understanding that moving charges – electric currents – create magnetic fields.
+Varying magnetic fields create electric fields.
+Thus a loop of wire in a changing magnetic field will have current induced in it.
+This is called electromagnetic induction.
+Magnetic fields are usually denoted by the letter B and are measured in Teslas, in honor of the Serbian physicist Nikola Tesla.
+Describe magnetic field lines and how they behave in the situation of permanent magnets and current carrying wires.
+Calculate the magnetic field at an arbitrary distance from the wire.
+Students will learn the idea of magnetic field lines, how they behave in the situation of permanent magnets and current carrying wires and also how to calculate the magnetic field at an arbitrary distance from the wire.
+Magnetic fields are usually denoted by the letter B and are measured in Teslas, in honor of the Serbian physicist Nikola Tesla.
+B_{\text{wire}} = \frac{\mu_0 I}{2 \pi r}&& \text{Magnetic field at a distance } r \text{ from a current-carrying wire}\\\\text{Where } \mu_0=4 \pi \times 10^{-7} \; \text{Tm/A} && \text{Permeability of Vacuum (approximately same for air also)}
+Permanent magnets (like refrigerator magnets) consist of atoms, such as iron, for which the magnetic moments (roughly electron spin) of the electrons are “lined up” all across the atom.
+This means that their magnetic fields add up, rather than canceling each other out.
+The net effect is noticeable because so many atoms have lined up.
+The magnetic field of such a magnet always points from the north pole to the south.
+The magnetic field of a bar magnet, for example, is illustrated below:
+If we were to cut the magnet above in half, it would still have north and south poles; the resulting magnetic field would be qualitatively the same as the one above (but weaker).

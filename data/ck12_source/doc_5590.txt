@@ -1,0 +1,20 @@
+The volume of a regular object can be calculated by multiplying its length by its width by its height.
+Since each of those is a linear measurement, we say that units of volume are derived from units of length.
+The SI unit of volume is the cubic meter (m 3 ), which is the volume occupied by a cube that measures 1 m on each side.
+This very large volume is not very convenient for typical use in a chemistry laboratory.
+A liter (L) is the volume of a cube that measures 10 cm (1 dm) on each side.
+A liter is thus equal to both 1000 cm 3 (10 cm × 10 cm × 10 cm) and to 1 dm 3 .
+A smaller unit of volume that is commonly used is the milliliter (mL – note the capital L which is a standard practice).
+A milliliter is the volume of a cube that measures 1 cm on each side.
+Therefore, a milliliter is equal to a cubic centimeter (cm 3 ).
+There are 1000 mL in 1 L, which is the same as saying that there are 1000 cm 3 in 1 dm 3 .
+Picture of a water bottle
+A typical water bottle is 1 liter in volume
+Picture of a Rubik's Cube
+Rubik’s cube.
+This Rubik’s cube is 5.7 cm on each side and has a volume of 185.2 cm 3 or 185.2 mL.
+A graduated cylinder is used to measure volume
+Graduated cylinder.
+Volume in the laboratory is often measured with a graduated cylinder, which come in a variety of sizes.
+Length is the measurement of the extent of something along its greatest dimension.
+Volume is the amount of space occupied by a sample of matter.

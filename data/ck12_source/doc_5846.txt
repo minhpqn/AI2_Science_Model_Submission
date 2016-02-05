@@ -1,0 +1,20 @@
+chromium(II), Cr 2+
+cobalt(III), Co 3+
+tin(IV), Sn 4+
+mercury(I), Hg 2 2+
+cobalt(II), Co 2+
+gold(III), Au 3+
+silver, Ag +
+copper(II), Cu 2+
+iron(III), Fe 3+
+iron(II), Fe 2+
+lead(II), Pb 2+
+manganese(II), Mn 2+
+mercury(II), Hg 2+
+nickel(II), Ni 2+
+platinum(II), Pt 2+
+tin(II), Sn 2+
+zinc, Zn 2+
+Uses for Transition Metals
+Because there are so many metals in this group, there are a wide variety of uses.
+Many of the metals are used in electronics, while others (such as gold and silver) are used in monetary systems.  Iron is a versatile structural material.  Cobalt, nickel, platinum, and other metals are employed as catalysts in a number of chemical reactions.  Zinc is a significant component of batteries.

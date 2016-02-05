@@ -1,0 +1,20 @@
+It’s the only one that produces a right-side up image.
+A lens is a transparent object, typically made of glass, with one or two curved surfaces.
+A lens refracts light and forms an image.
+A concave lens is thicker at the edges than it is in the middle.
+This causes rays of light to diverge.
+The light forms a virtual image that is right-side up and smaller than the object.
+A convex lens is thicker in the middle than at the edges.
+This causes rays of light to converge.
+The light forms a real or virtual image depending on the distance of the object from the lens.
+At the following URL, vary the location of the object in the animation and observe what happens to the image.
+What can you infer from your observations?
+What is a lens?
+What does it do?
+Describe the image formed by a concave lens.
+Explain how a hand lens forms an enlarged image of an object.
+Explain how optical instruments form images.
+Describe how lasers and optical fibers work.
+This colorful burst of “spaghetti” is really a bundle of optical fibers.
+These are hair-thin threads of glass that transmit laser light that has been encoded with messages.
+Optical fibers are a crucial component of modern communications.

@@ -1,0 +1,20 @@
+We then simplify R_1 and R_{23} which are series resistors.
+R_T=R_1+R_{23}=110 \ \Omega + 99 \ \Omega = 209 \ \Omega
+We can then find the total current, I_T=\frac{V_T}{R_T}=\frac{24 \ V}{209 \ \Omega}=0.11 \ A .
+All the current must pass through R_1 , so I_1=0.11 \ A .
+The voltage drop through R_1 is (110 \ \Omega) (0.11 \ A)=12.6 \text{ volts} .
+Therefore, the voltage drop through R_2 and R_3 is 11.4 volts.
+I_2=\frac{V_2}{R_2}=\frac{11.4 \ V}{180 \ \Omega}=0.063 \ A and I_3=\frac{V_3}{R_3}=\frac{11.4 \ V}{220 \ \Omega}=0.052 \ A
+Combined circuit problems should be solved in steps.
+The video below explains the process of simplifying a circuit that contains both series and parallel parts.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+In a circuit that contains both series and parallel parts, which parts of the circuit are simplified first?
+In the circuit drawn below, which resistors should be simplified first?
+Practice circuit with a total of four resistors and a current source
+Two 60.0 Ω resistors are connected in parallel and this parallel arrangement is then connected in series with a 30.0 Ω resistor.
+The combination is placed across a 120.
+V potential difference.
+Draw a diagram of the circuit.
+What is the equivalent resistance of the parallel portion of the circuit?
+What is the equivalent resistance for the entire circuit?

@@ -1,0 +1,20 @@
+Identify examples of polygenic traits in humans.
+Green, blue, brown, black, hazel, violet, or grey.
+What color are your eyes?
+Of course human eyes do not come in multi-color, but they do come in many colors.
+How do eyes come in so many colors?
+Are there more than two alleles?
+Is there more than one gene?
+That brings us to complex inheritance patterns, known as non-Mendelian inheritance.
+Many times inheritance is more complicated than the simple patterns observed by Mendel.
+Non-Mendelian Modes of Inheritance
+The relationship between genotype and phenotype is rarely as simple as the examples Mendel studied.
+Each characteristic he studied had two alleles, one of which was completely dominant and the other completely recessive, resulting in only two phenotypes.
+Geneticists now know that alleles can be codominant, or incompletely dominant, and that there are usually more than two alleles for a gene in a population.
+Complicating issues further, some phenotypes are controlled by more than one gene.
+What happens when there are two alleles in a heterozygote and neither allele is completely dominant nor completely recessive?
+Can both traits appear in the phenotype?
+Essentially, yes they can.
+Can there be two dominant alleles for the same gene?
+Codominance occurs when both traits appear in a heterozygous offspring.
+For example, roan shorthorn cattle have codominant genes for hair color.

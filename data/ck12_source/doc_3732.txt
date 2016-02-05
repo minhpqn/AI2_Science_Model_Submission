@@ -1,0 +1,20 @@
+For example, the amino acid lysine has the codon AAG, so the anticodon is UUC.
+Therefore, lysine would be carried by a tRNA molecule with the anticodon UUC.
+Wherever the codon AAG appears in mRNA, a UUC anticodon on a tRNA temporarily binds to the codon.
+While bound to the mRNA, the tRNA gives up its amino acid.
+Bonds form between adjacent amino acids as they are brought one by one to the ribosome, forming a polypeptide chain.
+The chain of amino acids keeps growing until a stop codon is reached.
+To see how this happens, go the link below.  (1:29)
+Structure of tRNA
+The tRNA structure is a very important aspect in its role.
+Though the molecule folds into a 3-leaf clover structure, notice the anticodon arm in the lower segment of the molecule, with the amino acid attached at the opposite end of the molecule (acceptor stem).
+It is the anticodon that determines which codon in the mRNA the tRNA will bind to.
+After a polypeptide chain is synthesized, it may undergo additional processes.
+For example, it may assume a folded shape due to interactions among its amino acids.
+It may also bind with other polypeptides or with different types of molecules, such as lipids or carbohydrates.
+Many proteins travel to the Golgi apparatus to be modified for the specific job they will do.
+You can see how this occurs by watching the animation at this link:
+Translation is the RNA → Protein part of the central dogma.
+Translation occurs at a ribosome.
+During translation, a protein is synthesized using the codons in mRNA as a guide.
+All three types of RNA play a role in translation.

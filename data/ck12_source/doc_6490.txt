@@ -1,0 +1,20 @@
+Schematic of a proposed cold fusion design
+Do we have heat yet?
+In 1989, two scientists announced that they had achieved “cold fusion”, the process of fusing together elements at essentially room temperature to achieve energy production.
+The hypothesis was that the fusion would produce more energy than was required to cause the process to occur.
+Their process involved the electrolysis of heavy water (water molecules containing some deuterium instead of normal hydrogen) on a palladium electrode.
+The experiments could not be reproduced and their scientific reputations were pretty well shot.
+However, in more recent years, both industry and government researchers are taking another look at this process.
+The device illustrated above is part of a government project, and NASA is completing some studies on the topic as well.
+Cold fusion may not be so “cold” after all.
+A voltaic cell uses a spontaneous redox reaction to generate an electric current.
+It is also possible to do the opposite.
+When an external source of direct current is applied to an electrochemical cell, a reaction that is normally nonspontaneous can be made to proceed.
+Electrolysis is the process in which electrical energy is used to cause a nonspontaneous chemical reaction to occur.
+Electrolysis is responsible for the appearance of many everyday objects such as gold-plated or silver-plated jewelry and chrome-plated car bumpers.
+An electrolytic cell is the apparatus used for carrying out an electrolysis reaction.
+In an electrolytic cell, electric current is applied to provide a source of electrons for driving the reaction in a nonspontaneous direction.
+In a voltaic cell, the reaction goes in a direction that releases electrons spontaneously.
+In an electrolytic cell, the input of electrons from an external source forces the reaction to go in the opposite direction.
+Illustration of a copper-zinc cell
+The spontaneous direction for the reaction between Zn and Cu is for the Zn metal to be oxidized to Zn 2+ ions, while the Cu 2+ ions are reduced to Cu metal.

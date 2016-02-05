@@ -1,0 +1,20 @@
+The volume of a given mass of gas varies directly with the absolute temperature of the gas when pressure is kept constant.
+State Gay-Lussac’s law.
+Use this law to perform calculations involving pressure-temperature relationships.
+The temperature of a tank of gas needs to be taken into account when measuring its pressure
+How much propane is in the tank?
+Propane tanks are widely used with barbeque grills.
+But it’s not fun to find out half-way through your grilling that you’ve run out of gas.
+You can buy gauges that measure the pressure inside the tank to see how much is left.
+The gauge measures pressure and will register a higher pressure on a hot day than it will on a cold day.
+So you need to take the air temperature into account when you decide whether or not to refill the tank before your next cook-out.
+When the temperature of a sample of gas in a rigid container is increased, the pressure of the gas increases as well.
+The increase in kinetic energy results in the molecules of gas striking the walls of the container with more force, resulting in a greater pressure.
+The French chemist Joseph Gay-Lussac (1778-1850) discovered the relationship between the pressure of a gas and its absolute temperature.
+Gay-Lussac’s law states that the pressure of a given mass of gas varies directly with the absolute temperature of the gas, when the volume is kept constant.
+Gay-Lussac’s law is very similar to Charles’s law, with the only difference being the type of container.
+Whereas the container in a Charles’s law experiment is flexible, it is rigid in a Gay-Lussac’s law experiment.
+In Gay-Lussac's Law, the pressure of a gas varies directly with the temperature of a gas
+Joseph Louis Gay-Lussac.
+The mathematical expressions for Gay-Lussac’s law are likewise similar to those of Charles’s law:
+\frac{P}{T}=k \quad \text{and} \quad \frac{P_1}{T_1}=\frac{P_2}{T_2}

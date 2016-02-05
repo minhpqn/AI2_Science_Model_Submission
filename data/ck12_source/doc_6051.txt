@@ -1,0 +1,20 @@
+What causes this toy to move?
+The drinking duck is a toy that many kids (and adults) enjoy playing with.
+You can see the drinking duck in action in the video at the link below:
+Click on the image above for more content
+The motion of the duck illustrates a physical principle called vapor pressure.
+As the vapor pressure changes, the liquid in the duck moves up and down, causing the duck to move.
+When a partially filled container of liquid is sealed with a stopper, some liquid molecules at the surface evaporate into the vapor phase .
+However, the vapor molecules cannot escape from the container and so after a certain amount of time, the space above the liquid reaches a point where it cannot hold any more vapor molecules.
+Now some of the vapor molecules condense back into a liquid.
+The system reaches the point where the rate of evaporation is equal to the rate of condensation (see Figure below ).
+This is called a dynamic equilibrium between the liquid and vapor phases.
+When the rate of condensation is equal to the rate of evaporation, a dynamic equilibrium is formed
+Equilibrium between liquid phase and vapor phase.
+A dynamic equilibrium can be illustrated by an equation with a double arrow, meaning that the reaction is occurring in both directions and at the same rate.
+\text{H}_2 \text{O}(l) \rightleftharpoons \text{H}_2 \text{O}(g)
+The forward direction represents the evaporation process, while the reverse direction represents the condensation process.
+Because they cannot escape the container, the vapor molecules above the surface of the liquid exert a pressure on the walls of the container.
+The vapor pressure is a measure of the presure (force per unit area) exerted by a gas above a liquid in a sealed container.
+Vapor pressure is a property of a liquid based on the strength of its intermolecular forces.
+A liquid with weak intermolecular forces evaporates more easily and has a high vapor pressure.

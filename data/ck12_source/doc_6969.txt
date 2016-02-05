@@ -1,0 +1,20 @@
+(a):
+To find the total capacitance, we'll us the equation given above for capacitors in parallel.
+C_{total}&=C_1+C_2\\C_{total}&=100\:\mu\text{F} + 60\:\mu\text{F}\\C_{total}&=160\:\mu\text{F}\\
+(b):
+Now, since the voltage across capacitors in parallel is equal, we can find the charge on C_2 .
+Q_2&=C_2V\\Q_2&=60\:\mu\text{F} * 10\:\text{V}\\Q_2&=600\:\mu\text{C}\\
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+Note: go to the third tab to see circuits with multiple capacitors.
+Capacitor Lab (PhET Simulation)
+You have two 42 \mu \mathrm{F} and one 39 \mu \mathrm{F} all wired in parallel.
+Draw the schematic and calculate the total capacitance of the system .
+You have two 42 \mu \mathrm{F} and one 39 \mu \mathrm{F} all wired in series.
+Draw the schematic and calculate the total capacitance of the system .
+Given a capacitor with 1\;\mathrm{cm} between the plates a field of 20,000\;\mathrm{N/C} is established between the plates.
+What is the voltage across the capacitor?
+If the charge on the plates is 1 \mu \mathrm{C} , what is the capacitance of the capacitor?
+If two identical capacitors of this capacitance are connected in series what it the total capacitance?
+Consider the capacitor connected in the following circuit at point B with two switches S and T , a 20 \Omega resistor and a 120\;\mathrm{V} power source:

@@ -1,0 +1,20 @@
+It is an inverse relationship.
+In an inverse relationship, when one variable increases, the other variable decreases.
+The greater the mass of an object, the less it will accelerate when a given force is applied.
+For example, doubling the mass of an object results in only half as much acceleration for the same amount of force.
+Q :
+Tony has greater mass than the other two boys he is racing (pictured in the opening image).
+How will this affect his acceleration around the track?
+A :
+Tony’s greater mass will result in less acceleration for the same amount of force.
+Newton’s second law of motion states that the acceleration of an object equals the net force acting on the object divided by the object’s mass.
+According to the second law, there is a direct relationship between force and acceleration and an inverse relationship between mass and acceleration.
+State Newton’s second law of motion.
+How can Newton’s second law of motion be represented with an equation?
+If the net force acting on an object doubles, how will the object’s acceleration be affected?
+Tony has a mass of 50 kg, and his friend Sam has a mass of 45 kg.
+Assume that both friends push off on their rollerblades with the same force.
+Explain which boy will have greater acceleration.
+Calculating Acceleration from Force and Mass
+Describe the relationships among acceleration, force, and mass.
+Show how to calculate acceleration from force and mass.

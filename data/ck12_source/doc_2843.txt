@@ -1,0 +1,20 @@
+You can see some examples in the Table below .
+Radioisotopes with longer half-lives are used to date older rocks or other specimens, and those with shorter half-lives are used to date younger ones.
+For example, the oldest rocks at the bottom of the Grand Canyon were dated by measuring the amounts of potassium-40 in the rocks.
+Carbon-14 dating, in contrast, is used to date specimens that are much younger than the rocks in the Grand Canyon.
+You can read more carbon-14 dating below.
+1.3 billion years
+700 million years
+Focus on Carbon-14 Dating
+One of the most familiar types of radioactive dating is carbon-14 dating.
+Carbon-14 forms naturally in Earth’s atmosphere when cosmic rays strike atoms of nitrogen-14.
+Living things take in and use carbon-14, just as they do carbon-12.
+The carbon-14 in living things gradually decays to nitrogen-14.
+However, as it decays, it is constantly replaced because living things keep taking in carbon-14.
+As a result, there is a constant ratio of carbon-14 to carbon-12 in organisms as long as they are alive.
+This is illustrated in the top part of the Figure below .
+After organisms die, the carbon-14 they already contain continues to decay, but it is no longer replaced (see the bottom part of the Figure below ).
+Therefore, the carbon-14 in a dead organism constantly declines at a fixed rate equal to the half-life of carbon-14.
+Half of the remaining carbon-14 decays every 5,700 years.
+If you measure how much carbon-14 is left in a fossil, you can determine how many half-lives (and how many years) have passed since the organism died.
+Carbon-14 dating is illustrated in the video at this URL:

@@ -1,0 +1,20 @@
+15.
+A 1500 kg car starts at rest and speeds up to 3.0 m/s with a constant acceleration.
+What is the car’s gain in kinetic energy?
+What power is exerted by the engine?
+We define efficiency as the ratio of output energy (in this case kinetic energy) to input energy.
+If this car’s efficiency is 0.30, how much input energy was provided by the gasoline?
+If 0.00015 gallons were used up in the process, what is the energy content of the gasoline in Joules per gallon?
+Compare that energy to the food energy in a gallon of Coke, if a 12-oz can contains 150 Calories (food calories) and one gallon is 128 ounces.
+Answers to Selected Problems
+a. 450,000 J b. 22,500 J c. 5,625 J d. 21.2 m/s e. 9.18 m
+a. 6750 J b. 5.6 kW c. 22.5 kJ d. 150 MJ/gallon of gas e. 6.7 MJ/gallon Coke
+Define mechanical advantage and calculate it for various tools.
+Students will learn about mechanical advantage and how to find the mechanical advantage of various tools.
+Mechanical Advantage (MA)
+MA = \frac{d_1}{d_2} = \frac{F_{out}}{F_{in}}
+d1 is the distance of effort and d2 is the distance the object is moved
+Mechanical Advantage is the ability to lift or move objects with great force while utilizing only a little force.
+The trade-off is that you must operate the smaller input force for a large distance.
+This is all seen through the work Equation.
+Work equals force times distance.

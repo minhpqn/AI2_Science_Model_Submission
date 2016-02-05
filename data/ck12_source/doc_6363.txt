@@ -1,0 +1,20 @@
+One must be careful not to confuse the term spontaneous with the notion that a reaction occurs rapidly.
+A spontaneous reaction is one in which product formation is favored, even if the reaction is extremely slow.
+A piece of paper will not suddenly burst into flames, although its combustion is a spontaneous reaction.
+What is missing is the required activation energy to get the reaction started.
+If the paper were to be heated to a high enough temperature, it would begin to burn, at which point the reaction would proceed spontaneously until completion.
+In a reversible reaction, one reaction direction may be favored over the other.
+Carbonic acid is present in carbonated beverages.
+It decomposes spontaneously to carbon dioxide and water according to the following reaction.
+If you were to start with pure carbonic acid in water and allow the system to come to equilibrium, more than 99% of the carbonic acid would be converted into carbon dioxide and water.
+The forward reaction is spontaneous because the products of the forward reaction are favored at equilibrium.
+In the reverse reaction, carbon dioxide and water are the reactants and carbonic acid is the product.
+When carbon dioxide is bubbled into water, less than 1% is converted to carbonic acid when the reaction reaches equilibrium.
+The reverse reaction, as written above, is not spontaneous.
+Spontaneous and nonspontaneous reactions are defined.
+Examples of both types of reactions are given.
+Read the material at the link below and answer the following questions:
+Why is system I a spontaneous reaction?
+Why is system II not spontaneous?
+Why is system III spontaneous?
+Why is a combustion reaction spontaneous?

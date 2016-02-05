@@ -1,0 +1,20 @@
+bulb D goes out
+Refer to the circuit diagram below and answer the following questions.
+What is the resistance between A and B ?
+What is the resistance between C and B ?
+What is the resistance between D and E ?
+What is the the total equivalent resistance of the circuit?
+What is the current leaving the battery?
+What is the voltage drop across the 12\ \Omega resistor?
+What is the voltage drop between D and E ?
+What is the voltage drop between A and B ?
+What is the current through the 25\ \Omega resistor?
+What is the total energy dissipated in the 25\ \Omega if it is in use for 11 hours?
+You are given the following three devices and a power supply of exactly 120\;\mathrm{v} . ^* Device X is rated at 60\;\mathrm{V} and  0.5\;\mathrm{A} ^* Device Y is rated at 15\;\mathrm{w} and 0.5\;\mathrm{A} ^* Device Z is rated at 120\;\mathrm{V} and 1800\;\mathrm{w} Design a circuit that obeys the following rules: you may only use the power supply given, one sample of each device, and an extra, single resistor of any value (you choose).
+Also, each device must be run at their rated values.
+Answers to Selected Problems
+a. 0.94 \;\mathrm{A} b. 112 \;\mathrm{W} c. 0.35 \;\mathrm{A} d. 0.94 \;\mathrm{A} e. 50, 45, 75 \ \Omega f. both 50 \ \Omega resistors are brightest, then 45 \ \Omega , then 75 \ \Omega
+a. 0.76 \;\mathrm{A} b. 7.0 \;\mathrm{W}
+b. 1000 \;\mathrm{W}
+a. 9.1 \ \Omega b 29.1 \ \Omega c. 10.8 \ \Omega d. 26.8 \ \Omega e. 1.8\mathrm{A} f. 21.5\mathrm{V} g. 19.4\mathrm{V} h. 6.1\mathrm{V} i. 0.24\mathrm{A} j. 16 \;\mathrm{kW}
+Define and calculate the efficiency of electrical devices.

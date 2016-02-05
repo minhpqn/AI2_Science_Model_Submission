@@ -1,0 +1,20 @@
+What's the chance of the coin landing on heads?
+What's the chance of inheriting the paternal allele?
+Or the maternal allele?
+Probability and Genetics
+A Mendelian trait is a trait that is controlled by a single gene that has two alleles.
+One of these alleles is dominant and the other is recessive.
+Many inheritable conditions in humans are passed to offspring in a simple Mendelian fashion.
+Medical professionals use Mendel’s laws to predict and understand the inheritance of certain traits in their patients.
+Also, farmers, animal breeders, and horticulturists who breed organisms can predict outcomes of crosses by understanding Mendelian inheritance and probability.
+Tossing a Coin.
+Competitions often begin with the toss of a coin.
+Why is this a fair way to decide who goes first?
+If you choose heads, what is the chance that the toss will go your way?
+Is this similar to the probability of inheriting a particular allele?
+The rules of probability that apply to tossing a coin or throwing a die also apply to the laws of segregation and independent assortment.
+Probability is the likelihood that a certain event will occur.
+It is expressed by comparing the number of events that occur to the total number of possible events.
+The equation is written as:
+Probability = (number of times an event is expected to occur)/(total number of times an event could happen)
+For example, in Mendel’s F 2 hybrid generation, the dominant trait of purple flower color appeared 705 times, and the recessive trait appeared 224 times.

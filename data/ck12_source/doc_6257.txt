@@ -1,0 +1,20 @@
+The change in temperature can be calculated using the specific heat equation.
+\Delta{T}=\frac{q}{c_p \times m}=\frac{813 \text{ J}}{4.18 \text{ J/g}^\circ \text{C} \times 60.0 \text{ g}}=3.24^\circ \text{C}
+Since the water was being cooled, the temperature decreases.
+The final temperature is:
+T_f=23.52^\circ \text{C} - 3.24^\circ \text{C}=20.28^\circ \text{C}
+Specific heat calculations are illustrated.
+Work the problems at the link below:
+Do different materials have different specific heats?
+How does mass affect heat absorbed?
+If we know the specific heat of a material, can we determine how much heat is released under a given set of circumstances?
+specific heat:
+The amount of energy required to raise the temperature of 1 gram of the substance by 1°C.
+List factors that influence enthalpy.
+While a catalyst changes activation energy, enthalpy remains unchanged
+Does the catalyst affect enthalpy?
+The factors influencing a reaction are complicated and varied.
+Since a catalyst affects activation energy, we might assume it would have some sort of impact on enthalpy, but it does not.
+The change in enthalpy of a reaction depends solely on the chemical compositions of the reactants and products, not on the path taken to get from one to the other.
+Heat changes in chemical reactions are most often measured in the laboratory under conditions in which the reacting system is open to the atmosphere.
+In that case, the system is at a constant pressure.

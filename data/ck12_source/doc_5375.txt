@@ -1,0 +1,20 @@
+This may include the formation of disulfide bridges or attachment of any of a number of biochemical functional groups, such as phosphate groups, carbohydrates or lipids.
+Certain amino acids may be removed, or the polypeptide chain may be cut into two pieces.
+Lastly, two or more polypeptides may interact with each other, forming a functional protein with a quaternary structure.
+The four stages of protein folding.
+A site :
+Within the ribosome; binds a tRNA with an attached amino acid.
+aminoacylation :
+The process of adding an aminoacyl group to a compound.
+aminoacyl-tRNA syntheses :
+An enzyme that catalyzes the esterification of a specific amino acid to its compatible tRNAs to form an aminoacyl-tRNA.
+anticodon :
+A three base sequence on the tRNA molecule complementary to the codon on the mRNA.
+codon :
+A sequence of three nucleotides within mRNA; encodes for a specific amino acid or termination (stop) sequence.
+E site :
+Within the ribosome; contains the tRNA that no longer has an attached amino acid.
+elongation :
+The addition of RNA nucleotides to the growing RNA transcript during transcription; also refers to the process during translation of adding additional amino acids to the growing polypeptide chain.
+elongation factors :
+A set of proteins that facilitate translational elongation, from the formation of the first peptide bond to the formation of the last one.

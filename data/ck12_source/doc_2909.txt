@@ -1,0 +1,20 @@
+There is always a 50-50 chance that a coin will land on heads.
+Half the time it will land on heads and half the time it will land on tails.
+What is the chance of it landing heads twice in a row?
+Or three times?
+These rules of probability also apply to genetics.
+A parent only gives one factor for each trait to an offspring.
+If a parent has one dominant and one recessive factor for a trait, then, on average, half the time the dominant factor will be passed on, and half the time the recessive factor will be passed on.
+Probability and Punnett Squares
+A Punnett square is a special tool derived from the laws of probability.
+It is used to predict the possible offspring from a cross, or mating between two parents.
+An example of a Punnett square ( Figure below ) shows the results of a cross between two purple flowers that each have one dominant factor and one recessive factor ( Bb ).
+The Punnett square of a cross between two heterozygous purple flowers
+The Punnett square of a cross between two purple flowers ( Bb ).
+A Punnett square can be used to calculate what percentage of offspring will have a certain trait.
+To create a Punnett square, perform the following steps:
+Take the factors from the first parent and place them at the top of the square ( B and b ).
+Take the factors from the second parent and line them up on the left side of the square ( B and b ).
+Pull the factors from the top into the boxes below.
+Pull the factors from the side into the boxes next to them.
+The possible offspring are represented by the letters in the boxes, with one factor coming from each parent.

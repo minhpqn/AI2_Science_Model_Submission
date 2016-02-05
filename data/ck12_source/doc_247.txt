@@ -1,0 +1,20 @@
+In the equation above, the constant of proportionality is called the spring constant .
+The spring constant is represented by k and its units are N/m.
+This equation is accurate as long as the spring is not compressed to the point that the coils touch nor stretched beyond elasticity.
+Suppose the spring is compressed a distance x = A , and then released.
+The spring exerts a force on the mass pushing it toward the equilibrium position.
+When the mass is at the maximum displacement position, velocity is zero because the mass is changing direction.
+At the position of maximum displacement, the restoring force is at its greatest - the acceleration of the mass will be greatest.
+As the mass moves toward the equilibrium position, the displacement decreases, so the restoring force decreases and the acceleration decreases.
+When the mass reaches the equilibrium position, there is no restoring force.
+The acceleration, therefore, is zero, but the mass is moving at its highest velocity.
+Because of its inertia, the mass will continue past the equilibrium position, and stretch the string.
+As the spring is stretched further, the displacement increases, the restoring force increases, the acceleration toward the equilibrium position increases, and the velocity decreases.
+Eventually, when the mass reaches its maximum displacement on this side of the equilibrium position, the velocity has returned to zero and the restoring force and acceleration have returned to the maximum.
+In a frictionless system, the mass would oscillate forever, but in a real system, friction gradually reduces the motion until the mass returns to the equilibrium position and motion stops.
+Imagine an object moving in uniform circular motion.
+Remember the yo-yo we spin over our heads?
+In your mind, turn the circle so that you are looking at it on edge; imagine you are eight feet tall, and the yo-yo's circle is exactly at eye level.
+The object will move back forth in the same way that a mass moves in SHM.
+It moves consistently from the far left to the far right until you stop spinning the yo-yo.
+Another example is to imagine a glowing light bulb riding a merry-go-round at night.

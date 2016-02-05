@@ -1,0 +1,20 @@
+Plug n’ Chug: t = \frac{d}{v_{avg}} = \frac{12,000 \ km}{45 \ km/day} = 267 \ days
+Answer: \boxed{\mathbf{267 \ days}}
+Watch this Explanation
+Click on the image above for more content
+Two cars are heading right towards each other, but are 12 km apart.
+One car is going 70 km/hr and the other is going 50 km/hr.
+How much time do they have before they collide head on?
+You drive the 10 miles to work at an average speed of 40 mph.
+On the way home you hit severe traffic and drive at an average speed of 10 mph.
+What is your average speed for the trip?
+The following data represent the first 30 seconds of actor Crispin Glover’s drive to work.
+Sketch the graphs of position vs. time and distance vs. time.
+Label your x and y axes appropriately.
+Why is there a discrepancy between the distance covered and the change in position during the time period between t = 25 \;\mathrm{s} and t = 30 \;\mathrm{s} ?
+What do you think is going on between t = 10 \;\mathrm{s} and t = 15 \;\mathrm{s} ?
+What is the displacement between t = 10 \;\mathrm{s} and t = 25 \;\mathrm{s} ?
+What is the distance covered between t = 10 \;\mathrm{s} and t = 25 \;\mathrm{s} ?
+What is the average velocity during the first 30 seconds of the trip?
+What is the average velocity between the times t = 20 \;\mathrm{s} and t = 30 \;\mathrm{s} ?
+During which time interval(s) was the velocity negative?

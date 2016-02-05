@@ -1,0 +1,20 @@
+Using Density to Determine Mass and Volume
+What is the mass of 2.49 cm 3 of aluminum?
+What is the volume of 50.0 g of aluminum?
+Step 1:
+List the known quantities and plan the problem.
+density = 2.70 g/cm 3
+volume = 2.49 cm 3
+mass = 50.0 g
+mass = ? g
+volume = ? cm 3
+Use the equation for density, D = \frac{m}{V} , and dimensional analysis to solve each problem.
+Step 2:
+Calculate
+2.49 \ \text{cm}^3 \times \frac{2.70 \ \text{g}}{1 \ \text{cm}^3}=6.72 \ \text{g}
+50.0 \ \text{g} \times \frac{1 \ \text{cm}^3}{2.70 \ \text{g}}=18.5 \ \text{cm}^3
+In problem 1, the mass is equal to the density multiplied by the volume.
+In problem 2, the volume is equal to the mass divided by the density.
+Step 3:
+Think about your results.
+Because a mass of 1 cm 3 of aluminum is 2.70 g, the mass of about 2.5 cm 3 should be about 2.5 times larger.

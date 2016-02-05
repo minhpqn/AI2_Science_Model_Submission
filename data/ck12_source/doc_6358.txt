@@ -1,0 +1,20 @@
+The general cases below illustrate entropy at the molecular level.
+For a given substance, the entropy of the liquid state is greater than the entropy of the solid state.
+Likewise, the entropy of the gas is greater than the entropy of the liquid.
+Therefore, entropy increases in processes in which solid or liquid reactants form gaseous products.
+Entropy also increases when solid reactants form liquid products.
+Entropy increases when a substance is broken up into multiple parts.
+The process of dissolving increases entropy because the solute particles become separated from one another when a solution is formed.
+Entropy increases as temperature increases.
+An increase in temperature means that the particles of the substance have greater kinetic energy.
+The faster moving particles have more disorder than particles that are moving more slowly at a lower temperature.
+Entropy generally increases in reactions in which the total number of product molecules is greater than the total number of reactant molecules.
+An exception to this rule is when a gas is being produced from nongaseous reactants.
+The examples below will serve to illustrate how the entropy change in a reaction can be predicted.
+\text{Cl}_2(g) \rightarrow \text{Cl}_2(l)
+The entropy is decreasing because a gas is becoming a liquid.
+\text{CaCO}_3(s) \rightarrow \text{CaO}(s)+\text{CO}_ 2(g)
+The entropy is increasing because a gas is being produced and the number of molecules is increasing.
+\text{N}_2(g)+3\text{H}_2(g) \rightarrow 2\text{NH}_3(g)
+The entropy is decreasing because four total reactant molecules are forming two total product molecules.
+All are gases.

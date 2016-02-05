@@ -1,0 +1,20 @@
+In a new study, scientists may have unexpectedly detected a merger of black holes about 160 million light-years away in a galaxy dubbed NGC3393.
+Using NASA's Chandra X-ray Observatory, investigators have detected two black holes at its center, one about 30 million times the mass of the sun, and one at least 1 million times the mass of the sun, separated by only about 490 light-years.
+They are the closest super-massive black holes to Earth ever seen, according to a NASA statement.
+The scientists originally looked at this galaxy only to learn more about what they thought was the sole black hole at its center.
+The General Theory of Relativity
+In 1905, Albert Einstein published the theory of special relativity, a theory about space and time.
+In the following years, Einstein worked on the fact that acceleration produced the same effect as gravitation.
+For example, if you were in an accelerating spaceship, or just an elevator, you could not tell if the force on you was from inertia or gravitation.
+While Newton's Law of Universal Gravitation works well for ordinary gravitational fields, it is inaccurate when the gravitational intensity is high.
+Albert Einstein formulated the theory of general relativity in 1914 as a new way to explain gravity.
+The classical explanation of gravity is that a force of attraction acts at a distance between two objects and the magnitude of the force is directly proportional to each of the masses and inversely proportional to the square of the distance between the objects.
+The objects move toward each other due to this force of attraction.
+Einstein’s new concept of gravity states that matter (mass) causes the space around the matter to curve and also distorts time.
+A straight line through this curved space would also be curved in order to be a straight line.
+Suppose we take a model of the earth in the shape of a globe and draw a straight line on the globe that travels from Kodiak Island, Alaska to the southern tip of Greenland.
+This straight line passes northward of Hudson’s Bay, missing it entirely.
+Line from Kodiak Island, Alaska, to Greenland on a spherical map of North America
+Now suppose we take a map of Canada that has been flattened to exist in two dimensions and once again, draw a straight line from Kodiak Island, Alaska to the southern tip off Greenland.
+This time, the straight line cuts right through the middle of Hudson’s Bay.
+Line from Kodiak Island, Alaska, to Greenland on a planar map of North America

@@ -1,0 +1,20 @@
+So we need another way to talk about numbers of molecules.
+Chemists primarily need the concentration of solutions to be expressed in a way that accounts for the number of particles that react according to a particular chemical equation.
+Since percentage measurements are based on either mass or volume, they are generally not useful for chemical reactions.
+A concentration unit based on moles is preferable.
+The molarity (M) of a solution is the number of moles of solute dissolved in one liter of solution.
+To calculate the molarity of a solution, you divide the moles of solute by the volume of the solution expressed in liters.
+\text{Molarity (M)}=\frac{\text{moles of solute}}{\text{liters of solution}}=\frac{\text{mol}}{\text{L}}
+Note that the volume is in liters of solution and not liters of solvent.
+When a molarity is reported, the unit is the symbol M and is read as “molar”.
+For example a solution labeled as 1.5 M NH 3 is read as “1.5 molar ammonia solution”.
+Sample Problem:
+Calculating Molarity
+A solution is prepared by dissolving 42.23 g of NH 4 Cl into enough water to make 500.0 mL of solution.
+Calculate its molarity.
+Step 1:
+List the known quantities and plan the problem.
+& \underline{\text{Known}} &&\underline{\text{Unknown}} \\& \text{mass}=42.23 \ \text{g} \ NH_4Cl && \text{molarity}= \ ? \text{ M}\\& \text{molar mass} \ NH_4Cl=53.50 \ \text{g} / \text{mol} \\& \text{volume solution}=500.0 \ \text{mL}=0.5000 \ \text{L}
+The mass of the ammonium chloride is first converted to moles.
+Then the molarity is calculated by dividing by liters.
+Note the given volume has been converted to liters.

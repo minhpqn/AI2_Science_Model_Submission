@@ -1,0 +1,20 @@
+It controls the size of the pupil.
+The lens of the eye is a convex lens.
+It fine-tunes the focus so an image forms on the retina at the back of the eye.
+Tiny muscles control the shape of the lens to focus images of close or distant objects.
+The retina is a membrane lining the back of the eye.
+The retina has nerve cells called rods and cones that change images to electrical signals.
+Rods are good at sensing dim light but can’t distinguish different colors of light.
+Cones can sense colors but not dim light.
+There are three different types of cones.
+Each type senses one of the three primary colors of light (red, green, or blue).
+The optic nerve carries electrical signals from the rods and cones to the brain.
+Q:
+The lens of the eye is a convex lens.
+How would vision be affected if the lens of the eye was concave instead of convex?
+A:
+A concave lens causes rays of light to diverge, or spread apart.
+It forms a virtual image on the same side of the lens at the object being viewed.
+Therefore, a concave lens would focus the image in front of the eye, not on the retina inside the eye.
+No signals would be sent to the brain so vision would not be possible.
+How We See

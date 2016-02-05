@@ -1,0 +1,20 @@
+12.01 \ \text{amu} + 2(16.00 \ \text{amu})=44.01 \ \text{amu}
+The molecular mass of a compound is the mass of one molecule of that compound.  The molecular mass of carbon dioxide is 44.01 amu.
+The molar mass of any compound is the mass in grams of one mole of that compound.  One mole of carbon dioxide molecules has a mass of 44.01 g, while one mole of sodium sulfide formula units has a mass of 78.04 g.  The molar masses are 44.01 g/mol and 78.04 g/mol respectively.  In both cases, that is the mass of 6.02 × 10 23 representative particles.  The representative particle of CO 2 is the molecule, while for Na 2 S, it is the formula unit.
+Sample Problem:  Molar Mass of  a Compound
+Calcium nitrate, Ca(NO 3 ) 2 , is used as a component in fertilizer Determine the molar mass of calcium nitrate.
+Step 1:  List the known and unknown quantities and plan the problem.
+formula = Ca(NO 3 ) 2
+molar mass Ca = 40.08 g/mol
+molar mass N = 14.01 g/mol
+molar mass O = 16.00 g/mol
+molar mass Ca(NO 3 ) 2
+First we need to analyze the formula.  Since the Ca lacks a subscript, there is one Ca atom per formula unit.  The 2 outside the parentheses means that there are two nitrate ions per formula unit and each nitrate ion consists of one nitrogen atom and three oxygen atoms.
+Therefore, there are a total of 1 × 2 = 2 nitrogen atoms and 3 × 2 = 6 oxygen atoms per formula unit.  Thus, 1 mol of calcium nitrate contains 1 mol of Ca atoms, 2 mol of N atoms, and 6 mol of O atoms.
+Step 2:  Calculate.
+Use the molar masses of each atom together with the number of atoms in the formula and add together.
+& 1 \ \text{mol Ca} \times \frac{40.08 \ \text{g Ca}}{1 \ \text{mol Ca}}=40.08 \ \text{g Ca} \\& 2 \ \text{mol N} \times \frac{14.01 \ \text{g N}}{1 \ \text{mol N}}=28.02 \ \text{g N} \\& 6 \ \text{mol O} \times \frac{16.00 \ \text{g O}}{1 \ \text{mol O}}=96.00 \ \text{g O} \\& \text{molar mass of } \text{Ca(NO}_3)_2=40.08 \ \text{g} + 28.02 \ \text{g} + 96.00 \ \text{g} = 164.10 \ \text{g} / \text{mol}
+Calculations are described for the determination of molar mass of an atom or a compound.
+Read the material at the link below and work the problems at the end:
+What is the molar mass of Pb?
+Why do we need to include the units in our answer?

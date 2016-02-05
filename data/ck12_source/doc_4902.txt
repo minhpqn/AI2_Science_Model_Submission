@@ -1,0 +1,20 @@
+the intermembrane space (the space between the outer and inner membranes),
+the inner mitochondrial membrane,
+the cristae space (formed by infoldings of the inner membrane), and
+the matrix (space within the inner membrane).
+The outer membrane contains large numbers of integral proteins called porins .
+These porins form channels that allow small molecules to freely diffuse across the membrane to the other.
+The inner mitochondrial membrane is highly impermeable to all molecules.
+Almost all ions and molecules require special membrane transporters to enter or exit the matrix.
+ATP synthase , which produces ATP in the matrix, is embedded within this membrane.
+The cristae greatly expand the surface area of the inner mitochondrial membrane, enhancing the ability of the mitochondria to produce ATP.
+The matrix contains a highly-concentrated mixture of hundreds of enzymes, the mitochondrial ribosomes, tRNAs, and several copies of the mitochondrial genome.
+Of the enzymes, the Krebs cycle enzymes are located here.
+Although most of a cell's DNA is contained in the cell nucleus, mitochondria have their own DNA.
+Mitochondria also have the machinery to manufacture their own RNAs and proteins.
+The human mitochondrial DNA sequence has 16,569 base pairs encoding 37 total genes: 22 tRNA genes, 2 rRNA genes, and 13 peptide genes.
+The 13 mitochondrial peptides in humans are integrated into the inner mitochondrial membrane, along with proteins encoded by nuclear genes.
+Mitochondria are able to reproduce asexually, like bacteria, and scientists think that they are descended from prokaryotic organisms.
+According to the Theory of Endosymbiosis , mitochondria were once free-living prokaryotes that infected other prokaryotic cells.
+The invading prokaryotes were protected inside the host cell, and in turn the prokaryote supplied extra ATP to its host.
+Eventually these two cells turned into one eukaryotic cell, as the two organisms evolved so that they could no longer live without each other.

@@ -1,0 +1,20 @@
+Energy is used to break bonds in reactants, and energy is released when new bonds form in products.
+In some chemical reactions, called exothermic reactions, more energy is released when new bonds form in the products than is needed to break bonds in the reactants.
+The opposite is true of endothermic reactions.
+In an endothermic reaction , it takes more energy to break bonds in the reactants than is released when new bonds form in the products.
+Energy Change in Endothermic Reactions
+The word endothermic literally means “taking in heat.” A constant input of energy, often in the form of heat, is needed to keep an endothermic reaction going.
+This is illustrated in the Figure below .
+Energy must be constantly added because not enough energy is released when the products form to break more bonds in the reactants.
+The general equation for an endothermic reaction is:
+Reactants + Energy → Products
+Change in energy of an endothermic reaction
+Note: ΔH represents the change in energy.
+In endothermic reactions, the temperature of the products is typically lower than the temperature of the reactants.
+The drop in temperature may be great enough to cause liquids to freeze.
+That’s what happens in the endothermic reaction at this URL:
+Q:
+Now can you guess how an instant cold pack works?
+A:
+Squeezing the cold pack breaks an inner bag of water, and the water mixes with a chemical inside the pack.
+The chemical and water combine in an endothermic reaction.

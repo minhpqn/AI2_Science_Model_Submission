@@ -1,0 +1,20 @@
+For example, up quarks have a charge of +2/3, and down quarks have a charge of -1/3.
+Quarks also have a different type of charge, called color charge, although it has nothing to do with the colors that we see.
+Quarks are never found alone but instead always occur in groups of two or three quarks.
+There are also six types of leptons, including electrons.
+Leptons have an electric charge of either -1 or 0.
+Electrons, for example, have a charge of -1.
+Leptons have mass, although the mass of electrons is extremely small.
+There are four known types of bosons, which are force-carrying particles.
+Each of these bosons carries a different fundamental force between interacting particles.
+In addition, there is a particle which may exist, called the "Higgs Boson", which gives objects the masses they have.
+Some types of bosons have mass; others are massless.
+Bosons have an electric charge of +1, -1, or
+Q:
+Protons consist of three quarks: two up quarks and one down quark.
+Neutrons also consist of three quarks: two down quarks and one up quark.
+Based on this information, what is the total electric charge of a proton?
+Of a neutron?
+A:
+These combinations of quarks give protons a total electric charge of +1 (2/3 + 2/3 – 1/3 = 1) and neutrons a total electric charge of 0
+The interactions of matter particles are subject to four fundamental forces: gravity, electromagnetic force, weak nuclear force, and strong nuclear force.

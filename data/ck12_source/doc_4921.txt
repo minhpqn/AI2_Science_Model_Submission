@@ -1,0 +1,20 @@
+The cell adhesion proteins of the desmosome, desmoglein and desmocollin, are members of the cadherin family of adhesion proteins.
+These proteins are transmembrane proteins that bridge the space between adjacent epithelial cells.
+The extracellular domains of these cells bind to other cadherin proteins on an adjacent cell.
+The extracellular domain of the desmosome is called the Extracellular Core Domain (ECD).
+This is where the two adhesion proteins interact.
+Tight junctions are the closely associated areas of two cells.
+It is a type of junctional complex present only in vertebrates.
+The corresponding junctions that occur in invertebrates are septate junctions.
+An example of a tight junction is between epithelial cells in the distal convoluted tubule and the collecting duct part of the nephron in the kidney.
+Tight junctions are common at epithelia, which are sheets of cells that form a boundary between a mass of cells and a cavity or space (a lumen ).
+The membranes of these cells join together, forming a virtually impermeable barrier to fluid.
+Tight junctions essentially seal adjacent epithelial cells in a narrow layer just beneath their apical surface, which is the portion of the cell exposed to the lumen.
+The rest of the cell surface is known as the basolateral surface.
+Tight junctions prevent integral membrane proteins from moving between the apical and basolateral surface, maintaining the properties of those distinct surfaces.
+For example, receptor-mediated endocytosis occurs at the apical surface and exocytosis at the basolateral surface.
+Tight junctions are composed of strands of transmembrane proteins embedded in the plasma membranes of two adjacent cells.
+The extracellular domains of these proteins directly join to one another.
+These joining proteins associate with peripheral membrane proteins located on the intracellular side of plasma membrane.
+These peripheral proteins anchor the strands to the actin component of the cytoskeleton, effectively forming a molecular complex that joins together the cytoskeletons of adjacent cells.
+The major types anchoring proteins of tight junctions are the claudins and the occludins.

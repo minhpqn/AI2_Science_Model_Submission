@@ -1,0 +1,20 @@
+Most wave media act like a series of connected oscillators.
+For instance, a rope can be thought of as a large number of masses (molecules) connected by springs (intermolecular forces).
+The speed of a wave through connected harmonic oscillators depends on the distance between them, the spring constant, and the mass.
+In this way, we can model wave media using the principles of simple harmonic motion.
+The speed of a wave on a string depends on the material the string is made of, as well as the tension in the string.
+This fact is why tightening a string on your violin or guitar will increase the frequency, or pitch, of the sound it produces.
+Reread the difference between transverse and longitudinal waves.
+For each of the following types of waves, tell what type it is and why. (Include a sketch for each.)
+water waves in the wake of a boat
+a vibrating string on a guitar
+a swinging jump rope
+the vibrating surface of a drum
+the “wave” done by spectators at a sports event
+slowly moving traffic jams
+A mass is oscillating up and down on a spring.
+Below is a graph of its vertical position as a function of time.
+What is the amplitude at t = 32 seconds?
+At what times is the mass momentarily at rest?
+How do you know?
+Velocity is defined as change in position over time.

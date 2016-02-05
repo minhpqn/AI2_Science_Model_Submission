@@ -1,0 +1,20 @@
+Each division can be divided into the same phases: prophase, metaphase, anaphase, and telophase.
+Cytokinesis follows telophase each time.
+Between the two cell divisions, DNA replication does not occur.
+Through this process, one diploid cell will divide into four haploid cells.
+Overview of Meiosis
+Overview of Meiosis.
+During meiosis, four haploid cells are created from one diploid parent cell.
+During meiosis I, the pairs of homologous chromosomes are separated from each other.
+This requires that they line up in their homologous paris during metaphase I.
+The steps are outlined below:
+Prophase I:
+The homologous chromosomes line up together.
+During this time, a process that only happens in meiosis can occur.
+This process is called crossing-over ( Figure below ), which is the exchange of DNA between homologous chromosomes.
+Crossing-over forms new combinations of alleles on the resulting chromosome.
+Without crossing-over, the offspring would always inherit all of the alleles on one of the homologous chromosomes.
+Also during prophase I, the spindle forms, the chromosomes condense as they coil up tightly, and the nuclear envelope disappears.
+Metaphase I:
+The homologous chromosomes line up in their pairs in the middle of the cell.
+Chromosomes from the mother or from the father can each attach to either side of the spindle.

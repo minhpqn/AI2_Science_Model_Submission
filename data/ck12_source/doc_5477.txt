@@ -1,0 +1,20 @@
+However, it is the medical possibilities of biotechnology that most people associate with helping humans.
+Understanding and curing genetic diseases is the ultimate goal of human geneticists.
+As discussed in the Human Genetics:
+Diagnosis and Treatment (Advanced) concept, gene therapy is the insertion of a new gene into an individual’s cells and tissues to treat a disease, replacing a mutant disease-causing allele with a normal, non-mutant allele.
+Of course, the findings of the Human Genome Project are significant in determining the disease-causing alleles.
+Geneticists must know which are mutant alleles and which are non-mutant or "normal" alleles.
+They must also be able to identify alleles that are not just associated with a particular disease phenotype, but cause a disease phenotype.
+And of course, scientists must develop and test the technology to replace mutant alleles.
+In the 1920s, there was no known way to produce insulin, which was needed by people to remove excess sugar from the bloodstream.
+People with diabetes either lack insulin, produce low levels of insulin, or are resistant to insulin, and thus they may need external insulin to control blood glucose levels.
+This problem was solved, at least temporarily, when it was found that insulin from a pig’s pancreas could be used in humans.
+This method was the primary solution for diabetes until recently.
+The problem with insulin from pigs was that there were not enough pigs to provide the quantities of insulin needed.
+Scientists needed to devise another way to produce insulin.
+This led to one of the biggest breakthroughs in recombinant DNA technology: the cloning of the human insulin gene.
+By methods discussed the DNA Technology:
+Gene Cloning (Advanced) concept, the specific gene sequence that codes for human insulin was introduced into the bacteria E. coli .
+The transformed gene altered the genetic makeup of the bacterial cells, such that in a 24 hour period, billions of E. coli containing the human insulin gene resulted.
+Once the recombinant human protein was isolated from the bacteria, enough insulin was available to be administered to patients.
+Though the production of human insulin by recombinant DNA procedures is an extremely significant event, many other aspects of DNA technology are beginning to become reality.

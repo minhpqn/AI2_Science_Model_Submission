@@ -1,0 +1,20 @@
+Actual yield = 14.9 g
+Theoretical yield = 15.7 g (from Part 12.11A)
+Percent yield = ? %
+\text{Percent Yield}=\frac{\text{Actual Yield}}{\text{Theoretical Yield}} \times 100 \%
+Use the percent yield equation above.
+Step 2:
+Solve.
+\text{Percent Yield}=\frac{14.9 \text{ g}}{15.7 \text{ g}} \times 100=94.9\%
+Step 3:
+Think about your result.
+Since the actual yield is slightly less than the theoretical yield, the percent yield is just under 100%.
+Theoretical yield is calculated based on the stoichiometry of the chemical equation.
+The actual yield is experimentally determined.
+The percent yield is determined by calculating the ratio of actual yield/theoretical yield.
+Work the problems found on the link below:
+What do we need in order to calculate theoretical yield?
+If I spill some of the product before I weigh it, how will that affect the actual yield?
+How will spilling some of the product affect the percent yield?
+I make a product and weigh it before it is dry.
+How will that affect the actual yield?

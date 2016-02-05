@@ -1,0 +1,20 @@
+oxidation-reduction reaction:
+A reaction that involves the full or partial transfer of electrons from one reactant to another.
+redox reaction:
+Another term for an oxidation-reduction reaction.
+reduction:
+The full or partial gain of electrons or the loss of oxygen.
+Oxidizing and Reducing Agents
+Define oxidizing agent.
+Define reducing agent.
+Identify oxidizing and reducing agents in a redox reaction.
+Plants are the primary source of the oxygen we breath
+Where do we get oxygen for breathing?
+Life on planet Earth is a complicated and well-organized set of processes.
+Animals are designed to breathe oxygen and plants are designed to produce oxygen.
+Photosynthesis is the means by which we get the oxygen we need for life.
+Light striking a plant pigment known as chlorophyll initiates a complex series of reactions, many of which involve redox processes complete with movement of electrons.
+In this series of reactions, water is converted to oxygen gas, and we have something to sustain our lives.
+Oxidizing and Reducing Agents
+The reaction below is a redox reaction that produces zinc sulfide:
+\text{Zn} + \text{S} \rightarrow \text{ZnS}

@@ -1,0 +1,20 @@
+Step 1:
+List the known quantities and plan the problem.
+1 m = 1000 mm
+1 ml = 1 cm 3
+1 m = 100 cm
+3.6 mm 3 = ? mL
+This problem requires multiple steps and the technique for converting with derived units.  Simply proceed one step at a time: mm 3 to m 3 to cm 3 = mL.
+Step 2:
+Calculate
+3.6 \ \text{mm}^3 \times \left(\frac{1 \ \text{m}}{1000 \ \text{mm}}\right)^3 \times \left(\frac{100 \ \text{cm}}{1 \ \text{m}}\right)^3 \times \frac{1 \ \text{mL}}{1 \ \text{cm}^3}=0.0036 \ \text{mL}
+Numerically, the steps are to divide 3.6 by 10 9 , followed by multiplying by 10 6 .  You may find that you can shorten the problem by a step by first determining the conversion factor from mm to cm and using that instead of first converting to m.
+There are 10 mm in 1 cm.
+3.6 \ \text{mm}^3 \times \left(\frac{1 \ \text{cm}}{10 \ \text{mm}}\right)^3 \times \frac{1 \ \text{mL}}{1 \ \text{cm}^3}=0.0036 \ \text{mL}
+In this case 3.6 / 1000 gives the same result of 0.0036.
+Step 3:
+Think about your result.
+Cubic millimeters are much smaller than cubic centimeters, so the final answer is much less than the original number of mm 3 .
+A derived unit is a unit that results from a mathematical combination of SI base units.
+Calculations involving derived units follow the same principles as other unit conversion calculations.
+Use the link below to answer the following questions:

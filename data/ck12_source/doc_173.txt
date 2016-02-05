@@ -1,0 +1,20 @@
+Common Prefixes Used with SI Units
+These prefixes are defined using scientific notation.
+This notation is explained in the Mathematics Tools for Physics section.
+Numbers with different prefixes can be shown as equalities when they are equivalent measurements.
+For example, 1 meter = 100 centimeters.
+Similarly, 0.01 meters = 1 centimenter.
+These equivalencies are used as conversion factors when units need to be converted.
+Example:
+Convert 500. millimeters to meters.
+The equivalency statement for millimeters and meters is 1000 mm = 1 m.
+To convert 500. mm to m, we multiply 500. mm by a conversion factor that will cancel the millimeter units and generate the meter units.
+This requires that the conversion factor has meters in the numerator and millimeters in the denominator.
+To convert 500. millimeters to meters, we multiply 500. mm by a conversion factor
+mm is equivalent to 0.5 m.
+Example:
+Convert 11 µg to mg.
+When converting from one prefix to another, such as in this problem, it is usually easiest to convert through the base unit.
+In this case, the base unit is grams, so we use the two following equivalency statements:
+1 \times 10^6 \ \mu \text{g} = 1 \ \text{g and} \ 1000 \ \text{mg} = 1 \ \text{g}
+The first conversion factor converts from micrograms to grams and the second conversion factor converts from grams to milligrams.

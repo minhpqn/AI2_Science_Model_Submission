@@ -1,0 +1,20 @@
+For example, biotechnology may be used to create crops that resist insect pests or yield more food, or to create new treatments for human diseases.
+Biotechnology:
+The Invisible Revolution can be seen at
+What does biotechnology have to do with me?
+Is discussed in the following video:  (10:01).
+Biotechnology uses a variety of techniques to achieve its aims.
+Two commonly used techniques are gene cloning and the polymerase chain reaction.
+Gene cloning is the process of isolating and making copies of a gene.
+This is useful for many purposes.
+For example, gene cloning might be used to isolate and make copies of a normal gene for gene therapy.
+Gene cloning involves four steps: isolation, ligation, transformation, and selection.
+You can watch an interactive animation about gene cloning at this link:
+In isolation, an enzyme (called a restriction enzyme) is used to break DNA at a specific base sequence.
+This is done to isolate a gene.
+During ligation , the enzyme DNA ligase combines the isolated gene with plasmid DNA from bacteria. (A plasmid is circular DNA that is not part of a chromosome and can replicate independently.) Ligation is illustrated in Figure below .
+The DNA that results is called recombinant DNA .
+In transformation , the recombinant DNA is inserted into a living cell, usually a bacterial cell.
+Changing an organism in this way is also called genetic engineering .
+Selection involves growing transformed bacteria to make sure they have the recombinant DNA.
+This is a necessary step because transformation is not always successful.

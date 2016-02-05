@@ -1,0 +1,20 @@
+Other forms of muscular dystrophy exist and include Becker muscular dystrophy and myotonic dystrophy.
+See  for more information on this disease.
+carrier :
+A person who is heterozygous for a recessive allele of a trait.
+Duchenne Muscular Dystrophy (DMD) :
+Most sever form of muscular dystrophy; quickly worsens over time.
+hemophilia :
+The name of a group of hereditary genetic diseases that affect the body's ability to control blood clotting; characterized by a lack of clotting factors in the blood.
+muscular dystrophy :
+A group of inherited disorders that involve muscle weakness and loss of muscle tissue; progressively worsens over time.
+sex-linked :
+Located on a sex chromosome; usually refers to the X-chromosome.
+SRY :
+Sex-determining region Y; gene which encodes the testes-determining factor and triggers testis development, thus determining sex; located on the Y chromosome.
+TSIX :
+An XIST antisense transcript that repress the transcription of XIST, maintaining an active X chromosome.
+X-inactivation :
+The random inactivation of one X-chromosome in females; occurs early in embryonic development.
+XIST :
+X-inactive specific transcript; an RNA gene on the X chromosome of placental mammals; involved in the X inactivation process.

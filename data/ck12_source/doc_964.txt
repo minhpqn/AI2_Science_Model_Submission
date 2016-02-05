@@ -1,0 +1,20 @@
+Erwin Schrödinger (1887 – 1961) was an Austrian physicist who achieved fame for his contributions to quantum mechanics, especially the Schrödinger equation, for which he received the Nobel Prize in 1933.
+His development of what is known as Schrödinger's wave equation was made during the first half of 1926.
+It came as a result of his dissatisfaction with the quantum condition in Bohr's orbit theory and his belief that atomic spectra should really be determined by some kind of discrete energy value.
+The Quantum Mechanical Model of the Atom
+Most definitions of quantum theory and quantum mechanics offer the same description for both.
+These definitions essentially describe quantum theory as a theory in which both energy and matter have characteristics of waves under some conditions and characteristics of particles under other conditions.
+Quantum theory suggests that energy comes in discrete packages called quanta (or, in the case of electromagnetic radiation, photons ).
+Quantum theory has some mathematical development, often referred to as quantum mechanics, that offers explanations for the behavior of electrons inside the electron clouds of atoms.
+The wave-particle duality of electrons within the electron cloud limits our ability to measure both the energy and the position of an electron simultaneously.
+The more accurately we measure either the energy or the position of an electron, the less we know about the other.
+Our fact that we cannot accurately know both the position and the momentum of an electron at the same time causes an inability to predict a trajectory for an electron.
+Consequently, electron behavior is described differently than the behavior of normal sized particles.
+The trajectory that we normally associate with macroscopic objects is replaced for electrons in electron clouds, with statistical descriptions that show, not the electron path, but the region where it is most likely to be found.
+Since it is the electron in the electron cloud of an atom that determines its chemical behavior, the quantum mechanics description of electron configuration is necessary to understanding chemistry.
+The most common way to describe electrons in atoms according to quantum mechanics is to solve the Schrodinger equation for the energy states of the electrons within the electron cloud.
+When the electron is in these states, its energy is well-defined but its position is not.
+The position is described by a probability distribution map called an orbital .
+Schrodinger’s equation is shown below.
+i \ \hbar \frac{\partial}{\partial t}\psi (r,t)=-\frac{\hbar}{2m}\nabla ^2\psi (r,t)+V(r,t) \psi (r,t)
+where  i is the imaginary number, \sqrt{-1}

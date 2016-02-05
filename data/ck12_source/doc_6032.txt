@@ -1,0 +1,20 @@
+The distance between the particles of a gas is much, much greater than the distances between the particles of a liquid or a solid.
+Most of the volume of a gas, therefore, is composed of the empty space between the particles.
+In fact, the volume of the particles themselves is considered to be insignificant compared to the volume of the empty space.
+Gas particles are in constant rapid motion in random directions .
+The fast motion of gas particles gives them a relatively large amount of kinetic energy.
+Recall that kinetic energy is the energy that an object possesses because of its motion.
+The particles of a gas move in straight-line motion until they collide with another particle or with one of the walls of its container.
+Collisions between gas particles and between particles and the container walls are elastic collisions .
+An elastic collision is one in which there is no overall loss of kinetic energy.
+Kinetic energy may be transferred from one particle to another during an elastic collision, but there is no change in the total energy of the colliding particles.
+There are no forces of attraction or repulsion between gas particles .
+Attractive forces are responsible for particles of a real gas condensing together to form a liquid.
+It is assumed that the particles of an ideal gas have no such attractive forces.
+The motion of each particle is completely independent of the motion of all other particles.
+The average kinetic energy of gas particles is dependent upon the temperature of the gas.
+As the temperature of a sample of gas is increased, the speeds of the particles are increased.
+This results in an increase in the kinetic energy of the particles.
+Not all particles of gas in a sample have the same speed and so they do not have the same kinetic energy.
+The temperature of a gas is proportional to the average kinetic energy of the gas particles.
+Gas particles travel in random straight-line motion according to the kinetic molecular theory

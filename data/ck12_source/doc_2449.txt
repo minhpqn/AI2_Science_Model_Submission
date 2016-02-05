@@ -1,0 +1,20 @@
+A:
+This is a trick question!
+The air inside each box expands to fill the available space, which is identical for both boxes.
+There are more air particles in box B, but the volume of air is exactly the same in both boxes.
+Pressure of Gases
+Particles of gas are constantly moving in all directions at random.
+As a result, they are always bumping into each other and other things.
+This is modeled in the Figure below .
+The force of the particles against things they bump into creates pressure.
+Pressure is defined in physics as the amount of force pushing against a given area.
+How much pressure a gas exerts depends on the number of gas particles in a given space and how fast they are moving.
+The more gas particles there are and the faster they are moving, the greater the pressure they create.
+To learn more about gas pressure and how to measure it, go to this URL:
+Gas particles move randomly in all directions
+The arrows show that particles of a gas move randomly in all directions.
+Q:
+Look at box A and box B in the previous question.
+Is air pressure the same in both boxes?
+Why or why not?
+A:

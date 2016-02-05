@@ -1,0 +1,20 @@
+A sharp knife has much less area of contact, so the pressure is greater (pressure is inversely proportional to area).
+a. 0.008 \ m^2 b. 75 kPa
+estimates will vary, but expect about a force five times larger for 'tippy toes' due to the smaller area.
+Discuss in class.
+Types of Forces
+List and describe types of common forces.
+The various types of common forces are discussed and analyzed.
+\mathrm{Common~Forces}\begin{cases}F_g = m g & \text{Gravity}\\\F_N & \text{Normal force: acts perpendicular to surfaces}\\\F_T & \text{Force of tension in strings and wires}\\\F_{sp}= -k \Delta x & \text{Force of spring stretched a distance } \Delta x \text{ from equilibrium}\end{cases}
+Often, objects experience a force that pushes them into another object, but once the objects are in contact they do not any move closer together.
+For instance, when you stand on the surface of the earth you are obviously not accelerating toward its center.
+According to Newton's Laws, there must be a force opposing the earth's gravity acting on you, so that the net force on you is zero.
+The same also applies for your gravity acting on the earth.
+We call such a force the Normal Force .
+The normal force acts between any two surfaces in contact, balancing what ever force is pushing the objects together.
+It is actually electromagnetic in nature (like other contact forces), and arises due to the repulsion of atoms in the two objects.
+Here is an illustration of the Normal force on a block sitting on earth:
+Another force that often opposes gravity is known as tension .
+This force is provided by wires and strings when they hold objects above the earth.
+Like the Normal Force, it is electromagnetic in nature and arises due to the intermolecular bonds in the wire or string:
+If the object is in equilibrium, tension must be equal in magnitude and opposite in direction to gravity.

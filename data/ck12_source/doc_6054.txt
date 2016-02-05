@@ -1,0 +1,20 @@
+This difference makes it very difficult to get a decent cup of tea (which definitely frustrated some of the British climbers).
+As a liquid is heated, the average kinetic energy of its particles increases.
+The rate of evaporation increases as more and more molecules are able to escape the liquid’s surface into the vapor phase.
+Eventually a point is reached when the molecules all throughout the liquid have enough kinetic energy to vaporize .
+At this point the liquid begins to boil.
+The boiling point is the temperature at which the vapor pressure of a liquid is equal to the external pressure.
+The Figure below illustrates the boiling of liquid.
+Illustration showing the difference between evaporation and boiling
+Comparison between evaporation and boiling.
+In the picture on the left, the liquid is below its boiling point, yet some of the liquid evaporates.
+On the right, the temperature has been increased until bubbles begin to form in the body of the liquid.
+When the vapor pressure inside the bubble is equal to the external atmospheric pressure, the bubbles rise to the surface of liquid and burst.
+The temperature at which this process occurs is the boiling point of the liquid.
+The normal boiling point is the temperature at which the vapor pressure of the liquid is equal to standard pressure.
+Because atmospheric pressure can change based on location, the boiling point of a liquid changes with the external pressure.
+The normal boiling point is a constant because it is defined relative to the standard atmospheric pressure of 760 mmHg (or 1 atm or 101.3 kPa).
+Water boils at lower temperatures at higher altitudes
+Influence of altitude on the boiling point of water.
+The boiling point is the temperature at which the vapor pressure of a liquid is equal to the external pressure.
+As the altitude increases, the boiling point decreases.

@@ -1,0 +1,20 @@
+Touching a charged object to the earth is called grounding .
+When you touch a conductor to the earth, you allow the earth to share the charge.
+Since the earth is billions of times bigger than the object, the earth takes nearly all of the charge.
+The charged object that was grounded now has zero charge.
+Illustration of a charged object being grounded
+It is very easy to ground an object.
+All that is necessary is to touch a conducting wire to both the object and the earth.
+Electrical devices that run the risk of picking up a large static charge are grounded, meaning they are connected to the earth via such a conducting wire.
+Virtually all household appliances, especially washers and dryers, are grounded in this way to eliminate static charge.
+Similarly, large trucks, especially gasoline tankers, are grounded via a large chain hanging off the back to prevent sparks when fuel is being unloaded.
+Spheres, whether hollow or filled, will always have the excess charge on the surface.
+In hollow spheres, the only place for an electron to exist is on the surface.
+Similarly, in a solid conducting sphere all the excess charge sits on the surface.
+This conclusion is a result of Gauss’s Law, which tells us that the symmetry of the sphere and the fact that the electric field within the sphere is 0 forces the charge to the outside.
+Capacitors Store Charge
+Pieter Van Musschenbroek, a Dutch physician, invented a device in 1746 that could store electric charge.
+Though he named the device a Leyden jar, similar devices today are called capacitors.  A typical capacitor consists of a pair of parallel plates of area A separated by a small distance d .
+The space between the two plates is most often filled with an insulator and frequently the plates are rolled into the form of a cylinder.
+If voltage is applied to a capacitor, it quickly becomes charged.
+One of the parallel plates acquires a negative charge and the other an equal amount of positive charge.

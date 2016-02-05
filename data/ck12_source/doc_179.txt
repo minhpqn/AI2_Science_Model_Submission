@@ -1,0 +1,20 @@
+In the case of measurements, we can only read our measuring instruments to a limited number of subdivisions.
+We are limited by our ability to see smaller and smaller subdivisions, and we are limited by our ability to construct smaller and smaller subdivisions on our measuring devices.
+Even with the use of powerful microscopes to construct and read our measuring devices, we eventually reach a limit.
+Therefore, although the actual measurement of an object may be a perfect 12 inches, we cannot prove it to be so.
+Measurements do not produce perfect numbers; the only perfect numbers in science are defined numbers, such as conversion factors.
+It is very important to recognize and report the limitations of a measurement along with the magnitude and unit of the measurement.
+Many times, the measurements made in an experiment are analyzed for regularities.
+Since the reported numbers show the limits of the measurements (how specific these measurements really are), it is possible to determine how regular these measurements are.
+Consider the Table below of the pressures (P) and volumes (V) of a gas sample and the calculated PV product.
+Pressure × Volume (P × V)
+Now, in the Table below ,  look at this same set of data when we are told that all the measurements have only two significant figures and all the numbers must be rounded to two places.
+Pressure × Volume (P × V)
+When the numbers are expressed with proper number of significant figures, a regularity appears that was not apparent before.
+Rules for Determining Significant Figures
+Significant figures are all of the digits that can be known with certainty in a measurement plus an estimated last digit.
+Significant figures provide a system to keep track of the limits of the original measurement.
+To record a measurement, you must write down all the digits actually measured, including measurements of zero, and you must not write down any digit not measured.
+The only real difficulty with this system is that zeros are sometimes used as measured digits, while other times they are used to locate the decimal point.
+Since this ruler is calibrated to 0.1 inches, we should estimate measurements to the hundredths place
+In the sketch shown above, the correct measurement is greater than 1.2 inches but less than 1.3 inches.

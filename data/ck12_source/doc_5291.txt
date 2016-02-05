@@ -1,0 +1,20 @@
+The collagen triple helix molecule.
+The three strands, each its own polypeptide, wind together to form the triple helix structure.
+This requires a glycine residue every third amino acid.
+See  for additional information on collagen.
+The best characterized example of multiple alleles in humans is the ABO blood groups, discussed in the Non-Mendelian Inheritance concept.
+Other human traits determined by multiple alleles would be hair color, hair texture, eye color, built, physical structures, etc.
+Most, if not all of these multiple-allele traits are in traits with very diverse phenotypic possibilities.
+It is easiest to consider situations where each gene affects only one phenotypic characteristic.
+However, other situations where genes have other effects are common.
+As mentioned above, multiple alleles resulting in multiple phenotypes are not uncommon.
+Many genes have multiple phenotypic effects, a property called pleiotropy .
+Thus, a new mutation in the gene will affect all the phenotypes/traits associated with the gene simultaneously.
+For example, the symptoms associated with sickle-cell disease are due to pleiotropic effects.
+Individuals with sickle-cell disease are homozygous for the mutant allele, resulting in sickle-shaped red blood cells.
+Because the sickle-shaped red blood cells deliver less oxygen to the tissues, sickle-cell disease has many pleiotropic effects.
+Symptoms include pain in the bones of the back, the long bones, and the chest.
+As the disease progresses, additional symptoms develop.
+These include fatigue, paleness, rapid heart rate, shortness of breath, and yellowing of the eyes and skin (jaundice).
+People with sickle cell trait are heterozygous for the mutation.
+They do not have the symptoms of sickle cell anemia.

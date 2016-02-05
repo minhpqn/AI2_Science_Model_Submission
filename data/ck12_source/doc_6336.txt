@@ -1,0 +1,20 @@
+Ammonia storage tanks are under high pressure to prevent the ammonia from decomposing
+A dual purpose
+The ammonia storage tank in the picture above does two things, One it stores ammonia at high pressure to minimize the reverse reaction that would lead to less ammonia and more nitrogen and hydrogen.
+Secondly, it sends an important message.
+Ammonia is used to make methamphetamine, a dangerous drug of abuse.
+Locks and other safety mechanisms built into the tanks help stop the theft of ammonia to be used in this illicit activity.
+Effect of Pressure
+Changing the pressure of an equilibrium system in which gases are involved is also a stress to the system.
+A change in the pressure on a liquid or a solid has a negligible effect.
+We will return again to the equilibrium for the Haber-Bosch process.
+Imagine the gases are contained in a closed system in which the volume of the system is controlled by an adjustable piston as shown in the Figure below .
+Compressing a mixture of nitrogen and hydrogen creates more ammonia
+Effect of pressure on ammonia formation.
+On the far left, the reaction system contains primarily N 2 and H 2 , with only one molecule of NH 3 present.
+As the piston is pushed inwards, the pressure of the system increases according to Boyle’s Law.
+This is a stress to the equilibrium.
+In the middle image, the same number of molecules is now confined in a smaller space and so the pressure has increased.
+According to LeChâtelier’s principle, the system responds in order to relieve the stress.
+In the image on the right, the forward reaction has been favored, in which one molecule of N 2 combines with three molecules of H 2 to form two molecules of NH 3 .
+The overall result is a decrease in the number of gas molecules in the entire system.

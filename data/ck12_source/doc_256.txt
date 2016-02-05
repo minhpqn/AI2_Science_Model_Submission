@@ -1,0 +1,20 @@
+What is gravity?
+What caused the sun to form?
+What is the relationship between the strength of a gravitational force and distance?
+What is the relationship between the strength of a gravitational force and mass?
+The earth is attracted to the sun by the force of gravity.
+Why doesn’t the earth fall into the sun?
+If the mass of the earth remained the same but the radius of the earth shrank to one-half its present distance, what would happen to the force of gravity on an object that was resting on the surface of the earth?
+Lifting an object on the moon requires one-sixth the force that would be required to lift the same object on the earth because gravity on the moon is one-sixth that on earth.
+What about horizontal acceleration?
+If you threw a rock with enough force to accelerate it at 1.0 m/s 2 horizontally on the moon, how would the required force compare to the force necessary to accelerate the rock in the same way on the earth?
+The mass of the earth is 5.98 × 10 24  kg and the mass of the moon is 7.35 × 10 22  kg.
+If the distance between the earth and the moon is 384,000 km, what is the gravitational force on the moon?
+gravity:
+A natural phenomenon by which physical bodies appear to attract each other with a force proportional to their masses and inversely proportional to the distance separating them.
+Learn to calculate how objects are put into orbit.
+Understand why objects in orbit are weightless.
+Using Newton’s Law of Gravity and the equations of uniform circular motion, solve problems involving orbital velocity and period.
+The International Space Station is a man made satellite orbiting the earth
+We commonly talk about satellites orbiting Earth.
+But what does that really mean?

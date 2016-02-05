@@ -1,0 +1,20 @@
+Antibodies attack strange substances in the body.
+This is a normal part of your immune response, which is your defense against disease.
+For example, imagine a person with type O blood was given type A blood.
+First, what type of antibodies do people with type O blood produce?
+They produce anti-A and anti-B antibodies.
+This means, if a person with type O blood received type A blood, the anti-A antibodies in the person’s blood would attack the A antigens on the RBCs in the donor blood ( Figure below ).
+The antibodies would cause the RBCs to clump together, and the clumps could block a blood vessel.
+This clumping of blood cells could cause death.
+This diagram illustrates the relationship between blood type and antibodies in blood
+A person with type O blood has A and B antibodies in his/her plasma; if the person was to get type A blood instead of type O, his/her A antibodies would attach to the antigens on the RBCs and cause them to clump together.
+People with type A blood produce anti-B antibodies, and people with type B blood produce anti-A antibodies.
+People with type AB blood do not produce either antibody.
+The Rhesus Factor
+The second most important blood group system in human blood is the Rhesus (Rh) factor .
+A person either has, or does not have, the Rh antigen on the surface of their RBCs.
+If they do have it, then the person is positive.
+If the person does not have the antigen, they are considered negative.
+Recall that people with type O blood do not have any antigens on their RBCs.
+As a result, type O blood can be given to people with blood types A, B, or AB.
+If there are no antigens on the RBCs, there cannot be an antibody reaction in the blood.

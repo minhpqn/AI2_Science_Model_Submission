@@ -1,0 +1,20 @@
+Regulation of Gene Expression
+Each of your cells has about 22,000 genes.
+In fact, all of your cells have the same genes.
+So do all of your cells make the same proteins?
+Do all 22,000 genes get turned into proteins in every cell?
+Of course not.
+If they did, then all your cells would do the same thing.
+And it would be a devastating waste of energy.
+You have cells with different functions because you have cells with different proteins.
+And your cells have different proteins because they “use” different genes.
+The regulation of gene expression , or gene regulation , includes the mechanism to turn genes “on” and transcribe those gene into RNA.
+Any aspect of a gene's expression may be regulated, from the onset of transcription to the post-translational modification of a protein.
+In general terms, gene regulation may occur in the following stages of gene expression:
+mRNA degradation, and/or
+It is this regulation that determines when and how much of a protein to make, giving a cell its specific structure and function.
+The process of gene expression is used by all living organisms, from the simplest prokaryote to the most complex eukaryote.
+And each cell in these organisms regulates gene expression to produce only the necessary proteins.
+An overview of gene regulation is available at
+Click on the image above for more content
+Gene regulation gives the cell control over its structure and function.

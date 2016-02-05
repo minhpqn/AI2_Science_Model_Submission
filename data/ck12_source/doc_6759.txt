@@ -1,0 +1,20 @@
+Remember: you can only use conservation of momentum to solve a problem involving an inelastic collision
+Question :
+Two blocks collide on a frictionless surface.
+Afterwards, they have a combined mass of 10kg and a speed of 2.5\mathrm{m/s} .
+Before the collision, block A, which has a mass of 8.0kg, was at rest.
+What was the mass and initial speed of block B?
+Solution :
+To find mass of block B we have a simple subtraction problem.
+We know that the combined mass is 10kg and the mass of block A is 8.0kg. 10\mathrm{kg}-8.0\mathrm{kg}=2.0\mathrm{kg}
+Now that we know the mass of both blocks we can find the speed of block B.
+We will use conservation of momentum.
+This was a completely inelastic collision.
+We know this because the blocks stuck together after the collision.
+This problem is one dimensional, because all motion happens along the same line.
+Thus we will use the equation (m_A+m_B)v_f=m_A\times v_A+m_B\times v_B and solve for the velocity of block B. (m_A+m_B)v_f=m_A\times v_A+m_Bv_B \Rightarrow \frac{(m_A+m_B)(v_f)-(m_A)(v_A)}{m_B}=v_B
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+Note: move the elasticity meter to 0% for perfectly inelastic collisions.
+Collision Lab (PhET Simulation)

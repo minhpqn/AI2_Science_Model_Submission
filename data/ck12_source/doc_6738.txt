@@ -1,0 +1,20 @@
+Analyze and solve Centripetal Force type problems.
+Students will learn how to analyze and solve Centripetal Force type problems.
+F_C = \frac{mv^2}{r} \begin{cases}m & \text{mass (in kilograms, kg)}\\\v & \text{speed (in meters per second, m/s}\text{)}\\\r & \text{radius of circle}\end{cases}
+Guidance Any force can be a centripetal force.
+Centripetal force is the umbrella term given to any force that is acting perpendicular to the motion of an object and thus causing it to go in a circle.
+Keep the following in mind when solving centripetal force type problems:
+The speed of the object remains constant.
+The centripetal force is changing the direction but not the speed of the object.
+Although the object 'feels' an outward pull, this is not a true force, but merely the objects inertia.
+Remember, Newton's first law maintains that the natural state of an object is to go in a straight line at constant speed.
+Thus, when you make a right turn in your car and the basketball in the back seat flies to the left, that is because the car is moving right and the basketball is maintaining it's position and thus from your point of view moves to the left.
+Your point of view in this case is different from reality because you are in a rotating reference frame.
+To find the maximum speed that a car can take a corner on a flat road without skidding out, set the force of friction equal to the centripetal force.
+To find the tension in the rope of a swinging pendulum, remember that it is the sum of the tension and gravity that produces a net upward centripetal force.
+A common mistake is just setting the centripetal force equal to the tension.
+To find the speed of a planet or satellite in an orbit, set the force of gravity equal to the centripetal force.
+Banked turns (the road is not flat, but rather at an angle) allow for a greater speed before skidding out.
+In this case the normal force aids the force of friction in creating a larger centripetal force than that which can be obtained by friction alone on a flat road.
+It’s not as simple as adding them together, one must consider the components of these two forces in the direction to the center of the circle.
+Watch this Explanation

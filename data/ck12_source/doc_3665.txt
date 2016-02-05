@@ -1,0 +1,20 @@
+Why is this a fair way to decide who goes first?
+If you choose heads, what is the chance that the toss will go your way?
+If you toss a coin twice, you might expect to get one head and one tail.
+But each time you toss the coin, the chance of a head is still 50 percent.
+Therefore, it’s quite likely that you will get two or even several heads (or tails) in a row.
+What if you tossed a coin ten times?
+You would probably get more or less than the expected five heads.
+For example, you might get seven heads (70 percent) and three tails (30 percent).
+The more times you toss the coin, however, the closer you will get to 50 percent heads.
+For example, if you tossed a coin 1000 times, you might get 510 heads and 490 tails.
+Probability and Inheritance
+The same rules of probability in coin tossing apply to the main events that determine the genotypes of offspring.
+These events are the formation of gametes during meiosis and the union of gametes during fertilization.
+Probability and Gamete Formation
+How is gamete formation like tossing a coin?
+Consider Mendel’s purple-flowered pea plants again.
+Assume that a plant is heterozygous for the flower-color allele, so it has the genotype Bb (see Figure below ).
+During meiosis, homologous chromosomes, and the alleles they carry, segregate and go to different gametes.
+Therefore, when the Bb pea plant forms gametes, the B and b alleles segregate and go to different gametes.
+As a result, half the gametes produced by the Bb parent will have the B allele and half will have the b allele.

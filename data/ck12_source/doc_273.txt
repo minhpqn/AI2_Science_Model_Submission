@@ -1,0 +1,20 @@
+Work, Power, and Simple Machines
+Identify forces that are doing work.
+Given two of the three variables in the equation, W = Fd , calculate the third.
+Work is done when a roller coaster goes up a hill
+For some, the exciting part of a roller coaster is speeding down; for others it is the anticipation of climbing up.
+While the coaster is being towed up, it is having work done on it.
+The work done towing it to the top of the hill becomes potential energy stored in the coaster and that potential energy is converted to kinetic energy as the coaster runs down from the top of the hill to the bottom.
+The word work has both an everyday meaning and a specific scientific meaning.
+In the everyday use of the word, work would refer to anything which required a person to make an effort.
+In physics, however, work is defined as the force exerted on an object multiplied by the distance the object moves due to that force.
+W = Fd
+In the scientific definition of the word, if you push against an automobile with a force of 200 N for 3 minutes but the automobile does not move, then you have done no work.
+Multiplying 200 N times 0 meters yields zero work.
+If you are holding an object in your arms, the upward force you are exerting is equal to the object’s weight.
+If you hold the object until your arms become very tired, you have still done no work because you did not move the object in the direction of the force.
+When you lift an object, you exert a force equal to the object’s weight and the object moves due to that lifting force.
+If an object weighs 200.
+N and you lift it 1.50 meters, then your work is W = Fd = (200. \ \text{N})(1.50 \ \text{m}) = 300. \ \text{N m} .
+One of the units you will see for work is shown above: the Newton meter (Nm).
+More often, however, units of work are given as the  Joule (pronounced "jool") in honor of James Prescott Joule, a nineteenth century English physicist.

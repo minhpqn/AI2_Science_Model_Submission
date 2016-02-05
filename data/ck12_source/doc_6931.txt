@@ -1,0 +1,20 @@
+a. 224 \;\mathrm{V} b. 448 \;\mathrm{W} c. 400 \;\mathrm{W} by 100 \ \Omega and 48 \;\mathrm{W} by 12 \ \Omega
+a. 0.013 A b. 0.27 A c.  120 \Omega  and  180 \Omega
+need about  202 \Omega  of total resistance.
+So if you wire up the  120 \Omega  and the  82 \Omega  in series, you'll have it.
+Resistors in Parallel
+Analyze and solve problems involving circuits with resistors in parallel.
+Students will learn how to analyze and solve problems involving circuits with resistors in parallel.
+\frac{1} {R_{total}} = \frac{1} {R_1} + \frac{1}{R_2} + \frac{1} {R_3} + \ldots
+Resistors in Parallel:
+All resistors are connected together at both ends.
+There are many rivers (i.e.
+The main river branches off into many other rivers), so all resistors receive different amounts of current.
+But since they are all connected to the same point at both ends they all receive the same voltage.
+A circuit is wired up with 2 resistors in parallel.
+Both resistors are directly connected to the power supply, so both have the same 20V across them.
+But they are on different ‘rivers’ so they have different current flowing through them.
+Lets go through the same questions and answers as with the circuit in series.
+Question:
+What is the total resistance of the circuit?
+Answer:

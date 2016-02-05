@@ -1,0 +1,20 @@
+One of Pascal’s major contributions is known as Pascal’s law .
+This law states that a change in pressure at any point in an enclosed fluid is transmitted equally throughout the fluid.
+To see a video about Pascal’s law, go to this URL:
+Click on the image above for more content
+A Simple Example
+A simple example may help you understand Pascal’s law.
+Toothpaste is a fluid that is enclosed in a tube with a small opening at one end.
+Look at the toothpaste tube in the Figure below .
+When any part of the tube is squeezed, toothpaste squirts out the open end.
+The pressure applied to the tube is transmitted equally throughout the toothpaste.
+When the pressure reaches the open end, it forces toothpaste out through the opening.
+Pascal's law can be illustrated with a tube of toothpaste
+Using Fluid Pressure
+The ability of fluids to transmit pressure in this way can be very useful—besides getting toothpaste out of a tube!
+For example, hydraulic brakes in a car use fluid to transmit pressure, and when they do, they also increase force.
+You can see how hydraulic brakes work in the Figure below .
+Hydraulic brakes utilize Pascal's law
+Q :
+In this diagram, how can you tell that the force applied by the brake cylinder is greater than the force applied by the brake pedal mechanism?
+A :

@@ -1,0 +1,20 @@
+As shown in Table below , an organism with two alleles of the same type ( BB or bb ) is called a homozygote .
+An organism with two different alleles ( Bb ) is called a heterozygote .
+This results in three possible genotypes.
+The expression of an organism’s genotype produces its phenotype .
+The phenotype refers to the organism’s characteristics, such as purple or white flowers.
+As you can see from Table above , different genotypes may produce the same phenotype.
+For example, BB and Bb genotypes both produce plants with purple flowers.
+Why does this happen?
+In a Bb heterozygote, only the B allele is expressed, so the b allele doesn’t influence the phenotype.
+In general, when only one of two alleles is expressed in the phenotype, the expressed allele is called the dominant allele.
+The allele that isn’t expressed is called the recessive allele.
+How Mendel Worked Backward to Get Ahead
+Mendel used hundreds or even thousands of pea plants in each experiment he did.
+Therefore, his results were very close to those you would expect based on the rules of probability (see "Probability and Inheritance" concept).
+For example, in one of his first experiments with flower color, there were 929 plants in the F2 generation.
+Of these, 705 (76 percent) had purple flowers and 224 (24 percent) had white flowers.
+Thus, Mendel’s results were very close to the 75 percent purple and 25 percent white you would expect by the laws of probability for this type of cross.
+Of course, Mendel had only phenotypes to work with.
+He knew nothing about genes and genotypes.
+Instead, he had to work backward from phenotypes and their percents in offspring to understand inheritance.

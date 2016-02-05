@@ -1,0 +1,20 @@
+Two-Step Metric Conversion
+Convert 4.3 cm to μm.
+Step 1:
+List the known quantities and plan the problem.
+1 m = 100 cm
+1 m = 10 6 μm
+4.3 cm = ? μm
+You may need to consult a table for the multiplication factor represented by each metric prefix.
+First convert cm to m, followed by a conversion of m to μm.
+Step 2:
+Calculate
+4.3 \ \text{cm} \times \frac{1 \ \text{m}}{100 \ \text{cm}} \times \frac{10^6 \ \mu \text{m}}{1 \ \text{m}}=43, 000 \ \mu \text{m}
+Each conversion factor is written so that unit of the denominator cancels with the unit of the numerator of the previous factor.
+Step 3:
+Think about your result.
+A micrometer is a smaller unit of length than a centimeter, so the answer in micrometers is larger than the number of centimeters given.
+Dimensional analysis can be used to carry out metric unit conversions.
+Use the link below to answer the following questions:
+Why are metric units nice to work with?
+What are the basic metric units?

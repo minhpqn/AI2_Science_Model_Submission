@@ -1,0 +1,20 @@
+However, careful analysis of the reaction has detected the presence of N 2 O 2 during the reaction.
+A proposed mechanism for the reaction consists of two elementary steps:
+Step 1: 2 \text{NO}(g) \rightarrow \text{N}_2 \text{O}_2(g)
+Step 2: \text{N}_2 \text{O}_2(g)+ \text{O}_2(g) \rightarrow 2 \text{NO}_2(g)
+In the first step, two molecules of NO collide to form a molecule of N 2 O 2 .
+In the second step, that molecule of N 2 O 2 collides with a molecule of O 2 to produce two molecules of NO 2 .
+The overall chemical reaction is the sum of the two elementary steps:
+& \qquad \qquad \ 2 \text{NO} (g) \rightarrow \cancel{\text{N}_2 \text{O}_2(g)} \\& \underline{\;\; \cancel{\text{N}_2\text{O}_2(g)} + \text{O}_2(g) \rightarrow 2 \text{NO}_2(g) \;\;} \\& \ \ 2 \text{NO}(g)+ \text{O}_2(g) \rightarrow 2 \text{NO}_2(g)
+The N 2 O 2 molecule is not part of the overall reaction.
+It was produced in the first elementary step, then reacts in the second elementary step.
+An intermediate is a species which appears in the mechanism of a reaction, but not in the overall balanced equation.
+An intermediate is always formed in an early step in the mechanism and consumed in a later step.
+Nitrogen dioxide (left) and dinitrogen tetroxide (right).
+The role of intermediates in reaction mechanisms is described.
+Read the material at the link below and answer the questions at the end:
+What is the intermediate in the reaction described above?
+Do we see this intermediate in the actual reaction mix?
+Where do we first see an intermediate in a reaction mechanism?
+What happens to the intermediate?
+intermediate:

@@ -1,0 +1,20 @@
+The process for making ATP in the absence of oxygen; converts glucose to ethanol and carbon dioxide.
+facultative anaerobe :
+An organism which can respire aerobically when oxygen is present, but is also capable of fermentation when oxygen levels are low.
+fermentation :
+Type of anaerobic respiration that includes glycolysis followed by the conversion of pyruvic acid to one or more other compounds and the formation of NAD + ; the process of producing ATP in the absence of oxygen through glycolysis.
+lactic acid fermentation :
+The process for making ATP in the absence of oxygen; converts glucose to lactic acid.
+obligate aerobe :
+An organism which requires oxygen for cellular respiration.
+obligate anaerobe :
+An organism which uses anaerobic respiration, and dies in the presence of oxygen.
+In the two to three billion years since photosynthesis added oxygen to earth’s atmosphere, life has become mostly aerobic.
+Some organisms and types of cells retain the older, anaerobic pathways for making ATP; these pathways comprise anaerobic respiration or fermentation.
+Obligate aerobes require oxygen to make ATP.
+Facultative anaerobes make ATP with oxygen, but if oxygen levels become low, they can use fermentation.
+What are the two paths of fermentation and how do they differentiate?
+Describe obligate aerobes, obligate anaerobes, or facultative anaerobes, and give examples.
+Lactic Acid Fermentation - Advanced
+Describe lactic acid fermentation.
+Describe how bacteria, including those we employ to make yogurt, make ATP in the absence of oxygen.

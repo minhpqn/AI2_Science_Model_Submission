@@ -1,0 +1,20 @@
+Calculate the total amount of heat absorbed (in kJ) when 2.00 mol of ice at -30.0°C is converted to steam at 140.0°C.
+The required specific heats can be found in the table in "Heat Capacity and Specific Heat".
+Step 1:
+List the known quantities and plan the problem .
+2.00 mol ice = 36.04 g ice
+c_p (\text{ice}) = 2.06 \text{ J/g}^\circ \text{C}
+c_p(\text{water}) = 4.18 \text{ J/g}^\circ \text{C}
+c_ p(\text{steam}) = 1.87 \text{ J/g}^\circ \text{C}
+\Delta H_{\text{fus}} = 6.01 \text{ kJ/mol}
+\Delta H_{\text{vap}}= 40.7 \text{ kJ/mol}
+\Delta H_{\text{total}}= ? \text{ kJ}
+Follow the steps previously described.
+Note that the mass of the water is needed for the calculations that involve the specific heat, while the moles of water is needed for the calculations that involve changes of state.
+All heat quantities must be in kilojoules so that they can be added together to get a total for the five-step process.
+Step 2:
+Solve .
+\Delta H_1=2.06 \text{ J/g}^\circ \text{C} \times 36.04 \text{ g} \times 30^\circ \text{C} \times \frac{1 \text{ kJ}}{1000 \text{ J}}=2.23 \text{ kJ}
+\Delta H_2=2.00 \text{ mol} \times \frac{6.01 \text{ kJ}}{1 \text{ mol}}=12.0 \text{ kJ}
+\Delta H_3=4.18 \text{ J/g}^\circ \text{C} \times 36.04 \text{ g} \times 100^\circ \text{C} \times \frac{1 \text{ kJ}}{1000 \text{ J}}=15.1 \text{ kJ}
+\Delta H_4=2.00 \text{ mol} \times \frac{40.7 \text{ kJ}}{1 \text{ mol}}=81.4 \text{ kJ}

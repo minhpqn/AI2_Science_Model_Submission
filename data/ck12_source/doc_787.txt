@@ -1,0 +1,20 @@
+The wire and battery combination is placed in a magnetic field.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+What happens to the wire when the current begins to flow?
+What difference would it make if the magnetic field were stronger?
+What difference would it make if the battery were 3.0 V instead of 1.5 V?
+Find the force on a 115 m long wire at right angles to a 5.0 \times 10^{-5} \ N/A \cdot m magnetic field, if the current through the wire is 400.
+A.
+Find the force on an electron passing through a 0.50 T magnetic field if the velocity of the electron is 4.0 \times 10^6 \ m/s .
+A stream of doubly ionized particles  (\text{charge}= 2+) moves at a velocity of  3.0 \times 10^4 \ m/s perpendicularly to a magnetic field of 0.0900 T.
+What is the magnitude of the force on the particles?
+A wire 0.50 m long carrying a current of 8.0 A is at right angles to a 1.0 T magnetic field.
+What force acts on the wire?
+Suppose a magnetic field exists with the north pole at the top of the computer monitor and the south pole at the bottom of the monitor screen.
+If a positively charged particle entered the field moving from your face to the other side of the monitor screen, which way would the path of the particle bend?
+none of these
+Suppose the surface of your dining room table is a magnetic field with the north pole at the north edge and the south pole at the south edge.
+If an electron passes through this field from ceiling to floor, which way will the path of the electron bend?
+toward the ceiling
+left hand rule:

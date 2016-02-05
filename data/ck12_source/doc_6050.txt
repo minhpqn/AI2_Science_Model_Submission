@@ -1,0 +1,20 @@
+Kinetic energy distribution curves for a liquid at two temperatures T 1 and T 2 .
+The shaded area is the molecules with enough kinetic energy to escape the liquid and become vapor.
+Evaporation is the conversion of a liquid to its vapor below the boiling temperature of the liquid.
+Condensation is the change of state from a gas to a liquid.
+As the temperature increases, the rate of evaporation increases.
+Use the link below to answer the following questions:
+What is the primary pathway that water moves from the liquid state back into the water cycle as atmospheric water vapor?
+What percentage of the moisture in the atmosphere comes from evaporation?
+How long does a water molecule spend in the air after evaporation?
+What chemicals can be obtained from the Dead Sea?
+How does temperature affect the rate of evaporation?
+condensation:
+The change of state from a gas to a liquid.
+evaporation:
+The conversion of a liquid to its vapor below the boiling temperature of the liquid.
+vaporization:
+The process in which a liquid is converted to a gas.
+Define vapor pressure.
+Describe the relationship between the intermolecular forces in a liquid and its vapor pressure.
+Describe the relationship between the vapor pressure of a liquid and temperature.

@@ -1,0 +1,20 @@
+C 6 H 12 O 6 + 6O 2 → 6CO 2 + 6H 2 O
+ATP is generated during the process.
+Though this equation may not seem that complicated, cellular respiration is a series of chemical reactions divided into three stages: glycolysis, the Krebs cycle, and the electron transport chain.
+Stage one of cellular respiration is glycolysis.
+Glycolysis is the splitting, or lysis of glucose.
+Glycolysis converts the 6-carbon glucose into two 3-carbon pyruvate molecules.
+This process occurs in the cytoplasm of the cell, and it occurs in the presence or absence of oxygen.
+During glycolysis a small amount of NADH is made as are four ATP.
+Two ATP are used during this process, leaving a net gain of two ATP from glycolysis.  The NADH temporarily holds energy, which will be used in stage three.
+The Krebs Cycle
+In the presence of oxygen, under aerobic conditions, pyruvate enters the mitochondria to proceed into the Krebs cycle.
+The second stage of cellular respiration is the transfer of the energy in pyruvate, which is the energy initially in glucose, into two energy carriers, NADH and FADH 2 .
+A small amount of ATP is also made during this process.
+This process occurs in a continuous cycle, named after its discover, Hans Krebs.
+The Krebs cycle uses a 2-carbon molecule (acetyl-CoA) derived from pyruvate and produces carbon dioxide.
+The Electron Transport Chain
+Stage three of cellular respiration is the use of NADH and FADH 2 to generate ATP.
+This occurs in two parts.
+First, the NADH and FADH 2 enter an electron transport chain, where their energy is used to pump, by active transport, protons (H + ) out of the thylakoid.
+This establishes a proton gradient across the thylakoid membrane.

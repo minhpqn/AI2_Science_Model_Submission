@@ -1,0 +1,20 @@
+Like other vectors, a force can be represented with an arrow.
+You can see some examples in the Figure below .
+The length of each arrow represents the strength of the force, and the way the arrow points represents the direction of the force.
+Representation of a force using an arrow
+Q :
+How could you use arrows to represent the forces that start Colton’s scooter moving?
+A :
+Colton pushes against the ground behind him (to the right in the Figure above ).
+The ground pushes back with equal force to the left, causing the scooter to move in that direction.
+Force arrows A and B in example 2 in the Figure above ) could represent these forces.
+Force is defined as a push or pull acting on an object.
+Forces include gravity, friction, and applied force.
+Force causes changes in the speed or direction of motion.
+These changes are called acceleration.
+The SI unit for force is the Newton (N).
+Force is a vector because it has both size and direction.
+Like other vectors, it can be represented by an arrow.
+Apply different types of forces to materials in the interactive animated lab at the following URL.
+Then answer the questions below.
+What is compression, and how does it affect materials?

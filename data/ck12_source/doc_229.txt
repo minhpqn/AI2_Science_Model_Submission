@@ -1,0 +1,20 @@
+In addition, there is a force acting on the box parallel to the surface of the plane and pushing the box down the plane.
+This force is drawn in blue and is called the parallel force .
+The normal force and the parallel force add to give the weight.
+The triangle of the black inclined plane and the yellow triangle are similar triangles; the corresponding sides are mutually perpendicular.
+Therefore, the angle at the top of the yellow triangle is also 30°.
+For a right triangle, if we know one other angle (the 30° angle) and one side (the weight), we can calculate the other two sides.
+Therefore, we can calculate the parallel force pushing the box down the incline and we could also calculate the acceleration of the box.
+Example Problem:  A 500.
+N box is resting on a plane inclined at 30° with the horizontal.
+(a)  Find the normal force and the parallel force acting on this box.
+(b)  Find the acceleration of the box.
+(a)  F_N = W \cos 30^\circ = (500. \ \text{N})(0.866) = 433 \ \text{N}
+F_{\text{parallel}} = W \sin 30^\circ = (500. \ \text{N})(0.500) = 250. \ \text{N}
+(b) \text{mass of the box} = \frac{500. \ \text{N}}{9.81 \ \text{m/s}^2}=51.0 \ \text{kg}
+a=\frac{F_{\text{parallel}}}{\text{mass}}=\frac{250. \ \text{N}}{51.0 \ \text{kg}}=4.90 \ \text{m/s}^2 \ (\text{The direction is down the plane}.)
+Each object has a center of gravity, which is the point at which the weight can be considered to be concentrated when balancing the object.
+The weight of an object is a vector that is directed toward the center of the Earth.
+When an object is placed on an inclined plane, its weight vector can be resolved into the normal force, which is equal to the force of the object perpendicular to the plane, and a parallel force, which pushes the object down the inclined plane.
+The following video demonstrates how to determine all the forces acting on a box resting on an inclined plane.
+Click on the image above for more content

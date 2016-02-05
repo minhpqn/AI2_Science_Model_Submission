@@ -1,0 +1,20 @@
+What fraction of the original amount of phosphorus-32 remains after three half-lives?
+A:
+After three half-lives, or 42 days, 1/8 (1/2 × 1/2 × 1/2) of the original amount of phosphorus-32 remains.
+Variation in Half-Lives
+Different radioisotopes may vary greatly in their rate of decay.
+That’s because they vary in how unstable their nuclei are.
+The more unstable the nuclei, the faster they break down.
+As you can see from the examples in the Table below , the half-life of a radioisotope can be as short as a split second or as long as several billion years.
+You can simulate radioactive decay of radioisotopes with different half-lives at the URL below.
+4.47 billion years
+1.28 billion years
+Q:
+If you had 1 gram of carbon-14, how many years would it take for radioactive decay to reduce it to 1/4 gram?
+A: 1 gram would decay to ¼ gram in 2 half-lives.
+One half-life is 5,700 years, so two half-lives are 11,400 years.
+A radioisotope decays and changes to a different element at a certain constant rate called the half-life.
+This is the length of time it takes for half of a given amount of the radioisotope to decay.
+Different radioisotopes may vary greatly in their rate of decay.
+The more unstable their nuclei are, the faster they decay.
+Complete the radioactivity worksheet at this URL:

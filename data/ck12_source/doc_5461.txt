@@ -1,0 +1,20 @@
+5'---T CGA---3'3'---AGC T---5'
+5'---G ANTC---3'3'---CTNA G---5'
+5'---CAG CTG---3'*3'---GTC GAC---5'
+5'---CCC GGG---3'*3'---GGG CCC---5'
+5'---GG CC---3'*3'---CC GG---5'
+Key:
+N = C or G or T or A
+= blunt ends
+Cloning of a segment of DNA of interest can easily be carried out with restriction enzyme digestion, followed by ligation and transformation or transfection.
+In the classical restriction enzyme digestion and ligation cloning protocols, cloning of any DNA fragment essentially involves four steps:
+isolation of the DNA of interest (or target DNA),
+transfection (or transformation), and
+a screening/selection procedure.
+For an overview of cloning, see
+Click on the image above for more content
+Isolation of DNA
+Initially, the DNA fragment to be cloned must be isolated.
+This DNA of interest may be a gene, part of a gene, a promoter, or another segment of DNA, and is frequently isolated by the polymerase chain reaction (PCR) or restriction enzyme digestion.
+As discussed above, a restriction enzyme is an enzyme that cuts double-stranded DNA at a specific sequence.
+The enzyme makes two incisions, one through each strand of the double helix, without damaging the nitrogenous bases.

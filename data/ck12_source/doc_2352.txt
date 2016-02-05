@@ -1,0 +1,20 @@
+A variable is a factor that can take on different values.
+For example, the speed of an object down a ramp might be one variable, and the steepness of the ramp might be another.
+There must be at least two variables in any experiment: a manipulated variable and a responding variable.
+A manipulated variable is a variable that is changed by the researcher.
+A manipulated variable is also called an independent variable.
+A responding variable is a variable that the researcher predicts will change if the manipulated variable changes.
+A responding variable is also called a dependent variable.
+You can learn how to identify manipulated and responding variables in an experiment by watching this video about bouncing balls:
+Click on the image above for more content
+Q:
+If you were to do an experiment to find out what influences the speed of an object down a ramp, what would be the responding variable?
+How could you measure it?
+A:
+The responding variable would be the speed of the object.
+You could measure it indirectly with a stopwatch.
+You could clock the time it takes the object to travel from the top to the bottom of the ramp.
+The less time it takes, the faster the average speed down the ramp.
+Q:
+What variables might affect the speed of an object down a ramp?
+A:

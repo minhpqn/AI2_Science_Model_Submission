@@ -1,0 +1,20 @@
+Let’s say he has a mass of 80 kg.
+Draw a free body diagram and explain (using Newton’s Laws) whether or not the rope will break.
+Now the man ties one end of the rope to the ground and is held up by the other.
+Does the rope break in this situation?
+What precisely is the difference between this problem and the one before?
+A crane is lowering a box of mass 50 kg with an acceleration of 2.0 \ m/s^2 .
+Find the tension F_T in the cable.
+If the crane lowers the box at a constant speed, what is the tension F_T in the cable?
+A physics student weighing 500 N stands on a scale in an elevator and records the scale reading over time.
+The data are shown in the graph below.
+At time t = 0 , the elevator is at rest on the ground floor.
+Draw a FBD for the person, labeling all forces.
+What does the scale read when the elevator is at rest?
+Calculate the acceleration of the person from 5-10 sec.
+Calculate the acceleration of the person from 10-15 sec.
+Is the passenger at rest?
+Calculate the acceleration of the person from 15-20 sec.
+In what direction is the passenger moving?
+Is the elevator at rest at t=25 \ s .
+Justify your answer.

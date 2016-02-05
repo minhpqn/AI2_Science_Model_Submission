@@ -1,0 +1,20 @@
+You would think that the next toss is more likely to be a tail, but the possibility of tossing another head is still 50%.
+If you tossed the coin a total of ten times, a total of seven heads and three tails, you would calculate the probability of tossing heads is 70%.
+The fact that you carried out only a small number of trials has affected your results.
+If Mendel had grown only 10 plants, he would have gotten different probabilities for the appearance of dominant and recessive traits.
+However, Mendel carried out many thousands of trials.
+He was therefore sure that his results were due to probability, and not to chance.
+Probability and the Law of Segregation
+Each coin toss is a separate event.
+Likewise, gamete formation is a separate event.
+The probability that a Pp heterozygote produces gametes with a P allele or a p allele is 50% for each gamete cell.
+In a fertilization involving two such plants (as in the F 1 generation self-pollination experiment), each pollen cell and each egg cell have a 50% chance of having the P or p allele.
+Using Probability to Determine Alleles in Gametes
+In Mendel's monohybrid cross, two heterozygous plants are crossed.
+Both plants produce gametes, all of which contain either a P or p allele for flower color.
+The likelihood that any particular gamete contains the allele for a white flower can be calculated.
+Because a gamete can only carry one out of two alleles, there are only two possible outcomes for a gamete.
+The probability that a gamete will carry the allele for white flower color is ½, 0.5, or 50%.
+The probability that a gamete will carry the allele for purple flower color is also ½.
+Formation of gametes by meiosis.
+Paired alleles always separate and go to different gametes during meiosis.

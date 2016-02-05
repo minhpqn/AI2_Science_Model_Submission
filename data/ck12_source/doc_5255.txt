@@ -1,0 +1,20 @@
+repeats of three bp sequences
+repeats of four bp sequences
+Microsatellite ;
+Short Tandem Repeats (STRs)
+short sequences of 100-200 bp, usually due to repeats of 1-6 bp sequences
+sequences of 100-200 bp, usually due to short sequences of 10-60 bp repeats
+VNTR :
+Variable Number of Tandem Repeat
+short nucleotide sequence ranging from 14 to 100 nucleotides long, organized into clusters of tandem repeats, usually repeated in the range of between 4 and 40 times per loci
+Transposons include retrotransposons and transposable elements.
+A transposable element is a DNA sequence that can change its relative position (self-transpose) within the genome of a single cell.
+Transposable elements either "cut and paste" or "copy and paste" themselves to move around the genome.
+This does result in a change in the DNA sequence and by definition, is a mutation.
+Some of the transpositions can result in severe phenotype changes.
+Barbara McClintock's discovery of these "jumping genes" earned her the 1983 Nobel Prize in Physiology or Medicine.
+Retrotransposons are a subclass of transposons.
+They are genetic elements that can amplify themselves in a genome.
+See Some DNA can jump at  to see Barbara McClintock speak about her work.
+As stated above, even though we essentially all have the same genes, the gene products work a little different in all of us, making us unique.
+That is, the variation within the human genome results in the uniqueness of our species.

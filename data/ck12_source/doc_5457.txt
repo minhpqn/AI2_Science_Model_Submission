@@ -1,0 +1,20 @@
+These questions could start to be answered.
+DNA sequencing was built upon earlier knowledge of DNA polymerases and DNA replication.
+The chain-termination method , which makes use of a "defective" DNA nucleotide, is the basis of DNA sequencing.
+This method is also known as the Sanger method, named after its developer Frederick Sanger.
+In this process, one strand of DNA is used as a template, just as in DNA replication.
+The nucleotide chain elongates as a deoxynucleotide (dNTP) is attached to the 3' carbon end of the chain based on the base-pair rules.
+At the chain termination method, dideoxynucleotides (ddNTPs) are utilized in the sequencing reaction. ddNTPs lack a 3'-OH group necessary for elongation.
+When a ddNTP is incorporated into the elongating chain, the elongation process stops at that base.
+When four separate sequencing reactions are done, one each in the presence of a particular ddNTP, and the products are separated by size through gel electrophoresis , the DNA sequence can be read.
+In A gene is a discrete sequence of DNA nucleotides at , Fred Sanger talks about developing DNA sequencing procedures.
+biotechnology :
+Technology based on biological applications.
+chain-termination method :
+The method of DNA sequencing using dideoxynucleotide triphosphates (ddNTPs) as DNA chain terminators.
+DNA sequencing :
+The method of determining the order of the DNA nucleotide bases.
+DNA technology :
+Biotechnology focusing on DNA-based technology.
+gel electrophoresis :
+An analytical technique used to separate DNA fragments by size and charge; can also be used to separate RNA and proteins.

@@ -1,0 +1,20 @@
+She blasts it back to the other court at 50 \;\mathrm{m/s} .
+A standard tennis ball has mass of 0.057 \;\mathrm{kg} .
+If Serena applied an average force of 500\;\mathrm{N} to the ball while it was in contact with the racket, how long did the contact last?
+Answers to Selected Problems
+a. 60 \;\mathrm{m/s} b. .700 \;\mathrm{sec} c. yes, 8.16 \;\mathrm{m}
+a. 11000 \;\mathrm{N} to the left b. tree experienced same average force of 11000 \;\mathrm{N} but to the right c. 2500 \;\mathrm{lb} . d. about 2.5 “g”s of acceleration
+a. 0.00912 \;\mathrm{s}
+Solve problems involving elastic collisions.
+\sum p_{\text{initial}} = \sum p_{\text{final}} \; \; \text{The total momentum does not change in closed systems}
+\sum KE_{\text{initial}} = \sum KE_{\text{final}} \; \; \text{The total kinetic energy does not change in elastic collisions}
+An elastic collision is a collision where both momentum and kinetic energy are conserved.
+The only true case of elastic collisions are in particle physics.
+However, pool balls, bumper cars, etc. loose very little of their kinetic energy during the collision and approximate an elastic collision.
+These types of collisions are used as elastic collision problems.
+In elastic collisions the objects can not stick together (this would suck kinetic energy out of the system)
+In elastic collisions one can use conservation of momentum and conservation of energy to solve the problem
+Click on the image above for more content
+Question :
+Chris and Ashley are playing pool.
+Ashley hits the cue ball into the 8 ball with a velocity of 1.2\mathrm{m/s} .

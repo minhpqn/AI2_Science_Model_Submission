@@ -1,0 +1,20 @@
+The collision time is 0.01 seconds.
+You hit the deck and bend your legs, lengthening the collision time to 0.2 seconds.
+You hit the deck, but it isn’t wood!
+It is simply a piece of paper painted to look like a deck.
+Below is an infinite void and you continue to fall, forever.
+Which method will involve the greatest force acting on you?
+Which method will involve the least force acting on you?
+Which method will land you on the deck in the least pain?
+Which method involves the least impulse delivered to you?
+Which method involves the greatest impulse delivered to you?
+You punch the wall with your fist.
+Clearly your fist has momentum before it hits the wall.
+It is equally clear that after hitting the wall, your fist has no momentum.
+But momentum is always conserved!
+Explain.
+You look up one morning and see that a 30 \;\mathrm{kg} chunk of asbestos from your ceiling is falling on you!
+Would you be better off if the chunk hit you and stuck to your forehead, or if it hit you and bounced upward?
+Explain your answer.
+A baseball player faces a 80.0 \;\mathrm{m/s} pitch.
+In a matter of .020 seconds he swings the bat, hitting a 50.0\;\mathrm{m/s} line drive back at the pitcher.

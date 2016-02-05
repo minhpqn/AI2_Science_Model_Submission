@@ -1,0 +1,20 @@
+Why would we want to correct for water vapor?
+A student wants to collect his gas over diethyl ether (vapor pressure of 530 mm Hg at 25°C).
+Is this a good idea?
+Explain your answer.
+water displacement:
+Collection of a gas over water.
+Diffusion and Effusion and Graham's Law
+Define diffusion and effusion.
+State Graham’s law.
+Use Graham’s law to perform calculations involving movement of gases.
+A classic experiment to find the rate of diffusion for gases uses hydrochloric acid and ammonia
+How do we know how fast a gas moves?
+We usually cannot see gases, so we need ways to detect their movements indirectly.
+The relative rates of diffusion of ammonia to hydrogen chloride can be observed in a simple experiment.
+Cotton balls are soaked with solutions of ammonia and hydrogen chloride (hydrochloric acid) and attached to two different rubber stoppers.
+These are simultaneously plugged into either end of a long glass tube.
+The vapors of each travel down the tube at different rates.
+Where the vapors meet, they react to form ammonium chloride (NH 4 Cl), a white solid that appears in the glass tube as a ring.
+When a person opens a bottle of perfume in one corner of a large room, it doesn’t take very long for the scent to spread throughout the entire room.
+Molecules of the perfume evaporate and the vapor spreads out to fill the entire space.

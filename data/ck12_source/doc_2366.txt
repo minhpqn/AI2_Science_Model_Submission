@@ -1,0 +1,20 @@
+That’s because doing science typically involves making many measurements.
+For example, if you do lab exercises in science, you might measure an object’s length or mass, or you might find the volume of a liquid.
+Scientists use sensitive measuring devices to make measurements such as these.
+The measurements are usually made using SI units of measurement.
+Measuring Length with a Metric Ruler
+You’ve probably been using a ruler to measure length since you were in elementary school.
+But you may have made most of the measurements in English units of length, such as inches and feet.
+In science, length is most often measured in SI units, such as millimeters and centimeters.
+Many rulers have both types of units, one on each edge.
+The ruler pictured below has only SI units.
+It is shown here bigger than it really is so it’s easier to see the small lines, which measure millimeters.
+The large lines and numbers stand for centimeters.
+Count the number of small lines from the left end of the ruler (0.0).
+You should count 10 lines because there are 10 millimeters in a centimeter.
+Q:
+What is the length in millimeters of the red line above the metric ruler?
+A:
+The length of the red line is 32 mm.
+Q:
+What is the length of the red line in centimeters?

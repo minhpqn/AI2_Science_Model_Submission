@@ -1,0 +1,20 @@
+This interaction causes a conformational change in the repressor shape and the repressor falls off the operator, allowing RNA polymerase to bind to the promoter and initiate transcription.
+Allolactose is called an inducer because it turns on, or induces the expression of the lac genes.
+Regulation of the lac operon.
+When lactose is present, RNA polymerase (red) binds to the promoter (P) and the three genes are expressed, producing a single mRNA for the three genes.
+When lactose is unavailable, the lac repressor (yellow) binds to the operator (O) and inhibits the binding of RNA polymerase to the promoter.
+The three genes are not expressed.
+For an animation of the Lac Operon, see
+The Trp Operon
+The trp operon , shown in ( Figure below ) is an operon that codes for the components for production of the amino acid tryptophan.
+This operon is regulated so that it is not utilized in the presence of tryptophan.
+This is an example of negative regulation of gene expression, with tryptophan inhibiting this operon.
+This operon contains five structural genes: trpE, trpD, trpC, trpB, and trpA, which encode tryptophan synthetase, an enzyme that catalyzes the final two steps in the biosynthesis of tryptophan.
+The operon also contains a promoter which binds to RNA polymerase and an operator sequence, as well as a constitutively expressed repressor gene (trpR) located upstream from the structural genes and their promoter.
+The repressor gene synthesizes a repressor protein that can bind to the operator sequence.
+In the absence of tryptophan, the trp operon is active.
+In the presence of tryptophan, the operon is inactive.
+When tryptophan is present, the repressor protein and tryptophan bind together, causing a conformational change in the repressor, allowing it to bind to the operator.
+When the repressor protein is bound to the operator, transcription of the trp genes is blocked.
+In the lac operon, allolactose binds to the repressor protein preventing binding to the operator and allowing gene transcription, while in the trp operon, tryptophan binds to the repressor protein making it bind to the operator, effectively blocking gene transcription.
+In both situations, repression is that of RNA polymerase transcribing the genes in the operon.

@@ -1,0 +1,20 @@
+Gas particles are in random straight-line motion according to the kinetic-molecular theory.
+The space between particles is very large compared to the particle size.
+Assumptions of the kinetic-molecular theory:
+Gases consist of very large numbers of tiny spherical particles that are far apart from one another compared to their size.
+Gas particles are in constant rapid motion in random directions.
+Collisions between gas particles and between particles and the container walls are elastic collisions.
+There are no forces of attraction or repulsion between gas particles.
+The average kinetic energy of gas particles is dependent upon the temperature of the gas.
+Use the link below to answer the following questions:
+Who developed the kinetic-molecular theory?
+How many molecules are involved in most collisions?
+What assumption is made about the volume of a mole of an ideal gas?
+What kind of motion are gases in?
+What kind of collisions occurs?
+What does the kinetic energy depend upon?
+gas:  Consists of very large numbers of tiny spherical particles that are far apart from one another compared to their size.
+ideal gas:
+An imaginary gas whose behavior perfectly fits all the assumptions of the kinetic-molecular theory.
+Define gas pressure.
+Hot air balloons float because the air inside expands as it exerts a pressure on the balloon

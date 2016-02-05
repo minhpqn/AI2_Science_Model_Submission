@@ -1,0 +1,20 @@
+Describe the function of the sodium-potassium pump.
+What is this incredible object?
+Would it surprise you to learn that it is a human cell?
+The image represents an active human nerve cell.
+How nerve cells function will be the focus of another concept.
+However, active transport processes play a significant role in the function of these cells.
+Specifically, it is the sodium-potassium pump that is active in the axons of these nerve cells.
+The Sodium-Potassium Pump
+Carrier proteins can work with a concentration gradient (passive transport), but some carrier proteins can move solutes against the concentration gradient (from low concentration to high concentration), with energy input from ATP.
+As in other types of cellular activities, ATP supplies the energy for most active transport.
+One way ATP powers active transport is by transferring a phosphate group directly to a carrier protein.
+This may cause the carrier protein to change its conformation, which moves the molecule or ion to the other side of the membrane.
+An example of this type of active transport system, as shown in Figure below , is the sodium-potassium pump, or Na + /K + -ATPase , a transmembrane ATPase, an integral membrane protein that exchanges sodium ions for potassium ions across the plasma membrane of animal cells.
+The sodium-potassium pump is found in the plasma membrane of almost every human cell and is common to all cellular life.
+It helps maintain resting potential , especially in neurons following a nerve impulse, and regulates cellular volume.
+The sodium-potassium pump system moves sodium and potassium ions against large concentration gradients.
+It moves two potassium ions into the cell where potassium levels are high, and pumps three sodium ions out of the cell and into the extracellular fluid.
+As is shown in Figure above , the sodium-potassium pump transports Na + ions and K + ions in the following manner:
+The sodium-potassium pump binds ATP and three intracellular Na + ions.
+ATP is hydrolyzed resulting in adenosine diphosphate (ADP) and an inorganic phosphate.

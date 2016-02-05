@@ -1,0 +1,20 @@
+Define elementary step.
+Assembly lines are composed of many simple steps
+Up in the air
+What most people see of an airplane is the final product.
+They do not see the long, complex assembly line that begins with a few parts and gradually becomes the finished product.
+Assembly lines are intricate organizations that go through a series of complicated steps to bring hundreds (maybe thousands) of parts together into the completed aircraft.
+Reaction Mechanisms and the Elementary Step
+Chemical reactions rarely occur in one simple step.
+The overall balanced equation for a chemical reaction does not always tell us how a reaction actually proceeds.
+In many cases, the overall reaction takes place in a series of small steps.
+An elementary step (or elementary reaction) is one step in a series of simple reactions that show the progress of a reaction at the molecular level.
+A reaction mechanism is the sequence of elementary steps that together comprise an entire chemical reaction.
+As an analogy, consider the route that you might take while driving to the grocery store.
+That route may consist of several turns, similar to the elementary steps.
+The overall reaction specifies only the beginning point (your house) and the final destination (the store), with no information about the specifics in between.
+The idea of a reaction mechanism is described.
+Read the material at the web site below and answer the following questions:
+Will kinetics allow us always to determine the mechanism of a particular reaction?
+What must a reaction mechanism tell us?
+What is a unimolecular elementary process?

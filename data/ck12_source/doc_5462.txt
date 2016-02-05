@@ -1,0 +1,20 @@
+This produces either overlapping ends (also known as sticky ends) or blunt ends.
+The 1978 Nobel Prize in Medicine was awarded to Daniel Nathans and Hamilton Smith for the discovery of restriction endonucleases.
+The first practical use of their work was the manipulation of E. coli bacteria to produce human insulin for diabetics.
+Once the DNA of interest is isolated, a ligation procedure is necessary to insert the amplified fragment into a vector to produce the recombinant DNA molecule.
+Restriction fragments (or a fragment and a plasmid/vector) can be spliced together, provided their sticky ends are complementary.
+Blunt end ligation is also possible.
+The plasmid or vector (which is usually circular) is digested with restriction enzymes, opening up the vector to allow insertion of the target DNA.
+If the isolated DNA of interest and the plasmid or vector are digested with the same restriction enzyme, their sticky ends will be complementary.
+The two DNAs are then incubated with DNA ligase , an enzyme that can attach together strands of DNA with double strand breaks.
+This produces a recombinant DNA molecule.
+Figure below depicts a plasmid with two additional segments of DNA ligated into the plasmid, producing the recombinant DNA molecule.
+Figure below depicts DNA before and after ligation.
+(left) This image shows a line drawing of a plasmid.
+The plasmid is drawn as two concentric circles that are very close together representing the two strands of DNA, with two large segments and one small segment depicted.
+The two large segments (blue and green) indicate antibiotic resistances usually used in a screening procedure, and the small segment (red) indicates an origin of replication, used in DNA replication.
+The resulting DNA is a recombinant DNA molecule. (right) Sticky ends produced by restriction enzyme digestion can be joined with the enzyme DNA ligase.
+Transfection and Selection
+Following ligation, the recombinant DNA is placed into a host cell, usually bacterial, in a process called transfection or transformation.
+Finally, the transfected cells are cultured.
+Many of these cultures may not contain a plasmid with the target DNA as the transfection process is not usually 100% successful, so the appropriate cultures with the DNA of interest must be selected.

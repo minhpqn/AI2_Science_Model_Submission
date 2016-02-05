@@ -1,0 +1,20 @@
+How could you describe the heights of all four girls with a single number?
+How could express how they vary in height with another number?
+Using Statistics to Describe a Sample
+The girls in the picture above make up a small sample—there are only four of them.
+In scientific investigations, samples may include hundreds or even thousands of people or other objects of study.
+Especially when samples are very large, it’s important to be able to summarize their overall characteristics with a few numbers.
+That’s where descriptive statistics come in.
+Descriptive statistics are measures that show the central tendency, or center, of a sample or the variation in a sample.
+Describing the Center
+The central tendency of a sample can be represented by the mean, median, or mode.
+The mean is the average value.
+It is calculated by adding the individual measurements and dividing the sum by the total number of measurements.
+The median is the middle value.
+To find the median, rank all the measurements from smallest to largest and then find the measurement that is in the middle.
+The mode is the most common value.
+It is the value that occurs most often.
+Q:
+A sample of five children have the following heights: 60 cm, 58 cm, 54 cm, 62 cm, and 58 cm.
+What are the mean, median, and mode of this sample?
+A:

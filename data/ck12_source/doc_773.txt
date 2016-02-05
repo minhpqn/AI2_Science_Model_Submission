@@ -1,0 +1,20 @@
+Combined Series-Parallel Circuits
+Solve problems of combined circuits.
+Complicated circuit of a polynomial plotter
+Electrical circuits can become immensely complicated.
+This circuit is a polynomial plotter, which allows users to plot polynomials and evaluate functions at various x values.
+Combined Series-Parallel Circuits
+Most circuits are not just a series or parallel circuit; most have resistors in parallel and in series.
+These circuits are called combination circuits .
+When solving problems with such circuits, use this series of steps.
+For resistors connected in parallel, calculate the single equivalent resistance that can replace them.
+For resistors in series, calculate the single equivalent resistance that can replace them.
+By repeating steps 1 and 2, you can continually reduce the circuit until only a single equivalent resistor remains.
+Then you can determine the total circuit current.
+The voltage drops and currents though individual resistors can then be calculated.
+Example Problem:
+In the combination circuit sketched below, find the equivalent resistance for the circuit, find the total current through the circuit, and find the current through each individual resistor.
+Example problem circuit with a pair of parallel resistors in series with another resistor
+Solution:
+We start by simplifying the parallel resistors R_2 and R_3 .
+\frac{1}{R_{23}}&=\frac{1}{180 \ \Omega}+\frac{1}{220 \ \Omega}=\frac1{99\ \Omega }\\R_{23}&=99 \ \Omega

@@ -1,0 +1,20 @@
+Electrolysis of Aqueous Sodium Chloride
+It may be logical to assume that the electrolysis of aqueous sodium chloride, called brine , would yield the same result through the same reactions as the process in molten NaCl.
+However, the reduction reaction that occurs at the cathode does not produce sodium metal because the water is reduced instead.
+This is because the reduction potential for water is only -0.83 V compared to -2.71 V for the reduction of sodium ions.
+This makes the reduction of water preferable because its reduction potential is less negative.
+Chlorine gas is still produced at the anode, just as in the electrolysis of molten NaCl.
+& \text{oxidation (anode):} && 2\text{Cl}^-(aq) \rightarrow \text{Cl}_2(g) + 2e^- && E^0 = -1.36 \text{ V} \\& \text{reduction (cathode):} && 2\text{H}_2\text{O}(l) + 2e^- \rightarrow \text{H}_2(g) + 2\text{OH}^- && E^0 = -0.83 \text{ V} \\\hline& \text{overall reaction:} && 2\text{Cl}^-(aq) + 2\text{H}_2\text{O}(l) \rightarrow \text{Cl}_2(g) + \text{H}_2(g) + 2\text{OH}^-(aq) && E^0{_\text{cell}} = -2.19 \text{ V}
+Since hydroxide ions are also a product of the net reaction, the important chemical sodium hydroxide (NaOH) is obtained from evaporation of the aqueous solution at the end of the hydrolysis.
+The reactions involving the electrolysis of molten NaCl are described.
+The reactions involving the electrolysis of brine are described.
+Read the material at the link below and answer the following questions:
+How is sodium removed from the cell?
+Why is CaCl 2 added to the system?
+Why doesn’t metallic calcium contaminate the sodium production?
+What are the products of the electrolysis of molten NaCl?
+What are the products of the electrolysis of aqueous NaCl?
+What spectator ion is not shown in the overall equation for the electrolysis of aqueous NaCl?
+brine:
+An aqueous solution of sodium chloride.
+Down’s cell:

@@ -1,0 +1,20 @@
+When a mechanical wave encounters an impenetrable barrier, the complete wave pulse will be reflected and the reflected wave will be inverted.
+The following video shows a wave machine in action.
+Use this video to answer the questions that follow.
+Click on the image above for more content
+What happens to the wave when it is reflected from an open end?
+What happens to the wave when it is reflected from a fixed end?
+Draw a diagram showing a surface with a normal line.  On the diagram, show a wave ray striking the surface with an angle of incidence of 60^\circ .  Draw the reflection ray on the diagram and label the angle of reflection.
+Light strikes a mirror’s surface at 30^\circ  to the normal.
+What will the angle of reflection be?
+If the angle between the incident ray and the reflected ray is 90^\circ  , what is the angle of incidence?
+When a water wave is reflected from a concrete wall, will the reflected wave be inverted or upright?
+If you tie a heavy spring to a light spring and send a wave pulse down the heavy spring, some of the wave will be reflected when the wave passes into the lighter spring.  Will the reflected pulse be upright or inverted?
+reflection:
+The change in direction of a wavefront at an interface between two different media so that the wavefront returns into the medium from which it originated.
+law of reflection:
+Says the angle at which the wave is incident on the surface equals the angle at which it is reflected.
+angle of incidence:
+The angle formed by a ray incident on a surface and a perpendicular to the surface at the point of incidence.
+angle of reflection:
+The angle formed by a reflected ray and a perpendicular to the surface at the point of reflection.

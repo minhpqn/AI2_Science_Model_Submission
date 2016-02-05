@@ -1,0 +1,20 @@
+The X chromosome has about 2,000 genes, whereas the Y chromosome has fewer than 100, none of which are essential to survival. (For comparison, the smallest autosome, chromosome 22, has over 500 genes.) Virtually all of the X chromosome genes are unrelated to sex.
+Only the Y chromosome contains genes that determine sex.
+A single Y chromosome gene, called SRY (which stands for sex-determining region Y gene), triggers an embryo to develop into a male.
+Without a Y chromosome, an individual develops into a female, so you can think of female as the default sex of the human species.
+Can you think of a reason why the Y chromosome is so much smaller than the X chromosome?
+At the link that follows, you can watch an animation that explains why:
+Humans have an estimated 20,000 to 22,000 genes.
+This may sound like a lot, but it really isn’t.
+Far simpler species have almost as many genes as humans.
+However, human cells use splicing and other processes to make multiple proteins from the instructions encoded in a single gene.
+Of the 3 billion base pairs in the human genome, only about 25 percent make up genes and their regulatory elements.
+The functions of many of the other base pairs are still unclear.
+To learn more about the coding and noncoding sequences of human DNA, watch the animation at this link:
+The majority of human genes have two or more possible alleles , which are alternative forms of a gene.
+Differences in alleles account for the considerable genetic variation among people.
+In fact, most human genetic variation is the result of differences in individual DNA bases within alleles.
+Humans have 23 pairs of chromosomes.
+Of these, 22 pairs are autosomes.
+The X and Y chromosomes are the sex chromosomes.
+Females have two X chromosomes, and males have one X and one Y.

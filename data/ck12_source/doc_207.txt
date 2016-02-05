@@ -1,0 +1,20 @@
+Example Problem:
+What force is required to accelerate a 2000. kg car at 2.000 m/s 2 ?
+Solution:
+F = ma = (2000. \ \text{kg})(2.000 \ \text{m/s}^2) = 4000. \ \text{N}
+Example Problem:
+A net force of 150 N is exerted on a rock.
+The rock has an acceleration of 20. m/s 2 due to this force.
+What is the mass of the rock?
+Solution: m = \frac{F}{a} = \frac{(150 \ \text{N})}{(20. \ \text{m/s}^2)} = 7.5 \ \text{kg}
+Example Problem:
+A net force of 100.
+N is exerted on a ball.
+If the ball has a mass of 0.72 kg, what acceleration will it undergo?
+Solution: a = \frac{F}{m} = \frac{(100. \ \text{N})}{(0.72 \ \text{kg})} = 140 \ \text{m/s}^2
+A force is a push or pull on an object.
+Newton’s First Law states that an object with no net force acting on it remains at rest or moves with constant velocity in a straight line.
+Newton’s Second Law states that the acceleration of an object is directly proportional to the net force on the object and inversely proportional to the mass of the object.
+Newton’s Second Law is expressed as an equation, F = ma .
+Use the videos below to answer questions about Newton’s First and Second Laws of Motion:
+Click on the image above for more content

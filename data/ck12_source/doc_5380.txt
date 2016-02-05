@@ -1,0 +1,20 @@
+In short, yes it is.
+In the hominids that arose after the split from the orangutans, two chromosomes fused to produce what is chromosome 2 in humans.
+This fusion did not occur in the lineage of the other apes, and they retain these separate chromosomes.
+This may have occurred to keep two populations from interbreeding, as they would be genetically incompatible, accelerating the divergence of the populations.
+allele :
+An alternative form or different version of a gene.
+Alu sequence :
+A short segment of DNA originally characterized by the action of the Alu restriction endonuclease; occur in large numbers in primate genomes.
+duplication :
+Refers to a mutation that double genetic sequence information.
+hominids :
+A taxonomic family of primates, including four extant genera: chimpanzees and bonobos (Pan), gorillas (Gorilla), humans (Homo), and orangutans (Pongo); also known as the great apes.
+mutation :
+A change in the nucleotide sequence of DNA or RNA.
+short interspersed elements (SINEs) :
+Short DNA sequences that represent reverse-transcribed RNA molecules.
+signal recognition particle (SRP) :
+An abundant universally conserved ribonucleoprotein that recognizes and targets specific proteins to the endoplasmic reticulum in eukaryotes and the plasma membrane in prokaryotes.
+transposon :
+A DNA sequence that can change its relative position (self-transpose) within the genome of a single cell.

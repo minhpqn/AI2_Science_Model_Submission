@@ -1,0 +1,20 @@
+Assume the average mass of the shrapnel is 0.4 kg and that there are 200 pieces.
+What is the average speed of one piece?
+A 1500 kg car starts at rest and speeds up to 3.0 m/s.
+What is the gain in kinetic energy?
+We define efficiency as the ratio of output energy (in this case kinetic energy) to input energy.
+If this car’s efficiency is 0.30, how much input energy was provided by the gasoline?
+If 0.15 gallons were used up in the process, what is the energy content of the gasoline in Joules per gallon?
+An airplane with mass 200,000 \;\mathrm{kg} is traveling with a speed of 268 \;\mathrm{m/s} .
+What is the kinetic energy of the plane at this speed?
+A wind picks up, which causes the plane to lose 1.20 \times 10^8 \;\mathrm{J} per second.
+How fast is the plane going after 25.0 seconds?
+Answers to Selected Problems
+The answers are:
+1.2 \times 10^6 J
+The answers are:
+2.25 \times 10^5 \;\mathrm{J}
+1.5 \times 10^5 \;\mathrm{J/gallon \ of \ gas}
+a. 7.18 \times 10^9 \;\mathrm{J}
+Conservation of Energy
+Apply energy conservation in a closed system.

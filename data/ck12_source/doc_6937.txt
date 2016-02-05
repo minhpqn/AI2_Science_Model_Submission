@@ -1,0 +1,20 @@
+Find the current going through the 75\ \Omega light bulb.
+Find the current going through the 50\ \Omega light bulbs (hint: it’s the same, why?).
+Order the light bulbs in terms of brightness
+If they were all wired in parallel, order them in terms of brightness.
+Find the total current output by the power supply and the power dissipated by the 20\ \Omega resistor.
+You have a 600\;\mathrm{V} power source, two 10\ \Omega toasters that both run on 100\;\mathrm{V} and a 25\ \Omega resistor.
+Show me how you would wire them up so the toasters run properly.
+What is the power dissipated by the toasters?
+Where would you put the fuses to make sure the toasters don’t draw more than 15 Amps?
+Where would you put a 25 Amp fuse to prevent a fire (if too much current flows through the wires they will heat up and possibly cause a fire)?
+Look at the following scheme of four identical light bulbs connected as shown.
+Answer the questions below giving a justification for your answer:
+Which of the four light bulbs is the brightest?
+Which light bulbs are the dimmest?
+Tell in the following cases which other light bulbs go out if:
+bulb A goes out
+bulb B goes out
+bulb D goes out
+Tell in the following cases which other light bulbs get dimmer, and which get brighter if:
+bulb B goes out

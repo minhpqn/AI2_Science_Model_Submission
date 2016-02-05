@@ -1,0 +1,20 @@
+Calculate EMF for a wire moving in a magnetic field.
+Hydroelectric power generator
+Electrical generators convert mechanical energy into electrical energy.
+Every electrical generator needs some method for spinning the coil inside the magnetic field.
+Hydroelectric generators use water pressure to spin the coil while windmills, of course, use the wind to spin the coil.
+The image here is a combination of steam turbine and generator.
+The steam can be produced by burning coal or diesel fuel or by a nuclear reaction and the steam then turns the coil and generates electricity.
+When an individual charge flies through a magnetic field, a force is exerted on the charge and the path of the charge bends.
+In the case shown in the sketch below, the charge is positive and the right hand rule shows us the force will be upward, perpendicular to both the field and the path of the charge.
+Charge passing through a magnetic field
+If a wire that is part of a complete circuit is moved through a magnetic field, the force on the individual electrons in the wire occurs in exactly the same manner.
+Since the electrons in the wire are negatively charged, the force would be in the opposite direction but otherwise the situation is the same.
+When the wire is pulled downward through the magnetic field, the force on the electrons cause them to move within the wire.
+Since the charges are negative, the left hand rule shows that the electrons would move as diagrammed in the sketch. (Point fingers in the direction of the magnetic field, point thumb in the direction of wire movement, and palm shows direction of electron flow.) No current will flow, of course, unless the section of wire is part of a complete circuit.
+Diagram of a conducting rod being passed through a magnetic field
+This process allows us to convert mechanical energy (the motion of the wire) into electrical energy (the current).  This is the opposite of what happens in an electric motor where electrical energy is converted into mechanical energy.
+In order to maintain a constant current flow, it is necessary to have a potential difference or voltage in the circuit.
+The voltage or potential difference is also frequently referred to electromotive force .
+The term electromotive force, like many historical terms, is a misnomer.
+Electromotive force is NOT a force, it is a potential difference or potential energy per unit charge and is measured in volts.

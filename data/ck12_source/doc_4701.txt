@@ -1,0 +1,20 @@
+For example, a person comes to a new country and observes only white sheep.
+This person might form the hypothesis: “All sheep in this country are white.” This statement can be called a hypothesis, because it is falsifiable - it can be tested and proved wrong; anyone could falsify the hypothesis by observing a single black sheep, shown in Figure below .
+If the experimental uncertainties remain small (could the person reliably distinguish the observed black sheep from a goat or a small horse), and if the experimenter has correctly interpreted the hypothesis, finding a black sheep falsifies the "only white sheep" hypothesis.
+However, you cannot call a failure to find non-white sheep as proof that no non-white sheep exist.
+The statement “there are only white sheep in this country” is a hypothesis because it is open to being falsified.
+However, failure to see a black sheep does not necessarily falsify the hypothesis.
+A better scientific hypothesis may be that "only white sheep can survive in this country because of the existing ecosystems."
+evidence :
+Any type of data that may be used to test a hypothesis.
+experiment :
+A test that is used to rule out a hypothesis or validate something already known; a test that is used to eliminate one or more of the possible hypotheses until one hypothesis remains.
+falsifiable :
+Can be proved false.
+hypothesis (plural, hypotheses ):
+A suggested explanation based on evidence that can be tested by observation or experimentation.
+observation :
+The act of noting or detecting phenomenon through the senses.
+phenomenon :
+Any occurrence that is observable.
+scientific investigation :

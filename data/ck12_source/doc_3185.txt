@@ -1,0 +1,20 @@
+Identify the SI unit for wave frequency.
+Explain how wave frequency is related to the energy of a wave.
+Imagine making transverse waves in a rope, like the person in the sketch above.
+You tie one end of the rope to a tree or other fixed point, and then you shake the other end of the rope up and down with your hand.
+You can move the rope up and down slowly or quickly.
+How quickly you move the rope determines the frequency of the waves.
+What Is Wave Frequency?
+The number of waves that pass a fixed point in a given amount of time is wave frequency .
+Wave frequency can be measured by counting the number of crests (high points) of waves that pass the fixed point in 1 second or some other time period.
+The higher the number is, the greater the frequency of the waves.
+The SI unit for wave frequency is the hertz (Hz) , where 1 hertz equals 1 wave passing a fixed point in 1 second.
+The Figure below shows high-frequency and low-frequency transverse waves.
+You can simulate transverse waves with different frequencies at these URLs: and
+High frequency and low frequency transverse waves
+Q:
+The wavelength of a wave is the distance between corresponding points on adjacent waves.
+For example, it is the distance between two adjacent crests in the transverse waves in the diagram.
+Infer how wave frequency is related to wavelength.
+A:
+Waves with a higher frequency have crests that are closer together, so higher frequency waves have shorter wavelengths.

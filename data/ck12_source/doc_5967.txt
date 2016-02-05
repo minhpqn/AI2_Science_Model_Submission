@@ -1,0 +1,20 @@
+Steps to follow are outlined in the text.
+Step 2:  Calculate.
+Assume a 100 g sample.
+& 69.94 \ \text{g Fe} \\& 30.06 \ \text{g O}
+Convert to moles.
+69.94 \ \text{g Fe} \times \frac{1 \ \text{mol Fe}}{55.85 \ \text{g Fe}}&=1.252 \ \text{mol Fe} \\30.06 \ \text{g O} \times \frac{1 \ \text{mol O}}{16.00 \ \text{g O}}&=1.879 \ \text{mol O}
+Divide both moles by the smallest of the results.
+\frac{1.252 \ \text{mol Fe}}{1.252}=1 \ \text{mol Fe} \qquad \qquad \frac{1.879 \ \text{mol O}}{1.252}=1.501 \ \text{mol O}
+4/5.
+Since the moles of O, is still not a whole number, both moles can be multiplied by 2, while rounding to a whole number.
+1 \ \text{mol Fe} \times 2=2 \ \text{mol Fe} \qquad \qquad 1.501 \ \text{mol O} \times 2=3 \ \text{mol O}
+The empirical formula of the compound is Fe 2 O 3 .
+Step 3:
+Think about your result.
+The subscripts are whole numbers and represent the mole ratio of the elements in the compound.  The compound is the ionic compound iron(III) oxide.
+A process is described for the calculation of the empirical formula for a compound based on the percent composition of that compound.
+Use the link below to read about calculating empirical formulas and practice working some problems:
+What is an empirical formula?
+What does an empirical formula tell you?
+What does it not tell you?

@@ -1,0 +1,20 @@
+An increase in the number of gas particles causes an increase in the pressure of a gas
+Increase in pressure with increase in number of gas particles.
+The canister on the left contains a gas at a certain pressure.
+The attached air pump is then used to double the amount of gas in the canister.
+Since the canister cannot expand, the increased number of air molecules will strike the inside walls of the canister twice as frequently as they did before.
+The result is that the pressure inside the canister doubles.
+As you might imagine, if more and more air is continually added to a rigid container, it may eventually burst.
+Reducing the number of molecules in a rigid container has the opposite effect and the pressure decreases.
+Pressure is also affected by the volume of the container.
+If the volume of a container is decreased, the gas molecules have less space in which to move around.
+As a result, they will strike the walls of the container more often and the pressure increases.
+Figure below shows a cylinder of gas whose volume is controlled by an adjustable piston.
+On the left, the piston is pulled mostly out and the gauge reads a certain pressure.
+On the right, the piston has been pushed so that the volume of the enclosed portion of the container where the gas is located has been cut in half.
+The pressure of the gas doubles.
+Increasing the volume of the container would have the opposite effect and the pressure of the gas would decrease.
+A decrease in volume causes an increase in pressure for a gas
+Decrease in gas volume produced increase in gas pressure.
+It would be very unadvisable to place a can of soup over a campfire without venting the can.
+As the can heats up, it may explode.

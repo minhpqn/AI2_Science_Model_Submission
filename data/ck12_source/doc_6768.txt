@@ -1,0 +1,20 @@
+A roller coaster begins at rest 120 \;\mathrm{m} above the ground, as shown.
+Assume no friction from the wheels and air, and that no energy is lost to heat, sound, and so on.
+The radius of the loop is 40 \;\mathrm{m} .
+Find the speed of the roller coaster at points B, C, D, E, F , and H .
+Assume that 25 % of the initial potential energy of the coaster is lost due to heat, sound, and air resistance along its route.
+How far short of point H will the coaster stop?
+A pendulum has a string with length 1.2 m.
+You hold it at an angle of 22 degrees to the vertical and release it.
+The pendulum bob has a mass of 2.0 kg.
+What is the potential energy of the bob before it is released? ( Hint: use geometry to determine the height when released. )
+What is its speed when it passes through the midpoint of its swing?
+Now the pendulum is transported to Mars, where the acceleration of gravity g is 2.3 \;\mathrm{m/s}^2 .
+Answer parts (a) and (b) again, but this time using the acceleration on Mars.
+Answers to Selected Problems
+discuss in class
+discuss in class
+discuss in class
+b.
+KE = 504,600 \;\mathrm{J};
+U_g = 1,058,400 \;\mathrm{J};

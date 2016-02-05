@@ -1,0 +1,20 @@
+Objects can become permanently magnetized
+Q:
+Even permanent magnets can be demagnetized if they are dropped or heated to high temperatures.
+Can you explain why?
+A:
+Jarring or heating a magnet moves the magnetic domains out of alignment.
+When the magnetic domains no longer line up in the same direction, the material is no longer magnetic.
+Some materials are natural permanent magnets.
+The most magnetic material in nature is the mineral magnetite, also called lodestone (see Figure below ).
+The magnetic domains of magnetite naturally align with Earth’s axis.
+The picture on the left shows a chunk of magnetite attracting small bits of iron.
+The magnetite spoon compass shown on the right dates back about 2000 years and comes from China.
+The handle of the spoon always points north.
+Clearly, the magnetic properties of magnetite have been recognized for thousands of years.
+Natural magnetic materials such as magnetite have been recognized for thousands of years
+Magnetism is the ability of a material to be attracted by a magnet and to act as a magnet.
+A material can be magnetized if all of its magnetic domains can be aligned.
+Magnetic domains are regions of matter where north and south poles of atoms line up in the same direction.
+Only certain materials, called ferromagnetic materials, can be magnetized.
+They include iron, cobalt, and nickel.

@@ -1,0 +1,20 @@
+In other words, every wavelength of light could possibly be emitted.
+Instead, what Planck found by analyzing the spectra was that the energy of the hot body could only be lost in small discrete units.
+A quantum is the minimum quantity of energy that can either be lost or gained by an atom.
+An analogy is that a brick wall can only undergo a change in height by units of one or more bricks and not by any possible height.
+Planck showed that the amount of radiant energy absorbed or emitted by an object is directly proportional to the frequency of the radiation.
+In the equation,  E is the energy, in joules, of a quantum of radiation,  v is the frequency, and  h is a fundamental constant called Planck’s constant .
+The value of Planck’s constant is h=6.626 \times 10^{-34} \ \text{J} \cdot \text{s} .
+The energy of any system must increase or decrease in units of h \times v .
+A small energy change results in the emission or absorption of low-frequency radiation, while a large energy change results in the emission or absorption of high-frequency radiation.
+Sample Problem:
+Quantized Energy
+What is the energy of a photon of green light with a frequency of 5.75 × 10 14 Hz?
+Step 1:
+List the known quantities and plan the problem.
+frequency  (\nu) = 5.75 × 10 14 Hz
+Planck's constant  (h) = 6.626 × 10 -34 J • s
+Apply the equation E=hv to solve for the energy.
+Step 2:
+Calculate
+E=(6.626 \times 10^{-34} \ \text{J} \cdot \text{s}) \times (5.75 \times 10^{14} \ \text{Hz})=3.81 \times 10^{-19} \ \text{J}

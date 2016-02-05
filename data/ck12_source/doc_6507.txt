@@ -1,0 +1,20 @@
+Geiger counters are used to detect radiation
+Units for the measurement of radioactivity are described.
+Instruments for the detection of radioactivity are described.
+Read the material at the link below and answer the following questions:
+Who invented the Geiger counter?
+What happens when a radioactive particle collides with gas molecules inside the tube?
+What causes current to flow and register a count?
+What is the most common unit of radioactivity?
+How does a dosimeter detect radioactivity?
+What detects the presence of a radioactive emission in a Geiger counter?
+becquerel (Bq):
+An activity of one disintegration/second.
+curie (Ci):  3.7 \times 10^{10} disintegrations per second.
+dosimeter:
+A film badge that will fog up when exposed to radiation.
+Geiger counter:
+A device for detecting radioactive emissions.
+Calculate half-life when given decay data.
+Nuclear waste being buried at a special site
+We’re putting it where?

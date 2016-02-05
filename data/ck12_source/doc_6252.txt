@@ -1,0 +1,20 @@
+Calorie hamburger is digested.
+400 \cdot \text{Cal} = 400 \cdot \text{kcal} \times \frac{4.184 \text{ kJ}}{1 \text{ kcal}}=1.67 \times 10^3 \text{ kJ}
+Processes of heat exchange between the system and surroundings are described.
+Do the problems (as many as you have time for) at the link below:
+What does the law of conservation of energy say?
+What is a reaction called that gives off heat?
+A cake is made by mixing ingredients and placing the material in an oven for baking.
+What type of reaction is involved?
+calorie (cal):
+The quantity of heat required to raise the temperature of 1 gram of water by 1°C.
+endothermic:
+Heat is absorbed by the system from the surroundings.
+exothermic:
+Heat is released by the system into the surroundings.
+law of conservation of energy:
+In any physical or chemical process, energy is neither created nor destroyed.
+surroundings:
+Everything in the universe that is not part of the system.
+system:
+The specific portion of matter in a given space that is being studied during an experiment or an observation.

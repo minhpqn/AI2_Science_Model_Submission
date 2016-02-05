@@ -1,0 +1,20 @@
+As a result, allele frequencies are constantly changing, and populations are constantly evolving.
+As mutations and natural selection occur frequently in nature, it is difficult for a population to be at genetic equilibrium.
+The Hardy-Weinberg model also serves a mathematical formula used to predict allele frequencies in a population at genetic equilibrium.
+If you know the allele frequencies of one generation, you can use this formula to predict the next generation.
+Again, this only works if all five conditions are being met in a population.
+If a population stays at genetic equilibrium, then no evolution takes place.
+The Hardy-Weinberg model states that a population will remain at genetic equilibrium as long as five conditions are met: (1) No change in the DNA sequence, (2) No migration, (3) A very large population size, (4) Random mating, and (5) No natural selection.
+Use the resource below to answer the questions that follow.
+Hardy-Weinberg Equilibrium Model at
+What is happening when there is a change in the frequencies of alleles in the gene pool of a population?
+Is it likely for gene pool frequencies to remain unchanged?
+List four conditions that must be met for evolution not to occur.
+In the Hardy-Weinberg equation, what does p represent?
+What is an allele?
+What is meant by genetic equilibrium?
+What conditions are required for the Hardy-Weinberg model to apply?
+Why is Hardy-Weinberg equlilibrium unlikely?
+Origin of Species
+Describe artificial selection.
+Summarize outcomes of reproductive isolation.

@@ -1,0 +1,20 @@
+In glutamic acid, in contrast, the side chain is CH 2 CH 2 COOH.
+Variable side chains give amino acids acids different chemical properties.
+The order of amino acids, together with the properties of the amino acids, determines the shape of the protein, and the shape of the protein determines the function of the protein.
+KEY:
+H = hydrogen, N = nitrogen, C = carbon, O = oxygen, R = variable side chain
+Amino acids can bond together through peptide bonds to form short chains called peptides or longer chains called polypeptides ( Figure below ).
+A peptide bond is a covalent bond formed from a condensation reaction between two molecules, causing the release of a molecule of water.
+This bond usually forms between two amino acids, hence forming a peptide or polypeptide.
+Peptide bonds between amino acids are formed during the process of translation.
+Polypeptides may have as few as 40 amino acids or as many as several thousand.
+A protein consists of one or more polypeptide chains.
+The sequence of amino acids in a protein’s polypeptide chain(s) determines the overall structure and chemical properties of the protein.
+Polypeptide.
+This polypeptide is a chain made up of many linked amino acids.
+The amino acid sequence is the primary structure of a protein.
+As explained in Figure below , a protein may have up to four levels of structure, from primary to quaternary.
+The complex structure of a protein allows it to carry out its biological functions.
+Secondary structure refers to local sub-structures generated from the primary structure, usually involving alpha helix and beta pleated sheet structures.
+These secondary structures form through hydrogen bonding between amino acids.
+Tertiary structure refers to the three-dimensional structure of a single polypeptide.

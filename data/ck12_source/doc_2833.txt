@@ -1,0 +1,20 @@
+A:
+Beta decay begins with a proton or neutron.
+You can see how in the Figure below .
+Diagram illustrating beta decay
+Q:
+How does beta decay change an atom to a different element?
+A:
+In beta-minus decay an atom gains a proton, and it beta-plus decay it loses a proton.
+In each case, the atom becomes a different element because it has a different number of protons.
+Equations for Beta Decay
+Radioactive nuclei and particles are represented by nuclear symbols..
+For example, a beta-minus particle (electron) is represented by the symbol \mathrm{^0_{-1} e} .
+The subscript -1 represents the particle’s charge, and the superscript 0 shows that the particle has virtually no mass (no protons or neutrons).
+Another example is the radioactive nucleus of thorium-234.
+It is represented by the symbol \mathrm{^{234}_{90} Th} , where the subscript 90 stands for the number of protons and the superscript 234 for the number of protons plus neutrons.
+Nuclear symbols are used to write nuclear equations for radioactive decay.
+Let’s consider the example of the beta-minus decay of thorium-234 to protactinium-234.
+This reaction is represented by the equation:
+\mathrm{^{234}_{90} Th} → \mathrm{^{234}_{91} Pa} + \mathrm{^0_{-1} e} + energy
+The equation shows that thorium-234 becomes protactinium-234 and loses a beta particle and energy.

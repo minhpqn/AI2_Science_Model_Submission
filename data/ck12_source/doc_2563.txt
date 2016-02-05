@@ -1,0 +1,20 @@
+The atomic number of copper is 29.
+This number represents the number of protons in each atom of copper. (Copper is the element that makes up the coil of wire in photo A of the opening sequence of photos.)
+Periods of the Modern Periodic Table
+Rows of the modern periodic table are called periods , as they are in Mendeleev’s table.
+From left to right across a period, each element has one more proton than the element before it.
+Some periods in the modern periodic table are longer than others.
+For example, period 1 contains only two elements: hydrogen (H) and helium (He).
+In contrast, periods 6 and 7 are so long that many of their elements are placed below the main part of the table.
+They are the elements starting with lanthanum (La) in period 6 and actinium (Ac) in period 7.
+Some elements in period 7 have not yet been named.
+They are represented by temporary three-letter symbols, such as Uub.
+The number of each period represents the number of energy levels that have electrons in them for atoms of each element in that period.
+Q:
+Find calcium (Ca) in the Figure above .
+How many energy levels have electrons in them for atoms of calcium?
+A:
+Calcium is in period 4, so its atoms have electrons in them for the first four energy levels.
+Groups of the Modern Periodic Table
+Columns of the modern table are called groups , as they are in Mendeleev’s table.
+However, the modern table has many more groups—18 compared with just 8 in Mendeleev’s table.

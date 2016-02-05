@@ -1,0 +1,20 @@
+What is the weight of this cylinder?
+What is the weight of this cylinder when it is submerged in water?
+A wooden raft is 2.00 m wide, 3.00 m long, and 0.200 m deep.
+The raft and its occupants have a mass of 700. kg.  How deep will the raft sink below the water when floating?
+For the raft in problem #2, how many 50. kg people can be added to the raft before it sinks completely under water?
+The density of gold is 19,320 kg/m 3 and the density of mercury is 13,500 kg/m 3 .  If a cube of gold that is 0.100 m on each side is placed in a tank of mercury and weighed while under the surface, what is the apparent weight of the cube?
+buoyancy:
+The buoyant force is the upward force exerted by any fluid upon a body placed in it.
+Archimedes’ Principle:  States that a body immersed in a fluid is buoyed up by a force equal to the weight of the displaced fluid.
+Combined Gas Law
+Understand Boyle's, Charles', and Gay-Lussac's Laws.
+State the Combined Gas Law.
+Given five of the six unknowns in the combined gas law, solve for the sixth.
+Hot air balloons require gas law and buoyancy calculations
+In order to design hot air balloons like these, engineers must make gas law calculations, buoyancy calculations, and have knowledge of the density of air at different altitudes.
+Combined Gas Law
+For a given quantity of gas, it has been found experimentally that the volume of the gas is inversely proportional to the pressure applied to the gas when the temperature is kept constant.
+That is,
+V \propto \frac{1}{P}\ \text{at a constant} \ T.
+For example, if the pressure on a gas is doubled, the volume is reduced to half its original volume.

@@ -1,0 +1,20 @@
+What net force would have to act on Cory for him to have an acceleration of 1 m/s 2 ?
+Mass vs Weight
+Show how to calculate the weight of an object from its mass.
+This is Sam at Newton’s Skate Park.
+He’s standing on the back end of his skateboard to keep it from tipping over the edge of a half-pipe.
+The force of his weight pressing down on the skateboard prevents gravity from pulling it over the edge and down the side of the half-pipe.
+Weight, Mass, and Acceleration
+Weight is a measure of the force of gravity pulling down on an object.
+It depends on the object’s mass, which is how much matter the object contains.
+It also depends on the downward acceleration of the object due to gravity, which is the same all over Earth.
+Weight can be represented by the equation:
+F = m × a
+This is the general equation that relates force to mass and acceleration.
+When it relates weight to mass and acceleration, the letter F represents the object’s weight in Newtons (N), which is the SI unit for weight.
+The letter m in the equation represents the object’s mass in kilograms, and the letter a represents the downward acceleration due to gravity.
+As this equation shows, weight is directly related to mass.
+As an object’s mass increases, so does its weight.
+For example, if mass doubles, weight doubles as well.
+You can learn more about weight, mass, and acceleration at this URL:
+All objects on Earth accelerate downward due to gravity at a rate of 9.8 m/s 2 .

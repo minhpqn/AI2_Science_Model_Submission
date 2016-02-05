@@ -1,0 +1,20 @@
+Understand the structure of a diffraction grating.
+Explain the interference pattern formed by diffraction gratings.
+Use diffraction grating interference patterns to calculate the wavelength of light.
+Diffraction of a lightbulb
+Suppose we had a light bulb that emitted exactly four frequencies of light; one frequency in each of the colors red, yellow, green, and blue.  To our eye, this bulb would appear white because the combination of those four colors produces white light.
+If viewed through a diffraction grating, however, each color of light would be visible.
+The original white light bulb is visible in the center of the image, and interference causes the light bulb to appear in each color to the left and the right.
+Diffraction gratings are composed of a multitude of slits lined up side by side, not unlike a series of double slits next to each other.
+They can be made by scratching very fine lines with a diamond point on glass, or by pressing plastic film on glass gratings so that the scratches are replicated.
+The clear places between the scratches behave as slits similar to the slits in a double slit experiment and the gratings form interference patterns in the same general way that double slits do.
+With more slits, there are more light waves out of phase with each other, causing more destructive interference.
+Compared to the interference pattern of a double slit, the diffraction grating interference pattern's colors are spread out further and the dark regions are broader.
+This allows for more precise wavelength determination than with double slits.
+The image below shows the diffraction pattern emanating from a white light Image formed by a diffraction grating .
+Also in this image is the measurement for θ, which can be used to calculate the wavelength of the original light source.
+The equation from the double slit experiment can be adjusted slightly to work with diffraction gratings.
+Where λ is the wavelength of light, d is the distance between the slits on the grating, and θ is the angle between the incident (original) light and the refracted light,
+\lambda=\frac{xd}{L}=d \sin \theta  (Note that \frac{x}{L} = \sin \theta , using the small angle approximation theorem.)
+Looking at the equation, x=\frac{\lambda L}{d} , it should be apparent that as the distance between the lines on the grating become smaller and smaller, the distance between the images on the screen will become larger and larger.  Diffraction gratings are often identified by the number of lines per centimeter; gratings with more lines per centimeter are usually more useful because the greater the number of lines, the smaller the distance between the lines, and the greater the separation of images on the screen.
+Example Problem:

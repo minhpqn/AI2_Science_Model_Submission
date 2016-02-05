@@ -1,0 +1,20 @@
+Sulfuric acid – useful but hazardous
+Sulfuric acid is produced in extremely large quantities in the United States (about 40 million tons/year).
+This material is manufactured by oxidizing sulfur to form sulfur trioxide.
+The SO 3 is then dissolved in water to form the sulfuric acid.
+Most of the sulfuric acid produced is used in fertilizers.
+This acid is also found in lead-acid car batteries.
+Balancing Redox Reactions:
+Oxidation-Number-Change Method
+One way to balance redox reactions is by keeping track of the electron transfer using the oxidation numbers of each of the atoms.
+For the oxidation-number-change method , start with the unbalanced skeleton equation.
+The example below is for the reaction of iron(III) oxide with carbon monoxide.
+This reaction is one that takes place in a blast furnace during the processing of iron ore into metallic iron (see Figure below ):
+\text{Fe}_2\text{O}_3(s)+\text{CO}(g) \rightarrow \text{Fe}(s)+\text{CO}_2(g)
+Step 1:
+Assign oxidation numbers to each of the atoms in the equation and write the numbers above the atom.
+\overset{\underset{\mathrm{+3}}{}}{\text{Fe}_2} \overset{\underset{\mathrm{-2}}{}}{\text{O}_3}(s) + \overset{\underset{\mathrm{+2}}{}}{\text{C}} \overset{\underset{\mathrm{-2}}{}}{\text{O}}(g) \rightarrow \overset{\underset{\mathrm{0}}{}}{\text{Fe}}(s) + \overset{\underset{\mathrm{+4}}{}}{\text{C}}\overset{\underset{\mathrm{-2}}{}}{\text{O}_2}(g)
+Step 2:
+Identify the atoms that are oxidized and those that are reduced .
+In the above equation, the carbon atom is being oxidized since its oxidation increases from +2 to +4.
+The iron atom is being reduced since its oxidation number decreases from +3 to 0.

@@ -1,0 +1,20 @@
+What is Pascal’s law?
+Apply Pascal’s law to the ketchup packet shown in the Figure below .
+Explain what will happen if you tear a small hole in one corner of a packet and then squeeze the packet.
+Ketchup packet practice problem for Pascal's law
+State Bernoulli’s law.
+Relate Bernoulli’s law to flight.
+Look at the large bar (labeled “TELMEX”) across the back of this racecar.
+The bar is called a spoiler.
+It causes air pressure to push the car toward the ground.
+This increases friction between the wheels and the pavement, helping the car to hug the track.
+How does a spoiler work?
+Bernoulli’s law has the answer.
+What Is Bernoulli’s Law?
+Bernoulli’s law states that the pressure of a moving fluid such as air is less when the fluid is moving faster.
+Pressure is the amount of force applied per given area.
+The law is named for Daniel Bernoulli, a Swiss mathematician who discovered it during the 1700s.
+Bernoulli used mathematics to arrive at his law.
+For an animation of the law, go to the URL below.
+Using Air Pressure to Fly
+Did you ever wonder how the wings of airplanes or birds allow them to fly?

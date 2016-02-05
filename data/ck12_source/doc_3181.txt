@@ -1,0 +1,20 @@
+The more energy the wave has, the farther the particles of the medium move.
+The distance the particles move is measured by the wave’s amplitude.
+What Is Wave Amplitude?
+Wave amplitude is the maximum distance the particles of the medium move from their resting positions when a wave passes through.
+The resting position of a particle of the medium is where the particle would be in the absence of a wave.
+The Figure below show the amplitudes of two different types of waves: transverse and longitudinal waves.
+In a transverse wave, particles of the medium move up and down at right angles to the direction of the wave.
+Wave amplitude of a transverse wave is the difference in height between the crest and the resting position.
+The crest is the highest point particles of the medium reach.
+The higher the crests are, the greater the amplitude of the wave.
+In a longitudinal wave, particles of the medium move back and forth in the same direction as the wave.
+Wave amplitude of a longitudinal wave is the distance between particles of the medium where it is compressed by the wave.
+The closer together the particles are, the greater the amplitude of the wave.
+You can simulate waves with different amplitudes in the animation at this URL:
+Transverse and longitudinal waves
+Q:
+What do you think determines a wave’s amplitude?
+A:
+Wave amplitude is determined by the energy of the disturbance that causes the wave.
+Energy and Amplitude

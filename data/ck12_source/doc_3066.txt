@@ -1,0 +1,20 @@
+Look at the ramp in the Figure below .
+A ramp is a type of simple machine called an inclined plane.
+It can be used to raise an object off the ground.
+The input distance is the length of the sloped surface of the ramp.
+This is the distance over which the input force is applied.
+The output distance is the height of the ramp, or the vertical distance the object is raised.
+For this ramp, the input distance is 6 m and the output distance is 2 meters.
+Therefore, the ideal mechanical advantage of this ramp is:
+\text{Ideal Mechanical Advantage}=\frac{\text{Input distance}}{\text{Output distance}}=\frac{6 \ \text{m}}{2 \ \text{m}}=3
+An ideal mechanical advantage of 3 means that the ramp ideally (in the absence of friction) multiplies the input force by a factor of 3.
+The trade-off is that the input force must be applied over a greater distance than the object is lifted.
+Mechanical advantage for a ramp
+Q :
+Assume that another ramp has a sloping surface of 8 m and a vertical height of 4 m.
+What is the ideal mechanical advantage of this ramp?
+A :
+The ramp has an ideal mechanical advantage of:
+\text{Ideal Mechanical Advantage}=\frac{8 \ \text{m}}{4 \ \text{m}}=2
+Mechanical Advantage of Different Types of Machines
+Many machines—including inclined planes such as ramps—increase the strength of the force put into the machine but decrease the distance over which the force is applied.

@@ -1,0 +1,20 @@
+Electrons have a much lower wavelength, which makes it possible to get a resolution a thousand times better than with a light microscope.
+The TEM allows scientists to study the topographical, morphological, compositional and crystalline details in the cell or different materials near the atomic levels, as seen in the Figure below .
+Development of the TEM was quickly followed in 1935 by the development of the scanning electron microscope (SEM).
+The SEM forms an image of a sample by scanning it with a beam of electrons.
+The electrons interact with the atoms that make up the sample producing signals that contain information about the sample's surface topography, morphology and composition.
+Although it is not as powerful as its TEM counterpart, the interactions that take place on the surface of the specimen provide a greater depth of view, higher resolution and more detailed surface picture.
+Electron Microscope Image of Organelles.
+An electron microscope produced this image of a cell.
+The 1980s saw the development of the first scanning probe microscopes.
+The first was the scanning tunneling microscope in 1981.
+Scanning Probe Microscopy forms images of surfaces using a physical probe that scans the specimen.
+The most recent developments in light microscope largely center on the rise of fluorescence microscopy.
+A fluorescence microscope is an optical microscope that uses fluorescence and phosphorescence instead of (or sometimes, in addition to) reflection and absorption to study properties of organic or inorganic samples.
+How to use a microscope can be viewed at
+Click on the image above for more content
+KQED:
+The World's Most Powerful Microscope
+Lawrence Berkeley National labs uses a $27 million electron microscope to make images to a resolution of half the width of a hydrogen atom.
+This makes it the world's most powerful microscope.
+See

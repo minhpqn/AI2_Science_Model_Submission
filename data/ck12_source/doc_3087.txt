@@ -1,0 +1,20 @@
+This makes all machines less than 100 percent efficient.
+Because compound machines have more moving parts than simple machines, they generally have more friction to overcome.
+As a result, compound machines tend to have lower efficiency than simple machines.
+When a compound machine consists of many simple machines, friction can become a serious problem, and it may produce a lot of heat.
+Lubricants such as oil or grease may be used to coat the moving parts of a machine so they slide over each other more easily.
+This is how friction is reduced in a car engine.
+Mechanical Advantage of Compound Machines
+The mechanical advantage of a machine is the factor by which it changes the force applied to the machine.
+Many machines increase the force applied to them, and this is how they make work easier.
+Compound machines tend to have a greater mechanical advantage than simple machines.
+That’s because the mechanical advantage of a compound machine equals the product of the mechanical advantages of all its component simple machines.
+The greater the number of simple machines it contains, the greater its mechanical advantage tends to be.
+Q :
+Assume that the lever and the wheel and axle of a wheelbarrow each have a mechanical advantage of 2.
+What is the mechanical advantage of the wheelbarrow?
+A :
+The mechanical advantage of the wheelbarrow is the product of the mechanical advantage of the lever (2) and the mechanical advantage of the wheel and axle (2).
+Therefore, the wheelbarrow has a mechanical advantage of 4.
+A compound machine is a machine that consists of more than one simple machine.
+Compound machines such as a wheelbarrow or corkscrew consist of just two simple machines.

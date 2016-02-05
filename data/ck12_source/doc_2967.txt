@@ -1,0 +1,20 @@
+When the car slows down, you feel like you are being pushed forward, especially if the change in speed is sudden.
+If the car changes direction and turns right, you feel as though you are being pushed to the left.
+With a left turn, you feel a push to the right.
+The next time you ride in a car, notice how it feels as the car accelerates in each of these ways.
+You can also simulate acceleration at this URL:
+Acceleration is a measure of the change in velocity of a moving object.
+It measures the rate at which the change is occurring.
+It may reflect a change in speed, a change in direction, or both.
+Like velocity, acceleration is a vector.
+Examples of acceleration include a person riding a carousel and a skydiver in free fall.
+When you experience acceleration, you may be able to feel the changes in speed and/or direction.
+Watch the acceleration animation at the following URL.
+Then answer the questions on the Web page and check to see if your answers are correct.
+Describe an example of acceleration and explain how velocity is changing.
+The skydiver pictured in the Figure above will soon open her parachute.
+How will her velocity change when the parachute first opens?
+Calculating Acceleration from Velocity and Time
+Explain how to calculate average acceleration when direction is constant.
+Identify the SI unit for acceleration.
+Solve simple acceleration problems.

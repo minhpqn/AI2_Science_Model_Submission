@@ -1,0 +1,20 @@
+P_2=\frac{387 \text{ kPa} \times 425 \text{ mL}}{1750 \text{ mL}}=94.0 \text{ kPa}
+Step 3:
+Think about your result.
+The volume has increased to slightly over 4 times its original value and so the pressure is decreased by about \frac{1}{4}{th} .
+The pressure is in kPa and the value has three significant figures.
+Note that any pressure or volume units can be used as long as they are consistent throughout the problem.
+Pressure vs.
+Volume
+Have you ever wondered why your ears pop during airplane take offs and landings?
+Or why a balloon pops when you squeeze it too much?
+Find out in this MIT video.
+See   .
+Click on the image above for more content
+The volume of a gas is inversely proportional to temperature.
+Do the problems at the link below:
+What does “inversely” mean in this law?
+Explain Boyle’s law in terms of the kinetic-molecular theory of gases.
+Does it matter what units are used?
+Boyle’s law:
+The volume of a given mass of gas varies inversely with the pressure when the temperature is kept constant.

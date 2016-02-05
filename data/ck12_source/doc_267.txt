@@ -1,0 +1,20 @@
+Solution:
+Because of the law of conservation of momentum, we know that p_{A \text{before}}+p_{B \text{before}}=p_{A \text{after}} + p_{B \text{after}}
+m_A v_A+m_B v_B=m_A v{^\prime}_A+m_B v{^\prime}_B
+(2.0 \ \text{kg})(2.0 \ \text{m/s})+(4.0 \ \text{kg})(1.0 \ \text{m/s})=(2.0 \ \text{kg})(1.0 \ \text{m/s})+(4.0 \ \text{kg})(v_B{^\prime} \ \text{m/s})
+4.0 \ \text{kg} \cdot \text{m/s}+4.0 \ \text{kg} \cdot \text{m/s}=2.0 \ \text{kg} \cdot \text{m/s} + 4v_B{^\prime} \ \text{kg} \cdot \text{m/s}
+v_B{^\prime}=1.5 \ \text{m/s}
+After the collision, ball  B is moving westward at 1.5 m/s.
+Example Problem:
+A railroad car whose mass is 30,000. kg is traveling with a velocity of 2.2 m/s due east and collides with a second railroad car whose mass is also 30,000. kg and is at rest.
+If the two cars stick together after the collision, what is the velocity of the two cars?
+Solution:  Note that since the two trains stick together, the final mass is m A +m B , and the final velocity for each object is the same.
+Thus the conservation of momentum equation, m_A v_A+m_B v_B=m_A v{^\prime}_A+m_B v{^\prime}_B , can be rewritten m_A v_A+m_B v_B=\left(m_A+m_B\right) v{^\prime}
+(30, 000. \ \text{kg})(2.2 \ \text{m/s})+(30, 000. \ \text{kg})(0 \ \text{m/s})=(60, 000. \ \text{kg})(v^\prime \ \text{m/s})
+v^\prime=\frac{66000}{60000}=1.1 \ \text{m/s}
+After the collision, the two cars move off together toward the east with a velocity of 1.1 m/s.
+A closed system is one in which both the object exerting a force and the object receiving the force are inside the system.
+In a closed system, momentum is always conserved.
+The following video shows the Mythbusters building and using various sizes of a toy called "Newton's Cradle." Use this resource to answer the question that follows.
+Click on the image above for more content
+What is Newton's Cradle?

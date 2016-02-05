@@ -1,0 +1,20 @@
+If you look at the nitrogen bases in Figure above , you will see why.
+Adenine and guanine have a two-ring structure.
+Cytosine and thymine have just one ring.
+If adenine were to bind with guanine and cytosine with thymine, the distance between the two DNA chains would be variable.
+However, when a one-ring molecule binds with a two-ring molecule, the distance between the two chains is kept constant.
+This maintains the uniform shape of the DNA double helix.
+These base pairs (A-T or G-C) stick into the middle of the double helix, forming, in essence, the steps of the spiral staircase.
+Knowledge of DNA’s structure helped scientists understand how DNA replicates.
+DNA replication is the process in which DNA is copied.
+It occurs during the synthesis (S) phase of the eukaryotic cell cycle.
+DNA replication begins when an enzyme, DNA helicase, breaks the bonds between complementary bases in DNA (see Figure below ).
+This exposes the bases inside the molecule so they can be “read” by another enzyme, DNA polymerase, and used to build two new DNA strands with complementary bases, also by DNA polymerase.
+The two daughter molecules that result each contain one strand from the parent molecule and one new strand that is complementary to it.
+As a result, the two daughter molecules are both identical to the parent molecule.
+DNA replication is a semi-conservative process because half of the parent DNA molecule is conserved in each of the two daughter DNA molecules.
+The process of DNA replication is actually much more complex than this simple summary.
+You can see a detailed animation of the process at this link:  (2:05).
+A simple illustration of the DNA replication process
+DNA Replication.
+DNA replication is a semi-conservative process.

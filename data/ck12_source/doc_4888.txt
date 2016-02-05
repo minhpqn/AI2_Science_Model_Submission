@@ -1,0 +1,20 @@
+Kinase C (enzyme that helps mediate signal transduction cascades by hydrolyzing lipids)
+phospholipases (hydrolyze various bonds in the the polar head group of phospholipids which are vital to the degredation of damaged or aged cell membranes)
+hormone receptors (binds a hormone outside the cell membrane and activates a protein kinase inside the cell)
+Glycoproteins and glycolipids, in particular, have a carbohydrate chain that acts as a label to identify the cell type.
+Specifically, A, B, O blood groups result from having different carbohydrate chains on the cell surface of red blood cells and other types of cells.
+Everyone has glycolipids and glycoproteins with the particular type of carbohydrate chain that signals type O.
+However, people with type A also have an additional carbohydrate called N-Acetylgalactosamine and those with type B have an added galactose.
+Those with type AB have some glycolipids and glycoproteins with N-Acetylgalactosamine added and others with galactose added.
+Shown in Figure below are two different types of membrane proteins and associated molecules.
+Some of the membrane proteins make up a major transport system that moves molecules and ions through the polar phospholipid bilayer.
+integral membrane proteins :
+Proteins that are permanently embedded within the plasma membrane of a cell or organelle.
+membrane protein :
+A protein molecule that is attached to, or associated with, the membrane of a cell or organelle.
+peripheral membrane proteins :
+Proteins that are only temporarily associated with the cell membrane; can be easily removed.
+plasma membrane :
+Thin coat of lipids (phospholipids) that surrounds and encloses a cell; physical boundary between the intracellular space and the extracellular environment; also called the cell membrane.
+The plasma membrane has many proteins that assist other substances in crossing the membrane.
+Membrane proteins may be permanently attached/embedded (integral membrane proteins) to the membrane, or just temporarily associated with the membrane (peripheral membrane proteins).

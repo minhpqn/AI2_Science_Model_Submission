@@ -1,0 +1,20 @@
+Now they are trying to identify and characterize all the genes in the genome.
+If we are all 99.9% genetically identical, what makes us different?
+How does that 0.1% make us tall or short, light or dark, develop cancer or not?
+To understand that 0.1%, we also need to understand the other 99.9%.
+Understanding the human genome is the goal of the Human Genome Project.
+This project, publicly funded by the United States Department of Energy (DOE) ( Figure below ); and the National Human Genome Research Institute (NHGRI) , part of the National Institutes of Health (NIH) , may be one of the landmark scientific events of our lifetime.
+As stated above, the goal of the HGP is to understand the genetic make-up of the human species by determining the DNA sequence of the human genome ( Figure below ) and the genome of a few model organisms.
+However, it is not just determining the 3 billion bases; it is understanding what they mean.
+How many human genes are there?
+Do these genes encode transcription factors, transport proteins, growth factors, structural proteins, or oncogenes?
+Or any of the other various types of proteins?
+Does a base change in the consensus sequence of a gene cause a genetic disease?
+What is the phenotype associated with mutations in a specific gene?
+Because of the HGP, these questions can be addressed.
+The genes in the genome are in the process of being identified and characterized, as are the proteins associated with those genes.
+A preliminary estimate of the number of genes in the human genome is around 22,000 to 23,000.
+(left) The Human Genome Project logo of the DOE. (right) A depiction of DNA sequence analysis.
+Note the 4 colors utilized, each representing a separate base.
+The sequence of the human DNA is stored in databases available to anyone on the Internet.
+The U.S.

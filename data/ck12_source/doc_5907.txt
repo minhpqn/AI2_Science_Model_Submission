@@ -1,0 +1,20 @@
+resonance:
+The use of two or more Lewis structures to represent the covalent bonding in a molecule.
+Exceptions to the Octet Rule
+List the exceptions to the octet rule.
+Income tax rules, like the octet rule, has exceptions
+Are rules always followed?
+Every spring, millions of Americans file their income tax forms.  The different rules determine how much tax a person pays.  There are also exceptions to the rules.  You pay less tax if you are married and/or have children.  There are certain limits on how much money you can make before paying taxes.  The rule is that you pay taxes, but there are also exceptions based on your personal situation.  The bonding rules for molecules are generally applicable, but there are some exceptions allowed.
+Exceptions to the Octet Rule
+As the saying goes, all rules are made to be broken.  When it comes to the octet rule, that is true.  Exceptions to the octet rule fall into one of three categories: (1) an incomplete octet , (2) odd-electron molecules , and (3) an expanded octet.
+In some compounds, the number of electrons surrounding the central atom in a stable molecule is fewer than eight.  Beryllium is an alkaline earth metal and so may be expected to form ionic bonds.
+However, its very small size and somewhat higher ionization energy compared to other metals actually lead to beryllium forming primarily molecular compounds.  Since beryllium only has two valence electrons, it does not typically attain an octet through sharing of electrons.
+The Lewis structure of gaseous beryllium hydride (BeH 2 ) consists of two single covalent bonds between Be and H (see Figure below ).
+Beryllium hydride has an incomplete octet
+Boron and aluminum, with three valence electrons, also tend to form covalent compounds with an incomplete octet.  The central boron atom in boron trichloride (BCl 3 ) has six valence electrons as shown in the Figure below .
+Boron trichloride has an incomplete octet
+There are a number of molecules whose total number of valence electrons is an odd number.  It is not possible for all of the atoms in such a molecule to satisfy the octet rule.  An example is nitrogen dioxide (NO 2 ).  Each oxygen atom contributes six valence electrons and the nitrogen atom contributes five for a total of seventeen.  The lewis structure for NO 2 appears in the Figure below .
+Nitrogen dioxide has an odd number of electrons
+The Lewis structure for nitrogen dioxide, an odd electron molecule.
+Atoms of the second period cannot have more than eight valence electrons around the central atom.  However, atoms of the third period and beyond are capable of exceeding the octet rule by having more than eight electrons around the central atom.  Starting with the third period, the d sublevel becomes available, so it is possible to use these orbitals in bonding, resulting in an expanded octet.
+Phosphorus and sulfur are two elements that react with halogen elements and make stable compounds with expanded octets.  In phosphorus pentachloride, the central phosphorus atom makes five single bonds to chlorine atoms and as a result has ten electrons surrounding it (see Figure below ).  In sulfur hexafluoride, the central sulfur atom has twelve electrons from its six bonds to fluorine atoms (see Figure below ).

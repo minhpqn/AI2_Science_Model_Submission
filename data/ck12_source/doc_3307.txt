@@ -1,0 +1,20 @@
+Q:
+You might put a 1.5-volt battery in a TV remote.
+The battery in a car is a 12-volt battery.
+How do you think the current of a 12-volt battery compares to the current of a 1.5-volt battery?
+A:
+Greater voltage means a greater difference in potential energy, so the 12-volt battery can produce more current than the 1.5-volt battery.
+Electric current is a continuous flow of electric charges.
+The SI unit for electric current is the ampere (A).
+An electric charge flows when it has electric potential energy due to its position in an electric field.
+An electric charge always moves spontaneously from a position of higher to lower potential energy.
+For an electric charge to move from one position to another, there must be a difference in electric potential energy between the two positions.
+This difference is called voltage.
+The SI unit for voltage is the volt (V).
+Watch the animation at the following URL, and then answer the questions below.
+Describe the movement of electrons when the wire does not form a closed loop between the two battery terminals.
+Explain what happens when the loop is closed.
+What is electric current?
+Name the SI unit for electric current.
+Explain what gives a charge electric potential energy.
+Describe an example.

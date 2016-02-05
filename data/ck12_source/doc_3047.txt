@@ -1,0 +1,20 @@
+The water displaced by your body is equal to your body’s volume.
+Depending on your size, this volume might be about 0.07 m 3 .
+Displacement and Buoyant Force
+Objects such as ships may float in a fluid like water because of buoyant force.
+This is an upward force that a fluid exerts on any object that is placed in it.
+Archimedes discovered that the buoyant force acting on an object equals the weight of the fluid displaced by the object.
+This is known as Archimedes’ law (or Archimedes’ principle).
+For an entertaining video presentation of Archimedes’ law, go to this URL:
+Click on the image above for more content
+Floating Objects and Archimedes’ Law
+Archimedes’ law explains why some objects float in fluids even though they are very heavy.
+It all depends on how much fluid they displace.
+The cruise ship pictured in the opening image is extremely heavy, yet it stays afloat.
+If a steel ball with the same weight as the ship were placed in water, it would sink to the bottom.
+This is modeled in the Figure below .
+The reason the ball sinks is that its shape is very compact, so it displaces relatively little water.
+The volume of water displaced by the steel ball weighs less than the ball itself, so the buoyant force is not as great as the force of gravity pulling down on the ball.
+Thus, the ball sinks.
+Diagram illustrating Archimedes' Law
+Now look at the ship’s hull in the Figure above .

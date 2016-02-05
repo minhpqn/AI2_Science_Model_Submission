@@ -1,0 +1,20 @@
+An animation depicting facilitated diffusion can be viewed at
+Click on the image above for more content
+Ions such as sodium (Na + ), potassium (K + ), calcium (Ca 2+ ), and chloride (Cl - ), are important for many cell functions.
+Because they are polar, these ions do not diffuse through the membrane.
+Instead they move through ion channel proteins where they are protected from the hydrophobic interior of the membrane.
+Ion channels allow the formation of a concentration gradient between the extracellular fluid and the cytosol.
+Ion channels are very specific as they allow only certain ions through the cell membrane.
+Some ion channels are always open, others are "gated" and can be opened or closed.
+Gated ion channels can open or close in response to different types of stimuli such as electrical or chemical signals.
+carrier protein :
+A transport protein that is specific for an ion, molecule, or group of substances; carries the ion or molecule across the membrane by changing shape after the binding of the ion or molecule.
+channel protein :
+A transport protein that acts like a pore in the membrane that lets water molecules or small ions through quickly.
+facilitated diffusion :
+The diffusion of solutes through transport proteins in the plasma membrane.
+gated channel protein :
+A transport protein that opens a "gate," allowing a molecule to flow through the membrane.
+ion channel :
+A channel protein that transports ions across the membrane by facilitated diffusion.
+passive transport :

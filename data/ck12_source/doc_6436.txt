@@ -1,0 +1,20 @@
+Describe how a buffer controls pH.
+List some common buffer systems.
+One of the effects of diabetes is a decrease in blood pH
+How does insulin work?
+Diabetes mellitus is a disorder of glucose metabolism in which insulin production by the pancreas is impaired.
+Since insulin helps glucose enter the cells, a decrease of this hormone means that glucose cannot be used in its normal fashion.
+When this happens, the body begins to break down fats, producing a decrease in blood pH.
+Chemical systems in the body can balance this pH shift for a while, but excessive acid production can create serious problems if not corrected by administering insulin to restore normal glucose use.
+If only 1.0 mL of 0.10 M hydrochloric acid is added to 1.0 L of pure water the pH drops drastically from 7.0 to 4.0.
+This is a 1000-fold increase in the acidity of the solution.
+For many purposes, it is desirable to have a solution which is capable of resisting such large changes in pH when relatively small amounts of acid or base are added to them.
+Such a solution is called a buffer.
+A buffer is a solution of a weak acid or a base and its salt.
+Both components must be present for the system to act as a buffer to resist changes in pH.
+Commercial buffer solutions, which have a wide variety of pH values, can be obtained.
+Some common buffer systems are listed in the Table below :
+Some Common Buffers
+pH of buffer (equal molarities of both components)
+Acetic acid / acetate ion
+CH 3 COOH / CH 3 COO −

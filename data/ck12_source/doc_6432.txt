@@ -1,0 +1,20 @@
+Salt formed from:
+Strong acid + Strong base
+Strong acid + Weak base
+Weak acid + Strong base
+Salts formed from the reaction of a weak acid and a weak base are more difficult to analyze because of competing hydrolysis reactions between the cation and the anion.
+These salts will not be considered in this concept.
+Salt hydrolysis is defined.
+Salt hydrolysis reactions resulting in acidic, basic, or neutral solutions are described.
+Do problems 1, 2, 3, and 5 at the link below:
+How does F − produce a basic solution?
+How does the ammonium ion produce an acidic solution?
+Why does dissolved NaCl produce a neutral solution?
+salt hydrolysis:
+A reaction in which one of the ions from a salt reacts with water, forming either an acidic or basic solution.
+Calculating pH of Salt Solutions
+Perform calculations to determine pH of salt solutions if  K_a or K_b are known.
+A swimming pool is kept around a pH of 7.2 using various acidic and basic salts
+Keeping things safe and healthy
+We all enjoy a cool dip in a swimming pool on a hot day, but we may not realize the work needed to keep that water safe and healthy.
+The ideal pH for a swimming pool is around 7.2.

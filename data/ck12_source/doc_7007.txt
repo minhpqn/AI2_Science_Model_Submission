@@ -1,0 +1,20 @@
+Pascal’s Principle reminds us that, for a fluid of uniform pressure, the force exerted on a small area in contact with the fluid will be smaller than the force exerted on a large area.
+Thus, a small force applied to a small area in a fluid can create a large force on a larger area.
+This is the principle behind hydraulic machinery.
+Liquids obey a continuity equation which is based on the fact that liquids are very difficult to compress.
+This means that the total volume of a fluid will remain constant in most situations.
+Imagine trying to compress a filled water balloon!
+A weather balloon is ascending through the atmosphere.
+If the density of air is 1.2 kg/m 3 and atmospheric pressure at sea level is 101.3 kPa, then what is the pressure on the balloon at (a) 100 m above the ground, (b) 500 m above the ground, and (c) 1000 m above the ground?
+For all parts of these problems, we'll be using the equation for pressure given above where the atmospheric pressure at sea level is P o .
+P&=P_o-\rho_{air}gh\\P&=101.3\;\text{kPa} - 1.2\;\text{kg/m}^3 * 9.8\;\text{m/s}^2 * 100\;\text{m}\\P&=100.12\;\text{kPa}\\
+P&=101.3\;\text{kPa} - 1.2\;\text{kg/m}^3 * 9.8\;\text{m/s}^2 * 500\;\text{m}\\P&=95.4\;\text{kPa}\\
+P&=101.3\;\text{kPa} - 1.2\;\text{kg/m}^3 * 9.8\;\text{m/s}^2 * 1000\;\text{m}\\P&=89.5\;\text{kPa}\\
+Watch this Explanation
+Click on the image above for more content
+A 1500 \;\mathrm{kg} car is being lifted by a hydraulic jack attached to a flat plate.
+Underneath the plate is a pipe with radius 24 \;\mathrm{cm} .
+If there is no net force on the car, calculate the pressure in the pipe.
+The other end of the pipe has a radius of 2.00\;\mathrm{cm} .
+How much force must be exerted at this end?
+To generate an upward acceleration for the car of 1.0 \;\mathrm{m/s}^2 , how much force must be applied to the small end of the pipe?

@@ -1,0 +1,20 @@
+PCR utilizes a heat stable DNA polymerase, Taq polymerase (or Taq DNA polymerase), named after the thermophilic bacterium Thermus aquaticus, from which it was originally isolated.
+T. aquaticus is a bacterium that lives in hot springs and hydrothermal vents, and Taq polymerase is able to withstand the high temperatures required to denature DNA during PCR (discussed below).
+Taq polymerase’s optimum temperature for activity is between 75°C and 80°C.
+Recently other DNA polymerases have also been used for PCR.
+A basic PCR involves a series of repeating cycles involving three main steps (see Figure below ):
+Denaturation of the double stranded DNA.
+Annealing of specific oligonucleotide primers.
+Extension of the primers to amplify the region of DNA of interest.
+These steps will be discussed in additional detail below.
+The oligonucleotide primers are single stranded pieces of DNA that correspond to the 5’ and 3’ ends of the DNA region to be amplified.
+These primers will anneal to the corresponding segment of denatured DNA.
+Taq Polymerase, in the presence of free deoxynucleotide triphosphates (dNTPs), will extend the primers to create double stranded DNA.
+After many cycles of denaturation, annealing and extension, the region between the two primers will be greatly amplified.
+The PCR is commonly carried out in a thermal cycler, a machine that automatically allows heating and cooling of the reactions to control the temperature required at each reaction step (see below).
+The PCR usually consists of a series of about 30 to 35 cycles.
+Most commonly, PCR is carried out in three repeating steps, with some modifications for the first and last step.
+PCR is usually performed in small tubes or wells in a tray, each often beginning with the complete genome of the species being studied.
+As only a specific sequence from that genome is of interest, the sequence specific primers are targeted to that sequence.
+PCR is done with all the building blocks necessary to create DNA: template DNA, primers, dNTPs, and a DNA polymerase.
+The three basic steps of PCR ( Figure below ) are:

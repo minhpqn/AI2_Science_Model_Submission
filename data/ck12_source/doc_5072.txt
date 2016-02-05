@@ -1,0 +1,20 @@
+The Krebs Cycle ( Figure above ) begins by combining each Acetyl-CoA with a four-carbon carrier molecule to make a 6-carbon molecule of citric acid (or citrate, its ionized form).
+For this reason, the Krebs Cycle, named for a scientist who worked out its details, is also called the Citric Acid Cycle .
+The cycle carries citric acid through a series of chemical reactions which gradually release energy and capture it in several carrier molecules.
+For each Acetyl-CoA which enters the cycle, 3 NAD + are reduced to NADH, one molecule of FAD (another temporary energy carrier) is reduced to FADH 2 , and one molecule of ATP (actually a precursor, GTP, guanine triphosphate) is produced.
+Study Figure above to locate each of these energy-capturing events.
+Note what happens to carbon atoms (black dots in Figure above ).
+For each 2-carbon Acetyl-CoA which enters the cycle, two molecules of carbon dioxide are released, completing the breakdown of the original 6-carbon glucose molecule.
+The final step regenerates the original 4-carbon molecule which began the cycle, so that another Acetyl-CoA can enter the cycle.
+In summary, the Krebs Cycle completes the breakdown of glucose which began with glycolysis.
+Its chemical reactions oxidize all six of the original carbon atoms to CO 2 , and capture the energy released in 2 ATP, 6 NADH, and 2 FADH 2 .
+These energy carriers join the 2 ATP and 2 NADH produced in glycolysis and the 2 NADH produced in the conversion of 2 pyruvates to 2 Acetyl-CoA molecules.
+At the conclusion of the Krebs Cycle, glucose is completely broken down, yet only four ATP have been produced.
+Moreover, although oxygen is required to drive the Krebs Cycle, the cycle’s chemical reactions do not themselves consume O 2 .
+The conclusion of cellular respiration, stage 3, produces the majority of the ATP.
+The Krebs cycle is reviewed at
+Click on the image above for more content
+Citric Acid Cycle :
+Stage 2 of aerobic cellular respiration; a series of chemical reactions which completes the breakdown of glucose begun in stage 1, releasing more chemical energy and producing carbon dioxide; also called the Krebs cycle.
+electron transport chain :
+Series of electron-transport molecules that pass high-energy electrons from molecule to molecule and capture their energy.

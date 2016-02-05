@@ -1,0 +1,20 @@
+That’s because when wavelength increases, wave frequency decreases.
+As a result, the product of wavelength and wave frequency is still the same speed.
+At the following URL, you can see what happens to the wavelength when the frequency of a wave increases.
+Click on the image above for more content
+Calculating Wave Speed from Wavelength and Wave Frequency
+The equation for wave speed can be used to calculate the speed of a wave when both wavelength and wave frequency are known.
+Consider an ocean wave with a wavelength of 3 meters and a frequency of 1 hertz.
+The speed of the wave is:
+Speed = 3 m x 1 wave/s = 3 m/s
+Q:
+Kim made a wave in a spring by pushing and pulling on one end.
+The wavelength is 0.1 m, and the wave frequency is 2 hertz.
+What is the speed of the wave?
+A:
+Substitute these values into the equation for speed:
+Speed = 0.1 m x 2 waves/s = 0.2 m/s
+Calculating Wave Frequency or Wavelength from Wave Speed
+The equation for wave speed (above) can be rewritten as:
+Frequency = \mathrm{\frac{Speed}{Wavelength}} or Wavelength = \mathrm{\frac{Speed}{Frequency}}
+Therefore, if you know the speed of a wave and either the wavelength or wave frequency, you can calculate the missing value.

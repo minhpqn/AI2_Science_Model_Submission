@@ -1,0 +1,20 @@
+Object inside the focal point
+Once again, we can trace two rays to locate the image.
+A ray that originates at the focal point and passes through the tip of the object will reflect parallel to the principal axis.
+The second ray we trace is the ray that leaves the tip of the object and strikes the mirror parallel to the principal axis.
+Below is the ray diagram for this situation.
+The rays are reflected from the mirror and as they leave the mirror, they diverge.
+These two rays will never come back together and so a real image is not possible.
+When an observer looks into the mirror, however, the eye will trace the rays backward as if they had followed a straight line.
+The dotted lines in the sketch show the lines the rays would have followed behind the mirror.
+The eye will see an image behind the mirror just as if the rays of light had originated behind the mirror.
+The image seen will be enlarged and upright.
+Since the light does not actually pass through this image position, the image is virtual.
+Virtual image formed by a concave mirror
+Example Problem:
+A 1.00 cm tall object is placed 10.0 cm from a concave mirror whose radius of curvature is 30.0 cm.
+Determine the image distance and image size.
+Solution:
+Since the radius of curvature is 30.0 cm, the focal length is 15.0 cm.
+The object distance of 10.0 cm tells us that the object is between the focal point and the mirror.
+\frac{1}{d_o}+\frac{1}{d_i}=\frac{1}{f}  and plugging known values yields  \frac{1}{10.0}+\frac{1}{x}=\frac{1}{15}

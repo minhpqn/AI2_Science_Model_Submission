@@ -1,0 +1,20 @@
+A neon atom has two electrons in energy level I and its remaining eight electrons in energy level II, which can hold only eight electrons.
+This means that is outermost energy level is full.
+Therefore, a neon atom is very stable.
+Energy levels (also called electron shells) are fixed distances from the nucleus of an atom where electrons may be found.
+As you go farther from the nucleus, electrons at higher energy levels have more energy.
+Electrons are always added to the lowest energy level first until it has the maximum number of electrons possible, and then electrons are added to the next higher energy level until that level is full, and so on.
+The maximum number of electrons at a given energy level depends on its number of orbitals.
+There are at most two electrons per orbital.
+Electrons in the outermost energy level of an atom are called valence electrons.
+They determine many of the properties of an atom, including how reactive it is.
+Watch the video about electrons at the following URL, and then answer the questions below.
+Click on the image above for more content
+How many energy levels exist in atoms?
+What is the maximum possible number of electrons at the fifth energy level?
+Assume an energy level can hold a maximum of 98 electrons.
+Which energy level is it?
+How many orbitals does this energy level have?
+What are energy levels?
+Relate energy levels to the amount of energy their electrons have.
+What must happen for an electron to jump to a different energy level?

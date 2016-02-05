@@ -1,0 +1,20 @@
+Think about your result.
+This very small wavelength is about 1/20th of the diameter of a hydrogen atom.
+Looking at the equation, as the speed of the electron decreases, its wavelength increases.
+The wavelengths of everyday large objects with much greater masses should be very small.
+If we were to calculate the wavelength of a 0.145 kg baseball thrown at a speed of 40 m/s, we would come up with an extremely short wavelength on the order of 10 -34 m.
+This wavelength is impossible to detect even with advanced scientific equipment.
+Indeed, while all objects move with wavelike motion, we never notice it because the wavelengths are far too short.
+On the other hand, particles with measurable wavelengths are all very small.
+However, the wave nature of the electron proved to be a key development in a new understanding of the nature of the electron.
+An electron that is confined to a particular space around the nucleus of an atom can only move around that atom in such a way that its electron wave “fits” the size of the atom correctly.
+This means that the frequencies of electron waves are quantized .
+Based on the  E=hv equation, the quantized frequencies means that electrons can only exist in an atom at specific energies, as Bohr had previously theorized.
+Image of an electron wave in and out of phase in an orbit
+The circumference of the orbit in (A) allows the electron wave to fit perfectly into the orbit.
+This is an allowed orbit.
+In (B), the electron wave does not fit properly into the orbit, so this orbit is not allowed.
+The deBroglie wave equations allows calculation of the wavelength of any moving object.
+As the speed of the electron decreases, its wavelength increases.
+Use the link below to practice calculations using the deBroglie wave equation:
+What did the Bohr model not explain?

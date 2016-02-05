@@ -1,0 +1,20 @@
+A Joule is a kg·m 2 /s 2 .
+Example Problem:  A boy lifts a box of apples that weighs 185 N.
+The box is lifted a height of 0.800 m.
+How much work did the boy do?
+Solution:
+W = Fd = (185 \ \text{N})(0.800 \ \text{m}) = 148 \ \text{N m} = 148 \ \text{Joules}
+Work is done only if a force is exerted in the direction of motion.
+If the motion is perpendicular to the force, no work has been done.
+If the force is at an angle to the motion, then the component of the force in the direction of the motion is used to determine the work done.
+Example Problem:  Suppose a 125 N force is applied to a lawnmower handle at an angle of 25° with the ground and the lawnmower moves along the surface of the ground.  If the lawnmower moves 56 m, how much work was done?
+Diagram of force being applied to a lawn mower handle
+Solution:  The solution requires that we determine the component of the force that was in the direction of the motion of the lawnmower because the component of the force that was pushing down on the ground does not contribute to the work done.
+F_{\text{parallel}} = (\text{Force})(\cos 25^\circ) = (125 \ \text{N})(0.906) = 113 \ \text{N}
+W = F_{\text{parallel}} d = (113 \ \text{N})(56 \ \text{m}) = 630 \ \text{J}
+Work is the force exerted on an object multiplied by the distance the object moves due to that force.
+The unit for work is called the joule, which is a kg m 2 /s 2 .
+If the force is at an angle to the motion, then the component of the force in the direction of the motion is used to determine the work done.
+The following video introduces energy and work.
+Use this resource to answer the questions that follow.
+Click on the image above for more content

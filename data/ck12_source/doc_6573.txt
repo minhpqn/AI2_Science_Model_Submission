@@ -1,0 +1,20 @@
+Oxidation can be defined as the addition of oxygen to a molecule or the removal of hydrogen from a molecule.
+When an alkane is heated in the presence of an appropriate catalyst, it can be oxidized to the corresponding alkene in a reaction called a dehydrogenation reaction.
+Two hydrogen atoms are removed in the process.
+The alkene can be further oxidized to an alkyne by the removal of two more hydrogen atoms.
+\text{oxidation} \qquad \text{CH}_3\text{CH}_3 \xrightarrow{-\text{H}_2} \text{CH}_2 \text{=CH}_2 \xrightarrow{-\text{H}_2} \text{CH}{\equiv}\text{CH}
+The reactions are reversible, and so an alkyne can be reduced first to an alkene and then to an alkane.
+\text{reduction} \qquad \text{CH}{\equiv}\text{CH}\xrightarrow{+\text{H}_2} \text{CH}_2\text{=CH}_2 \xrightarrow{+\text{H}_2} \text{CH}_3\text{CH}_3
+The alkane is the most reduced form of a hydrocarbon, while the alkyne is the most oxidized form.
+Oxidation reactions in organic chemistry often involve the addition of oxygen to a compound, which changes the particular functional group of that compound.
+The following sequence shows how methane can be oxidized first to methanol, then to methanal, then to methanoic acid, and finally to carbon dioxide.
+& \text{CH}_4 \xrightarrow{\text{gain of oxygen}} \text{CH}_3\text{OH} \xrightarrow{\text{loss of hydrogen}} \text{CH}_2\text{O} \xrightarrow{\text{gain of oxygen}} \text{HCOOH} \xrightarrow{\text{loss of hydrogen}} \text{CO}_2 \\& \text{methane} \qquad \qquad \text{methanol} \qquad \qquad\quad \ \ \text{methanal} \qquad \qquad \text{methanoic acid}
+Each step in the process is either a gain of oxygen or a loss of hydrogen.
+Each step also releases energy, which explains why the complete combustion of alkanes to carbon dioxide is an extremely exothermic reaction.
+The oxidation of an alcohol can produce either an aldehyde or a ketone.
+Ethanol can be oxidized in the laboratory through a heating process combined with the addition of an oxidizing agent such as the dichromate ion, which catalyzes the reaction in an acidic solution.
+The reaction produces the aldehyde ethanal (acetaldehyde).
+\text{CH}_3 \text{CH}_2 \text{OH} \xrightarrow[{\text{H}^+}]{\text{Cr}_2 \text{O}^{2-}_7} \text{CH}_3 \text{CHO}
+Oxidation of ethanol can yield acetaldehyde
+When the alcohol to be oxidized is a secondary alcohol, the oxidation product is a ketone rather than an aldehyde.
+The oxidation of the simplest secondary alcohol, 2-propanol, yields propanone.

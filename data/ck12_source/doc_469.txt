@@ -1,0 +1,20 @@
+Two main types of neurons are sensory neurons and motor neurons.
+Sensory neurons carry nerve impulses from sense organs and internal organs to the central nervous system.
+Motor neurons carry nerve impulses from the central nervous system to organs, glands, and muscles—the opposite direction.
+Both types of neurons work together.
+Sensory neurons carry information about the environment found inside or outside of the body to the central nervous system.
+The central nervous system uses the information to send messages through motor neurons to tell the body how to respond to the information.
+The place where the axon of one neuron meets the dendrite of another is called a synapse .
+Synapses are also found between neurons and other types of cells, such as muscle cells.
+The axon of the sending neuron does not actually touch the dendrite of the receiving neuron.
+There is a tiny gap between them, the synaptic cleft ( Figure below ).
+At a synapse, neurotransmitters are released to carry a nerve impulse from one neuron to the next
+This diagram shows a synapse between neurons.
+When a nerve impulse arrives at the end of the axon, neurotransmitters are released and travel to the dendrite of another neuron, carrying the nerve impulse from one neuron to the next.
+The following steps describe what happens when a nerve impulse reaches the end of an axon.
+When a nerve impulse reaches the end of an axon, the axon releases chemicals called neurotransmitters .
+Neurotransmitters travel across the synapse between the axon and the dendrite of the next neuron.
+Neurotransmitters bind to the membrane of the dendrite.
+The binding allows the nerve impulse to travel through the receiving neuron.
+Did you ever watch a relay race?
+After the first runner races, he or she passes the baton to the next runner, who takes over.

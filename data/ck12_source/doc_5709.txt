@@ -1,0 +1,20 @@
+What was one problem with the Bohr model of the atom?
+What did Heisenberg show about electrons?
+What did Schrödinger derive?
+What does the quantum mechanical view of the atom require?
+What is a wave function?
+What does a high density electron cloud suggest?
+electron cloud:
+The location of the electrons in the quantum mechanical model of the atom.
+orbital:
+The three-dimensional region of space that indicates where there is a high probability of finding an electron.
+quantum mechanical model:
+A model of the atom that derives from the Schrödinger wave equation and deals with probabilities.
+wave function:
+Give only the probability of finding an electron at a given point around the nucleus.
+Define the four quantum numbers.
+Determine quantum numbers for specific electrons when given appropriate data.
+Seat numbers at a stadium are unique
+Can you guess how many people are in this stadium?
+If you attend a college or professional football game, you need a ticket to get in.
+It is very likely that your ticket may specify a gate number, a section number, a row, and a seat number.

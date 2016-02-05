@@ -1,0 +1,20 @@
+We just assume that we will get electric power when we connect a plug to an electrical outlet.
+The wire that comprises that outlet is almost always copper, a material that conducts electricity well.
+The unique properties of the solid copper allow electrons to flow freely through the wire and into whatever device we connect it to.
+Then we can enjoy music, television, work on the computer, or whatever other activity we want to undertake.
+Classes of Crystalline Solids
+Crystalline substances can be described by the types of particles in them and the types of chemical bonding that takes place between the particles.
+There are four types of crystals: (1) ionic , (2) metallic , (3) covalent network, and (4) molecular .
+Properties and several examples of each type are listed in the following table and are described in the Table below .
+Crystalline Solids – Melting and Boiling Points
+Type of Crystalline Solid
+Melting Point (°C)
+Normal Boiling Point (°C)
+H 2 O
+Ionic crystals -- The ionic crystal structure consists of alternating positively-charged cations and negatively-charged anions (see Figure below ).
+The ions may either be monatomic or polyatomic.
+Generally, ionic crystals form from a combination of Group 1 or 2 metals and Group 16 or 17 nonmetals or nonmetallic polyatomic ions.
+Ionic crystals are hard and brittle and have high melting points.
+Ionic compounds do not conduct electricity as solids, but do conduct when molten or in aqueous solution.
+Ionic crystals have high melting points and strong intermolecular forces
+Metallic crystals -- Metallic crystals consist of metal cations surrounded by a “sea” of mobile valence electrons (see Figure below ).

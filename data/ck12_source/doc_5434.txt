@@ -1,0 +1,20 @@
+Transcription factors are proteins that bind to regulatory elements on the DNA and have a significant role in the regulation of gene expression .
+Hence, one domain of many transcription factors is a DNA-binding domain.
+Transcription factors can activate or repress gene expression.
+In eukaryotic genes, transcription factors usually must bind to a gene's promoter prior to the binding of RNA polymerase and the initiation of transcription.
+This ensures that a gene is only expressed when its product is needed by the cell.
+See
+for a brief description.
+In eukaryotes, an important class of transcription factors is called general transcription factors (GTFs).
+These factors are necessary for transcription to occur.
+Many of these GTFs are part of the large transcription preinitiation complex that interacts with RNA polymerase directly.
+The most common GTFs are those that are involved in the RNA polymerase II-dependent transcription of DNA.
+These include the ubiquitous TFIIA, TFIIB, TFIID, TFIIE, TFIIF, and TFIIH.
+The preinitiation complex binds to promoter regions of DNA upstream to the gene that they regulate.
+TFIID is also known as the TATA binding protein as it binds to the TATA box.
+DNA and Protein Interactions
+DNA and proteins interact with each other for various reasons.
+Most of these reasons have to do with influencing the DNA structure or the expression of genes with in the DNA, a process known as gene expression.
+How the protein interacts with the DNA is based on the structure of the protein.
+Conserved DNA binding motifs are present among DNA binding proteins.
+These include domains known as the leucine zipper, the helix-turn-helix, the zinc finger and the helix-loop helix domains.

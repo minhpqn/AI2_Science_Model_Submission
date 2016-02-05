@@ -1,0 +1,20 @@
+Baking a cake is an irreversible reaction
+Combustion reactions are generally irreversible.
+Combustion occurs whenever a fuel burns.
+In this type of reaction, the fuel may combine with oxygen (in the air) and produces carbon dioxide and water vapor.
+The chemical equation for a combustion reaction is:
+Fuel + O 2 → CO 2 + H 2 O
+In a complete combustion reaction, fuel and oxygen are the reactants and the products are carbon dioxide and water.
+These two products cannot react to reform the fuel and oxygen, so the reaction is irreversible.
+The one-way arrow in the equation shows that the reaction can go in only one direction.
+Many chemical reactions can occur in both directions.
+These reactions are called reversible reactions.
+Not only can the reactants change to the products, but the products can change back to the reactants, at least under certain conditions.
+Consider again the reaction in which hydrogen gas and oxygen gas combine to produce water.
+This reaction is reversible if an electric current is applied to the water that is produced.
+You can see how this is done in the Figure below .
+The current causes the water molecules to break down to individual hydrogen and oxygen atoms.
+Then these atoms recombine to form molecules of hydrogen gas and oxygen gas.
+Decomposition of water to form hydrogen and oxygen gas
+Q:
+In a chemical equation, a reversible reaction is represented with two arrows, one pointing in each direction.

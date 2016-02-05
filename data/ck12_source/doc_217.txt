@@ -1,0 +1,20 @@
+F_{\text{NET}} = 19.6 \ \text{N} - 9.8 \ \text{N} = 9.8 \ \text{N}
+a=\frac{F_{NET}}{\text{mass}}=\frac{9.8 \ \text{N}}{7.0 \ \text{kg}}=1.4 \ \text{m/s}^2
+MIT K12+Videos:
+Science Out Loud
+The Physics of Skydiving
+When you fall thousands of feet from the sky, it seems like something strange is happening with the laws of physics.
+Turns out, everything relies on a simple force called drag.
+Though it may seem skydivers are in free fall, air resistance allows skydivers to speed up, slow down, and even change direction.
+See
+for more information.
+Click on the image above for more content
+Friction is caused by bodies sliding over rough surfaces.
+The degree of surface roughness is indicated by the coefficient of friction, \mu .
+The force of friction is calculated by multiplying the coefficient of friction by the normal force.
+The frictional force always opposes motion.
+The net force is found by subtracting the frictional force from the applied force.
+Use this resource to answer the following questions about friction:
+Click on the image above for more content
+1 lbf (pound-force) = 4.44 N.
+Given this information, how many newtons of force did it take to rip the two phonebooks apart?

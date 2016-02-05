@@ -1,0 +1,20 @@
+That’s how the ship pictured in the Figure below is using it.
+A sonar device is both a sender and a receiver.
+It sends out ultrasound waves and detects the waves after they reflect from underwater objects.
+If you watch the video at the URL below, you can see how sonar is used on a submarine.
+Click on the image above for more content
+Sonar is used to locate underwater objects
+The distance to underwater objects can be calculated from the known speed of sound in water and the time it takes for the sound waves to travel to the object.
+The equation for distance traveled when speed and time are known is:
+Distance = Speed × Time
+Consider the ship and submarine pictured in the Figure above .
+If an ultrasound wave travels from the ship to the submarine and back again in 2 seconds, what is the distance from the ship to the submarine?
+The sound wave travels from the ship to the submarine in just 1 second, or half the time it takes to make the round trip.
+The speed of sound waves through ocean water is 1437 m/s.
+Therefore, the distance from the ship to the submarine is:
+Distance = 1437 m/s × 1 s = 1437 m
+Q:
+Now assume that the sonar device on the ship sends an ultrasound wave to the bottom of the water.
+If the sound wave is reflected back to the device in 4 seconds, how deep is the water?
+A:
+The time it takes the wave to reach the bottom is 2 seconds.

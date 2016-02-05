@@ -1,0 +1,20 @@
+Instead, the amount of energy in a photon depends on the frequency of the electromagnetic wave.
+The frequency of a wave is the number of waves that pass a fixed point in a given amount of time, such as the number of waves per second.
+In waves with higher frequencies, photons have more energy.
+Evidence for the Wave-Particle Theory
+After Einstein proposed his theory, evidence was discovered to support it.
+For example, scientists shone laser light through two slits in a barrier made of a material that blocked light.
+You can see the setup of this type of experiment in the Figure below .
+Using a special camera that was very sensitive to light, they took photos of the light that passed through the slits.
+The photos revealed tiny pinpoints of light passing through the double slits.
+This seemed to show that light consists of particles.
+However, if the camera was exposed to the light for a long time, the pinpoints accumulated in bands that resembled interfering waves.
+Therefore, the experiment showed that light seems to consist of particles that act like waves.
+Double slit experiment
+Electromagnetic radiation behaves like waves of energy most of the time, but sometimes it behaves like particles.
+From the 1600s until the early 1900s, most scientists thought that electromagnetic radiation consists either of particles or of waves but not both.
+In 1905, Albert Einstein proposed the wave-particle theory of electromagnetic radiation.
+This theory states that electromagnetic energy is released in discrete packets of energy—now called photons—that act like waves.
+After Einstein presented his theory, scientists found evidence to support it.
+For example, double-slit experiments showed that light consists of tiny particles that create patterns of interference just as waves do.
+Watch the animation “Let There Be Light” at the following URL.

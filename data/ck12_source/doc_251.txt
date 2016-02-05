@@ -1,0 +1,20 @@
+Kepler’s Laws of Planetary Motion
+Describe Kepler’s three laws.
+Calculate satellite periods given average radius and vice versa.
+Elliptical orbits of the planets
+Though a drawing, not an accurate portrayal of the solar system, the elliptical appearance of the orbits is correct.
+The elliptical orbits around the sun are not limited to the planets; comets, asteroids, and other orbiting objects also follow elliptical paths.
+Fifty years before Newton proposed his three laws of motion and his law of universal gravitation, Johannes Kepler (1571 – 1630) published a number of astronomical papers with detailed descriptions of the motions of the planets.
+Included in those papers were the findings that we now refer to as Kepler’s Laws of Planetary Motion.
+These are summarized below.
+Kepler’s First Law:
+The path of each planet around the sun is an ellipse with the sun at one focus.
+Kepler's First Law states the path of the planet is an ellipse around the sun with the sun at one focus
+Though it seems at first glance that this law is incorrect (the sun appears to be in the center of our orbit), remember that a perfect circle is an ellipse with the foci in the same place.
+Since the Earth's orbit is nearly circular, the sun appears to stay in the center.
+Kepler’s Second Law:  As a planet moves in its orbit, a line from the sun to the planet sweeps out equal areas in equal times.
+Illustrates Kepler's Second Law
+The image above illustrates this relationship.
+Though the green wedges may appear significantly different in area, Kepler's Second Law states that the areas are equal if the planet travels along the perimeter of the segments in equal periods of time.
+From this, we can clearly see that the planet moves with greater speed when it is near the sun and slower when it is far away.
+Kepler’s Third Law:

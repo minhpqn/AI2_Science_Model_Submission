@@ -1,0 +1,20 @@
+Only then will she slow down.
+Velocity is a measure of both speed and direction of motion.
+A change in velocity is called acceleration.
+In the case of the sprinter, she accelerates as she runs down the track because her speed is changing even though her direction stays the same.
+If you need a review of acceleration, watch the musical video at this URL:
+Click on the image above for more content
+Plotting Velocity Against Time
+The changing velocity of the sprinter—or of any other moving person or object—can be represented by a velocity-time graph like the one in the Figure below for the sprinter.
+A velocity-time graph shows how velocity changes over time.
+The sprinter’s velocity increases for the first 4 seconds of the race, it remains constant for the next 3 seconds, and it decreases during the last 3 seconds after she crosses the finish line.
+Velocity versus time graph for a sprinting race
+Acceleration and Slope
+In a velocity-time graph, acceleration is represented by the slope, or steepness, of the graph line.
+If the line slopes upward, like the line between 0 and 4 seconds in the Figure above , velocity is increasing, so acceleration is positive.
+If the line is horizontal, as it is between 4 and 7 seconds, velocity is constant and acceleration is zero.
+If the line slopes downward, like the line between 7 and 10 seconds, velocity is decreasing and acceleration is negative.
+Negative acceleration is called deceleration.
+Q:
+Assume that another sprinter is running the same race.
+The other runner reaches a top velocity of 9 m/s by 4 seconds after the start of the race.

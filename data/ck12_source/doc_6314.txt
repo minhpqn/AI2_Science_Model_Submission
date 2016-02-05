@@ -1,0 +1,20 @@
+You usually have to get to the airport two hours before your flight leaves.
+You stand in line to check your baggage and get your boarding pass.
+Then you stand in line for your security screen.
+Finally, you wait in line to board the plane.
+Since there are only so many ticket agents, not everybody can be waited on immediately.
+The same with the security screen – only so many body scanners are available.
+And getting on the plane involves going one-by-one down a very narrow aisle to get to your seat.
+All these limits to slow you down.
+The determination of a reaction mechanism can only be made in the laboratory.
+When a reaction occurs in a sequence of elementary steps, the overall reaction rate is governed by whichever one of those steps is the slowest.  The rate-determining step is the slowest step in the sequence of steps in a reaction mechanism.
+To get an idea of how one step is rate determining, imagine driving on a one-lane road where it is not possible to pass another vehicle.
+The rate of flow of traffic on such a road would be dictated by whatever car is traveling at the lowest speed.  The decomposition of hydrogen peroxide is discussed below and illustrates how reaction mechanisms can be determined through experimental studies.
+Decomposition of Hydrogen Peroxide
+Recall that a catalyst is a substance, which increases the rate of a chemical reaction without being consumed.  Catalysts lower the overall activation energy for a reaction by providing an alternative mechanism for the reaction to follow.
+One such catalyst for the decomposition of hydrogen peroxide is iodide ions (I − ).
+2 \text{H}_2 \text{O}_2(aq) \overset{\text{I}^-}{\longrightarrow} 2 \text{H}_2 \text{O}( l)+\text{O}_2(g)
+By experiment, the rate of reaction is found to be first-order with respect to both H 2 O 2 and I − and second-order overall.
+The reaction cannot occur in one step corresponding to the overall balanced equation.
+If it did, the reaction would be second-order with respect to H 2 O 2 since the coefficient of the H 2 O 2 in the balanced equation is a 2.
+A reaction mechanism can be constructed which accounts for the rate law and for the detection of the IO − ion as an intermediate.

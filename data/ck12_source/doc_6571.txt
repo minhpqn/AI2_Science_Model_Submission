@@ -1,0 +1,20 @@
+When the reactant is the halogen, the product is a disubstituted alkyl halide as in the addition of bromine to ethene.
+\text{CH}_2\text{=CH}_2 (g) + \text{Br}_2 (l) \rightarrow & \ \text{CH}_2 \text{BrCH}_2 \text{Br} (g)\\& \ 1, 2\text{-dibromoethane}
+Addition of bromine to ethene
+The addition of bromine to an unknown organic compound is indeed a test for saturation in the compound.
+Bromine has a distinctive brownish-orange color, while most bromoalkanes are colorless.
+When bromine is slowly added to the compound, the orange color will fade if it undergoes the addition reaction to the hydrocarbon.
+If the orange color remains, then the original compound was already saturated and no reaction occurred.
+A monosubstituted alkyl halide can be produced by the addition of a hydrogen halide to an alkene.
+Shown below is the formation of chloroethane.
+\text{CH}_2\text{=CH}_2 (g) + \text{HCl} (g) \rightarrow \text{CH}_3\text{CH}_2\text{Cl}(g)
+A hydration reaction is a reaction in which water is added to an alkene.
+Hydration reactions can take place when the alkene and water are heated to near 100°C in the presence of a strong acid, which acts as a catalyst.
+Shown below is the hydration of ethene to produce ethanol.
+\text{CH}_2\text{=CH}_2 + \text{H}_2 \text{O} \rightarrow \text{CH}_3 \text{CH}_2 \text{OH}
+Under modest reaction conditions, benzene resists addition reactions because adding a molecule across a double bond in a benzene ring disrupts the ring of delocalized electrons.
+This greatly destabilizes the molecule.
+However, under conditions of high temperature and pressure, and with an appropriate catalyst, benzene will slowly react with three molecules of hydrogen to produce cyclohexane.
+\text{C}_6 \text{H}_6 + 3\text{H}_2 \xrightarrow{\text{Pt}} \text{C}_6 \text{H}_{12}
+Reaction for the hydrogenation of benzene
+Addition reaction is defined.

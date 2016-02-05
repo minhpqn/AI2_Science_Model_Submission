@@ -1,0 +1,20 @@
+For example, some helium atoms have three neutrons instead of two.
+Therefore, they have a different mass number than the one given in the Figure above .
+Q:
+What is the mass number of a helium atom that has three neutrons?
+A:
+The mass number is the number of protons plus the number of neutrons.
+For helium atoms with three neutrons, the mass number is 2 (protons) + 3 (neutrons) = 5.
+Q:
+How would you represent this isotope of helium to show its atomic number and mass number?
+A:
+You would represent it by the element’s symbol and both numbers, with the mass number on top and the atomic number on the bottom:
+Elements are pure substances that make up all matter, so each one is given a unique name.
+The names of elements are also represented by unique one-, two-, or three- letter symbols.
+The number of protons in an atom is called its atomic number.
+This is also unique for each element.
+An atom’s mass number is its mass in atomic mass units (amu), which is about equal to the total number of protons and neutrons in the atom.
+Different isotopes of an element have different mass numbers because they have different numbers of neutrons.
+Use the periodic table of the elements at the first URL below to fill in the blanks in the worksheet at the second URL.
+What is the atomic number of an atom?
+Why is this number important?

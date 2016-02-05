@@ -1,0 +1,20 @@
+This force transfers the gravity acting on the object to whatever the wire or string is attached to; in the end it is usually a Normal Force --- between the earth and whatever the wire is attached to --- that ends up balancing out the force of gravity on the object.
+Friction is a force that opposes motion.
+Any two objects in contact have what is called a mutual coefficient of friction.
+To find the force of friction between them, we multiply the normal force by this coefficient.
+Like the forces above, it arises due to electromagnetic interactions of atoms in two objects.
+There are actually two coefficients of friction: static and kinetic.
+Static friction will oppose initial motion of two objects relative to each other.
+Once the objects are moving, however, kinetic friction will oppose their continuing motion.
+Kinetic friction is lower than static friction, so it is easier to keep an object in motion than to set it in motion. f_s \le \mu_s | \vec{F_N}| && \mathrm{[5]~Static~friction~opposes~potential~motion~of~surfaces~in~contact}\\\f_k = \mu_k | \vec{F_N}| && \mathrm{[6]~Kinetic~frictions~opposes~motion~of~surfaces~in~contact} There are some things about friction that are not very intuitive:
+The magnitude of the friction force does not depend on the surface areas in contact.
+The magnitude of kinetic friction does not depend on the relative velocity or acceleration of the two objects.
+Friction always points in the direction opposing motion.
+If the net force (not counting friction) on an object is lower than the maximum possible value of static friction, friction will be equal to the net force in magnitude and opposite in direction.
+Any spring has some equilibrium length, and if stretched in either direction it will push or pull with a force equal to: \vec{F_{sp}} = -k \vec{\Delta x} && \mathrm{[7]~Force~of~spring~}\vec{\Delta x}\mathrm{~from~equilibrium}
+Question :
+A woman of mass 70.0 kg weighs herself in an elevator.
+a) If she wants to weigh less, should she weigh herself when accelerating upward or downward?
+b) When the elevator is not accelerating, what does the scale read (i.e., what is the normal force that the scale exerts on the woman)?
+c) When the elevator is accelerating upward at 2.00 m/s 2 , what does the scale read?
+Answer a) If she wants to weigh less, she has to decrease her force (her weight is the force) on the scale.

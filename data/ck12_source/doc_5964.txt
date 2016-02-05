@@ -1,0 +1,20 @@
+It is useful to know the percent of water contained within a hydrate.
+The sample problem below demonstrates the procedure.
+Sample Problem One:
+Percent of Water in a Hydrate
+Find the percent water in cobalt(II) chloride hexahydrate, CoCl 2 •6H 2 O.
+Step 1:
+List the known quantities and plan the problem.
+The mass of water in the hydrate is the coefficient (6) multiplied by the molar mass of H 2 O.  The molar mass of the hydrate is the molar mass of the CoCl 2 plus the mass of water.
+mass of H 2 O in 1 mol hydrate = 108.12 g
+molar mass of hydrate = 237.95 g/mol
+percent H 2 O = ? %
+Calculate the percent by mass of water by dividing the mass of H 2 O in 1 mole of the hydrate by the molar mass of the hydrate and multiplying by 100%.
+Step 2:
+Calculate.
+\% \ \text{H}_2\text{O}=\frac{108.12 \ \text{g H}_2 \text{O}}{237.95 \ \text{g}} \times 100 \%=45.44 \% \ \text{H}_2\text{O}
+Step 3:
+Think about your result.
+Nearly half of the mass of the hydrate is composed of water molecules within the crystal.
+The process of calculating the percent water in a hydrate is described.
+Use the following link to practice calculating percent water in a hydrate:

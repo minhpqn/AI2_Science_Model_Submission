@@ -1,0 +1,20 @@
+However, similar to alcohols, amines can be primary, secondary, or tertiary.
+Primary, secondary, and tertiary amines
+The nitrogen atom of a primary amine is bonded to two hydrogen atoms and one carbon.
+The nitrogen atom of a secondary amine is bonded to one hydrogen and two carbons.
+The nitrogen atom of a tertiary amine is bonded to three carbon atoms.
+Amines are typically named by a common system rather than by IUPAC guidelines.
+The common system for naming amines along with several examples is shown below.
+Name the alkyl groups that are attached to the nitrogen atom of the amine.
+If there is more than one different alkyl group, put them in alphabetical order.
+If there are two or three of the same alkyl group, use the di− or tri− prefix.
+Follow the alkyl group name with the suffix –amine , with no spaces.
+Nomenclature of primary, secondary, and tertiary amines
+Properties of Amines
+Amines are weak bases due to the presence of a lone pair of electrons on the nitrogen atom.
+This lone pair can attract the hydrogen atom from a water molecule, causing the bond between it and the oxygen atom to break.
+The resultant products are the conjugate acid of the amine and the hydroxide ion.
+Reaction where an amine acts as a base
+Amines are capable of hydrogen bonding though their boiling points are generally a bit lower than the corresponding alcohol.
+Methylamine and ethylamine are gases at room temperature, while larger amines are liquids.
+As with other organic compounds that form hydrogen bonds, water solubility is reflected in the length of the carbon chains.

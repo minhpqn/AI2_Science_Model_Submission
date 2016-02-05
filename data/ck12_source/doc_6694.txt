@@ -1,0 +1,20 @@
+{\;}\qquad \qquad \qquad \ v_y = v \sin \theta = (7.0 \ m/s) \sin (32^\circ)= 3.7 \ m/s
+Answer: \boxed{\mathbf{5.9 \ m/s, 3.7 \ m/s.}}
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+Find the missing legs or angles of the triangles shown.
+Draw in the x- and y- velocity components for each dot along the path of the cannonball.
+The first one is done for you.
+Analyze and solve problems in two dimensions containing velocity vectors but no acceleration.
+Students will learn how analyze and solve problems in two dimensions containing velocity vectors but no acceleration.
+v_{x} = v \cos \theta , where \theta is the angle between the velocity vector and the horizontal.
+v_{y} = v \sin \theta , where \theta is the angle between the velocity vector and the horizontal.
+\Delta x = v_{x} t
+\Delta y = v_{y} t
+Guidance The only equation you need is that displacement in a certain direction equals the component of velocity in that direction multiplied by the time it takes.
+You'll use this once for the x-direction and once for the y-direction and solve for what is asked.
+Question:
+If a river is flowing north at 2 m/s and you swim straight across (i.e. east) at 1.5 m/s, how far up shore will you be from your starting point once you reach the other side?
+The river is 9 m wide.
+Answer:

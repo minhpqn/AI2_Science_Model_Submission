@@ -1,0 +1,20 @@
+Even higher frequency incoming light (blue) causes ejection of the same number of electrons but with greater speed.
+Consider the  E=hv equation.
+The  E is the minimum energy that is required in order for the metal’s electron to be ejected.
+If the incoming light’s frequency, v , is below the threshold frequency, there will never be enough energy to cause electron to be ejected.
+If the frequency is equal to or higher than the threshold frequency, electrons will be ejected.
+As the frequency increases beyond the threshold, the ejected electrons simply move faster.
+An increase in the intensity of incoming light that is above the threshold frequency causes the number of electrons that are ejected to increase, but they do not travel any faster.
+The photoelectric effect is applied in devices called photoelectric cells , which are commonly found in everyday items such as a calculator which uses the energy of light to generate electricity.
+Photoelectric cells power a calculator
+Photoelectric cells convert light energy into electrical energy which powers this calculator.
+Light has properties of both a wave and a particle.
+The photoelectric effect is produced by light striking a metal and dislodging electrons form the surface of the metal.
+Use the link below to answer the following questions:
+What is the emitting material in this photocell?
+What causes photoelectrons to be emitted?
+Does the current increase or decrease with an increase in light intensity?
+What happens if light does not strike the cathode?
+What are the properties of a photon?
+What does the photoelectric effect show about the properties of light?
+How does the frequency of light affect the release of photons?

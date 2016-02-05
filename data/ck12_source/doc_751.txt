@@ -1,0 +1,20 @@
+What is the power delivered to a light bulb when the circuit has a voltage drop of 120 V and produces a current of 3.0 ampere?
+Solution:
+P = VI = (120 \ \text{J/C})(3.0 \ \text{C/s}) = 360 \ \text{J/s} = 360 \ \text{watts}
+Example Problem:
+A 6.00 V battery delivers a 0.400 A current to an electric motor that is connected across the battery terminals.
+What power is consumed by the motor?
+How much electric energy is delivered in 500. seconds?
+P = VI = (6.00 \ \text{V})(0.400 \ \text{A}) = 2.4 \ \text{watts}
+\text{Joules} = (\text{J/s})(\text{s}) = (2.4 \ \text{J/s})(500. \ \text{s}) = 1200 \ \text{Joules}
+Electric current is the flow of electrons from the high potential energy position to the lower potential energy position.
+Current flow is the direction a positive current would be traveling, or the opposite direction that electrons actually flow.
+A closed loop containing current flow is called an electric circuit.
+Electric current is measured in coulombs per second, or amperes.
+Electric energy is measured in joules per second, or watts.
+The energy carried by an electric current depends on the charge transferred and the potential difference across which it moves, E = qV .
+Power, P = VI = \left(\frac{\text{Joules}}{\text{coulomb}}\right)\left(\frac{\text{coulomb}}{\text{second}}\right) = \frac{\text{Joules}}{\text{second}} = \text{watts}.
+The following video covers electric current.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+What type of current is described in this video (electron or conventional)?

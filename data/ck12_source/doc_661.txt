@@ -1,0 +1,20 @@
+The equilibrium or rest position of the medium in a wave.
+crest:
+A crest is the point on a wave with the maximum value or upward displacement within a cycle
+trough:
+A trough is the opposite of a crest, so the minimum or lowest point in a cycle
+amplitude:
+The maximum displacement from a zero value during one period of an oscillation.
+wavelength:
+The distance between corresponding points of two consecutive waves.
+frequency:
+The number of waves that pass a fixed point in unit time.
+period:
+A period is the time required for one complete cycle of vibration to pass a given point.
+Describe longitudinal waves.
+A slinky is an example of a longitudinal wave
+Playing with a Slinky is a childhood tradition, but few children realize they are actually playing with physics.
+Like transverse waves, longitudinal waves  are mechanical waves, which means they transfer energy through a medium.
+Unlike transverse waves, longitudinal waves cause the particles of medium to move parallel to the direction of the wave.
+They are most common in springs, where they are caused by the pushing an pulling of the spring.
+Although the surface waves on water are transverse waves, fluids (liquids, gases, and plasmas) usually transmit longitudinal waves.

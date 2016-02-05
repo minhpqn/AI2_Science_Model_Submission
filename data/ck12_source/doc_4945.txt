@@ -1,0 +1,20 @@
+What is the likely solute concentration of the cells' environment which has caused this change?
+Facilitated Diffusion - Advanced
+Describe facilitated transport mechanisms.
+Define ion channels.
+Identify the role of ion channels in facilitated diffusion.
+Can you help me move?
+What is one of the questions no one likes to be asked?
+Sometimes the cell needs help moving things as well, or facilitating the diffusion process.
+And this would be the job of a special type of protein.
+Facilitated diffusion is the diffusion of solutes through integral membrane transport proteins.
+Facilitated diffusion is a type of passive transport .
+Even though facilitated diffusion involves transport proteins (and is essentially a transport process), it can still be considered passive transport because the solute is moving down the concentration gradient, and no input of energy is required.
+Facilitated diffusion utilizes proteins known as uniporters.
+A uniporter can be either a channel protein or a carrier protein.
+As was mentioned earlier, small nonpolar molecules can easily diffuse across the cell membrane.
+However, due to the hydrophobic nature of the phospholipids that make up cell membranes, polar molecules and ions cannot do so.
+Instead, they diffuse across the membrane through transport proteins.
+A transport protein completely spans the membrane, and allows certain molecules or ions to diffuse across the membrane.
+Channel proteins, gated channel proteins, and carrier proteins are three types of transport proteins that are involved in facilitated diffusion.
+A channel protein , a type of transport protein, acts like a pore in the membrane that lets water molecules or small ions through quickly.

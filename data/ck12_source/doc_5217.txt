@@ -1,0 +1,20 @@
+Of course, many severe human phenotypes are inherited in a Mendelian fashion including Phenylketonuria (PKU), cystic fibrosis, Huntington's disease, hypercholesterolemia, and sickle-cell anemia.
+These are termed genetic disorders and will be discussed in additional concepts.
+Dominant and Recessive Alleles
+Mendel used letters to represent dominant and recessive factors.
+Likewise, geneticists now use letters to represent alleles.
+Capital letters refer to dominant alleles, and lowercase letters refer to recessive alleles.
+For example, the dominant allele for the trait of green pod color is indicated by G .
+The recessive trait of yellow pod color is indicated by g .
+A true-breeding plant for green pod color would have identical alleles GG in all its somatic cells.
+Likewise, a true-breeding plant for yellow pod color would have identical alleles gg in all of its somatic cells.
+During gamete formation, each gamete receives one copy of an allele.
+When fertilization occurs between these plants, the offspring receives two copies of the allele, one from each parent.
+In this case, all of the offspring would have two different alleles, Gg , one from each of its parents.
+An organism that has an identical pair of alleles for a trait is called homozygous .
+The true-breeding parents GG and gg are homozygous for the pod color gene.
+Organisms that have two different alleles for a gene are called heterozygous ( Gg ).
+The offspring of the cross between the GG (homozygous dominant) and gg (homozygous recessive) plants are all heterozygous for the pod color gene.
+A homozygous individual is known as a homozygote, and a heterozygous individual is known as a heterozygote.
+Due to dominance and recessiveness of alleles, an organism’s traits do not always reveal its genetics.
+Therefore, geneticists distinguish between an organism’s genetic makeup, called its genotype , and its physical traits, called its phenotype .

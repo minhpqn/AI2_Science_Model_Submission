@@ -1,0 +1,20 @@
+Ion exchange resins (seen above) will remove these minerals and clean up the water.
+Cations are the positive ions formed by the loss of one or more electrons.  The most commonly formed cations of the representative elements are those that involve the loss of all of the valence electrons.  Consider the alkali metal sodium (Na).  It has one valence electron in the third principal energy level.  Upon losing that electron, the sodium ion now has an octet of electrons from the second principal energy level.  The equation below illustrates this process.
+& \text{Na} \qquad \qquad \ \rightarrow \quad \text{Na}^+ \quad + \quad \text{e}^-\\& 1s^22s^22p^63s^1 \qquad \ \ 1s^22s^22p^6 \ (\text{octet})
+The electron configuration of the sodium ion is now the same as that of the noble gas neon.  The term isoelectronic refers to an atom and an ion of a different atom (or two different ions) that have the same electron configuration.  The sodium ion is isoelectronic with the neon atom.  Consider a similar process with magnesium and with aluminum:
+& \text{Mg} \qquad \qquad \ \rightarrow \quad \text{Mg}^{2+} \quad + \quad 2\text{e}^-\\& 1s^22s^22p^63s^2 \qquad \quad 1s^22s^22p^6 \ (\text{octet})\\& \text{Al} \qquad \qquad \quad \rightarrow \quad \ \text{Al}^{3+} \quad + \quad 3\text{e}^-\\& 1s^22s^22p^63s^23p^1 \quad \ 1s^22s^22p^6 \ (\text{octet})
+In this case, the magnesium atom loses its two valence electrons in order to achieve the same noble-gas configuration.  The aluminum atom loses its three valence electrons.  The Mg 2+ ion, the Al 3+ ion, the Na + ion, and the Ne atom are all isoelectronic.  For representative elements under typical conditions, three electrons is the maximum number that will be lost.
+We can also show the loss of valence electron(s) with an electron dot diagram.
+\text{Na} \cdot & \rightarrow \text{Na}^++\text{e}^-\\\cdot \text{Mg} \cdot & \rightarrow \text{Mg}^{2+}+2\text{e}^-
+Cations form when an atom loses one or more electrons.
+The resulting cation has the electron configuration of the noble gas atom in the row above it in the periodic table.
+Use the link below to answer the following questions:
+What are some of the cations removed from deionized water?
+How is deionized water made?
+What is not removed from deionized water?
+Does deionized water slow aging and prevent disease?
+What is a cation?
+How many valence electrons does the sodium atom have?
+Which atom is the sodium ion isoelectronic with?
+How many electrons does magnesium lose to form the magnesium ion?
+isoelectronic:  An atom and an ion of a different atom, or two different ions, that have the same electron configuration.

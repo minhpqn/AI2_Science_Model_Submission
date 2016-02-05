@@ -1,0 +1,20 @@
+Charles Richter developed the Richter magnitude scale in 1935.
+The Richter scale measures the magnitude of an earthquake's largest jolt of energy.
+This is determined by using the height of the waves recorded on a seismograph.
+The Richter scale is logarithmic.
+The magnitudes jump from one level to the next.
+The height of the largest wave increases 10 times with each level.
+So the height of the largest seismic wave of a magnitude 5 quake is 10 times that of a magnitude 4 quake.
+A magnitude 5 is 100 times that of a magnitude 3 quake.
+With each level, thirty times more energy is released.
+A difference of two levels on the Richter scale equals 900 times more released energy.
+The Richter scale has limitations.
+A single sharp jolt measures higher on the Richter scale than a very long intense earthquake.
+Yet, this is misleading because the longer quake releases more energy.
+Earthquakes that release more energy are likely to do more damage.
+As a result, another scale was needed.
+The Moment Magnitude Scale
+The moment magnitude scale is the favored method of measuring earthquake magnitudes.
+It measures the total energy released by an earthquake.
+Moment magnitude is calculated by two things.
+One is the length of the fault break.

@@ -1,0 +1,20 @@
+Just don’t try to stretch the limits any further unless you want a traffic ticket.
+The significant figures in a measurement consist of all the certain digits in that measurement plus one uncertain or estimated digit.
+In the ruler illustration below, the bottom ruler gave a length with 2 significant figures, while the top ruler gave a length with 3 significant figures.
+In a correctly reported measurement, the final digit is significant but not certain.
+Insignificant digits are not reported.
+With either ruler, it would not be possible to report the length as 2.553 cm as there is no possible way that the thousandths digit could be estimated.
+The 3 is not significant and would not be reported.
+Uncertainty in measurement on a ruler
+Measurement with two different rulers.
+When you look at a reported measurement, it is necessary to be able to count the number of significant figures.  The Table below details the rules for determining the number of significant figures in a reported measurement.
+For the examples in the table, assume that the quantities are correctly reported values of a measured quantity.
+Significant Figure Rules
+All nonzero digits in a measurement are significant
+A. 237 has three significant figures.
+B. 1.897 has four significant figures.
+Zeros that appear between other nonzero digits are always significant.
+A. 39,004 has five significant figures.
+B. 5.02 has three significant figures
+Zeros that appear in front of all of the nonzero digits are called left-end zeros.  Left-end zeros are never significant
+A. 0.008 has one significant figure.

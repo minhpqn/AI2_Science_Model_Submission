@@ -1,0 +1,20 @@
+Multiple different substituents are listed in alphabetical order.
+Ignore any of the prefixes from rule 4.
+In the current example, the 5-ethyl- comes before the 3-methyl.
+Commas are used to separate multiple numbers.
+Hyphens come between the number and the name of a substituent.
+The parent name comes immediately after the last substituent.
+There are no blank spaces in the name.
+The correct name for the above structure according to the IUPAC system is 5-ethyl-3-methyloctane.
+Nomenclature rules for branched hydrocarbons are given.
+Work the problems at the link below:
+What is an alkyl group?
+How are alkyl substituents listed?
+If there are three methyl groups on the same carbon, what is the prefix used?
+alkyl group :
+A substituent that is a hydrocarbon.
+structural isomer:
+One of multiple molecules that have the same molecular formula, but different structural formulas.
+Alkenes and Alkynes
+Define alkene and alkyne.
+Draw structures of common alkenes and alkynes.

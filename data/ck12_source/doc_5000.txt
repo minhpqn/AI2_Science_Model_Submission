@@ -1,0 +1,20 @@
+Catabolic reactions break down molecules into smaller units.
+An example is a decomposition reaction, such as the breakdown of glucose molecules for energy.
+Exothermic reactions can be represented by the general chemical equation:
+Reactants → Products + Heat.
+Chemical reactions that consume energy are called endothermic reactions .
+Energy is usually absorbed from the surroundings as heat.
+An example is the synthesis of ammonia, described above.
+In organisms, endothermic reactions are called anabolic reactions .
+Anabolic reactions construct molecules from smaller units.
+An example is the synthesis of proteins from amino acids.
+Endothermic reactions can be represented by the general chemical equation:
+Reactants + Heat → Products.
+This pack gets cold due to an endothermic reaction.
+In biological systems, the term endothermic is a metabolic term related to maintenance of body temperature.
+An endothermic animals is an organism that produces heat through internal means, a process known as endothermy.
+Animals may do this through muscle shivering or increasing metabolism.
+These animals do to absorb heat from their surroundings, so the term endothermic has distinct uses related to chemical reactions or maintenance of body temperature.
+The opposite of endothermy is ectothermy.
+Ectothermic animals ( cold-blooded ) do absorb heat from their surroundings.
+anabolic reaction :

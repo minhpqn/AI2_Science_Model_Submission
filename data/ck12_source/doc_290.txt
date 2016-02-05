@@ -1,0 +1,20 @@
+The following video discusses kinetic energy.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+Potential energy is present in objects that are ______________.
+Kinetic energy is present in objects that are ______________.
+What formula is given for kinetic energy?
+Practice problems involving kinetic energy:
+A comet with a mass of 7.85 \times 10^{11} \ \text{kg}  is moving with a velocity of 25,000 m/s.
+Calculate its kinetic energy.
+A rifle can shoot a 4.00 g bullet at a speed of 998 m/s.
+Find the kinetic energy of the bullet.
+What work is done on the bullet if it starts from rest?
+If the work is done over a distance of 0.75 m, what is the average force on the bullet?
+If the bullet comes to rest after penetrating 1.50 cm into a piece of metal, what is the magnitude of the force bringing it to rest?
+energy:
+An indirectly observed quantity that is often understood as the ability of a physical system to do work.
+kinetic energy:  The energy an object has due to its motion.
+Define potential energy.
+Solve problems involving gravitational potential energy.
+Solve problems involving the conversion of potential energy to kinetic energy and vice versa.

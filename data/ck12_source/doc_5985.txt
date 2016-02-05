@@ -1,0 +1,20 @@
+A very common example is the reactions of oxides with water.
+Calcium oxide reacts readily with water to produce an aqueous solution of calcium hydroxide.
+\text{CaO}(s)+\text{H}_2\text{O}(l) \rightarrow \text{Ca(OH)}_2(aq)
+Sulfur trioxide gas reacts with water to form sulfuric acid.
+This is an unfortunately common reaction that occurs in the atmosphere in some places where oxides of sulfur are present as pollutants.
+The acid formed in the reaction falls to the ground as acid rain.
+\text{SO}_3(g)+\text{H}_2\text{O}(l) \rightarrow \text{H}_2\text{SO}_4(aq)
+Acid rain degrades marble statues and kills trees
+Acid rain has severe consequences on both natural and man-made objects.
+Acid rain degrades marble statues like the one on the left (A).
+The trees in the forest on the right (B) have been killed by acid rain.
+Combination reactions occur when two or more substances combine to form a new substance.
+Complete the reactions and balance the equations on the worksheet at the link below:
+What are combination reactions?
+Write the product of the following reaction: \text{Mg} + \text{H}_2\text{O} \rightarrow
+Is \text{CH}_4 + 2\text{O}_2 \rightarrow \text{CO}_2 + 2\text{H}_2\text{O} a combination reaction?
+Explain your answer.
+combination reaction:
+A reaction in which two or more substances combine to form a single new substance.
+Define decomposition reaction.

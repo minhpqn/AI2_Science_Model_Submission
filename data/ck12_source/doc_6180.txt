@@ -1,0 +1,20 @@
+Latin is an interesting and useful language, even if you don’t want to read Julius Caesar’s writings.
+A knowledge of Latin helps us understand our own language better.
+Take the word “colligative.” Where did that come from?
+If you know a little Latin, you know that it comes from two Latin words meaning “to tie together.” This helps you better understand some of the science terminology we use every day.
+Vapor Pressure Lowering
+A colligative property is a property of a solution that depends only on the number of solute particles dissolved in the solution and not on their identity.
+Recall that the vapor pressure of a liquid is determined by how easily its molecules are able to escape the surface of the liquid and enter the gaseous phase.
+When a liquid evaporates easily, it will have a relatively large number of its molecules in the gas phase and thus will have a high vapor pressure.
+Liquids that do not evaporate easily have a lower vapor pressure.
+The Figure below shows the surface of a pure solvent compared to a solution.
+In the picture on the left, the surface is entirely occupied by liquid molecules, some of which will evaporate and form a vapor pressure.
+On the right, a nonvolatile solute has been dissolved into the solvent.
+Nonvolatile means that the solute itself has little tendency to evaporate.
+Because some of the surface is now occupied by solute particles, there is less room for solvent molecules.
+This results in less solvent being able to evaporate.
+The addition of a nonvolatile solute results in a lowering of the vapor pressure of the solvent.
+The vapor pressure of a mixture is lower than the pure substance
+The solution on the right left has had some of its solvent particles replaced by solute particles.
+Since the solute particles do not evaporate, the vapor pressure of the solution is lower than that of the pure solvent.
+The lowering of the vapor pressure depends on the number of solute particles that have been dissolved.

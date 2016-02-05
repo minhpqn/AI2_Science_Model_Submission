@@ -1,0 +1,20 @@
+The poles are often mapped this way to avoid distortion.
+A gnomic projection is best for use over a small area.
+A gnomonic projection places a flat piece of paper on a point somewhere on Earth and projects an image from that point
+A gnomonic projection places a flat piece of paper on a point somewhere on Earth and projects an image from that point.
+In 1963, Arthur Robinson made a map with more accurate sizes and shapes of land areas.
+He did this using mathematical formulas.
+The formulas could directly translate coordinates onto the map.
+This type of projection is shaped like an oval rather than a rectangle ( Figure below ).
+A Robinson projection better represents the true shapes and sizes of land areas
+A Robinson projection better represents the true shapes and sizes of land areas.
+Robinson’s map is more accurate than a Mercator projection.
+The shapes and sizes of continents are closer to true.
+Robinson's map is best within 45° of the Equator.
+Distances along the Equator and the lines parallel to it are true.
+However, the scales along each line of latitude are different.
+In 1988, the National Geographic Society began to use Robinson’s projection for its world maps.
+A map projection is a way to show a three-dimensional figure in two dimensions.
+All map projections have some distortion.
+Different types have distortions in different locations and of different amounts.
+Robinson's project is different from the rest because it uses mathematical formulas.

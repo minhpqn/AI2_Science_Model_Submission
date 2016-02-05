@@ -1,0 +1,20 @@
+Solution:
+The heat lost by the block of zinc will equal the heat gain by the water in the calorimeter.
+In order to set heat gain mathematically equal to heat loss, either one of the terms must be made negative or the temperature change must be reversed.
+You should also note that the final temperature of the water and the block of zinc will be the same when equilibrium is reached.
+m_Wc_W(t_2 - t_1)_W &= m_{Zn}c_{Zn}(t_1 - t_2)_{Zn} \\(0.500 \ \text{kg})(4180 \ \text{J/kg}^\circ \text{C})(x - 15.0^\circ \text{C}) &= (0.0400 \ \text{kg})(388 \ \text{J/kg}^\circ \text{C})(115.0^\circ \text{C} - x) \\2090 \ x - 31350 &= 1785 - 15.52 \ x \\2105.52 \ x &= 33135 \\x &= 15.7^\circ \text{C}
+Example Problem:  A 100. g block of aluminum at 100.0ºC is placed in g of water at 10.0ºC.
+The final temperature of the mixture is 25.0ºC.
+What is the specific heat of the aluminum as determined by the experiment?
+Solution: m_Wc_W(t_2 - t_1)_W &= m_{Al}c_{Al}(t_1 - t_2)_{Al} \\(0.100 \ kg)(4180 \ J/kg^\circ \text{C})(25.0^\circ \text{C} - 10.0^\circ \text{C}) &= (0.100 \ \text{kg})(x)(100.0^\circ \text{C} - 25.0^\circ \text{C}) \\6270 &= 7.50 \ x \\x &= 836 \ \text{J/kg}^\circ \text{C}
+A calorimeter is a device used to measure changes in thermal energy or heat transfer.
+If a reaction is carried out in the reaction vessel or if a measured mass of heated substance is placed in the water of the calorimeter, the change in the water temperature allows us to calculate the change in thermal energy.
+The following video covers the calorimetry equation.
+Use this resource to answer the questions that follow.
+What is the number 4.18 J/g•°C in the video?
+In the equation Q = mc\Delta t , what does  c represent?
+What does it mean if the temperature in the calorimeter goes down?
+Solved calorimetry problems:
+A 300.0 g sample of water at 80.0ºC is mixed with 300.0 g of water at 10.0ºC.
+Assuming no heat loss to the surroundings, what is the final temperature of the mixture?
+A 400.0 g sample of methanol at 16.0ºC is mixed with 400.0 g of water at 85.0ºC.

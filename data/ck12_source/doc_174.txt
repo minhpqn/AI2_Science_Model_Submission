@@ -1,0 +1,20 @@
+(11 \ \mu \text{g}) \left(\frac{1 \ \text{g}}{1 \times 10^6 \ \mu \text{g}}\right) \left(\frac{1000 \ \text{mg}}{1 \ \text{g}}\right)=1.1 \times 10^{-2} \ \text{mg}
+11 µg is 1.1 × 10 -2  mg.
+Measurements (quantitative observations) are often more useful than qualitative observations.
+The system of units for measurements in physics is the SI system.
+The fundamental quantities in the SI system are length, mass, and time.
+The SI unit for length is the meter, for time is the second, and for mass is the kilogram.
+Prefixes are used to change SI units by powers of ten.
+Equivalencies are used as conversion factors when units need to be converted.
+Use this resource to help understand using conversion factors, and complete the problems below.
+Click on the image above for more content
+Draw for yourself the conversion base used in this video.
+Convert 6.6 meters to centimeters using the process shown.
+Convert 1 mile to feet.
+Then convert to inches.
+Then convert to centimeters.
+How many centimeters are in a mile?
+At 2:29 in the video, he motions across and then down in solving the problem.
+What is the mathematical process he is doing?
+Which of the following are quantitative observations?
+The sky is blue.

@@ -1,0 +1,20 @@
+What is the name of this isotope?
+Why are many isotopes radioactive?
+Atomic Mass Unit
+Define atomic mass unit.
+Explain how atomic mass units are determined.
+A gasoline pump uses standardized units
+How many gallons of gas can fill a car's tank?
+The current system of measurement in the Unites States is a hodge-podge of different units, many of which are hard to interconvert, unlike the metric system.
+We at least have standardized units these days, unlike centuries past.
+At one time, measurements of length often were defined as the distance from the end of one appendage to another.
+For example, the yard would be defined as the distance from the king’s nose to the tip of his thumb when his arm was stretched out.
+Standardized measurements make it possible for people everywhere to get the same amount of something.  Note the red and white labels on the gas pump above.  These labels certify that the gas pump has been checked and is pumping an accurate gallon of gas.  Standard measurements in science are very important so that we can compare experimental data from one lab to another and make sure we all are talking about the same thing.
+Masses of individual atoms are very, very small.
+Using a modern device called a mass spectrometer, it is possible to measure such minuscule masses.
+An atom of oxygen-16, for example, has a mass of 2.66 × 10 -23 g.
+While comparisons of masses measured in grams would have some usefulness, it is far more practical to have a system that will allow us to more easily compare relative atomic masses.
+Scientists decided on using the carbon-12 nuclide as the reference standard by which all other masses would be compared.
+By definition, one atom of carbon-12 is assigned a mass of 12 atomic mass units (amu).
+An atomic mass unit is defined as a mass equal to one twelfth the mass of an atom of carbon-12.
+The mass of any isotope of any element is expressed in relation to the carbon-12 standard.

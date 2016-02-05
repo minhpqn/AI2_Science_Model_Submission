@@ -1,0 +1,20 @@
+But we often take them for granted.
+Two common types of home heating systems are hot-water and warm-air heating systems.
+Both types are described below.
+You can watch an animation showing how a solar heating system works at the following URL.
+Thermal energy is the total energy of moving particles of matter.
+The transfer of thermal energy is called heat.
+Therefore, a heating system is a system for the transfer of thermal energy.
+Regardless of the type of heating system in a home, the basic function is the same: to produce thermal energy and transfer it to air throughout the house.
+Hot-Water Heating System
+A hot-water heating system produces thermal energy to heat water and then pumps the hot water throughout the building in a system of pipes and radiators.
+You can see a simple diagram of this type of heating system in the Figure below .
+Water is heated in a boiler that burns a fuel such as natural gas or heating oil.
+The boiler converts the chemical energy stored in the fuel to thermal energy.
+The heated water is pumped from the boiler through pipes and radiators throughout the house.
+There is usually a radiator in each room.
+The radiators get warm when the hot water flows through them.
+The warm radiators radiate thermal energy to the air around them.
+The warm air then circulates throughout the rooms in convection currents.
+The hot water cools as it flows through the system and transfers its thermal energy.
+When it finally returns to the boiler, it is heated again and the cycle repeats.

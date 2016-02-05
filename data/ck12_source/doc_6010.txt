@@ -1,0 +1,20 @@
+Moles to Mass Problems
+In this type of problem, the amount of one substance is given in moles.
+From this, you are to determine the mass of another substance that will either react with or be produced from the given substance.
+\text{moles of} \ given \rightarrow \text{moles of} \ unknown \rightarrow \text{mass of} \ unknown
+The moles of the given substance are first converted into moles of the unknown by using the mole ratio from the balanced chemical equation.
+Then, the moles of the unknown are converted into mass in grams by use of the molar mass of that substance from the periodic table.
+Sample Problem:
+Mole-Mass Stoichiometry
+Hydrogen sulfide gas burns in oxygen to produce sulfur dioxide and water vapor.
+2\text{H}_2 \text{S}(g) + 3\text{O}_2(g) \rightarrow 2\text{SO}_2(g)+2\text{H}_2\text{O}(g)
+What mass of oxygen gas is consumed in a reaction that produces 4.60 mol SO 2 ?
+Step 1:
+List the known quantities and plan the problem.
+given: 4.60 mol SO 2
+2 mol SO 2 = 3 mol O 2 (mole ratio)
+molar mass of O 2 = 32.00 g/mol
+mass O 2 = ? g
+Use the mole ratio to convert from mol SO 2 to mol O 2 .
+Then convert mol O 2 to grams.
+This will be done in a single two-step calculation.

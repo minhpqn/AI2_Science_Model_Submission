@@ -1,0 +1,20 @@
+The standard entropy change is equal to the sum of all the standard entropies of the products minus the sum of all the standard entropies of the reactants.
+The symbol “ n ” signifies that each entropy must first be multiplied by its coefficient in the balanced equation.
+The entropy change for the formation of liquid water from gaseous hydrogen and oxygen can be calculated using this equation:
+& 2\text{H}_2(g)+\text{O}_2(g) \rightarrow 2\text{H}_2\text{O}(l) \\& \Delta S^\circ=2(69.9) - [2(131.0)+1(205.0)]=-327 \ \text{J/K} \cdot \text{mol}
+The entropy change for this reaction is highly negative because three gaseous molecules are being converted into two liquid molecules.
+According to the drive towards higher entropy, the formation of water from hydrogen and oxygen is an unfavorable reaction.
+In this case, the reaction is highly exothermic and the drive towards a decrease in energy allows the reaction to occur.
+Calculations of change in entropy using standard entropy are described.
+Read the material at the link below and do the problems:
+When is the entropy of any material at its lowest?
+In the reaction involving the formation of water from hydrogen and oxygen, why is the entropy value negative?
+Why would diamond have a lower standard entropy value than graphite?
+standard entropy:
+The entropy of one mole of substance under standard conditions.
+Spontaneous and Nonspontaneous Reactions
+Define spontaneous reaction.
+Define nonspontaneous reaction.
+Give examples of spontaneous and nonspontaneous reactions.
+Explosions generate large amounts of heat and gas
+Watch that nitro!

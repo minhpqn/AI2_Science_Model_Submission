@@ -1,0 +1,20 @@
+Remember that individuals do not evolve.
+Their genes do not change over time.
+The unit of evolution is the population.
+A population consists of organisms of the same species that live in the same area.
+In terms of evolution, the population is assumed to be a relatively closed group.
+This means that most mating takes place within the population.
+The science that focuses on evolution within populations is population genetics .
+It is a combination of evolutionary theory and Mendelian genetics.
+The genetic makeup of an individual is the individual’s genotype .
+A population consists of many genotypes.
+Altogether, they make up the population’s gene pool.
+The gene pool consists of all the genes of all the members of the population.
+For each gene, the gene pool includes all the different alleles for the gene that exist in the population.
+For a given gene, the population is characterized by the frequency of the different alleles in the gene pool.
+Allele frequency is how often an allele occurs in a gene pool relative to the other alleles for that gene.
+Look at the example in the Table below .
+The population in the table has 100 members.
+In a sexually reproducing species, each member of the population has two copies of each gene.
+Therefore, the total number of copies of each gene in the gene pool is 200.
+The gene in the example exists in the gene pool in two forms, alleles A and a .

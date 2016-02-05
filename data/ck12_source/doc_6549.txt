@@ -1,0 +1,20 @@
+Nomenclature of aromatic compounds
+Substituents can be groups other than alky groups.
+If a chlorine atom were substituted for a hydrogen, the name becomes chlorobenzene.
+An –NH 2 group is called an amino group, so the corresponding molecule is called aminobenzene, often referred to as aniline.
+An –NO 2 group is called a nitro group and so the third example below is nitrobenzene.
+Examples of substituted aromatic compounds
+If more than one substituent is present, their location relative to each other can be indicated by numbering the positions on the benzene ring.
+Numbered positions on a benzene ring
+The number of the carbon location then precedes the name of the substituent in the overall name, with the numbers separated by a comma.
+As with branched alkanes, the system requires that the numbers be the lowest possible and that prefixes be used for more than one of the same substituent.
+If there are different substituents, the first in alphabetical order is given the lower number and listed first.
+The structures below are called 1,2-dimethylbenzene and 1-ethyl-4-methylbenzene.
+Nomenclature of disubstituted aromatic compounds
+An alternate system for naming di-substituted benzene rings uses three different prefixes: ortho , meta , and para .
+If two groups are in the ortho position, they are on adjacent carbon atoms.
+The meta positioning refers to being in a 1, 3 arrangement.
+The para positioning refers to being in a 1, 4 arrangement.
+Shown below are the three possibilities for dimethylbenzene, also called xylene.
+Examples of nomenclature with ortho, para, and meta substitution
+Lastly, a benzene ring missing one hydrogen atom (−C 6 H 5 ) can itself be considered the substituent on a longer chain of carbon atoms.

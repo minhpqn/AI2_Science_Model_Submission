@@ -1,0 +1,20 @@
+A:
+No, an image isn’t an actual object.
+It is focused rays of light that make a copy of an object, like a picture projected on a screen.
+Regular and Diffuse Reflection
+If a surface is extremely smooth, as it is in a mirror, then the image formed by reflection is sharp and clear.
+This is called regular reflection (also called specular reflection).
+However, if the surface is even slightly rough or bumpy, an image may not form, or if there is an image, it is blurry or fuzzy.
+This is called diffuse reflection.
+Q:
+Look at the boats and their images in the Figure below .
+Which one represents regular reflection, and which one represents diffuse reflection?
+A:
+Reflection of the boat on the left is regular reflection.
+The water is smooth and the image is sharp and clear.
+Reflection of the boat on the right is diffuse reflection.
+The water has ripples and the image is blurry and wavy.
+Regular and diffuse reflection
+In the Figure below , you can see how both types of reflection occur.
+Waves of light are represented by arrows called rays.
+Rays that strike the surface are referred to as incident rays, and rays that reflect off the surface are known as reflected rays.

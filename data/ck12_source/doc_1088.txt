@@ -1,0 +1,20 @@
+Try to find the direction a stream flows.
+A 3D ground model and its topographic map
+Illustrations of three-dimensional ground configurations (top) and corresponding topographic map (bottom).
+Note that the V-shaped markings on the topographic maps correspond to drainage channels.
+Also, the closely-spaced contour lines denote the rapid rising cliff face on the left side.
+Like other maps, topographic maps have a scale so that you can find the horizontal distance .
+You can use the horizontal scale to calculate the slope of the land (vertical height/horizontal distance).
+Common scales used in United States Geological Service (USGS) maps include the following:
+1:24,000 scale – 1 inch = 2000 feet
+1:100,000 scale – 1 inch = 1.6 miles
+1:250,000 scale – 1 inch = 4 miles
+Including contour lines, contour intervals, circles, and V-shapes allows a topographic map to show three-dimensional information on a flat piece of paper.
+A topographic map gives us a good idea of the shape of the land.
+A geologic map shows the different rocks that are exposed at the surface of a region.
+The geology is often put on a contour map.
+Rock units are shown in a color identified in a key.
+On the geologic map of the Grand Canyon, for example, different rock types are shown in different colors.
+Some people call the Grand Canyon “layer cake geology“ because most of the rock units are in layers.
+Rock units show up on both sides of a stream valley.
+A geologic map looks very complicated in a region where rock layers have been folded.

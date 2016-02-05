@@ -1,0 +1,20 @@
+If a positively charged object is brought near a negatively charged electroscope, it will attract some of the excess electrons up the stem and out of the leaves, causing the leaves to come slightly together.
+Similar to the results of a negatively charged rod, if a positively charged rod is brought near the knob of a neutral electroscope, it will attract some electrons up from the leaves onto the knob.
+That process causes both of the leaves to be positively charged (excess protons), and the leaves will diverge.
+If the positively charged rob is actually touched to the knob, the rob will remove some electrons and then when the rob is removed, the electroscope will remain positively charged.
+This is a permanent positive charge.
+Electroscope that has been positively charged by induction
+Charging an object by touching it with another charged object is called charging by conduction.
+By bringing a charged object into contact with an uncharged object, some electrons will migrate to even out the charge on both objects.
+Charging by conduction gives the previously uncharged object a permanent charge.
+An uncharged object can also be charged using a method called charging by induction .
+This process allows a change in charge without actually touching the charged and uncharged objects to each other.
+Imagine a negatively charged rod held near the knob, but not touching.
+If we place a finger on the knob, some of the electrons will escape into our body, instead of down the stem and into the leaves.
+When both our finger and the negatively charged rod are removed, the previously uncharged electroscope now has a slight positive charge.
+It was charged by induction.
+Notice that charging by induction causes the newly charged object to have the opposite charge as the originally charged object, while charging by conduction gives them both the same charge.
+Electric charges exist with the atom.
+Atoms contain light-weight, loosely held, negatively charged particles called electrons and heavier, tightly-held, positvely charged particles called protons.
+When the number of electrons and the number of protons are equal, the object is neutral.
+The loss of electrons gives an ion a positive charge, while the gain of electrons gives it a negative charge.

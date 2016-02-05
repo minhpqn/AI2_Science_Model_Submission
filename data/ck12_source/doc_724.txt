@@ -1,0 +1,20 @@
+When two positively charged objects are brought near each other, a similar repulsive force is produced.
+When a negatively charged object is brought near a positively charged object, an attractive force is produced.
+Neutral objects have no influence on each other.
+Attraction and repulsion of charged objects
+A laboratory instrument used to analyze and test for static charge is called an electroscope.
+Seen below, an electroscope consists of a metal knob connected by a metal stem to two very lightweight pieces of metal called leaves, shown in yellow.
+The leaves are enclosed in a box to eliminate stray air currents.
+When a negatively charged object is brought near the knob of a neutral electroscope, the negative charge repels the electrons in the knob, and those electrons move down the stem into the leaves.
+Excess electrons flow from the rod into the ball, and then downwards making both leaves negatively charged.
+Since both leaves are negatively charged, they repel each other.
+When the rod is removed, the electroscope will remain charged because of the extra electrons added to it.
+Electroscope that has been negatively charged by conduction
+Conversely, if the rod is brought near the knob but doesn’t touch it, the electroscope will appear the same while the rod is near.
+That is, the negative charge in the rod repels the electrons in the ball, causing them to travel down to the leaves.
+The leaves will separate while the rod is nearby.
+No extra electrons were added to the electroscope, meaning that the electrons in the electroscope will redistribute when the negatively charged rod is taken away.
+The leaves return to neutral, and they stop repelling each other.
+If the rod touches the knob, the electroscope leaves are permanently charged but if the rod is brought near but does not touch the knob, the electroscope leaves are only temporarily charged.
+If the leaves are permanently charged and the rod removed, the electroscope can then be used to determine the type of unknown charge on an object.
+If the electroscope has been permanently negatively charged, and a negatively charge object is brought near the knob, the leaves will separate even further, showing the new object has the same charge as the leaves.

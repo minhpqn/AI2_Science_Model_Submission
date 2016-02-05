@@ -1,0 +1,20 @@
+Wave Motion and Sound
+The Big Idea
+Objects in motion that return to the same position after a fixed period of time are said to be in harmonic motion.
+Objects in harmonic motion have the ability to transfer some of their energy over large distances.
+They do so by creating waves in a medium.
+Imagine pushing up and down on the surface of a bathtub filled with water.
+Water acts as the medium that carries energy from your hand to the edges of the bathtub.
+Waves transfer energy over a distance without direct contact with the initial source.
+Since waves are disturbances in an existing medium, they are considered phenomena and not actual objects.
+Types of Waves
+Compare and contrast a longitudinal wave and a transverse wave.
+Describe general wave properties.
+Students will learn the difference between a longitudinal wave a transverse wave.
+Students will also learn some general wave properties.
+The period , T , is the amount of time for the harmonic motion to repeat itself, or for the object to go one full cycle.
+In SHM, T is the time it takes the object to return to its exact starting point and starting direction.
+The period of a wave depends on the period of oscillation of the object creating the wave.
+The frequency , f , is the number of cycles an object or wave goes through in 1 second.
+Frequency is measured in Hertz (Hz). 1 Hz = 1 cycle per sec.
+The amplitude , A , is the distance from the equilibrium (or center) point of motion to either its lowest or highest point ( end points ).

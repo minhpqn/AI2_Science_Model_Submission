@@ -1,0 +1,20 @@
+Obviously, the cell could not survive in such an environment.
+So something must protect the cell and allow it to survive in its water-based environment.
+All cells have a barrier around them that separates them from the environment and from other cells.
+This barrier is called the plasma membrane , or cell membrane.
+The Plasma Membrane
+The plasma membrane ( Figure below ) is made of a double layer of special lipids, known as phospholipids .
+The phospholipid is a lipid molecule with a hydrophilic ("water-loving") head and two hydrophobic ("water-hating") tails.
+Because of the hydrophilic and hydrophobic nature of the phospholipid, the molecule must be arranged in a specific pattern as only certain parts of the molecule can physically be in contact with water.
+Remember that there is water outside the cell, and the cytoplasm inside the cell is mostly water as well.
+So the phospholipids are arranged in a double layer (a bilayer) to keep the cell separate from its environment.
+Lipids do not mix with water (recall that oil is a lipid), so the phospholipid bilayer of the cell membrane acts as a barrier, keeping water out of the cell, and keeping the cytoplasm inside the cell.
+The cell membrane allows the cell to stay structurally intact in its water-based environment.
+The function of the plasma membrane is to control what goes in and out of the cell.
+Some molecules can go through the cell membrane to enter and leave the cell, but some cannot.
+The cell is therefore not completely permeable. "Permeable" means that anything can cross a barrier.
+An open door is completely permeable to anything that wants to enter or exit through the door.
+The plasma membrane is semipermeable , meaning that some things can enter the cell, and some things cannot.
+Drawing of a plasma membrane
+Plasma membranes are primarily made up of phospholipids (orange).
+The hydrophilic ("water-loving") head and two hydrophobic ("water-hating") tails are shown.

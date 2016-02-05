@@ -1,0 +1,20 @@
+transition metal:  Metals whose  d sublevels are in the process of filling to ten electrons.
+Define ionic compound.
+Define ionic bond.
+Use electron dot diagrams to illustrate electron transfer and ionic bond formation.
+The sea contains a lot of salt, an ionic compound
+Does the sea really have salt in it?
+We can get common table salt from several sources.  It can be mined in the solid form in salt mines or found as a solid in deposits.  We can also get salt from the ocean, but it really does not exist as salt when in solution.  The sodium ions and chloride ions are dissolved, but not combined into a structure until all the water is removed.
+Most of the rocks and minerals that make up the Earth’s crust are composed of positive and negative ions held together by ionic bonding.
+An ionic compound is an electrically neutral compound consisting of positive and negative ions.
+You are very familiar with some ionic compounds such as sodium chloride (NaCl).
+A sodium chloride crystal consists of equal numbers of positive sodium ions (Na + ) and negative chloride ions (Cl − ).
+Oppositely charged particles attract each other.  This attractive force is often referred to as an electrostatic force .  An ionic bond is the electrostatic force that holds ions together in an ionic compound .  The strength of the ionic bond is directly dependent upon the quantity of the charges and inversely dependent on the distance between the charged particles.  A cation with a 2+ charge will make a stronger ionic bond than a cation with a 1+ charge.  A larger ion makes a weaker ionic bond because of the greater distance between its electrons and the nucleus of the oppositely charged ion.
+Electron Dot Diagrams
+We will use sodium chloride as an example to demonstrate the nature of the ionic bond and how it forms.
+As you know, sodium is a metal and loses its one valence electron to become a cation.
+Chlorine is a nonmetal and gains one electron in becoming an anion.
+Both achieve a noble-gas electron configuration.
+However, electrons cannot be simply “lost” to nowhere in particular.
+A more accurate way to describe what is happening is that a single electron is transferred from the sodium atom to the chlorine atom as shown below.
+Transfer of an electron from sodium to chlorine to form sodium chloride

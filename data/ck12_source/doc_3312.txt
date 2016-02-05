@@ -1,0 +1,20 @@
+Solar cells convert the energy in sunlight to electrical energy.
+They contain a material such as silicon that absorbs light energy and gives off electrons.
+Launch the interactive at the following URL to learn more about solar cells.
+Then answer the questions below.
+Why does a solar cell have an antireflective coating?
+How is the silicon in a solar cell “doped” so it will conduct electricity?
+Explain how an electric field is established in the solar cell.
+Describe how photons from the sun affect the silicon layers of a solar cell.
+What parts of a solar cell conduct electricity into a wire so it can be used for electric devices?
+What is voltage?
+How is it related to electric current?
+How does a chemical cell produce current?
+Explain how a solar cell works.
+Define resistance and identify the SI unit for resistance.
+List factors that affect resistance.
+Explain why resistance can be a help or a hindrance.
+These athletes are playing rugby, a game that is similar to American football.
+The players in red and blue are trying to stop the player in blue and black from running across the field with the ball.
+They are resisting his forward motion.
+This example of resistance in rugby is a little like resistance in physics.

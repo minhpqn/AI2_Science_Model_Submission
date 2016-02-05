@@ -1,0 +1,20 @@
+This is the explanation for why atomic electrons are only allowed to have certain amounts of energy and therefore, occupy certain energy levels.
+The lowest energy level for an electron is near the nucleus and each quanta of energy added moves the electron to the next distant energy level.
+Einstein’s theory says that each light photon has an energy of hf , where  h is Planck’s constant, and f is the frequency.
+The emission of a photon of light from an atom indicates a change in energy level for an electron such that
+hf = E_{higher} - E_{lower} .
+The energy of an orbit is related to the inverse of the square of the orbit number.
+The energy of an electron in a given energy level of hydrogen is calculated by
+E_n=(-2.17\times 10^{-18} \ J)\left(\frac{1}{n^2}\right) .
+The radius of an orbit is related to the square of the orbit number.
+Bohr calculated allowed electron energy levels for the hydrogen atom and found the emission spectrum of hydrogen to match perfectly with particular electron transitions between his suggested energy levels.
+Other electron transitions predicted electromagnetic frequencies outside the visible range and when those were looked for, they were present and also matched precisely with theoretical calculations.
+Example Problem:
+For the hydrogen atom, determine
+the energy of the innermost energy level (n=1) .
+the energy of the second energy level.
+the difference between the first and second energy levels.
+E_n=(-2.17\times 10^{-18} \ J)\left(\frac{1}{n^2}\right) \qquad E_1=(-2.17\times 10^{-18} \ J)\left(\frac{1}{1^2}\right)=-2.17 \times 10^{-18} \ J
+E_n=(-2.17\times 10^{-18} \ J)\left(\frac{1}{n^2}\right) \qquad E_2=(-2.17\times 10^{-18} \ J)\left(\frac{1}{2^2}\right)=-5.43 \times 10^{-19} \ J
+E_{2-1}=(-5.43 \times 10^{-19} \ J)-(-2.17 \times 10^{-18} \ J)=1.63 \times 10^{-18} \ J
+This is the amount of energy that would need to be added to a 1 st energy level electron to raise it to the second energy level.

@@ -1,0 +1,20 @@
+d_{\text{downstream}} = (v_{\text{downstream}})(t) = (9.0 \ \text{m/s})(8.4 \ \text{s}) = 76 \ \text{m}
+Vectors can be added mathematically using geometry and trigonometry.
+Vectors that are perpendicular to each other have no effect on each other.
+Vector addition can be accomplished by resolving the vectors to be added into components those vectors, and then completing the addition with the perpendiuclar components.
+A video demonstrating the component method of vector addition.
+Click on the image above for more content
+What are the steps the teacher undertakes in order to calculate the resultant vector in this problem?
+How does she find the components of the individual vectors?
+How does she use the individual vector’s components to find the components of the resultant vector?
+Once the components are determined, how does she find the overall resultant vector?
+A hiker walks 11 km due north from camp and then turns and walks 11 km due east.
+What is the total distance walked by the hiker?
+What is the displacement (on a straight line) of the hiker from the camp?
+While flying due east at 33 m/s, an airplane is also being carried due north at 12 m/s by the wind.
+What is the plane’s resultant velocity?
+Two students push a heavy crate across the floor.  John pushes with a force of 185 N due east and Joan pushes with a force of 165 N at 30° north of east.  What is the resultant force on the crate?
+An airplane flying due north at 90. km/h is being blown due west at 50. km/h.  What is the resultant velocity of the plane?
+Gravitational Force and Inclined Plane
+Resolve the weight of an object sitting on an inclined plane into the normal force and the parallel force.
+Calculate the acceleration of an object resting on an inclined plane given the angle of the incline and the weight of the object.

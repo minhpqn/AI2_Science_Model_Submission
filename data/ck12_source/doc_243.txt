@@ -1,0 +1,20 @@
+Calculate the acceleration of the moon toward the earth.
+v=\frac{2 \pi r}{T}=\frac{(2)(3.14)(3.85 \times 10^8 \ \text{m})}{(27.3 \ \text{d})(24.0 \ \text{h/d})(3600 \ \text{s/h})}=1020 \ \text{m/s}
+a_c=\frac{v^2}{r}=\frac{(1020 \ \text{m/s})^2}{3.85 \times 10^8 \ \text{m}}=0.00273 \ \text{m/s}^2
+As shown in the previous example, the velocity of an object traveling in a circle can be calculated by
+v=\frac{2 \pi r}{T}
+Where  r is the radius of the circle and  T is the period (time required for one revolution).
+This equation can be incorporated into the equation for centripetal acceleration as shown below.
+a_c=\frac{v^2}{r}=\frac{\left(\frac{2\pi r}{T}\right)^2}{r}=\frac{4 \pi^2 r}{T^2}
+In order to keep an object traveling in a circular path, there must be an acceleration toward the center of the circle.
+This acceleration is called centripetal acceleration .
+The acceleration in the case of uniform circular motion changes the direction of the velocity but not its magnitude.
+Formulas for centripetal acceleration are a_c=\frac{v^2}{r}  and a_c=\frac{4 \pi^2 r}{T^2} .
+This video is a demonstration of centripetal force using balloons and trays of water.
+Use this resource to answer the questions that follow.
+What does centripetal mean?
+What is uniform circular motion?
+Why is centripetal acceleration always towards the center?
+An automobile rounds a curve of radius 50.0 m on a flat road at a speed of 14 m/s.
+What centripetal acceleration is necessary to keep the car on the curve?
+An object is swung in a horizontal circle on a length of string that is 0.93 m long.

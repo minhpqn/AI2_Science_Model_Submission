@@ -1,0 +1,20 @@
+The ball bearings in this wheel reduce friction between the inner and outer cylinders when they turn.
+Fluid friction is friction that acts on objects that are moving through a fluid.
+A fluid is a substance that can flow and take the shape of its container.
+Fluids include liquids and gases.
+If you’ve ever tried to push your open hand through the water in a tub or pool, then you’ve experienced fluid friction.
+You can feel the resistance of the water against your hand.
+Look at the skydiver in the Figure below .
+He’s falling toward Earth with a parachute.
+Resistance of the air against the parachute slows his descent.
+The faster or larger a moving object is, the greater is the fluid friction resisting its motion.
+That’s why there is greater air resistance against the parachute than the skydiver’s body.
+Parachutes work using fluid friction
+Friction is the force that opposes motion between any surfaces that are in contact.
+There are four types of friction: static, sliding, rolling, and fluid friction.
+Static, sliding, and rolling friction occur between solid surfaces.
+Static friction is strongest, followed by sliding friction, and then rolling friction, which is weakest.
+Fluid friction occurs in fluids, which are liquids or gases.
+Simulate sliding and rolling friction with your choice of vehicle in the animation at the following URL.
+Vary each parameter in turn and observe how it affects the ability of the vehicle to avoid a crash.
+Then use your observations to answer the questions below.

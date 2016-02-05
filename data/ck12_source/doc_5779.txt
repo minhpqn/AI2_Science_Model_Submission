@@ -1,0 +1,20 @@
+Ionization energy is the energy required to remove an electron from a specific atom.
+It is measured in kJ/mol, which is an energy unit, much like calories.
+The ionization energies associated with some elements are described in the Table below .
+For any given atom, the outermost valence electrons will have lower ionization energies than the inner-shell kernel electrons.
+As more electrons are added to a nucleus, the outer electrons become shielded from the nucleus by the inner shell electrons.
+This is called electron shielding .
+Ionization Energies (kJ/mol) of the First 18 Elements
+If we plot the first ionization energies vs. atomic number for the main group elements, we would have the following trend
+Graph of ionization energy versus atomic number
+Ionization energy and atomic number.
+Moving from left to right across the periodic table, the ionization energy for an atom increases.  We can explain this by considering the nuclear charge of the atom.  The more protons in the nucleus, the stronger the attraction of the nucleus to electrons.  This stronger attraction makes it more difficult to remove electrons.
+Within a group, the ionization energy decreases as the size of the atom gets larger.  On the graph, we see that the ionization energy increases as we go up the group to smaller atoms.  In this situation, the first electron removed is farther from the nucleus as the atomic number (number of protons) increases.  Being farther away from the positive attraction makes it easier for that electron to be pulled off.
+Trends of ionization energy, electron affinity, and metallic character
+Ionization energy refers to the amount of energy needed to remove an electron from an atom.
+Ionization energy decreases as we go down a group.
+Ionization energy increases from left to right across the periodic table.
+Use the following link to answer the questions below:
+What is a “gaseous atom?”
+Why would the ionization energy for O be somewhat less than that for N?
+Why is a third-level electron easier to remove than a first-level one?

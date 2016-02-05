@@ -1,0 +1,20 @@
+How many electrons can the fourth energy level have?
+How many orbitals are there at this energy level?
+An atom of sodium has 11 electrons.
+Make a sketch of a sodium atom, showing how many electrons it has at each energy level.
+Infer how reactive sodium atoms are.
+Electron Cloud Atomic Model
+State the main limitation of Bohr’s atomic model.
+Describe Schrödinger’s work and atomic orbitals.
+Identify the electron cloud model of the atom.
+The fan pictured here is turned off in the photo on the left and running at high speed in the photo on the right.
+In the right-hand photo, the blades are moving too fast for you to see the individual blades.
+You can’t tell where any given blade is at any given moment.
+In some ways, rapidly moving fan blades are similar to electrons moving about the nucleus of an atom.
+Like fan blades, electrons move very quickly and we can never tell exactly where they are.
+If that’s the case, how can we represent electrons in models of the atom?
+Where Are the Electrons?
+Up until about 1920, scientists accepted Niels Bohr’s model of the atom.
+In this model, negative electrons circle the positive nucleus at fixed distances from the nucleus, called energy levels.
+You can see the model in Figure below for an atom of the element nitrogen.
+Bohr’s model is useful for understanding properties of elements and their chemical interactions.

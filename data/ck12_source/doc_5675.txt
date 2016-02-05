@@ -1,0 +1,20 @@
+For example, one atom of helium-4 has a mass of 4.0026 amu.
+An atom of sulfur-32 has a mass of 31.972 amu.
+Schematic of a mass spectrometer
+Mass spectrometer schematic.
+The carbon-12 atom has six protons and six neutrons in its nucleus for a mass number of 12.
+Since the nucleus accounts for nearly all of the mass of the atom, a single proton or single neutron has a mass of approximately 1 amu.
+However, as seen by the helium and sulfur examples, the masses of individual atoms are not whole numbers.
+This is because an atom’s mass is affected very slightly by the interactions of the various particles within the nucleus, and the small mass of the electron is taken into account.
+Carbon-12 is the reference for all atomic mass calculations.
+An atomic mass unit is defined as a mass equal to one twelfth the mass of an atom of carbon-12.
+The mass of an atom is affected by the interactions of particles within the nucleus.
+Use the link below to answer the following questions:
+What is the atomic mass unit based on?
+What is another term for atomic mass unit?
+What mistake is in the second paragraph?
+What instrument is used to measure the mass of atoms?
+How much does a single oxygen-16 atom weigh in grams?
+What is the reference standard for atomic mass units?
+How is an atomic mass unit defined?
+Why are the numbers for atomic mass of individual atoms not whole numbers?

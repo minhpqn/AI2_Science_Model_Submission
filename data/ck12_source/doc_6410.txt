@@ -1,0 +1,20 @@
+This approach is both inexpensive and effective.
+Strong and Weak Bases and Base Ionization Constant, K_b
+As with acids, bases can either be strong or weak, depending on their extent of ionization.
+A strong base is a base, which ionizes completely in an aqueous solution.
+The most common strong bases are soluble metal hydroxide compounds such as potassium hydroxide.
+Some metal hydroxides are not as strong simply because they are not as soluble.
+Calcium hydroxide is only slightly soluble in water, but the portion that does dissolve also dissociates into ions.
+A weak base is a base that ionizes only slightly in an aqueous solution.
+Recall that a base can be defined as a substance, which accepts a hydrogen ion from another substance.
+When a weak base such as ammonia is dissolved in water, it accepts an H + ion from water, forming the hydroxide ion and the conjugate acid of the base, the ammonium ion.
+\text{NH}_3(aq)+ \text{H}_2\text{O}(l) \rightleftarrows \text{NH}^+_4(aq) + \text{OH}^-(aq)
+The equilibrium greatly favors the reactants and the extent of ionization of the ammonia molecule is very small.
+An equilibrium expression can be written for the reactions of weak bases with water.
+Because the concentration of water is extremely large and virtually constant, the water is not included in the expression.
+A base ionization constant  (K_b) is the equilibrium constant for the ionization of a base.
+For ammonia the expression is:
+The numerical value of  K_b is a reflection of the strength of the base.
+Weak bases with relatively higher  K_b values are stronger than bases with relatively lower  K_b values.
+The Table below is a listing of base ionization constants for several weak bases.
+Click on the image above to view the table

@@ -1,0 +1,20 @@
+However, there are other ways to detect it.
+You generally can’t see, smell, taste, hear, or feel radiation.
+Fortunately, there are devices such as Geiger counters that can detect radiation.
+A Geiger counter, like the one pictured in the Figure below , contains atoms of a gas that is ionized if it encounters radiation.
+When this happens, the gas atoms change to ions that can carry an electric current.
+The current causes the Geiger counter to click.
+The faster the clicks occur, the higher the level of radiation.
+You can see a video about the Geiger counter and how it was invented at the URL below.
+this Geiger counter detects radiation
+Despite its dangers, radioactivity has several uses.
+For example, it can be used to determine the ages of ancient rocks and fossils.
+It can also be used as a source of power to generate electricity.
+Radioactivity can even be used to diagnose and treat diseases, including cancer.
+Cancer cells grow rapidly and take up a lot of glucose for energy.
+Glucose containing radioactive elements can be given to patients.
+Cancer cells take up more of the glucose than normal cells do and give off radiation.
+The radiation can be detected with special machines like the one in the Figure below .
+The radiation may also kill cancer cells.
+You can learn more about medical uses of radiation at this URL:
+This machine detects radiation in a patient's body

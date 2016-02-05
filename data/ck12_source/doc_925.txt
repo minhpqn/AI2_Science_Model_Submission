@@ -1,0 +1,20 @@
+The magnitude of the  EMF will reach maximum again as the wire cuts perpendicularly down through the field and the  EMF will become zero again as the wire passes through the bottom of the arc.
+The current produced as the armature goes around will resemble a sine wave where the  EMF reaches a maximum in one direction, then goes to zero, then goes to a maximum in the other direction.
+This type of current is called alternating current .
+By having more and more loops of wire on the armature, the crests and troughs overlap and fill in until a constant current is produced.
+Diagram of a periodic wave
+A direct current is one that always flows in the same direction rather than alternating back and forth.
+Batteries produce direct currents.
+A generator can also produce direct current by using a split ring commutator that changes external connections every half turn of the armature so that even though the current in the coil changes direction, every time the current in the coil changes direction, the external connection switches so that the external current always goes in the same direction.
+Generators and motors are almost identical in construction but convert energy in opposite directions.
+Generators convert mechanical energy to electrical energy and motors convert electrical energy to mechanical.
+Because of the alternating direction in alternating current, the average value is less than the power supplied by a direct current.
+In fact, the average power of an AC current is one-half its maximum power and one-half the power of an equivalent DC current.
+The effective current of an AC generator is 0.707 times its maximum current.
+The same is true for the effective voltage of an AC generator.
+I_{\text{eff}} = 0.707 \ I_{\text{max}}
+V_{\text{eff}} = 0.707 \ V_{\text{max}}
+Example Problem:
+An AC generator develops a maximum voltage of 34.0 V and delivers a maximum current of 0.170 A.
+What is the effective voltage of the generator?
+What is the effective current delivered by the generator?

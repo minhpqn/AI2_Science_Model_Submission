@@ -1,0 +1,20 @@
+The enzyme that combines one molecule of CO 2 with a 5-carbon sugar called ribulose biphosphate (RuBP); the most abundant enzyme on earth.
+stomata (singular, stoma ):
+Openings on the underside of a leaf which allow gas exchange and transpiration.
+transpiration :
+A process by which plants lose water; occurs when stomata in leaves open to take in carbon dioxide for photosynthesis and lose water to the atmosphere in the process.
+The Calvin Cycle uses the NADPH and ATP from the Light Reactions to “fix” carbon and produce glucose.
+Carbon dioxide enters the Calvin Cycle when Rubisco attaches it to a 5-carbon sugar.
+Most plants fix CO 2 directly with the Calvin Cycle, so they are called C-3 plants.
+Some plants have evolved preliminary fixation pathways, which help them conserve water in hot, dry habitats.
+C-4 plants use a 3-carbon carrier to compartmentalize initial carbon fixation in order to concentrate CO 2 before sending it on to Rubisco.
+CAM plants open their stomata for preliminary CO 2 fixation only at night.
+In the Calvin Cycle, the fixed CO 2 moves through a series of chemical reactions, gaining a small amount of energy from ATP or NADPH at each step.
+Six turns of the cycle process 6 molecules of carbon dioxide and 12 hydrogens to produce a single molecule of glucose.
+Match the major events with the stage of photosynthesis (Light Reactions or Calvin Cycle) in which they occur.
+Carbon dioxide is fixed.
+Electrons in chlorophyll jump to higher energy levels.
+Glucose is produced.
+NADPH and ATP are produced.
+NADPH and ATP are used.
+Oxygen gas is released.

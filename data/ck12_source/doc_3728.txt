@@ -1,0 +1,20 @@
+To find the amino acid for a particular codon, find the cell in the table for the first and second bases of the codon.
+Then, within that cell, find the codon with the correct third base.
+For example CUG codes for leucine, AAG codes for lysine, and GGG codes for glycine.
+Reading the Genetic Code
+As shown in Figure above , the codon AUG codes for the amino acid methionine.
+This codon is also the start codon that begins translation.
+The start codon establishes the reading frame of mRNA.
+The reading frame is the way the letters are divided into codons.
+After the AUG start codon, the next three letters are read as the second codon.
+The next three letters after that are read as the third codon, and so on.
+This is illustrated in Figure below .
+The mRNA molecule is read, codon by codon, until a stop codon is reached.
+UAG, UGA, and UAA are all stop codons.
+They do not code for any amino acids.
+Stop codons are also known as termination codons.
+How to read the genetic code using codons
+Reading the Genetic Code.
+The genetic code is read three bases at a time.
+Codons are the code words of the genetic code.
+Which amino acid does codon 2 in the drawing stand for?

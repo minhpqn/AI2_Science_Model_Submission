@@ -1,0 +1,20 @@
+This makes the zinc electrode the anode and the copper electrode the cathode.
+When the same half-cells are connected to a battery via the external wire, the reaction is forced to run in the opposite direction.
+The zinc electrode is now the cathode and the copper electrode is the anode.
+& \text{oxidation (anode)} && \text{Cu}(s) \rightarrow \text{Cu}^{2+}(aq) + 2e^- && E^0 =-0.34 \text{ V} \\& \text{reduction (cathode)} && \text{Zn}^{2+} (aq) + 2e^- \rightarrow \text{Zn}(s) && E^0 = -0.76 \text{ V} \\\hline& \text{overall reaction} && \text{Cu}(s)+\text{Zn}^{2+}(aq) \rightarrow \text{Cu}^{2+}(aq)+\text{Zn}(s) && E^0{_\text{cell}} =-1.10 \text{ V}
+The standard cell potential is negative, indicating a nonspontaneous reaction.
+The battery must be capable of delivering at least 1.10 V of direct current in order for the reaction to occur.
+Another difference between a voltaic cell and an electrolytic cell is the signs of the electrodes.
+In a voltaic cell, the anode is negative and the cathode is positive.
+In an electrolytic cell, the anode is positive because it is connected to the positive terminal of the battery.
+The cathode is therefore negative.
+Electrons still flow through the cell form the anode to the cathode.
+The function of an electrolytic cell is described.
+Reactions illustrating electrolysis are given.
+Watch the video at the link below and answer the following questions:
+Click on the image above for more content
+What was the source of electricity?
+What was the purpose of the steel attached to an electrode?
+What is used to help carry the electric current?
+What would be the products of a spontaneous reaction between Zn/Zn 2+ and Cu/Cu 2+ ?
+How do we know that the reaction forming Cu 2+ is not spontaneous?

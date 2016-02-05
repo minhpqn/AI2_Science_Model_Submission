@@ -1,0 +1,20 @@
+The mean is (60 cm + 58 cm + 54 cm + 62 cm + 58 cm) ÷ 5 = 58 cm.
+The median and mode are both 58 cm as well.
+The mean, median, and mode are not always the same, as they are for this sample.
+In fact, sometimes these three statistics are very different from one another for the same sample.
+Describing the Range
+Many samples have a lot of variation in measurements.
+Variation can be described with a statistic called the range.
+The range is the total spread of values in a sample.
+It is calculated by subtracting the smallest value from the largest value.
+Q:
+What is the range of heights in the sample of children in the previous question?
+A:
+The range is 62 cm – 54 cm = 8 cm.
+Descriptive statistics are measures that summarize the characteristics of a sample.
+The central tendency, or center, of a sample can be represented by the mean, median, or mode.
+The variation in a sample can be represented by the range, or the total spread of values.
+Practice calculating descriptive statistics by playing the games at this URL.
+What are descriptive statistics, and why are they useful?
+Find the mean, median, and mode of this set of values: 12 g, 9 g, 13 g, 12 g, 20 g, 17 g, 15 g.
+What is the range of the set of values in question 2?

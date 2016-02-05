@@ -1,0 +1,20 @@
+A rule in electricity for finding the direction of the force of a magnetic field on a negatively charged particle moving through the magnetic field at right angles.  Point the fingers in the direction of the field and the thumb in the direction of the moving charge and the palm will indicate the direction of the force on the charge.
+right hand rule:
+A rule in electricity for finding the direction of the force of a magnetic field on a positively charged particle moving through the magnetic field at right angles.  Point the fingers in the direction of the field and the thumb in the direction of the moving charge and the palm will indicate the direction of the force on the charge.
+tesla:
+The tesla (symbol T ) is the SI derived unit of magnetic flux density, commonly denoted as B , (which is also known as “magnetic field”).
+One tesla is equal to one \frac{\text{Newton}}{\text{amp} \cdot \text{meter}} .
+Explain the design and operation of an electric motor.
+An electric vehicle and a hybrid vehicle
+As gas prices continue to rise, electric cars and hybrids are becoming increasingly popular.
+These cars are certainly a part of our future.
+On the left in the image above is an all-electric vehicle, and on the right is a hybrid vehicle that uses gas part time and electricity part time.
+In an earlier concept, we described and calculated the force that a magnetic field exerts on a current carrying wire.
+Since you are familiar with Newton’s third law of motion, you know that if the magnetic field exerts a force on the current carrying wire, then the current carrying wire also exerts a force of equal magnitude and opposite direction on the magnetic field.
+Schematic for a motor prototype
+In the sketch above, a circuit is connected to a battery, with one part of the circuit placed inside a magnetic field.
+When current runs through the circuit, a force will be exerted on the wire by the magnetic field, causing the wire to move.
+If we choose to consider electron current in this case, the electrons flow from the back of the sketch to the front while the magnetic field is directed upward.
+Using the left hand rule for this, we find that the force on the wire is to the right of the page.
+Had we chosen to consider the current to be conventional current, then the current would be flowing from the front of the sketch to the back and we would use the right hand rule.
+The force on the wire would, once again, be toward the right.

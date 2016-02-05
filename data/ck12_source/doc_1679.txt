@@ -1,0 +1,20 @@
+High humidity increases the chances of clouds and precipitation.
+Humidity usually refers to relative humidity .
+This is the percent of water vapor in the air relative to the total amount the air can hold.
+How much water vapor can the air hold?
+That depends on temperature.
+Warm air can hold more water vapor than cool air ( Figure below ).
+Graph showing water vapor capacity and temperature
+How much water vapor can the air hold when its temperature is 40° C?
+Humidity and Heat
+People often say, “it’s not the heat but the humidity.” Humidity can make a hot day feel even hotter.
+When sweat evaporates, it cools your body.
+But sweat can’t evaporate when the air already contains as much water vapor as it can hold.
+The heat index ( Figure below ) is a measure of what the temperature feels like because of the humidity.
+Graph of apparent temperature based on air temperature and humidity
+How hot does it feel when the air temperature is 90°F?
+It depends on the humidity.
+You’ve probably noticed dew on the grass on a summer morning.
+Why does dew form?
+Remember that the land heats up and cools down fairly readily.
+So when night comes, the land cools.

@@ -1,0 +1,20 @@
+The three primary colors
+Many objects have color because they contain pigments.
+A pigment is a substance that colors materials by reflecting light of certain wavelengths and absorbing light of other wavelengths.
+A very common pigment is the dark green pigment called chlorophyll, which is found in plants.
+Chlorophyll absorbs all but green wavelengths of visible light.
+Pigments are also found in many manufactured products.
+They are used to color paints, inks, and dyes.
+Just three pigments, called primary pigments, can be combined to produce all other colors.
+The primary colors of pigments are the same as the secondary colors of light: cyan, magenta, and yellow.
+Q:
+A color printer needs just three colors of ink to print all of the colors that we can see.
+Which colors are they?
+A:
+The three colors of ink in a color printer are the three primary pigment colors: cyan, magenta, and yellow.
+These three colors can be combined in different ratios to produce all other colors, so they are the only colors needed for full-color printing.
+The wavelength of visible light determines the color that the light appears.
+Light with the longest wavelength appears red, and light with the shortest wavelength appears violet.
+In between are the wavelengths of all the other colors of light.
+A prism separates visible light into its different colors.
+As light passes through the prism, it slows and bends, but different wavelengths bend at different angles.

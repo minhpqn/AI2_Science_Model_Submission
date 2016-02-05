@@ -1,0 +1,20 @@
+The formula unit for cesium chloride is CsCl, also a 1:1 ratio.
+However, as shown in the figure below, the coordination numbers are not 6 as in NaCl.  The center ion is the Cs + ion and is surrounded by the eight Cl − ions at the corners of the cube.  Each Cl − ion is also surrounded by eight Cs + ions.  The coordination numbers in this type of crystal are both 8.  CsCl and NaCl do not adopt identical crystal packing arrangements because the Cs + ion is considerably larger than the Na + ion.
+Lattice structure for cesium chloride
+In a cesium chloride crystal, the cesium ion (orange) occupies the center, while the chloride ions (green) occupy each corner of the cube.
+The coordination number for both ions is 8.
+Another type of crystal is illustrated by titanium(IV) oxide, TiO 2 , which is commonly known as rutile.  The rutile crystal is shown below.
+Lattice structure for titanium chloride
+Titanium(IV) oxide forms tetragonal crystals.
+The coordination number of the Ti 4+ ions (gray) is 6, while the coordination number of the O 2 − ions (red) is 3.
+The gray Ti 4+ ions are surrounded by six red O 2− ions.  The O 2− ions are surrounded by three Ti 4+ ions.  The coordination of the titanium(IV) cation is 6, which is twice the coordination number of the oxide anion, which is 3.  This fits with the formula unit of TiO 2 , since there are twice as many O 2− ions as Ti 4+ ions.
+The crystal structure of all ionic compounds must reflect the formula unit.  In a crystal of iron(III) chloride, FeCl 3 , there are three times as many chloride ions as iron(III) ions.
+Lattice structure for iron chloride
+Iron(III) chloride.
+The bluish-gray Fe 3+ ions are surrounded by green Cl - ions.
+The coordination number of a compound is determined by the type and number of ions or other species surrounding a central ion.
+Often the color of a compound is affected by the specific materials coordinated to that central ion.
+Use the link below to answer the following questions:
+What are the ions or molecules that bind to transition metal ions called?
+How many complexes of CoCl 3 can be isolated?
+What is a monodentate ligand?

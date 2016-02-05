@@ -1,0 +1,20 @@
+Based on the rules of probability, any given gamete of this parent has a 50 percent chance of having the B allele and a 50 percent chance of having the b allele.
+Gametes are formed during meiosis
+Formation of gametes by meiosis.
+Paired alleles always separate and go to different gametes during meiosis.
+Probability and Fertilization
+Which of these gametes joins in fertilization with the gamete of another parent plant?
+This is a matter of chance, like tossing a coin.
+Thus, we can assume that either type of gamete—one with the B allele or one with the b allele—has an equal chance of uniting with any of the gametes produced by the other parent.
+Now assume that the other parent is also Bb .
+If gametes of two Bb parents unite, what is the chance of the offspring having one of each allele like the parents ( Bb )?
+What is the chance of them having a different combination of alleles than the parents (either BB or bb )?
+To answer these questions, geneticists use a simple tool called a Punnett square, which is the focus of the next concept.
+Probability is the chance that a certain event will occur.
+For example, the probability of a head turning up on any given coin toss is 50 percent.
+Probability can be used to predict the chance of gametes and offspring having certain alleles.
+Click on the image above for more content
+Use this resource to answer the questions that follow.
+Fundamentals of Inheritance at
+Define probability as a sentence.
+Define probability as a fraction.

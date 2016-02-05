@@ -1,0 +1,20 @@
+As there are 20 amino acids, the code must consist of at least three letters.
+In 1961, Francis Crick and Sydney Brenner demonstrated the presence of codons , that is, three bases of RNA that code for one amino acid ( Figure below ).
+Also in 1961, Marshall Nirenberg and Heinrich Matthaei at the National Institutes of Health (NIH) demonstrated that a poly(U) RNA sequence was translated into a polypeptide consisting of only the amino acid phenylalanine.
+This proved that the codon UUU coded for the amino acid phenylalanine.
+Extending this work, Nirenberg and his coworkers were able to determine the nucleotide makeup of 54 of the 64 codons.
+Others determined the remainder of the genetic code ( Figure below ).
+In DNA words are three letters long at , Nirenberg talks about cracking the genetic code.
+The mRNA is divided into three-base segments called codons.
+A codon is the segment of nucleotides that codes for an amino acid, or for a start or stop signal.
+There are 64 codons.
+The Genetic Code.
+The Genetic Code:
+Codons are in the mRNA sequence.
+The three letter and one letter code for the amino acids are shown.
+To read the code, find the first base on the left, the second base at the top, and the third base in the center of the table.
+For example, the codon GGG codes for the amino acid glycine (as does GGC, GGA, and GGU), CCG codes for Proline, UUA codes for Leucine, and AAG codes for Lysine.
+There are 64 codons that code for 20 amino acids and three stop codons, so an amino acid may have more than one corresponding codon.
+Start and Stop Codons
+The codon AUG codes for the amino acid methionine.
+This codon is also the start codon which begins every translation of every amino acid chain.

@@ -1,0 +1,20 @@
+New cell wall must also form around the two cells.
+This new developing cell walls between the cells is known as a division septum.
+As the cell begins to pull apart, the new and the original chromosomes are separated.
+The two daughter cells that result are genetically identical to each other and to the parent cell.
+Steps of Binary Fission
+In binary fission, the single chromosome is copied and eventually separates into two separate chromosomes, the cell grows larger, and two identical cells form by the formation of new cell membrane (and cell wall) and the division of the cytoplasm.
+Under ideal conditions, reproduction in bacteria is extremely efficient, with some bacteria reproducing every 20 minutes.
+This makes bacteria an extremely effective tool for the molecular biologist.
+However, bacteria do not usually live in ideal conditions; otherwise, bacteria would grow and divide extremely rapidly, eventually covering the surface of Earth.
+Bacterial growth is limited by nutrients and water, predation, and by their own wastes.
+You can watch an animation of binary fission at this link:
+Cell division is relatively simple in prokaryotic cells.
+The two cells divide by binary fission.
+Green and orange lines indicate old and newly-generated bacterial cell walls, respectively.
+Eventually the parent cell will pinch apart to form two identical daughter cells.
+Left, growth at the center of bacterial body, such as in Bacillus subtilis and E. coli .
+Right, apical growth from the ends of the bacterial body, such as in Corynebacterium diphtheriae .
+asexual reproduction :
+Reproduction involving only one parent; occurs without a fusion of gametes; produces offspring that are all genetically identical to the parent.
+binary fission :

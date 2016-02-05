@@ -1,0 +1,20 @@
+photoelectric cell:
+Use energy of light to generate electricity.
+photoelectric effect:
+A phenomenon that occurs when light shined onto a metal surface causes the ejection of electrons from that metal.
+photon:
+A particle of electromagnetic radiation that has zero mass and carries a quantum of energy.
+threshold frequency:
+Minimum frequency needed to cause electron ejection.
+Atomic Emission Spectra
+Define ground state.
+Define excited state.
+Describe how atomic emission spectra are produced.
+Shooting an arrow is similar to emitting an electron
+How much energy does it take to shoot an arrow?
+Archery as a sport or a means of defense has existed for centuries.
+At rest, there is no tension on the bowstring and no force on the arrow.
+When the string and arrow are pulled back, we now have a situation where kinetic energy (pulling of the string) has been converted to potential energy (the tension on the string).
+The archer releases the arrow and the potential energy is translated into kinetic energy as the arrow moves.
+It turns out that electrons behave the same way when energy is put into the system or released from the system.
+Atomic Emission Spectra

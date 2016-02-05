@@ -1,0 +1,20 @@
+Both dry and wet cells work the same basic way.
+The electrodes react chemically with the electrolyte, causing one electrode to give up electrons and the other electrode to accept electrons.
+Electrons flow through the electrolyte from the negative to positive electrode.
+The electrodes extend out of the battery for the attachment of wires that carry the current.
+The current can be used to power a light bulb or other electric device.
+For a video demonstration of how a battery works, go to the following URL.
+Solar cells convert the energy in sunlight to electrical energy.
+Solar cells are also called photovoltaic (PV) cells because they use light ( photo- ) to produce voltage ( -voltaic ).
+Solar cells contain a material such as silicon that absorbs light energy.
+The energy knocks electrons loose so they can flow freely and produce a difference in electric potential energy, or voltage.
+The flow of electrons creates electric current.
+Solar cells have positive and negative contacts, like the terminals in chemical cells.
+If the contacts are connected with wire, current flows from the negative to positive contact.
+The Figure below and following URL show how a solar cell works.
+Solar power cell
+Current requires a source of voltage, which is a difference in electric potential energy.
+Sources of voltage include chemical cells and solar cells.
+Chemical cells are found in batteries.
+They produce voltage by means of chemical reactions.
+They contain electrodes and an electrolyte, which may be a paste (dry cell) or a liquid (wet cell).

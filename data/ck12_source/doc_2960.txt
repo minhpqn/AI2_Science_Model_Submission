@@ -1,0 +1,20 @@
+A:
+The object has traveled a distance of 50 meters.
+Slope Equals Velocity
+In a position-time graph, the velocity of the moving object is represented by the slope, or steepness, of the graph line.
+If the graph line is horizontal, like the line after time = 5 seconds in Graph 2 in the Figure below , then the slope is zero and so is the velocity.
+The position of the object is not changing.
+The steeper the line is, the greater the slope of the line is and the faster the object’s motion is changing.
+The slope of a position time graph is velocity
+Calculating Average Velocity from a Position-Time Graph
+It’s easy to calculate the average velocity of a moving object from a position-time graph.
+Average velocity equals the change in position (represented by Δd) divided by the corresponding change in time (represented by Δt):
+\text{velocity}= \frac{\Delta d}{\Delta t}\\\
+For example, in Graph 2 in the Figure above , the average velocity between 0 seconds and 5 seconds is:
+\text{velocity} & = \frac{\Delta d}{\Delta t}\\\& =\frac{25 \ \text{m}-0 \ \text{m}}{5 \ \text{s}-0 \ \text{s}}\\\& =\frac{25 \ \text{m}}{5 \ \text{s}}\\\& =5 \ \text{m/s}
+At the following URL, review the shape of a position-time graph and its relationship to velocity.
+Then use the widget at the bottom of the Web page to generate position-time graphs for an object with specified characteristics.
+Motion can be represented by a position-time graph, which plots position relative to the starting point on the y-axis and time on the x-axis.
+The slope of a position-time graph represents velocity.
+The steeper the slope is, the faster the motion is changing.
+Average velocity can be calculated from a position-time graph as the change in position divided by the corresponding change in time.

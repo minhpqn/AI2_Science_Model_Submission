@@ -1,0 +1,20 @@
+To calculate momentum with the equation above, mass is measured in (kg), and velocity is measured in meters per second (m/s).
+For example, Cody and his skateboard have a combined mass of 40 kg.
+If Cody is traveling at a velocity of 1.1 m/s by the time he reaches the bottom of the ramp, then his momentum is:
+Momentum = 40 kg × 1.1 m/s = 44 kg • m/s
+Note that the SI unit for momentum is kg • m/s.
+Q :
+The combined mass of Jerod and his skateboard is 68 kg.
+If Jerod goes down the ramp at the same velocity as Cody, what is his momentum at the bottom of the ramp?
+A :
+His momentum is:
+Momentum = 68 kg × 1.1 m/s = 75 kg • m/s
+Momentum is a property of a moving object that makes it hard to stop.
+It equals the object’s mass times its velocity.
+To calculate the momentum of a moving object, multiply its mass in kilograms (kg) by its velocity in meters per second (m/s).
+The SI unit of momentum is kg • m/s.
+At the following URL, review how to calculate momentum, and then solve the problems at the bottom of the Web page.
+Write the equation for calculating momentum from mass and velocity.
+What is the SI unit for momentum?
+Which skateboarder has greater momentum?
+Skateboarder A: mass = 60 kg; velocity = 1.5 m/s

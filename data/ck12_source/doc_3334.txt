@@ -1,0 +1,20 @@
+Today, most electronic signals are digital signals.
+Digital signals consist of rapid pulses of voltage that repeatedly switch the current off and on.
+The Figure below represents digital signals.
+This type of signal encodes information as a string of 0’s (current off) and 1’s (current on).
+This is called a binary (“two-digit”) code.
+The majority of modern electronic devices, including computers and many mobile phones, encode data as digital signals.
+Compared with analog signals, digital signals are easier to transmit and more accurate.
+Typical digital signal
+A message encoded by changing the voltage of an electric current is called an electronic signal.
+The use of electric current for this purpose is known as electronics.
+Electronic signals may be analog or digital signals.
+Analog signals consist of continuously changing voltage in an electric circuit.
+Digital signals, which are the main type of signals used today, consist of rapid pulses of voltage that repeatedly switch the current off and on.
+Assume you are explaining analog and digital signals to a younger student.
+Write an original analogy that helps explain how the two types of signals differ.
+You can learn more about analogies, including many examples, at the following URL.
+What is an electronic signal?
+Create a table comparing and contrasting analog and digital signals.
+Define electronic component.
+Outline the structure and function of diodes, transistors, and integrated circuits.

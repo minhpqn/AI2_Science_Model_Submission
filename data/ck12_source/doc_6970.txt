@@ -1,0 +1,20 @@
+Calculate the current through and the voltage across the resistor if S is open and T is closed
+Repeat if S is closed and T is open
+123 \mu \mathrm{F}
+0.073 \mu \mathrm{F}
+a. 6\mathrm{V} b. 0.3\mathrm{A} c. 18\mathrm{V} d. 3.6 \times 10^{-4}\mathrm{C} e. 3.2 \times 10^{-3}\mathrm{J} f. i) 80 \mu \mathrm{F} ii) 40\mu \mathrm{F} iii) 120 \mu \mathrm{F}
+RC Time Constant
+Define the RC time constant and solve various problems involving resistor-capacitor circuits.
+Students will learn about the RC time constant and how to solve various problems involving resistor-capacitor circuits.
+Q(t) = Q_0 e^{\frac{-t}{\tau}} && \text{Discharge rate, where } \tau= RC
+I(t) = I_0 e^{\frac{-t}{\tau}} && \text{Electric current flow varies with time in a like manner}
+Guidance When a capacitor is initially uncharged, it is very easy to stuff charge in.
+As charge builds, it repels new charge with more and more force.
+Due to this effect, the charging of a capacitor follows a logarithmic curve.
+When you pass current through a resistor into a capacitor, the capacitor eventually “fills up” and no more current flows.
+A typical RC circuit is shown below; when the switch is closed, the capacitor discharges with an exponentially decreasing current.
+In the circuit diagram shown above, the resistor has a value of 100\;\Omega and the capacitor has a capacitance of 500\;\mu\text{F} .
+After the switched is closed, (a) how long will it be until the charge on the capacitor is only 10% of what it was when the switch was originally closed?
+If the capacitor was originally charged by a 12 V battery, how much charge will be left on it at this time?
+(a):
+To solve the first part of the problem, we'll use the equation that gives charge as a function of time.

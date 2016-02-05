@@ -1,0 +1,20 @@
+It is the ratio of the output force to the input force.
+The force applied by the screw (output force) is always greater than the force applied to the screw (input force).
+Therefore, the mechanical advantage of a screw is always greater than 1.
+Look at the two screws in the Figure below .
+In the screw on the right, the threads of the inclined plane are closer together.
+This screw has a greater mechanical advantage and is easier to turn than the screw on the left, so it takes less force to penetrate the wood with the right screw.
+The trade-off is that more turns of the screw are needed to do the job because the distance over which the input force must be applied is greater.
+Screws with different mechanical advantages
+Q :
+Why is it harder to turn a screw with more widely spaced threads?
+A :
+The screw moves farther with each turn when the threads are more widely space, so more force must be applied to turn the screw and cover the greater distance.
+A screw is a simple machine that consists of an inclined plane wrapped around a central cylinder.
+Screws move objects to a greater depth (or higher elevation) by increasing the force applied to the screw
+The mechanical advantage of a screw is always greater than 1 because the output force applied by the screw is greater than the input force applied to the screw.
+Do the simple screw activity described at the following URL, and then answer the questions below.
+How does the activity model a screw?
+Which part of the screw is the long sloping side of the inclined plane?
+Which dimension of the screw is the same as the height of the inclined plane?
+What is a screw?

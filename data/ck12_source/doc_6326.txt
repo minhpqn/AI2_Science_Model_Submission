@@ -1,0 +1,20 @@
+Calculations with Equilibrium Constants
+Perform equilibrium constant calculations.
+Ferrozine is used to assess the amount of iron in human blood because it tightly binds iron
+Iron is an important component of red cells.
+Patients who have low iron will usually be anemic and have a lower than normal number of red blood cells.
+One way to assess serum iron concentration is with the use of Ferrozine, a complex organic molecule.
+Ferrozine forms a product with Fe 3+ , producing a pink color.
+In order to determine factors affecting the reaction, we need to measure the equilibrium constant.
+If the equilibrium does not lie far in the direction of products, precautions need to be taken when using this material to measure iron in serum.
+Calculations with Equilibrium Constants
+The general value of the equilibrium constant gives us information about whether the reactants or the products are favored at equilibrium.
+Since the product concentrations are in the numerator of the equilibrium expression, a K_{eq} > 1 means that the products are favored over the reactants.
+A  K_{eq}< 1 means that the reactants are favored over the products.
+Though it would often seem that the  K_{eq} value would have various units depending on the values of the exponents in the expression, the general rule is that any units are dropped.
+All  K_{eq} values will be reported as having no units.
+Sample Problem:
+Calculating an Equilibrium Constant
+Equilibrium occurs when nitrogen monoxide gas reacts with oxygen gas to form nitrogen dioxide gas.
+2\text{NO}(g)+\text{O}_2(g) \rightleftarrows 2\text{NO}_2(g)
+At equilibrium at 230°C, the concentrations are measured to be [NO] = 0.0542 M, [O 2 ] = 0.127 M, and [NO 2 ] = 15.5 M.

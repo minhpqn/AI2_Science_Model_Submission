@@ -1,0 +1,20 @@
+The sign of  q for an endothermic process is positive because the system is gaining heat.
+A chemical reaction or physical change is exothermic if heat is released by the system into the surroundings.
+Because the surroundings is gaining heat from the system, the temperature of the surroundings increases.
+The sign of  q for an exothermic process is negative because the system is losing heat.
+Endothermic reactions absorb heat, while exothermic reactions release heat
+(A) Endothermic reaction. (B) Exothermic reaction.
+Units of Heat
+Heat flow is measured in one of two common units: the calorie and the joule.
+The joule (J) is the SI unit of energy.  The calorie is familiar because it is commonly used when referring to the amount of energy contained within food.
+A calorie (cal) is the quantity of heat required to raise the temperature of 1 gram of water by 1°C.
+For example, raising the temperature of 100 g of water from 20°C to 22°C would require 100 × 2 = 200 cal.
+Calories contained within food are actually kilocalories (kcal).
+In other words, if a certain snack contains 85 food calories, it actually contains 85 kcal or 85,000 cal.
+In order to make the distinction, the dietary calorie is written with a capital C.
+1 \ \text{kilocalorie}=1 \ \text{Calorie} = 1000 \ \text{calories}
+To say that the snack “contains” 85 Calories means that 85 kcal of energy are released when that snack is processed by your body.
+Heat changes in chemical reactions are typically measured in joules rather than calories.
+The conversion between a joule and a calorie is shown below.
+1 \text{ J} = 0.2390 \text{ cal or 1 cal} = 4.184 \text{ J}
+We can calculate the amount of heat released in kilojoules when a 400.

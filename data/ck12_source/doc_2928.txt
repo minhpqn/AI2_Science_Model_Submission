@@ -1,0 +1,20 @@
+Sometimes pedigrees can also help determine whether individuals with the trait are heterozygous (two different alleles) or homozygous (two of the same allele).
+Some points to keep in mind when analyzing a pedigree are:
+With autosomal recessive inheritance, all affected individuals will be homozygous recessive.
+With dominant inheritance, all affected individuals will have at least one dominant allele.
+They will be either homozygous dominant or heterozygous.
+With sex-linked inheritance, more males (XY) than females (XX) usually have the trait.
+Sex-linked inheritance is usually recessive.
+Symbols of a pedigree, and an example pedigree
+In a pedigree, squares symbolize males, and circles represent females.
+A horizontal line joining a male and female indicates that the couple had offspring.
+Vertical lines indicate offspring which are listed left to right, in order of birth.
+Shading of the circle or square indicates an individual who has the trait being traced.
+In this pedigree, the inheritance of the recessive trait is being traced.
+A is the dominant allele, and a is the recessive allele.
+A pedigree is a chart which shows the inheritance of a trait over several generations.
+From studying a pedigree, scientists can determine if a trait is sex-linked or autosomal.
+Use the resource below to answer the questions that follow.
+Find the Gene for Whirling Disorder! at
+What is Whirling Disorder?
+Is Whirling Dosorder inherited in a dominant or recessive mannor?

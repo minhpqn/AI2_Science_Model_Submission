@@ -1,0 +1,20 @@
+If the exponents are not the same, one of the numbers must be changed so that the exponents are the same.
+Once the exponents are the same, the numbers are added and the same exponents are carried through to the answer.
+Example:
+Add 5.0 × 10 5 and 4.0 × 10 4 .
+Solution:
+In order to add these numbers, we can change 4.0 × 10 4 to 0.40 × 10 5 and then add 0.40 × 10 5 to 5.0 × 10 5 which yields 5.4 ×
+When you multiply exponential numbers, the numbers multiply and the exponents add.
+Example:
+Multiply 5.0 × 10 5 and 4.0 × 10 4 .
+Solution: (5.0 \times 10^5)(4.0 \times 10^4) = (5.0)(4.0) \times 10^{5+4} = 20 \times 10^9 = 2 \times 10^{10}
+Example:
+Multiply 6.0 × 10 3 and 2.0 × 10 -5 .
+Solution: (6.0 \times 10^3)(2.0 \times 10^{-5}) = 12 \times 10^{3-5} = 12 \times 10^{-2} = 1.2 \times 10^{-1} = 0.12
+When you divide exponential numbers, the numbers are divided and the exponent of the divisor is subtracted from the exponent of the dividend.
+Example:
+Divide 6.0 × 10 3 by 2.0 × 10 -5 .
+Solution: \frac{6.0 \times 10^3}{2.0 \times 10^{-5}}=3.0 \times 10^{3-(-5)}=3.0 \times 10^8
+The numbers you use in math class are considered to be exact numbers.
+These numbers are defined, not measured.
+Measured numbers cannot be exact - the specificity with which we can make a measurement depends on how precise our measuring instrument is.

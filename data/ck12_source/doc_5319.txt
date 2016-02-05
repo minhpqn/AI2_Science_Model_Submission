@@ -1,0 +1,20 @@
+Here it is shown interacting with DNA.
+The Hereditary Material
+For almost 100 years, scientists have known plenty about proteins.
+They have known that proteins of all different shapes, sizes, and functions exist.
+For this reason, many scientists believed that proteins were the heredity material.
+It wasn’t until 1928, when Frederick Griffith identified the process of transformation , that individuals started to question this concept.
+Griffith demonstrated that transformation occurs, but what was the material that caused the transforming process?
+Griffith was studying Streptococcus pneumoniae , a bacterium that infects mammals.
+He used two strains of this bacteria, a virulent S (smooth) strain and a harmless R (rough) strain to demonstrate the transfer of genetic material.
+The S strain is surrounded by a polysaccharide capsule, which protects it from the host's immune system, resulting in the death of the host, while the R strain, which does not have the protective capsule, is defeated by the host's immune system.
+Hence, when mammalian cells are infected with the R strain bacteria, the host does not die ( Figure below ).
+Griffith infected mice with heat-killed S strain bacteria.
+As expected, the heat-killed bacteria, as they were dead, had no effect on the mice.
+But then he tried a novel experiment.
+He mixed the remains of heat-killed S strain bacteria with live R strain bacteria and injected the mixture into mice.
+Remember, separately both of these bacteria are harmless to the mice.
+And yet the mice died ( Figure below ).
+Why?
+These mice had both live R and live S strain bacteria in their blood.
+How?

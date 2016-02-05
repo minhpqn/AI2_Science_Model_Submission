@@ -1,0 +1,20 @@
+Organisms use the atoms of food molecules to build larger organic molecules including proteins, DNA, and fats, and use the energy in food to power life processes.
+By breaking the bonds in food molecules, cells release energy to build new compounds.
+Although some energy dissipates as heat at each energy transfer, much of it is stored in the newly made molecules.
+Chemical bonds in organic molecules are a reservoir of the energy used to make them.
+Fueled by the energy from food molecules, cells can combine and recombine the elements of life to form thousands of different molecules.
+Both the energy (despite some loss) and the materials (despite being reorganized) pass from producer to consumer – perhaps from algal tails, to water flea hearts, to dragonfly eye colors, to fish muscle, to you!
+The process of photosynthesis , which usually begins the flow of energy through life, uses many different kinds of energy-carrying molecules to transform sunlight energy into chemical energy and build food.
+Chlorophyll and NADPH
+Some carrier molecules hold energy briefly, quickly shifting it like a hot potato to other molecules.
+This strategy allows energy to be released in small, controlled amounts.
+An example is chlorophyll, the green pigment present in most plants which absorbs solar energy and helps convert that energy into chemical energy.
+When a chlorophyll molecule absorbs light energy, electrons are excited and “jump” to a higher energy level.
+The excited electrons then bounce to a series of carrier molecules, losing a small amount of energy at each step.
+Most of the “lost” energy powers some small cellular task, such as moving ions across a membrane or building up another molecule.
+Another short-term energy carrier important to photosynthesis, NADPH , holds chemical energy a bit longer but soon that energy is used to help to build sugar.
+NADPH is the reduced form of NADP + , Nicotinamide adenine dinucleotide phosphate.
+NADP + accepts an electron at the end of the light reactions electron transport chain of photosynthesis.
+Two related short term energy carriers, NADH (nicotinamide adenine dinucleotide) and FADH 2 (flavin adenine dinucleotide) are used during cellular respiration .
+Glucose and ATP
+Two of the most important energy-carrying molecules are glucose and ATP ( adenosine triphosphate ).

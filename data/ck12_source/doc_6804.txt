@@ -1,0 +1,20 @@
+T = \frac{1}{f}
+Plug n’ Chug:
+T = \frac{1}{f} = \frac{1}{190 \ Hz} = 0.00526 \ s = 5.26 \ ms
+Answer: \boxed{\mathbf{5.26 \ ms}}
+Question :
+The effective k of a diving board is 800\mathrm{N/m} (we say effective because it bends in the direction of motion instead of stretching like a spring, but otherwise behaves the same).
+A pudgy diver is bouncing up and down at the end of the diving board.
+The y vs. t graph is shown below.
+a) What is the distance between the lowest and the highest point of oscillation?
+b) What is the Period and frequency of the diver?
+c) What is the diver's mass?
+d) Write the sinusoidal equation of motion for the diver.
+a) As we can see from the graph the highest point is 2m and the lowest point is -2\mathrm{m} .
+Therefore the distance is |2\mathrm{m}-(-2\mathrm{m})|=4\mathrm{m}
+b)We know that f=\frac{1}{T} From the graph we know that the period is 2 seconds, so the frequency is \frac{1}{2 } hz.
+c) To find the diver's mass we will use the equation T=2\pi \sqrt{\frac{m}{k}} and solve for m .
+Then it is a simple matter to plug in the known values to get the mass.
+T=2\pi \sqrt{\frac{m}{k}} \Rightarrow \frac{T}{2\pi}=\sqrt{\frac{m}{k}} \Rightarrow (\frac{T}{2\pi})^2=\frac{m}{k} \Rightarrow k(\frac{T}{2\pi})^2=m Now we plug in what we know. m=k(\frac{T}{2\pi})^2=800\frac{N}{m}(\frac{\pi {\mathrm{s}}}{2\pi})^2=200\mathrm{kg}
+d) To get the sinusoidal equation we must first choose whether to go with a cosine graph or a sine graph.
+Then we must find the amplitude (A), vertical shift (D), horizontal shift (C), and period (B).

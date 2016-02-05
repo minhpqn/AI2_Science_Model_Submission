@@ -1,0 +1,20 @@
+Cancer (Advanced) concept, cancer is described as developing due to unregulated cell division.
+That is, cancer is a disease characterized by a population of cells that grow and divide without respect to normal limits.
+These cancerous cells invade and destroy adjacent tissues, and they may spread throughout the body.
+The process by which normal cells are transformed into cancer cells is known as carcinogenesis .
+This process is also known as oncogenesis or tumorigenesis.
+Oncogenes are mutated genes involved in the development of cancer.
+Nearly all cancers are caused by mutations in the DNA of the abnormal cells.
+These mutations may be due to the effects of carcinogens , cancer causing agents such as tobacco smoke, radiation, chemicals, or infectious agents.
+These carcinogens may act as an environmental “trigger,” stimulating the onset of cancer in certain individuals and not others.
+Do all people who smoke get cancer?
+No.
+Can secondhand smoke increase a nonsmoking person's chance of developing lung cancer?
+Yes.
+It also increases a nonsmoking person's chance of developing heart disease.
+Complex interactions between carcinogens and an individual’s genome may explain why only some people develop cancer after exposure to an environmental trigger and others do not.
+Do all cancers need an environmental trigger to develop?
+No.
+Cancer causing mutations may also result from errors incorporated into the DNA during replication, or they may be inherited.
+Inherited mutations are present in all cells of the organism.
+Oncogenes and Tumor Suppressor Genes

@@ -1,0 +1,20 @@
+The force which an effort force must overcome in order to do work on an object via a simple machine.
+ideal mechanical advantage:  The factor by which a mechanism multiplies the force put into it.
+The mechanical advantage is called the ideal mechanical advantage if there is no friction or if friction is ignored.
+Generally, the mechanical advantage is calculated as follows: \text{MA}=\frac{\text{distance over which effort is applied}}{\text{distance over which the load is moved}}
+actual mechanical advantage:  The mechanical advantage of a real machine.
+Actual mechanical advantage takes into consideration real world factors such as energy lost in friction.
+In this way, it differs from the ideal mechanical advantage, which, is a sort of 'theoretical limit' to the efficiency.
+The AMA of a machine is calculated with the following formula: \text{AMA}=\frac{\text{resistance force}}{\text{effort force}} .
+compound machine:
+A combination of two or more simple machines.
+Ho John Lee.  .
+Samantha Bacic.
+CK-12 Foundation .
+Samantha Bacic.
+CK-12 Foundation .
+Courtesy of Ryan Hagerty, U.S.
+Fish and Wildlife Service.
+Richard Parsons.
+CK-12 Foundation .
+Laura Guerin.

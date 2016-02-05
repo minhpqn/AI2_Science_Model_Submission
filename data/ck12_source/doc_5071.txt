@@ -1,0 +1,20 @@
+The conversion of pyruvate into acetyl-CoA is referred to as the pyruvate dehydrogenase reaction.
+It is catalyzed by the pyruvate dehydrogenase complex.
+This process produces one NADH electron carrier while releasing a CO 2 molecule.
+This step is also known as the link reaction or transition step, as it links glycolysis and the Krebs cycle.
+Of course, as two pyruvates result from glycolysis, two acetyl-CoAs are produced as are 2 NADH molecules.
+After glycolysis, two 3-carbon pyruvates enter the mitochondrion, where they are converted to two 2-carbon acetyl-CoenzymeA (CoA) molecules.
+Acetyl-CoA then enters the Krebs Cycle.
+Note that the carbons removed become carbon dioxide, accounting for two of the six such end products of glucose oxidation.
+The energy released by this breakdown is carried by NADH.
+The Krebs cycle completes the breakdown of glucose begun in glycolysis.
+If oxygen is present, pyruvate enters the mitochondria and is converted to AcetylCoA.
+AcetylCoA enters the cycle by combining with 4-carbon oxaloacetate.
+Study the diagram to confirm that each turn of the cycle (two for each glucose) stores energy in 3 NADH+H + , one FADH 2 , and one ATP (from GTP), and releases 2 CO 2 .
+The Krebs cycle is also known as the Citric Acid Cycle or the tricarboxylic acid cycle (TCA cycle).
+Within the mitochondria, each pyruvate is broken apart and combined with a coenzyme known as CoA to form a 2-carbon molecule, Acetyl-CoA, which can enter the Krebs Cycle.
+A single atom of carbon (per pyruvate) is “lost” as carbon dioxide.
+The energy released in this breakdown is captured in two NADH molecules.
+See Figure above .
+Fatty acids can also break down into Acetyl-CoA.
+By this means, lipids, like fats, can be “burned” to make ATP using the Krebs Cycle.

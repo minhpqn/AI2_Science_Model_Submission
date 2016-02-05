@@ -1,0 +1,20 @@
+The yellow arrow on the right of the lens is the inverted image.
+The diagram above shows the situation when the object is outside 2F .
+In this situation, the image will be between F  and 2F  on the other side and will be inverted, diminished, and real.
+A real image can be projected on a screen.
+That is, if you placed a sheet of paper at the image position, the image would actually appear on the paper.
+If the object is placed between 2F  and F , the image will appear beyond 2F  on the other side.
+The image will be real, inverted, and enlarged.
+You can do a ray tracing like the one shown to demonstrate this is true.
+If the object is placed inside F  (between F  and the lens), the image will be on the same side of the lens as the object and it will be virtual, upright, and enlarged.
+In the sketch below, the object is red and has been placed inside F .
+The ray that approaches the mirror parallel to the principal axis is dotted yellow.
+It refracts through the focal point, also shown in dotted yellow.
+The ray that approaches the mirror through the focal point is dotted blue and refracts parallel to the principal axis, also shown in dotted blue.
+As you can see, the refracted rays diverge, so there will be no real image.
+If the eye is placed beyond the object around the 2F  shown in the sketch, the eye will see the rays as if they have traveled in a straight line.
+These imaginary rays will converge at the tip of the green arrow which is the image position.
+Virtual image formed by a convex lens
+Example Problem:
+An object is 40.0 cm to the left of a convex lens of +8.00 cm focal length.
+Determine the image distance.

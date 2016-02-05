@@ -1,0 +1,20 @@
+The  K_{sp} expression can be written in terms of the variable s .
+Because the value of the  K_{sp} is so small, we can make the assumption that the value of  s will be very small compared to 0.040.
+This simplifies the mathematics involved in solving for s .
+K_{sp}&=(s)(0.040)^2=0.0016 \ s=3.0 \times 10^{-16} \\s&=\frac{K_{sp}}{\left [\text{OH}^- \right ]^2}=\frac{3.0 \times 10^{-16}}{0.0016}=1.9 \times 10^{-13} \ \text{M}
+The concentration of the zinc ion is equal to  s and so [Zn 2+ ] = 1.9 × 10 -13  M.
+Step 3:
+Think about your result .
+The relatively high concentration of the common ion, OH − , results in a very low concentration of zinc ion.
+The molar solubility of the zinc hydroxide is less in the presence of the common ion than it would be in water.
+The common ion and common ion effect are described.
+Calculations involving the common ion effect are described.
+Work the problems at the link below:
+How is Le Châtelier’s principle involved in the common-ion effect?
+Could the common ion effect ever increase the solubility of a compound?
+In the sample problem, what would the effect be of adding Zn(NO
+common ion:
+An ion that is in common to both salts in a solution.
+common ion effect:
+A decrease in the solubility of an ionic compound as a result of the addition of a common ion.
+Courtesy of Photographer’s Mate 2nd Class Ryan Child, US Navy.

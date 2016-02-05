@@ -1,0 +1,20 @@
+The tractor above was once a very useful piece of farm equipment.
+But it got old, probably broke down a lot, and you eventually couldn’t get parts for it.
+You bought a new, more efficient tractor with all the latest gadgets.
+There is not much of a market for old tractors, so it sits parked out of the way, exposed to the weather, and quietly rusting away.
+Rust is a combination of several different oxides of iron.
+The equations below show the steps involved in one of the many processes of rust formation.
+2\text{Fe}(s)+\text{O}_2(g)+4\text{H}^+(aq) & \rightarrow 2\text{Fe}^{2+}(aq)+2\text{H}_2\text{O}(l) \\4\text{Fe}^{2+}(aq)+\text{O}_2(g)+6\text{H}_2\text{O}(l) & \rightarrow 2\text{Fe}_2\text{O}_3 \cdot \text{H}_2\text{O}(s)+8\text{H}^+(aq)
+Iron is first oxidized to iron(II) ions by oxygen.
+In the second step, the iron(II) ions are further oxidized and combine with water and oxygen gas to produce a hydrated form of iron(III) oxide known as rust.
+Rusting is one of many example of corrosion.
+Corrosion is the deterioration of metals by redox processes.
+Corrosion causes enormous amounts of damage to buildings, bridges, ships, cars, and other objects.
+It has been estimated that corrosion costs the U.S. economy over 100 billion dollars each year.
+A great amount of time and effort is spent to try to limit or prevent corrosion.
+Some metals, such as gold and platinum, do not corrode easily because they are very resistant to oxidation by common substances.
+Some other metals begin to be oxidized, but are further protected from additional corrosion by a coating formed on the surface.
+Aluminum reacts with oxygen to form aluminum oxide, which remains tightly packed on the surface.
+The aluminum oxide prevents the interior of the aluminum from corroding.
+Not all corrosion is a result of reaction with oxygen.
+Copper corrodes by reaction with carbon dioxide to form copper(II) carbonate.

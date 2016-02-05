@@ -1,0 +1,20 @@
+How would the first 4 seconds of the velocity-time graph for this runner be different from the Figure above ?
+A:
+The graph line for this runner during seconds 0–4 would be steeper (have a greater slope).
+This would show that acceleration is greater during this time period for the other sprinter.
+A velocity-time graph shows changes in velocity of a moving object over time.
+The slope of a velocity-time graph represents acceleration of the moving object.
+At the following URL, read about the shape of velocity-time graphs and what it means.
+Then use the velocity-time widget to experiment with different values for velocity and time to see how the shape of the graph changes.
+Finally, check your understanding by describing the motion represented by the velocity-time graphs at the bottom of the page.
+Be sure to see how your answers compare with the correct answers.
+Describe a velocity-time graph.
+What does the slope of the graph line represents?
+In the Figure above , the sprinter reaches a velocity of 2 m/s in just 1 second.
+At a constant rate of acceleration, how long does it take for her to double this velocity?
+What is her acceleration during this time period?
+Create a velocity-time graph by plotting the data in the Table below .
+Relate force to motion.
+Identify the SI unit for force.
+Explain how to represent forces with vector arrows.
+Carson has been riding a scooter for almost as long as he can remember.

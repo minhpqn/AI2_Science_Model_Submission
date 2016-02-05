@@ -1,0 +1,20 @@
+Why do we want the hours on top in the first conversion factor?
+What do measured numbers tell you?
+What is the purpose of significant figures?
+Write the following numbers in proper scientific notation.
+Write the following numbers in expanded form.
+How many significant figures are in the following numbers?
+Perform the following calculations and give your answer with the correct number of significant figures:
+Perform the following calculations and give your answer with the correct number of significant figures:
+exponential notation :
+A method of writing or displaying numbers in terms of a decimal number between 1 and 10 multiplied by a power of 10.
+The scientific notation of 10,492, for example, is 1.0492 \times 10^4 .
+significant digits :
+The significant figures (also known as significant digits, and often shortened to sig figs) of a number are those digits that carry meaning contributing to its precision.
+This includes all digits except :
+leading and trailing zeros which are merely placeholders to indicate the scale of the number.
+spurious digits introduced, for example, by calculations carried out to greater precision than that of the original data, or measurements reported to a greater precision than the equipment supports.
+Courtesy of NASA.
+Christopher Auyeung.
+CK-12 Foundation .
+Courtesy of NASA.

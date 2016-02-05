@@ -1,0 +1,20 @@
+The physical appearance of an organism determined by a particular genotype (and sometimes also by the environment).
+Mendelian inheritance patterns can be seen in humans.
+Albinism is a genetic disorder that is inherited as a simple Mendelian trait.
+Genotype determines phenotype.
+A homozygous dominant or a heterozygous genotype will always show a dominant phenotype.
+A homozygous recessive genotype can only show a recessive phenotype.
+Modern Genetics at
+Relate the term homozygous to heterozygous by using an example from Mendel’s experiments.
+Relate the term genotype to phenotype by using an example from Mendel’s experiments.
+Why can’t you always identify the genotype of an organism from its phenotype?
+Explain Mendel’s laws in genetic terms, that is, in terms of chromosomes, genes, and alleles.
+If Darwin knew of Mendel’s work, how might it have influenced his theory of evolution?
+Do you think this would have affected how well Darwin’s work was accepted?
+Inheritance Probability - Advanced
+Identify how probability is used to predict outcomes of genetic crosses.
+Identify how probability can help determine the alleles in a gamete. .
+What are the odds of landing on 7 again?
+Not as high as inheriting an allele from a parent.
+Probability plays a big role in determining the chance of inheriting an allele from a parent.
+It is similar to tossing a coin.

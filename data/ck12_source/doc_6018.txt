@@ -1,0 +1,20 @@
+Finally, the molar volume of a gas will be used to convert to liters of hydrogen.
+\text{g Al} \rightarrow \text{mol Al} \rightarrow \text{mol H}_2 \rightarrow \text{L H}_2
+Step 2:
+Solve.
+2.00 \text{ g Al} \times \frac{1 \text{ mol Al}}{26.98 \text{ g Al}} \times \frac{3 \text{ mol H}_2}{2 \text{ mol Al}} \times \frac{22.4 \text{ L H}_2}{1 \text{ mol H}_2} = 2.49 \text{ L H}_2
+Step 3:
+Think about your result.
+The volume result is in liters.
+For much smaller amounts, it may be convenient to convert to milliliters.
+The answer here has three significant figures.
+Because the molar volume is a measured quantity of 22.4 L/mol, three is the maximum number of significant figures for this type of problem.
+Sample Problem:
+Volume-Mass Stoichiometry
+Calcium oxide is used to remove sulfur dioxide generated in coal-burning power plants according to the following reaction.
+2\text{CaO}(s) + 2\text{SO}_2 (g)+\text{O}_2 (g) \rightarrow 2\text{CaSO}_4 (s)
+What mass of calcium oxide is required to react completely with 1.4 × 10 3 L of sulfur dioxide?
+Step 1:
+List the known quantities and plan the problem.
+given: 1.4 × 10 3  L = SO 2
+2 mol SO 2 = 2 mol CaO

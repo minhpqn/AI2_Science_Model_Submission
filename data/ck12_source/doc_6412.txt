@@ -1,0 +1,20 @@
+Who invented the pH meter?
+The pH meter was invented because Florida orange growers needed a way to test the acidity of their fruit.
+The first meter was invented by Arnold Beckman, who went on to form Beckman Instruments.
+Beckman’s business was very successful and he used much of his fortune to fund science education and research.
+The Beckman family donated $40 million to build the Beckman Institute at the University of Illinois, shown above.
+Calculating K_a and K_b
+The numerical value of  K_a or  K_b can be determined from an experiment.
+A solution of known concentration is prepared and its pH is measured with an instrument called a pH meter .
+A pH meter can be used for rapid, accurate determinations of pH
+A pH meter is a laboratory device that provides quick, accurate measurements of the pH of solutions.
+Sample Problem:
+Calculation of an Acid Ionization Constant
+A 0.500 M solution of formic acid is prepared and its pH is measured to be 2.04.
+Determine the  K_a for formic acid.
+Step 1:
+List the known values and plan the problem.
+initial [HCOOH] = 0.500 M
+pH = 2.04
+K_a= \ ?
+First, the pH is used to calculate the [H + ] at equilibrium.

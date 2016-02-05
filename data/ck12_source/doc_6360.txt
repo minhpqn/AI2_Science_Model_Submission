@@ -1,0 +1,20 @@
+All molecular motion ceases at absolute zero (0 K).
+Therefore, the entropy of a pure crystalline substance at absolute zero is defined to be equal to zero.
+As the temperature of the substance increases, its entropy increases because of an increase in molecular motion.
+The absolute or standard entropy of substances can be measured.
+The symbol for entropy is  S and the standard entropy of a substance is given by the symbol S^{\circ} , indicating that the standard entropy is determined under standard conditions.
+The units for entropy are J/K • mol.
+Standard entropies for a few substances are shown in the Table below :
+Standard Entropy Values at 25°C
+S^\circ(\text{J/K} \cdot \text{mol})
+H 2 (g)
+O 2 (g)
+H 2 O(l)
+H 2 O(g)
+The knowledge of the absolute entropies of substances allows us to calculate the entropy change  (\Delta S^\circ) for a reaction.
+For example, the entropy change for the vaporization of water can be found as follows:
+\Delta S^\circ &=S^\circ(\text{H}_2\text{O}(g)) - S^\circ(\text{H}_2\text{O}(l)) \\&=188.7 \ \text{J/K} \cdot \text{mol} - 69.9 \ \text{J/K} \cdot \text{mol}=118.8 \ \text{J/K} \cdot \text{mol}
+The entropy change for the vaporization of water is positive because the gas state has higher entropy than the liquid state.
+In general, the entropy change for a reaction can be determined if the standard entropies of each substance are known.
+The equation below can be applied.
+\Delta S^\circ=\sum nS^\circ(\text{products}) - \sum nS^\circ (\text{reactants})

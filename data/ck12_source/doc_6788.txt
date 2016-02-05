@@ -1,0 +1,20 @@
+If most of the mass of the Earth were concentrated at the core (say, in a ball of dense iron), would the moment of inertia of the Earth be higher or lower than it is now? (Assume the total mass stays the same.)
+Two spheres of the same mass are spinning in your garage.
+The first is 12 \;\mathrm{cm} in diameter and made of solid plastic.
+The second is 10 \;\mathrm{cm} in diameter but is a thin sphere shell of iron filled with air.
+Which is harder to slow down?
+Why? (And why are two spheres spinning in your garage?)
+coin with hole in the middle because has more mass farther from rotational axis and thus a larger moment of inertia
+a. wood b. plug on the right
+a. 9.74 \times 10^{37} \;\mathrm{kg \ m}^2 b. 1.33 \times 10^{47} \;\mathrm{kg \ m}^2 c. 0.5 \;\mathrm{kg \ m}^2 d. 0.28 \;\mathrm{kg \ m}^2 e. 0.07 \;\mathrm{kg \ m}^2
+Iron ball, discuss why in class
+Calculate torque in various situations.
+Students will learn to calculate Torque in various situations.
+\vec{\tau} = \vec{r} \times \vec{F} = r _\perp F = rF _\perp
+Individual torques are determined by multiplying the force applied by the perpendicular component of the moment arm
+Guidance Torque is equal to the cross product as stated above.
+In general, one can simplify by saying that the torque is equal to the force acting on the object multiplied by the perpendicular distance from the application of the force to the rotational axis.
+Say you had a seesaw.
+It is easier to exert torque, get the seesaw to move, if you pushed on the board near the end rather than near the middle.
+It is the rotational version of Force.
+Click on the image above for more content

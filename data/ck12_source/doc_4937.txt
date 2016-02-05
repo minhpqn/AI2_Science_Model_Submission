@@ -1,0 +1,20 @@
+Homeostasis is a dynamic equilibrium rather than an unchanging state.
+The cellular processes discussed in the cell transport (passive and active transport) concepts all play an important role in homeostatic regulation.
+concentration gradient :
+Difference in the concentrations of a molecule across two distinct areas, such as a cell membrane.
+diffusion :
+The movement of molecules from an area of high concentration of the molecules to an area with a lower concentration.
+endocytosis :
+The cellular process of capturing a material/substance from outside the cell by vesicle formation.
+exocytosis :
+The cellular process of secreting materials by vesicle fusion.
+homeostasis :
+The process of maintaining a stable environment inside a cell or an entire organism.
+passive transport :
+Transport of small molecules or ions across the cell membrane without an input of energy by the cell.
+selectively permeable :
+The ability to allow only certain molecules to cross the plasma membrane; semipermeable.
+semipermeable :
+The feature of a cell membrane that allows only select molecules (ions and organic molecules) to enter and/or leave the cell; the ability to allow only certain molecules to cross the plasma membrane; selectively permeable.
+The cell membrane is selectively permeable, allowing only certain substances to pass through.
+Cell transport may require assistance by a protein/pump.

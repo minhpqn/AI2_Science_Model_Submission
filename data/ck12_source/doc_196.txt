@@ -1,0 +1,20 @@
+If an object has zero velocity, does that mean it has zero acceleration?  Give an example.
+If the acceleration of a motorboat is 4.0 m/s 2 , and the motorboat starts from rest, what is its velocity after 6.0 s?
+The friction of the water on a boat produces an acceleration of -10. m/s 2 .
+If the boat is traveling at 30. m/s and the motor is shut off, how long it take the boat to slow down to 5.0 m/s?
+uniform acceleration:
+Acceleration that does not change in time is uniform or constant acceleration.
+Displacement During Constant Acceleration
+Plot and interpret a velocity vs time graph.
+Find the area under a curve on a velocity vs time graph and calculate the displacement from such a graph.
+Calculate the displacement of an object undergoing uniform acceleration when given two of the three quantities acceleration, time, velocity.
+Long distance runners, such as this woman running by the lake, try to keep constant velocity
+Long distance runners try to maintain constant velocity with very little acceleration or deceleration to conserve energy.
+Displacement During Constant Acceleration
+When acceleration is constant, there are three equations that relate displacement to two of the other three quantities we use to describe motion – time, velocity, and acceleration.
+These equations only work when acceleration is constant, but there are, fortunately, quite a few cases of motion where the acceleration is constant.
+One of the most common, if we ignore air resistance, are objects falling due to gravity.
+When an object is moving with constant velocity, the displacement can be found by multiplying the velocity by the time interval, as shown in the equation below
+d = vt
+If the object is moving with constant acceleration, but not a constant velocity, we can use a derivation of this equation.
+Instead of using v , as velocity, we must calculate and use the average velocity using this equation:

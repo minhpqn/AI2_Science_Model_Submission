@@ -1,0 +1,20 @@
+meteorology - the study of Earth’s atmosphere.
+In astronomy it is impossible, when testing the hypothesis "suns are collapsed clouds of hydrogen", to start out with a giant cloud of hydrogen, and then carry out the experiment of waiting a few billion years for it to form a sun.
+However, by observing various clouds of hydrogen in various states of collapse and other phenomena related to the hypothesis such as the nebula shown in Figure below , researchers can collect the data they need to support (or maybe falsify) the hypothesis.
+An early example of this type of experiment was the first verification in the 1600s that light does not travel from place to place instantaneously, but instead has a speed that can be measured.
+Observation of the appearance of the moons of Jupiter were slightly delayed when Jupiter was farther from Earth, as opposed to when Jupiter was closer to Earth.
+This phenomenon was used to demonstrate that the difference in the time of appearance of the moons was consistent with a measurable speed of light.
+The Helix nebula, located about 700 light-years away in the constellation Aquarius, belongs to a class of objects called planetary nebulae .
+Planetary nebulae are the remains of stars that once looked a lot like our sun.
+When sun-like stars die, they puff out their outer gaseous layers.
+These layers are heated by the hot core of the dead star, called a white dwarf, and shine with infrared and visible colors.
+Scientists can study the birth and death of stars by analyzing the types of light that are emitted from nebulae.
+There are situations where it would be wrong or harmful to carry out an experiment.
+In these cases, scientists carry out a natural experiment, or an investigation without an experiment.
+For example, alcohol can cause developmental defects in fetuses, leading to mental and physical problems, through a condition called fetal alcohol syndrome.
+Certain researchers want to study the effects of alcohol on fetal development, but it would be considered wrong or unethical to ask a group of pregnant women to drink alcohol to study its effects on their children.
+Instead, researchers carry out a natural experiment in which they study data that is gathered from mothers of children with fetal alcohol syndrome, or pregnant women who continue to drink alcohol during pregnancy.
+The researchers will try to reduce the number of variables in the study (such as the amount or type of alcohol consumed), which might affect their data.
+It is important to note that the researchers do not influence or encourage the consumption of alcohol; they collect this information from volunteers.
+Field experiments are so named to distinguish them from lab experiments.
+Field experiments have the advantage that observations are made in a natural setting rather than in a human-made laboratory environment.

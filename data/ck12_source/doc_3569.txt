@@ -1,0 +1,20 @@
+Like water flowing through a hole in the dam, hydrogen ions “slide down” their concentration gradient through a membrane protein which acts as both ion channel and enzyme.
+As they flow, the ion channel/enzyme ATP synthase uses their energy to chemically bond a phosphate group to ADP, making ATP.
+(2) Light re-energizes the electrons, and they travel down a second electron transport chain (ETC), eventually bonding hydrogen ions to NADP + to form a more stable energy storage molecule, NADPH .
+NADPH is sometimes called “hot hydrogen,” and its energy and hydrogen atoms will be used to help build sugar in the second stage of photosynthesis.
+The electron transport chain in photosynthesis
+Membrane architecture:
+The large colored carrier molecules form electron transport chains which capture small amounts of energy from excited electrons in order to store it in ATP and NADPH.
+Follow the energy pathways: light → electrons → NADPH (blue line) and light → electrons → concentrated H + → ATP (red line).
+Note the intricate organization of the chloroplast.
+NADPH and ATP molecules now store the energy from excited electrons – energy which was originally sunlight – in chemical bonds.
+Thus chloroplasts, with their orderly arrangement of pigments, enzymes, and electron transport chains, transform light energy into chemical energy.
+The first stage of photosynthesis – light-dependent reactions or simply light reactions – is complete.
+For a detailed discussion of photosynthesis, see (20:16) and
+Click on the image above for more content
+Click on the image above for more content
+The light reactions capture energy from sunlight, which they change to chemical energy that is stored in molecules of NADPH and ATP.
+The light reactions also release oxygen gas as a waste product.
+Use this resource to answer the questions that follow.
+Photosynthesis at  .
+How long does it take solar photons of light to reach Earth?

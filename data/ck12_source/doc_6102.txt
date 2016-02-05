@@ -1,0 +1,20 @@
+It follows that the volume of a gas is directly proportional to the number of moles of gas present in the sample.
+Avogadro’s law states that the volume of a gas is directly proportional to the number of moles of gas when the temperature and pressure are held constant.
+The mathematical expression of Avogadro’s law is
+V=k \times n \quad \text{and} \quad \frac{V_1}{n_1}=\frac{V_2}{n_2}
+where  n is the number of moles of gas and  k is a constant.
+Avogadro’s law is in evidence whenever you blow up a balloon.
+The volume of the balloon increases as you add moles of gas to the balloon by blowing it up.
+If the container holding the gas is rigid rather than flexible, pressure can be substituted for volume in Avogadro’s law.
+Adding gas to a rigid container makes the pressure increase.
+Sample Problem:
+Avogadro’s Law
+A balloon has been filled to a volume of 1.90 L with 0.0920 mol of helium gas.
+If 0.0210 mol of additional helium is added to the balloon while the temperature and pressure are held constant, what is the new volume of the balloon?
+Step 1:
+List the known quantities and plan the problem.
+V_1=1.90 \text{ L}
+n_1=0.0920 \text{ mol}
+n_2=0.0920+0.0210=0.1130 \text{ mol}
+V_2=? \text{ L}
+Note that the final number of moles has to be calculated by adding the original number of moles to the moles of added helium.

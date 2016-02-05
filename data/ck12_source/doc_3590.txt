@@ -1,0 +1,20 @@
+What are the products of the Krebs cycle?
+Explain why two turns of the Krebs cycle are needed for each molecule of glucose.
+Summarize the mitochondrial electron transport chain.
+Identify the products of the Krebs cycle.
+Explain the necessity of oxygen for the mitochondrial electron transport chain.
+Describe a chemiosmotic gradient.
+Explain the synthesis of ATP.
+Train, truck, boat or plane?
+Ways to transport.
+To make ATP, energy must be ‘‘transported’’ - first from glucose to NADH, and then somehow passed to ATP.
+How is this done?
+With an electron transport chain.
+Cellular Respiration Stage III:
+Electron Transport
+Electron transport is the final stage of aerobic respiration.
+In this stage, energy from NADH and FADH 2 , which result from the Krebs cycle, is transferred to ATP.
+Can you predict how this happens? ( Hint:
+How does electron transport occur in photosynthesis?)
+See  for an overview of the electron transport chain.
+High-energy electrons are released from NADH and FADH 2 , and they move along electron transport chains , like those used in photosynthesis.

@@ -1,0 +1,20 @@
+During electron transport, energy is used to pump hydrogen ions across the mitochondrial inner membrane, from the matrix into the intermembrane space.
+A chemiosmotic gradient causes hydrogen ions to flow back across the mitochondrial membrane into the matrix, through ATP synthase, producing ATP.
+See Mitochondria at  for a detailed summary.
+Use this resource to answer the questions that follow.
+Electron Transport Chain at
+What happens as electrons are passed along the ETC from NADH to oxygen?
+What happens as electrons are passed along the ETC from FADH 2 to oxygen?
+What is the significance of the proton gradient within the mitochondria?
+Summarize the overall task of Stage III of aerobic respiration.
+Explain the chemiosmotic gradient.
+What is the maximum number of ATP molecules that can be produced during the electron transport stage of aerobic respiration?
+Explain the benefits of fermentation.
+Distinguish lactic acid fermentation from alcoholic fermentation.
+When you combine grapes and yeast, what have you begun to make?
+Wine.
+It may be slightly more complicated than that, but you need to start with grapes and yeast, and allow a natural fermentation process to occur.
+Essentially, this is respiration without oxygen.
+Anaerobic Respiration:
+Fermentation
+Today, most living things use oxygen to make ATP from glucose.

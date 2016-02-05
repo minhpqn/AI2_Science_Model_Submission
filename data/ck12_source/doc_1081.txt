@@ -1,0 +1,20 @@
+This is called the Mercator projection.
+Imagine wrapping the round, ball-shaped Earth with a big, flat piece of paper.
+First you make a tube or a cylinder.
+The cylinder touches Earth at the Equator.
+The poles are the farthest points from the cylinder.
+Now shine a light from the inside of your model Earth out to the cylinder.
+The image projected onto the paper is a Mercator projection.
+Where does the projection represent Earth best?
+Where is it worst?
+Your map would be most correct at the Equator.
+The shapes and sizes of continents become more stretched out near the poles.
+Early sailors and navigators found the Mercator map useful because most explorations were located near the Equator.
+Many world maps still use the Mercator projection.
+A Mercator projection translates the curved surface of Earth onto a cylinder
+A Mercator projection translates the curved surface of Earth onto a cylinder.
+The Mercator projection is best within 15° north or south of the Equator.
+Landmasses or countries outside that zone get stretched out of shape.
+The further the feature is from the Equator, the more out of shape it is stretched.
+For example, if you look at Greenland on a globe, you see it is a relatively small country near the North Pole.
+But look at the Mercator projection above.

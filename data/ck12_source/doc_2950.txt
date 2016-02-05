@@ -1,0 +1,20 @@
+In each case, the position of something is changing.
+Examples of moving objects
+Q :
+In each picture in the Figure above , what is moving and how is its position changing?
+A :
+The train and all its passengers are speeding straight down a track to the next station.
+The man and his bike are racing along a curving highway.
+The geese are flying over their wetland environment.
+The meteor is shooting through the atmosphere toward Earth, burning up as it goes.
+Frame of Reference
+There’s more to motion than objects simply changing position.
+You’ll see why when you consider the following example.
+Assume that the school bus pictured in the Figure below passes by you as you stand on the sidewalk.
+It’s obvious to you that the bus is moving, but what about to the children inside the bus?
+The bus isn’t moving relative to them, and if they look at the other children sitting on the bus, they won’t appear to be moving either.
+If the ride is really smooth, the children may only be able to tell that the bus is moving by looking out the window and seeing you and the trees whizzing by.
+We perceive motion based on our frame of reference
+This example shows that how we perceive motion depends on our frame of reference.
+Frame of reference refers to something that is not moving with respect to an observer that can be used to detect motion.
+For the children on the bus, if they use other children riding the bus as their frame of reference, they do not appear to be moving.

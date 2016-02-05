@@ -1,0 +1,20 @@
+To transcribe means ‘‘to paraphrase or summarize in writing’’.
+The information in DNA is transcribed - or summarized - into a smaller version - RNA - that can be used by the cell.
+This process is called transcription.
+The process in which cells make proteins is called protein synthesis .
+It actually consists of two processes: transcription and translation .
+Transcription takes place in the nucleus.
+It uses DNA as a template to make an RNA molecule.
+RNA then leaves the nucleus and goes to a ribosome in the cytoplasm, where translation occurs.
+Translation reads the genetic code in mRNA and makes a protein.
+Transcription is the first part of the central dogma of molecular biology:
+DNA → RNA .
+It is the transfer of genetic instructions in DNA to messenger RNA (mRNA).
+During transcription, a strand of mRNA is made that is complementary to a strand of DNA.
+Figure below shows how this occurs.
+You can watch an animation of the process at this link:
+A detailed video about transcription is available at this link:
+Overview of transcription of DNA to mRNA
+Overview of Transcription.
+Transcription uses the sequence of bases in a strand of DNA to make a complementary strand of mRNA.
+Triplets are groups of three successive nucleotide bases in DNA.

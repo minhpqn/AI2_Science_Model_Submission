@@ -1,0 +1,20 @@
+Therefore, every person that has ever lived - except for identical twins - has his or her own unique set of blueprints - or instructions - or DNA.
+Nucleic acids are organic compounds that contain carbon, hydrogen, oxygen, nitrogen, and phosphorus.
+They are made of smaller units called nucleotides .
+Nucleic acids are named for the nucleus of the cell, where some of them are found.
+Nucleic acids are found not only in all living cells but also in viruses.
+Types of nucleic acids include deoxyribonucleic acid (DNA) and ribonucleic acid (RNA) .
+Structure of Nucleic Acids
+A nucleic acid consists of one chain (in RNA) or two chains (in DNA) of nucleotides held together by chemical bonds.
+Each individual nucleotide unit consists of three parts:
+a base (containing nitrogen)
+a sugar (ribose in RNA, deoxyribose in DNA)
+a phosphate group (containing phosphorus)
+The sugar of one nucleotide binds to the phosphate group of the next nucleotide.
+Alternating sugars and phosphate groups form the backbone of a nucleotide chain, as shown in Figure below .
+The bases, which are bound to the sugars, protrude from the backbone of the chain.
+In DNA, pairs of bases-one from each of two nucleotides-form the middle section of the molecule.
+Part of a Nucleic Acid (DNA).
+This small section of a nucleic acid shows how phosphate groups and sugars alternate to form the backbone of a nucleotide chain.
+The bases that jut out to the side from the backbone are adenine, thymine, cytosine, and guanine.
+Hydrogen bonds between complementary bases, such as between adenine and thymine, hold the two chains of nucleotides together.

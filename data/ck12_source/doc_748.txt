@@ -1,0 +1,20 @@
+Electric Current and Circuits
+Define electric current.
+Understand a simple electric circuit.
+Define amperes and watts.
+Describe the conditions that allow current flow.
+Make calculations involving charge and current.
+Photograph of an integrated circuit chip
+You've probably heard of vacuum tubes and large transistors, which were once common in electronics like televisions.
+These individual devices were mounted on large printed circuit boards.
+Then, in 1959, two researchers working independently developed the first integrated circuits.
+These circuits could combine several transistors and resistors into one circuit on one small chip of silicon.
+These chips, like the one pictured above, are used today in virtually every electrical device.
+Electric Current and Circuits
+Remember that it often requires work to force electrons into a specific location.
+If we have two conducting spheres and we have forced excess electrons onto one of the spheres by doing work on the electrons, then that sphere, and those electrons, will have a higher potential energy than those on the uncharged sphere.
+If the two spheres are touched together, electrons will flow from the sphere with excess electrons to the sphere with no excess electrons.
+That is, electrons will flow from the high potential energy position to the lower potential energy position.
+The flow will continue until the electrons on the two spheres have the same potential energy.
+A flow of charged particles such as this is called an electric current.
+It is possible for an electric current to be either a flow of positively charged particles or negatively charged particles.

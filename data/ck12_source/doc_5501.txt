@@ -1,0 +1,20 @@
+Two categories of these sequences are microsatellites and minisatellites.
+Microsatellites , also known as short tandem repeats (STRs) , consist of adjacent repeating units of 2 - 10 bases in length, for example (GATC) n , where GATC is a tetranucleotide (4 base) repeat and n refers to the number of repeats.
+It is the number of repeating units at a given locus that is variable.
+An STR profile can be created for any individual by analyzing a series of STRs ( Figure below ).
+Two unrelated humans will be unlikely to have the same numbers of repeats at a given locus.
+In STR profiling, PCR is used to obtain enough DNA to then detect the number of repeats at 13 specific loci.
+PCR products are separated by gel or capillary electrophoresis. (Capillary electrophoresis is similar to gel electrophoresis but uses a capillary tube filled with the gelatin material.) By examining enough STR loci and counting how many repeats of a specific STR sequence there are at a given locus, it is possible to create a unique genetic profile of an individual.
+STR analysis has become the prevalent analysis method for determining genetic profiles in forensic cases.
+It is possible to establish a match that is extremely unlikely to have arisen by coincidence, except in the case of identical twins, who will have identical genetic profiles.
+The polymorphisms (different in the number of repeats) displayed at each STR region will be shared by approximately 5 - 20% of individuals.
+When analyzing STRs at multiple loci, such as the 13 STRs analyzed in forensic DNA analysis, it is the unique combinations of these polymorphisms in an individual that makes this method unmatched as an identification tool.
+The more STR regions that are analyzed in an individual the more discriminating the test becomes.
+Genetic fingerprinting is used in forensic science to match suspects to samples of blood, hair, saliva or semen, or other sources of DNA.
+It has also led to several exonerations of formerly convicted suspects.
+Genetic fingerprinting is also used for identifying human remains, testing for paternity, matching organ donors, studying populations of wild animals, and establishing the province or composition of foods.
+It has also been used to generate hypotheses on the pattern of human migration.
+In the United States, DNA fingerprint profiles generated from the 13 STR loci are stored in The National DNA Index (NDIS), part of CODIS , The Combined DNA Index System, maintained by the Federal Bureau of Investigation.
+As of June 2012, CODIS maintained over 9.7 million offender profiles, 1.1 million arrestee profiles and 436,000 forensic profiles.
+Profiles maintained in CODIS are compiled from both suspects and evidence, and therefore are used to help solve criminal cases.
+Also as of June 2012, CODIS has produced over 182,200 "hits," assisting in more than 174,600 investigations.

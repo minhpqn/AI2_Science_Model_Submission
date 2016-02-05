@@ -1,0 +1,20 @@
+What four points are marked on the principal axis of a lens?
+A ray of light from the object that passes through the focal point on the same side of the lens as the object will refract
+Under what circumstances will a convex lens form a virtual image?
+An object is placed to the left of a 25 cm focal length convex lens so that its image is the same size as the object.
+Determine the object and image locations.
+A lens is needed to create an inverted image twice as large as the object when the object is 5.00 cm in front of the lens.
+What focal length lens is needed?
+Hint: \frac1{d_i}+\frac1{d_o}=\frac1f
+If you have a convex lens whose focal length is 10.0 cm, where would you place an object in order to produce an image that is virtual?
+Describe how a convex lens could be used to make a magnifying lens.
+Determine the image distance and image height for a 5.00 cm tall object placed 45.0 cm from a double convex lens with a focal length of 15.0 cm.
+Determine the image distance and image height for a 5.00 cm tall object placed 30.0 cm from a double convex lens with a focal length of 15.0 cm.
+Determine the image distance and image height for a 5.00 cm tall object placed 20.0 cm from a double convex lens with a focal length of 15.0 cm.
+Determine the image distance and image height for a 5.00 cm tall object placed 10.0 cm from a double convex lens with a focal length of 15.0 cm.
+convex lens:
+A lens having atleast one surface that curves outward like the exterior of a sphere.
+Images in Double Concave Lenses
+Describe the formation of virtual images by concave lenses.
+Use the lens equation to locate images formed by concave lenses.
+Light rays diverging from a concave lens

@@ -1,0 +1,20 @@
+Scales indicate horizontal distance and are also found on the map legend.
+Interpreting Contour Maps
+How does a topographic map tell you about the terrain?
+Let’s consider the following principles:
+The spacing of contour lines shows the slope of the land .
+Contour lines that are close together indicate a steep slope.
+This is because the elevation changes quickly in a small area.
+Contour lines that seem to touch indicate a very steep slope, like a cliff.
+When contour lines are spaced far apart, the slope is gentle.
+So contour lines help us see the three-dimensional shape of the land.
+Look at the topographic map of Stowe, Vermont ( Figure below ).
+There is a steep hill rising just to the right of the city of Stowe.
+You can tell this because the contour lines there are closely spaced.
+The contour lines also show that the hill has a sharp rise of about 200 feet.
+Then the slope becomes less steep toward the right.
+Closely spaced contour lines on a topographic map indicate a steep slope
+Portion of a USGS topographic map of Stowe, VT.
+Concentric circles indicate a hill .
+Pictured below is another side of the topographic map of Stowe, Vermont ( Figure below ).
+When contour lines form closed loops, there is a hill.

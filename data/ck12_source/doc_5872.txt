@@ -1,0 +1,20 @@
+Ionic and Metallic Bonding
+Electron Dot Diagrams
+Describe the electron dot diagram system of representing structure.
+Draw electron dot diagrams for elements.
+An electron dot diagram is like a football diagram
+How do we show electrons in atoms?
+Diagrams contain a lot of useful information in a compact format.
+What does the diagram above tell us?
+The football play diagrammed above describes the lineup of each player on the team and describes how they will move when the ball is snapped.  Diagrams of electrons give similar information about where certain electrons are.  We can mark these electrons and indicate what happens to them when an element reacts.
+Electron Dot Diagrams
+Recall that the valence electrons of an atom are the electrons located in the highest occupied principal energy level.  Valence electrons are primarily responsible for the chemical properties of elements.  The number of valence electrons can be easily determined from the electron configuration.  Several examples from the second period elements are shown in the Table below .
+1 s 2 2 s 1
+1 valence electron
+1 s 2 2 s 2
+2 valence electrons
+1 s 2 2 s 2 2 p 3
+5 valence electrons
+1 s 2 2 s 2 2 p 6
+8 valence electrons
+In each case, valence electrons are those in the second principal energy level.  As one proceeds left to right across a period, the number of valence electrons increases by one.  In the s block, Group 1 elements have one valence electron, while Group 2 elements have two valence electrons.  In the p block, the number of valence electrons is equal to the group number minus ten.

@@ -1,0 +1,20 @@
+Here is an example in the Northern Hemisphere.
+A plane takes off from City A .
+The pilot wants to land in City B, which is 500 miles due north.
+But the plane will not arrive there without corrections.
+City B was due north of City A when the plane took off.
+But during the time it takes for the airplane to fly 500 miles, City B moves east.
+This happens because of Earth's rotation.
+So if the airplane flies due north, it will arrive at a different city, City C.
+City C is west of City B (in the Northern Hemisphere).
+To reach City B, the pilot should curve right while flying north.
+The opposite happens in the Southern Hemisphere.
+In the flights between cities pictured below ( Figure below ), the flight paths look curved.
+Since a flight path must curve to the right in the Northern Hemisphere, can you tell which city the plane took off from in each case?
+Flight paths look curved due to the Coriolis effect
+The Coriolis effect is the reason that airlines' flight paths look curved, even though they are the shortest possible path.
+Although these flight paths show curves, what's wrong with this picture? (The curves do not all follow the path due to Coriolis.)
+Effect for Air or Water
+As wind or an ocean current moves, the Earth spins underneath it.
+Wind or water that travels toward the poles from the Equator curves to the east.
+Wind or water that travels toward the Equator from the poles curves to the west.

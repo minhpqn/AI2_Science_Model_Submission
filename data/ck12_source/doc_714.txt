@@ -1,0 +1,20 @@
+If we assume that  r 2  is a whole number of wavelengths (confirm for yourself that this is a logical assumption), then  r 1  must be one more wavelength.
+This is because r 1  and r 2 are the distances to the first order fringe.
+Mathematically, we can let
+r_2 = n \lambda  and  r_1 = n \lambda + \lambda , where λ is the wavelength and n  is a constant.
+Using this relationship, we determine that  r_1 - r_2 = \lambda .
+Looking again at the diagram, the red and blue triangles are similar, which means that the ratios of corresponding sides are the same.
+The ratio of x  to L in the red triangle is equal to the ratio of λ to d in the blue triangle.
+For proof of this, visit .
+From this, we can determine that the wavelength is dependent on x, d, and L:
+Example Problem:
+Monochromatic light falls on two narrow slits that are 0.0190 mm apart.
+A first order fringe is 21.1 mm from the central line.
+The screen (back wall) is 0.600 m from the slits.
+What is the wavelength of the light?
+Solution: \lambda=\frac{xd}{L}=\frac{(0.021 \ m)(0.000019 \ m)}{(0.600 \ m)}=6.68 \times 10^{-7} \ m
+The last particle of medium at the back corner of an impenetrable barrier will act as a point source and produce circular waves.
+Diffraction is the bending of waves around a corner.
+Constructive interference occurs when two wave crests overlap, doubling the wave amplitude at that location.
+Destructive interference occurs when a wave crest overlaps with a trough, causing them to cancel out.
+Light is a wave, and creates an interference pattern in the double slit experiment.

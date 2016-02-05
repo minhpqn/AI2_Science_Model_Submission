@@ -1,0 +1,20 @@
+Describe the lariat structure process.
+Define alternative splicing.
+Why do you think it is important?
+The Genetic Code - Advanced
+Explain how the Genetic Code is a three letter code, and describe its role in translating nucleotides into amino acids.
+Explain that a reading frame is the group of three bases in which the mRNA is read, and describe how interrupting the reading frame may have severe consequences on the protein.
+Discuss what is meant by the universal genetic code.
+How do you go from four nucleotide letters to 20 amino acids?
+You need a code.
+And the code that changes the information embedded in DNA and RNA into ordered amino acids and proteins is the genetic code.
+And every living organism uses the same genetic code.
+The Genetic Code
+So how exactly is the language of nucleotides used to code for the language of amino acids?
+How can a code of only As, Cs, Gs, and Us carry information for 20 different amino acids?
+The genetic code is the code in which the language of nucleotides is used to create the language of amino acids.
+Cracking the Code
+A code of at least three letters has to be the answer.
+A one letter code would only be able to code for four amino acids.
+A two letter code could only code for 16 amino acids.
+With a three letter code, there are 64 possibilities.

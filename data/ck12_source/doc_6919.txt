@@ -1,0 +1,20 @@
+Calculate the electric field a distance of 4.0\mathrm{mm} away from a -2.0\mu \mathrm{C} charge.
+Then, calculate the force on a -8.0\mu \mathrm{C} charge placed at this point.
+Answer :
+To calculate the electric field we will use the equation E=\frac{kq}{r^2} Before we solve for the electric field by plugging in the values, we convert all of the values to the same units.
+4.0\mathrm{mm}\times \frac{1\mathrm{m}}{1000\mathrm{mm}}&=.004\mathrm{m}\\\-2.0\mu \mathrm{C}\times \frac{1\mathrm{C}}{1000000\mu \mathrm{C}}&=-2.0\times 10^{-6}\mathrm{C}
+Now that we have consistent units we can solve the problem.
+E=\frac{kq}{r^2}=\frac{9\times 10^9\mathrm{Nm^2/C^2}\times -2.0\times 10^{-6}\mathrm{C}}{(.004\mathrm{m})^2}=-1.1\times 10^9\mathrm{N/C}
+To solve for the force at the point we will use the equation F=Eq .
+We already know all of the values so all we have to do is convert all of the values to the same units and then plug in the values.
+-8.0\mu \mathrm{C}\times \frac{1\mathrm{C}}{1000000\mu \mathrm{C}}=-8.0\times 10^{-6}\mathrm{C}\\\
+F=Eq=-8.0\times 10^{-6}\mathrm{C} \times -1.1 \times 10^9 \mathrm{N/C}=9000\mathrm{N}
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+Electric Field of Dreams (PhET Simulation)
+What is the direction of the electric field if an electron initially at rest begins to move in the North direction as a result of the field?
+Not enough information
+Two metal plates have gained excess electrons in differing amounts through the application of rabbit fur.
+The arrows indicate the direction of the electric field which has resulted.
+Three electric potential lines, labeled A, B, and C are shown.

@@ -1,0 +1,20 @@
+The combined gas law, PV \propto T , is true for a particular sample of gas.
+If any gas is added or allowed to leak out, however, the relationship is lost.
+In order to get a relationship that is true for any sample of gas, it is necessary to incorporate a term for the amount of gas.
+From observations as simple as blowing up a balloon, it is clear that increasing the amount of gas increases the volume.
+Because different gases have different weights per molecule, including a term for mass of gas does not produce a consistent equation.
+If, however, we include a term expressing the number of moles of gas rather than its mass, we can produce a constant proportionality.
+A mole is a unit representing the number of atoms present.
+The letter  n is used to represent the moles of substance.
+Incorporating  n into the equation yields  PV \propto nT .
+If we insert a letter, R , to represent the constant of proportionality, we get the normal form of the universal gas law , PV = nRT .
+The unit term for  n is always moles and T is always in Kelvin.
+The units for pressure and volume, however, may vary.
+The value of  R depends on the units that are used for pressure and volume.
+Values of the Universal Gas Law Constant, R
+Units for  \underline{n}
+Units for  \underline{T}
+Value of  \underline{R}
+Since the product of (liters)(atm) can be converted to joules, we also have a value for  R where liters × atm have been converted to joules, R = 8.314 \ \text{J/mol} \cdot \text{K} .  The two common values of the universal gas law constant R are 0.0821 \ \text{L} \cdot \text{atm/mol} \cdot \text{K} and 8.314 \ \text{J/mol} \cdot \text{K} .
+Most universal gas law problems are calculated at STP.
+STP stands for standard temperature and pressure,  which is the most commonly calculated temperature and pressure value.

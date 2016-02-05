@@ -1,0 +1,20 @@
+Q:
+Can you think of other electronic devices that you use?
+A:
+Other examples include game systems and MP3 players.
+Focus on the Computer
+Let’s take a close look at the computer as an example of an electronic device.
+A computer contains integrated circuits, or microchips, that consist of millions of tiny electronic components.
+Information is encoded in digital electronic signals.
+Rapid pulses of voltage switch electric current on and off, producing long strings of 1’s (current on) and 0’s (current off).
+The 1’s and 0’s are the “letters” of the code, and a huge number of them are needed.
+One digit (either 0 or 1) is called a bit, which stands for “binary digit.” Each group of eight digits is called a byte, and a billion bytes is called a gigabyte.
+Because a computer’s circuits are so tiny and close together, the computer can be very fast and capable of many complex tasks while remaining small.
+The parts of a computer that transmit, process, or store digital signals are pictured and described in the Figure below .
+They include the CPU, hard drive, ROM, and RAM.
+The motherboard ties all these parts of the computer together.
+Parts of a computer
+The CPU, or central processing unit, carries out program instructions.
+You can learn more about CPUs and how they work by watching the video at this URL:
+Click on the image above for more content
+The hard drive is a magnetic disc that provides long-term storage for programs and data.

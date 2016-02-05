@@ -1,0 +1,20 @@
+Understand why an electromagnet has a stronger magnetic field than a solenoid.
+An electric powered Tesla
+One of the most famous electric car companies is Tesla, named after Nikola Tesla.
+These electric cars, and all others, require an electromagnet to run the engine.
+A long coil of wire consisting of many loops of wire and making a complete circuit is called a solenoid .
+The magnetic field within a solenoid can be quite large since it is the sum of the fields due to the current in each individual loop.
+Diagram of the magnetic field of a solenoid
+The magnetic field around the wire is determined by a hand rule.
+Since this description doesn’t mention electron flow, we must assume that the current indicated by I is conventional current (positive).
+Therefore, we would use a right hand rule.
+We grasp a section of wire with our right hand pointing the thumb in the direction of the current flow and our fingers will curl around the wire in the direction of the magnetic field.
+Therefore, the field points down the cavity in these loops from right to left as shown in the sketch.
+If a piece of iron is placed inside the coil of wire, the magnetic field is greatly increased because the domains of the iron are aligned by the magnetic field of the current.
+The resulting magnetic field is hundreds of time stronger than the field from the current alone.
+This arrangement is called an electromagnet .
+The picture below shows an electromagnet with an iron bar inside a coil.
+Electromagnet formed by a wire wrapped around an iron core
+Our knowledge of electromagnets developed from a series of observations.
+In 1820, Hans Oersted discovered that a current-carrying wire produced a magnetic field.
+Later in the same year, André-Marie Ampere discovered that a coil of wire acted like a permanent magnet and François Arago found that an iron bar could be magnetized by putting it inside of a coil of current-carrying wire.

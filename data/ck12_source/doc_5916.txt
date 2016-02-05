@@ -1,0 +1,20 @@
+Lone pair electrons in SF 4 .
+The sulfur atom has five electron groups around it, which corresponds to the trigonal bipyramidal domain geometry, as in PCl 5 (see Figure below ).  Recall that the trigonal bipyramidal geometry has three equatorial atoms and two axial atoms attached to the central atom.
+Because of the greater repulsion of a lone pair, it is one of the equatorial atoms that are replaced by a lone pair.  The geometry of the molecule is called a distorted tetrahedron or seesaw.
+Sulfur tetrafluoride has a seesaw shape
+Ball and stick model for SF 4 .
+Geometries in Which the Central Atom Has One or More Lone Pairs
+Total Number of Electron Pairs
+Number of Bonding Pairs
+Number of Lone Pairs
+Electron Domain Geometry
+H 2 O
+distorted tetrahedron (seesaw)
+I 3 -
+The presence of lone pair electrons influences the three-dimensional shape of the molecule.
+Use the link below to answer the following questions:
+What is the general principle in dealing with molecules containing more than four electron pairs?
+In the picture with five electron pairs around the central atom, why is the arrangement on the right preferred?
+In the picture with six electron pairs, why is the configuration with the lone pairs at 180 o to each other more stable?
+Why does water have a bent geometry?
+Why is ammonia not a planar molecule?

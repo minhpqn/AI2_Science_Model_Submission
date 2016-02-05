@@ -1,0 +1,20 @@
+Mutation that results in the gene product or protein having a new and abnormal function.
+growth factor :
+A naturally occurring substance capable of stimulating cellular growth, proliferation and cellular differentiation.
+GTPase :
+A large family of hydrolase enzymes that can bind and hydrolyze guanosine triphosphate (GTP) to guanosine diphosphate (GDP).
+kinase :
+A type of enzyme that transfers phosphate groups from high-energy donor molecules, such as ATP, to specific substrates, a process known as phosphorylation.
+loss-of-function mutation :
+Mutation that results in a gene product or protein having less or no function.
+oncogene :
+Cancer promoting gene; the products of these genes result in uncontrolled cell growth and division, protection against programmed cell death, loss of respect for normal tissue boundaries, and the ability to become established in diverse tissue environments.
+proto-oncogene :
+Gene whose product promotes cell growth and mitosis prior to cell division; normal gene within all cells; becomes an oncogene when mutated.
+transcription factor :
+A protein involved in regulating gene expression; usually bound to a cis-regulatory element on the DNA; also known as a regulatory protein or a trans-acting factor.
+tumor suppressor gene :
+Gene whose product temporarily discourage cell growth and division to allow cells to finish routine functions, especially DNA repair.
+Nearly all cancers are caused by mutations in the DNA of the abnormal cells.
+In non-cancerous cells, proto-oncogenes promote cell growth and mitosis prior to cell division; thus, proto-oncogenes encode proteins needed for normal cellular functions.
+In non-cancerous cells, tumor suppressor genes temporarily discourage cell growth and division to allow cells to finish routine functions, especially DNA repair.

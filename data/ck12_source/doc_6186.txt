@@ -1,0 +1,20 @@
+Although the presence of solutes raises boiling point, this amount is not necessarily very large
+Does adding salt help water boil?
+Salt is often added to boiling water when preparing spaghetti or other pasta.
+One reason is to add flavor to the food.
+Some people believe that the addition of salt increases the boiling point of the water.
+Technically, they are correct, but the increase is rather small.
+You would need to add over 100 grams of NaCl to a liter of water to increase the boiling point a couple of degrees, which is just not healthy.
+Boiling Point Elevation
+The Figure below shows the phase diagram of a solution and the effect that the lowered vapor pressure has on the boiling point of the solution compared to the solvent.
+In this case, the solution has a higher boiling point than the pure solvent.
+Since the vapor pressure of the solution is lower, more heat must be supplied to the solution to bring its vapor pressure up to the pressure of the external atmosphere.
+The boiling point elevation is the difference in temperature between the boiling point of the pure solvent and that of the solution.
+On the graph, the boiling point elevation is represented by \Delta T_b .
+The presence of solute causes an increase in boiling point by decreasing vapor pressure
+The lowering of the vapor pressure in a solution causes the boiling point of the solution to be higher than that of the pure solvent.
+The magnitude of the boiling point elevation is also directly proportional to the molality of the solution.
+The equation is:
+\Delta T_b=K_b \times m
+The proportionality constant, K_b , is called the molal boiling-point elevation constant.
+It is a constant that is equal to the change in the boiling point for a 1-molal solution of a nonvolatile molecular solute.

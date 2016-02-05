@@ -1,0 +1,20 @@
+Conversely, moving two like charges apart will decrease the potential energy.
+If the objects attract each other, the opposite situtations occur: if you pull them apart, you do work against the force, which increases the potential energy of the system, but bringing attractive charges closer together decreases the potential energy.
+It is often easy to think of the change in energy as a mountain or an inverted cone, depending on the situation.
+Imagine a positive point charge, with the corresponding electric field around it.
+If you are moving another positive point charge, the situation is like a mountain, with the original point charge at the peak.
+As the second charge moves towards the first, it must go up the mountain.
+This requires work, and increases the potential energy of the system.
+If, however, the second charge is a negative point charge, the two charges attract each other and the situation is like a cone: the second charge easily falls towards the first, decreasing the potential energy.
+It would then require work to get the second charge up and out of the cone, away from the first charge.
+Uniform Electric Fields
+As we know from Coulomb's law, the electric field around a point charge decreases as the distance from the point increases.
+However, it is possible to create a constant electric field between two large, flat conducting plates parallel to each other.
+If one of the plates is positively charged and the other negatively charged, the space between the plates will have a constant electric field except near the edges of the plates.
+Diagram of a uniform electric field created from two uniformly charged plates
+A uniform electric field makes it easier to measure the difference in electric potential energy.
+This energy, also called the electric potential difference  is commonly referred to as the voltage , based on the unit, volt (V).
+To measure the voltage across some distance, it is necessary to pick a position to be the relative zero, because voltage is the change in potential difference.
+Any point in a system can be given the value of zero volts, but it is typically the point of a point charge or one plate in a uniform electric field as shown above.
+The voltage is measured using a voltmeter,  which measures the electric potential difference across two points.
+The electrical potential difference between the two plates is expressed as V = Ed , the electric field strength times the distance between the plates.

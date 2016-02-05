@@ -1,0 +1,20 @@
+Don’t breathe too deeply.
+Venus (pictured above) is the planet nearest to us, but has a very different and hostile environment.
+It has a surface temperature that averages around 450°C.
+The atmosphere is composed of carbon dioxide, but clouds of sulfuric acid move through the upper atmosphere, helping to create the extremely unfriendly conditions.
+Because of these conditions, Venus is not a place you want to visit on vacation.
+Swedish chemist Svante Arrhenius (1859-1927) was the first to propose a theory to explain the observed behavior of acids and bases.
+Because of their ability to conduct a current, he knew that both acids and bases contained ions in solution.
+An Arrhenius acid is a compound, which ionizes to yield hydrogen ions (H + ) in aqueous solution.
+Acids are molecular compounds with ionizable hydrogen atoms.
+Only hydrogen atoms that are part of a highly polar covalent bond are ionizable.
+Hydrogen chloride (HCl) is a gas at room temperature and under normal pressure.
+The H-Cl bond in hydrogen chloride is a polar bond.
+The hydrogen atom is electron deficient because of the higher electronegativity of the chlorine atom.
+Consequently, the hydrogen atom is attracted to the lone pair of electrons in a water molecule when HCl is dissolved in water.
+The result is that the H-Cl bond breaks, with both bonding electrons remaining with the Cl, forming a chloride ion.
+The H + ion attaches to the water molecule, forming a polyatomic ion called the hydronium ion.
+The hydronium ion (H 3 O + ) can be thought of as a water molecule with an attached hydrogen ion.
+Hydrochloric acid ionizes to create hydronium ions in water
+Formation of a hydronium ion.
+Equations showing the ionization of an acid in water are frequently simplified by omitting the water molecule:

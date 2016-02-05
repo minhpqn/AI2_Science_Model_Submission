@@ -1,0 +1,20 @@
+Diagram of increasing energies in atomic sublevels
+Electrons are added to atomic orbitals in order from low energy (bottom of graph) to high (top of graph) according to the Aufbau principle.
+Principal energy levels are color coded, while sublevels are grouped together and each circle represents an orbital capable of holding two electrons.
+The lowest energy sublevel is always the 1 s sublevel, which consists of one orbital.
+The single electron of the hydrogen atom will occupy the 1 s orbital when the atom is in its ground state.
+As we proceed with atoms with multiple electrons, those electrons are added to the next lowest sublevel: 2 s , 2 p , 3 s , and so on.
+The Aufbau principle states that an electron occupies orbitals in order from lowest energy to highest.
+The Aufbau (German: “building up, construction”) principle is sometimes referred to as the “building-up” principle.
+It is worth noting that in reality atoms are not built by adding protons and electrons one at a time and that this method is merely an aid for us to understand the end result.
+As seen in the Figure above , the energies of the sublevels in different principal energy levels eventually begin to overlap.
+After the 3 p sublevel, it would seem logical that the 3 d sublevel should be the next lowest in energy.
+However, the 4 s sublevel is slightly lower in energy than the 3 d sublevel and thus fills first.
+Following the filling of the 3 d sublevel is the 4 p , then the 5 s and the 4 d .
+Note that the 4 f sublevel does not fill until just after the 6 s sublevel.
+The Figure below is a useful and simple aid for keeping track of the order of fill of the atomic sublevels.
+The diagonal rule for electron filling order
+The Aufbau principle is illustrated in the diagram by following each red arrow in order from top to bottom: 1s, 2s, 2p, 3s, etc.
+The Aufbau principle gives the order of electron filling in an atom.
+It can be used to describe the locations and energy levels of every electron in a given atom.
+Use the link below to answer the following questions:

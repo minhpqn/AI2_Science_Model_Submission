@@ -1,0 +1,20 @@
+To explore specific noble gases, click on their symbols in the periodic table at this URL:  .
+The periodic table
+Q:
+Based on their position in the periodic table ( Figure above ), how many valence electrons do you think noble gases have?
+A:
+The number of valence electrons starts at one for elements in group It then increases by one from left to right across each period (row) of the periodic table for groups 1–2 and 13–18.
+Therefore, noble gases have eight valence electrons.
+Chemical Properties of Noble Gases
+Noble gases are the least reactive of all known elements.
+That’s because with eight valence electrons, their outer energy levels are full.
+The only exception is helium, which has just two electrons.
+But helium also has a full outer energy level, because its only energy level (energy level 1) can hold a maximum of two electrons.
+A full outer energy level is the most stable arrangement of electrons.
+As a result, noble gases cannot become more stable by reacting with other elements and gaining or losing valence electrons.
+Therefore, noble gases are rarely involved in chemical reactions and almost never form compounds with other elements.
+Noble Gases and the Octet Rule
+Because the noble gases are the least reactive of all elements, their eight valence electrons are used as the standard for nonreactivity and to explain how other elements interact.
+This is stated as the octet (“group of eight”) rule.
+According to this rule, atoms react to form compounds that allow them to have a group of eight valence electrons like the noble gases.
+For example, sodium (with one valence electron) reacts with chlorine (with seven valence electrons) to form the stable compound sodium chloride (table salt).

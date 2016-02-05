@@ -1,0 +1,20 @@
+If instead the hydrochloric acid was reacted with barium hydroxide, the mole ratio would be 2:1.
+2\text{HCl}(aq)+\text{Ba}(\text{OH})_2(aq) \rightarrow \text{BaCl}_2(aq)+2\text{H}_2\text{O}(l)
+Now two moles of HCl would be required to neutralize one mole of Ba(OH) 2 .
+The mole ratio insures that the number of moles of H + ions supplied by the acid is equal to the number of OH − ions supplied by the base.
+This must be the case for neutralization to occur.
+The equivalence point is the point in a neutralization reaction where the number of moles of hydrogen ions is equal to the number of moles of hydroxide ions.
+In the laboratory, it is useful to have an experiment where the unknown concentration of an acid or a base can be determined.
+This can be accomplished by performing a controlled neutralization reaction.
+A titration is an experiment where a volume of a solution of known concentration is added to a volume of another solution in order to determine its concentration.
+Many titrations are acid-base neutralization reactions, though other types of titrations can also be performed.
+In order to perform an acid-base titration, the chemist must have a way to visually detect that the neutralization reaction has occurred.
+An indicator is a substance that has a distinctly different color when in an acidic or basic solution.
+A commonly used indicator for strong acid-strong base titrations is phenolphthalein.
+Solutions in which a few drops of phenolphthalein have been added turn from colorless to brilliant pink as the solution turns from acidic to basic.
+The steps in a titration reaction are outlined below.
+A measured volume of an acid of unknown concentration is added to an Erlenmeyer flask.
+Several drops of an indicator are added to the acid and mixed by swirling the flask.
+A buret is filled with the base solution of known molarity.
+The stopcock of the buret is opened and base is slowly added to the acid while the flask is constantly swirled to insure mixing.
+The stopcock is closed at the exact point at which the indicator just changes color.

@@ -1,0 +1,20 @@
+Dietary proteins are broken down into their component amino acids when food is digested.
+Cells can then use the components to build new proteins.
+Humans are able to synthesize all but nine of the twenty common amino acids.
+These nine amino acids, called essential amino acids , must be consumed in foods.
+Like dietary carbohydrates and lipids, dietary proteins can also be broken down to provide cells with energy.
+The amino acids regarded as essential for humans are phenylalanine, valine, threonine, tryptophan, isoleucine, methionine, leucine, lysine, and histidine.
+Additionally, cysteine, tyrosine and arginine are required by infants and growing children.
+In addition, certain amino acids (arginine, cysteine, glycine, glutamine, histidine, proline, serine and tyrosine) are considered conditionally essential, meaning they are not normally required in the diet, but must be supplied to specific populations that do not synthesize them in adequate amounts.
+An example would be with the disease phenylketonuria (PKU) .
+Individuals with PKU must keep their intake of phenylalanine extremely low to prevent mental retardation and other metabolic complications.
+However, they cannot synthesize tyrosine from phenylalanine, so tyrosine becomes essential in the diet of PKU patients.
+PKU can be easily detected with a simple blood test.
+All states in the US require a PKU screening test for all newborns as part of the newborn screening panel.
+These individuals are placed on a special diet as soon as the disease is detected, a diet that is extremely low in phenylalanine, particularly when the child is growing.
+The diet must be strictly followed.
+Those who continue the diet into adulthood have better physical and mental health.
+Maintaining the diet for life has become the standard recommended by most experts.
+amino acid :
+Small molecule that is a building block of proteins; the monomer of a polypeptide.
+antibody :

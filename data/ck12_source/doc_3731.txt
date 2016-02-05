@@ -1,0 +1,20 @@
+You must translate.
+To go from one language to another.
+Spanish to English, French to German, or nucleotides to amino acids.
+Which type is the translation of molecular biology?
+Obviously, the type of translating discussed here translates from the language of nucleotides to the language of amino acids.
+Translation is the second part of the central dogma of molecular biology:
+RNA → Protein .
+It is the process in which the genetic code in mRNA is read, one codon at a time, to make a protein.
+Figure below shows how this happens.
+After mRNA leaves the nucleus, it moves to a ribosome , which consists of rRNA and proteins.
+The ribosome reads the sequence of codons in mRNA.
+Molecules of tRNA bring amino acids to the ribosome in the correct sequence.
+DNA transcription to mRNA, which translates to a chain of amino acids at a ribosome
+Translation of the codons in mRNA to a chain of amino acids occurs at a ribosome.
+Notice the growing amino acid chain attached to the tRNAs and ribosome.
+Find the different types of RNA in the diagram.
+What are their roles in translation?
+To understand the role of tRNA, you need to know more about its structure.
+Each tRNA molecule has an anticodon for the amino acid it carries.
+An anticodon is a sequence of 3 bases, and is complementary to the codon for an amino acid.

@@ -1,0 +1,20 @@
+The arrows representing the force applied by the break cylinder are larger than the arrow representing the force applied by the brake pedal mechanism.
+A larger arrow indicates greater force.
+Q :
+How do hydraulic brakes increase the force that is applied to the brake shoes?
+A :
+The pressure exerted by the fluid on the brake shoes is applied over a larger area.
+When pressure acts over a larger area, it increases the force (Force = Pressure × Area).
+Hydraulic car lifts also use fluid to transmit pressure and increase force.
+The lifts are used to raise cars, which are very heavy, so mechanics can work on them from underneath.
+Controls in airplanes use fluids to transmit pressure and increase force so a flick of a switch can raise or lower heavy landing gear.
+To see animations of hydraulic systems such as these, go to URLs:
+For a dramatic demonstration of the use of hydraulics to increase force, watch Bill Nye the Science Guy at this URL:
+Click on the image above for more content
+Pascal’s law states that a change in pressure at any point in an enclosed fluid is transmitted equally throughout the fluid.
+The ability of fluids to transmit pressure in this way can be very useful—from getting toothpaste out of a tube to applying the brakes on a car.
+At the following URL, read how a hydraulic car lift works and do the animation.
+Then answer the questions below.
+How does force change in a hydraulic lift?
+In the animation of the lift, what happens when you add mass to the small cylinder?
+Explain how a hydraulic lift can raise an object as heavy as a car.

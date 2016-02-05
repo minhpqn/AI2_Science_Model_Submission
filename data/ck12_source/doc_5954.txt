@@ -1,0 +1,20 @@
+86.5 L H 2
+1 mol = 22.4 L
+moles of H 2
+Apply a conversion factor to convert from liters to moles.
+Step 2:
+Calculate.
+86.5 \ \text{L H}_2 \times \frac{1 \ \text{mol H}_2}{22.4 \ \text{L H}_2}=3.86 \ \text{mol H}_2
+Step 3:
+Think about your result.
+The volume of gas produced is nearly four times larger than the molar volume.  The fact that the gas is hydrogen plays no role in the calculation.
+Sample Problem Two:
+Converting Moles to Gas Volume
+What volume does 4.96 moles of O 2 occupy at STP?
+Step 1:
+List the known quantities and plan the problem.
+4.96 moles O 2
+1 mol = 22.4 L
+volume of O 2
+Step 2:  Calculate.
+4.96 \ \text{moles} \times \ \ {22.4 \ \text{liters/mole}}=111.1 \ \text{liters}

@@ -1,0 +1,20 @@
+Write the balanced chemical equation for the combination reaction of potassium with oxygen.
+Step 1:
+Plan the problem
+Make sure formulas of all reactants and products are correct before balancing the equation.
+Oxygen gas is a diatomic molecule.
+Potassium oxide is an ionic compound and so its formula is constructed by the crisscross method.
+Potassium as an ion becomes K + , while the oxide ion is O 2− .
+Step 2:
+Solve
+The skeleton (unbalanced) equation:
+K(s)+O_2(g) \rightarrow K_2O(s)
+The equation is then easily balanced with coefficients.
+4\text{K}(s)+\text{O}_2(g) \rightarrow 2\text{K}_2\text{O}(s)
+Step 3:
+Think about your result
+Formulas are correct and the resulting combination reaction is balanced.
+Combination reactions can also take place when an element reacts with a compound to form a new compound composed of a larger number of atoms.
+Carbon monoxide reacts with oxygen to form carbon dioxide according to the equation:
+2\text{CO}(g)+\text{O}_2(g) \rightarrow 2\text{CO}_2(g)
+Two compounds may also react to from a more complex compound.

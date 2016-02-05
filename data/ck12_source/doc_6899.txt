@@ -1,0 +1,20 @@
+Constructive interference occurs when two waves combine to create a larger wave.
+This occurs when the peaks of two waves line up.
+Destructive interference occurs when two waves combine and cancel each other out.
+This occurs when a peak in one wave lines up with a trough in the other wave.
+When waves of two different frequencies interfere, a phenomenon known as beating occurs.
+The frequency of a beat is the difference of the two frequencies.
+You want to find out the frequency of a tuning fork.
+When you strike the unknown fork and a fork which is known to create a sound at 100 Hz at the same time, you hear a beat frequency of 3 Hz.
+You strike the unknown fork a second time, but this time with a tuning fork rated for 105 Hz and you hear a beat frequency of 2 Hz.
+What is the frequency of the unknown fork?
+Each test gives us two possibilities for a frequency.
+Based on the first test, the unknown fork could either be rated for 97 Hz or 103 Hz.
+Based on the second test, the frequency of the unknown fork could either be 103 Hz or 107 Hz.
+The two tests agree on 103 Hz, so that must be the frequency of the unknown tuning fork.
+Watch this Explanation
+Click on the image above for more content
+At the Sunday drum circle in Golden Gate Park, an Indian princess is striking her drum at a frequency of 2 Hz.
+You would like to hit your drum at another frequency, so that the sound of your drum and the sound of her drum “beat” together at a frequency of 0.1 Hz.
+What frequencies could you choose?
+You and your friend play the same note.

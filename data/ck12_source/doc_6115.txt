@@ -1,0 +1,20 @@
+Define partial pressure.
+State Dalton’s law of partial pressures.
+Use this law to calculate pressures of gas mixtures.
+Venus has a high partial pressure of carbon dioxide and nitrogen
+Is there oxygen available on Venus?
+The atmosphere of Venus is markedly different from that of Earth.
+The gases in the Venusian atmosphere are 96.5% carbon dioxide and 3% nitrogen.
+The atmospheric pressure on Venus is roughly 92 times that of Earth, so the amount of nitrogen on Venus would contribute a pressure well over 2700 mm Hg.
+And there is no oxygen present, so we couldn’t breathe there.
+Not that we would want to go to Venus – the surface temperature is usually over 460°C.
+Dalton’s Law of Partial Pressures
+Gas pressure results from collisions between gas particles and the inside walls of their container.
+If more gas is added to a rigid container, the gas pressure increases.
+The identities of the two gases do not matter.
+John Dalton, the English chemist who proposed the atomic theory, also studied mixtures of gases.
+He found that each gas in a mixture exerts a pressure independently of every other gas in the mixture.
+For example, our atmosphere is composed of about 78% nitrogen and 21% oxygen, with smaller amounts of several other gases making up the rest.
+Since nitrogen makes up 78% of the gas particles in a given sample of air, it exerts 78% of the pressure.
+If the overall atmospheric pressure is 1.00 atm, then the pressure of just the nitrogen in the air is 0.78 atm.
+The pressure of the oxygen in the air is 0.21 atm.

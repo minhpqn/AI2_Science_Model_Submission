@@ -1,0 +1,20 @@
+Take the quiz at the following URL and then check your answers.
+Compare and contrast series and parallel circuits.
+Create a sketch of a parallel circuit that contains a voltage source and two light bulbs.
+Electric Power and Electrical Energy Use
+Explain how to calculate the electric power of an appliance.
+Identify the SI unit for power, including electric power.
+Show how to calculate the electrical energy used by an appliance.
+Miranda has to use a hair dryer in order to dry her long hair quickly enough to get to school on time.
+She has a powerful hair dryer that dries her hair faster than a less powerful hair dryer would.
+That’s because a more powerful hair dryer changes electric current to thermal energy more quickly.
+The rate at which a device changes electric current to another form of energy is called electric power .
+The SI unit for power—including electric power—is the watt.
+A watt equals 1 joule of energy per second.
+High wattages are often expressed in kilowatts, where 1 kilowatt equals 1000 watts.
+The power of an electric device, such as a hair dryer, can be calculated if you know the voltage of the circuit and how much current the device receives.
+The following equation is used:
+Power (watts) = Current (amps) × Voltage (volts)
+Assume that Miranda’s hair dryer is the only electric device in a 120-volt circuit that carries 15 amps of current.
+Then the power of her hair dryer in kilowatts is:
+Power = 15 amps × 120 volts = 1800 watts, or 1.8 kilowatts

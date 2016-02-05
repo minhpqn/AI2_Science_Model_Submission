@@ -1,0 +1,20 @@
+Cells placed in a hypotonic solution will take in water across their membrane until both the external solution and the cytosol are isotonic.
+A cell that does not have a rigid cell wall (such as a red blood cell), will swell and lyse (burst) when placed in a hypotonic solution.
+Cells with a cell wall will swell when placed in a hypotonic solution, but once the cell is turgid (firm), the tough cell wall prevents any more water from entering the cell.
+When placed in a hypertonic solution, a cell without a cell wall will lose water to the environment, shrivel, and probably die.
+In a hypertonic solution, a cell with a cell wall will lose water too.
+The plasma membrane pulls away from the cell wall as it shrivels, a process called plasmolysis.
+Animal cells tend to do best in an isotonic environment, plant cells tend to do best in a hypotonic environment.
+This is demonstrated in Figure below .
+Unless an animal cell (such as the red blood cell in the top panel) has an adaptation that allows it to alter the osmotic uptake of water, it will lose too much water and shrivel up in a hypertonic environment.
+If placed in a hypotonic solution, water molecules will enter the cell causing it to swell and burst.
+Plant cells (bottom panel) become plasmolyzed in a hypertonic solution, but tend to do best in a hypotonic environment.
+Water is stored in the central vacuole of the plant cell.
+When water moves into a cell by osmosis, osmotic pressure may build up inside the cell.
+If a cell has a cell wall, the wall helps maintain the cell’s water balance.
+Osmotic pressure is the main cause of support in many plants.
+When a plant cell is in a hypotonic environment, the osmotic entry of water raises the turgor pressure exerted against the cell wall until the pressure prevents more water from coming into the cell.
+At this point the plant cell is turgid ( Figure below ).
+The effects of osmotic pressures on plant cells are shown in Figure above .
+The central vacuoles of the plant cells in this image are full of water, so the cells are turgid.
+Osmosis can be seen very effectively when potato slices are added to a high concentration of salt solution (hypertonic).

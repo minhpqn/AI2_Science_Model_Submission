@@ -1,0 +1,20 @@
+In eukaryotic cells, the transcription of the polyadenylation signals indicates the termination of the process.
+The mRNA transcript is then cut off of the RNA polymerase and freed from the DNA.
+The cleavage site is characterized by the presence of the sequence AAUAAA near the end of the transcribed message.
+Polyadenylation then occurs.
+Polyadenylation is the addition of a poly(A) tail to the 3’-end of the mRNA.
+The poly(A) tail may consist of as many as 80 to 250 adenosine residues.
+The poly(A) tail protects the mRNA from degradation by exonucleases.
+Poladenylation is also important for transcription termination, export of the mRNA from the nucleus, and translation.
+For an animation on RNA polyadenylation, see
+5’ cap :
+A modified guanine nucleotide added to the 5’-end of the pre-mRNA; crucial for recognition and proper attachment of the mRNA to the ribosome.
+alternative splicing :
+Process by which pre-mRNA messages can be spliced in several different configurations, allowing a single gene to encode multiple proteins.
+editing :
+The process of changing the nucleotide sequence of an mRNA to allow the mRNA to produce multiple proteins.
+exon :
+The region of a gene that contains the code for producing a protein.
+intron :
+Long region of DNA that has no identified function; separates exons.
+lariat :

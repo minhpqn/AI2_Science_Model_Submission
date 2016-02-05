@@ -1,0 +1,20 @@
+Assume that you have walked across a wool carpet in rubber-soled shoes and become negatively charged.
+If you then reach out to touch a metal doorknob, electrons in the neutral metal will be repelled and move away from your hand before you even touch the knob.
+In this way, one end of the doorknob becomes positively charged and the other end becomes negatively charged.
+This is called polarization.
+Polarization occurs whenever electrons within a neutral object move because of the electric field of a nearby charged object.
+It occurs without direct contact between the two objects.
+The Figure below models how polarization occurs.
+Objects can get polarized when charged objects are nearby
+Q:
+What happens when the negatively charged plastic rod in the diagram is placed close to the neutral metal plate?
+A:
+Electrons in the plate are repelled by the positive charges in the rod.
+The electrons move away from the rod, causing one side of the plate to become positively charged and the other side to become negatively charged.
+Did you ever rub an inflated balloon against your hair?
+You can see what happens in the Figure below .
+Friction between the balloon and hair cause electrons from the hair to “rub off” on the balloon.
+That’s because a balloon attracts electrons more strongly than hair does.
+After the transfer of electrons, the balloon becomes negatively charged and the hair becomes positively charged.
+The individual hairs push away from each other and stand on end because like charges repel each other.
+The balloon and the hair attract each other because opposite charges attract.

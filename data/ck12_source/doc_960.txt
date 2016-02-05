@@ -1,0 +1,20 @@
+According to classical mechanics, a charged particle being accelerated (speeding up, slowing down, or turning a corner) would always emit electromagnetic radiation.
+That means that an orbiting electron would constantly emit energy and thus move closer to the nucleus until eventually it would collapse into the nucleus.
+Clearly this doesn’t happen and thus it opposes the idea that electrons move like planets.
+The second problem was that atoms gain energy (in the form of heat or light) and re-emit the energy in an exact set of light frequencies.
+The magnitude of the energy involved in this light emission is too small to be involved with nuclear changes and therefore, the electron configuration must be responsible for the light emission by atoms.
+The planetary model offered no explanation for the light spectrum of atoms.
+Illustration of the emission spectrum of hydrogen
+A major clue to the electron arrangement in an atom came from studying the light emitted by atoms.
+When electricity is passed through gaseous atoms, the atoms emit a spectrum of light that is specific for that element.
+The hydrogen atom, for example, emits a pinkish light but when that light is passed through a prism, we see a very few frequencies of light that are quite specific for hydrogen.
+The energies of these light frequencies is much too small to be involved in the nucleus of atoms, therefore, any explanation of these wavelengths would have to involve the electron arrangement in atoms.
+The Bohr Model of the Atom
+Niels Bohr attempted to join the nuclear model of the atom with Einstein’s quantum theory of light and with his own idea of electron energy levels to explain the electron arrangement within the atom.
+Bohr started with the planetary model of electron arrangement but postulated that electrons in stable orbits would not radiate energy even though the electrons were being accelerated by traveling in circular paths.
+Bohr hypothesized that the electrons were organized into stepwise energy levels within the electron cloud and only radiated energy when the electrons moved from one energy level to another.
+Bohr’s hypothesis suggested that the energy of atomic electrons came in packages and only whole packages could be absorbed or emitted.
+This quantization of energy allowed electrons to only absorb or emit exact amounts of energy to move from one energy level to another.
+The quantization of energy is not apparent in everyday experience.
+If we could observe molecular sized automobiles traveling down miniature roads, we would see cars traveling at 7 miles per hour, or 14 miles per hour, or 21 miles per hour, but never at 9 or 17 miles per hour.
+The quantization of energy means that energy comes in packages and when energy is added to an object, whole packets of energy must be added.

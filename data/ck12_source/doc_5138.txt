@@ -1,0 +1,20 @@
+Upon fertilization a diploid zygote is formed.
+In humans, a zygote has 46 chromosomes, 23 inherited from each parent.
+The gametes, sperm and eggs, are haploid cells, with 23 chromosomes each.
+In humans, each set of chromosomes contains 22 autosomes and 1 sex chromosome .
+Autosomes are chromosomes that are not directly involved in determining the sex of an individual.
+The sex chromosomes contain genes that determine the sex of an individual.
+Whereas autosomes are found as homologous pairs in somatic cells, sex chromosomes come in two different sizes, shapes, and contain different genes.
+In many organisms, including humans, the sex chromosomes are known as the X and Y chromosomes.
+The Y chromosome contains genes that cause male development.
+Therefore, any individual with a Y chromosome is male, and a male will have both an X and Y chromosome (XY).
+Females, without a Y chromosome, will have two X chromosomes (XX).
+As females have two X chromosomes, they must pass an X chromosome to all of their children.
+As males have both an X chromosome (inherited from their mother) and a Y chromosome, they can give either chromosome to their children.
+If a child inherits a Y from his father, he will be male; if a child inherits an X from her father, she will be female.
+It therefore is the male gamete that determines the sex of the offspring.
+See Specialized chromosomes determine gender at for an animation on the identification of sex chromosomes.
+The vocabulary of DNA: chromosomes, chromatids, chromatin, transcription, translation, and replication is discussed at
+Click on the image above for more content
+allele :
+An alternative form or different version of a gene.

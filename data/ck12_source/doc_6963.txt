@@ -1,0 +1,20 @@
+Q refers to the amount of positive charge stored on the high voltage side of the capacitor; an equal and opposite amount, -Q , of negative charge is stored on the low voltage side of the capacitor.
+Current can flow into a capacitor from either side, but current doesn’t flow across the capacitor from one plate to another.
+The plates do not touch, and the substance in between is insulating, not conducting.
+One side of the capacitor fills up with negative charge, and the other fills up with positive charge.
+The reason for the thin, close plates is so that you can use the negative charge on one plate to attract and hold the positive charge on the other plate.
+The reason for the plates with large areas is so that you can spread out the charge on one plate so that its self-repulsion doesn’t stop you from filling it with more charge.
+Typical dielectric constants κ are roughly 5.6 for glass and 80 for water.
+What these “dielectric” substances do is align their electric polarity with the electric field in a capacitor (much like atoms in a magnetic material) and, in doing so, reduces the electric field for a given amount of charge.
+Thereby allowing for more charge to be stored for a given Voltage.
+The electrical circuit symbol for a capacitor is two flat plates, mimicking the geometry of a capacitor, which typically consists of two flat plates separated by a small distance.
+The plates are normally wrapped around several times to form a cylindrical shape.
+You create a simple capacitor by placing two .25m square metal plates .01m apart and then connecting each plate to one end of a battery. (a) If the battery can create a voltage drop of 12V, how much charge can be stored in the capacitor. (b) If you immersed the whole system in water, how much more charge could you store on the capacitor?
+(a):
+To solve this problem, we can use the equations give above.
+First we'll find the capacitance of the two plates based on their dimensions.
+Since there is not dielectric between the plates to start, the dielectric constant is 1.
+C&=\frac{\kappa \epsilon_o A}{d}\\C&=\frac{1*8.85*10^{-12}\:\text{F/m} * (.25\:\text{m})^2}{.01\:\text{m}}\\C&=5.5*10^{-11}\:\text{F}\\
+Now we can find out how much charge can be stored on the capacitor.
+Q&=CV\\Q&=5.5*10^{-11}\:\text{F} * 12\:\text{V}\\Q&=6.63*10^{-10}\:\text{C}\\
+(b):

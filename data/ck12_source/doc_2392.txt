@@ -1,0 +1,20 @@
+Do you think this water molecule model satisfies the criteria of a useful model?
+In other words, does it represent a real water molecule in important ways while being simpler and easier to understand than a real water molecule?
+A:
+The model shows the basic structure of a water molecule and how the atoms in the molecule share electrons.
+These features of the water molecule explain important properties of water.
+The model is also simpler and easier to understand than a real water molecule.
+In a real molecule, electrons spin around the nuclei at the center of the atoms in a cloud, rather than in neat, circular orbits, as shown in the model.
+The atoms of a real water molecule also contain even smaller particles than protons, neutrons, and electrons.
+For many purposes, however, it’s not necessary to represent these more complex features of a real water molecule.
+The diagram below shows another example of a simple model in physical science.
+This diagram is a model of an electric circuit.
+It represents the main parts of the circuit with simple symbols.
+Horizontal lines with + and – signs represent a battery.
+The parts labeled R 1 , R 2 , and R 3 are devices that use electricity provided by the battery.
+For example, these parts might be a series of three light bulbs.
+Q:
+In the electric circuit diagram, what do the black lines connecting the battery and electric devices represent?
+A:
+The black lines represent electric wires.
+The wires are necessary to carry electric current from the battery to the electric devices and back to the battery again.

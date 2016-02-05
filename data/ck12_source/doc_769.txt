@@ -1,0 +1,20 @@
+The total current in the circuit is 3.00 A.
+What is the equivalent resistance of the circuit?
+What is the current through the 5.00 Ω resistor?
+What is the total voltage drop for the entire circuit?
+series circuit:
+One in which all of the current must pass through every resistor in the circuit.
+Describe a parallel circuit.
+Understand current as it passes through a parallel circuit.
+Understand voltage drops in a parallel circuit.
+Understand resistance in a parallel circuit with multiple resistors.
+Calculate voltage drops, currents, and equivalent resistances when devices are connected in a parallel circuit.
+Photograph of a circuit board
+Electrical circuits are everywhere: skyscrapers, jumbo jets, arcade games, lights, heating, security...
+Very few complex things work without electrical circuits.
+Since the late 1970s, electrical circuits have primarily looked like this.
+The circuits are formed by a thin layer of conducting material deposited on the surface of an insulating board.
+Individual components are soldered to the interconnecting circuits.
+Circuit boards are vastly more complicated than the series circuits previously discussed, but operate on many similar principles.
+Parallel circuits are circuits in which the charges leaving the potential source have different paths they can follow to get back to the source.
+In the sketch below, the current leaves the battery, passes through the orange switch, and then has three different paths available to complete the circuit.

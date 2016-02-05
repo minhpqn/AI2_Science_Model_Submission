@@ -1,0 +1,20 @@
+Techniques for calculation percent mass and percent volume solution concentrations are described.
+Read pages 1-3 of the material on the link below and do the problems associated with that section.
+Work the problems before checking the answers.
+Why are the terms “concentrated” and “dilute” not very helpful?
+When would you use volume percent calculations?
+Why do you subtract the mass of the solute from the total mass desired when making mass percent calculations?
+concentrated:
+A solution that has a relatively large amount of dissolved solute.
+concentration:
+A measure of the amount of solute that has been dissolved in a given amount of solvent or solution.
+dilute:
+A solution that has a relatively small amount of dissolved solute.
+Perform calculations involving molarity.
+Molarity provides a method of quickly understanding how many molecules are present in solution
+How many molecules can be found in a reaction?
+Chemists deal with amounts of molecules every day.
+Our reactions are described as so many molecules of compound A reacting with so many molecules of compound B to form so many molecules of compound C.
+When we determine how much reagent to use, we need to know the number of molecules in a given volume of the reagent.
+Percent solutions only tell us the number of grams, not molecules.
+A 100 mL solution of 2% NaCl will have a very different number of molecules than a 2% solution of CsCl.

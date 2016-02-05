@@ -1,0 +1,20 @@
+Orbital filling diagrams are a way of indicating electron locations in orbitals.
+Use the link below to carry out the following exercise:
+Select an atom from the list (you will probably want to do lower atomic numbers).
+Leave the number set a zero.
+Look up the atom on a periodic table and determine the number of electrons present.
+Draw the orbital filling diagram for the atom.
+Click on the “Calculate” button and compare your answer with the one provided.
+State Hund’s rule.
+What is an orbital filling diagram?
+Is the diagram in the Figure below  correct?
+Explain your answer.
+Electron filling diagram for a problem
+Is the diagram in the Figure below  correct?
+Explain your answer.
+Electron filling diagram for a problem
+Hund’s rule:
+Orbitals of equal energy are each occupied by one electron before any orbital is occupied by a second electron and that each of the single electrons must have the same spin.
+orbital filling diagram:
+A visual way to represent the arrangement of all the electrons in a particular atom.
+Use electron configuration notation to indicate the electron configuration of an atom.

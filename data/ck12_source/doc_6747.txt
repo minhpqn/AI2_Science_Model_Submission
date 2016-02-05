@@ -1,0 +1,18 @@
+Draw vectors representing the astronaut’s velocity and acceleration.
+Draw a free body diagram for the astronaut.
+Is the astronaut exerting a force on the space station?
+If so, calculate its magnitude.
+Her mass m=65\;\mathrm{kg} .
+The astronaut drops a ball, which appears to accelerate to the ‘floor,’ (see picture) at 9.8 \;\mathrm{m/s}^2.
+Draw the velocity and acceleration vectors for the ball while it is in the air.
+What force(s) are acting on the ball while it is in the air?
+Draw the acceleration and velocity vectors after the ball hits the floor and comes to rest.
+What force(s) act on the ball after it hits the ground?
+Answers to Selected Problems
+a. 4.23 \times 10^7\mathrm{m} b. 6.6 \ R_e d.
+The same, the radius is independent of mass
+1.9 \times 10^7\mathrm{m}
+You get two answers for r , one is outside of the two stars one is between them, that’s the one you want, 1.32 \times 10^{10}\mathrm{m} from the larger star.
+a. v = 28\;\mathrm{m/s} b. v- down, a- right c. f- right d.
+Yes, 640\mathrm{N}
+In this chapter students will learn about the Universal Law of Gravity and how to solve gravitational problems in space.

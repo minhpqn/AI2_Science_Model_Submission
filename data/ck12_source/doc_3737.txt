@@ -1,0 +1,20 @@
+Point mutations change a single nucleotide.
+Frameshift mutations are additions or deletions of nucleotides that cause a shift in the reading frame.
+Click on the image above for more content
+Use this resource to answer the questions that follow.
+Mutations are changes in genetic information at
+What is a point mutation?
+What are the effects of a point mutation?
+What is a frameshift mutation?
+What causes a frameshift?
+Who identified point mutations?
+Identify three types of chromosomal alterations.
+Distinguish among silent, missense, and nonsense point mutations.
+What is a frameshift mutation?
+What causes this type of mutation?
+Assume that a point mutation changes the codon AUU to AUC.
+Why is this a silent mutation?
+Look at the following mutation:
+AUG-GUC-CCU-AAA → AUG-AGU-CCC-UAA-A.
+The base A was inserted following the start codon AUG.
+Describe how this mutation affects the encoded amino acid sequence.

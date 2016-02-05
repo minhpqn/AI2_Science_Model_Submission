@@ -1,0 +1,20 @@
+Myc is a transcription factor that activates expression of many genes through binding to a specific cis-regulatory sequence.
+In the human genome, Myc is believed to regulate expression of 15% of all genes through binding to Enhancer Box sequences (E-boxes) with the consensus sequence CANNTG.
+The myc family of transcription factors contain bHLH/LZ (basic Helix-Loop-Helix Leucine Zipper) domains.
+The myc protein, through its bHLH domain can bind to DNA, while the leucine zipper domain allows the dimerization with its partner,known as Max, another bHLH transcription factor.
+A mutated version of Myc is found in many cancers.
+The constitutive expression of the myc gene leads excess myc protein and to the unregulated expression of many additional genes, some of which are involved in cell proliferation, resulting in the formation of cancer.
+activator protein 1 :
+A transcription factor which is a heterodimeric protein composed of proteins belonging to the c-Fos, c-Jun, ATF, and JDP families.
+apoptosis :
+The process of programmed cell death that may occur in multicellular organisms.
+CCAAT-enhancer-binding protein (C/EBP) :
+A family of transcription factors that interact with the CCAAT box motif; binds DNA through a conserved basic-leucine zipper motif.
+c-fos :
+A cellular proto-oncogene belonging to the immediate early gene family of transcription factors.
+c-jun :
+Protein that combines with c-Fos to form the AP-1 early response transcription factor.
+c-myc :
+A regulator gene that codes for a transcription factor; mutated in many cancers.
+Enhancer Box sequence (E-box) :
+A DNA regulatory sequence with the palindromic sequence CANNTG.

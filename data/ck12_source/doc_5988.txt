@@ -1,0 +1,20 @@
+The skeleton (unbalanced) equation:
+\text{H}_2\text{O}(l) \overset{\text{elec}}{\rightarrow} \text{H}_2 (g)+\text{O}_2 (g)
+Note the abbreviation “elec” above the arrow to indicate the passage of an electric current to initiate the reaction.
+Balance the equation.
+2\text{H}_2\text{O}(l) \overset{\text{elec}}{\rightarrow} 2\text{H}_2(g)+\text{O}_2(g)
+Step 3:
+Think about your result
+The products are elements and the equation is balanced.
+A definition of decomposition reaction and example reactions are given.
+Write the reactions (including names and balanced equations) as requested on the following web site:
+What is a decomposition reaction?
+What is usually needed for a decomposition reaction to take place?
+Are elements always the product of a decomposition reaction?
+decomposition reaction:
+A reaction in which a compound breaks down into two or more simpler substances.
+Define combustion reaction.
+Write the products of combustion reactions when given the starting materials.
+A marshmallow burning on a stick is a combustion reaction
+How do you cook the perfect marshmallow?
+Roasting marshmallows over an open fire is a favorite past-time for campers, outdoor cook-outs, and just gathering around a fire in the back yard.

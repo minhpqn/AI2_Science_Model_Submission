@@ -1,0 +1,20 @@
+Additionally, the concentration of sulfuric acid decreases.
+When the car is running normally, its generator recharges the battery by forcing the above reactions to run in the opposite, or nonspontaneous direction.
+2\text{PbSO}_4(s)+2\text{H}_2\text{O}(l) \rightarrow \text{Pb}(s)+\text{PbO}_2(s)+4\text{H}^+(aq)+2\text{SO}_4{^{2-}}(aq)
+This reaction regenerates the lead, lead(IV) oxide, and sulfuric acid needed for the battery to function properly.
+Theoretically, a lead storage battery should last forever.
+In practice, the recharging is not 100% efficient because some of the lead(II) sulfate falls from the electrodes and collects on the bottom of the cells.
+Construction of a dry cell and a battery are given.
+Chemical reactions for both types are described.
+Read the material at the link below and answer the following questions:
+also click on the fuel cell stack link highlighted on the page.
+Where does hydrogen enter the fuel cell?
+How are electrons produced?
+Where do the electrons go?
+What is the product of the fuel cell reaction?
+What purpose does the carbon rod serve in a dry cell?
+Where does an alkaline battery get its name?
+Why is recharging a car battery not 100% efficient?
+battery:
+A group of electrochemical cells combined together as a source of direct electric current at a constant voltage.
+Describe the operation and function of an electrolytic cell.

@@ -1,0 +1,20 @@
+Codominance of red and white petals in a flower
+Codominance.
+The flower has red and white petals because of codominance of red-petal and white-petal alleles.
+Incomplete dominance occurs when the phenotype of the offspring is somewhere in between the phenotypes of both parents; a completely dominant allele does not occur.
+For example, when red snapdragons (C R C R ) are crossed with white snapdragons (C W C W ), the F 1 hybrids are all pink heterozygotes for flower color (C R C W ).
+The pink color is an intermediate between the two parent colors.
+When two F 1 (C R C W ) hybrids are crossed they will produce red, pink, and white flowers.
+The genotype of an organism with incomplete dominance can be determined from its phenotype ( Figure below ).
+Pink petals of a flower due to incomplete dominance
+Incomplete Dominance.
+The flower has pink petals because of incomplete dominance of a red-petal allele and a recessive white-petal allele.
+Many genes have multiple (more than two) alleles.
+An example is ABO blood type in humans.
+There are three common alleles for the gene that controls this characteristic.
+The alleles I A and I B are dominant over i.
+A person who is homozygous recessive ii has type O blood.
+Homozygous dominant I A I A or heterozygous dominant I A i have type A blood, and homozygous dominant I B I B or heterozygous dominant I B i have type B blood.
+I A I B people have type AB blood, because the A and B alleles are codominant.
+Type A and type B parents can have a type AB child.
+Type A and type B parents can also have a child with Type O blood, if they are both heterozygous ( I B i , I A i ).

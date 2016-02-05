@@ -1,0 +1,20 @@
+The driver’s motion can be broken down into the following steps:
+Step 1:
+The driver, beginning at rest, accelerates his car on a horizontal road for ten seconds.
+Sensors show that there is a force in the direction of motion of 6000\;\mathrm{N} , but additional forces acting in the opposite direction with magnitude 1000 \;\mathrm{N} .
+The mass of the car is 1250 \;\mathrm{kg} .
+Step 2:
+Approaching the cliff, the driver takes his foot off of the gas pedal (There is no further force in the direction of motion.) and brakes, increasing the force opposing motion from 1000 \;\mathrm{N} to 2500 \;\mathrm{N} .
+This continues for five seconds until he reaches the cliff.
+Step 3:
+The driver flies off the cliff, which is 44.1 \;\mathrm{m} high and begins projectile motion.
+Ignoring air resistance, how long is the stunt driver in the air?
+For Step 1:
+Draw a free body diagram, naming all the forces on the car.
+Calculate the magnitude of the net force.
+Find the change in velocity over the stated time period.
+Make a graph of velocity in the x- direction vs. time over the stated time period.
+Calculate the distance the driver covered in the stated time period.
+Do this by finding the area under the curve in your graph of (iv).
+Then, check your result by using the equations for kinematics.
+Repeat (b) for Step 2.

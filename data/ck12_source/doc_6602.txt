@@ -1,0 +1,20 @@
+A protein is a peptide that is greater than one hundred amino acids in length.
+Proteins are very prevalent in living organisms.
+Hair, skin, nails, muscles, and the hemoglobin in red blood cells are some of the important parts of your body that are made of different proteins.
+The wide array of chemical and physiological properties of proteins is a function of their amino acid sequences.
+Since proteins generally consist of one hundred or more amino acids, the number of amino acid sequences that are possible is virtually limitless.
+The three-dimensional structure of a protein is very critical to its function.
+This structure can be broken down into four levels.
+The primary structure is the amino acid sequence of the protein.
+The amino acid sequence of a given protein is unique and defines the function of that protein.
+The secondary structure is a highly regular sub-structure of the protein.
+The two most common types of protein secondary structure are the alpha helix and the beta sheet.
+An alpha helix consists of amino acids that adopt a spiral shape.
+A beta sheet is alternating rows of amino acids that line up in a side-by-side fashion.
+In both cases, the secondary structures are stabilized by extensive hydrogen bonding between the side chains.
+The interaction of the various side chains in the amino acid, specifically the hydrogen bonding, leads to the adoption of a particular secondary structure.
+Structure of alpha helices and beta sheets
+Secondary structure: alpha helix and beta sheet.
+The tertiary structure is the overall three-dimensional structure of the protein.
+A typical protein consists of several sections of a specific secondary structure (alpha helix or beta sheet) along with other areas in which a more random structure occurs.
+These areas combine to produce the tertiary structure.

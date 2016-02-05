@@ -1,0 +1,20 @@
+Describe properties of a metal wire that would minimize its resistance to electric current.
+Extend the rugby analogy to explain why a longer wire has greater resistance to electric current.
+Copper wires have about one-third the resistance of tungsten wires.
+Why would copper be less suitable than tungsten as a filament in an incandescent light bulb?
+Electric Conductors and Insulators
+Relate electric current to matter.
+Define electric conductor, and give examples of conductors.
+Describe electric insulators, and identify materials that are insulators.
+Do you see the wires and peaks on top of this old house?
+They are lightning rods, and their purpose is to protect the building in the event of a lightning strike.
+Each lightning rod is connected to a wire that goes down the side of the house and into the ground.
+If lightning strikes the building, it will target the rod and be conducted by the rod and wire into the ground.
+There the electricity can be safely absorbed.
+Lightning rods may differ in style, but to work they must be good at conducting electricity.
+Electric Current and Matter
+Electrical energy is transmitted by moving electrons in an electric current.
+In order to travel, electric current needs matter.
+It cannot pass through empty space.
+However, matter resists the flow of electric current.
+That’s because flowing electrons in current collide with particles of matter, which absorb their energy.

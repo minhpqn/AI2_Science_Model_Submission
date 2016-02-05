@@ -1,0 +1,20 @@
+This 50:50 chance occurs for each baby.
+A couple's first five children could all be boys.
+The sixth child still has a 50:50 chance of being a girl.
+One special pattern of inheritance that doesn’t fit Mendel’s rules is sex-linked inheritance , referring to the inheritance of traits that are located on genes on the sex chromosomes.
+Since males and females do not have the same sex chromosomes, there will be differences between the sexes in how these sex-linked traits —traits linked to genes located on the sex chromosomes—are expressed.
+Sex-linked traits usually refer to traits due to genes on the X chromosome.
+One example of a sex-linked trait is red-green colorblindness.
+People with this type of colorblindness cannot tell the difference between red and green.
+They often see these colors as shades of brown ( Figure below ).
+Boys are much more likely to be colorblind than girls ( Table below ).
+This is because colorblindness is a sex-linked, recessive trait.
+Boys only have one X chromosome, so if that chromosome carries the gene for colorblindness, they will be colorblind.
+As girls have two X chromosomes, a girl can have one X chromosome with the colorblind gene and one X chromosome with a normal gene for color vision.
+Since colorblindness is recessive, the dominant normal gene will mask the recessive colorblind gene.
+Females with one colorblindness allele and one normal allele are referred to as carriers .
+They carry the allele but do not express it.
+How would a female become colorblind?
+She would have to inherit two genes for colorblindness, which is very unlikely.
+Many sex-linked traits are inherited in a recessive manner.
+A person with red-green colorblindness would not be able to see the number

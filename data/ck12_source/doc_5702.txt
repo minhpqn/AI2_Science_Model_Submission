@@ -1,0 +1,20 @@
+de Broglie Wave Equation
+Planck’s investigation of the emission spectra of hot objects and the subsequent studies into the photoelectric effect had proven that light was capable of behaving both as a wave and as a particle.
+It seemed reasonable to wonder if electrons could also have a dual wave-particle nature.
+In 1924, French scientist Louis de Broglie (1892-1987) derived an equation that described the wave nature of any particle.
+Particularly, the wavelength (\lambda) of any moving object is given by:
+In this equation,  h is Planck’s constant, m is the mass of the particle in kg, and  v is the velocity of the particle in m/s.
+The problem below shows how to calculate the wavelength of the electron.
+Sample Problem: de Broglie Wave Equation
+An electron of mass 9.11 × 10 -31 kg moves at nearly the speed of light.
+Using a velocity of 3.00 × 10 8 m/s, calculate the wavelength of the electron.
+Step 1:
+List the known quantities and plan the problem.
+mass  (m) = 9.11 × 10 -31 kg
+Planck's constant  (h) = 6.6262  10 -34 × J • s
+velocity (v) = 3.00 × 10 8 m/s
+Apply the de Broglie wave equation \lambda=\frac{h}{mv} to solve for the wavelength of the moving electron.
+Step 2:
+Calculate
+\lambda=\frac{h}{mv}=\frac{6.626 \times 10^{-34}\ \text{J} \cdot \text{s}}{(9.11 \times 10^{-31} \ \text{kg}) \times (3.00 \times 10^8 \ \text{m/s})}=2.42 \times 10^{-12} \ \text{m}
+Step 3:

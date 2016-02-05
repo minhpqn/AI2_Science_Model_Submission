@@ -1,0 +1,20 @@
+Zn + S → ZnS
+The substance(s) to the left of the arrow in a chemical equation are called reactants.  A reactant is a substance that is present at the start of a chemical reaction.  The substance(s) to the right of the arrow are called products .  A product is a substance that is present at the end of a chemical reaction.  In the equation above, the zinc and sulfur are the reactants that chemically combine to form the zinc sulfide product.
+There is a standard way of writing chemical equations.  The reactants are all written on the left-hand side of the equation, with the products on the right-hand side.  An arrow points from the reactants to the products to indicate the direction of the reaction:
+reactants → products
+When appropriate, a symbol may be written above or below the arrow to indicate some special circumstance.
+The symbol "Δ" is often used to indicate that the reaction is to be heated.
+The presence of the arrow also indicates that the reaction goes in one direction under the conditions indicated.  There are reactions which can be easily reversed, but we will not take those up right now.
+There are a wide variety of reactions possible: elements may form compounds (as seen in the reaction above), compounds may form elements (water will break down in the presence of an electric current to form hydrogen gas and oxygen gas) or compounds may combine, break apart, or rearrange to form new materials.
+A chemical equation describes a chemical reaction.
+Reactants are starting materials and are written on the left-hand side of the equation.
+Products are the end-result of the reaction and are written on the right-hand side of the equation.
+Use the link below to answer the following questions:
+Where are reactants written in a chemical equation?
+Where are products written in a chemical equation?
+What chemical information is found in a chemical equation?
+What is a reactant?
+What is a product?
+What does a chemical equation do?
+In the reaction sodium + water → sodium hydroxide + hydrogen,
+what are the reactants?

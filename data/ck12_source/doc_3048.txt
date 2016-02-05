@@ -1,0 +1,20 @@
+Its shape causes the ship to displace much more water than the ball.
+In fact, the weight of the displaced water is greater than the weight of the ship.
+As a result, the buoyant force is greater than the force of gravity acting on the ship, so the ship floats.
+Q :
+Why might you be more likely to float in water if you stretch out your body rather than curl up into a ball?
+A :
+You would displace more water by stretching out your body, so there would be more buoyant force acting on it.
+Therefore, you would be more likely to float in this position.
+Archimedes determined that an object displaces the same volume of fluid as its own volume.
+According to Archimedes’ law, the buoyant force acting on an object equals the weight of the fluid that the object displaces.
+The shape of an object may affect how much fluid it displaces and therefore the buoyant force acting on it.
+This explains why one object may sink while another object with the same weight but a different shape may float.
+Practice applying Archimedes’ law by doing the brainteaser at this URL:
+What is Archimedes’ law?
+Fill in the missing word in the following sentence:
+An object will float in a fluid when the weight of the fluid displaced by the object is _______ than the weight of the object.
+Demonstrate how the shape of an object affects its ability to float using a container of water and two pieces of aluminum foil that are the same size and therefore the same weight. (Hint:
+Form the two pieces of foil into different shapes.)
+Relate work to force and distance.
+The teens in the picture on the left are having fun playing basketball.

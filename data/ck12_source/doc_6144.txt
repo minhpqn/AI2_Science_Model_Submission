@@ -1,0 +1,20 @@
+Describe the appearance of a solution.
+Describe the appearance of a suspension.
+Is a suspension a heterogeneous or a homogeneous mixture?
+How can the solid material in a suspension be separated from the liquid?
+Which part of milk is in suspension?
+dispersion medium:  The material in which the particles are distributed.
+suspension:  A heterogeneous mixture in which some of the particles settle out of the mixture upon standing.
+turbid:
+Unclear, thick, or cloudy.
+List differences between colloids, solutions, and suspensions.
+Give examples of colloids.
+Smoke flares take advantage of a form of mixture called a colloid
+What type of mixture is a smoke flare?
+Imagine you are sailing on a yacht.
+The engine suddenly breaks down and you are stranded in the middle of the ocean.
+You call the Coast Guard on your radio, but cannot give them an exact location because your GPS isn’t working.
+Fortunately, you have a smoke flare, which you fire off.
+The dense colored smoke shows the Coast Guard where you are so they can rescue you.
+In using the flare, you are taking advantage of a type of mixture called a colloid.
+A colloid is a heterogeneous mixture whose particle size is intermediate between those of a solution and a suspension.  The dispersed particles are spread evenly throughout the dispersion medium , which can be a solid, liquid, or gas.  Because the dispersed particles of a colloid are not as large as those of a suspension, they do not settle out upon standing.  The Table below summarizes the properties and distinctions between solutions, colloids, and suspensions.

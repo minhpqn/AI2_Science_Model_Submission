@@ -1,0 +1,20 @@
+ROM (read-only memory) is a microchip that provides permanent storage.
+It stores important information such as start-up instructions.
+This memory remains even after the computer is turned off.
+RAM (random-access memory) is a microchip that temporarily stores programs and data that are currently being used.
+Anything stored in RAM is lost when the computer is turned off.
+The motherboard is connected to the CPU, hard drive, ROM, and RAM.
+It allows all these parts of the computer to receive power and communicate with one another.
+Q:
+Which part(s) of a computer are you using when you type a school report?
+A:
+You are using the RAM to store the word processing program and your document as you type it.
+You are using the CPU to carry out instructions in the word processing program, and you are probably using the hard drive to save your document.
+Electronic devices—such as computers, mobile phones, remotes, and cameras—use electric current to encode, analyze, or transmit information.
+A computer contains millions of tiny electronic components.
+Parts of a computer that transmit, process, or store information include the CPU, hard drive, ROM, and RAM.
+The motherboard ties all these parts together.
+At the following URL, learn how a TV remote works.
+Then answer the questions below.
+Which electronic components are found inside a TV remote?
+all of the above

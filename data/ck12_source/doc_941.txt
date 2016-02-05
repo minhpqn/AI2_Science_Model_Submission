@@ -1,0 +1,20 @@
+nucleons:
+A nucleon is either of the subatomic particles, the proton and the neutron, constituting atomic nuclei.
+nuclides:
+An atomic nucleus specified by its atomic number and atomic mass.
+atomic number:
+The number of positive charges or protons in the nucleus of an atom.
+mass number:
+The mass number (A), also called atomic mass number or nucleon number, is the total number of protons and neutrons (together known as nucleons) in an atomic nucleus.
+isotopes:
+One of two or more atoms having the same atomic number but different mass numbers.
+atomic weight:
+The average mass of an atom of an element, usually expressed relative to the mass of carbon 12, which is assigned 12 atomic mass units.
+Define binding energy and its relationship to nuclear force.
+Describe nuclear disintegration.
+Define three modes of radioactive decay and write balanced nuclear equations for all three.
+Small nuclear reactors
+The machines in the image are Pressurized Water Reactors (PWRs).
+These are small nuclear reactors used for the generation of power.
+Primarily the nuclear energy is used to change water into steam and the steam then runs the machinery.
+Several hundred PWRs are used for propulsion in military vessels such as aircraft carriers, submarines, and ice breakers.

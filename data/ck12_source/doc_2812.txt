@@ -1,0 +1,20 @@
+This can be represented by the chemical equation:
+HCl \mathrm{\overset{H_2O}{\rightarrow}} H + + Cl -
+A base is a compound that produces negative hydroxide ions (OH - ) and positive metal ions when it dissolves in water.
+For example, when the base sodium hydroxide (NaOH) dissolves in water, it produces negative hydroxide ions and positive sodium ions (Na + ).
+This can be represented by the chemical equation:
+NaOH \mathrm{\overset{H_2O}{\rightarrow}} OH - + Na
+Q:
+If you were to combine acid and base solutions, what products do you think would be produced?
+A:
+Combining acid and base solutions produces water and a neutral ionic compound.
+Reactions of Acids and Bases
+When an acid and a base react, the reaction is called a neutralization reaction .
+That’s because the reaction produces neutral products.
+Water is always one product, and a salt is also produced.
+A salt is a neutral ionic compound.
+You can learn more about salts and how they form at this URL:  .
+Let’s see how a neutralization reaction produces both water and a salt, using as an example the reaction between solutions of hydrochloric acid and sodium hydroxide.
+The overall equation for this reaction is:
+NaOH + HCl → H 2 O and NaCl
+Now let’s break this reaction down into two parts to see how each product forms.

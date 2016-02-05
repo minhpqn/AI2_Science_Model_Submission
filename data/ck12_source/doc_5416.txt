@@ -1,0 +1,20 @@
+The BTC only provides a low level of transcription.
+Other cis and trans factors must stimulate the BTC to increase transcription levels.
+One such example of a BTC stimulating region of DNA is the CAAT box.
+The Pribnow Box
+The Pribnow box is the sequence of six nucleotides that is an essential part of a promoter site in bacteria.
+The sequence 5'-TATAAT-3' is the most common, though slight variants of that sequence serve the same function.
+It is located roughly 10 base pairs upstream from transcription initiation site.
+The Pribnow box has a function similar to the TATA box that occurs in promoters in eukaryotes and archaea.
+The regulation of transcription in prokaryotic is much simpler than in eukaryotes, and many fewer transcription factors, if any, are necessary.
+In bacteria, this site is recognized and bound by a subunit of RNA polymerase during initiation of transcription.
+The Pribnow box, like the TATA box, is the initial site where hydrogen bonds between the DNA strands are separated.
+The AT-rich character of the two boxes allows this separation, as adenine and thymine are easier to separate then cytosine-guanine base pairs.
+The CCAAT Box
+The CCAAT Box , which is also known as the CAAT box or CAT box, is an eukaryotic cis-regulatory element with a 5'-GGCCAATCT-3' consensus sequence.
+It occurs roughly 75-80 bases upstream of the initial transcription site.
+This site is known to bind general transcription factors, including the CCAAT-enhancer-binding proteins (C/EBPs).
+The C/EBPs recruit additional transcription factors to the initiation complex.
+C/EBPs are characterized by a highly conserved basic- leucine zipper domain.
+This domain is involved in dimerization and DNA binding like other transcription factors of the leucine zipper domain-containing family, including c-Fos and Jun.
+Other DNA binding domains include the helix-turn-helix domain, the zinc finger domain and the helix-loop helix domain.

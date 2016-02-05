@@ -1,0 +1,20 @@
+You can watch an animation about nonsense mutations at this link:
+mutated codon codes for the same amino acid
+CAA (glutamine) → CAG (glutamine)
+mutated codon codes for a different amino acid
+CAA (glutamine) → CCA (proline)
+mutated codon is a premature stop codon
+CAA (glutamine) → UAA (stop)
+A frameshift mutation is a deletion or insertion of one or more nucleotides that changes the reading frame of the base sequence.
+Deletions remove nucleotides, and insertions add nucleotides.
+Consider the following sequence of bases in RNA:
+AUG-AAU-ACG-GCU = start-asparagine-threonine-alanine
+Now, assume an insertion occurs in this sequence.
+Let’s say an A nucleotide is inserted after the start codon AUG :
+AUG-AAA-UAC-GGC-U = start-lysine-tyrosine-glycine
+Even though the rest of the sequence is unchanged, this insertion changes the reading frame and thus all of the codons that follow it.
+As this example shows, a frameshift mutation can dramatically change how the codons in mRNA are read.
+This can have a drastic effect on the protein product.
+Germline mutations occur in gametes.
+Somatic mutations occur in other body cells.
+Chromosomal alterations are mutations that change chromosome structure.

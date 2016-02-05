@@ -1,0 +1,20 @@
+Bending Light (PhET Simulation)
+Using the Table ( below ), which states the indices of refraction for a number of materials, answer the following questions:
+For which of these materials is the speed of light slowest ?
+Which two materials have the most similar indices of refraction?
+What is the speed of light in cooking oil?
+heavy flint glass
+A certain light wave has a frequency of 4.29 \times 10^{14} \;\mathrm{Hz} .
+What is the wavelength of this wave in empty space?
+In water?
+A light ray bounces off a fish in your aquarium.
+It travels through the water, into the glass side of the aquarium, and then into air.
+Draw a sketch of the situation, being careful to indicate how the light will change directions when it refracts at each interface.
+Include a brief discussion of why this occurs.
+A light ray goes from the air into the water.
+If the angle of incidence is 34^\circ , what is the angle of refraction?
+Nisha stands at the edge of an aquarium 3.0 \;\mathrm{m} deep.
+She shines a laser at a height of 1.7 \;\mathrm{m} that hits the water of the pool 8.1 \;\mathrm{m} from the edge.
+Draw a diagram of this situation.
+Label all known lengths.
+How far from the edge of the pool will the light hit bottom?

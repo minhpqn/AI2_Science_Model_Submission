@@ -1,0 +1,20 @@
+The Fluid States
+Pressure in Fluids
+Calculate the pressure below the surface of liquids using the formula P=\rho gh .
+Russian ocean submersible can withstand a great amount of pressure
+This is the Russian ocean submersible “Mir.” Submersibles like this are necessary for research or work at great depths in the ocean because of the massive pressure.
+This craft can operate as deep as 6000 meters below the surface.
+The pressure at 6000 meters below the ocean surface exceeds 8500 pounds per square inch.
+Pressure in Fluids
+Pressure  is defined as force per unit area, where the force  F  is understood to be acting perpendicular to the surface area,  A .
+The SI unit for pressure is N/m 2 .
+This unit is also known as a pascal  (Pa): 1 Pa = 1 N/m 2 .
+Example:  Consider a 80.0 kg person whose two feet cover an area of cm 2 .
+Determine the pressure applied to the ground by his feet.
+Solution:  The force exerted by this person on the ground would be (80.0 kg)(9.80 m/s 2 ) = 784 N.
+The area over which this force is exerted would be 0.0500 m 2 .
+P=\frac{F}{A}=\frac{784 \ \text{N}}{0.0500 \ \text{m}^2}=15,700 \ \text{Pa}
+It has been determined experimentally that a fluid exerts pressure equally in all directions.  In the sketch below, from any given point below the surface of the fluid, the pressure in all directions is the same.
+The fluid exerts the same pressure upward from this point as it does downward.
+Fluid exterting pressure equally below the surface
+We can calculate how the pressure of a fluid varies with depth, assuming the fluid has uniform density.

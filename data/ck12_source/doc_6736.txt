@@ -1,0 +1,20 @@
+Now we need to convert the angular speed to units of radians per second.
+\omega = \frac{1}{4} \frac{\cancel{rotations} }{second} * \frac{2 \pi}{1} \frac{radians}{\cancel{rotation}} = \frac{\pi}{2} \frac{radians}{second}
+v = 15 m \times \frac{\pi}{2} = \frac {15}{2} \pi \approx 23.6 \frac{radians}{second}
+Watch this Explanation
+Click on the image above for more content
+Ladybug Rotation (PhET Simulation)
+You are riding your bicycle and going 8 m/s.
+Your bicycle wheel is 0.25 m in radius.
+What is its angular speed in radians per second?
+What is the angular speed in rotations per minute?
+The angular speed of a record player is 33 rotations per minute.
+It has a diameter of 12 inches.
+What is the angular speed in radians per second?
+What is the tangential speed of the outer most part of the record?
+What is its tangential speed halfway out on the record?
+a. 32 rads/s b. 306 rot/min
+a.3.5 rads/s b. 0.53 m/s c. 0.26 m/s
+Describe centripetal acceleration, where it applies and how to calculate it.
+Explain when a force is acting as a centripetal force and how to apply it.
+Students will learn what centripetal acceleration is, where it applies and how to calculate it.

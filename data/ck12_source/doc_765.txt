@@ -1,0 +1,11 @@
+metal oxide varistor or MOV:
+A metal oxide varistor is a resistor whose resistance varies nonlinearly with voltage.  Those MOVs used in surge protectors have high resistance with normal voltage, thus disallowing current flow, but their resistance decreases greatly when voltage sharply increases.
+Laura Guerin.
+CK-12 Foundation .
+Laura Guerin.
+CK-12 Foundation .
+Images copyright Tootles, 2014.  .
+Samantha Bacic.
+CK-12 Foundation .
+Laura Guerin.
+CK-12 Foundation .

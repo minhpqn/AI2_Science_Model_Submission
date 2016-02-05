@@ -1,0 +1,20 @@
+Define reversible reaction.
+Give examples of reversible reactions.
+Adding hydrochloric acid or water can change the color of a cobalt solution
+How do you change the color of a solution?
+A solution of cobalt chloride in water is pink due to the presence of the solvated Co 2+ ion.
+If sufficient HCl is added, the solution turns blue as the CoCl 4 2- ion forms.
+The reaction can be shifted back to the pink form if more water is added to the solution.
+Up until this point, we have written the equations for chemical reactions in a way that would seem to indicate that all reactions proceed completely until all the reactants have been converted into products.
+In reality, a great many chemical reactions do not proceed entirely to completion.
+A reversible reaction is a reaction in which the conversion of reactants to products and the conversion of products to reactants occur simultaneously.
+One example of a reversible reaction is the reaction of hydrogen gas and iodine vapor to from hydrogen iodide.
+The forward and reverse reactions can be written as follows.
+& \text{Forward reaction}: \quad \text{H}_2(g)+\text{I}_2(g) \rightarrow 2\text{HI}(g) \\& \text{Reverse reaction}: \quad 2\text{HI}(g) \rightarrow \text{H}_2(g)+\text{I}_2(g)
+In the forward reaction, hydrogen and iodine combine to form hydrogen iodide.
+In the reverse reaction, hydrogen iodide decomposes back into hydrogen and iodine.
+The two reactions can be combined into one equation by the use of a double arrow.
+\text{H}_2(g)+\text{I}_2(g) \rightleftarrows 2\text{HI}(g)
+The double arrow is the indication that the reaction is reversible.
+When hydrogen and iodine gases are mixed in a sealed container, they begin to react and form hydrogen iodide.
+At first, only the forward reaction occurs because no HI is present.

@@ -1,0 +1,20 @@
+DNA:
+A large molecule in the cell nucleus responsible for protein synthesis.
+messenger RNA (mRNA):
+Sets the pattern for protein synthesis outside the nucleus.
+Radioisotopes in Medical Diagnosis and Treatment
+List radioisotopes that are used in medical diagnosis and/or treatment.
+Structure of thyroxine, which helps regulate metabolism
+Why am I moving so slowly?
+The molecule pictured above is thyroxine, a compound produced by the thyroid gland.
+This molecule regulates how the body uses energy.
+In a condition known as hypothyroidism, the thyroid makes less thyroxine than normal.
+A person with this disease feels tired all the time and often puts on weight.
+Treatment with thyroid hormone supplements takes care of the problem.
+Radioisotopes in Medical Diagnosis and Treatment
+Radioisotopes are widely used to diagnose disease and as effective treatment tools.
+For diagnosis, the isotope is administered and then located in the body using a scanner of some sort.
+The decay product (often gamma emission) can be located and the intensity measured.
+The amount of isotope taken up by the body can then give information as to the extent of the medical problem.
+An isotope of iodine (I-131) is used in both the diagnosis and treatment of thyroid cancer.
+The thyroid will normally absorb iodine to produce the iodine-containing thyroid hormones.

@@ -1,0 +1,20 @@
+One advantage is available to organisms occupying the few anoxic (lacking oxygen) niches remaining on earth.
+Oxygen remains the highly reactive, toxic gas which caused the “Oxygen Catastrophe.” Aerobic organisms have evolved a few necessary materials, namely enzymes and antioxidants , to protect themselves.
+Organisms living in anoxic niches do not run the risk of oxygen exposure, so they do not need to spend energy to build these elaborate chemicals.
+Individual cells which experience anoxic conditions face greater challenges.
+As demonstrated by lactic acid fermentation , muscle cells “still remember” anaerobic respiration, using this fermentation to make ATP in low-oxygen conditions, regenerating NAD + during this process.
+However, other cells, like brain cells do not “remember” anaerobic respiration, and consequently cannot make any ATP without oxygen.
+This explains why death follows for most humans who endure more than four minutes without oxygen.
+Variation in muscle cells gives further insight into some benefits of anaerobic respiration.
+In vertebrate muscles, lactic acid fermentation allows muscles to produce ATP quickly during short bursts of strenuous activity.
+Muscle cells specialized for this type of activity show differences in structure as well as chemistry.
+Red muscle fibers are “dark” because they have a rich blood supply for a steady supply of oxygen, and a protein, myoglobin, which holds extra oxygen.
+They also contain more mitochondria, the organelle in which the Krebs cycle and electron transport chain conclude aerobic respiration.
+This is endurance muscle.
+White muscle cells are “light” because they lack the rich blood supply, have fewer mitochondria, and store the carbohydrate glycogen rather than oxygen.
+This is muscle built for sprinting.
+Each type of muscle fiber has advantages and disadvantages, which reflect their differing biochemical pathways.
+Aerobic respiration in red muscles full of mitochondria, produces a great deal of ATP from far less glucose - but slowly, over a long time.
+Anaerobic respiration in white muscle cells full of carbohydrates, produces ATP rapidly for quick bursts of speed, but a predator who continues pursuit may eventually catch a white-muscled prey.
+In summary, aerobic and anaerobic respiration each have advantages under specific conditions.
+Aerobic respiration produces far more ATP, but risks exposure to oxygen toxicity.

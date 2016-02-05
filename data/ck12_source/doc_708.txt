@@ -1,0 +1,20 @@
+Concave lenses create only virtual images.
+After the rays are refracted, they never converge and so there will be no real images.
+All concave lens images will be upright, virtual, and diminished, and can be found between the F  and the lens.
+When using the lens equation with a concave lens, the focal length must be assigned a negative value.
+Click on the image above for more content
+Follow up questions:
+Concave lenses are _________________ (thicker or thinner) in the middle.
+Concave lenses are also called _________________ lenses.
+All images from concave lenses are _________________ (real or virtual).
+An object is placed 15.0 cm in front of a concave lens with a focal length of 8.00 cm.
+Find the image distance.
+An object is placed 3.00 cm in front of a concave lens with a focal length of 5.00 cm.
+Find the image distance.
+What physical characteristic of a lens distinguishes a converging lens from a diverging lens?
+An 2.00 cm tall object is placed 20.0 cm in front of a concave lens with a focal length of 5.00 cm.
+Find the image distance and the height of the image.
+concave lens:
+Has its center further from the viewer than its edges.
+Image copyright Pavel L Photo and Video, 2014.
+Samantha Bacic and Laura Guerin.

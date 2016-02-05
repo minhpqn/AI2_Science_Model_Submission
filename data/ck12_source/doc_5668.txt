@@ -1,0 +1,20 @@
+History of Atomic Weight Determinations
+As a part of his research on atoms, John Dalton determined a number of atomic weights of elements in the early 1800s.
+Atomic weights were the basis for the periodic table that Mendeleev developed.
+Originally all atomic weights were based on a comparison to hydrogen, which has an atomic weight of one.
+After the discovery of the proton, scientists assumed that the weight of an atom was essentially that of the protons – electrons were known to contribute almost nothing to the atomic weight of the element.
+Mendeleev's first periodic table
+This approach worked until we learned how to determine the number of protons in an element.  We then saw that the atomic weight for an element was often twice the number of protons (or more).  The discovery of the neutron provided the missing part of the picture.
+The atomic mass now known to be the sum of the protons and neutrons in the nucleus.
+Rutherford showed that the vast majority of the mass of an atom is concentrated in its nucleus, which is composed of protons and neutrons.
+The mass number is defined as the total number of protons and neutrons in an atom.
+Consider Table below which shows data from the first six elements of the periodic table.
+Atoms of the First Six Elements
+Consider the element helium.
+Its atomic number is 2, so it has two protons in its nucleus.
+Its nucleus also contains two neutrons.
+Since 2 + 2 = 4, we know that the mass number of the helium atom is 4.
+Finally, the helium atom also contains two electrons since the number of electrons must equal the number of protons.
+This example may lead you to believe that atoms have the same number of protons and neutrons, but further examination of the Table above will show that this is not the case.
+Lithium, for example has three protons and four neutrons, leaving it with a mass number of 7.
+Knowing the mass number and the atomic number of an atom allows you to determine the number of neutrons present in that atom by subtraction.

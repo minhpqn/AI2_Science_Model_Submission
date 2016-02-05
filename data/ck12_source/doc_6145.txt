@@ -1,0 +1,20 @@
+Properties of Solutions, Colloids, and Suspensions
+Particle size: 0.01-1 nm; atoms, ions, or molecules
+Particle size: 1-1000 nm, dispersed; large molecules or aggregates
+Particle size: over 1000 nm, suspended; large particles or aggregates
+Do not separate on standing
+Do not separate on standing
+Particles settle out
+Cannot be separated by filtration
+Cannot be separated by filtration
+Can be separated by filtration
+Do not scatter light
+Scatter light (Tyndall effect)
+May either scatter light or be opaque
+Colloids are unlike solutions because their dispersed particles are much larger than those of a solution.  The dispersed particles of a colloid cannot be separated by filtration, but they scatter light, a phenomenon called the Tyndall effect .
+When light is passed through a true solution, the dissolved particles are too small to deflect the light.
+However, the dispersed particles of a colloid, being larger, do deflect light.
+The Tyndall effect is the scattering of visible light by colloidal particles.
+You have undoubtedly “seen” a light beam as it passes through fog, smoke, or a scattering of dust particles suspended in air.
+All three are examples of colloids.
+Suspensions may scatter light, but if the number of suspended particles is sufficiently large, the suspension may simply be opaque and the light scattering will not occur.

@@ -1,0 +1,20 @@
+There are four quantum numbers that provide information about various aspects of electron behavior.
+Watch the video, pause at each question and try to calculate the quantum number before you see the answer written in.
+Do not try to answer the orbital questions, just the quantum number ones.
+Click on the image above for more content
+What do quantum numbers do?
+What is the principal quantum number?
+What does the spin quantum number represent?
+angular momentum quantum number (l) :
+Describes the general region occupied by the electron.
+magnetic quantum number (m) :
+Describes the orbital orientation of the electron in space.
+principal quantum number (n) :
+Specifies the main energy level occupied by the electron.
+quantum numbers:
+Describe the location of an electron in an atom.
+spin quantum number (m_s) :
+Describes the spin for a given electron.
+Draw the shapes of s , p , d , and f orbitals.
+Relate the four quantum numbers for an electron to a specific orbital.
+Picture of an airplane

@@ -1,0 +1,20 @@
+Which electromagnetic waves do you think have higher frequencies: visible light or X rays?
+A:
+X rays are harmful but visible light is harmless, so you can infer that X rays have higher frequencies than visible light.
+Speed, Wavelength, and Frequency
+The speed of a wave is a product of its wavelength and frequency.
+Because all electromagnetic waves travel at the same speed through space, a wave with a shorter wavelength must have a higher frequency, and vice versa.
+This relationship is represented by the equation:
+Speed = Wavelength × Frequency
+The equation for wave speed can be rewritten as:
+\text{Frequency} = \frac{\text{Speed}}{\text{Wavelength}} or \text{Wavelength} = \frac{\text{Speed}}{\text{Frequency}}
+Therefore, if either wavelength or frequency is known, the missing value can be calculated.
+Consider an electromagnetic wave that has a wavelength of 3 meters.
+Its speed, like the speed of all electromagnetic waves, is 3.0 × 10 8 meters per second.
+Its frequency can be found by substituting these values into the frequency equation:
+\text{Frequency} = \frac{3.0 \times 10^8 \ \text{m/s}}{3.0 \ \text{m}} =1 .0 \times 10^8 \ \text{waves/s} , or 1.0 × 10 8 Hz
+Q:
+What is the wavelength of an electromagnetic wave that has a frequency of 3.0 × 10 8 hertz?
+A:
+Use the wavelength equation:
+\text{Wavelength} = \frac{3.0 \times 10^8 \ \text{m/s}}{3.0 \times 10^8 \ \text{waves/s}}=1.0 \ \text{m}

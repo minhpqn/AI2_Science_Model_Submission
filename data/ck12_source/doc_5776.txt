@@ -1,0 +1,20 @@
+The actinides are all radioactive elements and only the first four have been found naturally on Earth.
+f -block:
+In the periodic table, any element that has atoms or ions who have valence electrons in f-orbitals.
+Periodic Trends:
+Atomic Radius
+Define atomic radius.
+Describe how the atomic changes within a period.
+Describe how the atomic radius changes within a group.
+How can all of these people fit in such a small space?
+Events draw large numbers of people to them.  Even an outdoor event can fill up so that there is no room for more people.  The crowd capacity depends on the amount of space in the venue, and the amount of space depends on the size of the objects filling it.  We can get more people into a given space than we can elephants, because the elephants are larger than people.  We can get more squirrels into that same space than we can people for the same reason.  Knowing the sizes of objects we are dealing with can be important in deciding how much space is needed.
+The size of atoms is important when trying to explain the behavior of atoms or compounds.  One of the ways we can express the size of atoms is with the atomic radius .  This data helps us understand why some molecules fit together and why other molecules have parts that get too crowded under certain conditions.
+The size of an atom is defined by the edge of its orbital.
+However, orbital boundaries are fuzzy and in fact are variable under different conditions.
+In order to standardize the measurement of atomic radii, the distance between the nuclei of two identical atoms bonded together is measured.
+The atomic radius is defined as one-half the distance between the nuclei of identical atoms that are bonded together.
+The atomic radius (r) of an atom can be defined as one half the distance (d) between two nuclei in a diatomic molecule.
+Atomic radii have been measured for elements.
+The units for atomic radii are picometers, equal to 10 -12 meters.
+As an example, the internuclear distance between the two hydrogen atoms in an H 2 molecule is measured to be 74 pm.
+Therefore, the atomic radius of a hydrogen atom is \frac{74}{2} = 37 \ \text{pm} .

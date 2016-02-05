@@ -1,0 +1,20 @@
+Thomson in 1903, the atom was represented as a positively charged sphere with the negatively charged electrons distributed around the exterior.
+This was the so-called “plum-pudding” model with the positive charge playing the role of the pudding and the electrons playing the role of the plums.
+The next big step in the development of the model of the atom occurred in 1911 with Rutherford’s gold foil experiment.
+In the Thomson model of the atom, the density of the atom was necessarily small.
+The mass of the atom divided by the volume of the atom and assuming an even distribution of mass resulted in a low density for the atom.
+In 1896, Henri Becquerel discovered that uranium compounds emitted penetrating rays, some of which were massive, high speed, positively charged particles which were later named alpha particles (α).
+These alpha particles would be detected by a zinc sulfide coated screen (scintillation counter) that emitted a small flash of light every time an alpha particle hit it.
+Rutherford used these alpha particles and the zinc sulfide coated screen in his gold foil experiment.
+The alpha particles were fired at a very thin sheet of gold foil.
+It was thought that all of the alpha particles would pass straight through the gold foil with no deflection.
+This was because the alpha particles were known to be very dense and, due to the “plum pudding” model of the atom where the mass of the atom was spread out evenly over the volume of the atom, the atoms of gold were thought to have very low density.
+While the great majority of the alpha particles did pass straight through the foil with no deflection, to everyone’s surprise, some alpha particles were deflected.
+In fact, some alpha were bounced almost straight backward by the foil.
+Rutherford, using Coulomb’s law and Newton’s laws found that the results could be explained only if all the positive charge of the atom were concentrated in a tiny, central core, now called the nucleus .
+Rutherford’s model of the atom is therefore, called the nuclear model of the atom.
+All of the positive charge and essentially all of the mass of the atom are in its nucleus.
+The atom is 10,000 times as large as the nucleus and is mostly empty space.
+It was known that electrons are outside the nucleus but how the electrons were arranged in an atom was still a mystery.
+Problems with the Planetary Model
+The planetary model had two major problems immediately.

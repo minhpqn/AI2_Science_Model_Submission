@@ -1,0 +1,20 @@
+On the graph, the freezing point depression is represented by \Delta T_f .
+The presence of solute causes a decrease in freezing point by decreasing vapor pressure
+The vapor pressure of a solution (blue) is lower than the vapor pressure of a pure solvent (pink).
+As a result, the freezing point of a solvent decreases when any solute is dissolved into it.
+When a pure solvent freezes, its particles become more ordered as the intermolecular forces that operate between the molecules become permanent.
+In the case of water, the hydrogen bonds make the hexagonally-shaped network of molecules that characterizes the structure of ice.
+By dissolving a solute into the liquid solvent, this ordering process is disrupted.
+As a result, more energy must be removed from the solution in order to freeze it, and the freezing point of the solution is lower than that of the pure solvent.
+The magnitude of the freezing point depression is directly proportional to the molality of the solution.
+The equation is:
+\Delta T_f=K_f \times m
+The proportionality constant, K_f , is called the molal freezing-point depression constant .
+It is a constant that is equal to the change in the freezing point for a 1-molal solution of a nonvolatile molecular solute.
+For water, the value of  K_f is -1.86°C/ m .
+So the freezing temperature of a 1-molal aqueous solution of any nonvolatile molecular solute is -1.86°C.
+Every solvent has a unique molal freezing-point depression constant.
+These are shown in Table below , along with a related value for the boiling point called K_b .
+Molal Freezing-Point and Boiling-Point Constants
+Normal freezing point (°C)
+Molal freezing-point depression constant, K f (°C/ m )

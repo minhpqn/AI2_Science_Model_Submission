@@ -1,0 +1,20 @@
+The earth’s atmosphere exerts a pressure on all objects with which it is in contact.
+Atmospheric pressure acting on a fluid is transmitted throughout that fluid.
+For example, the water pressure at 100. m below the surface of a lake is 9.8 × 10 5 Pa.  The total pressure at that point, however, is the pressure of the water plus the pressure of the air above the water.  The pressure of the air at the surface of the water is 1.0 × 10 5 Pa, or 1 atm (atmosphere).  Therefore, the total pressure at 100. m below the surface of the water is 9.8 × 10 5 Pa + 1.0 × 10 5 Pa = 10.8 × 10 5 Pa.
+This is an example of Pascal’s Principle , which states that pressure applied to a confined liquid increases the pressure throughout by the same amount.  A number of practical devices take advantage of this principle.  Hydraulic brakes, hydraulic lifts , and hydraulic presses are three useful tools that make use of Pascal’s Principle.
+The sketch below is an example of a hydraulic lift.  We have a confined liquid in contact with two pistons ( A and B ) of different sizes.
+The pressure of the liquid on these two pisons is the same (Pascal's principle).
+Therefore, F_A=F_B ,
+and     \frac{F_A}{A_A}=\frac{F_B}{A_B} and \frac{F_A}{F_B}=\frac{A_A}{A_B} .
+Suppose that the area of piston  A is 4.0 cm 2 and the area of piston B is 200. cm 2 .  If we place an automobile weighing 10,000 N on piston B , we can lift that car by exerting a force of 200 N on piston A .  This is another form of  simple machine and its ideal mechanical advantage is 50.  The ideal mechanical advantage of a hydraulic lift equals the ratio of the large piston area to the small piston area.
+Diagram of a hydraulic mechanism
+Atmospheric pressure acting on a fluid is transmitted throughout that fluid.
+Pascal’s Principle states that pressure applied to a confined liquid increases the pressure throughout by the same amount.
+The following video is a lecture on the hydraulic lift.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+What property of liquids allows for the great mechanical advantage of a hydraulic lift?
+If the ratio of A2 to A1 was 100, what force would be required to lift a 10000 N car?
+Practice problems for hydraulic lifts:
+In a hydraulic lift whose input line has a cross-sectional area of 1.00 cm 2 and whose output line has a cross-sectional area of 20.0 cm 2 , what is the largest mass (kg) that can be lifted by an input force of 1000.
+N?

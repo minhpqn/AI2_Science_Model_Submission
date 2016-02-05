@@ -1,0 +1,20 @@
+Contradictory observations are found.
+Congress voted against it.
+If a hypothesis is rejected by the observations from an experiment, then the experiment
+May have been a success.
+Was a failure.
+Must have been poorly designed.
+Didn’t follow the scientific method.
+scientific method:  Consists of making observations on the phenomenon needing explanation, suggesting a possible explanation for the observations (hypothesis), testing the suggested explanation with new observations, make a new hypothesis if the new observations contradict the old hypothesis, or continue to test the hypothesis if the observations agree.
+hypothesis:
+A tentative explanation that can be tested by further observation.
+theory:
+A hypothesis that has been supported with repeated testing.
+law:
+A statement that summarizes, often as a mathematical relationship, the results of many observations.
+experiment:
+When we cause a phenomenon to occur in order to observe it, we call the activity an experiment.
+We use the experiment to help verify or falsify the validity of a hypothesis.
+Distinguish between qualitative and quantitative observations.
+Distinguish between fundamental and derived quantities.
+State the SI units for length, mass, and time.

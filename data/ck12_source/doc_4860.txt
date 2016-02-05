@@ -1,0 +1,20 @@
+The structure-function relationship is a central theme running throughout biology.
+Diversity of Cells
+Different cells within a single organism can come in a variety of sizes and shapes.
+They may not be very big, but their shapes can be very different from each other.
+However, these cells all have common abilities, such as obtaining and using food energy, responding to the external environment, and reproducing.
+In part, a cell’s shape determines its function.
+If cells are the main structural and functional unit of an organism, why are they so small?
+And why are there no organisms with huge cells?
+The answers to these questions lie in a cell’s need for fast, easy food.
+The need to be able to pass nutrients and gases into and out of the cell sets a limit on how big cells can be.
+The larger a cell gets, the more difficult it is for nutrients and gases to move in and out of the cell.
+As a cell grows, its volume increases more quickly than its surface area.
+If a cell was to get very large, the small surface area would not allow enough nutrients to enter the cell quickly enough for the cell’s needs.
+This idea is explained in Figure below .
+However, large cells have a way of dealing with some size challenges.
+Big cells, such as some white blood cells, often grow more nuclei so that they can supply enough proteins and RNA for the cell’s requirements.
+Large, metabolically active cells often have lots of cell protrusions, resulting in many folds throughout the membrane.
+These folds increase the surface area available for transport of materials into or out of the cell.
+Such cell types are found lining your small intestine, where they absorb nutrients from your food through protrusions called microvilli .
+Scale of Measurements

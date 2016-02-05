@@ -1,0 +1,20 @@
+Explain chromosome structure.
+Define sister chromatids.
+List the phases of mitosis.
+Summarize the phases of mitosis.
+How is your DNA organized?
+Your DNA is organized into chromosomes, the pink structures pictured above.
+Your DNA doesn't always look so pretty, though.
+It only winds tightly into chromosomes when the cell is getting ready to divide.
+If your DNA wasn't organized into chromosomes, your DNA would look like a mass of strings and would be difficult to divide up!
+Mitosis and Chromosomes
+The genetic information of the cell, or DNA, is stored in the nucleus .
+During mitosis , two nuclei (plural for nucleus) must form, so that one nucleus can be in each of the new cells after the cell divides.
+In order to create two genetically identical nuclei, DNA inside of the nucleus must be copied or replicated.
+This occurs during the S phase of the cell cycle.
+During mitosis, the copied DNA is divided into two complete sets, so that after cytokinesis , each cell has a complete set of genetic instructions.
+To begin mitosis, the DNA in the nucleus wraps around proteins to form chromosomes .
+Each organism has a unique number of chromosomes.
+In human cells, our DNA is divided up into 23 pairs of chromosomes.
+Replicated DNA forms a chromosome made from two identical sister chromatids , forming an "X" shaped molecule ( Figure below ).
+The two chromatids are held together on the chromosome by the centromere .

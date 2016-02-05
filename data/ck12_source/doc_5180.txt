@@ -1,0 +1,20 @@
+During synapsis, non-sister chromatids may cross-over at points called chiasmata.
+Within a chiasma , the genetic material from two non-sister chromatids actually intertwine around each other, and some material from non-sister chromatids switch chromosomes, that is, the material breaks off and reattaches at the same position on the homologous chromosome ( Figure below ).
+This exchange of genetic material can happen many times within the same pair of homologous chromosomes, creating unique combinations of alleles.
+This process is also known as homologous recombination .
+During crossing-over, segments of DNA are exchanged between non-sister chromatids of homologous chromosomes.
+Notice how this can result in an allele (A) on one chromosome being moved to the other chromosome.
+The four chromatids compose the tetrad, with a chiasma at the point of exchange.
+Independent Assortment and Random Fertilization
+In humans, there are over 8 million configurations in which the chromosomes can line up during metaphase I of meiosis.
+It is the specific processes of meiosis, resulting in four unique haploid cells, that result in these many combinations.
+This independent assortment, in which the chromosome inherited from either the father or mother can sort into any gamete, produces the potential for tremendous genetic variation.
+This process underlies the chromosomal basis of inheritance.
+Gregor Mendel's findings and laws will be discussed in the Inheritance concepts, but essentially, his findings led to the development of two laws of inheritance: the Law of Segregation and the Law of Independent Assortment.
+The Law of Segregation states that when any individual produces gametes, the copies of a gene separate so that each gamete receives only one copy (one allele) of that gene.
+The Law of Independent Assortment states that separate genes for separate traits are passed independently of one another from parents to offspring.
+Together with random fertilization, more possibilities for genetic variation exist between any two people than the number of individuals alive today.
+Sexual reproduction is the random fertilization of a gamete from the female using a gamete from the male.
+In humans, over 8 million (2 23 ) chromosome combinations exist in the production of gametes in both the male and female.
+Essentially, when the homologous pairs of chromosomes line up during metaphase I and then are separated at anaphase I, there are (2 23 ) possible combinations of maternal and paternal chromosomes.
+During random fertilization, a sperm cell, with over 8 million possible chromosome combinations, fertilizes an egg cell, which also has over 8 million possible chromosome combinations.

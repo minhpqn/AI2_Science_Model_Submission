@@ -1,0 +1,20 @@
+This signal is the 5’ cap .
+The 5' cap is a modified guanine nucleotide ( a 7-methylguanosine) added to the 5’-end of the pre-mRNA soon after the start of transcription.
+This 5’ cap is crucial for recognition and proper attachment of the mRNA to the ribosome, as well as protection from exonucleases, enzymes that degrade nucleic acids.
+Specifically the 5' cap adds stability from RNases.
+The process of 5' capping is vital to creating mature messenger RNA prior to translation.
+The cap is also known as a 7-methylguanosine cap, abbreviated m 7 G.
+5' (7-methylguanosine) cap structure.
+In certain instances, the nucleotide sequence of an mRNA will be changed to allow the mRNA to produce multiple proteins.
+This process is called editing .
+The classic example is editing of the apolipoprotein B (APOB) mRNA in humans.
+APOB is a protein that is responsible for carrying cholesterol to tissues.
+It is the primary lipoprotein of LDL (low density lipoprotein).
+The APOB protein occurs in the plasma in two main forms, APOB48 and APOB100.
+APOB48 has 48% of the molecular weight has APOB100.
+The first is synthesized exclusively by the small intestine, the second by the liver.
+Both proteins are coded for by the same gene, which is transcribed into a single pre-mRNA.
+Editing changes a C to a U in the mRNA, changing a CAA codon (Glutamine) to a UAA codon, which is a premature (early) stop codon.
+Hence, upon translation this base change results in a smaller protein.
+As a result of the RNA editing, APOB48 and APOB100 share a common N-terminal sequence, but APOB48 lacks APOB100's C-terminal region.
+APOB48 contains only the first 2152 amino acids of the full-length 4536 amino acid APOB100.

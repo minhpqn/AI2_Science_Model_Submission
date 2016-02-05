@@ -1,0 +1,20 @@
+What is the definition of electrical power?
+What happens to the electrical energy that is not converted into work?
+Instruction and practice problems related to the energy delivered by an electric circuit:
+A 2-way light bulb for a 110.
+V lamp has filament that uses power at a rate of 50.0 W and another filament that uses power at a rate of 100.
+W.
+Find the resistance of these two filaments.
+Find the power dissipation of a 1.5 A lamp operating on a 12 V battery.
+A high voltage  (4.0 \times 10^5 \ V) power transmission line delivers electrical energy from a generating station to a substation at a rate of 1.5 \times 10^9 \ W .
+What is the current in the lines?
+A toaster oven indicates that it operates at 1500 W on a 110 V circuit.
+What is the resistance of the oven?
+electrical energy:
+Energy is the ability to do work, so electrical energy is the work done by an electrical circuit.
+kilowatt hour:
+An amount of energy equal to 3.6 \times 10^6 \ \text{Joules} .
+Controlling Current in Electric Circuits
+Define and describe the function of an electrical fuse.
+Define and describe the function of a circuit breaker.
+Define and describe the function of a surge protector.

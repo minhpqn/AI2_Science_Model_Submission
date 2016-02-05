@@ -1,0 +1,20 @@
+If you did, it would take a lot of energy.
+Sometimes, moving things into or out of the cell also takes energy.
+How would the cell move something against a concentration gradient?
+It starts by using energy.
+In contrast to facilitated diffusion, which does not require energy and carries molecules or ions down a concentration gradient , active transport pumps molecules and ions against a concentration gradient.
+Sometimes an organism needs to transport something against a concentration gradient.
+The only way this can be done is through active transport, which uses energy that is produced by respiration (ATP).
+In active transport, the particles move across a cell membrane from a lower concentration to a higher concentration.
+Active transport is the energy-requiring process of pumping molecules and ions across membranes "uphill" - against a concentration gradient.
+The active transport of small molecules or ions across a cell membrane is generally carried out by transport proteins that are found in the membrane.
+Larger molecules such as starch can also be actively transported across the cell membrane by processes called endocytosis and exocytosis.
+Homeostasis and Cell Function
+Homeostasis refers to the balance, or equilibrium, within the cell or a body.
+It is an organism’s ability to keep a constant internal environment.
+Keeping a stable internal environment requires constant adjustments as conditions change inside and outside the cell.
+The adjusting of systems within a cell is called homeostatic regulation.
+Because the internal and external environments of a cell are constantly changing, adjustments must be made continuously to stay at or near the set point (the normal level or range).
+Homeostasis is a dynamic equilibrium rather than an unchanging state.
+The cellular processes discussed in both the Diffusion and Active Transport concepts all play an important role in homeostatic regulation.
+You will learn more about homeostasis in other concepts.

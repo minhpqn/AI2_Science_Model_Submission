@@ -1,0 +1,20 @@
+Type A blood:
+I A I A , I A i
+Type B blood:
+I B I B , I B i
+Type AB blood:
+I A I B
+Type O blood: ii
+Polygenic characteristics are controlled by more than one gene, and each gene may have two or more alleles.
+The genes may be on the same chromosome or on nonhomologous chromosomes.
+If the genes are located close together on the same chromosome, they are likely to be inherited together.
+However, it is possible that they will be separated by crossing-over during meiosis, in which case they may be inherited independently of one another.
+If the genes are on nonhomologous chromosomes, they may be recombined in various ways because of independent assortment.
+For these reasons, the inheritance of polygenic characteristics is very complicated.
+Such characteristics may have many possible phenotypes.
+Skin color and adult height are examples of polygenic characteristics in humans.
+Do you have any idea how many phenotypes each characteristic has?
+Human adult height distribution
+Human Adult Height.
+Like many other polygenic traits, adult height has a bell-shaped distribution.
+Effects of Environment on Phenotype

@@ -1,0 +1,20 @@
+Discuss three specific transcription factors.
+When a homeodomain binds to DNA, the actual binding portion of the homeodomain is:
+A leucine zipper.
+A helix-turn-helix motif.
+In the zinc fingers motif, the spacing of the helical segments is performed by:
+An alpha helix.
+Gene Regulation and Cancer - Advanced
+Discuss gene regulation in terms of the development of cancer.
+What controls a growing tumor?
+There are two main types of genes involved in cancer formation.
+Mutations in these genes lead to the development of cancer.
+One type of gene, a pro to-oncogene, is normally a transcription factor.
+When transcription does not occur properly, detrimental effects can result.
+Regulation of Gene Expression in Cancer
+Carcinogenesis is the process by which normal cells are transformed into cancer cells.
+The process is also known as oncogenesis or tumorigenesis and it depends on both the activation of oncogenes and deactivation of tumor suppressor genes .
+Proto-oncogenes, the non-cancerous normal version of an oncogene, can be a transcription factor like c-fos, c-jun and c-myc, or a gene whose product is involved in signal transduction, leading to altered gene expression.
+When mutations cause the regulation of this process to be disturbed, cell proliferation can be enhanced leading to tumorigenesis.
+At least two separate mutations are necessary to develop cancer.
+For example, a mutation in a proto-oncogene would not necessarily lead to cancer, as normally functioning tumor suppressor genes would counteract the effects of the oncogene.

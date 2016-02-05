@@ -1,0 +1,20 @@
+Efficiency tells you how efficient something is and gives a number between 0 and 1.
+If the efficiency is equal to 1, then the machine is perfectly efficient (that is all the power used to drive it goes to the out put of the machine with no energy losses).
+If the efficiency is zero, then all of the input power is lost in the machine and the machine can not output any energy.
+Question :
+A pile driver lifts a 500 kg mass a vertical distance of 20 m in 1.1 sec.
+It uses 225 kW of supplied power to do this.
+a) How much work was done by the pile driver?
+b) How much power was used in actually lifting the mass?
+c) What is the efficiency of the machine? (This is the ratio of power used to power supplied.)
+d) The mass is dropped on a pile and falls 20 m.
+If it loses 40,000 J on the way down to the ground due to air resistance, what is its speed when it hits the pile?
+a) We will use the equation for work (which gives us the amount of energy transferred) and plug in the known values to get the amount of work done by the pile driver.
+W=Fd=mgd=500\mathrm{kg}\times 9.8\mathrm{m/s^2}\times 20\mathrm{m}=9.8\times 10^4\mathrm{J}
+b) We will use the power equation and plug in the known values and then convert to kW at the end.
+P=\frac{W}{\Delta t}=\frac{9.8\times 10^4\mathrm{J}}{1.1\mathrm{s}}=89000\mathrm{W} \times \frac{1 \mathrm{kW}}{1000\mathrm{W}}=89\mathrm{kW}
+c) Efficiency is defined as the Power out divided by the Power in.
+Thus, this is simply a division problem.
+Eff = \frac{\mathrm{power~used}}{\mathrm{power~supplied}}=\frac{89\mathrm{kW}}{225\mathrm{kW}}=.40
+d) We have already solved for the amount of energy the mass has after the pile driver performs work on it (it has 9.8\times 10^4\mathrm{J} ).
+If on the way down it loses 40000\mathrm{J} due to air resistance, then it effectively has 98000\mathrm{J}-40000\mathrm{J}=58000\mathrm{J} of energy.

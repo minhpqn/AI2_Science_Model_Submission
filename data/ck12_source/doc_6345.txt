@@ -1,0 +1,20 @@
+What does the  K_{sp} tell us?
+Which of the lead salts listed in the table above is the most soluble?
+What is the exponent for an ion in the equation?
+solubility product constant, (K_{sp}) :
+The mathematical product of the ions each raised to the power of the coefficient of the ion in the dissociation equation.
+Conversion of Solubility to Ksp
+Define molar solubility.
+Perform calculations involving molar solubility and K_{sp} .
+The production of baking soda relies on the precipitation of baking soda out of solution
+How is baking soda made?
+Baking soda (sodium bicarbonate) is prepared by bubbling carbon dioxide gas through a solution of ammonia and sodium chloride.
+Ammonium carbonate is first formed which then reacts with the NaCl to form sodium bicarbonate and ammonium chloride.
+The sodium bicarbonate is less soluble than the other materials, so it will precipitate out of solution.
+Conversion of Solubility to  K_{sp}
+Solubility is normally expressed in g/L of saturated solution.
+However, solubility can also be expressed as the moles per liter.
+Molar solubility is the number of moles of solute in one liter of saturated solution.
+In other words, the molar solubility of a given compound represents the highest molarity solution that is possible for that compound.
+The molar mass of a compound is the conversion factor between solubility and molar solubility.
+Given that the solubility of Zn(OH) 2 is 4.2 × 10 -4  g/L, the molar solubility can be calculated as shown below:

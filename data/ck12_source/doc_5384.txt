@@ -1,0 +1,20 @@
+Distinguish between a transition and a transversion.
+Mutations Types - Advanced
+Describe common types of mutations, including three common types of point mutations.
+Illustrate common chromosomal alterations.
+Discuss potential outcomes of point mutations.
+Discuss consequences of effect-on-function mutations.
+Obviously this is not very common.
+But it is not that uncommon, with an incidence of about 1 in 500 live births.
+Known as polydactyly, this phenotype has been associated with over 35 genetic mutations.
+Types of Mutations
+Mutations, a change in the DNA or RNA sequence, may have no effect, may be beneficial or may be harmful.
+There are numerous ways that the genetic information can be changed.
+Some of these changes can be inherited.
+In multicellular organisms, mutations can be subdivided into germline mutations , which can be passed on to descendants, and somatic mutations , which cannot be transmitted to the next generation.
+Germline mutations change the DNA sequence within a sperm or egg cell, and therefore can be inherited.
+This inherited mutation may result in a class of diseases known as a genetic disease.
+The mutation may lead to a nonfunctional protein, and the embryo may not develop properly or survive.
+Somatic mutations may affect the proper functioning of the cell with the mutation.
+During DNA replication, the mutation will be copied.
+The two daughter cells formed after cell division will both carry the mutation.

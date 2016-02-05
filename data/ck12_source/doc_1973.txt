@@ -1,0 +1,20 @@
+For example, if b = 10 and d = 8, r = 2.
+This means that the population is growing by 2 individuals per year for every 100 members of the population.
+This may not sound like much, but it’s a fairly high rate of growth.
+A population growing at this rate would double in size in just 35 years!
+If the birth rate is less than the death rate, r is negative.
+This means that the population is becoming smaller.
+What do you think might cause this to happen?
+A population can’t keep growing bigger and bigger forever.
+Sooner or later, it will run out of things it needs.
+For a given species, there is a maximum population that can be supported by the environment.
+This maximum is called the carrying capacity .
+When a population gets close to the carrying capacity, it usually grows more slowly ( Figure below ).
+When the population reaches the carrying capacity, it stops growing.
+A logistic growth curve
+A population can’t get much larger than the carrying capacity.
+What might happen if it did?
+A population will grow as long as it has what it needs.
+The carrying capacity of an environment is reached when the number of births equal the number of deaths.
+A limiting factor determines the carrying capacity for a species.
+Use the resource below to answer the questions that follow.

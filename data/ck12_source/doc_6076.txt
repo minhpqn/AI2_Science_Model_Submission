@@ -1,0 +1,20 @@
+Define phase diagram.
+Define the triple point.
+Describe how to use the phase diagram to indicate the state of a material and different temperatures and pressures.
+By compressing oxygen, oxygen can be turned into an easily stored liquid
+How are rockets able to shoot up into the air?
+Many rockets use a combination of kerosene and liquid oxygen for their fuel.
+Oxygen can be reduced to the liquid state either by cooling or by using high pressure.
+Since the oxygen is in a container essentially out in the open, maintaining a temperature of -183°C (the boiling point of oxygen) is not real practical.
+But high pressure can be used to force the oxygen into tanks and cause it to liquefy so it can then mix with the kerosene and provide a powerful ignition to move the rocket.
+The relationships among the solid, liquid, and vapor (gas) states of a substance can be shown as a function of temperature and pressure in single diagram.
+A phase diagram is  graph showing the conditions of temperature and pressure under which a substance exists in the solid, liquid, and gas phases.
+Examine the general phase diagram shown in the Figure below .
+In each of the three colored regions of the diagram, the substance is in a single state (or phase).
+The dark lines that act as the boundary between those regions represent the conditions under which the two phases are in equilibrium.
+A phase diagram shows the state of a substance as a function of temperature and pressure
+General phase diagram, which shows the state (phase) of a substance as a function of its temperature and pressure.
+Find the  X on the pressure axis and presume that the value of  X is standard pressure of 1 atm.
+As one moves left to right across the red line, the temperature of the solid substance is being increased while the temperature remains constant.
+When point A is reached, the substance melts and the temperature  B on the horizontal axis represents the normal melting point of the substance.
+Moving further to the right, the substance boils at point  Y and so point  C on the horizontal axis represents the normal boiling point of the substance.

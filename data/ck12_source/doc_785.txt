@@ -1,0 +1,20 @@
+B \ \text{is expressed in} \ \frac{Newtons}{Amp \cdot meter}  ,while q is expressed in coulombs and v  is expressed in m/s.
+The unit \frac{N}{A \cdot m}  is also known as a Tesla , after the Serbian physicist Nikola Tesla.
+You can see that the product of these three units is Newtons, the appropriate unit for force.
+F=Bqv=\frac{Newtons}{Amp \cdot meter} \cdot coulomb \cdot \frac{meter}{s} and since amperes are \frac{coulomb}{second} , amps cancels coulombs/second and meters cancels meters.
+The only unit remaining is Newtons.
+Again, we can determine the direction of the force acting upon the electron using a hand rule.
+Since the electron has a negative charge, the left hand rule is used.
+The fingers of the left hand are pointed in the direction of the magnetic field and the thumb points in the direction of the initial electron movement.
+The direction of the force acting on the electron is the direction the palm of the left hand faces.
+The direction of the magnetic field, the direction of the moving charge, and the direction of the force on the particle are all perpendicular to each other.
+Illustration of the left hand rule
+In most situations, a positive test charged is used, instead of an electron.
+In these circumstances, the right hand rule  is used.
+The right hand rule is the same as the left hand rule; the thumb is the direction of initial charge movement, the fingers are the direction of the field, and the palm is the direction of the acting force.
+Illustration of the right hand rule for force
+In dealing with the relationships that exist between magnetic fields and electric charges, there are both left hand and right hand rules that we use to indicate various directions – directions of fields, directions of currents, directions of motion.
+To avoid errors, it is absolutely vital to know and express whether the system we are observing is using conventional current or electron current.
+This allows us to use the appropriate rule.
+Example Problem:
+An electron traveling at  3.0 \times 10^6 \ m/s passes through a  0.0400 \ N/amp \cdot m uniform magnetic field.

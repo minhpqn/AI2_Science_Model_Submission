@@ -1,0 +1,20 @@
+The Kelvin temperature scale is the scale that is based on molecular motion and so absolute zero is also called 0 K.
+The Kelvin temperature of a substance is directly proportional to the average kinetic energy of the particles of the substance.
+For example, the particles in a sample of hydrogen gas at 200 K have twice the average kinetic energy as the particles in a hydrogen sample at 100 K.
+Liquid helium has very low kinetic energy because of its low absolute temperature
+Helium gas liquefies at 4 K or four degrees above absolute zero.
+Liquid helium is used as a coolant for large superconducting magnets and must be stored in insulated metal canisters.
+Kinetic energy is the energy of motion.
+At a given temperature, individual particles of a substance have a range of kinetic energies.
+The motion of particles theoretically ceases at absolute zero.
+Watch the presentation and take the quiz at the end:
+What is kinetic energy?
+If the temperature increases, will particles move faster or slower that they would ata lower temperature?
+What is absolute zero?
+List one use for liquid helium.
+absolute zero:
+The temperature at which the motion of particles theoretically ceases.
+Kelvin scale:
+The scale that is based on molecular motion and so absolute zero is also called 0 K.
+kinetic energy:
+The energy of motion.

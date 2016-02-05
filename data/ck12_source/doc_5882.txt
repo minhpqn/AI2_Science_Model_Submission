@@ -1,0 +1,20 @@
+An electrically neutral compound consisting of positive and negative ions.
+Ionic Crystal Structure
+Describe the lattice structure of ionic compounds.
+A ruby crystal is an ionic compound
+Why are crystals appealing?
+Crystals are found everywhere chemical deposits are located.
+The ruby crystal shown above is extremely valuable, both because of its beauty and its utility in equipment such as lasers.
+For some people, crystals are said to have magical qualities.
+For others, the “magic” is in the regular structure of the crystal as the cations and anions line up in a regular order.
+Ionic Crystal Structure
+Electron dot diagrams show the nature of the electron transfer that takes place between metal and nonmetal atoms.  However, ionic compounds do not exist as discrete molecules, as the dot diagrams may suggest.  In order to minimize the potential energy of the system, ionic compounds take on the form of an extended three-dimensional array of alternating cations and anions.  This maximizes the attractive forces between the oppositely charges ions.  The figure below shows two different ways of representing the ionic crystal lattice.  A ball and stick model makes it easier to see how individual ions are oriented with respect to one another.  A space filling diagram is a more accurate representation of how the ions pack together in the crystal .
+The ionic lattice of sodium chloride
+Two models of a sodium chloride crystal are shown.
+The purple spheres represent the Na + ions, while the green spheres represent the Cl − ions. (A) In an expanded view, the distances between ions are exaggerated, more easily showing the coordination numbers of each ion. (B) In a space filling model, the electron clouds of the ions are in contact with each other.
+Naturally occurring sodium chloride (halite) does not look at first glance like the neat diagrams shown above.  It is only when we use modern techniques to analyze the crystal structure at the atomic level that we can see the true regularity of the organized ions.
+A halite crystal, which is a form of sodium chloride
+Ionic compounds take on the form of extended three-dimensional arrays of cations and anions.
+The arrangement maximizes the attractive force between oppositely-charged ions.
+Use the link below to answer the following questions:
+How many chloride ions are touched by a sodium ion?

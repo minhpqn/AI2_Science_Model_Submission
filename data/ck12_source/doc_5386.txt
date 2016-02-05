@@ -1,0 +1,20 @@
+Duplication: the blue segment has been duplicated;
+Inversions: the blue segment has been reversed;
+Insertion: the yellow segment has been removed from chromosome 4 and placed into chromosome 20;
+Translocation: a green segment from chromosome 4 has been exchanged with a red segment from chromosome 20.
+As the name implies, point mutations occur at a single site within the DNA.
+The example from Protein Synthesis:
+The Genetic Code (Advanced) concept demonstrates this mutation:
+THE BIG FAT CAT ATE THE RED RAT.
+A change at any one position could result in a sequence that does not make sense.
+Such as the C to A change shown here
+THE BIG FAT AAT ATE THE RED RAT.
+As shown above, point mutations exchange one nucleotide for another and are known as base substitution mutations.
+These mutations are often caused either by chemicals or by a mistake during DNA replication.
+A transition exchanges a purine for a purine (A ↔ G) or a pyrimidine for a pyrimidine, (C ↔ T), and is the most common point mutation.
+Less common is a transversion , which exchanges a purine for a pyrimidine or a pyrimidine for a purine (C/T ↔ A/G).
+Point mutations that occur within the protein coding region of a gene are classified by the effect on the resulting protein:
+mutated codon codes for the same amino acid
+CAA (glutamine) → CAG (glutamine)
+mutated codon codes for a different amino acid
+CAA (glutamine) → CCA (proline)

@@ -1,0 +1,20 @@
+Heat, Temperature, and Thermal Energy Transfer
+Describe thermal energy transfer.
+Define Celsius and Kelvin temperature scales.
+Convert Celsius temperatures to Kelvin and vice versa.
+Lava erupting from Kilauea volcano
+The temperature of basalt lava at Kilauea (Hawaii) reaches 1,160 degrees Celsius (2,120 degrees Fahrenheit).
+A crude estimation of temperature can be determined by looking at the color of the rock: orange-to-yellow colors are emitted when rocks (or metals) are hotter than about 900 degrees Celsius; dark-to-bright cherry red is characteristic as material cools to 630 degrees Celsius; faint red glow persists down to about 480 degrees Celsius.
+For comparison, a pizza oven is commonly operated at temperatures ranging from 260 to 315 degrees Celsius.
+Heat, Temperature, and Thermal Energy Transfer
+The first theory about how a hot object differs from a cold object was formed in the 18th century.
+The suggested explanation was that when an object was heated, an invisible fluid called “caloric” was added to the object.
+Hot objects contained more caloric than cold objects.
+The caloric theory could explain some observations about heated objects (such as that the fact that objects expanded as they were heated) but could not explain others (such as why your hands got warm when you rub them together).
+In the mid-19th century, scientists devised a new theory to explain heat.
+The new theory was based on the assumption that matter is made up of tiny particles that are always in motion.
+In a hot object, the particles move faster and therefore have greater kinetic energy.
+The theory is called the kinetic-molecular theory and is the accepted theory of heat.
+Just as a baseball has a certain amount of kinetic energy due to its mass and velocity, each molecule has a certain amount of kinetic energy due to its mass and velocity.
+Adding up the kinetic energy of all the molecules in an object yields the thermal energy of the object.
+When a hot object and a cold object touch each other, the molecules of the objects collide along the surface where they touch.

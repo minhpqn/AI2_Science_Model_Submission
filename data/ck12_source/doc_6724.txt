@@ -1,0 +1,20 @@
+Remember that the FBD is supposed to be helping you with your problem.
+For instance, if you forget a force, it'll be really obvious on your FBD.
+Break the forces that are at angles into their x and y components
+Use right triangle trigonometry
+Remember that these components aren't new forces, but are just what makes up the forces you've already identified.
+Consider making a second FBD to do this component work, so that your first FBD doesn't get too messy.
+Add up all the x- forces and x- components.
+Remember that all the rightward forces add with a plus (+) sign, and that all the leftward forces add with a minus (-) sign.
+Don't forget about the x- components of any forces that are at an angle!
+When you've added them all up, call this "the sum of all x forces" or "the net force in the x- direction."
+Add up all the y- forces and y- components.
+Remember that all the upward forces add with a (+) sign, all the downward forces add with a (-) sign.
+Don't forget about the y- components of any forces that are at an angle!
+When you've added them all up, call this "the sum of all y forces" or "net force in the y- direction."
+Use Newton's Laws twice.
+The sum of all x- forces, divided by the mass, is the object's acceleration in the x- direction.
+The sum of all y- forces, divided by the mass, is the object's acceleration in the y- direction.
+If you happen to know that the acceleration in the x- direction or y- direction is zero (say the object is just sitting on a table), then you can plug this in to Newton’s 2^{nd} Law directly.
+If you happen to know the acceleration, you can plug this in directly too.
+Each body should have a FBD.

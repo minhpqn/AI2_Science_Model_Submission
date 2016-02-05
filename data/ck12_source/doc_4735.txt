@@ -1,0 +1,20 @@
+Discuss the role of ethics in science.
+Units of Measurement - Advanced
+Identify the units of measurement that scientists use.
+List common SI base units.
+Name common SI prefixes.
+How do you measure something really really small?
+If we are talking about a cell, then not with a ruler.
+Units must exist that can describe sizes many times smaller than the smallest marking on a ruler.
+Units of Measurement
+The measurements that scientists use are based on the International System of Units (SI), which is a form of the metric system.
+The term SI is shortened from the French term Le Système international d'unités .
+It is the world's most widely used system of units, both in science and business.
+It is useful to scientists because it is based on multiples of 10.
+The SI was developed in 1960 from an older metric system and is used in almost every country.
+The SI is not static, as the technology of measurement progresses, units are created and definitions are changed through international agreement among many nations.
+The international system of units is made up of a seven base units, shown in the SI Base Units Table below .
+From these seven base units several other units are derived.
+thermal energy (temperature)
+amount of substance
+A prefix may be added to SI units to make a multiple of the original unit.

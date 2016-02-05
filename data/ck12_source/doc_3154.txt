@@ -1,0 +1,20 @@
+Diagram illustrating heat transfer by radiation
+Thermal radiation is one of three ways that thermal energy can be transferred.
+The other two ways are conduction and convection, both of which need matter to transfer energy.
+Radiation is the only way of transferring thermal energy that doesn’t require matter.
+To learn more about thermal radiation, watch “Radiation” at the URL below.
+Sources of Thermal Radiation
+You might be surprised to learn that everything radiates thermal energy, not just really hot things such as the sun or a fire.
+For example, when it’s cold outside, a heated home radiates some of its thermal energy into the outdoor environment.
+A home that is poorly insulated radiates more energy than a home that is well insulated.
+Special cameras can be used to detect radiated heat.
+In the Figure below , you can see an image created by one of these cameras.
+The areas that are yellow are the areas where the greatest amount of thermal energy is radiating from the home.
+Even people radiate thermal energy.
+In fact, when a room is full of people, it may feel noticeably warmer because of all the thermal energy the people radiate!
+Thermal camera view of house
+Q:
+Where is thermal radiation radiating from the home in the picture?
+A:
+The greatest amount of thermal energy is radiating from the window on the upper left.
+A lot of thermal energy is also radiating from the edges of the windows and door.

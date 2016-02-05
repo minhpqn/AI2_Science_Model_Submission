@@ -1,0 +1,20 @@
+The speed of sound also depends on the temperature of the medium.
+For a given medium, sound has a slower speed at lower temperatures.
+You can compare the speed of sound in dry air at different temperatures in the following Table below .
+At a lower temperature, particles of the medium are moving more slowly, so it takes them longer to transfer the energy of the sound waves.
+Temperature of Air
+Speed of Sound Waves (m/s)
+Q:
+What do you think the speed of sound might be in dry air at a temperature of -20 °C?
+A:
+For each 1 degree Celsius that temperature decreases, the speed of sound decreases by 0.6 m/s.
+So sound travels through dry, -20 °C air at a speed of 319 m/s.
+The speed of sound is the distance that sound waves travel in a given amount of time.
+The speed of sound in dry air at 20 °C is 343 meters per second.
+Generally, sound waves travel most quickly through solids, followed by liquids, and then by gases.
+For a given medium, sound waves travel more slowly at lower temperatures.
+At the following URL, read about the speed of sound in different materials.
+Be sure to play the animation.
+Then answer the questions below.
+Describe what you hear when you play the animation.
+Explain your observations.

@@ -1,0 +1,20 @@
+Though cell division in all cells results in one cell becoming two cells, cell division in eukaryotic organisms is very different from that in prokaryotes, mainly because of the many chromosomes in the nuclei of eukaryotic cells .
+Cell division in eukaryotic organisms is necessary for development, growth, and repair of the organism.
+Just as in binary fission, eukaryotic cell division ensures that each resulting daughter cell receives a complete copy of the organism’s entire genome.
+Remember that all of an organism’s DNA must be present in each somatic, or body, cell.
+This DNA contains the information necessary for that cell to perform its functions, and to give that organism its traits.
+Therefore, prior to cell division, the eukaryotic cell’s complete genome must be copied, a process known as DNA replication , ensuring that each daughter cell receives a complete set of the genome.
+Prior to cell division, the cell's organelles are also duplicated.
+Now the cell is ready to divide.
+Cell division occurs at the end of an eukaryotic cell's cell cycle .
+Eukaryotic cell division occurs in two major steps:
+The first step is mitosis , a multi-phase process in which the nucleus of the cell divides.
+During mitosis, the nuclear membrane breaks down and later reforms.
+The chromosomes are also sorted and separated to ensure that each daughter cell receives a diploid number of chromosomes.
+In humans, that number of chromosomes is 46 (23 pairs).
+Mitosis is described in greater detail in Cell Cycle:
+Mitosis (Advanced) .
+Because the DNA has replicated prior to mitosis, the two nuclei that result from mitosis are genetically identical.
+The second major step is cytokinesis .
+As in prokaryotic cells, the cytoplasm must divide.
+Cytokinesis is the division of the cytoplasm in eukaryotic cells, resulting in two genetically identical daughter cells.

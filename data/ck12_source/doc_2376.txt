@@ -1,0 +1,20 @@
+Which derived quantity equals force divided by area?
+What is a derived quantity?
+Give an example.
+What are the dimensions of a square that has an area of 4 cm 2 ?
+Explain how you would calculate the volume of a cube.
+Which derived quantity is used to calculate density?
+Which derived quantity might be measured in mm 3 ?
+Define significant figures.
+State rules for counting significant figures.
+Explain how to determine significant figures in calculations.
+Identify rules for rounding numbers.
+Jerod has a homework problem that involves finding the area of a rectangle.
+He knows that the area of a rectangle equals its length times its width.
+The rectangle in question has a length of 6.9 m and a width of 6.5 m, so he multiplies the two numbers on his calculator.
+The answer he gets is 44.85 m 2 , which he records on his homework.
+To his surprise, his teacher marks this answer wrong.
+The reason?
+The answer has too many significant figures.
+What Are Significant Figures?
+In any measurement, the number of significant figures is the number of digits thought to be correct by the person doing the measuring.

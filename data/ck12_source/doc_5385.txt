@@ -1,0 +1,20 @@
+This may lead to the development of many cells that do not function optimally, resulting a less than optimal phenotype.
+Various types of mutations can all have severe effects on the individual.
+These include point mutations, framehift mutations and chromosomal alterations.
+Keep in mind, some mutations may be beneficial or have no effect.
+Mutations that have no effect will not affect the expression of the gene or the sequence of amino acids in an encoded protein.
+Chromosomal alterations are large changes in the chromosome structure.
+They occur when genetic material is added or removed from a chromosome.
+This alteration of a chromosome may occur when a section of a chromosome breaks and rejoins a chromosome incorrectly, or does not rejoin at all.
+Sometimes the segment may join backwards or reattach to another chromosome altogether.
+These mutations are very serious and usually lethal to the zygote or embryo.
+If the embryo does survive, the resulting organism is usually sterile and thus, unable to pass along the mutation.
+The five types of chromosomal alterations are deletions, duplications, insertions, inversions, and translocations ( Figure below ).
+Deletions are the removal of a large chromosomal region, leading to loss of the genes within that region.
+Duplications (or amplifications ) lead to multiple copies of a chromosomal region, increasing the number of the genes located within that region.
+Some genes may be duplicated in their entirety.
+Insertions are the addition of material from one chromosome to a nonhomologous chromosome.
+Inversions are reversing the orientation of a chromosomal segment.
+Translocations are the interchange of genetic material between nonhomologous chromosomes.
+Chromosomal alterations.
+Deletion: the blue segment has been removed;

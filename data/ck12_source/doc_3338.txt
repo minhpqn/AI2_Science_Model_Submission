@@ -1,0 +1,20 @@
+An integrated circuit (microchip) is an electronic component that consists of many other electronic components such as transistors.
+Integrated circuits are used in virtually all modern electronic devices to carry out specific tasks.
+Explore the semiconductor animation at the following URL, and then answer the questions below.
+How can you make the semiconductor a p-type semiconductor?
+How do the positive “holes” flow in this type of semiconductor?
+What do you have to do to change the semiconductor to an n-type semiconductor?
+How do the electrons flow in this type of semiconductor?
+What are electronic components?
+Compare and contrast n-type and p-type semiconductors.
+Describe the structure and function of a diode.
+How does a transistor act as a switch?
+Explain how the size of an integrated circuit helps it carry out tasks with incredible speed.
+Identify common electronic devices.
+Outline the parts of a computer and what they do.
+If you were born in the last few decades, it’s probably impossible for you to imagine life without the computer.
+The computer is just one of many electronic devices that make modern life possible.
+What are Electronic Devices?
+Many of the devices people commonly use today are electronic devices.
+Electronic devices use electric current to encode, analyze, or transmit information.
+In addition to computers, they include mobile phones, TV remotes, DVD and CD players, and digital cameras, to name just a few.

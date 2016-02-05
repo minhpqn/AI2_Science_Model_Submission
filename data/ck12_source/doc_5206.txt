@@ -1,0 +1,20 @@
+Mendel wanted to know what happened to the white-flowers.
+If indeed a "heritable factor" for white-flower had disappeared, all future offspring of the hybrids would be purple-flowered - none would be white.
+To test this idea, Mendel let the F 1 generation plants self-pollinate and then planted the resulting seeds.
+This diagram shows Mendel's first experiment with pea plants.
+Mendel started by crossing a true-breeding purple-flowering plant with a true-breeding white-flowering plant.
+The F1 generation contained all purple flowers.
+The F2 generation results from self-pollination of F1 plants, and contained 75% purple flowers and 25% white flowers.
+The F 2 generation plants that grew included white-flowered plants.
+Mendel noted the ratio of white flowered plants to purple-flowered plants was about 3:1.
+That is, for every three purple-flowered plants, there was one white flowered plant.
+The Figure below shows Mendel’s results for the characteristic of flower color.
+Mendel carried out identical studies over three generations, (P, F 1 , and F 2 ), for the other six characteristics and found in each case that one trait “disappeared” in the F 1 generation, only to reappear in the F 2 generation.
+Mendel studied a large number of plants, as shown in the Table below .
+His use of statistics to demonstrate the repeated 3:1 ration of traits.
+Because of the repeatable nature of his findings, Mendel was confident that the ratios of different traits in the F 2 generation were representative.
+As shown in the table, Mendel called the trait that appeared in the F 2 75% of the time the dominant trait, and the trait that reappeared in the F 2 the recessive trait.
+See Some genes are dominant at for animation describing these findings.
+Results of F1 Generation Crosses for Seven Characteristics in
+F2 Generation Dominant:Recessive
+Flower Position on stem

@@ -1,0 +1,20 @@
+A:
+Atoms also contain positively charged particles that cancel out the negative charge of the electrons.
+However, these positive particles weren’t discovered until a couple of decades after Thomson discovered electrons.
+The Plum Pudding Model
+Thomson also knew that atoms are neutral in electric charge, so he asked the same question:
+How can atoms contain negative particles and still be neutral?
+He hypothesized that the rest of the atom must be positively charged in order to cancel out the negative charge of the electrons.
+He envisioned the atom as being similar to a plum pudding, like the one pictured in the Figure below —mostly positive in charge (the pudding) with negative electrons (the plums) scattered through it.
+Plum pudding and Thomson's plum pudding model
+Q:
+How is our modern understanding of atomic structure different from Thomson’s plum pudding model?
+A:
+Today we know that all of the positive charge in an atom is concentrated in a tiny central area called the nucleus, with the electrons swirling through empty space around it, as in the Figure below .
+The nucleus was discovered just a few years after Thomson discovered the electron, so the plum pudding model was soon rejected.
+Model of an atom
+In 1897, J.
+J.
+Thomson discovered the first subatomic particle, the electron, while researching cathode rays.
+To explain the neutrality of atoms, Thomson proposed a model of the atom in which negative electrons are scattered throughout a sphere of positive charge.
+He called his atom the plum pudding model.

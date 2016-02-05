@@ -1,0 +1,20 @@
+The free phosphate phosphorylates the sodium-potassium pump.
+A conformational change in the pump exposes the Na + ions to the outside.
+The phosphorylated form of the pump has a low affinity for Na + ions, so they are released.
+The pump binds two extracellular K + ions.
+This causes the dephosphorylation of the pump, reverting it to its previous conformational state, transporting the K + ions into the cell.
+The unphosphorylated form of the pump has a higher affinity for Na + ions than K + ions, so the two bound K + ions are released.
+ATP binds, and the process starts again.
+A more detailed look at the sodium-potassium pump is available at (13:53) and
+Click on the image above for more content
+Click on the image above for more content
+Na + /K + -ATPase :
+An active transport carrier protein/a transmembrane ATPase; moves sodium and potassium ions against large concentration gradients; the sodium-potassium pump.
+resting potential :
+The membrane potential of a cell/neuron at rest; the membrane potential of an unstimulated neuron.
+sodium-potassium pump :
+An active transport carrier protein/a transmembrane ATPase; moves sodium and potassium ions against large concentration gradients; the Na + /K + -ATPase.
+The sodium-potassium pump is an example of an active transport membrane protein/transmembrane ATPase.
+Using the energy from ATP, the sodium-potassium moves three sodium ions out of the cell and brings two potassium ions into the cell.
+Use this resource to answer the questions that follow.
+The Sodium Potassium Pump at

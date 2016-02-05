@@ -1,0 +1,20 @@
+What is a bimolecular elementary process?
+Do chemical reactions usually occur in a single step?
+What does the overall balanced equation not tell us?
+How do overall reactions usually proceed?
+elementary step (or elementary reaction):
+One step in a series of simple reactions that show the progress of a reaction at the molecular level.
+reaction mechanism:
+The sequence of elementary steps that together comprise an entire chemical reaction.
+Describe the role of intermediates in reaction mechanisms.
+The ozone radical is an intermediate that in the decomposition of ozone by ultraviolet radiation
+Ozone (O 3 ) depletion in the atmosphere is of significant concern.
+This gas serves as a protection against the ultraviolet rays of the sun.
+Ozone is naturally depleted in addition to the depletion caused by human-made chemicals.
+The depletion reaction is a two-step process:
+& \text{O}_3 + \text{ultraviolet light} \rightarrow \text{O}_2 + {\text{O} \cdot} (\text{free radical}) \ \text{slow reaction} \\& {\text{O} \cdot} + \text{O}_3 \rightarrow 2 \text{O}_2 \ \text{fast reaction}
+The free radical is not a part of the overall equation, but can be detected in the lab.
+Reaction mechanisms describe how the material in a chemical reaction gets from the initial reactants to the final products.
+One reaction that illustrates a reaction mechanism is the reaction between nitrogen monoxide and oxygen to form nitrogen dioxide:
+2 \text{NO}(g)+ \text{O}_2(g) \rightarrow 2 \text{NO}_2(g)
+It may seem as though this reaction would occur as the result of a collision between two NO molecules with one O 2 molecule.

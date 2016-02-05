@@ -1,0 +1,20 @@
+However, like natural experiments, field experiments can become contaminated, and conditions like the weather are not easy to control.
+Experimental conditions can be controlled with more precision and certainty in the lab.
+An introduction to the Prince William Sound Field Experiment can be seen at  (4:49).
+Click on the image above for more content
+A prediction is a statement that tells what will happen under specific conditions.
+It can be expressed in the form:
+If A is true, then B will also be true.
+Predictions are based on confirmed hypotheses shown to be true or not proved to be false.
+For researchers to be confident that their predictions will be useful and descriptive, their data must have as few errors as possible.
+Accuracy is the measure of how close a calculated or measured quantity is to its actual value.
+Accuracy is closely related to precision , also called reproducibility or repeatability, which is the degree to which repeated measurements under unchanged conditions show the same results.
+The reproducibility and repeatability of experiments are cornerstones of scientific methods.
+If no other researcher can reproduce or repeat the results of a certain study, then the results of the study will not be accepted as valid.
+Results are considered valid only if they are both accurate and precise.
+A useful tool to help explain the difference between accuracy and precision is a target, shown in Figure below .
+In this analogy, repeated measurements are the arrows that are fired at a target.
+Accuracy describes the closeness of arrows to the bulls eye at the center.
+Arrows that hit closer to the bulls eye are more accurate.
+Arrows that are grouped together more tightly are more precise.
+A visual analogy of accuracy and precision.

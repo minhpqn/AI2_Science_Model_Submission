@@ -1,0 +1,20 @@
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+Why do the light bulbs glow less brightly when connected across a 120 V source in a series circuit than when connected across the same 120 V source in a parallel circuit?
+Why do the other bulbs go dark when one bulb is removed in the series circuit but the other bulbs do not go dark when one bulb is removed in the parallel circuit?
+Three 15.0 Ω resistors are connected in parallel and placed across a 30.0 V potential difference.
+What is the equivalent resistance of the parallel circuit?
+What is the total current through the circuit?
+What is the current through a single branch of the circuit?
+A 12.0 Ω and a 15.0 Ω resistor are connected in parallel and placed across a 30.0 V potential.
+What is the equivalent resistance of the parallel circuit?
+What is the total current through the circuit?
+What is the current through each branch of the circuit?
+A 120.0 Ω resistor, a 60.0 Ω resistor, and a 40.0 Ω resistor are connected in parallel and placed across a potential difference of 12.0 V.
+What is the equivalent resistance of the parallel circuit?
+What is the total current through the circuit?
+What is the current through each branch of the circuit?
+parallel circuit:
+A closed electrical circuit in which the current is divided into two or more paths and then returns via a common path to complete the circuit.
+equivalent resistance:
+A single resistance that would cause the same power loss as the actual resistance values distributed throughout a circuit.

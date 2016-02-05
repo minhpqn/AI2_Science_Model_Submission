@@ -1,0 +1,20 @@
+Diagram illustrating the lipid bilayer hypothesis for anesthetics
+Do you feel anything now?
+When you go to the dentist to get a tooth pulled, you really don’t want to feel any pain.
+The dentist injects an anesthetic into your gum and it eventually becomes numb.
+One theory as to why anesthetics work deals with the movement of ions across the cell membrane.
+The anesthetic gets into the membrane structure and causes shifts in how ions move across the membrane.
+If ion movement is disrupted, nerve impulses will not be transmitted and you will not sense pain – at least not until the anesthetic wears off.
+A phospholipid is a lipid that contains a phosphate group and is a major component of cell membranes.
+A phospholipid consists of a hydrophilic (water-loving) head and hydrophobic (water-fearing) tail (see Figure below ).
+The phospholipid is essentially a triglyceride in which a fatty acid has been replaced by a phosphate group of some sort.
+Structure of a phospholipid
+A phospholipid consists of a head and a tail.
+The “head” of the molecule contains the phosphate group and is hydrophilic, meaning that it will dissolve in water.
+The “tail” of the molecule is made up of two fatty acids, which are hydrophobic and do not dissolve in water.
+Following the rule of “like dissolves like”, the hydrophilic head of the phospholipid molecule dissolves readily in water.
+The long fatty acid chains of a phospholipid are nonpolar and thus avoid water because of their insolubility.
+In water, phospholipids spontaneously form a double layer called a lipid bilayer in which the hydrophobic tails of phospholipid molecules are sandwiched between two layers of hydrophilic heads (see Figure below ).
+In this way, only the heads of the molecules are exposed to the water, while the hydrophobic tails interact only with each other.
+Basic structure of a lipid bilayer
+In a water solution, phospholipids form a bilayer where the hydrophobic tails point towards each other on the interior and only the hydrophilic heads are exposed to the water.

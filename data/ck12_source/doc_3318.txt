@@ -1,0 +1,20 @@
+Rubber is an electric insulator, but a half-inch layer on the bottom of a pair of shoes is insignificant when it comes to lightning.
+The average lightning bolt has 100 million volts and can burn through any insulator, even the insulators on high-voltage power lines.
+The Path of Least Resistance
+Look at the electric wires in the Figure below .
+They are made of copper and coated with plastic.
+Copper is very good conductor, and plastic is a very good insulator.
+When more than one material is available for electric current to flow through, the current always travels through the material with the least resistance.
+That’s why all the current passes through the copper wire and none flows through its plastic coating.
+Closeup of copper wires
+Electricity must travel through matter.
+All matter offers some resistance to the flow of electrons in an electric current.
+Some materials resist current more or less than others.
+Materials that have low resistance to electric current are called electric conductors.
+Many metals are good electric conductors.
+Materials that have high resistance to electric current are called electric insulators.
+Wood, rubber, and plastic are good electric insulators.
+When more than one material is available for electric current to flow through, the current always travels through the material with the least resistance.
+At the following URL, do the simulation lab “Conductor or Insulator.” After you work through the lab, identify which rod insulates and explain how you can tell.
+What is an electric conductor?
+Give examples of good electric conductors.

@@ -1,0 +1,20 @@
+This can be determined using the mirror and magnification equations.
+For convex mirrors, the reflecting surface is on the outside of the sphere, placing the center of curvature and the focal point on the opposite side of the mirror from the object.
+Light rays that approach the mirror aimed at the focal point will be reflected parallel to the principal axis.
+Light rays that come to the mirror parallel to the principal axis reflect as if they came from the focal point.
+Since the focal point is on the opposite side of the mirror from the object, the focal length is assigned a negative number.
+Both the mirror equation and the magnification equation are true with convex mirrors.
+Click on the image above for more content
+Follow up questions:
+Images in a convex mirror are always ___________ and always
+The image in a convex mirror will always be on the ___________ (same or opposite) side of the mirror from the object.
+Find the image distance of an object placed 5.00 cm in front of a convex mirror whose focal length is 8.00 cm.
+Find the image distance of an object placed 3.00 cm in front of a convex mirror whose focal length is 8.00 cm.
+A 4.0 cm tall light bulb is placed a distance 35.5 cm from a convex mirror with a focal length of -12.2 cm.
+Find the image distance.
+Find the image size.
+convex mirror:
+A curved mirror which has a bulge towards the object.
+Images in Double Convex Lenses
+Define a lens.
+Explain how convex lenses form both real and virtual images.

@@ -1,0 +1,20 @@
+How would you need to manipulate this data in order to create a linear plot?
+In a real experiment what could cause the data to deviate from the expected values?
+Explain.
+What safety considerations are important for this experiment?
+Explain how you could use a diffraction grating to calculate the unknown wavelength of another laser.
+Distance of diffraction grating to screen (cm)
+Distance from central maximum to first order peak (cm)
+A crystal of silicon has atoms spaced 54.2 \;\mathrm{nm} apart.
+It is analyzed as if it were a diffraction grating using an x- ray of wavelength 12 \;\mathrm{nm} .
+Calculate the angular separation between the first and second order peaks from the central maximum.
+Laser light shines on an oil film (n = 1.43) sitting on water.
+At a point where the film is 96 \;\mathrm{nm} thick, a 1^{st} order dark fringe is observed.
+What is the wavelength of the laser?
+You want to design an experiment in which you use the properties of thin film interference to investigate the variations in thickness of a film of water on glass.
+List all the necessary lab equipment you will need.
+Carefully explain the procedure of the experiment and draw a diagram.
+List the equations you will use and do a sample calculation using realistic numbers.
+Explain what would be the most significant errors in the experiment and what effect they would have on the data.
+Answers to Selected Problems
+a. 10.2^\circ b. 27\;\mathrm{cm} c. 20\;\mathrm{cm}

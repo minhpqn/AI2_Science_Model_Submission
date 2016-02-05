@@ -1,0 +1,20 @@
+The pi bond is the “second” bond of the double bonds between the carbon atoms and is shown as an elongated green lobe that extends both above and below the plane of the molecule.
+This plane contains the six atoms and all of the sigma bonds.
+Image of sigma and pi bonds
+Sigma and pi bonds.
+In a conventional Lewis electron-dot structure, a double bond is shown as a double dash between the atoms as in C=C.  It is important to realize, however, that the two bonds are different: one is a sigma bond, while the other is a pi bond.
+Ethyne (C 2 H 2 ) is a linear molecule with a triple bond between the two carbon atoms (see  Figure below ).  The hybridization is therefore sp .
+Structure of ethyne
+The promotion of an electron in the carbon atom occurs in the same way.  However, the hybridization now involves only the 2s orbital and the 2p x orbital, leaving the 2p y and the 2p z orbitals unhybridized.
+Hybridization in ethyne
+Hybridization in ethyne.
+The sp hybrid orbitals form a sigma bond between each other as well as sigma bonds to the hydrogen atoms.  Both the p y and the p z orbitals on each carbon atom form pi bonds between each other.  As with ethene, these side-to-side overlaps are above and below the plane of the molecule.  The orientation of the two pi bonds is that they are perpendicular to one another (see Figure below ).
+One pi bond is above and below the line of the molecule as shown, while the other is in front of and behind the page.
+A triple bond in ethyne contains a sigma and two pi bonds
+The C 2 H 2 molecule contains a triple bond between the two carbon atoms, one of which is a sigma bond, and two of which are pi bonds.
+In general, single bonds between atoms are always sigma bonds.  Double bonds are comprised of one sigma and one pi bond.  Triple bonds are comprised of one sigma bond and two pi bonds.
+Sigma bonds form between two atoms.
+Pi bonds form from p orbital overlap.
+Use the link below to answer the following questions:
+What kind of overlap makes a sigma bond?
+What kind of overlap makes a pi bond?

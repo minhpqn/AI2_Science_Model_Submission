@@ -1,0 +1,20 @@
+P = ? [Pa]
+Given: m = 340\ grams = 0.340\ kg
+{\;}\qquad \quad \text{diameter} = 8.0\ cm = 0.08\ m
+{\;}\qquad \quad g = 10\ m/s^2
+Equations:
+P = \frac{F}{A} Area of a circle:
+A = \pi \cdot r^2
+Plug n’ Chug:
+P = \frac{F}{A} = \frac{mg}{ \pi \cdot r^2} = \frac{(0.340 \ kg)\left (10 \frac{m}{s^2} \right )}{\pi \left (\frac{0.08 \ m}{2} \right )^2}= \left (\frac{3.4 \frac{kg \cdot m}{s^2}}{5.0 \times 10^{-3} m^2} \right ) = 680 \frac{N}{m^2} = 680 \ Pa
+Answer: \boxed{\mathbf{680 \ Pa}}
+Watch this Explanation
+Click on the image above for more content
+Why does a sharp knife cut so much better than a dull one?
+Every day Fakir likes to spend about an hour meditating on his bed of nails.
+Fakir’s mass is 60 kg, his bed contains 2000 nails, and each nail point has a surface area of 4 \ mm^2 .
+Calculate the total surface area of all the nail points, then convert that area into square meters.
+Calculate the pressure exerted on Fakir by the nails.
+Compare this to your answer from the previous question.
+Estimate the pressure in Pascals that you exert on the ground when you stand in your bare feet flat compared to 'tippy toes'.
+Clearly state your assumptions.

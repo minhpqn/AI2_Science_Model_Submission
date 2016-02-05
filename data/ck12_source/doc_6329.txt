@@ -1,0 +1,20 @@
+What is the concentration of the H 2 and the HBr at equilibrium?
+Since the reaction begins with only HBr and the mole ratio of H 2 to Br 2 is 1:1, the concentration of H 2 at equilibrium is also 0.00243 M.
+The equilibrium expression can be rearranged to solve for the concentration of HBr at equilibrium.
+K_{eq} & = \frac{[\text{HBr}]^2}{[\text{H}_2][\text{Br}_2]}\\\left [ \text{HBr} \right ] & = \sqrt{K_{eq}[\text{H}_2][\text{Br}_2]} \\& = \sqrt{2.18 \times 10^6 (0.00243)(0.00243)} = 3.59 \text{ M}
+Since the value of the equilibrium constant is very high, the concentration of HBr is much greater than that of H 2 and Br 2 at equilibrium.
+Calculation of an equilibrium constant is described.
+Work problems 1-4 at the link below:
+What are the units for K_{eq} ?
+Why is the temperature specified in equilibrium problems?
+Why don’t we include solids or liquids in equilibrium calculations?
+State Le Châtelier’s principle.
+Skydiving adds stress like LeChatelier's principle
+How far down?
+There are people who enjoy going up in an airplane, strapping on a parachute, and diving out the door to free-fall and then open the chute and drop to the ground.
+This stressful activity (so they say) relieves the stress of everyday life.
+The release of adrenaline caused by this stressful behavior is said to promote a mood enhancement that helps you deal better with other stresses in your daily life.
+Le Châtelier’s Principle
+Chemical equilibrium was studied by French chemist Henri Le Châtelier (1850-1936) and his description of how a system responds to a stress to equilibrium has become known as Le Châtelier’s principle :
+When a chemical system that is at equilibrium is disturbed by a stress, the system will respond in order to relieve the stress.
+Stresses to a chemical system involve changes in the concentration of reactants or products, changes in the temperature of the system, or changes in the pressure of the system.

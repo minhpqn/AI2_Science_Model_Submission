@@ -1,0 +1,20 @@
+A dipole is any molecule with a positive end and a negative end, resulting from unequal distribution of electron density throughout the molecule.
+Polar molecules orient themselves in the presence of an electric field with the positive ends of the molecules being attracted to the negative plate while the negative ends of the molecules are attracted to the positive plate (see Figure below ).
+Polar molecules can be aligned by an electric field
+Polar molecules are randomly oriented in the absence of an applied electric field (top).
+In an electric field, the molecules orient themselves because of the attraction of opposite charges (bottom).
+For molecules with more than two atoms, the molecular geometry must also be taken into account when determining if the molecule is polar or nonpolar.  The Figure below shows a comparison between carbon dioxide and water.  Carbon dioxide (CO 2 ) is a linear molecule.  The oxygen atoms are more electronegative than the carbon atom, so there are two individual dipoles pointing outward from the C atom to each O atom.  However, since the dipoles are of equal strength and are oriented in this way, they cancel each other out and the overall molecular polarity of CO 2 is zero.
+Water is a bent molecule because of the two lone pairs on the central oxygen atom.  The individual dipoles point from the H atoms toward the O atom.  Because of the shape, the dipoles do not cancel each other out and the water molecule is polar.  In the Figure below , the net dipole is shown in blue and points upward.
+Polar molecules can be aligned by an electric field
+The molecular geometry of a molecule affects its polarity.
+Some other molecules are shown in the Figure below .  Notice that a tetrahedral molecule such as CH 4 is nonpolar.  However, if one of the peripheral H atoms is replaced with another atom that has a different electronegativity, the molecule becomes polar.  A trigonal planar molecule (BF 3 ) may be nonpolar if all three peripheral atoms are the same, but a trigonal pyramidal molecule (NH 3 ) is polar.
+Examples of polar and nonpolar molecules
+Some examples of polar and nonpolar molecules based on molecular geometry.
+Polar molecules result from differences in electronegativity of the atoms in the molecule.
+Dipoles that are directly opposite one another cancel each other out.
+Use the link below to answer the following questions:
+How do you identify polar bonds in a molecule?
+What electronegativity difference would indicate a polar bond?
+Is a molecule with symmetric polar bonds a polar molecule?
+What is a dipole?
+How does shape affect the polarity of a molecule?

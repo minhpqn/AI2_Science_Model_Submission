@@ -1,0 +1,20 @@
+The radius of the loop is 40 \;\mathrm{m} .
+If the height at point G is 76 m, then how fast is the coaster going at point G?
+Does the coaster actually make it through the loop without falling? (Hint:
+You might review the material from centripetal motion lessons to answer this part.)
+Answers to Selected Problems
+a. 2.3 \;\mathrm{m/s} c.
+No, the baby will not clear the hill.
+a. 29,500 \;\mathrm{J} b.
+Spring has maximum compressed length of 13 \;\mathrm{m}
+a. 48.5 \;\mathrm{m/s} b. 128 \;\mathrm{N}
+0.32 \;\mathrm{m/s} each
+a.29 m/s b. just barely,  a_C = 9.8 \;\mathrm{m/s}^2
+Energy and Momentum Problems
+Solve problems involving both energy and momentum conservation.
+Students will learn how to solve problems involving both energy and momentum conservation and where one is allowed to use either momentum conservation or energy conservation or both.
+\sum E_{\text{initial}} = \sum E_{\text{final}} ;
+The total energy does not change in closed systems
+\sum p_{\text{initial}} = \sum p_{\text{final}} ;
+The total momentum does not change in closed systems
+Guidance When attacking these problems remember that in a collision, energy is transferred out of the system to the environment, via heat, sound, breaking of molecular bonds, etc.

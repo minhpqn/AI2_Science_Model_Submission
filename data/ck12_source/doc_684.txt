@@ -1,0 +1,20 @@
+Refraction of the Sun's rays
+In the Figure below , the sun shines on the road, heating the air just above the road.
+The difference in density between the hot air over the road and the surrounding air causes the hot air to refract light that passes through it.  When you look at the road, you see a mirage .
+What appears to be water on the road is actually light coming from the sky that has been refracted as it passes through the hot air above the road.
+This phenomenon is common on hot roads and in the desert.
+A mirage on a road
+The speed of light is different in different media.
+When a wave front enters a new medium at an angle, it will change directions.
+If the light is entering a more optically dense medium, the light bends toward the normal line.
+If the light is entering a less optically dense medium, the light will bend away from the normal line.
+When light is traveling from air into another medium, Snell’s Law states that n=\frac{\sin \theta_i}{\sin \theta_r} .
+The index of refraction is also related to the relative speeds of light in a vacuum and in the medium. n=\frac{\text{speed of light in a vacuum}}{\text{speed of light in the medium}}
+When a ray of light is traveling from one medium into another medium, Snell’s Law can be written as n_i \sin \theta_i=n_r \sin \theta_r .
+Use the video on refraction to answer the questions below.
+Click on the image above for more content
+What happens to the path of a light beam when it enters a new medium at an angle?
+Light moving from air into water is bent ___________ the normal.
+Light moving from water into air is bent ___________ the normal.
+Light moving through air is incident on a piece of crown glass at an angle of 45^\circ .  What is the angle of refraction?
+A ray of light passes from air into water at an incident angle of 60^\circ .  Find the angle of refraction.

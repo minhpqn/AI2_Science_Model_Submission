@@ -1,0 +1,20 @@
+\beta = \frac{v}{c}
+An object moving with speed v has a dimensionless speed  \beta calculated by dividing the speed v by the speed of light ( \mathit{c} = 3\times10^8 \;\mathrm{m/s} ). 0 \le \beta \le 1 .
+\gamma = \frac{1}{\sqrt{1-\beta^2}}
+The dimensionless Lorentz “gamma” factor \gamma can be calculated from the speed, and tells you how much time dilation or length contraction there is. 1 \le \gamma \le \infty  .
+L' = \frac{L}{\gamma}
+If you see an object of length L moving towards you at a Lorentz gamma factor \gamma , it will appear shortened (contracted) in the direction of motion to new length L .
+Guidance Clocks moving towards or away from you run more slowly, and objects moving towards or away from you shrink in length.
+These are known as Lorentz time dilation and length contraction; both are real, measured properties of the universe we live in.
+Lorentz \gamma Factor
+Electron at the Stanford Linear Accelerator
+Watch this Explanation
+Click on the image above for more content
+What would be the Lorentz gamma factor \gamma for a space ship traveling at the speed of light c?
+If you were in this space ship, how wide would the universe look to you?
+How fast would you have to drive in your car in order to make the road 50 % shorter through Lorentz contraction?
+In 1987 light reached our telescopes from a supernova that occurred in a near-by galaxy 160,000 light years away.
+A huge burst of neutrinos preceded the light emission and reached Earth almost two hours ahead of the light.
+It was calculated that the neutrinos in that journey lost only 13 minutes of their lead time over the light.
+What was the ratio of the speed of the neutrinos to that of light?
+Calculate how much space was Lorentz-contracted form the point of view of the neutrino.

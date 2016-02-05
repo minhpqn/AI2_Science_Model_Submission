@@ -1,0 +1,20 @@
+760 mm = ___ psi?
+The pressure in a car tire is 35 psi.
+How many atmospheres is that?
+atmosphere:
+Common unit of pressure.
+Abbreviated as “atm.”
+pascal:
+The standard unit of pressure.
+Abbreviated as “Pa.”
+Average Kinetic Energy
+Define kinetic energy.
+Describe how temperature influences kinetic energy of particles.
+Define aboslute zero.
+A fast-moving baseball has a large amount of kinetic energy
+How much energy does it take to hit a baseball?
+Kinetic energy is the energy of motion.
+Any object that is moving possesses kinetic energy.
+Baseball involves a great deal of kinetic energy.
+The pitcher throws a ball, imparting kinetic energy to the ball.
+When the batter swings, the motion of swinging creates kinetic energy in the bat.

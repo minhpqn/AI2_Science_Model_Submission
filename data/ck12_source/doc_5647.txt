@@ -1,0 +1,20 @@
+Questions like these are easy to answer because we have the tools to make the measurements.  A yard stick or tape measure will suffice to measure height.
+You can stand on a bathroom scale and determine your weight.
+But it is a very different matter to measure properties of objects that we cannot see with the naked eye.  If we want to measure the size of a germ, we have to use a microscope.  To learn the size of a single molecule, we have to use even more sophisticated instruments.  So how would we measure something even smaller than a molecule, even smaller than an atom?
+Charge and Mass of the Electron
+The man who measured properties of the electron was Robert Millikan (1868-1953).
+He taught himself physics while a student at Oberlin College since there was nobody on the faculty to instruct him in this field.  Millikan completed postgraduate research training in the U.S. and in Germany.  His studies on the properties of the electron proved to be of great value in many areas of physics and chemistry.
+Portrait of Robert Millikan, who came up with the oil drop experiment
+Oil Drop Experiment
+Millikan carried out a series of experiments between 1908 and 1917 that allowed him to determine the charge of a single electron, famously know as the oil drop experiment.
+He sprayed tiny drops of oil into a chamber.
+In his first experiment, he simply measured how fast the drops fell under the force of gravity.  He could then calculate the mass of the individual drops.
+Then he sprayed oil drops and applied an electrical charge to them by shining X-rays up through the bottom of the apparatus.  The X-rays ionized the air, causing electrons to attach to the oil drops.
+The oil drops picked up static charge and were suspended between two charged plates.
+Millikan was able to observe the motion of the oil drops with a microscope and found that the drops lined up in a specific way between the plates, based on the number of electric charges they had acquired.
+Diagram of the oil drop experiment
+Oil drop experiment.
+Millikan used the information to calculate the charge of an electron.
+He determined the charge to be 1.5924 × 10 -19  C, where C stands for coulomb , which is one ampere/second.
+Today the accepted value of the charge of an electron is 1.602176487 × 10 -19 C.
+Millikan’s experimental value proved very accurate; it is within 1% of the currently accepted value.

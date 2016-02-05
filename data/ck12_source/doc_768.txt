@@ -1,0 +1,20 @@
+What is the current in the circuit?
+Solution:
+R_T=15 \ \Omega + 15 \ \Omega + 15 \ \Omega + 15 \ \Omega = 60 \ \Omega
+I=\frac{V}{R}=\frac{45 \ V}{60 \ \Omega}=0.75 \ A
+A series circuit is one in which all of the current must pass through every resistor in the circuit.
+The video below is on series circuits.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+How do the voltage drops across the two light bulbs in the video related to the total voltage drop for the entire circuit?
+In the video, what was the assumed voltage drop for the connecting wires and the switch?
+What was the current through the second light bulb as compared to the current through the first light bulb.
+There are three 20.0 Ω resistors connected in series across a 120 V generator.
+What is the total resistance of the circuit?
+What is the current in the circuit?
+What is the voltage drop across one of the resistors?
+A 5.00 Ω, a 10.0 Ω, and a 15.0 Ω resistor are connected in series across a 90.0 V battery.
+What is the equivalent resistance of the circuit?
+What is the current in the circuit?
+What is the voltage drop across the 5.00 Ω resistor?
+A 5.00 Ω and a 10.0 Ω resistor are connected in series across an unknown voltage.

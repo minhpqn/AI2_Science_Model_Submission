@@ -1,0 +1,20 @@
+The lac operon consists of a promoter, an operator, three adjacent structural genes which code for enzymes and a terminator.
+The three genes are: lacZ, lacY, and lacA.
+The Z gene encodes β-galactosidase, the Y gene encodes permease, and the A gene encodes transacetylase.
+All three genes are controlled by the same regulatory elements.
+See Genes can be turned on and off at for a detailed animation of the lac operon.
+The lac operon.
+The lac operon contains genes for three enzymes, lac, lacY, and lac A, as well as the promoter, operator, and terminatory regulatory regions.
+In bacteria, the lac repressor protein blocks the synthesis of enzymes that digest lactose when there is no lactose present.
+When lactose is present, it binds to the repressor, causing it to detach from the DNA strand.
+This mechanism is known as induction and is illustrated in ( Figure below ).
+Specific control of the lac operon depends on the availability of lactose.
+The enzymes needed to metabolize lactose are not produced when lactose is not present.
+When lactose is available, and therefore needs to be metabolized, the operon is turned on, RNA polymerase binds to the promoter, and the three genes are transcribed into a single mRNA molecule.
+However, if lactose is not present (and therefore does not need to be metabolized), the operon is turned off by the lac repressor protein.
+The lacI gene, which encodes the lac repressor, lies near the lac operon and is constitutively expressed.
+Therefore, the lac repressor protein is always present in the bacteria.
+In the absence of lactose, the lac repressor protein will bind to the operator, just past the promoter in the lac operon.
+The repressor blocks the binding of RNA polymerase to the promoter, keeping the operon turned off.
+Under this condition, no mRNA is produced from the operon.
+When lactose is available, a lactose metabolite called allolactose binds to the allosteric site on the repressor..

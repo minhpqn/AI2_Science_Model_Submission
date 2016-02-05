@@ -1,0 +1,20 @@
+The net charge is 24+ on both sides.
+The equation is balanced.
+The half-reaction method of balancing redox equations is described.
+Do all half-reaction equation balancing problems at the link below:
+Why do you need the unbalanced ionic equation?
+What does balancing each half-reaction separately tell you?
+How do you balance hydrogens in an acidic medium?
+half-reaction method:
+Each half-reaction is balanced separately and then the two half-reactions are merged for final balancing.
+Half-Reaction Method in Basic Solution
+Use the half-reaction method to balance redox equations in basic solution.
+Cyanide is destroyed by chlorine gas in basic solution
+How do you remove cyanide from water ?
+Cyanide is a very toxic material.
+Generated mainly by industrial manufacturing processes, this anion can cause neurological effects and damage to sensitive tissues such as the thyroid gland.
+Treatment with chlorine gas in basic solution effectively destroys any cyanide present by converting it to harmless nitrogen gas.
+The reaction is as follows:
+2 \text{NaCN}+5 \text{Cl}_2 +12 \text{NaOH} \rightarrow \text{N}_2 + 2\text{Na}_2\text{CO}_3 + 10\text{NaCl} + 6\text{H}_2\text{O}
+Half-Reaction Method in Basic Solution
+For reactions that occur in basic solution rather than acidic solution, the steps to balance the reaction are primarily the same.

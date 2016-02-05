@@ -1,0 +1,20 @@
+The double helix of DNA
+DNA’s three-dimensional structure is a double helix.
+The hydrogen bonds between the bases at the center of the helix hold the helix together.
+The bases in DNA do not pair randomly.
+When Erwin Chargaff looked closely at the bases in DNA, he noticed that the percentage of adenine (A) in the DNA always equaled the percentage of thymine (T), and the percentage of guanine (G) always equaled the percentage of cytosine (C).
+Watson and Crick’s model explained this result by suggesting that A always pairs with T, and G always pairs with C in the DNA helix.
+Therefore A and T, and G and C, are "complementary bases," or bases that always pair together, known as a base-pair .
+The base-pairing rules state that A will always bind to T, and G will always bind to C ( Figure below ).
+For example, if one DNA strand reads ATGCCAGT, the other strand will be made up of the complementary bases:
+TACGGTCA.
+Hydrogen bonds hold the complementary bases together, with two bonds forming between an A and a T, and three bonds between a G and a C.
+The chemical structure of DNA
+The chemical structure of DNA includes a chain of nucleotides consisting of a 5-carbon sugar, a phosphate group, and a nitrogen base.
+Notice how the sugar and phosphate group form the backbone of DNA (strands highlighted in pink), with the hydrogen bonds between the bases joining the two strands.
+DNA stores the genetic information of the cell in the sequence of its 4 bases: adenine, thymine, guanine, and cytosine.
+DNA is made of a long chain of nucleotides consisting of a 5-carbon sugar, a phosphate group, and nitrogen-containing base.
+Use the resources below to answer the questions that follow.
+What Is DNA? at .
+Click on the box "What Is DNA?" on the left side of the page.
+Where is nuclear DNA located in a eukaryotic organism?

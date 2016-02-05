@@ -1,0 +1,20 @@
+Answers (using g = 10 \ m/s^2 ):
+According to Newton's second law: the acceleration of an object is inversely proportional to it's mass, so if you decrease it's mass while keeping the net force the same, the acceleration will increase.
+When you jerk the paper towel, the paper towel that you are holding onto will accelerate much more quickly than the entire roll causing it to rip.
+Again, acceleration is inversely proportional to the mass of the object.
+The rope will not break because his weight of 800 N is distributed between the two ropes.
+Yes, because his weight of 800 N is greater than what the rope can hold.
+a. 400 N b. 500 N
+b. 500 N c. 6 \ m/s^2 d. 0 e. -4 \ m/s^2
+Newton's Third Law
+Explain Newton's 3rd law.
+Students will learn that Newton's 3rd law holds that for every force there is an equal but opposite reaction force.
+Important to note that the force and reaction force act on different objects.
+\vec{F} = - \vec{F'}
+Guidance Newton’s 3^{rd} Law states for every force there is an equal but opposite reaction force.
+To distinguish a third law pair from merely oppositely directed pairs is difficult, but very important.
+Third law pairs must obey three rules: (1) Third law force pairs must be of the same type of force. (2) Third law force pairs are exerted on two different objects. (3) Third law force pairs are equal in magnitude and oppositely directed.
+Example:
+A block sits on a table.
+The Earth’s gravity on the block and the force of the table on the block are equal and opposite.
+But these are not third law pairs, because they are both on the same object and the forces are of different types.

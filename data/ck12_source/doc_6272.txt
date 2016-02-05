@@ -1,0 +1,20 @@
+Sample Problem:
+Heat of Vaporization
+What mass of methanol vapor condenses to a liquid as 20.0 kJ of heat are released?
+Step 1:
+List the known quantities and plan the problem .
+\Delta H= 20.0 \ \text{kJ}
+\Delta H_{\text{cond}}= -35.3 \text{ kJ/mol}
+\text{molar mass CH}_3\text{OH} = 32.05 \text{ kJ/mol}
+mass methanol = ? g
+First the kJ of heat released in the condensation is multiplied by the conversion factor of \left(\frac{1 \text{ mol}}{-35.3 \text{ kJ}} \right) to find the moles of methanol that condensed.
+Then, moles are converted to grams.
+Step 2:
+Solve .
+-20.0 \text{ kJ} \times \frac{1 \text{ mol CH}_3\text{OH}}{-35.3 \text{ kJ}} \times \frac{32.05 \text{ g CH}_3\text{OH}}{1 \text{ mol CH}_3\text{OH}}=18.2 \text{ g CH}_3\text{OH}
+Step 3:
+Think about your result.
+Condensation is an exothermic process, so the enthalpy change is negative.
+Slightly more than one-half mole of methanol is condensed.
+Molar heats of condensation and vaporization are defined.
+Examples of calculations involving these parameters are illustrated.

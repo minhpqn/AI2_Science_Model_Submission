@@ -1,0 +1,20 @@
+The electrons in an atom tend to be arranged in such a way that the energy of the atom is as low as possible.
+The ground state of an atom is the lowest energy state of the atom.
+When those atoms are given energy, the electrons absorb the energy and move to a higher energy level.
+These energy levels of the electrons in atoms are quantized, meaning again that the electron must move from one energy level to another in discrete steps rather than continuously.
+An excited state of an atom is a state where its potential energy is higher than the ground state.
+An atom in the excited state is not stable.
+When it returns back to the ground state, it releases the energy that it had previously gained in the form of electromagnetic radiation.
+So how do atoms gain energy in the first place?
+One way is to pass an electric current through an enclosed sample of a gas at low pressure.
+Since the electron energy levels are unique for each element, every gas discharge tube will glow with a distinctive color depending on the identity of the gas (see Figure below ).
+Gas discharge tubes of the noble gases
+Gas discharge tubes are enclosed glass tubes filled with a gas at low pressure through which an electric current is passed.
+Electrons in the gaseous atoms first become excited, and then fall back to lower energy levels, emitting light of a distinctive color in the process.
+Shown are gas discharge tubes of helium, neon, argon, krypton, and xenon.
+“Neon” signs are familiar examples of gas discharge tubes.
+However, only signs that glow with the red-orange color seen in the figure are actually filled with neon.
+Signs of other colors contain different gases or mixtures of gases.
+Scientists studied the distinctive pink color of the gas discharge created by hydrogen gas.
+When a narrow beam of this light was viewed through a prism, the light was separated into four lines of very specific wavelengths (and frequencies since  \lambda and  v are inversely related).
+An atomic emission spectrum is the pattern of lines formed when light passes through a prism to separate it into the different frequencies of light it contains.

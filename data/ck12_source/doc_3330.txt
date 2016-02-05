@@ -1,0 +1,20 @@
+A variety of safety features help protect users
+A Three-Prong Plug is used on metal appliances.
+The two flat prongs carry current to and from the appliances.
+The round prong is for safety.
+It connects with a wire inside the outlet that goes down into the ground.
+If any stray current leaks from the circuit or if there is a short circuit, the ground wire carries the current into the ground, which harmlessly absorbs it.
+Circuit Breaker:
+This electrical panel contains several circuit breakers.
+A circuit breaker is a switch that automatically interrupts a circuit if too much current flows through it.
+This could happen if too many electric devices are plugged into the circuit or if too many electric devices are plugged into the circuit or if there is an electric short.
+Once the problem is resolved, the circuit breaker can be switched back on to complete the circuit so current can flow through it again.
+GFCI Outlet:
+GFCI stands for ground-fault circuit interrupter.
+GFCI outlets are typically found in bathrooms and kitchens where the use of water poses a risk of shock (because water is a good electric conductor).
+A GFCI outlet contains a device that monitors the amount of current leaving and returning to the outlet.
+If less current is returning than leaving, this means that current is escaping.
+When this occurs, a tiny circuit breaker in the outlet interrupts the circuit.
+The breaker can be reset by pushing a button on the outlet cover.
+Q:
+Can you think of any other electric safety features?

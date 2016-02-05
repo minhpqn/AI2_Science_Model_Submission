@@ -1,0 +1,20 @@
+That's what Mendel asked.
+He noticed peas were always round or wrinkled, but never anything else.
+Seed shape was one of the traits Mendel studied in his first set of experiments.
+Mendel’s First Set of Experiments
+Mendel first experimented with just one characteristic of a pea plant at a time.
+He began with flower color.
+As shown in Figure below , Mendel cross-pollinated purple- and white-flowered parent plants.
+The parent plants in the experiments are referred to as the P (for parent) generation .
+You can explore an interactive animation of Mendel’s first set of experiments at this link:
+Parental, F1, and F2 generations of peas
+This diagram shows Mendel's first experiment with pea plants.
+The F1 generation results from cross-pollination of two parent (P) plants, and contained all purple flowers.
+The F2 generation results from self-pollination of F1 plants, and contained 75% purple flowers and 25% white flowers.
+This type of experiment is known as a monohybrid cross.
+F1 and F2 Generations
+The offspring of the P generation are called the F1 (for filial, or “offspring”) generation .
+As you can see from Figure above , all of the plants in the F1 generation had purple flowers.
+None of them had white flowers.
+Mendel wondered what had happened to the white-flower characteristic.
+He assumed some type of inherited factor produces white flowers and some other inherited factor produces purple flowers.

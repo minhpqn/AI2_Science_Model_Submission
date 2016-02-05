@@ -1,0 +1,20 @@
+Sketch a graph to show what the relationship between gas volume and pressure might look like.
+Let the x-axis represent volume (V) and the y-axis represent pressure (P).
+A:
+Did you sketch a graph like the one in the Figure below ?
+Let’s see why this graph is correct.
+Find the point on the line where volume is smallest.
+That’s were pressure is highest.
+Then find the point where volume is largest.
+That’s where pressure is lowest.
+Whenever you see a graph with this shape, it usually represents variables that have an inverse relationship, like gas volume and pressure.
+Graph of Boyle's Law
+Boyle’s law states that if the temperature of a gas is held constant, then decreasing the volume of the gas increases its pressure.
+When gas molecules bump into things, it creates pressure.
+Pressure is greater when gas molecules occupy a smaller space, because greater crowding results in more collisions.
+This explains why decreasing the volume of a gas increases its pressure.
+You can see for yourself that Boyle’s law really works.
+At the following URL, simulate measuring the volume and pressure of two different gases.
+Use the graphing tool to make graphs of your data.
+Then answer the questions at the end of the activity to see how well you understand Boyle’s law.
+State Boyle’s law.

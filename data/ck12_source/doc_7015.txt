@@ -1,0 +1,20 @@
+How much energy per unit mass depends on the substance in question.
+When you get out of the shower you often feel cold.
+This is because the water on you is evaporating, and heat is flowing from you to the water droplets in order for them to change phase from water to gas.
+You are losing heat and thus feel cold.
+A calorie is a unit of energy.
+The food Calorie, with a capital C , is actually 1,000 calories (a kcal).
+Thus, for example, a snicker bar labeled with 200 Cal is actually 200,000 cal.
+Food calories are determined by burning the food and measuring the heat released.
+During a phase change, the number of degrees of freedom changes, and so does the specific heat capacity.
+Heat capacity can also depend on temperature within a given phase, but many substances, under constant pressure, exhibit a constant specific heat over a wide range of temperatures.
+For instance, look at the graph of temperature vs heat input for a mole (  6.0221415 \times 10^{23} molecules) of water at Note that the x-axis of the graph is called 'relative heat energy' because it takes a mole of water at 0 degrees Celsius as the reference point.
+The sloped segments on the graph represent increases in temperature.
+The flat segments represent phase transitions, governed by equation for latent heat.
+Notice that the sloped segments have constant, though different, slopes.
+According to this equation, the heat capacity at any particular phase would be the slope of the segment that corresponds to that phase on the graph.
+The fact that the slopes are constant means that, within a particular phase, the heat capacity does not change significantly as a function of temperature.
+Heat capacity is the amount of internal energy that the substance can store.
+A large heat capacitance means the substance can store a lot of internal energy and thus the temperature changes slowly.
+Aluminum foil has a small heat capacitance and water has a large one.
+A 500 g piece of aluminum metal of unknown temperature is thrown into a cup containing 500 g of water which had an initial temperature of 20^\circ C .

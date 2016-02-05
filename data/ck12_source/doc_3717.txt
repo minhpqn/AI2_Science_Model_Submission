@@ -1,0 +1,20 @@
+Shows the four nitrogen bases that make up the DNA of all species
+Nitrogen Bases in DNA.
+The DNA of all species has the same four nitrogen bases.
+The Double Helix
+After DNA was found to be the genetic material, scientists wanted to learn more about it.
+James Watson and Francis Crick are usually given credit for discovering that DNA has a double helix shape, like a spiral staircase (see Figure below ).
+The discovery was based on the prior work of Rosalind Franklin and other scientists, who had used X rays to learn more about DNA’s structure.
+Franklin and these other scientists have not always been given credit for their contributions.
+You can learn more about Franklin’s work by watching the video at this link:  (7:47).
+Compares the shape of a DNA molecule with a spiral staircase
+The DNA molecule has a double helix shape.
+This is the same basic shape as a spiral staircase.
+Do you see the resemblance?
+Which parts of the DNA molecule are like the steps of the spiral staircase?
+The double helix shape of DNA, together with Chargaff’s rules, led to a better understanding of DNA.
+DNA, as a nucleic acid, is made from nucleotide monomers, and the DNA double helix consists of two polynucleotide chains.
+Each nucleotide consists of a sugar (deoxyribose), a phosphate group, and a nitrogen-containing base (A, C, G, or T).
+Scientists concluded that bonds (hydrogen bonds) between complementary bases hold together the two polynucleotide chains of DNA.
+Adenine always bonds with its complementary base, thymine.
+Cytosine always bonds with its complementary base, guanine.

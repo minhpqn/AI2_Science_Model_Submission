@@ -1,0 +1,20 @@
+1 centimeter (cm) = 10 millimeters (mm) = 10 -2 meters (m)
+1 mm = 1000 micrometers (µm) = 10 -3 m
+1 µm = 1000 nanometers (nm) = 10 -6 m
+1 nm = 10 -3 µm
+A small cell (left), has a larger surface-area to volume ratio than a bigger cell (center).
+The greater the surface-area to volume ratio of a cell, the easier it is for the cell to get rid of wastes and take in essential materials such as oxygen and nutrients.
+In this example, the large cell has the same area as 27 small cells, but much less surface area.
+Imagine cells as little cube blocks.
+If a small cube cell like the one in the Figure above is one unit (u) in length, then the total surface area of this cell is calculated by the equation:
+height × width × number of sides × number of boxes
+1u × 1u × 6 × 1 = 6u 2
+The volume of the cell is calculated by the equation:
+height × width × length × number of boxes
+1u × 1u × 1u × 1 = 1u 3
+The surface-area to volume ratio is calculated by the equation:
+area ÷ volume
+A larger cell that is 3 units in length would have a total surface area of
+3u × 3u × 6 × 1 = 54u 2
+and a volume of:
+3u × 3u × 3u × 1 = 27u 3

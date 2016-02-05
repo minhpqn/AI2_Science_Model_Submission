@@ -1,0 +1,20 @@
+You are sitting in a chair at some distance from the merry-go-round so that the only part of the system that is visible to you is the light bulb.
+The movement of the light will appear to you to be back and forth in simple harmonic motion.
+Circular motion and simple harmonic motion have a lot in common.
+The greatest displacement of the mass from the equilibrium position is called the amplitude of the motion.
+One cycle refers to the complete to-and-fro motion that starts at some position, goes all the way to one side, then all the way to the other side, and returns to the original position.
+The period , T , is the time required for one cycle and the frequency , f , is the number of cycles that occur in exactly 1.00 second.
+The frequency, in this case, is the reciprocal of the period.
+Example Problem:
+When a 500. kg crate of cargo is placed in the bed of a pickup truck, the truck's springs compress 4.00 cm.
+Assume the springs act as a single spring.
+(a) What is the spring constant for the truck springs?
+(b) How far with the springs compress if 800. kg of cargo is placed in the truck bed?
+(a) k=\frac{F}{x}=\frac{(500. \ \text{kg})(9.80 \ \text{m/s}^2)}{0.0400 \ \text{m}}=1.23 \times 10^5 \ \text{N/m}
+(b) x=\frac{F}{k}=\frac{(800. \ \text{kg})(9.80 \ \text{m/s}^2)}{1.23 \times 10^5 \ \text{N/m}}=0.064 \ \text{m}=6.4 \ \text{cm}
+Simple harmonic motion occurs in many situations, including an object of the end of a spring, a tuning fork, a pendulum, and strings on a guitar or piano.
+A mass oscillating on a horizontal spring is often used to analyze SHM.
+The restoring force for a mass oscillating on a horizontal spring is related to the displacement of the mass from its equilibrium position, F = -kx .
+SHM is related to uniform circular motion when the uniform circular motion is viewed in one dimension.
+Use this resource to answer the questions that follow.
+What is the graph produced by a swinging pendulum's motion graphed over time?

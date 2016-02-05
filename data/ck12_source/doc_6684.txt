@@ -1,0 +1,20 @@
+Click on the image above for more content
+The position graph below is of the movement of a fast turtle who can turn on a dime. a.
+Sketch the velocity vs. time graph of the turtle below. b.
+Explain what the turtle is doing (including both speed and direction ) from: i) 0-2s. ii) 2-3s. iii) 3-4s. c.
+How much distance has the turtle covered after 4s? {\;} d.
+What is the turtle’s displacement after 4s? {\;}
+Draw the position vs. time graph that corresponds to the velocity vs. time graph below.
+You may assume a starting position x_0 = 0 .
+Label the y- axis with appropriate values.
+The following velocity-time graph represents 10 seconds of actress Halle Berry’s drive to work (it’s a rough morning).
+a.
+Fill in the tables below – remember that displacement and position are not the same thing!
+Instantaneous Time (s)
+b.
+On the axes below, draw an acceleration-time graph for the car trip.
+Include numbers on your acceleration axis.
+c.
+On the axes below, draw a position-time graph for the car trip.
+Include numbers on your position axis.
+Be sure to note that some sections of this graph are linear and some curve – why?

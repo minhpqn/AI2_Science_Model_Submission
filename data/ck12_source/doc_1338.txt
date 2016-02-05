@@ -1,0 +1,20 @@
+Compare the Richter magnitude scale to the moment magnitude scale.
+How do scientists measure earthquakes?
+This 8.8 magnitude earthquake in Chile in 2010 caused over 500 deaths and thousands of injuries.
+Earthquakes and the damage they cause can be measured in a few different ways.
+One way is to describe the damage.
+The other way is to measure the energy of the quake.
+The ways seismologists measure an earthquake have changed over the decades.
+Initially, they could only measure what people felt and saw: the intensity.
+For this, they used the Mercalli scale.
+Early in the 20th century, earthquakes were described in terms of what people felt and the damage that was done to buildings.
+The Mercalli intensity scale describes earthquake intensity.
+There are many problems with the Mercalli scale.
+The damage from an earthquake is affected by many things.
+The type of ground a building sits on is very important to what happens to that building in a quake.
+Different people experience an earthquake differently.
+Using this scale, comparisons between earthquakes were difficult to make.
+A new scale was needed.
+For decades scientists have had equipment that can measure earthquake magnitude.
+The earthquake magnitude is the energy released during the quake.
+The Richter Magnitude Scale

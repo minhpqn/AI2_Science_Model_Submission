@@ -1,0 +1,20 @@
+How would you classify viruses?
+The study of viruses is known as virology and people who study viruses are known as virologists .
+Viruses infect and live inside the cells of living organisms.
+When viruses infect the cells of their host, they may cause disease.
+For example, viruses cause AIDS (Acquired immune deficiency syndrome), influenza (flu), chicken pox, and the common cold.
+Therapy is sometimes difficult for viral diseases.
+Antibiotics have no effect on viruses and only a few antiviral drugs are available for some diseases.
+One of the best ways to prevent viral diseases is with a vaccine , which produces immunity .
+But vaccines are available for only a few diseases.
+Mimivirus, shown in the Figure below , is the largest known virus, with a diameter of 400 nm.
+Protein filaments measuring 100 nm stick out from the surface of the virus, which increases the diameter of the virus to about 600 nm.
+This is bigger than a small bacterial cell.
+The virus appears hexagonal under an electron microscope; the viral shape is icosahedral (having 20 faces or sides).
+Diagram of a large mimivirus
+The largest known virus, called mimivirus, is so large that scientists first mistook it for a bacterium.
+It was first discovered in amoeba, in 1992, and was identified as a virus in 2003.
+Scientists believe that mimivirus may cause certain types of pneumonia in humans.
+The core contains DNA, with the majority of the DNA in genes, and only 10% DNA of unknown function ("junk" DNA).
+Viruses can replicate only by infecting a host cell.
+They cannot reproduce on their own.

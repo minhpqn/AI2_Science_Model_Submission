@@ -1,0 +1,20 @@
+His insulated cup holds 200 g of water at 20^\circ C .
+He has an immersion heater rated at 1000 W (1000 J/s) to heat the water.
+How many JOULES of heat are required to heat the water to 100^\circ C ?
+How long will it take to do this with a 1000-W heater?
+Convert your answer in part b to minutes.
+You put a 20g cylinder of aluminum (c=0.2 \ cal/g/^\circ C) in the freezer (T=-10^\circ C) .
+You then drop the aluminum cylinder into a cup of water at 20^\circ C .
+After some time they come to a common temperature of 12^\circ C .
+How much water was in the cup?
+Emily is testing her baby’s bath water and finds that it is too cold, so she adds some hot water from a kettle on the stove.
+If Emily adds 2.00 kg of water at 80.0^\circ C to 20.0 kg of bath water at 27.0^\circ C , what is the final temperature of the bath water?
+You are trying to find the specific heat of a metal.
+You heated a metal in an oven to 250^\circ C .
+Then you dropped the hot metal immediately into a cup of cold water.
+To the right is a graph of the temperature of the water versus time that you took in the lab.
+The mass of the metal is 10g and the mass of the water is 100g.
+Recall that water has a specific heat of 1 \ cal/g^\circ C .
+How much heat is required to melt a 20 g cube of ice if
+the ice cube is initially at 0^\circ C
+the ice cube is initially at -20^\circ C (be sure to use the specific heat of ice)

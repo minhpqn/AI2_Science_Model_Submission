@@ -1,0 +1,20 @@
+These regions are called magnetic domains .
+Generally, the magnetic domains point in different directions, so the material is still not magnetic.
+However, the material can be magnetized (made into a magnet) by placing it in a magnetic field.
+When this happens, all the magnetic domains line up, and the material becomes a magnet.
+You can see this in the Figure below .
+Materials that can be magnitized are called ferromagnetic materials .
+They include iron, cobalt, and nickel.
+Magnetization of domains causes ferromagnetic materials to become magnets
+Magnetic domains must be lined up by an outside magnetic field for most ferromagnetic materials to become magnets.
+Temporary and Permanent Magnets
+Materials that have been magnetized may become temporary or permanent magnets.
+If you bring a bar magnet close to pile of paper clips, the paper clips will become temporarily magnetized, as all their magnetic domains line up.
+As a result, the paper clips will stick to the magnet and also to each other (see the Figure below ).
+However, if you remove the paper clips from the bar magnet’s magnetic field, their magnetic domains will no longer align.
+As a result, the paper clips will no longer be magnetized or stick together.
+You can follow the five easy steps at the following URL to make a temporary magnet from a paper clip that will retain its magnetism somewhat longer.
+A chain of paper clips held up by magnetism
+If you stroke an iron nail with a bar magnet, the nail will become a permanent (or at least long-lasting) magnet.
+You can see how it’s done in the Figure below .
+The nail’s magnetic domains will remain aligned even after you remove the nail from the magnetic field of the bar magnet.

@@ -1,0 +1,20 @@
+What happens to the strength of an electromagnet if the number of loops of wire is increased?
+What happens to the strength of an electromagnet if the current in the wire is increased?
+Which direction does the magnetic field point in the solenoid sketched here?
+Practice problem for determining the direction of the magnetic field of a solenoid
+solenoid:
+A current-carrying coil of wire that acts like a magnet when a current passes through it.
+electromagnet:
+A temporary magnet consisting of an iron or steel core wound with a coil of wire, through which a current is passed.
+magnetic levitation:
+The suspension of an object above a second object by means of magnetic repulsion.
+Laura Guerin (CK-12 Foundation), using earth image by Pearson Scott Foresman.
+Earth:
+Christopher Auyeung.
+CK-12 Foundation .
+Image copyright dvande, 2013.  .
+Samantha Bacic and Laura Guerin.
+CK-12 Foundation .
+Richard Parsons.
+CK-12 Foundation .
+Laura Guerin.

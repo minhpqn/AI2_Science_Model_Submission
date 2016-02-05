@@ -1,0 +1,20 @@
+The ambient temperature on the moon is 15 \;\mathrm{K} .
+Heat input from radioactive decay heats the working steam to a temperature of 975 \;\mathrm{K} .
+A heat exchanger in a secret underground lake.
+The exchanger operates between the bottom of a lake, where the temperature is 4 \;\mathrm{C} , and the top, where the temperature is 13 \;\mathrm{C} .
+A refrigerator in your dorm room at Mars University.
+The interior temperature is 282 \;\mathrm{K} ; the back of the fridge heats up to 320 \;\mathrm{K} .
+A heat engine operates through 4 cycles according to the PV diagram sketched below.
+Starting at the top left vertex they are labeled clockwise as follows: a, b, c, and d.
+From a-b the work is 75 \;\mathrm{J} and the change in internal energy is 100 \;\mathrm{J} ; find the net heat.
+From the a-c the change in internal energy is -20 \;\mathrm{J} .
+Find the net heat from b-c.
+From c-d the work is -40 \;\mathrm{J} .
+Find the net heat from c-d-a.
+Find the net work over the complete 4 cycles.
+The change in internal energy from b-c-d is -180 \;\mathrm{J} .
+Find:
+the net heat from c-d
+the change in internal energy from d-a
+the net heat from d-a
+Answers to Selected Problems

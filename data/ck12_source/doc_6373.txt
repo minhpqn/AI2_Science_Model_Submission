@@ -1,0 +1,20 @@
+What is Trouton’s Rule?
+What precautions need to be taken in selecting a value for \Delta H ?
+Why is temperature selection important?
+Why would the entropy of vaporization be so much larger than the entropy of fusion?
+Calculations of Free Energy and Keq
+Describe the relationship between  \Delta G^\circ and  K_{eq} .
+Perform calculations involving these two parameters.
+Limestone is formed by the dissolving and deposition of calcium carbonate
+What are these formations called when they point down?
+Formation of stalactites (pointing down) and stalagmites (pointing up) is a complex process.
+Solutions of minerals drip down and absorb carbon dioxide as water flows through the cave.
+Calcium carbonate dissolves in this liquid and redeposits on the rock as the carbon dioxide is dissipated into the environment.
+Equilibrium Constant and \Delta G
+At equilibrium the  \Delta G for a reversible reaction is equal to zero.
+K_{eq} relates the concentrations of all substances in the reaction at equilibrium.
+Therefore we can write (through a more advanced treatment of thermodynamics) the following equation:
+\Delta G^\circ=-RT \ln K_{eq}
+The variable  R is the ideal gas constant (8.314 J/K • mol), T is the Kelvin temperature, and  \ln K_{eq} is the natural logarithm of the equilibrium constant.
+When  K_{eq} is large, the products of the reaction are favored and the negative sign in the equation means that the  \Delta G^\circ is negative.
+When  K_{eq} is small, the reactants of the reaction are favored.

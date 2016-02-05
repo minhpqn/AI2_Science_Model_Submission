@@ -1,0 +1,20 @@
+States of Matter
+List the points of the kinetic-molecular-theory.
+Because so much volume of a gas is empty space, gases are easily compressed into smaller volumes
+How much oxygen is in this container?
+Approximately 20% of the atmosphere is oxygen.
+This gas is essential for life.
+In environments where oxygen is in low supply, it can be provided from a tank.
+Since gases are very compressible, a large amount of oxygen can be stored in a relatively small container.
+When it is released, the volume expands and the pressure decreases.
+The gas is then available for breathing under normal pressure.
+The Kinetic-Molecular Theory
+The kinetic-molecular theory is a theory that explains the states of matter and is based on the idea that matter is composed of tiny particles that are always in motion.
+The theory helps explain observable properties and behaviors of solids, liquids, and gases .
+However, the theory is most easily understood as it applies to gases and it is with gases that we will begin our detailed study.
+The theory applies specifically to a model of a gas called an ideal gas .
+An ideal gas is an imaginary gas whose behavior perfectly fits all the assumptions of the kinetic-molecular theory.
+In reality, gases are not ideal, but are very close to being so under most everyday conditions.
+The kinetic-molecular theory as it applies to gases has five basic assumptions.
+Gases consist of very large numbers of tiny spherical particles that are far apart from one another compared to their size .
+The particles of a gas may be either atoms or molecules.

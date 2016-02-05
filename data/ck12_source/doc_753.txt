@@ -1,0 +1,20 @@
+ampere:
+Using the SI definitions for the conventional values, the ampere can be defined as exactly  6.241 \times 10^{18} elementary charges per second or 1.00 coulomb of charge per second.
+Resistance and Ohm's Law
+Understand the unit for resistance: ohms.
+Use Ohm’s Law to solve problems involving current, potential difference, and resistance.
+Illustration of a resistor
+The bands of color on a resistor are a code that indicates the magnitude of the resistance of the resistor.
+There are four color bands identified by letter:
+A, B, C, and D, with a gap between the C and D bands so that you know which end is A.
+This particular resistor has a red A band, blue B band, green C band, and gold D band, but the bands can be different colors on different resistors.
+Based on the colors of the bands, it is possible to identify the type of resistor. the A and B bands represent significant digits; red is 2 and blue is The C band indicates the multiplier, and green indicates 10 5 .
+These three together indicate that this particular resistor is a 26,000 Ohm resistor.
+Finally, the D band indicates the tolerance, in this case 5%, as shown by the gold band.
+These terms will be explained over the course of this lesson.
+Resistance and Ohm’s Law
+When a potential difference is placed across a metal wire, a large current will flow through the wire.
+If the same potential difference is placed across a glass rod, almost no current will flow.
+The property that determines how much current will flow is called the resistance.
+Resistance is measured by finding the ratio of potential difference, V , to current flow, I .
+When given in the form  V = IR , this formula is known as Ohm's Law, after the man that discovered the relationship.

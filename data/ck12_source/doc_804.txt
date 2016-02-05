@@ -1,0 +1,20 @@
+Of course, individuals may also move away from a population.
+What does population growth mean?
+You can probably guess that it means the number of individuals in a population is increasing.
+The population growth rate tells you how quickly a population is increasing or decreasing.
+What determines the population growth rate for a particular population?
+Births, Deaths, and Migration
+Population growth rate depends on birth rates and death rates, as well as migration.
+First, we will consider the effects of birth and death rates.
+You can predict the growth rate by using this simple equation: growth rate = birth rate – death rate.
+If the birth rate is larger than the death rate, then the population grows.
+If the death rate is larger than the birth rate, what will happen to the population?
+The population size will decrease.
+If the birth and death rates are equal, then the population size will not change.
+Factors that affect population growth are:
+Age of organisms at first reproduction.
+How often an organism reproduces.
+The number of offspring of an organism.
+The presence or absence of parental care.
+How long an organism is able to reproduce.
+The death rate of offspring.

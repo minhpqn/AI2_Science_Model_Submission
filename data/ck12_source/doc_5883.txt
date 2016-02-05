@@ -1,0 +1,20 @@
+How many sodium ions are touched by a chloride ion?
+What contributes to the stability of an ionic compound?
+Why do CsCl and NaCl have different structures?
+Do ionic compounds exist as discrete molecules?
+What does this three-dimensional array do?
+What gives the most accurate rendition of how the ions arrange themselves?
+crystal:
+A solid material whose constituent atoms, molecules, or ions are arranged in an ordered pattern extending in three-dimensional space.
+halite:
+Naturally occurring form of sodium chloride.
+Define coordination number.
+Determine coordination number when given the lattice structure of the crystal.
+Anhydrous and hydrated cobalt chloride have very different colors
+What makes the colors different?
+The two cobalt salts pictured above both contain Co 2+ cations.  The difference in color is due to the species surrounding the cobalt ion.
+The presence of water molecules in the coordination sphere around the central cobalt ion changes the distances among species and the color of the material.
+The coordination number is the number of ions that immediately surround an ion of the opposite charge within a crystal lattice.  If you examine the figure below, you will see that there are six chloride ions immediately surrounding a single sodium ion.  The coordination number of sodium is 6.  Likewise, six sodium ions immediately surround each chloride ions, making the coordination number of chloride also equal to 6.  Because the formula unit of sodium chloride displays a 1:1 ratio between the ions, the coordination numbers must be the same.
+Lattice structure for sodium chloride
+Lattice structure for sodium chloride.
+The blue balls represent the sodium ions and the green balls represent the chloride ions

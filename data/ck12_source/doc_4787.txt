@@ -1,0 +1,20 @@
+Each unlabeled point where lines intersect represents another carbon atom.
+Some of these carbons and the oxygen atom are bonded to another hydrogen atom, not shown here.
+Mixtures vs.
+Compounds
+Like a chemical compound, a mixture consists of more than one chemical substance.
+Unlike a compound, a mixture does not have a fixed chemical composition.
+The substances in a mixture can be combined in any proportions.
+A mixture also does not involve a chemical reaction.
+Therefore, the substances in a mixture are not changed into unique new substances, and they can be separated from each other without a chemical reaction.
+The following examples illustrate these differences between mixtures and compounds.
+Both examples involve the same two elements: the metal iron (Fe) and the nonmetal sulfur (S).
+When iron filings and sulfur powder are mixed together in any ratio, they form a mixture.
+No chemical reaction occurs, and both elements retain their individual properties.
+A magnet can be used to mechanically separate the two elements by attracting the iron filings out of the mixture and leaving the sulfur behind.
+When iron and sulfur are mixed together in a certain ratio and heated, a chemical reaction occurs.
+This results in the formation of a unique new compound, called iron sulfide (FeS).
+A magnet cannot be used to mechanically separate the iron from the iron sulfide because metallic iron does not exist in the compound.
+Instead, another chemical reaction is required to separate the iron and sulfur.
+atom :
+The smallest particle of an element that still characterizes the element.

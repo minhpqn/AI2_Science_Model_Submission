@@ -1,0 +1,20 @@
+Light with a wavelength of 6.33 \times 10^{-7} \ m  is used in a double slit experiment.
+The screen is placed 1.00 m from the slits and the first order line is found 65.5 mm from the central bright spot.
+What is the separation between the slits?
+diffraction:  Change in the directions and intensities of a group of waves after passing by an obstacle or through an aperture whose size is approximately the same as the wavelength of the waves.
+monochromatic:  Light having only one wavelength.
+constructive interference:  The interference of two or more waves of equal frequency and phase, resulting in their mutual reinforcement and producing a single amplitude equal to the sum of the amplitudes of the individual waves.
+destructive interference:  The interference of two waves of equal frequency and opposite phase, resulting in their cancellation where the negative displacement of one always coincides with the positive displacement of the other.
+Single Slit Interference
+Explain how single slit diffraction patterns occur.
+Use single slit diffraction patterns to calculate wavelength.
+Light diffracting through a single slit
+Though it looks like a double slit interference pattern, the pattern on the screen are actually the results of light diffracting through a single slit with the ensuing interference.
+Single Slit Interference
+Interference patterns are produced not only by double slits but also by single slits, otherwise known as single slit interference .
+In the case of a single slit, the particles of medium at both corners of the slit act as point sources, producing circular waves from both edges.
+These circular waves move across to the back wall and interfere in the same way that interference patterns were produced by double slits.
+In the sketch at below, the black lines intersect at the center of the pattern on the back wall.
+This center point is equidistanct from both edges of the slit.
+Therefore, the waves striking at this position will be in phase; that is, the waves will produce constructive interference.
+Also shown in the sketch, just above the central bright spot where the red lines intersect, is a position where destructive interference occurs.

@@ -1,0 +1,20 @@
+Prior to that time, teams of workers would build a car together.
+With the advent of the assembly line, cars could be produced much more quickly and at lower cost.
+The assembly line idea quickly spread to other products, like the light bulbs shown above.
+Being able to line up parts in order and have a smooth process for putting those parts together means that an item can be produced quickly and reproducibly, coming out the same way every time.
+The process of protein synthesis is summarized in the diagram below.
+DNA produces an RNA template which then directs the amino acids to be introduced into the growing protein chain in the proper sequence.
+A specific transfer-RNA (tRNA) attaches to each specific amino acid and brings the amion acid to the RNA for incorporation.
+Overview of protein synthesis
+Overview of protein synthesis
+The first step in the process is transcription - the unfolding of DNA and the production of a messenger-RNA (mRNA) strand.
+This step takes place in the nucleus of the cell.
+Overview of transcription
+Formation of RNA from DNA
+The DNA uncoils and provides the pattern for the formation of a single strand of mRNA.
+After production of the RNA, the DNA refolds into the original double helix.
+The mRNA is exported to the cytoplasm (outside the nucleus) for further processing.
+Amino acids will link with specific tRNA molecules for proper placement in the protein chain.
+The tRNA is a small coiled molecule that accepts an amino acid on one end and matches up to a specific three-base portion of the mRNA on the other end.
+The tRNA interacts with the mRNA so as to put the amino acid in the proper sequence for the developing protein.
+After adding the amino acid to the sequence, the tRNA is then cleaved from the amino acid and recycled for further use in the process.

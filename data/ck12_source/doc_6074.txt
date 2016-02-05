@@ -1,0 +1,20 @@
+The water could then be cooled to 0°C, at which point continued cooling would freeze the water to ice.
+The ice could then be cooled to some point below 0°C.
+This could be diagrammed in a cooling curve that would be the reverse of the heating curve.
+Summary of State Changes
+All of the changes of state that occur between solid, liquid and gas are summarized in the diagram in the figure below.
+Freezing is the opposite of melting and both represent the equilibrium between the solid and liquid states.
+Evaporation occurs when a liquid turns to a gas.
+Condensation is the opposite of vaporization and both represent the equilibrium between the liquid and gas states.
+Deposition is the opposite of sublimation and both represent the equilibrium between the solid and gas states.
+Diagram illustrating the phase transitions that substances undergo
+Solid, liquid, and gas states with the terms for each change of state that occurs between them.
+A change of state can be brought about by putting heat into a system or removing it from the system.
+The temperature of a system will not change as long as the substance is undergoing a change from solid to liquid or liquid to gas, as well as the reverse.
+You can experiment with pressure, temperature and phases using this simulation
+Change the temperature, pressure, and substance and record your observations.
+What happens when ice reaches 0°C?
+What is sublimation?
+What happens to steam if it is cooled to 100°C?
+condensation:
+The process of a gas turning to a liquid.

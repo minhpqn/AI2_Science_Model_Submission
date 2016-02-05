@@ -1,0 +1,20 @@
+Q:
+What is the maximum mass this triple beam balance can measure?
+A:
+The maximum mass it can measure is 610 grams (500 grams + 100 grams + 10 grams).
+Q:
+What is the smallest mass this triple beam balance can measure?
+A:
+The smallest mass it can measure is one-tenth (0.1) of a gram.
+To measure very small masses, scientists use electronic balances, like the one in the Figure below .
+This type of balance also makes it easier to make accurate measurements because mass is shown as a digital readout.
+In the picture, the balance is being used to measure the mass of a white powder on a plastic weighing tray.
+The mass of the tray alone would have to be measured first and then subtracted from the mass of the tray and powder together.
+The difference between the two masses is the mass of the powder alone.
+Image of an electronic analytical balance
+Measuring Volume with a Graduated Cylinder
+At home, you might measure the volume of a liquid with a measuring cup.
+In science, the volume of a liquid might be measured with a graduated cylinder, like the one sketched below.
+The cylinder in the picture has a scale in milliliters (mL), with a maximum volume of 100 mL.
+Follow these steps when using a graduated cylinder to measure the volume of a liquid:
+Place the cylinder on a level surface before adding the liquid.

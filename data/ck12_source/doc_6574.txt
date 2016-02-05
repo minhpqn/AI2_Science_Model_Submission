@@ -1,0 +1,20 @@
+\text{CH}_3 \text{CHOHCH}_3 \xrightarrow[{\text{H}^+}]{\text{Cr}_2 \text{O}^{2-}_7} \text{CH}_3\text{COCH}_3
+Oxidation of 2-propanol yields acetone (propanone)
+Tertiary alcohols cannot be oxidized in this way because the carbon to which the hydroxyl group is attached does not have another hydrogen atom attached to it.
+When a primary alcohol is oxidized to an aldehyde, the reaction is difficult to stop because the aldehyde is easily oxidized further to the corresponding carboxylic acid.
+The oxidation of ethanal produces ethanoic (acetic) acid.
+\text{CH}_3 \text{CHO} \xrightarrow[{\text{H}^+}]{\text{Cr}_2 \text{O}^{2-}_7} \text{CH}_3 \text{COOH}
+Ethanol-containing beverages such as wine are susceptible to such oxidation if kept for long periods of time after having been opened and exposed to the air.
+Wine that has become oxidized will have an unpleasant vinegary taste due to the production of acetic acid.
+Unlike aldehydes, ketones are resistant to further oxidation because the carbonyl group is in the middle of the carbon chain and so the ketone cannot be converted to a carboxylic acid.
+Oxidation reactions are described.
+Examples of oxidation reactions are given.
+Read the material at the link below and answer the following questions:
+What happens to a primary alcohol that is completely oxidized?
+How can you get an aldehyde from a primary alcohol?
+What would you use to convert a secondary alcohol to a ketone?
+What is the product of the oxidation of a primary alcohol?
+What type of compound gives a ketone when oxidized?
+What will produce acetic acid when completely oxidized?
+Define condensation reaction.
+Give examples of condensation reactions.

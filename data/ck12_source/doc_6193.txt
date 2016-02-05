@@ -1,0 +1,20 @@
+However, there is a better way to show what is happening in this reaction.
+All of the aqueous compounds should be written as ions because they are present in the water as separated ions because of their dissociation.
+\text{Na}^+(aq)+\text{Cl}^-(aq)+\text{Ag}^+(aq)+\text{NO}^-_3 (aq) \rightarrow \text{Na}^+ (aq)+\text{NO}^-_3 (aq)+\text{AgCl}(s)
+This equation is called an ionic equation , an equation in which dissolved ionic compounds are shown as free ions.
+Some other double-replacement reactions do not produce a precipitate as one of the products.
+The production of a gas and/or a molecular compound such as water may also drive the reaction.
+For example, consider the reaction of a solution of sodium carbonate with a solution of hydrochloric acid (HCl).
+The products of the reaction are aqueous sodium chloride, carbon dioxide, and water.
+The balanced molecular equation is:
+\text{Na}_2 \text{CO}_3 (aq)+2\text{HCl}(aq) \rightarrow 2\text{NaCl}(aq)+\text{CO}_2(g)+\text{H}_2\text{O}(l)
+The ionic equation is:
+2\text{Na}^+(aq)+\text{CO}^{2-}_3 (aq)+2\text{H}^+ (aq)+2\text{Cl}^-(aq) \rightarrow 2\text{Na}^+(aq)+2\text{Cl}^-(aq)+\text{CO}_2 (g)+\text{H}_2\text{O}(l)
+A single-replacement reaction is one in which an element replaces another element in a compound.
+An element is in either the solid, liquid, or gas state and is not an ion.
+The example below shows the reaction of solid magnesium metal with aqueous silver nitrate to form aqueous magnesium nitrate and silver metal.
+Balanced molecular equation:
+\text{Mg}(s)+2\text{AgNO}_3 (aq) \rightarrow \text{Mg(NO}_3)_2 (aq)+2\text{Ag}(s)
+\text{Mg}(s)+2\text{Ag}^+ (aq)+2\text{NO}^-_3 (aq) \rightarrow \text{Mg}^{2+}(aq)+2\text{NO}^-_3 (aq)+2\text{Ag}(s)
+This type of single-replacement reaction is called a metal replacement.
+Other common categories of single-replacement reactions are hydrogen replacement and halogen replacement.

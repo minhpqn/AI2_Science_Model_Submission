@@ -1,0 +1,20 @@
+These tailor-made drugs promise not only to maximize the beneficial effects of the medicine, but also to decrease damage to nearby healthy cells.
+More accurate methods of determining appropriate drug dosages.
+Knowing a patient’s genetics will enable doctors to determine how well his or her body can process and metabolize a medicine.
+This will allow doctors to prescribe the proper levels of the medicine, allowing the medicine to have optimal results.
+Improvements in the drug discovery and approval process.
+Once the genes and proteins associated with a disease are known, the discovery of new medicines will be made easier using these genes and proteins as targets for the medicine.
+In addition to creating much more beneficial medicines, this could significantly shorten the drug discovery process.
+Better vaccines.
+Safer vaccines can be designed and produced by organisms transformed with DNA sequences from an antigen.
+These vaccines will trigger the immune response without the risks of infection.
+They will be capable of being engineered to carry several strains of pathogen at once, combining several vaccines into one.
+Cytochrome P450 Genes
+There are several known genes which are largely responsible for variances in drug metabolism and response among humans.
+The most common are the cytochrome P450 (CYP) genes, which encode enzymes that influence the metabolism of more than 75% of current prescription drugs.
+CYP450 proteins are hemoproteins, belonging to the superfamily of proteins containing a heme cofactor.
+Often, these proteins form part of multi-component electron transfer chains, called P450-containing systems.
+The letter in P450 represents the word pigment, as these enzymes are red because of their heme group.
+The number 450 reflects the wavelength of the absorption maximum of the enzyme.
+Humans have 57 genes (and more than 59 pseudogenes) divided among 18 families of cytochrome P450 genes and 43 subfamilies.
+Some examples are shown in the Table below .

@@ -1,0 +1,20 @@
+Show the proper connection of an ammeter and a voltmeter that could measure voltage across and current through the 2\ \Omega resistor.
+What measurements would these instruments read?
+Students are now measuring the terminal voltage of a battery hooked up to an external circuit.
+They change the external circuit four times and develop the Table ( below ); using this data, complete the following:
+Graph this data, with the voltage on the vertical axis.
+Use the graph to determine the emf of the battery.
+Use the graph to determine the internal resistance of the battery.
+What voltage would the battery read if it were not hooked up to an external circuit?
+Terminal Voltage (v)
+You have a battery with an emf of 12\;\mathrm{V} and an internal resistance of 1.00\ \Omega .
+Some 2.00\;\mathrm{A} are drawn from the external circuit.
+What is the terminal voltage
+The external circuit consists of device X , 0.5\;\mathrm{A} and 6\;\mathrm{V} ; device Y , 0.5\;\mathrm{A} and 10\;\mathrm{V} , and two different resistors.
+Show how this circuit is connected.
+Determine the values of the two resistors.
+Answers to Selected Problems
+a. 3.66 \ \Omega b. 0.36\mathrm{A} c. 1.32 \;\mathrm{V}
+b. 15\text{V} c. 2.5\Omega d. 15\text{V}
+a. 10\text{V} b. c.
+R_1=2.6\Omega and R_2=6\Omega

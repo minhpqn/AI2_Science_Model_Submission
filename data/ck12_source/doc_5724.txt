@@ -1,0 +1,20 @@
+Since there are three 2 p orbitals and each orbital holds two electrons, the 2 p sublevel is filled after six elements.
+The Table below shows the electron configurations of the elements in the second period.
+Electron Configurations of Second-Period Elements
+1 s 2 2 s 1
+1 s 2 2 s 2
+1 s 2 2 s 2 2 p 1
+1 s 2 2 s 2 2 p 2
+1 s 2 2 s 2 2 p 3
+1 s 2 2 s 2 2 p 4
+1 s 2 2 s 2 2 p 5
+1 s 2 2 s 2 2 p 6
+Electron configuration notation simplifies the indication of where electrons are located in a specific atom.
+Superscripts are used to indicate the number of electrons in a given sublevel.
+Use the link below to practice solving electron configuration problems.
+What does electron configuration notation eliminate?
+How do we know how many electrons are in each sublevel?
+An atom has the electron configuration of 1 s 2 2 s 2 2 p 5 .
+How many electrons are in that atom?
+Which element has the electron configuration of 1 s 2 2 s 2 2 p 6 3 s 2 ?
+electron configuration notation:

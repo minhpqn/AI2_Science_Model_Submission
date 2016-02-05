@@ -1,0 +1,20 @@
+The leucine-zipper (or the basic leucine zipper) domain contains an alpha helix with a leucine at every 7 th amino acid.
+If two leucine zipper domains find one another, the leucines can interact like the teeth in a zipper, allowing the dimerization of two proteins.
+When binding to the DNA, the leucine residues bind to the sugar-phosphate backbone while the helices sit in the major grooves.
+The helix-turn-helix is a major structural motif common in homeobox proteins involved the regulation of development.
+It is composed of two alpha helices joined by a short strand of amino acids.
+The zinc finger domain consists of a DNA recognition helix and two antiparallel beta sheet structures.
+It is stabilized by coordinating zinc ions with regularly spaced zinc-coordinating histidine or cysteine residues.
+The Krüppel gap gene (see the Regulation of Gene Expression:
+Eukaryotic (Advanced) concept) is a zinc-finger protein.
+The helix-loop-helix domain is characterized by two alpha helices connected by a loop, allowing DNA binding.
+Specific Transcription Factors
+Specific transcription factors are factors that are specific for regulating specific genes.
+They are not ubiquitous for all RNA polymerase II associated genes.
+Specific factors vary considerably depending on the cis-regulatory sequences associated with the promoter region of a gene.
+Examples of specific transcription factors
+Heat shock factor
+Sp1 = specificity protein 1
+AP-1 = activator protein 1
+C/EBP = CCAAT-enhancer-binding protein
+ATF/CREB = activating transcription factor/cAMP response element binding

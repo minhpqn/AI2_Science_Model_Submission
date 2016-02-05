@@ -1,0 +1,20 @@
+Because males have just one X chromosome, they have only one allele for any X-linked trait.
+Therefore, a recessive X-linked allele is always expressed in males.
+Because females have two X chromosomes, they have two alleles for any X-linked trait.
+Therefore, they must inherit two copies of the recessive allele to express the recessive trait.
+This explains why X-linked recessive traits are less common in females than males.
+An example of a recessive X-linked trait is red-green color blindness .
+People with this trait cannot distinguish between the colors red and green.
+More than one recessive gene on the X chromosome codes for this trait, which is fairly common in males but relatively rare in females ( Figure below ).
+At the following link, you can watch an animation about another X-linked recessive trait called hemophilia A:
+Pedigree for color blindness
+Pedigree for Color Blindness.
+Color blindness is an X-linked recessive trait.
+Mothers pass the recessive allele for the trait to their sons, who pass it to their daughters.
+A minority of human traits are controlled by single genes with two alleles.
+They have different inheritance patterns depending on whether they are controlled by autosomal or X-linked genes.
+Use these resources to answer the questions that follow.
+\rightarrow Non-Majors Biology \rightarrow Search:
+A Case Study
+A homozygous freckled man marries a non-freckled woman.
+If freckles are dominant, will their children have freckles?

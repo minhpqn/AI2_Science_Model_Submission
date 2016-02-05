@@ -1,0 +1,20 @@
+Direct Redox Reactions
+Describe the use of the activity series of metals table.
+Predict reaction spontaneity based on the activity series table.
+Gold and silver are often used for jewelry because they are very unreactive
+How much for that necklace?
+Gold and silver are widely used metals for making jewelry.
+One of the reasons these metals are employed for this purpose is that they are very unreactive.
+They do not react in contact with most other metals, so they are more likely to stay intact under challenging conditions.
+Who wants their favorite piece of jewelry to fall apart on them?
+Direct Redox Reactions
+When a strip of zinc metal is placed into a blue solution of copper(II) sulfate ( Figure below ), a reaction immediately begins as the zinc strip begins to darken.
+If left in the solution for a longer period of time, the zinc will gradually decay due to oxidation to zinc ions.
+At the same time, the copper(II) ions from the solution are reduced to copper metal (see Figure below ), which causes the blue copper(II) sulfate solution to become colorless.
+Copper sulfate is initially a blue solution
+Copper sulfate solution.
+The reaction of zinc with copper sulfate is a redox reaction
+Reaction of zinc metal in copper sulfate solution.
+The process that occurs in this redox reaction is shown below as two separate half-reactions, which can then be combined into the full redox reaction.
+& \text{Oxidation}: \quad \quad \ \text{Zn}(s) \rightarrow \text{Zn}^{2+} (aq) + 2e^- \\& \underline{\text{Reduction}: \quad \ \quad \text{Cu}^{2+}(aq) + 2e^- \rightarrow \text{Cu}(s) \qquad \qquad \qquad \ }\\&\text{Full Reaction}: \quad \text{Zn}(s) + \text{Cu}^{2+}(aq) \rightarrow \text{Zn}^{2+}(aq) + \text{Cu}(s)
+Why does this reaction occur spontaneously?

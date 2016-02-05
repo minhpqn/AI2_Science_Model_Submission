@@ -1,0 +1,20 @@
+How does a vesicle export materials from the cell?
+Other Structures of Cells - Advanced
+Outline the form and function of cellular structures.
+How are chromosomes separated during cell division?
+They are pulled apart by spindle fibers.
+The fibers are made of microtubules and are organized by the centrioles.
+Two pairs of centrioles are seen on opposite sides of the cell during prophase, the first phase of mitosis.
+Centrioles are rod-like structures made of short microtubules.
+Though they are found in most eukaryotic cells, centrioles are absent in some plants and most fungi.
+Nine groups of three microtubules (nine triplets) make up each centriole.
+The nine triplets are arranged in a cartwheel-like orientation.
+Two perpendicularly placed centrioles make up the centrosome .
+Centrioles are very important in cellular division, where they arrange the mitotic spindles that pull the chromosome apart during mitosis.
+The position of the centriole determines the position of the nucleus, thus playing a crucial role in the spatial arrangement of the cell.
+Centrioles are a very important part of centrosomes, which are involved in organizing microtubules in the cytoplasm.
+Centrosomes are associated with the nuclear membrane during prophase of the mitosis.
+In mitosis, the nuclear membrane breaks down and the microtubule organizing center (MTOC) of the centrosome arranges microtubules such that they interact with the chromosomes to build the mitotic spindle.
+Structure of the centrioles
+Here the centrosome is shown as a pair of orange cylindrical centrioles.
+They are made of nine triplets of microtubules.

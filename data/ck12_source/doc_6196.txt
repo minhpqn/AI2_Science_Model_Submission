@@ -1,0 +1,20 @@
+In the above equation, the overall charge is zero, or neutral, on both sides of the equation.
+As a general rule, if you balance the molecular equation properly, the net ionic equation will end up being balanced by both mass and charge.
+Sample Problem:
+Writing and Balancing Net Ionic Equations
+When aqueous solutions of copper(II) chloride and potassium phosphate are mixed, a precipitate of copper(II) phosphate is formed.
+Write a balanced net ionic equation for this reaction.
+Step 1:
+Plan the problem .
+Write and balance the molecular equation first, making sure that all formulas are correct.
+Then write the ionic equation, showing all aqueous substances as ions.
+Carry through any coefficients.
+Finally, eliminate spectator ions and write the net ionic equation.
+Step 2:
+Solve .
+3\text{CuCl}_2(aq)+2\text{K}_3\text{PO}_4(aq) \rightarrow 6\text{KCl}(aq)+\text{Cu}_3(\text{PO}_4)_2(s)
+3\text{Cu}^{2+}(aq)+6\text{Cl}^-(aq)+6\text{K}^+(aq)+2\text{PO}^{3^-}_4(aq) \rightarrow 6\text{K}^+(aq)+6\text{Cl}^-(aq)+\text{Cu}_3(\text{PO}_4)_2(s)
+Notice that the balancing is carried through when writing the dissociated ions.
+For example, there are six chloride ions on the reactant side because the coefficient of 3 is multiplied by the subscript of 2 in the copper(II) chloride formula.
+The spectator ions are K + and Cl − and can be eliminated.
+Net ionic equation:

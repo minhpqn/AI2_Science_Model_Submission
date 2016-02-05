@@ -1,0 +1,20 @@
+Is this statement testable?
+Yes.
+You could drop two objects at the same time from the same height and observe when they reach the ground.
+Of course, you would have to drop the objects in the absence of air to prevent air resistance, but at least such a test is theoretically possible.
+Is the statement falsifiable if it really is false?
+Again, the answer is yes.
+You can easily test many combinations of two objects and if any two objects do not reach the ground at the same time, then the hypothesis is false.
+If a hypothesis really is false, it should be relatively easy to disprove it.
+Elephant and boy falling to the ground due to gravity
+Both the elephant and the boy are falling to the ground because of gravity.
+The force of gravity (F grav ) is greater for the elephant than it is for the boy because the elephant is much more massive.
+Nonetheless, both of them will reach the ground at the same time (assuming they fall from the same height at the same time and there is no air resistance.)
+Can You Prove a Hypothesis Is True?
+If the hypothesis above about falling objects really were false, it is likely that this would be discovered sooner or later after enough objects had been dropped.
+It takes just one exception to disprove a hypothesis.
+But what if the hypothesis really is true?
+Can this be demonstrated as well?
+No; it would require testing all possible combinations of objects to show that they always reach the ground at the same time.
+This is impossible.
+New objects are being made all the time that would have to be tested.

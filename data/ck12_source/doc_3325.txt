@@ -1,0 +1,20 @@
+In the series circuit below, if one light bulb burns out, the other light bulb won’t work because it won’t receive any current.
+Series circuits are commonly used in flashlights.
+You can see an animation of a series circuit at this URL:
+Q:
+If one light bulb burns out in this series circuit, how can you tell which bulb it is?
+A:
+It may not be obvious, because neither bulb will light if one is burned out.
+You can tell which one it is only by replacing first one bulb and then the other to see which replacement results in both bulbs lighting up.
+A circuit that has two loops is called a parallel circuit .
+A simple parallel circuit is sketched below.
+If one loop of a parallel circuit is interrupted, current can still flow through the other loop.
+In the parallel circuit below, if one light bulb burns out, the other light bulb will still work because current can bypass the burned-out bulb.
+The wiring in a house consists of parallel circuits.
+You can see an animation of a parallel circuit at this URL:
+An electric circuit consists of one or two closed loops through which current can flow.
+It has a voltage source and a conductor and may have other devices such as lights and switches.
+A circuit that consists of one loop is called a series circuit.
+If its single loop is interrupted at any point, no current can flow through the circuit.
+A circuit that consists of two loops is called a parallel circuit.
+If one loop of a parallel circuit is interrupted, current can still flow through the other loop.

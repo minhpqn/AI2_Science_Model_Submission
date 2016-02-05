@@ -1,0 +1,20 @@
+The bacterium in Figure above is a prokaryote.
+Prokaryotes are microscopic organisms that have neither a membrane-bound nucleus nor membrane-bound organelles.
+Some cell biologists consider the term "organelle" to describe membrane-bound structures only, whereas other cell biologists define organelles as discrete structures that have a specialized function.
+Prokaryotes have ribosomes, which are not surrounded by a membrane but do have a specialized function, and could therefore be considered organelles.
+All metabolic functions carried out by a prokaryote take place in the plasma membrane or the cytosol.
+Prokaryotes are the smallest types of cells, averaging 2-5μm in diameter.
+Despite their small size, inside each cell there is chemical and biochemical machinery necessary for growth, reproduction, and the acquisition and utilization of energy.
+The common features of prokaryotic cells are:
+capsule (most, but not all)
+flagella (most, but not all)
+pili (most, but not all)
+lack of compartmentalization
+plasmid (most, but not all)
+All prokaryotes have a cell wall that adds structural support, acts as a barrier against outside forces and anchors the whip-like flagella .
+Some prokaryotes have an extra layer outside their cell wall called a capsule, which protects the cell when it is engulfed by other organisms, assists in retaining moisture, and helps the cell adhere to surfaces and nutrients.
+Pili are hair-like structures on the surface of the cell that attach to other bacterial cells or surfaces.
+Within the plasma membrane, the cytoplasm is not subdivided by membranes into organelles, a lack of compartmentalization that is most evident in the organization of the genetic material.
+Prokaryotic cells contain only a single circular piece of chromosomal DNA stored in an area called the nucleoid .
+Some prokaryotes also carry smaller circles of DNA called plasmids .
+Plasmids are physically separate from, and can replicate independently of, the chromosomal DNA.

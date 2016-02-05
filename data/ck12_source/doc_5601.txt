@@ -1,0 +1,20 @@
+\frac{4 \ \text{cups}}{2 \ \text{pints}}=\frac{2 \ \text{pints}}{1 \ \text{quart}}=\frac{1 \ \text{quart}}{0.25 \ \text{gallon}}=1
+Since the numerator and denominator represent equal quantities in each case, all are valid conversion factors.
+Scientific Dimensional Analysis
+Conversion factors are used in solving problems in which a certain measurement must be expressed with different units.
+When a given measurement is multiplied by an appropriate conversion factor, the numerical value changes, but the actual size of the quantity measured remains the same.
+Dimensional analysis is a technique that uses the units (dimensions) of the measurement in order to correctly solve problems.
+Dimensional analysis is best illustrated with an example.
+Sample Problem:
+Dimensional Analysis
+How many seconds are in a day?
+Step 1:
+List the known quantities and plan the problem.
+1 day = 24 hours
+1 hour = 60 minutes
+1 minute = 60 seconds
+1 day = ? seconds
+The known quantities above represent the conversion factors that we will use.
+The first conversion factor will have day in the denominator so that the “day” unit will cancel.
+The second conversion factor will then have hours in the denominator, while the third conversion factor will have minutes in the denominator.
+As a result, the unit of the last numerator will be seconds and that will be the units for the answer.

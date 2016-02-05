@@ -1,0 +1,20 @@
+The proper third law pairs are: (1) earth’s gravity on block/block’s gravity on earth and (2) table pushes on block/ block pushes on table.
+Question :
+Tom and Mary are standing on identical skateboards.
+Tom and Mary push off of each other and travel in opposite directions.
+a) If Tom (M) and Mary (m) have identical masses, who travels farther?
+b) If Tom has a bigger mass than Mary, who goes farther?
+c) If Tom and Mary have identical masses and Tom pushes twice as hard as Mary, who goes farther?
+a) Neither.
+Both Tom and Mary will travel the same distance.
+The forced applied to each person is the same (Newton's Third Law).
+So \cancel{M}a=\cancel{m}{a} which cancels to a=a Therefore both people will travel the same distance because the acceleration controls how far someone will travel and Tom and Mary have equal acceleration.
+b) Mary will go farther.
+Again, the same force is applied to both Mary and Tom so Ma=ma Since Tom has the larger mass, his acceleration must be smaller (acceleration and mass are inversely proportional).
+Finally, because Mary's acceleration is greater, she will travel farther.
+c) Neither.
+Newton's Third Law states that for every action there is an equal and opposite reaction.
+Therefore if Tom pushes twice as hard as Mary, Mary will essentially be pushing back with the same strength.
+They will therefore travel the same distance.
+Watch this Explanation
+Click on the image above for more content

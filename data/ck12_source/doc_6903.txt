@@ -1,0 +1,20 @@
+A train, moving at some speed lower than the speed of sound, is equipped with a gun.
+The gun shoots a bullet forward at precisely the speed of sound, relative to the train.
+An observer watches some distance down the tracks, with the bullet headed towards him.
+Will the observer hear the sound of the bullet being fired before being struck by the bullet?
+Explain.
+The speed of sound v in air is approximately 331.4 \ m/s + 0.6 \ T , where T is the temperature of the air in Celsius.
+The speed of light c is 300,000 km/sec, which means it travels from one place to another on Earth more or less instantaneously.
+Let’s say on a cool night (air temperature 10^\circ Celsius) you see lightning flash and then hear the thunder rumble five seconds later.
+How far away (in km) did the lightning strike?
+struck by bullet first.
+Sound in a Tube
+Analyze and solve problems where standing waves are produced in a tube.
+Students will learn how to analyze and solve problems where standing waves (and hence sound) is produced in a tube.
+v = \lambda f
+for a tube closed at one end
+f =nv /4L , where n is always odd
+for a tube open at both ends
+f =nv /2L , where n is an integer
+In the case of a tube that is open at one end, a node is forced at the closed end (no air molecules can vibrate up and down) and an antinode occurs at the open end (here, air molecules are free to move).
+A different spectrum of standing waves is produced.

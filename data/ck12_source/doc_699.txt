@@ -1,0 +1,20 @@
+Locate the image for an object distance of 40.0 cm.
+Indicate whether the image is real or virtual, enlarged or diminished, and upright or inverted.
+A dentist uses a concave mirror to examine a tooth that is 1.00 cm in front of the mirror.
+The image of the tooth forms 10.0 cm behind the mirror.
+What is the mirror’s radius of curvature?
+What is the magnification of the image?
+When a man stands 1.52 m in front of a shaving mirror, the image produced is inverted and has an image distance of 18.0 cm.
+How close to the mirror must the man place his face if he wants an upright image with a magnification of 2.0?
+concave mirror:
+Composed of a reflective surface with its sides curved closer in distance to your eye than its middle surface.
+convex mirror:
+Composed of a reflective surface with its middle surface closer in distance to your eye than its edges.
+spherical mirror:
+It is a part of a hollow sphere, whose one side is reflecting and other side is opaque.
+focal point:
+The point on the principal axis of a mirror to which parallel rays of light converge after reflection.
+spherical aberration:
+Spherical mirrors have a defect that prohibits the mirror from focusing all the incident light from the same location on an object to a precise point.
+Rays that strike the outer edges of the mirror fail to focus in the same precise location as light rays that strike the inner portions of the mirror.
+The result is that the images of objects as seen in spherical mirrors are often blurry.

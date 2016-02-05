@@ -1,0 +1,20 @@
+Where do you get the amino acids needed so your cells can make their own proteins?
+If you cannot make the amino acids yourself - and some of them you cannot make - then you must eat them.
+Proteins are organic compounds that contain carbon, hydrogen, oxygen, nitrogen, and, in some cases, sulfur.
+These compounds may many essential functions within the cell (see below).
+Proteins are made of smaller units called amino acids .
+There are 20 different common amino acids needed to make proteins.
+All amino acids have the same basic structure, which is shown in Figure below .
+Only the side chain (labeled R in the figure) differs from one amino acid to another.
+These side chains can vary in size from just one hydrogen atom in glycine to a large heterocyclic group in tryptophan.
+The variable side chain gives each amino acid unique properties.
+The side chains can also characterize the amino acid as (1) nonpolar or hydrophobic, (2) neutral (uncharged) but polar, (3) acidic, with a net negative charge, and (4) basic, with a net positive charge at neutral pH.
+Proteins can differ from one another in the number and sequence (order) of amino acids.
+It is because of the side chains of the amino acids that proteins with different amino acid sequences have different shapes and different chemical properties.
+Small proteins can contain just a few hundred amino acids.
+Yeast proteins average 466 amino acids.
+The largest known proteins are the titins, found in muscle, which are composed from over 27,000 amino acids.
+General Structure of Amino Acids.
+This model shows the general structure of all amino acids.
+Only the side chain, R, varies from one amino acid to another.
+For example, in the amino acid glycine, the side chain is simply hydrogen (H).

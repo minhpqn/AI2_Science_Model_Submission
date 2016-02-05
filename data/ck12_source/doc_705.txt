@@ -1,0 +1,20 @@
+Solution: \frac{1}{d_o}+\frac{1}{d_i}=\frac{1}{f} plugging in values \frac{1}{40.0}+\frac{1}{x}=\frac{1}{8.00}
+Multiplying both sides by 40x  yields  x+40=5x so 4x = 40  and x = 10.0 \text{ cm} .
+Example Problem:
+An object 1.00 cm high is 8.00 cm to the left of a convex lens of 6.00 cm focal length.
+Find the image location and image height.
+Solution: \frac{1}{d_o}+\frac{1}{d_i}=\frac{1}{f} plugging in values \frac{1}{8.00}+\frac{1}{x}=\frac{1}{6.00}
+Multiplying both sides by 24x  yields 3x + 24 = 4x  so x = 24.0 \text{ cm} .
+Since the image distance is three times the object distance, the image height will be three times the object height or 3.00 cm.
+Lenses are made of transparent materials, such as glass or plastic, with an index of refraction greater than that of air.
+One or both of the lens faces is part of a sphere and can be concave or convex.
+A lens is called a convex lens if it is thicker at the center than at the edges.
+Both the mirror equation and the magnification equation apply to lenses.
+Generally, when dealing with lenses, the mirror equation is renamed the Lens Equation.
+Double convex lenses have focal points on both sides of the lens; these and the points at twice the focal length are used to locate objects and images.
+When the object is outside 2F , the image will be between F  and 2F  on the other side and will be inverted, diminished, and real.
+If the object is placed between 2F  and F , the image will appear beyond 2F  on the other side.
+The image will be real, inverted, and enlarged.
+For convex lenses, when the object is placed inside F , the image will be on the same side of the lens as the object and it will be virtual, upright, and enlarged.
+Click on the image above for more content
+Follow up questions:

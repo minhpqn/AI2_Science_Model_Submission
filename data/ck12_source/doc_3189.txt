@@ -1,0 +1,20 @@
+For example, suppose that a wave is traveling at a speed of 2 meters per second and has a wavelength of 1 meter.
+Then the frequency of the wave is:
+Frequency = \mathrm{\frac{2m/s}{1m}}=2 \ \text{waves/s, or 2 Hz}
+Q:
+A wave is traveling at a speed of 2 m/s and has a frequency of 2 Hz.
+What is its wavelength?
+A:
+Substitute these values into the equation for wavelength:
+Wavelength = \mathrm{\frac{2m/s}{2 waves/s}}=1 \ \text{m}
+The Medium Matters
+The speed of most waves depends on the medium, or the matter through which the waves are traveling.
+Generally, waves travel fastest through solids and slowest through gases.
+That’s because particles are closest together in solids and farthest apart in gases.
+When particles are farther apart, it takes longer for the energy of the disturbance to pass from particle to particle through the medium.
+At the following URL, you can watch an animation showing what happens when a wave passes from one medium to another.
+Click on the image above for more content
+Wave speed is the distance a wave travels in a given amount of time, such as the number of meters it travels per second.
+Wave speed is related to wavelength and wave frequency by the equation:
+Speed = Wavelength x Frequency.
+This equation can be used to calculate wave speed when wavelength and frequency are known.

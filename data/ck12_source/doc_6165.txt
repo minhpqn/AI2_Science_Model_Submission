@@ -1,0 +1,20 @@
+You can’t open the can or you will lose carbonation.
+So a special pressurized container has been developed to get around the problem of gas loss at low gravity.
+Pressure has very little effect on the solubility of solids or liquids, but has a significant effect on the solubility of gases.
+Gas solubility increases as the partial pressure of a gas above the liquid increases.
+Suppose a certain volume of water is in a closed container with the space above it occupied by carbon dioxide gas at standard pressure.
+Some of the CO 2 molecules come into contact with the surface of the water and dissolve into the liquid.
+Now suppose that more CO 2 is added to the space above the container, causing a pressure increase.
+More CO 2 molecules are now in contact with the water and so more of them dissolve.
+Thus the solubility increases as the pressure increases.
+As with a solid, the CO 2 that is undissolved reaches an equilibrium with the dissolved CO 2 , represented by the following equation.
+\text{CO}_2(g) \rightleftarrows \text{CO}_2(aq)
+At equilibrium, the rate of gaseous CO 2 dissolving is equal to the rate of dissolved CO 2 coming out of the solution.
+When carbonated beverages are packaged, they are done so under high CO 2 pressure so that a large amount of carbon dioxide dissolves in the liquid.
+When the bottle is open, the equilibrium is disrupted because the CO 2 pressure above the liquid decreases.
+Immediately, bubbles of CO 2 rapidly exit the solution and escape out of the top of the open bottle.
+The amount of dissolve CO 2 decreases.
+If the bottle is left open for an extended period of time, the beverage becomes “flat” as more and more CO 2 comes out of the liquid.
+The relationship of gas solubility to pressure is described by Henry’s law, named after English chemist William Henry (1774-1836).
+Henry’s Law states that the solubility of a gas in a liquid is directly proportional to the partial pressure of the gas above the liquid.
+Henry’s law can be written as follows:

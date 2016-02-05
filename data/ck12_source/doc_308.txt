@@ -1,0 +1,20 @@
+Q = mc \Delta t ,
+where  Q is the heat gained or lost,  m is the mass of the object, c is its specific heat, and  \Delta t is the change in temperature.
+You should note that the size of a Celsius degree and a Kelvin degree are exactly the same, and therefore  \Delta t is the same whether measured in Celsius or Kelvin.
+Example Problem:  A 0.500 kg block of zinc is heated from 295 K to K.
+How much heat was absorbed by the zinc?
+Solution:
+Q = mc \Delta t = (0.500 \ kg)(388 \ J/kg \cdot K)(350. \ K - 295 \ K) = 10,600 \ J
+Example Problem:  845 J of heat are added to a 0.200 kg block of aluminum at a temperature of 312.00 K.
+How high will the temperature of the aluminum rise?
+Solution: (t_2-t_1)=\frac{Q}{mc}=\frac{845 \ J}{(0.200 \ kg)(903 \ J/kg \cdot K)}=4.68 \ K
+t_2 = t_1 + 4.68 \ K = 312.00 \ K + 4.68 \ K = 316.68 \ K
+When heat flows into an object, its thermal energy increases and so does its temperature.
+The amount of temperature increase depends on three things:  1) how much heat was added, 2) the size of the object, and 3) the material of which the object is made.
+Each substance has a specific heat, which is the amount of heat necessary to raise one mass unit of that substance by one temperature unit.
+The amount of heat gained or lost by an object when its temperature changes can be calculated by the formula Q = mc \Delta t .
+Interactive step by step demonstration of how to calculate the specific heat of a material.
+Practice problems in specific heat.
+How much heat is absorbed by 60.0 g of copper when it is heated from 20.0°C to 80.0°C?
+A 40.0 kg block of lead is heated from -25°C to 200.°C.  How much heat is absorbed by the lead block?
+The cooling system of an automobile motor contains 20.0 kg of water.  What is the \Delta t of the water if the engine operates until 836,000 J of heat have been added to the water?

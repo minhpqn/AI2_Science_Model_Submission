@@ -1,0 +1,20 @@
+A liquid with stronger intermolecular forces does not evaporate easily and thus has a lower vapor pressure.
+For example, diethyl ether is a nonpolar liquid with weak dispersion forces.
+Its vapor pressure at 20°C is 58.96 kPa.
+Water is a polar liquid whose molecules are attracted to one another by relatively strong hydrogen bonding.
+The vapor pressure of water at 20°C is only 2.33 kPa, far less than that of diethyl ether.
+Vapor Pressure and Temperature
+Vapor pressure is dependent upon temperature.
+When the liquid in a closed container is heated, more molecules escape the liquid phase and evaporate.
+The greater number of vapor molecules strike the container walls more frequently, resulting in an increase in pressure.
+The Table below shows the temperature dependence of the vapor pressure of three liquids.
+Vapor Pressure (in kPa) of Three Liquids at Different Temperatures
+Notice that the temperature dependence of the vapor pressure is not linear.
+From 0°C to 80°C, the vapor pressure of water increases by 46.73 kPa, while it increases by 53.99 kPa in only a span of twenty degrees from 80°C to 100°C.
+Vapor pressure is a measure of the pressure exerted by a gas above a liquid in a sealed container.
+Strong intermolecular forces produce a lower rate of evaporation and a lower vapor pressure.
+Weak intermolecular forces produce a higher rate of evaporation and a higher vapor pressure.
+As the temperature increases, the vapor pressure increases.
+Use the link below to answer the following questions:
+What material has the highest vapor pressure at 25°C?
+What material has the lowest vapor pressure at 25°C?

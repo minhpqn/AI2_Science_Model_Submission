@@ -1,0 +1,20 @@
+State Coulomb’s Law.
+Describe how electric force varies with charge and separation of charge.
+State the SI unit of charge.
+Solve problems using Coulomb’s Law.
+Electrical car in a showroom
+Electric cars are becoming more popular.
+One large advantage for electric cars is the low cost of operation, which may become an ever bigger advantage as gas prices climb.
+Energy costs for electric cars average about one-third of the cost for gasoline engine cars, but they can only travel about 200 miles per charge at this point.
+These cars run using the science of electrical charges and forces.
+The questions regarding the relationship between the electrical force, the size of the charge, and the separation between the charges were solved by Charles Coulomb in 1785.
+He determined that electrical force between two charges is directly related to the size of the charges and inversely proportional to the distance between the charges.
+This is known as Coulomb’s Law.
+In this equation, q 1 and q 2 are the two charges, d  is the distance between the two charges, and K  is a constant of proportionality.
+F e is the electric force , which occurs as a result of interactions between two charged particles.
+For the purpose of calculating electric forces, we assume all charge is a point charge , in which the entire charge of the particle is located in a massless point.
+The SI unit of charge is the coulomb, C , which is the charge of 6.25 \times 10^{18} electrons.
+The charge on a single electron is 1.60 \times 10^{-19} \ C .
+The charge on a single electron is known as the elementary charge .
+The charge on a proton is the same magnitude but opposite in sign.
+When the charges are measured in coulombs, the distance in meters, and the force in Newtons, the constant K  is 9.0 \times 10^9 \ N \cdot m^2/C^2 .

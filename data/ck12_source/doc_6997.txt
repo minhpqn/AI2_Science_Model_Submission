@@ -1,0 +1,20 @@
+b. 22.5 \;\mathrm{mm}
+Explain the diffraction of light and the interference patterns that are produced through constructive and destructive interference of the waves.
+Calculate diffraction pattern spacing or work backwards to calculate the wavelength of light emitted.
+Students will learn about diffraction of light and the interference patterns that are produced through constructive and destructive interference of the waves.
+Students will also learn to calculate diffraction pattern spacing or work backwards to calculate the wavelength of light emitted.
+m \lambda = d \sin{\theta}
+Double slit interference maxima. m is the order of the interference maximum in question, d is the distance between slits. and \theta is the angular position of the maximum.
+m \lambda = d \sin{\theta}
+Single slit interference maxima. m and \theta are defined as above and d is the width of the slit.
+m \lambda = d \sin{\theta}
+Diffraction grating interference maxima. m and \theta are defined as above and d is the distance between the lines on the grating.
+m \lambda = 2nd
+Thin film interference: n is the index of refraction of the film, d is the thickness of the film, and m is an integer.
+In the film interference, there is a \lambda/2 delay (phase change) if the light is reflected from an object with an index of refraction greater than that of the incident material.
+\frac{1}{f} = \frac{1}{d_0} +\frac{1}{d_i}
+Waves are characterized by their ability to constructively and destructively interfere .
+Light waves which interfere with themselves after interaction with a small aperture or target are said to diffract .
+Light creates interference patterns when passing through holes (“slits”) in an obstruction such as paper or the surface of a CD, or when passing through a thin film such as soap.
+A typical experimental setup for an interference experiment will look something like this:
+\text{Recall: for constructive interference we require a path difference of} \;m \lambda = d \sin{\theta}

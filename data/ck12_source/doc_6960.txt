@@ -1,0 +1,20 @@
+The direction of the induced current is determined as follows: the current will flow so as to generate a magnetic field that opposes the change in flux.
+This is called Lenz’s Law.
+Note that the electromotive force described above is not actually a force, since it is measured in Volts and acts like an induced potential difference.
+It was originally called that since it caused charged particles to move --- hence electromotive --- and the name stuck (it's somewhat analogous to calling an increase in a particle's gravitational potential energy difference a gravitomotive force).
+Changing magnetic fields passing through a loop of wire generate currents in that wire; this is how electric power generators work.
+Likewise, a changing current in a wire will create a changing magnetic field; this is how speakers and electric motors work.
+Since only a changing flux can produce an induced potential difference, one or more of the variables in the equation must be changing if any emf is to be produced.
+Specifically, the following can all induce a current in the loops of wire:
+Changing the direction or magnitude of the magnetic field.
+Changing the loops' orientation or area.
+Moving the loops out of the region with the magnetic field.
+Click on the image above for more content
+To create a simple generator, you are holding a single coil of wire in place on a table.
+You hold a bar magnet directly above the center of the wire and move it toward the wire and away from the wire repeatedly to create a current in loop. (a) As you bring the bar magnet toward the loop, which direction does the current flow? (b) As you move the magnet away from the loop, which direction does the current flow?
+(a):
+As you bring the magnet closer to the loop, the magnetic field will increase in strength thus increasing the magnetic flux going into the table through the loop.
+In order to oppose this change in flux, the induced current will need to create a magnetic field that will point out of the table through the loop.
+We can use the first right hand rule, starting with the direction of them magnetic field instead of the direction of the current, to determine that the current will need to move in the CCW direction.
+(b):
+When you move the magnet away from the loop, the magnetic field will be decreasing thus decreasing the magnetic flux going into the table through the loop.

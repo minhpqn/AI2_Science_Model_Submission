@@ -1,0 +1,20 @@
+[OH - ] = ?
+M
+Because HCl is 100% ionized, the concentration of H + ions in solution will be equal to the original concentration of HCl.
+Each HCl molecule that was originally present ionizes into one H + ion and one Cl − ion.
+The concentration of OH − can then be determined from the [H + ] and K_w .
+Step 2:
+Solve .
+\left [ \text{H}^+ \right ]&=2.0 \times 10^{-3} \ \text{M} \\K_w &=\left [ \text{H}^+ \right ] \left [ \text{OH}^- \right ]=1.0 \times 10^{-14} \\\left [ \text{OH}^- \right ] &=\frac{K_w}{\left [ \text{H}^+ \right ]}=\frac{1.0 \times 10^{-14}}{2.0 \times 10^{-3}}=5.0 \times 10^{-12} \ \text{M}
+Step 3:
+Think about your result .
+The [H + ] is much higher than the [OH − ] because the solution is acidic.
+As with other equilibrium constants, the unit for  K_w is customarily omitted.
+The self-ionization of water is described and an ionization constant for the process is stated.
+Acidic and basic solutions are defined.
+Calculations using  K_w are illustrated.
+Read the material on the first two pages of the link below and do those practice problems:
+What is an acidic solution?
+What is a basic solution?
+What is the [OH - ] of a solution which has a [H + ] of 1 \times 10^{-5} \ M ?
+acidic solution:

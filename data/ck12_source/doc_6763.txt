@@ -1,0 +1,20 @@
+A spring has a spring constant k equal to 200 N/m.
+If it is stretched 0.4 m, what is its potential energy?
+A 12 kg box is resting on a table 1.5 m off the ground.
+It is then lifted up to 3.2 m off the ground.
+What is its increase in potential energy?
+(using g = 10 m/s 2 )
+Describe kinetic energy and how to apply it.
+Students will learn about kinetic energy, how and when to apply it and how to use kinetic energy
+K = \frac{1}{2}mv^2 \begin{cases}m & \text{mass~(in~kilograms,~kg)}\\\v & \text{speed~(in~meters~per~second,~}\text{m}/\text{s}\text{)}\end{cases}
+Guidance The energy of motion is kinetic energy, KE.
+Whenever an object is in motion it has kinetic energy.
+The faster it is going, the more energy it has.
+You are using a sling to throw a small stone.
+If the sling is .5 m long and you are spinning it at 15 rad/s, how high would the rock go if you throw it straight up?
+We'll start by setting the kinetic energy of rock to it's gravitational potential energy at it's maximum height and then solving for the rock's height.
+We still don't know the rock's linear velocity, but we do know the sling's angular velocity and radius so we can put those into the equation instead.
+h&=\frac{(\omega r)^2}{2g}\\\h&=\frac{(15\;\text{rad/s} * .5\;\text{m})^2}{2*9.8\;\text{m/s}^2}\\\h&=2.9\;\text{m}\\\
+A bomb with 8 x 104 J of potential energy explodes.
+Assume 20% of its potential energy is converted to kinetic energy of the metal pieces flying outward (shrapnel).
+What is the total kinetic energy of the shrapnel?

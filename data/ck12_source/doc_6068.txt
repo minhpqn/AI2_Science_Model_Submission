@@ -1,0 +1,20 @@
+These electrons, also referred to as delocalized electrons, do not belong to any one atom, but are capable of moving through the entire crystal.
+As a result, metals are good conductors of electricity.
+As seen in the Table above , the melting points of metallic crystals display a wide range.
+Metallic crystals are good conductors of electricity
+Metallic crystal lattice with free electrons able to move among positive metal atoms.
+Covalent network crystals -- A covalent network crystal consists of atoms at the lattice points of the crystal, with each atom being covalently bonded to its nearest neighbor atoms (see Figure below ).
+The covalently bonded network is three-dimensional and contains a very large number of atoms.
+Network solids include diamond, quartz, many metalloids, and oxides of transition metals and metalloids.
+Network solids are hard and brittle, with extremely high melting and boiling points.
+Being composed of atoms rather than ions, they do not conduct electricity in any state.
+Covalent crystals, such as diamond, are nonconductive and brittle
+Diamond is a network solid and consists of carbon atoms covalently bonded to one another in a repeating three-dimensional pattern.
+Each carbon atom makes four single covalent bonds in a tetrahedral geometry.
+Molecular crystals -- Molecular crystals typically consist of molecules at the lattice points of the crystal, held together by relatively weak intermolecular forces (see Figure below ).
+The intermolecular forces may be dispersion forces in the case of nonpolar crystals, or dipole-dipole forces in the case of polar crystals.
+Some molecular crystals, such as ice, have molecules held together by hydrogen bonds.
+When one of the noble gases is cooled and solidified, the lattice points are individual atoms rather than molecules.
+In all cases, the intermolecular forces holding the particles together are far weaker than either ionic or covalent bonds.
+As a result, the melting and boiling points of molecular crystals are much lower.
+Lacking ions or free electrons, molecular crystals are poor electrical conductors.

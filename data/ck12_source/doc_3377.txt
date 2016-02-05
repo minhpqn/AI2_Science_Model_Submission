@@ -1,0 +1,20 @@
+This type of transformer is called a step-up transformer.
+That’s because it steps up, or increases, the voltage.
+Schematic of a step up transformer
+When coil S has fewer turns of wire than coil P, the voltage in the secondary current is less than the voltage in the primary current (see Figure below ).
+This type of transformer is called a step-down transformer because it steps down, or decreases, the voltage.
+Schematic of a step down transformer
+Q:
+Both step-up and step-down transformers are used in the electrical grid that carries electricity from a power plant to your home.
+Where in the grid do you think step-down transformers might be used?
+A:
+One place that step-down transformers are used is on the electric poles that supply current to homes.
+They reduce the voltage of the electric current before it enters home circuits.
+An electric transformer is a device that uses electromagnetic induction to change the voltage of an electric current.
+A step-up transformer increases voltage.
+A step-down transformer decreases voltage.
+Explore the electric transformer simulation at the following URL.
+Then answer the questions below.
+Explain what you have to do to light the light bulb when you use direct current (DC) in the electromagnet.
+If you use direct current in the electromagnet, which type of current flows through the pickup coil?
+How can you tell?

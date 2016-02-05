@@ -1,0 +1,20 @@
+In gases, both positive and negative ions can flow.
+The difficulty of freeing protons, however, makes it extremely rare to have an electric current of positive particles in solid conductors.
+Virtually all electric currents consist of the movement of electrons.
+It is easy to assume that current is the flow of positive charges.
+In fact, when the conventions of positive and negative charge were invented two centuries ago, it was assumed that positive charge flowed through a wire.
+In reality, however, we know now that the flow of positive charge is actually a flow of negative charge in the opposite direction.
+That is, when an electron moves from position A to position B, it is the same as a positive hole moving from B to A.
+Today, even though we know it is not correct, we still use the historical convention of positive current flow when discussing the direction of a current.
+Conventional current , the current we commonly use and discuss, is the direction positive current would flow.
+When we want to speak of the direction of electron flow, we will specifically state that we are referring to electron flow.
+Electric current flows from positions of higher potential energy to positions of lower potential energy.
+Electrons acquire higher potential energy from an electron pump that does work on the electrons, moving them from positions of lower PE  to positions of higher PE .
+Electrons in galvanic cells (several cells together comprise a battery) have higher potential energy at one terminal of the battery that at the other.
+This difference in potential is related to chemical energy.
+When the two terminals of the battery are connected to each other via a conducting wire, the electric current will travel from the terminal with higher potential energy to that with lower potential energy.
+This setup is the most simple of electric circuits .
+An electric circuit is any closed loop that goes from one battery terminal to the other and allows current to flow through it.
+A relatively simple circuit is shown in the image below.
+The charges move from the higher potential energy terminal on the battery, through the light bulb, through the switch, and back to the lower potential energy terminal on the battery.
+Simple circuit with a switch, battery, and lightbulb

@@ -1,0 +1,20 @@
+Why would the one-letter abbreviation system have an advantage?
+amino acid:
+A compound that contains both an amino group (−NH 2 ) and a carboxyl group (−COOH) bonded to a central carbon in the same molecule.
+Describe the formation of the peptide bond.
+Ball and stick structure of a small peptide
+Are your cells smarter than you?
+Cells in our bodies have an intricate mechanism for the manufacture of proteins.
+Humans have to use other techniques in order to synthesize the same proteins in a lab.
+The chemistry of peptide synthesis is complicated.
+Both active groups on an amino acid can react and the amino acid sequence must be a specific one in order for the protein to function.
+Robert Merrifield developed the first synthetic approach for making proteins in the lab, a manual approach which was lengthy and tedious (and, he won the Nobel Prize in Chemistry in 1984 for his work).
+Today however, automated systems can crank out a peptide in a very short period of time.
+A peptide is a combination of amino acids in which the amino group of one amino acid has undergone a reaction with the carboxyl group of another amino acid.
+The reaction is a condensation reaction, forming an amide group (CO−N), shown below.
+Condensation reaction of two amino acids to form a peptide
+Amino acids join together to form a molecule called a dipeptide.
+The C−N bond is called a peptide bond.
+The order of amino acids is by convention shown with the free amino group on the left and the free carboxyl group on the right.
+A peptide bond is the amide bond that occurs between the amino nitrogen of one amino acid and the carboxyl carbon of another amino acid.
+The resulting molecule is called a dipeptide.

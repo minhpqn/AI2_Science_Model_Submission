@@ -1,0 +1,20 @@
+Linkage Map for the Human X Chromosome.
+This linkage map shows the locations of several genes on the X chromosome.
+Some of the genes code for normal proteins.
+Others code for abnormal proteins that lead to genetic disorders.
+Which pair of genes would you expect to have a lower frequency of crossing-over: the genes that code for hemophilia A and G6PD deficiency, or the genes that code for protan and Xm?
+centimorgan (cM) :
+A unit for measuring genetic linkage; a map unit (m.u.).
+crossing-over :
+The exchange of genetic material between non-sister chromatids of homologous chromosomes; also known as recombination.
+linkage :
+Refers to particular genetic loci or alleles inherited together, suggesting that they are physically on the same chromosome, and located close together on that chromosome.
+linkage map :
+A genetic map that shows the position of genes or genetic markers relative to each other in terms of recombination frequency; critical for identifying the location of genes that cause genetic diseases.
+loci (singular, locus ):
+The specific location of a gene or DNA sequence on a chromosome.
+proteome :
+The complete set of proteins expressed by a genome, cell, tissue, or organism.
+recombination :
+The process by which genetic material is broken and joined to other genetic material; crossing-over is a form of genetic recombination.
+The human genome consists of 24 distinct chromosomes: 22 autosomal chromosomes, plus the sex-determining X and Y chromosomes.

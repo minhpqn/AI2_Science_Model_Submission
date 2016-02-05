@@ -1,0 +1,20 @@
+Describe a series circuit.
+Understand current as it passes through a series circuit.
+Understand voltage drops in a series circuit.
+Understand resistance in a series circuit with multiple resistors.
+Calculate current, voltage drops, and equivalent resistances for devices connected in a series circuit.
+Photograph of fuses
+Resistors, including electrical appliances, have a particular current at which they operate most effectively and safely, and excessive current can cause irreparable damage.
+Therefore, it is important to limit the amount of current that may pass through a particular electrical circuit.
+There are a number of safety devices used in electrical circuits to limit the current: fuses, circuit breakers, and surge suppressors.
+When fuses, such as those shown above, are placed in an electrical circuit, all the current must pass through the wire in the fuse.
+Electrical circuits are often modeled by using water in a river.
+The potential energy of the water is the highest at the source of the river and decreases as the water flows down the river toward the end.
+When the water reaches the ocean, its potential energy has become zero.
+The circuit shown below has a similar situation.
+The current in this circuit is drawn in the direction of the electron flow.
+It starts at the battery on the left, where electrons leave the negative terminal and travel around the circuit.
+Since all of the current travels across each resistor, these resistors are said to be in series .
+A series circuit is one in which all of the current must pass through every resistor in the circuit.
+Returning to the water analogy, there is only one riverbed from the top of the mountain to the ocean.
+Three resistors in series

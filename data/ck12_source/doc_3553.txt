@@ -1,0 +1,20 @@
+Process of vesicle transport for exocytosis and endocytosis
+Illustration of the two types of vesicle transport, exocytosis and endocytosis.
+Endocytosis and Exocytosis
+Endocytosis is the process of capturing a substance or particle from outside the cell by engulfing it with the cell membrane.
+The membrane folds over the substance and it becomes completely enclosed by the membrane.
+At this point a membrane-bound sac, or vesicle, pinches off and moves the substance into the cytosol.
+There are two main kinds of endocytosis:
+Phagocytosis , or cellular eating, occurs when the dissolved materials enter the cell.
+The plasma membrane engulfs the solid material, forming a phagocytic vesicle.
+Pinocytosis , or cellular drinking, occurs when the plasma membrane folds inward to form a channel allowing dissolved substances to enter the cell, as shown in Figure below .
+When the channel is closed, the liquid is encircled within a pinocytic vesicle.
+Electron microscope of pinocytosis
+Transmission electron microscope image of brain tissue that shows pinocytotic vesicles.
+Pinocytosis is a type of endocytosis.
+Exocytosis describes the process of vesicles fusing with the plasma membrane and releasing their contents to the outside of the cell, as shown in Figure below .
+Exocytosis occurs when a cell produces substances for export, such as a protein, or when the cell is getting rid of a waste product or a toxin.
+Newly made membrane proteins and membrane lipids are moved on top the plasma membrane by exocytosis.
+For a detailed animation of cellular secretion, see
+Axon signaling using exocytosis
+Illustration of an axon releasing dopamine by exocytosis.

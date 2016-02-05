@@ -1,0 +1,20 @@
+The electrical force, like all forces, is a vector quantity.
+If the two charges being considered are both positive or both negative, the sign of the electrical force is positive and this force is repulsive.
+If the two charges are opposite in sign, the force will have a negative sign and the force is attractive.
+Example Problem:
+Object A has a positive charge of 6.0 \times 10^{-6} \ C .
+Object B has a positive charge of 3.0 \times 10^{-6} \ C .
+If the distance between A and B is 0.030 m, what is the force on A?
+Solution:
+F_e=\frac{Kq_1q_2}{d^2}=\frac{(9.0 \times 10^9 \ N \cdot m^2/C^2)(6.0 \times 10^{-6} \ C)(3.0 \times 10^{-6} \ C)}{(0.030 \ m)^2}=180 \ N
+The positive sign of the force indicates the force is repulsive.
+This makes sense, because both objects have a positive charge.
+Example Problem:
+In the sketch below, the charges are q_1 = 10.0 \times 10^{-6} \ C, \ q_2 = 2.0 \times 10^{-6} \ C , and q_3 = -6.0 \times 10^{-6} \ C .
+Calculate the total force on q 2 .
+Example problem with three charged objects on a line
+Solution:
+F_e=\frac{Kq_1q_2}{d^2}=\frac{(9.0 \times 10^9 \ N \cdot m^2/C^2)(10.0 \times 10^{-6} \ C)(2.0 \times 10^{-6} \ C)}{(2.0 \ m)^2}=0.045 \ N \ (\text{towards} \ q_3)
+F_e=\frac{Kq_2q_3}{d^2}=\frac{(9.0 \times 10^9 \ N \cdot m^2/C^2)(2.0 \times 10^{-6} \ C)(-6.0 \times 10^{-6} \ C)}{(4.0 \ m)^2}=-0.007 \ N \ (\text{towards} \ q_3)
+Since the two forces act in the same direction, their absolute values can be added together; the total force on q 2 is 0.052 N towards q 3 .
+Coulomb determined that electrical force between two charges is directly related to the size of the charges and inversely proportional to the distance between the charges:

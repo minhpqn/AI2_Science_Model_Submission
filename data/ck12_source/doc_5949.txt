@@ -1,0 +1,20 @@
+mass = 2.81 g
+mol Cu(OH) 2
+One conversion factor will allow us to convert from mass to moles.
+Step 2:
+Calculate.
+First, it is necessary to calculate the molar mass of Cu(OH) 2 from the molar masses of Cu, O, and H.  The molar mass is 97.57 g/mol.
+2.81 \ \text{g} \ \text{Cu(OH)}_2 \times \frac{1 \ \ \text{mol} \ \text{Cu(OH)}_2}{97.57 \ \text{g} \ \text{Cu(OH)}_2}=0.0288 \ \text{mol} \ \text{Cu(OH)}_2
+Step 3:
+Think about your result.
+The relatively small mass of product formed results in a small number of moles.
+Calculations involving conversions between moles of a material and the mass of that material are described.
+Read the material in the link below and work the problems at the end.
+Why would you want to calculate the mass of a material?
+Why would you want to determine how many moles of material you produced in a reaction?
+You have 19.7 grams of a material and wonder how many moles were formed.
+Your friend tells you to multiply the mass by grams/mole.
+Is your friend correct?
+Conversions between Mass and Number of Particles
+Perform calculations involving conversions of mass and number of particles.
+Equal volumes of gas under the same conditions contain the same number of particles

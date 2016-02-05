@@ -1,0 +1,20 @@
+Denaturation step :
+This step is the first regular cycling event and consists of heating the reaction to 94 - 98°C for 30 to 60 seconds.
+It disrupts the hydrogen bonds between complementary bases of the DNA strands, yielding single strands of DNA.
+Annealing step :
+The reaction temperature is lowered to 50-65°C for 30 to 60 seconds, allowing annealing of the primers to the single-stranded DNA template.
+Stable hydrogen bonds form between the DNA strand (the template) and the primers when the primer sequence very closely matches the complementary template sequence.
+Primers are usually 17 - 22 nucleotides long and are carefully designed to bind to only one site in the genome.
+The polymerase binds to the primer-template hybrid and begins DNA synthesis.
+Extension step :
+A temperature of around 72°C is used for this step, which is close to the optimum temperature of Taq polymerase.
+At this step the Taq polymerase extends the primer by adding dNTPs, using one DNA strand as a template to create a the other (new) DNA strand.
+The extension time depends on the length of the DNA fragment to be amplified.
+As a standard, at its optimum temperature, the DNA polymerase will polymerize a thousand bases in one minute.
+The Polymerase Chain Reaction.
+The polymerase chain reaction involves three steps.
+High temperatures are needed for the process to work.
+The enzyme Taq polymerase is used in step 3 because it can withstand high temperatures.
+Utilizing PCR, DNA can be amplified millions of times to generate quantities of DNA that can be used for a number of purposes.
+These include the use of DNA for prenatal or genetic testing, such as testing for a specific mutation.
+PCR has revolutionized the fields of biotechnology, human genetics, and a number of other sciences.

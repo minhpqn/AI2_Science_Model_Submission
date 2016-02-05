@@ -1,0 +1,20 @@
+In one step:
+(0.7577 \times 34.969)+(0.2423 \times 36.966)=35.45 \ \text{amu}
+Step 3:
+Think about your result.
+The calculated average atomic mass is closer to 35 than to 37 because a greater percentage of naturally occurring chlorine atoms have the mass number of 35.
+It agrees with the value from the Table above .
+Watch these videos to learn more about these calculations:
+The atomic mass of an element is the weighted average of the atomic masses of the naturally occurring isotopes of that element.
+Calculations of atomic mass use the percent abundance of each isotope.
+Click on the link below to get some experience in atomic mass determinations:
+Define atomic mass.
+What information do you need to calculate atomic mass for an element?
+Calculate the atomic mass for carbon using the data provided in Table below .
+atomic mass:
+The weighted average of the atomic masses of the naturally occurring isotopes of that element.
+percent abundance:  To calculate the weighted average, take into account the percent natural abundances of each isotope.
+The atomic mass of an element is the weighted average of the atomic masses of the naturally occurring isotopes of that element.
+Justin Norris (Flickr:
+JustinMN).
+Christopher Auyeung.

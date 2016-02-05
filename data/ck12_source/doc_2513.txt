@@ -1,0 +1,20 @@
+You’ve probably used items like those pictured here.
+What do all of them have in common?
+They are all used to hold things together.
+However, they do so in different ways.
+Like these different kinds of fasteners, there are different kinds of “fasteners” that hold together the subatomic particles inside atoms.
+The “fasteners” are called forces, and there are three different kinds of them at work inside the atom: electromagnetic force, strong nuclear force, and weak nuclear force.
+For an introduction to these forces inside the atom, see the colorful tutorial at this URL:
+Electromagnetic force is a force of attraction or repulsion between all electrically charged particles.
+This force is transferred between charged particles of matter by fundamental force-carrying particles called photons.
+Because of electromagnetic force, particles with opposite charges attract each other and particles with the same charge repel each other.
+Inside the atom, two types of subatomic particles have electric charge: electrons, which have an electric charge of -1, and protons, which have an opposite but equal electric charge of +1.
+The model of an atom in the Figure below shows both types of charged particles.
+Protons are found inside the nucleus at the center of the atom, and they give the nucleus a positive charge. (There are also neutrons in the nucleus, but they have no electric charge.) Negative electrons stay in the area surrounding the positive nucleus because of the electromagnetic force of attraction between them.
+Model of charges in the atom
+Q:
+Why do you think protons cluster together in the nucleus of the atom instead of repelling each other because of their like charges?
+A:
+The electromagnetic force of repulsion between positively charged protons is overcome by a stronger force, called the strong nuclear force.
+Strong Nuclear Force
+The strong nuclear force is a force of attraction between fundamental particles called quarks, which have a type of charge called color charge.

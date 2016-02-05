@@ -1,0 +1,20 @@
+Conservation of Energy
+The law of conservation of energy states that within a closed system, energy can change form, but the total amount of energy is constant.
+Another way of expressing the law of conservation of energy is to say that energy can neither be created nor destroyed.
+An important part of using the conservation of energy is selecting the system.
+Just as in conservation of momentum, energy is conserved only if the system is closed.
+In a closed system , objects may not enter or leave, and it is isolated from external forces so that no work can be done on the system.
+In the analysis of the behavior of an object, you must make sure you have included everything in the system that is involved in the motion.
+For example, if you are considering a ball that is acted on by gravity, you must include the earth in your system.
+If considered by itself, one can tell that the kinetic energy of the ball is increasing as it falls, but only by including the earth in the system can you see that the increasing kinetic energy is balanced by an equivalent loss of potential energy.
+The sum of the kinetic energy and the potential energy of an object is often called the mechanical energy.
+Consider a box with a weight of 20.0 N sitting at rest on a shelf that is 2.00 m above the earth.
+The box has zero kinetic energy but it has potential energy related to its weight and the distance to the earth’s surface.
+PE = mgh = (20.0 \ N)(2.00 \ m) = 40.0 \ J
+If the box slides off the shelf, the only force acting on the box is the force of gravity and so the box falls.
+We can calculate the speed of the box when it strikes the ground by several methods.  We can calculate the speed directly using the formula v{_f}^2 = 2ad .  We can also find the final velocity by setting the kinetic energy at the bottom of the fall equal to the potential energy at the top,  KE = PE , thus  \frac{1}{2} \ mv^2 = mgh .
+When reduced, we see that v{_f}^2 = 2gh .
+Note that these formulas are essentially the same; when gravity is the acceleration and the height is the distance, they are the same equation.
+v=\sqrt{(2)(9.80 \ m/s^2)(2.00 \ m)}=6.26 \ m/s
+Example Problem:
+Suppose a cannon is sitting on top of a 50.0 m high hill and a 5.00 kg cannon ball is fired with a velocity of 30.0 m/s at some unknown angle.

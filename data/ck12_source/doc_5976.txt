@@ -1,0 +1,20 @@
+Shrimp gumbo is one of many enjoyable dishes that are part of the Cajun culture in Louisiana.
+It’s a spicy dish that needs careful control of all the ingredients so that it has a “kick”, but is not overwhelming.
+Recipes tell not only what is in the preparation, but describes how much of each ingredient and details of how to cook the meal.
+Similarly, We need this type of information in order to carry out chemical reactions successfully and safely.
+Word equations are time-consuming to write and do not prove to be convenient for many of the things that chemists need to do with equations.
+A chemical equation is a representation of a chemical reaction that displays the reactants and products with chemical formulas.
+The chemical equation for the reaction of methane with oxygen is shown:
+\text{CH}_4+\text{O}_2 \rightarrow \text{CO}_2+\text{H}_2\text{O}
+The equation above, called a skeleton equation, is an equation that shows only the formulas of the reactants and products with nothing to indicate the relative amounts.
+The first step in writing an accurate chemical equation is to write the skeleton equation, making sure that the formulas of all substances involved are written correctly.
+All reactants are written to the left of the yield arrow, separated from one another by a plus sign.
+Likewise, products are written to the right of the yield arrow, also separated with a plus sign.
+It is often important to know the physical states of the reactants and products taking part in a reaction.
+To do this, put the appropriate symbol in parentheses after each formula: ( s ) for solid, ( l ) for liquid, ( g ) for gas, and ( aq ) for an aqueous (water-based) solution.
+The previous reaction becomes:
+\text{CH}_4(g) + \text{O}_2(g) \rightarrow \text{CO}_2(g) + \text{H}_2\text{O}(l)
+The Table below shows a listing of symbols used in chemical equations.
+Some, such as the double arrow which represents equilibrium, and the use of a catalyst in a reaction, will be treated in detail in other concepts.
+Symbols Used in Chemical Equations
+Used to separate multiple reactants or products

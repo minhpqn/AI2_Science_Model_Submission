@@ -1,0 +1,20 @@
+Define nuclear fusion.
+Describe nuclear fusion reactions.
+The sun is powered at nuclear fusion
+How are elements born?
+A number of reactions take place in the sun that cannot be duplicated on Earth.
+Some of these reactions involve the formation of large elements from smaller ones.
+So far, we have only been able to observe formation of very small elements here on Earth.
+The reaction sequence observed appears to be the following:
+Hydrogen-1 atoms collide to form the larger hydrogen isotopes, hydrogen-2 (deuterium) and hydrogen-3 (tritium).
+In the process, positrons and gamma rays are formed.
+The positrons will collide with any available electrons and annihilate, producing more gamma rays.
+In the process, tremendous amounts of energy are produced to keep us warm and continue supplying reactions.
+In contrast to nuclear fission, which results in smaller isotopes being formed from larger ones, the goal of nuclear fusion is to produce larger materials from the collision of smaller atoms.
+The forcing of the smaller atoms together results in tighter packing and the release of energy.
+As seen in Figure below , energy is released in the formation of the larger atom, helium (He)  from the fusion of hydrogen-2 and hydrogen-3 as well as from the expulsion of a neutron.
+Fusion of hydrogen 2 and hydrogen 3 creates helium 4
+Nuclear fusion reaction between deuterium and tritium.
+This release of energy is what drives research on fusion reactors today.
+If such a reaction could be accomplished efficiently on Earth, it could provide a clean source of nuclear energy.
+Unlike fission reactions, nuclear fusion does not produce radioactive products that represent hazards to living systems.

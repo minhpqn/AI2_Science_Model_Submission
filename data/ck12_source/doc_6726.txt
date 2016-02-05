@@ -1,0 +1,20 @@
+F_s=\mu _sF_N=.6\times 25.5\mathrm{N}=15.3\mathrm{N}
+The force of static friction is greater than the component of gravity that is forcing the block down the inclined plane.
+Therefore the force of friction will match the force of the x-component of gravity.
+So the net force on the block is \mathrm{net~force~in~the~x-direction:}~\overbrace{14.7\mathrm{N}}^{x-component~of~gravity}-\overbrace{14.7\mathrm{N}}^{force~of~friction}=0\mathrm{N}\\\\mathrm{net~force~in~the~y-direction:}~\underbrace{25.5\mathrm{N}}_{Normal~Force}-\underbrace{25.5\mathrm{N}}_{y-component~of~gravity}=0\mathrm{N} Therefore the net force on the block is 0\mathrm{N} .
+Click on the image above for more content
+Watch this Explanation
+Click on the image above for more content
+Find the mass of the painting.
+The tension in the leftmost rope is 7.2\;\mathrm{N} , in the middle rope it is 16 \;\mathrm{N} , and in the rightmost rope it is 16 \;\mathrm{N} .
+Find Brittany’s acceleration down the frictionless waterslide in terms of her mass m , the angle \theta of the incline, and the acceleration of gravity g .
+The physics professor holds an eraser up against a wall by pushing it directly against the wall with a completely horizontal force of 20 \;\mathrm{N} .
+The eraser has a mass of 0.5 \;\mathrm{kg} .
+The wall has coefficients of friction \mu_S = 0.8 and \mu_K = 0.6.
+Draw a free body diagram for the eraser.
+What is the normal force F_N acting on the eraser?
+What is the frictional force F_S equal to?
+What is the maximum mass m the eraser could have and still not fall down?
+What would happen if the wall and eraser were both frictionless?
+A tractor of mass 580 \;\mathrm{kg} accelerates up a 10^\circ incline from rest to a speed of 10 \;\mathrm{m/s} in 4 \;\mathrm{s} .
+For all of answers below, provide a magnitude and a direction.

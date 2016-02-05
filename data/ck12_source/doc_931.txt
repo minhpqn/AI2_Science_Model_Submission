@@ -1,0 +1,20 @@
+Solve mathematical problems involving transformers.
+Local power transformer on a pole
+Power loss in long transmission lines is related to the magnitude of the current.
+Specifically, the power loss can be decreased by decreasing the magnitude of the current.
+The amount of power passed through transmission lines can be calculated by multiplying voltage by current.
+The same power can be transmitted using a very high voltage and a very low current as with a low voltage and high current.
+Since power companies do not wish to waste power as it is transmitted to homes and businesses, they deliberately 'step up' the voltage and reduce the current before transmitting the power over extended distances.
+That type of power transmits well without great loss of energy but it cannot be used in household appliances.
+It becomes necessary to convert it back ('step down') to low voltage and high current for household use.
+That is the job of electrical transformers – those big gray barrels you see on power poles.
+When we move a wire through a magnetic field, a force is exerted on the charges in the wire and a current is induced.
+Essentially the same thing happens if we hold the wire steady and move the magnetic field by moving the magnet.
+Yet a third way of causing relative motion between the charges in a wire and a magnetic field is to expand or contract the field through the wire.
+When a current begins to flow in a wire, a circular magnetic field forms around the wire.
+Within the first fractional second when the current begins to flow, the magnetic field expands outward from the wire.
+If a second wire is placed nearby, the expanding field will pass through the second wire and induce a brief current in the wire.
+A circuit with rapidly changing voltage will generate small amounts of current in a nearby circuit
+Consider the sketch above.
+When the knife switch is closed, current begins to flow in the first circuit and therefore, a magnetic field expands outward around the wire.
+When the magnetic field expands outward from the wire on the right side, it will pass through the wire in the second circuit.

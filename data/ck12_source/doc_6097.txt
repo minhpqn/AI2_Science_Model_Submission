@@ -1,0 +1,20 @@
+A graph of pressure vs. temperature also illustrates a direct relationship.
+As a gas is cooled at constant volume its pressure continually decreases until the gas condenses to a liquid.
+Sample Problem:
+Gay-Lussac’s Law
+The gas in an aerosol can is under a pressure of 3.00 atm at a temperature of 25°C.
+It is dangerous to dispose of an aerosol can by incineration.
+What would the pressure in the aerosol can be at a temperature of 845°C?
+Step 1:
+List the known quantities and plan the problem.
+P_1=3.00 \ \text{atm}
+T_1=25^\circ \text{C}=298 \text{ K}
+T_2=845^\circ \text{C}=1118 \text{ K}
+P_2=? \ \text{atm}
+Use Gay-Lussac’s law to solve for the unknown pressure (P_2) .
+The temperatures have first been converted to Kelvin.
+Step 2:
+Solve.
+First, rearrange the equation algebraically to solve for V_2 .
+P_2=\frac{P_1 \times T_2}{T_1}
+Now substitute the known quantities into the equation and solve.

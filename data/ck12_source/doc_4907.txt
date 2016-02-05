@@ -1,0 +1,20 @@
+Proteins are transported through the ER and then throughout the cell are marked with a signal sequence.
+This sequence is usually a short peptide of a few amino acids attached to the N-terminal end of the protein.
+This short sequence acts as an address "tag," directing the protein to its correct destination in the cell.
+At this time, the signal sequence is removed.
+These proteins packed into transport vesicles and moved along the cytoskeleton toward their destination.
+cisternae (singular, cisterna ):
+Flattened membranous regions of the rough endoplasmic reticulum and the Golgi apparatus.
+endoplasmic reticulum (ER) :
+A network of phospholipid membranes that form hollow tubes, cisternae, and vesicles; involved in transport of molecules, such as proteins, and the synthesis of proteins and lipids.
+rough endoplasmic reticulum :
+Endoplasmic reticulum embedded with ribosomes.
+smooth endoplasmic reticulum :
+Endoplasmic reticulum without embedded ribosomes.
+transport vesicle :
+A vesicle that is able to move molecules between locations inside the cell.
+The endoplasmic reticulum is a network of phospholipid membranes that form hollow tubes, cisternae, and vesicles.
+The ER is involved in transport of molecules, such as proteins, and the synthesis of proteins and lipids.
+The ER can be rough, with embedded ribosomes, or smooth, without ribosomes.
+What are the main structural and functional differences between rough endoplasmic reticulum and smooth endoplasmic reticulum?
+Ribosomes - Advanced

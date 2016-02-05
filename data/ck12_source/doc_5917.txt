@@ -1,0 +1,20 @@
+How would we write the configuration for xenon tetrafluoride using the ABE system?
+electron domain geometry:
+Geometry based only on the number of electron pairs around the central atom, both bonding pairs and lone pairs.
+Use electronegativity values to determine bond type.
+Sharing ideas is like bond polarity
+What makes people share?
+Have you ever spent time with someone you really didn’t like?
+You had nothing in common with them and did not want to have anything to do with them.
+On the other hand, there are people you enjoy being with.
+You have a lot in common and like to share with them.
+Atoms work the same way.
+If there are strong differences in their attraction of electrons, one atoms gets the electrons and the other atom loses them.
+If they are similar, they share the electrons to form a covalent bond.
+Electronegativity is defined as the ability of an atom to attract electrons when the atoms are in a compound.  Electronegativities of elements are shown in the periodic table below.
+Electronegativity values of elements in the periodic table
+Electronegativities of elements.
+The degree to which a given bond is ionic or covalent is determined by calculating the difference in electronegativity between the two atoms involved in the bond.
+As an example, consider the bond that occurs between an atom of potassium and an atom of fluorine.  Using the table, the difference in electronegativity is equal to 4.0 - 0.8 = 3.2.  Since the difference in electronegativity is relatively large, the bond between the two atoms is ionic.  Since the fluorine atom has a much larger attraction for electrons than the potassium atom does, the valence electron from the potassium atom is completely transferred to the fluorine atom.
+The diagram below shows how difference in electronegativity relates to the ionic or covalent character of a chemical bond.
+Electronegativity difference and whether the bond is covalent, polar covalent, or ionic

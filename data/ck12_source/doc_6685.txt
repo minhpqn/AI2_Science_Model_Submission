@@ -1,0 +1,20 @@
+Two cars are drag racing down El Camino.
+At time t = 0 , the yellow Maserati starts from rest and accelerates at 10 \ m/s^2 .
+As it starts to move it’s passed by a ’63 Chevy Nova (cherry red) traveling at a constant velocity of 30 m/s. a.
+On the axes below, show a line for each car representing its speed as a function of time.
+Label each line. b.
+At what time will the two cars have the same speed (use your graph)? {\;} c.
+On the axes below, draw a line (or curve) for each car representing its position as a function of time.
+Label each curve. d.
+At what time would the two cars meet (other than at the start)? {\;}
+1c. 25 m
+1d. -5 m
+discuss in class
+discuss in class
+4b. 3 sec
+4d. 6 sec
+Solve all types of problems using the kinematic equations.
+In this Concept, you will learn how to solve all types of problems using the kinematic equations.
+v_{avg} & = \frac{\boldsymbol{\Delta} x}{\Delta t} \\\a_{avg} & = \frac{\boldsymbol{\Delta} v}{\Delta t}
+The Big Three
+x(t) & = x_0 +v_0 t + \tfrac{1}{2} a t^2 \\\v(t) & = v_0 +at \\\{v_f}^2 & = {v_0}^2 + 2a \Delta x

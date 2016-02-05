@@ -1,0 +1,20 @@
+Specific Heat and Phase Change
+Describe and solve problems involving specific heat and phase change.
+Students will learn big questions concerning our environment like why San Francisco is almost always at the same temperature year round whereas Iowa's temperature fluctuates wildly throughout the year.
+Students will also learn to solve problems involving specific heat and phase change.
+Q = mc \Delta T ; the heat gained or lost is equal to the mass of the object multiplied by its specific heat multiplied by the change of its temperature.
+Q = mL ; the heat lost or gained by a substance due to a change in phase is equal to the mass of the substance multiplied by the latent heat of vaporization/fusion (  L  refers to the latent heat)
+1 cal = 4.184 Joules ; your food calorie is actually a kilocalorie (Cal) and equal to 4184 J.
+Table of Specific Heat Values
+Specific Heat, c \;(cal/g^\circ C)
+Ice (-10^\circ C)
+Gold \sim Lead
+Table of Heat of Vapourization
+Fusion, L_f (cal/g)
+Vaporization, L_v (cal/g)
+The amount of heat capacitance (and thus its specific heat value) is related to something called ‘degrees of freedom,’ which basically says how free is the object to move in different ways (and thus how much kinetic energy can it store inside itself without breaking apart).
+For example, solids have a more fixed structure, so they cannot rotate and jostle as much, so they can’t store as much internal energy so they have lower heat capacitance then liquids.
+Specific heat is similar to heat capacitance, but is a specific number.
+The specific heat tells you how much energy one must put in per unit mass in order to raise the temperature 1^\circ C .
+Phase changes : it takes energy to changes phases from a solid to a liquid and from a liquid to a gas.
+The substance releases energy when changing phase from gas to liquid or from liquid to solid.

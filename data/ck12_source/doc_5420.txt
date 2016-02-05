@@ -1,0 +1,20 @@
+Prokaryotic Regulation of Gene Expression - Advanced
+Define an operon.
+Describe how the lac operon regulates transcription.
+Describe regulation of the trp operon.
+On or off?
+When it comes to genes, that is an important question.
+And if you're a single-celled organism like a bacterium, conserving energy by not producing unnecessary proteins is very important.
+So if a protein is not needed, that bacterium wants to keep those genes off.
+Prokaryotic Gene Regulation
+In prokaryotes, a combination of activators and repressors determines whether a gene is transcribed.
+As you know, prokaryotic organisms are fairly simple organisms with much less DNA.
+Prokaryotic genes are arranged in operons , a region of DNA with a promoter, an operator , and one or more genes that encode proteins needed to perform a certain task.
+To maintain homeostasis (and survive), the organism must quickly adapt changing environmental conditions.
+The regulation of transcription plays a key role in this process.
+For a bacteria, many aspects of gene regulation are due to the presence or absence of certain nutrients.
+In prokaryotes, repressors bind to regions called operators that are generally located immediately downstream from the promoter.
+Activators bind to the upstream portion of the promoter.
+The Lac Operon
+The lac operon ( Figure below ) is an operon required for the transport and metabolism of lactose in E. coli .
+The lac operon is regulated by the availability of lactose.

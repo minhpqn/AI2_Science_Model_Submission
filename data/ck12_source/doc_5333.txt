@@ -1,0 +1,20 @@
+After one round of DNA replication, the resulting DNA was found to have close to the intermediate density between 14 N labelled DNA and 15 N labelled DNA.
+Since conservative replication would result in equal amounts of DNA of the 15 N and 14 N densities, but no DNA of an intermediate density, the conservative replication model was excluded.
+However, this result was still consistent with both semiconservative and dispersive replication.
+Semiconservative replication would result in double-stranded DNA having an intermediate density, with one strand of 15 N DNA and one of 14 N DNA.
+Dispersive replication would result in double-stranded DNA also of an intermediate density, with both strands having mixtures of 15 N and 14 N DNA.
+The cells were then allowed to progress through another round of DNA replication in the 14 N medium.
+DNA from cells after two replications had been completed was found to consist of equal amounts of DNA with both an intermediate density and a lower density.
+This was inconsistent with the dispersive replication model, which would have resulted in a single density, lower than the intermediate density of the one-replication cells, but still higher than cells grown only in 14 N DNA medium, as the original 15 N DNA would have been split evenly among all DNA strands.
+The result was consistent with the semiconservative replication hypothesis.
+See A half DNA ladder is a template for copying the whole at  to see Meselson and Stahl talk about their work.
+Helicase and Polymerase
+DNA replication begins as an enzyme, DNA helicase , breaks the hydrogen bonds holding the two strands together and forms a replication fork .
+The resulting structure has two branching strands of DNA backbone with exposed bases.
+These exposed bases allow the DNA to be “read” by another enzyme, DNA polymerase , which then builds the complementary DNA strand.
+As DNA helicase continues to open the double helix, the replication fork grows.
+The two new strands of DNA are “built” in opposite directions, through either a leading strand or a lagging strand .
+The leading strand is the DNA strand that DNA polymerase constructs in the 5' → 3' direction.
+This strand of DNA is made in a continuous manner, moving as the replication fork grows.
+The lagging strand is the DNA strand at the opposite side of the replication fork from the leading strand.
+It goes in the opposite direction, from 3' to 5'.

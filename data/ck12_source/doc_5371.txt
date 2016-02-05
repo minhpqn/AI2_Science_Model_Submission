@@ -1,0 +1,20 @@
+Describe translation.
+Explain that translation is the process of ordering the amino acids into a polypeptide; translation involves changing the language of nucleotides into the language of amino acids.
+Illustrate the process of translation, describing how mRNA, rRNA, and tRNA all work together to complete the process.
+Discuss what happens to the polypeptide after translation.
+RNA to proteins.
+How?
+You must translate.
+To go from one language to another.
+Spanish to English, French to German, or nucleotides to amino acids.
+Which type is the translation of molecular biology?
+Obviously, the type of translating discussed here translates from the language of nucleotides to the language of amino acids.
+Translation is “RNA → protein.” In other words, translation is the transfer of the genetic instructions in RNA to a protein made of amino acids.
+Translation uses the products of transcription, mRNA, tRNA, and rRNA, to convert the mRNA sequence into a polypeptide according to the genetic code.
+The mRNA moves from the nucleus to the cytoplasm to interact with a ribosome , which serves as the site of translation.
+Translation proceeds in three phases: initiation , elongation and termination .
+To understand translation, first we need to understand the ribosome.
+Ribosomes are composed of two subunits, a small subunit and a larger subunit.
+Prokaryotic subunits are named the 30S and 50S subunits; eukaryotic subunits are named the 40S and 60S subunits.
+During translation the tRNA molecules are literally “inside” the ribosomal subunits, as they sit on the mRNA strand.
+When tRNAs come to the ribosome, adjacent amino acids are brought together, allowing the ribosome to catalyze the formation of the peptide bond between amino acids.

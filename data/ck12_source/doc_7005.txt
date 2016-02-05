@@ -1,0 +1,20 @@
+Make a graph of buoyant force vs. depth, find a best-fit line for the data points, and calculate its slope.
+What does this slope physically represent? (That is, what would a greater slope mean?)
+With this slope, and the value for the density of water, calculate the area of the circular cup’s bottom and its radius.
+Design an experiment using this apparatus to measure the density of an unknown fluid.
+String tension (N)
+Buoyant force (N)
+A submarine is moving directly upwards in the water at constant speed.
+The weight of the submarine is 500,000 \;\mathrm{N} .
+The submarine’s motors are off.
+Draw a sketch of the situation and a free body diagram for the submarine.
+What is the magnitude of the buoyant force acting on the submarine?
+A glass of water with weight 10 \;\mathrm{N} is sitting on a scale, which reads 10 \;\mathrm{N} .
+An antique coin with weight 1 \;\mathrm{N} is placed in the water.
+At first, the coin accelerates as it falls with an acceleration of g/2 .
+About half-way down the glass, the coin reaches terminal velocity and continues at constant speed.
+Eventually, the coin rests on the bottom of the glass.
+What was the scale reading when:
+The coin had not yet been released into the water?
+The coin was first accelerating?
+The coin reached terminal velocity?

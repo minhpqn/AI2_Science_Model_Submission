@@ -1,0 +1,20 @@
+Explain how wave speed is related to the medium of a wave.
+Assume that you move one end of a rope up and down just once to generate a wave in the rope.
+How long will take the wave to travel down the rope to the other end?
+It depends on the speed of the wave.
+The Speed of a Wave
+Wave speed is the distance a wave travels in a given amount of time, such as the number of meters it travels per second.
+Wave speed (and speed in general) can be represented by the equation:
+Speed = \mathrm{\frac{Distance}{Time}}
+Wave Speed, Wavelength, and Wave Frequency
+Wave speed is related to both wavelength and wave frequency.
+Wavelength is the distance between two corresponding points on adjacent waves.
+Wave frequency is the number of waves that pass a fixed point in a given amount of time.
+This equation shows how the three factors are related:
+Speed = Wavelength x Wave Frequency
+In this equation, wavelength is measured in meters and frequency is measured in hertz (Hz), or number of waves per second.
+Therefore, wave speed is given in meters per second, which is the SI unit for speed.
+Q:
+If you increase the wavelength of a wave, does the speed of the wave increase as well?
+A:
+Increasing the wavelength of a wave doesn’t change its speed.

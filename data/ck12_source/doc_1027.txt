@@ -1,0 +1,20 @@
+Global temperatures are up.
+Is one causing the other?
+Is the rise in sugar consumption in America causing the average global temperature to rise?
+Are rising temperatures causing people to eat more sugar?
+Both of these factors are rising, but how are they related?
+Are they related by correlation, causation, or both?
+We made a few discoveries so far in this concept:
+Average global temperature has been rising for the past several decades.
+Atmospheric carbon dioxide levels have been rising for the past several decades.
+Carbon dioxide emissions into the atmosphere from fossil fuel burning have been rising for the past several decades.
+A correlation is the mutual relationship between two or more things.
+We see here a correlation between three things: (1) CO 2 emissions from fossil fuel burning are rising (2) atmospheric CO 2 levels are rising, and (3) average global temperatures are rising.
+These three things exhibit positive correlation .
+They are all going in the same direction.
+If one factor rises while another sinks they have negative correlation .
+For example, the amount of forest land is decreasing.
+This factor has a negative correlation with global temperature.
+But correlation does not necessarily indicate causation.
+Causation refers to the factor that is producing the effect.
+If I push a toy car, I will cause it to move.

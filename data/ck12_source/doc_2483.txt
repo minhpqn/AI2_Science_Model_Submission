@@ -1,0 +1,20 @@
+Explain why the pressure of a gas increases when its volume decreases.
+Imagine blowing up a latex balloon.
+Assume that you tie the balloon to prevent air from escaping and then squeeze the balloon with one hand, so there is less space inside it.
+Then assume you use both hands (and maybe a friend’s hands) to squeeze the balloon so there is even less space inside.
+What do you think will happen to the balloon if you keep squeezing it to a smaller and smaller volume?
+Explain your prediction.
+Describe how the volume of a gas is related to its temperature.
+Explain what happens to gas particles when they are heated.
+In the 1700s and 1800s, hot air balloons were very popular.
+Why wouldn’t they be?
+Riding in a hot air balloon allowed people to travel through the air and get a bird’s eye view of the landscape at a time when airplanes did not yet exist.
+Do you know why hot air can inflate a balloon?
+Read on to find out.
+Up, Up, and Away
+The popularity of hot air balloons got scientists thinking about gases and what happens to them when they heat up.
+In the early 1800s, two French scientists—Jacques Charles and Joseph Gay-Lussac—decided to investigate how changes in the temperature of a gas affect the amount of space it takes up, or its volume.
+They heated air and measured how its volume changed.
+The two scientists already knew that the pressure of a gas affects it volume.
+This had been demonstrated back in the 1660s by the English scientist Robert Boyle.
+So Charles and Gay-Lussac controlled the effects of pressure by keeping it constant in their experiments.

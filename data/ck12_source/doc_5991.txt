@@ -1,0 +1,20 @@
+Mercury reacts with oxygen to form mercuric oxide.
+Is this a combustion reaction?
+What are the products of any combustion reaction involving a hydrocarbon?
+combustion reaction:
+A reaction in which a substance reactants with oxygen gas, releasing energy in the form of light and heat.
+Define single-replacement reaction.
+Give examples of single-displacement reactions.
+Tarnish is an example of a single-replacement reaction
+Why is the silver dark?
+The cup shown above provides an example of tarnish, a chemical reaction caused when silver metal reacts with hydrogen sulfide gas produced by some industrial processes or as a result of decaying animal or plant materials:
+2\text{Ag} + \text{H}_2\text{S} \rightarrow \text{Ag}_2\text{S} + \text{H}_2
+The tarnish can be removed using a number of polishes, but the process also removes a small amount of silver along with the tarnish.
+A single-replacement reaction is a reaction in which one element replaces a similar element in a compound.
+The general form of a single-replacement (also called single-displacement) reaction is:
+A+BC \rightarrow AC+B
+In this general reaction, element  A is a metal and replaces element B , also a metal, in the compound.
+When the element that is doing the replacing is a nonmetal, it must replace another nonmetal in a compound, and the general equation becomes:
+Y+XZ \rightarrow XY+Z
+Y  is a nonmetal and replaces the nonmetal  Z in the compound with X .
+Magnesium is a more reactive metal than copper.

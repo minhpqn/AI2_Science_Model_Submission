@@ -1,0 +1,20 @@
+The simplest cycloalkane is cyclopropane, a three-carbon ring.
+Cyclopropane is the simplest alkane
+Cyclopropane is the simplest cycloalkane.
+Its highly strained geometry makes it rather unstable and highly reactive.
+The structural formulas of cyclic hydrocarbons can be represented in multiple ways, two of which are shown above.
+Each atom can be shown as in the structure on the left from the  Figure  above .
+A convenient shorthand is to omit the element symbols and only show the shape, as in the triangle on the right.
+Carbon atoms are understood to be the vertices of the triangle.
+The carbon atoms in cycloalkanes are still sp 3 hybridized, with an ideal bond angle of 109.5°.
+However, an examination of the cyclopropane structure shows that the triangular structure results in a C-C-C bond angle of 60°.
+This deviation from the ideal angle is called ring strain and makes cyclopropane a fairly unstable and reactive molecule.
+Ring strain is decreased for cyclobutane, with a bond angle of 90°, but is still significant.
+Cyclopentane has a bond angle of about 108°C.
+This minimal ring strain for cyclopentane makes it a more stable compound.
+Structure of cyclobutane and cyclopentane
+Cyclohexane is a six-carbon cycloalkane shown below.
+Various representations of the structure of cyclohexane
+All three of the depictions of cyclohexane are somewhat misleading because the molecule is not planar.
+In order to reduce the ring strain and attain a bond angle of approximately 109.5°, the molecule is puckered.
+The puckering of the ring means that every other carbon atom is above and below the plane.

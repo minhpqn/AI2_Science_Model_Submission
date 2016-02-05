@@ -1,0 +1,20 @@
+The dissolving process releases a large amount of heat, which causes the temperature of the solution to rise.
+Care must be taken when preparing concentrated solutions of sodium hydroxide because of the large amounts of heat released.
+Molar heat of solution is defined.
+Sample calculations using molar heat of solution are given.
+Work on the problems at the link below:
+Does NaOH in solution warm or cool the water?
+How can you tell whether a material will produce an increase or decrease in heat when dissolved?
+The sample problem was done at 20°C.
+Would the temperature increase be the same if the sample was run at 72°C?
+molar heat of solution (\Delta H_{\text{soln}}) :
+The heat absorbed or released when one mole of a substance is dissolved in water.
+Heat of Combustion
+Define heat of combustion.
+Perform calculations involving heat of combustion.
+Ethanol changes the heat of combustion of gasoline
+What is gasohol?
+In efforts to reduce gas consumption from oil, ethanol is often added to regular gasoline.
+It has a high octane rating and burns more slowly than regular gas.
+This “gasohol” is widely used in many countries.
+It produces somewhat lower carbon monoxide and carbon dioxide emissions, but does increase air pollution from other materials.

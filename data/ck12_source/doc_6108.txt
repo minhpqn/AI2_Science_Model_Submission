@@ -1,0 +1,20 @@
+Gases with low molar masses such as hydrogen and helium can be used to float balloons
+What makes it float?
+Helium has long been used in balloons and blimps.
+Since it is much less dense than air, it will float above the ground.
+We can buy small balloons filled with helium at stores, but large ones (such as the balloon seen above) are much more expensive and take up a lot more helium.
+Calculating Molar Mass and Density of a Gas
+A chemical reaction, which produces a gas, is performed.
+The produced gas is then collected and its mass and volume are determined.
+The molar mass of the unknown gas can be found using the ideal gas law, provided the temperature and pressure of the gas are also known.
+Sample Problem:
+Molar Mass and the Ideal Gas Law
+A certain reaction occurs, producing an oxide of nitrogen as a gas.
+The gas has a mass of 1.211 g and occupies a volume of 677 mL.
+The temperature in the laboratory is 23°C and the air pressure is 0.987 atm.
+Calculate the molar mass of the gas and deduce its formula.
+Assume the gas is ideal.
+Step 1:
+List the known quantities and plan the problem .
+V = 677 \text{ ml} = 0.677 \text{ L}
+T= 23^\circ \text{C}=296 \text{ K}

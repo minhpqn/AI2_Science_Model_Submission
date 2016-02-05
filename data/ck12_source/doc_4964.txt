@@ -1,0 +1,20 @@
+So how does it effect processes all over the body?
+The Language of Cells
+To survive and grow, cells need to be able to communicate with their neighboring cells and be able to detect change in their environment. "Talking" with neighboring cells is even more important to a cell if it is part of a multicellular organism.
+Cell communication, or cell signaling, is the basis of development, tissue repair, and immunity.
+It is also necessary for normal tissue homeostasis.
+The trillions of cells that make up your body need to be able to communicate with each other to allow your body to grow, and to keep you alive and healthy.
+The same is true for any organism.
+Cell signaling is part of a complex system of communication that governs basic cellular activities and coordinates cell actions.
+Cell signaling is a major area of research in biology today.
+Defects in cell signaling are associated with diseases such as cancer, autoimmunity, and diabetes.
+Recently scientists have discovered that many different cell types, from bacteria to plants, use similar types of communication pathways, or cell-signaling mechanisms.
+This suggests that cell-signaling mechanisms evolved long before the first multicellular organism did.
+For cells to be able to signal to each other, a few things are needed:
+a cell receptor , which is a protein usually on the plasma membrane, but can be found inside the cell,
+a response to the signal.
+Cells that are communicating may be right next to each other or far apart.
+In juxtacrine signaling , also known as contact-dependent signaling, two adjacent cells must make physical contact in order to communicate.
+Cell communication may also occur over short distances, which is known as paracrine signaling , or over large distances, which is known as endocrine signaling .
+The type of chemical signal a cell will send differs depending on the distance the message needs to go.
+For example, hormones , ions, and neurotransmitters are all types of signals that are sent depending on the distance the message needs to go.

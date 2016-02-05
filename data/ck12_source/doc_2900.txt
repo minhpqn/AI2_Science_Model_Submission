@@ -1,0 +1,20 @@
+Imagine the sentence: “The big dog ate the red cat.” If you take out the second letter from "big," the frame will be shifted so now it will read: “The bgd oga tet her edc at.” One single deletion makes the whole “sentence” impossible to read.
+A point mutation that adds a base (known as an insertion) would also result in a frameshift.
+Mutations may also occur in chromosomes ( Figure below ).
+These mutations are going to be fairly large mutations, possible affecting many genes.
+Possible types of mutations in chromosomes include:
+Deletion:
+When a segment of DNA is lost, so there is a missing segment in the chromosome.
+These usually result in many genes missing from the chromosome.
+Duplication:
+When a segment of DNA is repeated, creating a longer chromosome.
+These usually result in multiple copies of genes in the chromosome.
+Inversion:
+When a segment of DNA is flipped and then reattached to the same chromosome.
+Insertion:
+When a segment of DNA from one chromosome is added to another, unrelated chromosome.
+Translocation:
+When two segments from different chromosomes change positions.
+Mutations in chromosomes include deletion, duplication, inversion, insertion, and translocation
+Mutations can arise in DNA through deletion, duplication, inversion, insertion, and translocation within the chromosome.
+Causes of Mutations

@@ -1,0 +1,20 @@
+Draw a separate FBD for each body.
+Set up a sum of forces equation based on the FBD for each body.
+Newton’s Third Law will tell you which forces on different bodies are the same in magnitude.
+Your equations should equal your unknown variables at this point.
+Question :
+Using the diagram below, find the net force on the block.
+The block weighs 3\mathrm{kg} and the inclined plane has a coefficient of friction of .6 .
+The first step to solving a Newton's Laws problem is to identify the object in question.
+In our case, the block on the slope is the object of interest.
+Next, we need to draw a free-body diagram.
+To do this, we need to identify all of the forces acting on the block and their direction.
+The forces are friction, which acts in the negative x direction, the normal force, which acts in the positive y direction, and gravity, which acts in a combination of the negative y direction and the positive x direction.
+Notice that we have rotated the picture so that the majority of the forces acting on the block are along the y or x axis.
+This does not change the answer to the problem because the direction of the forces is still the same relative to each other.
+When we have determined our answer, we can simply rotate it back to the original position.
+Now we need to break down gravity (the only force not along one of the axises) into its component vectors (which do follow the axises). \mathrm{The~x~component~of~gravity:}~9.8\mathrm{m/{s^2}}\times cos{60}=4.9\mathrm{m/{s^2}}\\\\mathrm{The~y~component~of~gravity:}~9.8\mathrm{m/{s^2}}\times sin{60}=8.5\mathrm{m/{s^2}} Yet these are only the acceleration of gravity so we need to multiply them by the weight of the block to get the force.
+F=ma=3\mathrm{kg}\times 4.9\mathrm{m/{s^2}}=14.7\mathrm{N}F=ma=3\mathrm{kg}\times 8.5\mathrm{m/{s^2}}=25.5\mathrm{N}
+Now that we have solved for the force of the y-component of gravity we know the normal force (they are equal).
+Therefore the normal force is 25.5 \mathrm{N} .
+Now that we have the normal force and the coefficient of static friction, we can find the force of friction.

@@ -1,0 +1,20 @@
+Nitrogenous bases consisting of one ring structure; thymine and cytosine.
+thymine :
+A pyrimidine base found in DNA paired with adenine.
+Chargaff's rule 1 is that the number of guanine units approximately equals the number of cytosine units and the number of adenine units approximately equals the number of thymine units.
+Chargaff's rule 2 is that the composition of DNA varied from one species to another.
+The base paring rules state that A always pairs with T and G always pairs with C.
+Use this resource to answer the questions that follow.
+Chargaff's Rules: the Work of Erwin Chargaff at
+What inspired Erwin Chargaff to study the chemistry of nucleic acids?
+State Chargaff's two rules.
+How do Chargaff's rules influence the structure of DNA?
+Explain the contribution of Erwin Chargaff to the identification of DNA as the heredity material.
+What are the base pairing rules?
+What is a purine and a pyrimidine?
+Name them.
+The DNA Double Helix - Advanced
+Explain Watson and Crick’s double helix model of DNA.
+How do sugars, phosphate groups and bases form DNA?
+In an extremely elegant model, that's how.
+The base-pairing rules tell us that A always pairs with T, and G always pairs with C.

@@ -1,0 +1,20 @@
+Define latitude and longitude.
+Why are GPS devices so accurate?
+Direction on the Earth
+Learn how to use a compass.
+Describe a polar coordinate system.
+How do you indicate which way the wind blows?
+When an object is moving, it is not enough to describe its location.
+We also need to know direction.
+For example, a wind blows a storm over your school.
+Where is that storm coming from?
+Where is it going?
+Direction is also needed to indicate where two points are relative to each other on a map.
+To connect two points accurately you need a direction.
+This occurs when you need to go from point A to point B.
+It also happens if you want to describe where something is going.
+If you are walking across a field, for example, you might say you're going north 20° east.
+The most common way to find direction is by using a compass .
+A compass is a device with a floating needle ( Figure below ).
+The needle is a small magnet that aligns itself with the Earth’s magnetic field.
+The compass needle always points to magnetic north.

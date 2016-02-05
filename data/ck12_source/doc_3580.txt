@@ -1,0 +1,20 @@
+Describe the habitats of extremophiles?
+Anaerobic vs Aerobic Respiration
+Distinguish aerobic from anaerobic.
+Define aerobic and anaerobic respiration.
+How long can you hold your breath?
+With or without air?
+In terms of producing energy, that is the key question.
+Can cellular respiration occur without air?
+It can, but it does have limitations.
+The Presence of Oxygen
+There are two types of cellular respiration (see Cellular Respiration concept): aerobic and anaerobic.
+One occurs in the presence of oxygen ( aerobic ), and one occurs in the absence of oxygen ( anaerobic ).
+Both begin with glycolysis - the splitting of glucose.
+Glycolysis (see "Glycolysis" concept) is an anaerobic process - it does not need oxygen to proceed.
+This process produces a minimal amount of ATP.
+The Krebs cycle and electron transport do need oxygen to proceed, and in the presence of oxygen, these process produce much more ATP than glycolysis alone.
+Scientists think that glycolysis evolved before the other stages of cellular respiration.
+This is because the other stages need oxygen, whereas glycolysis does not, and there was no oxygen in Earth’s atmosphere when life first evolved about 3.5 to 4 billion years ago.
+Cellular respiration that proceeds without oxygen is called anaerobic respiration .
+Then, about 2 or 3 billion years ago, oxygen was gradually added to the atmosphere by early photosynthetic bacteria (cyanobacteria).

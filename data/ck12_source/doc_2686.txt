@@ -1,0 +1,20 @@
+This means that there must be the same number of each type of atom on both sides of the arrow.
+That’s because matter is always conserved in a chemical reaction.
+This is the law of conservation of mass.
+Look at the equation above for the reaction between carbon and oxygen in the formation of carbon dioxide.
+Count the number of atoms of each type.
+Are the numbers the same on both sides of the arrow?
+The answer is yes, so the equation is balanced.
+Let’s return to the chemical reaction in which iron (Fe) combines with oxygen (O 2 ) to form rust, or iron oxide (Fe 2 O 3 ).
+The equation for this reaction is:
+4Fe+ 3O 2 → 2Fe 2 O 3
+This equation illustrates the use of coefficients to balance chemical equations.
+A coefficient is a number placed in front of a chemical symbol or formula that shows how many atoms or molecules of the substance are involved in the reaction.
+From the equation for rusting, you can see that four atoms of iron combine with three molecules of oxygen to form two molecules of iron oxide.
+Q:
+Is the equation for the rusting reaction balanced?
+How can you tell?
+A:
+Yes, the equation is balanced.
+You can tell because there is the same number of each type of atom on both sides of the arrow.
+First count the iron atoms.

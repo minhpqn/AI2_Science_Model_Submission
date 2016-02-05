@@ -1,0 +1,20 @@
+Answers to Selected Problems
+The answers are:
+^{219}{_{88}}\mathrm{Ra} \rightarrow ^{215}{_{86}}\mathrm{Rn} + ^{4}{_{2}}\mathrm{He}
+^{158}{_{63}}\mathrm{Eu} \rightarrow ^{158}{_{64}}\mathrm{Gd} + ^{0}{_{-1}}e^-
+^{53}{_{22}}\mathrm{Ti} \rightarrow ^{53}{_{23}}\mathrm{Va} + ^{0}{_{-1}}e^-
+^{211}{_{83}}\mathrm{Bi} \rightarrow ^{207}{_{81}}\mathrm{Tl} + ^{4}{_{2}}\mathrm{He}
+Explain what is meant by half life.
+Solve problems involving radioactive decay.
+Students will learn what is meant by half life and how to solve problems involving radioactive decay.
+M = M_0 (\frac{1}{2})^{\frac{t}{t_H}}
+The amount of mass M of the substance surviving after an original \mathit{M}_0 n uclei decay for time t with a half-life of \mathit{t}_H
+t = t_H \frac{\ln{\frac{M}{M_0}}}{\ln{\frac{1}{2}}}
+The amount of time t it takes a set of nuclei to decay to a specified amount.
+N = N_0 exp^{-\lambda t}
+The number N of nuclei surviving after an original \mathit{N}_0 n uclei decay for time t with a half-life of \mathit{t}_H .
+Some of the matter on Earth is unstable and undergoing nuclear decay.
+Alpha decay is the emission of a helium nucleus and causes the product to have an atomic number 2 lower than the original and an atomic mass number 4 lower than the original.
+Beta minus decay is the emission of an electron, causing the product to have an atomic number 1 greater than the original
+Beta plus decay is the emission of a positron, causing the product to have an atomic number 1 lower than the original.
+When an atomic nucleus decays, it does so by releasing one or more particles.

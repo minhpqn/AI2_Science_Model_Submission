@@ -1,0 +1,20 @@
+2-methylpropane is an example of a type of alkane called a branched alkane.
+The IUPAC system of nomenclature for branched alkanes follows a set of steps which will be applied to the example molecule below.
+Example nomenclature of a complicated branched alkene
+Find the longest continuous chain of carbon atoms in the molecule.
+This is called the parent chain.
+In the example, the longest chain is eight carbon atoms and so the parent hydrocarbon is octane.
+Number the carbon atoms in the parent chain.
+To do this, start at the end that will give the smallest numbers possible to the carbon atoms where the branches originate.
+In the example above, the branches are on carbons 3 and 5 when the chain is numbered left-to-right.
+If it were to be numbered right-to-left, the branches would be on carbons 4 and 6, so the left-to-right order is preferable.
+The atoms attached to the parent chain are called substituents.
+A substituent that is a hydrocarbon is called an alkyl group .
+The names of alkyl groups use the same prefixes as the alkanes, but with a –yl suffix.
+So a 1-carbon alkyl group is a methyl group, a 2-carbon alkyl group is an ethyl group, and so on.
+The substituents are named by placing the number from the parent carbon chain in front of the name of the substituent.
+In the current example, we have 3-methyl and 4-ethyl substituents.
+Use a prefix to indicate the appearance of more than one of the same substituent in the structural formula.
+Two of the same group is tri-, three is tri-, four is tetra-, etc.
+For example, if methyl groups were attached to both carbons 2 and 3, that part of the name would be 2, 3-dimethyl-.
+This rule does not apply to the current structure above.

@@ -1,0 +1,20 @@
+percent composition:
+The percent by mass of each element in a compound.
+Percent of Water in a Hydrate
+Calculate the percent water in hydrate when give relevant data.
+Copper sulfate changes color when hydrated
+Why does the color change?
+If you look at a typical bottle of copper sulfate, it will be a bluish-green.
+If someone tells you that copper sulfate is white, you won’t believe them.
+You are both right; it just depends on the copper sulfate.
+Your blue-green copper sulfate has several water molecules attached to it while your friend’s copper sulfate is anhydrous (no water attached).
+Why the difference?
+The water molecules interact with some of the d electrons in the copper ion and produce the color.
+When the water is removed, the electron configuration changes and the color disappears.
+Percent of Water in a Hydrate
+Many ionic compounds naturally contain water as part of the crystal lattice structure.  A hydrate is a compound that has one or more water molecules bound to each formula unit.  Ionic compounds that contain a transition metal are often highly colored.  Interestingly, it is common for the hydrated form of a compound to be of a different color than the anhydrous form, which has no water in its structure.  A hydrate can usually be converted to the anhydrous compound by heating.
+For example, the anhydrous compound cobalt(II) chloride is blue, while the hydrate is a distinctive magenta color.
+Anhydrous cobalt chloride is blue, while hydrated cobalt chloride is red
+On the left is anhydrous cobalt(II) chloride, CoCl 2 .
+On the right is the hydrated form of the compound called cobalt(II) chloride hexahydrate, CoCl 2 •6H 2 O.
+The hydrated form of cobalt(II) chloride contains six water molecules in each formula unit.  The name of the compound is cobalt(II) chloride hexahydrate and its formula is CoCl 2 •6H 2 O.  The formula for water is set apart at the end of the formula with a dot, followed by a coefficient that represents the number of water molecules per formula unit.

@@ -1,0 +1,20 @@
+When a strip of magnesium metal is placed in an aqueous solution of copper(II) nitrate, it replaces the copper.
+The products of the reaction are aqueous magnesium nitrate and solid copper metal.
+\text{Mg}(s)+\text{Cu(NO}_3)_2(aq) \rightarrow \text{Mg(NO}_3)_2 (aq) + \text{Cu}(s)
+This subcategory of single-replacement reactions is called a metal replacement reaction because it is a metal that is being replaced (zinc).
+Many metals react easily with acids and when they do so, one of the products of the reaction is hydrogen gas.
+Zinc reacts with hydrochloric acid to produce aqueous zinc chloride and hydrogen ( Figure below ).
+\text{Zn}(s)+2\text{HCl}(aq) \rightarrow \text{ZnCl}_2 (aq)+\text{H}_2(g)
+In a hydrogen replacement reaction, the hydrogen in the acid is replaced by an active metal.
+Zinc reacts with hydrochloric acid in a single-replacement reaction
+Zinc metal reacts with hydrochloric acid to give off hydrogen gas in a single-displacement reaction.
+Some metals are so reactive that they are capable of replacing the hydrogen in water.
+The products of such a reaction are the metal hydroxide and hydrogen gas.
+All group 1 metals undergo this type of reaction.
+Sodium reacts vigorously with water to produce aqueous sodium hydroxide and hydrogen (see Figure below ).
+2\text{Na}(s)+2\text{H}_2\text{O}(l) \rightarrow 2\text{NaOH}(aq)+\text{H}_2 (g)
+Sodium metal reacts vigorously with water, giving off hydrogen gas.
+A large piece of sodium will often generate so much heat that the hydrogen will ignite.
+The element chlorine reacts with an aqueous solution of sodium bromide to produce aqueous sodium chloride and elemental bromine.
+\text{Cl}_2 (g) + 2\text{NaBr}(aq) \rightarrow 2\text{NaCl}(aq)+\text{Br}_2(l)
+The reactivity of the halogen group (group 17) decreases from top to bottom within the group.

@@ -1,0 +1,20 @@
+What medical procedure using lasers is mentioned in the video?
+A laboratory laser has a power of only 0.0008 watts.
+Such a laser seems more powerful to us than a regular 100 watt light bulb.
+Suggest a reason for this.
+A device like a laser, that emits microwave radiation is called a maser .
+What words are likely to make up this acronym?
+What do you call an atom whose electrons have reached a higher energy state?
+When an electron moves from a higher energy level to a lower energy level, what is emitted by the atom?
+laser:
+A device that emits highly amplified and coherent radiation of one or more discrete frequencies
+stimulated emission:
+The emission of electromagnetic radiation in the form of photons of a given frequency, triggered by photons of the same frequency.
+coherent light:
+Coherentlight are light waves that are “in phase” with one another.
+monochromatic:
+Monochromatic light is light of a single frequency.
+Christopher Auyeung and Samantha Bacic.
+CK-12 Foundation .
+CK-12 Foundation - Christopher Auyeung, using emission spectra by User:Merikanto/Wikimedia Commons and User:Adrignola/Wikimedia Commons (H).
+Courtesy of the Nobel Foundation. .

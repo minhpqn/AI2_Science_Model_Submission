@@ -1,0 +1,20 @@
+Even if you’ve never used a compass, you probably know that the needle of a compass always points north.
+That’s because a compass needle is magnetized, so it is attracted by a magnet.
+Q:
+What magnet attracts a compass needle?
+A:
+A compass needle is attracted by magnet Earth.
+It always points north because Earth acts as a giant magnet.
+Earth’s Magnetic Poles
+Imagine a huge bar magnet passing through Earth’s axis, as in the Figure below .
+This is a good representation of Earth as a magnet.
+Like a bar magnet, Earth has north and south magnetic poles.
+A magnetic pole is the north or south end of a magnet, where the magnet exerts the most force.
+Schematic illustrating how earth is a magnet
+Two North Poles
+Although the needle of a compass always points north, it doesn’t point to Earth’s north geographic pole.
+Find the north geographic pole in the Figure below .
+As you can see, it is located at 90° north latitude.
+Where does a compass needle point instead?
+It points to Earth’s north magnetic pole, which is located at about 80° north latitude.
+Earth also has two south poles: a south geographic pole and a south magnetic pole.

@@ -1,0 +1,20 @@
+A DNA polymerase named after the thermophilic bacterium Thermus aquatics from which it was originally isolated; the heat-stable polymerase used in the PCR reaction.
+The Polymerase Chain Reaction (PCR) is used to amplify millions of times specific regions of a DNA strand.
+This can be a number of loci, a single gene, a part of a gene, or a non-coding sequence.
+PCR usually involves the following steps:
+Use these resources to answer the questions that follow.
+What is PCR?
+Why does PCR only amplify a specific region of DNA?
+What is an amplicon?
+Define the following:
+Taq DNA polymerase.
+Polymerase Chain Reaction at
+In your own words, answer the following:
+What is PCR?
+What is PCR used for?
+How does PCR work?
+PCR Virtual Lab at
+What is PCR?
+What allows PCR to be done at high temperatures?
+Describe the PCR process.
+Illustrate the PCR process.

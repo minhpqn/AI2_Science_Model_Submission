@@ -1,0 +1,20 @@
+Q:
+If more current flows through a wire, how might this affect the magnetic field surrounding the wire?
+A:
+With more current, the magnetic field is stronger.
+Right Hand Rule
+The direction of the magnetic field created when current flows through a wire depends on the direction of the current.
+A simple rule, called the right hand rule, makes it easy to find the direction of the magnetic field if the direction of the current is known.
+The rule is illustrated in the Figure below .
+When the thumb of the right hand is pointing in the same direction as the current, the fingers of the right hand curl around the wire in the direction of the magnetic field.
+You can see the right hand rule in action at this URL:
+Click on the image above for more content
+Right hand rule applied to magnetic fields
+Uses of Electromagnetism
+Electromagnetism is used not only in a doorbells but in many other electric devices as well, such as electric motors and loudspeakers.
+It is also used to store information on computer disks.
+An important medical use of electromagnetism is magnetic resonance imaging (MRI).
+This is a technique for making images of the inside of the body in order to diagnose diseases or injuries.
+Magnetism created with electric current is so useful because it can be turned on or off simply by turning the current on or off.
+The strength of the magnetic field is also easy to control by changing the amount of current.
+You can’t do either of these things with a regular magnet.

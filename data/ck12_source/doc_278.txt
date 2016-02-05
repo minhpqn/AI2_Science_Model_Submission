@@ -1,0 +1,20 @@
+Define ideal mechanical advantage.
+Define actual mechanical advantage.
+Calculate both ideal and actual mechanical advantages for simple machines.
+Of the four variables, input force, output force, input distance, output distance, given three of them, calculate the fourth for simple machines.
+An entertaining Rube Goldberg machine
+A "Rube Goldberg Machine" is a complex construction of many simple machines connected end-to-end in order to accomplish a particular activity.  By design, Rube Goldberg Machines are far more intricate than necessary, and may be quite entertaining.
+Although this kind of construction may be extremely inefficient, simple machines commonly make work easier, and can be found all around us.
+A machine is an object or mechanical device that receives an input amount of work and transfers the energy to an output amount of work.
+For an ideal machine , the input work and output work are always the same.
+Remember that work is force times distance; even though the work input and output are equal, the input force does not necessarily equal the output force , nor does the input distance necessarily equal the output distance .
+Machines can be incredibly complex (think of robots or automobiles), or very simple, such as a can opener.  A simple machine  is a mechanical device that changes the magnitude or direction of the force.
+There are six simple machines that were first identified by Renaissance scientists: lever, pulley, inclined plane, screw, wedge, and wheel and axle.
+These six simple machines can be combined together to form compound machines .
+We use simple machines because they give us a mechanical advantage .
+Mechanical advantage is a measurement of the force amplification of a machine.
+In ideal machines, where there is no friction and the input work and output work are the same,
+(\text{Effort Force})(\text{Effort Distance}) = (\text{Resistance Force})(\text{Resistance Distance})
+The effort is the work that you do.
+It is the amount of force you use times the distance over which you use it.
+The resistance  is the work done on the object you are trying to move.

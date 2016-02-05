@@ -1,0 +1,20 @@
+This type of telescope is called a reflecting telescope , or reflector.
+It’s much easier to precisely make mirrors than to precisely make glass lenses.
+Mirrors are also much lighter than heavy glass lenses.
+For these two reasons, mirrors can be made larger than lenses.
+This is important because a reflecting telescope can be made much larger.
+Larger telescopes can collect more light.
+This means that they can study dimmer or more distant objects.
+The largest optical telescopes in the world today are reflectors.
+Telescopes also can be made to use both lenses and mirrors.
+For more on how telescopes were developed, visit
+Radio telescopes collect radio waves.
+These telescopes are even larger telescopes than reflectors.
+Radio telescopes look a lot like satellite dishes.
+In fact, both are designed to collect and focus radio waves or microwaves from space.
+The largest single radio telescope in the world is at the Arecibo Observatory in Puerto Rico ( Figure below ).
+This telescope is located in a natural hole in the ground.
+This telescope would collapse under its own weight if it were not supported by the ground.
+There is a big disadvantage to this design.
+What do you think it is?
+The telescope can only observe the part of the sky that happens to be overhead at a given time.

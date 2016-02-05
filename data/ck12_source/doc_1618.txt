@@ -1,0 +1,20 @@
+Diagram of diffusion across a cell membrane
+Diffusion is the movement of a substance from an area of a higher amount toward an area of lower amount.
+A concentration gradient initially exists across the cell membrane.
+Equilibrium is reached when there is an equal amount of the substance on both sides of the membrane.
+The diffusion of water across a membrane because of a difference in concentration is called osmosis .
+Let's explore three different situations and analyze the flow of water.
+A hypotonic solution means the environment outside of the cell has a lower concentration of dissolved material than the inside of the cell.
+If a cell is placed in a hypotonic solution, water will move into the cell.
+This causes the cell to swell, and it may even burst.
+A hypertonic solution means the environment outside of the cell has more dissolved material than inside of the cell.
+If a cell is placed in a hypertonic solution, water will leave the cell.
+This can cause a cell to shrink and shrivel.
+An isotonic solution is a solution in which the amount of dissolved material is equal both inside and outside of the cell.
+Water still flows in both directions, but an equal amount enters and leaves the cell.
+Applications of Osmosis
+How do marine animals keep their cells from shrinking?
+How do you keep your blood cells from bursting?
+Both of these questions have to do with the cell membrane and osmosis.
+Marine animals live in salt water, which is a hypertonic environment; there is more salt in the water than in their cells.
+To prevent losing too much water from their bodies, these animals intake large quantities of salt water and then secrete the excess salt.

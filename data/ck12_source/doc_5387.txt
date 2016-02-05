@@ -1,0 +1,20 @@
+mutated codon is a premature stop codon
+CAA (glutamine) → UAA (stop)
+These mutations may result in a protein with the same function, with altered function, or with no function.
+Silent mutations , as they code for the same amino acid, will have no altered effect on the protein.
+Missense mutations may have a minor effect or a dramatic effect on the protein.
+Nonsense mutations usually have the most dramatic effet.
+Depending on the position of the premature stop codon, nonsense mutations may result in an unstable mRNA that cannot be translated, or in a truncated mRNA and a much "smaller" protein without any significant activity.
+Deletions and Insertions
+Similar to chromosomal alteration mutations, deletion or insertion mutations add or remove genetic information.
+Small deletions or insertions in the DNA will alter the reading frame.
+Deletions remove one or more nucleotides from the DNA, whereas insertions add one or more nucleotides into the DNA.
+These mutations in the coding region of a gene may also alter the splicing of the mRNA, known as a splice site mutation .
+Mutations which alter the reading frame are known as frameshift mutations .
+Splice site mutations and frameshift mutations both can dramatically change the mRNA, altering the final protein product.
+Consider the following sequence of bases in RNA:
+AUG-AAU-ACG-GCU which is translated into start-asparagine-threonine-alanine.
+Now, assume an insertion occurs in this sequence.
+Let’s say an A nucleotide is inserted after the start codon AUG :
+AUG-AAA-UAC-GGC-U is now translated into start-lysine-tyrosine-glycine.
+Even though the rest of the sequence is unchanged, this insertion changes the reading frame and thus all of the codons that follow it.

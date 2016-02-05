@@ -1,0 +1,20 @@
+You should keep in mind that no matter how complicated the probability pattern is, each shape represents a single orbital, and the entire probability pattern is the result of the various positions that either one or two electrons can take.
+Energy comes in discrete packages called quanta.
+Electrons in the electron cloud of atoms have a limited number of energy levels due to the quantization of energy.
+The most common way to describe electrons in atoms according to quantum mechanics is to solve the Schrodinger equation for the energy states of the electrons within the electron cloud.
+When the electron is in these states, its energy is well-defined but the electron position is not.
+The position is described by a probability distribution map called an orbital.
+Solutions to Schrödinger’s equation involve four special numbers called quantum numbers. (Three of the numbers, n , l , and m , come from Schrödinger’s equation, and the fourth one comes from an extension of the theory.)
+These four numbers completely describe the energy of an electron.
+Each electron has exactly four quantum numbers, and no two electrons have the same four numbers.
+The principal quantum number, n , is a positive integer (1, 2, 3, \ldots n) that indicates the main energy level of an electron within an atom.
+Follow up questions:
+Who first suggested that matter also might exhibit the properties of both particles and waves?
+When the concept of describing the trajectory of an electron was given up, what description of the electron replaced it?
+If the shape of the electron orbital is spherical, how many values are possible for the quantum number l ?
+If we were dealing with an atom that had a total of 20 electrons in its electron cloud, how many of those electrons would have quantum number n=1 .
+What is the total number of electrons in the p -orbitals of the second energy level?
+How many energy levels are necessary to contain the first 10 electrons in an electron cloud?
+quantum:
+A quantum is a discrete packet of energy.
+photon:

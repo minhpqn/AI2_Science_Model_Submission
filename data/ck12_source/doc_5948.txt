@@ -1,0 +1,20 @@
+Converting Moles to Mass
+Chromium metal is used for decorative electroplating of car bumpers and other surfaces.  Find the mass of 0.560 moles of chromium.
+Step 1:
+List the known quantities and plan the problem.
+molar mass of Cr = 52.00 g mol
+0.560 mol Cr
+0.560 mol Cr = ? g
+One conversion factor will allow us to convert from the moles of Cr to mass.
+Step 2:
+Calculate.
+0.560 \ \text{mol Cr} \times \frac{52.00 \ \text{g} \ \text{Cr}}{1 \ \text{mol Cr}}=29.1 \ \text{g Cr}
+Step 3:
+Think about your result.
+Since the desired amount was slightly more than one half of a mole, the mass should be slightly more than one half of the molar mass.  The answer has three significant figures because of the 0.560 mol.
+A similar conversion factor utilizing molar mass can be used to convert from the mass of an substance to moles.  In a laboratory situation, you may perform a reaction and produce a certain amount of a product which can be massed.  It will often then be necessary to determine the number of moles of the product that was formed.  The next problem illustrates this situation.
+Sample Problem:
+Converting Mass to Moles
+A certain reaction produces 2.81 g of copper(II) hydroxide, Cu(OH) 2 .  Determine the number of moles produced in the reaction.
+Step 1:
+List the known quantities and plan the problem.

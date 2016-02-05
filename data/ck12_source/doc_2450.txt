@@ -1,0 +1,20 @@
+Air pressure is greater in box B.
+That’s because there are more air particles in box B to bump into each other and into the sides of the container.
+Therefore, the particles in box B exert more force on a given area.
+Pressure in the Atmosphere
+We live in a “sea” of air called the atmosphere.
+Can you feel the air in the atmosphere pressing against you?
+Not usually, but air actually exerts a lot of pressure because there’s so much of it.
+The atmosphere rises high above Earth’s surface, so it contains a huge number of gas particles.
+Most of them are concentrated close to Earth’s surface because of gravity and the weight of all the air in the atmosphere above them.
+As a result, air pressure is greatest at sea level and drops rapidly as you go higher in altitude.
+The Figure below shows how air pressure falls from sea level to the top of the atmosphere.
+In the graph, air pressure is measured in a unit called the millibar (mb).
+The SI unit of pressure is newton per square centimeter (N/cm 2 ).
+Graph showing pressure by altitude
+Q:
+The top of Mount Everest is almost 9 km above sea level.
+What is the pressure of the atmosphere at this altitude?
+A:
+Air pressure at the top of Mount Everest is about 260 mb.
+This is only about 25 percent of air pressure at sea level, which is 1013.2 mb.

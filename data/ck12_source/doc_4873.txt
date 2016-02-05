@@ -1,0 +1,20 @@
+binary fission :
+Asexual reproduction in prokaryotic organisms; produces two identical cells.
+chromosome :
+The coiled structure of DNA and histone proteins; allows for the precise separation of replicated DNA; forms during prophase of mitosis and meiosis.
+eukaryote :
+An organism whose cells are organized into complex structures by internal membranes and a cytoskeleton; all organisms other than bacteria.
+eukaryotic cells :
+Typical of multi-celled organisms; have membrane bound organelles; usually larger than prokaryotic cells.
+nucleoid :
+The area within the cytoplasm of a prokaryotic cell where the DNA is concentrated.
+nucleus (plural, nuclei) :
+The membrane-enclosed organelle found in most eukaryotic cells that contains the genetic material (DNA); control center of the cell.
+organelle :
+A structure within the cytoplasm of a cell; may be enclosed within a membrane; performs a specific function.
+pili :
+Hair-like structures on the surface of a prokaryotic cell that attach to other cells or surfaces; another name for a fimbria.
+plasmid :
+A small circular piece of DNA that is physically separate from, and can replicate independently of, chromosomal DNA within a cell.
+prokaryote :
+An organism that does not have a cell nucleus nor any organelles that are surrounded by a membrane; bacteria.

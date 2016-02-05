@@ -1,0 +1,20 @@
+If a small burst of wind sets her in motion, with what frequency will she oscillate?
+How many times will she go up and down in one s?
+In 20\;\mathrm{s} ?
+How long is each cycle?
+Draw the x vs t graph of three cycles, assuming the spider is at its highest point in the cycle at t=0\;\mathrm{s} .
+Answers to Selected Problems
+a. 9.8 \times 10^5 \;\mathrm{N/m} b. 0.5 \;\mathrm{mm} c. 22 \;\mathrm{Hz}
+3.2 \times 10^3 \;\mathrm{N/m}
+a. 110 \;\mathrm{N/m} d. v(t)=(25) \cos(83\mathrm{t})
+a. 16 \;\mathrm{Hz} b. 16 complete cycles but 32 times up and down, 315 complete cycles but 630 times up and down c. 0.063 \;\mathrm{s}
+Your task:
+Match the period of the circular motion system with that of the spring system.
+You are only allowed to change the velocity involved in the circular motion system.
+Consider the effective distance between the block and the pivot to be to be fixed at 1m.
+The spring constant(13.5N/m) is also fixed.
+You should view the charts to check whether you have succeeded.
+Instructions:
+To alter the velocity, simply click on the Select Tool, and select the pivot .
+The Position tab below will allow you to numerically adjust the rotational speed using the Motor field.
+To view the graphs of their respective motion in order to determine if they are in sync, click on Chart tab below.

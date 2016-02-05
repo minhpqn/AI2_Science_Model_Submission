@@ -1,0 +1,20 @@
+The useful work a light bulb does is emitting light (duh).
+The rest is “wasted” as heat.
+If a standard incandescent 60 W bulb is on for 1 minute and generates 76 J of light energy, what is its efficiency?
+How much heat energy is produced?
+If the efficiency of a CFL ( c ompact fl uorescent) bulb is 20%, how many joules of light energy will a 60 W bulb produce?
+Most microwave ovens are 1000 W devices.
+You heat 1 cup (8 fl. oz., or 30 ml) of room temperature water (20^\circ C) for 30 seconds in a microwave.
+What current does the oven draw?
+If the water heats up to 90^\circ C , what is the heating efficiency of the oven?
+The 2010 Toyota Prius (m=1250 \ kg) battery is rated at 201.6 V with a capacity of 6.5 Ah.
+What is the total energy stored in this battery on a single charge?
+If you used the battery alone to accelerate to 65 mph one time (assuming no friction), what percentage of the battery capacity would you use?
+Answers to Selected Problems
+a. 2.1%, 3524 J b. 720 J
+a. 8.3A b. 29%
+a. 4.7 \times 10^6 \ J b. 11.2%
+Compare Emf and Voltage.
+Calculate the internal resistance of a battery.
+Students will learn the difference between Emf and Voltage (i.e. ideal voltage and the output voltage) and how to calculate the internal resistance of a battery.
+V_{terminal} = Emf - Ir

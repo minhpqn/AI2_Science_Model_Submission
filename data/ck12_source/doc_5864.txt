@@ -1,0 +1,20 @@
+Other metals may react or dissolve in this acid, but gold will not.
+Then the sample is added to a mixture of nitric acid and hydrochloric acid.
+Gold will only dissolve in this mixture.
+The term “acid test” arose from the California gold rush in the late 1840s when this combination was used to test for the presence of real gold.
+It has since come to mean, “tested and approved” in a number of fields.
+An acid can be defined in several ways.  The most straightforward definition is that an acid is a molecular compound that contains one or more hydrogen atoms and produces hydrogen ions (H + ) when dissolved in water.
+Vinegar contains acetic acid, grapefruit contains ascorbic and citric acid
+(A) Vinegar comes in a variety of types, but all contain acetic acid. (B) Citrus fruits like grapefruit contain citric and ascorbic acids.
+This is a different type of compound than the others we have seen so far.  Acids are molecular, which means that in their pure state they are individual molecules and do not adopt the extended three-dimensional structures of ionic compounds like NaCl.  However, when these molecules are dissolved in water, the chemical bond between the hydrogen atom and the rest of the molecule breaks, leaving a positively-charged hydrogen ion and an anion.  This can be symbolized in a chemical equation:
+HCl → H + + Cl -
+Since acids produce H + cations upon dissolving in water, the H of an acid is written first in the formula of an inorganic acid.  The remainder of the acid (other than the H) is the anion after the acid dissolves.  Organic acids are also an important class of compounds, but will not be discussed here.  A binary acid is an acid that consists of hydrogen and one other element.  The most common binary acids contain a halogen.  An oxoacid is an acid that consists of hydrogen, oxygen, and a third element.  The third element is usually a nonmetal.
+Since all acids contain hydrogen, the name of an acid is based on the anion that goes with it.
+These anions can either be monatomic or polyatomic.
+The name of all monatomic ions ends in – ide.  The majority of polyatomic ions end in either – ate or – ite , though there are a few exceptions such as the cyanide ion (CN - ).  It is this suffix of the anion that determines how the acid is named as displayed in the rules and Table below .
+Naming System for Acids
+Name of Acid
+chloride (Cl - )
+hydrochloric acid (HCl)
+sulfate (SO 4 2- )
+sulfuric acid (H 2 SO 4 )

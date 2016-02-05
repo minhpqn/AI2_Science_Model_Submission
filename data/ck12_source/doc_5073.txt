@@ -1,0 +1,20 @@
+FADH 2 :
+Flavin adenine dinucleotide; an energy carrier molecule produced during the Krebs cycle of aerobic cellular respiration.
+glycolysis :
+The process of “splitting glucose”; stage 1 of aerobic cellular respiration and also the basis of anaerobic respiration; splits glucose into two 3-carbon pyruvate molecules, producing 2 (net) ATP.
+Krebs cycle :
+Stage 2 of aerobic cellular respiration; a series of chemical reactions which completes the breakdown of glucose begun in stage 1, releasing more chemical energy and producing carbon dioxide; also called the Citric Acid Cycle.
+multicellularity :
+Refers to organisms that consist of more than one cell, in contrast to single-cell organisms; this is characteristic of most eukaryotes.
+ozone layer :
+A layer in Earth's atmosphere containing relatively high concentrations of ozone; absorbs a high percentage of the Sun's medium-frequency ultraviolet light.
+pyruvate :
+The 3-carbon product of glycolysis; also known as pyruvic acid.
+Theory of Endosymbiosis :
+Theory that proposes that eukaryotic organelles, such as mitochondria, evolved from ancient, free-living prokaryotes that invaded other prokaryotic cells.
+Oxygen produced by the first photosynthetic organisms was probably toxic to early anaerobic life forms, but later organisms evolved a way to harness the power of oxygen to make ATP.
+In eukaryotic cells, if oxygen is present, the pyruvate molecules produced by glycolysis in the cytoplasm enter the mitochondria for further breakdown and energy release.
+The Krebs Cycle harnesses the energy which remains in pyruvate after glycolysis.
+The Krebs Cycle removes energy from citric acid in small steps, storing it in diverse energy carrier molecules:
+ATP, NADH and FADH
+The Krebs Cycle produces two molecules of CO 2 per Acetyl-CoA, completing the breakdown of glucose.

@@ -1,0 +1,20 @@
+Impulse is a vector quantity that has the same direction as the force.
+Momentum and impulse have the same units: kg·m/s.
+The change of momentum of an object is equal to the impulse.
+Ft = \Delta mv
+Use this resource to answer the question that follows.
+Click on the image above for more content
+Why don't the glasses of water spill when the tablecloth is pulled out from under them?
+How does the video get from momentum to impulse?
+A small car with a mass of 800. kg is moving with a velocity of 27.8 m/s.
+What is the momentum of the car?
+What velocity is needed for a 2400. kg car in order to have the same momentum?
+A scooter has a mass of 250. kg.
+A constant force is exerted on it for 60.0 s.  During the time the force is exerted, the scooter increases its speed from 6.00 m/s to 28.0 m/s.
+What is the change in momentum?
+What is the magnitude of the force exerted on the scooter?
+The brakes on a 15,680 N car exert a stopping force of 640.
+N.
+The car’s velocity changes from 20.0 m/s to 0 m/s.
+What is the car’s mass?
+What was its initial momentum?

@@ -1,0 +1,12 @@
+You should view the charts to check whether you have succeeded.
+Instructions:
+To alter the mass, simply click on the 'select' tool in the menu, and select the mass.
+Then use the tab at the bottom of your screen to change the density or dimensions of the block to get the mass that you want.
+To view chart legend, click on Settings and you can plot velocity or position of the pendulum or mass on the spring.
+Click on the image above for more content
+The mass and the spring constant have now been changed.
+What is the new period of the mass-spring system?
+Can you change the length of the pendulum to match the periods now?
+Click on the image above for more content
+In these lessons students will learn the concepts of frequency and period.
+In addition students will learn how to graph harmonic motion and how to calculate the periods of a spring mass system and a pendulum system.

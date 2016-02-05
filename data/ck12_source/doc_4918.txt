@@ -1,0 +1,20 @@
+secretory vesicle :
+Vesicle with materials that are to be excreted/secreted from the cell.
+SNARE :
+Soluble NSF Attachment Protein Receptor; mediate vesicle fusion through full fusion exocytosis or kiss-and-run fusion exocytosis.
+synaptic vesicle :
+Vesicle located at presynaptic terminals in neurons; store neurotransmitters.
+transport vesicle :
+A vesicle that is able to move molecules between locations inside the cell.
+vacuole :
+Membrane-bound organelle that can have secretory, excretory, and storage functions; plant cells have a large central vacuole.
+vesicle :
+A small, spherical compartment that is separated from the cytosol by at least one lipid bilayer; used for transport and storage.
+vesicle coat :
+Clusters selected membrane cargo proteins into regions of the plasma membrane for internalization; develops vesicle buds.
+Vesicles store and transport materials with the cell.
+Some of these materials are transported to other organelles, other materials are secreted from the cell.
+Examples of vesicles include secretory vesicles, transport vesicles, synaptic vesicles and lysosomes.
+Vacuoles are membrane-bound organelles that can have secretory, excretory, and storage functions.They are usually larger than vesicles.
+Compare vesicles to vacuoles.
+Describe three types of vesicles.

@@ -1,0 +1,20 @@
+The coin came to rest on the bottom?
+Answers to Selected Problems
+a. 90 % of the berg is underwater b. 57 %
+b. 5.06 \times 10^{-4} \;\mathrm{N} c. 7.05 \;\mathrm{m/s}^2
+6. 40 coins
+b. upward c. 4.5 \;\mathrm{m/s}^2 d.
+Cooler air outside, so more initial buoyant force e.
+Thin air at high altitudes weighs almost nothing, so little weight displaced.
+a.
+At a depth of 10 \;\mathrm{cm} , the buoyant force is 2.9 \;\mathrm{N} d.
+The bottom of the cup is 3 \;\mathrm{cm} in radius
+b. 500,000 \;\mathrm{N}
+a. 10 \;\mathrm{N} b. 10.5 \;\mathrm{N} c. 11 \;\mathrm{N} d. 11 \;\mathrm{N}
+Pressure in Fluids
+Define pressure and solve pressure problems in the context of fluids.
+Students will learn about pressure and solving pressure problems in the context of fluids.
+P = \frac{F}{A} && \text{Pressure is force per unit area}\\P = P_o - \rho gh && \text{Pressure in an incompressible fluid as a function of depth}\\
+The pressure of a fluid is a measure of the forces exerted by a large number of molecules when they collide and bounce off its boundary.
+The unit of pressure is the Pascal (Pa).
+In a fluid at rest, pressure increases linearly with depth – this is due to the weight of the water above it.

@@ -1,0 +1,20 @@
+Gas Stoichiometry and the Ideal Gas Law
+What volume of carbon dioxide is produced by the combustion of 25.21 g of ethanol (C 2 H 5 OH) at 54°C and 728 mmHg?
+Assume the gas is ideal.
+Before using the ideal gas law, it is necessary to write and balance the chemical equation.
+Recall that most combustion reactions, the given substance reacts with O 2 to form CO 2 and H 2 O.
+Here is the balanced equation for the combustion of ethanol.
+\text{C}_2\text{H}_5\text{OH}(l)+3\text{O}_2(g) \rightarrow 2\text{CO}_2(g)+3\text{H}_2\text{O}(l)
+Step 1:
+List the known quantities and solve the problem.
+\text{mass} \ \text{C}_2\text{H}_5\text{OH}=25.21 \text{ g}
+\text{molar mass} \ \text{C}_2\text{H}_5\text{OH}=46.08 \text{ g/mol}
+P=728 \text{ mmHg}
+T=54^\circ \text{C}=327 \text{ K}
+\text{Volume} \ \text{CO}_2=? \text{ L}
+The number of moles of carbon dioxide gas is first calculated by stoichiometry.
+Then the ideal gas law is used to calculate the volume of CO 2 produced.
+Step 2:
+Solve.
+25.21 \text{ g } \text{C}_2\text{H}_5\text{OH} \times \frac{1 \text{ mol } \text{C}_2\text{H}_5\text{OH}}{46.08 \text{ g } \text{C}_2\text{H}_5\text{OH}} \times \frac{2 \text{ mol } \text{CO}_2}{1 \text{ mol } \text{C}_2\text{H}_5\text{OH}}=1.094 \text{ mol } \text{C}_2\text{H}_5\text{OH}
+The moles of ethanol  (n) is now substituted into  PV=nRT to solve for the volume.

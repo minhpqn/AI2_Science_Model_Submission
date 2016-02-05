@@ -1,0 +1,20 @@
+State the purpose of scientific notation.
+Explain how to convert numbers to and from scientific notation.
+Most of the stars pictured in this view of the night sky are hundreds of light years from Earth.
+A light year is the distance that light can travel in a year, or about 6 trillion (6,000,000,000,000) miles.
+As this example shows, quantities in science may be very large.
+Many other quantities in science are very small.
+Both very large and very small numbers have many zeroes, so they are hard to read and write without making mistakes.
+That’s where scientific notation comes in.
+What Is Scientific Notation?
+Scientific notation is a way of writing very large or very small numbers that uses exponents.
+Numbers are written in this format:
+a \times 10^b
+The letter a stands for a decimal number, and the letter b stands for an exponent, or power, of 10.
+For example, the number 300 is written in scientific notation as 3.0 × 10 2 .
+The number 0.03 is written as 3.0 × 10 -2 .
+Do you need a review of exponents?
+If so, watch the video at this URL:
+Click on the image above for more content
+Using Scientific Notation
+It’s easier to convert numbers to and from scientific notation than you might think.

@@ -1,0 +1,20 @@
+Capacitance can be thought of as the capacity a device has for storing charge .
+In the parallel plate case the capacitance is given by C = \frac{\epsilon_0 A}{d} where A is the area of the plates,  d  is the distance between the plates, and  \epsilon_0  is the permittivity of free space whose value is  8.84 \times 10^{-12} C/V \cdot m  .
+The electric field between the capacitor plates stores energy.
+Where does this energy come from?
+Recall, that in our preliminary discussion of electric forces we assert that "like charges repel one another".
+To build our initial configuration we had to place an excess of positive and negative charges, respectively, on each of the metal plates.
+Forcing these charges together on the plate had to overcome the mutual repulsion that the charges experience; this takes work.
+The energy used in moving the charges onto the plates gets stored in the field between the plates.
+It is in this way that the capacitor can be thought of as an energy storage device.
+This property will become more important when we study capacitors in the context of electric circuits in the next several Concepts.
+Note:
+Many home-electronic circuits include capacitors; for this reason, it can be dangerous to mess around with old electronic components, as the capacitors may be charged even if the unit is unplugged.
+For example, old computer monitors (not flat screens) and TVs have capacitors that hold dangerous amounts of charge hours after the power is turned off.
+You have a capacitor with capacitance 100\text{nF} .
+If you connected it to a 12V battery, how much energy is stored in the capacitor when it is fully charged?
+If you were to submerge this capacitor in water, how much energy could be stored in it?
+We'll just use the equation given above to calculate the energy stored on the capacitor.
+By adding a dielectric, we increase the capacitance of the capacitor by a factor of the dielectric constant.
+The dielectric constant of water is 80, so the new capacitance will be 80 times the original capacitance.
+Watch this Explanation

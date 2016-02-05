@@ -1,0 +1,20 @@
+Some types of matter offer more or less resistance to electric current than others.
+Materials that have low resistance to electric current are called electric conductors .
+Many metals—including copper, aluminum, and steel—are good conductors of electricity.
+The outer electrons of metal atoms are loosely bound and free to move, allowing electric current to flow.
+Water that has even a tiny amount of impurities is an electric conductor as well.
+Q:
+What do you think lightning rods are made of?
+A:
+Lightning rods are made of metal, usually copper or aluminum, both of which are excellent conductors of electricity.
+Materials that have high resistance to electric current are called electric insulators .
+Examples include most nonmetallic solids, such as wood, rubber, and plastic.
+Their atoms hold onto their electrons tightly, so electric current cannot flow freely through them.
+Dry air is also an electric insulator.
+You can learn more about electric insulators—as well as how to test whether a material is an insulator—by doing the activity at this URL:
+Q:
+You may have heard that rubber-soled shoes will protect you if you are struck by lightning.
+Do you think this is true?
+Why or why not?
+A:
+It isn’t true.

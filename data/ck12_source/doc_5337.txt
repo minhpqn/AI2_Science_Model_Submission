@@ -1,0 +1,20 @@
+This structure depicts an RNA molecule. the numerous secondary structures, such as the helices, are visible.
+DNA → RNA → Protein
+The central dogma of molecular biology. “DNA makes RNA makes protein.” So what exactly is RNA?
+Ribonucleic acid , or RNA , is the other important nucleic acid in this three player act.
+When we say that “DNA makes RNA makes protein,” what do we mean?
+We mean that the information in DNA is somehow transferred into RNA, and that the information in RNA is then used to make the protein.
+But is all of the information in DNA transferred to RNA?
+Or just some of the information?
+Recall that a gene is a segment of DNA that contains the information necessary to encode an RNA molecule or a protein.
+These genes are embedded within the DNA in the nucleus.
+This DNA never leaves the nucleus.
+So, how does the information get from the nucleus to the cytoplasm where the ribosomes are?
+Remember that the ribosomes are the sites of protein synthesis .
+To understand this, it helps to first understand RNA.
+Keep in mind that even though you have many thousands of genes, not all are used in every cell type.
+In fact, probably only a few thousand are used in a particular type of cell, with different cell types using different genes.
+However, while these genes are embedded in the large chromosomes that never leave the nucleus, the RNA is relatively small and is easily able to carry information out of the nucleus.
+This process occurs when the gene product is needed by the cell.
+If all genes were "expressed" all the time in every cell, then all cells would be very similar, and it would be a tremendous waste of energy.
+Instead, gene expression occurs only when the gene product is required by the cell.

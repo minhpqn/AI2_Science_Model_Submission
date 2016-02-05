@@ -1,0 +1,20 @@
+Convection is the transfer of thermal energy by particles moving through a fluid (either a gas or a liquid).
+Thermal energy is the total kinetic energy of moving particles of matter, and the transfer of thermal energy is called heat.
+Convection is one of three ways that thermal energy can be transferred (the other ways are conduction and thermal radiation).
+Thermal energy is always transferred from matter with a higher temperature to matter with a lower temperature.
+How Does Convection Occur?
+The Figure below shows how convection occurs, using hot water in a pot as an example.
+When particles in one area of a fluid (in this case, the water at the bottom of the pot) gain thermal energy, they move more quickly, have more collisions, and spread farther apart.
+This decreases the density of the particles, so they rise up through the fluid.
+As they rise, they transfer their thermal energy to other particles of the fluid and cool off in the process.
+With less energy, the particles move more slowly, have fewer collisions, and move closer together.
+This increases their density, so they sink back down through the fluid.
+When they reach the bottom of the fluid, the cycle repeats.
+The result is a loop of moving particles called a convection current .
+You can learn more about convection currents by watching the cartoon video called “Convection” at this URL:
+Diagram illustrating how heat is transferred in a boiling pot
+Examples of Convection
+Convection currents transfer thermal energy through many fluids, not just hot water in a pot.
+For example, convection currents transfer thermal energy through molten rock below Earth’s surface, through water in the oceans, and through air in the atmosphere.
+Convection currents in the atmosphere create winds.
+You can see one way this happens in the Figure below .

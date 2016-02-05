@@ -1,0 +1,20 @@
+The Figure below shows how momentum is conserved in the two colliding skaters.
+The total momentum is the same after the collision as it was before.
+However, after the collision, skater 1 has more momentum and skater 2 has less momentum than before.
+Momentum is conserved in a collision
+Q :
+What if two skaters have a head-on collision?
+Do you think momentum is conserved then?
+A :
+As in all actions and reactions, momentum is also conserved in a head-on collision.
+You can see how at this URL:
+Whenever an action and reaction occur, momentum is transferred from one object to the other.
+However, total momentum is conserved.
+This is the law of conservation of momentum.
+Watch the astropitch animation at the following URL.
+Experiment with different velocities.
+Then take the quiz and check your answers.
+State the law of conservation of momentum.
+Fill in the missing velocity (x) in the diagram of a vehicle collision seen in the Figure below so that momentum is conserved.
+Practice problem for conservation of momentum
+Solve for x.

@@ -1,0 +1,20 @@
+Reactions such as these are said to go to completion.
+These processes are often referred to as non-reversible reactions .
+Reactions which go to completion tend to produce one of three types of products: (1) an insoluble precipitate, (2) a gas, (3) a molecular compound such as water.
+Examples of these reactions are shown below.
+Formation of a precipitate
+\text{AgNO}_3(aq)+\text{NaCl}(aq) \rightarrow \text{NaNO}_3(aq)+\text{AgCl}(s)
+Formation of a gas
+\text{Mg}(s)+2\text{HCl}(aq) \rightarrow \text{MgCl}_2(aq)+\text{H}_2(g)
+Formation of water
+\text{HCl}(aq)+\text{NaOH}(aq) \rightarrow \text{NaCl}(aq)+\text{H}_2\text{O}(l)
+If we look at these reactions in more detail, we can see some things that are not apparent the way the equations are written.
+Looking at the first equation, we do not see a double arrow between reactants and products because the reaction is considered essentially irreversible.
+However if we consider the net ionic equation \text{Ag}^+ +\text{Cl}^- \rightarrow \text{AgCl} , then the reverse reaction would be \text{AgCl} \rightarrow \text{Ag}^+ + \text{Cl}^- .
+The  K_{eq} for the reverse reaction is 1.8 × 10 -10 .
+For all practical purposes, the reaction goes to completion.
+Formation of a gas in an open system is essentially irreversible since the gas escapes into the atmosphere.
+Looking at the activity series we see that Mg is much higher in the series than hydrogen.
+So the reaction would be expected to go strongly in the indicated direction.
+The third reaction gets a little more complicated.
+In solution, the reactants HCl and NaOH will be ionize completely as does the NaCl product.

@@ -1,0 +1,20 @@
+Why does the pressure drop when you increase the volume?
+What defines the pressure of a gas?
+Why does an increase in the number of molecules increase the pressure?
+Why does an increase in temperature increase the pressure?
+rigid container:
+One that is incapable of expanding or contracting.
+State Boyle’s Law.
+Use Boyle’s Law to calculate volume-pressure relationships.
+Weather balloons expand and eventually burst as they travel to higher altitudes
+How important is it to check the weather?
+Each day, hundreds of weather balloons are launched.
+Made of a synthetic rubber and carrying a box of instruments, the helium-filled balloon rises up into the sky.
+As it gains altitude, the atmospheric pressure becomes less and the balloon expands.
+At some point the balloon bursts due to the expansion, the instruments drop (aided by a parachute) to be retrieved and studied for information about the weather.
+Robert Boyle (1627-1691), an English chemist, is widely considered to be one of the founders of the modern experimental science of chemistry.
+He discovered that doubling the pressure of an enclosed sample of gas while keeping its temperature constant caused the volume of the gas to be reduced by half.
+Boyle’s law states that the volume of a given mass of gas varies inversely with the pressure when the temperature is kept constant.
+An inverse relationship is described in this way.
+As one variable increases in value, the other variable decreases.
+Physically, what is happening?

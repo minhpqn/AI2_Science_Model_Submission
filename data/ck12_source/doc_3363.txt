@@ -1,0 +1,20 @@
+A solenoid is a coil of wire with electric current flowing through it.
+You can see a solenoid in the Figure below .
+Current flowing through the coil produces a magnetic field that has north and south poles.
+You can see an actual solenoid with a compass showing its magnetic north pole at this URL:  .
+Click on the image above for more content
+Schematic of a solenoid
+Q:
+How is a solenoid like a bar magnet?
+A:
+Like a bar magnet, a solenoid has north and south magnetic poles and is surrounded by a magnetic field.
+Strength of a Solenoid
+Any wire with current flowing through it has a magnetic field.
+However, the magnetic field around a coiled wire is stronger than the magnetic field around a straight wire.
+That’s because each turn of the wire in the coil has its own magnetic field.
+Adding more turns to the coil of wire increases the strength of the field.
+Increasing the amount of current flowing through the coil also increases the strength of the magnetic field.
+Uses of Solenoids
+A solenoid is generally used to convert electromagnetic energy into motion.
+Solenoids are often used in devices that need a sudden burst of power to move a specific part.
+In addition to paintball markers, you can find solenoids in machines ranging from motor vehicles to electric dishwashers.

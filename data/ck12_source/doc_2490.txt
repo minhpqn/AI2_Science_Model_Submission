@@ -1,0 +1,20 @@
+The radius of an atom is well under 1 nanometer, which is one-billionth of a meter.
+If a size that small is hard to imagine, consider this: trillions of atoms would fit inside the period at the end of this sentence.
+Although all atoms are very small, elements vary in the size of their atoms.
+The Figure below compares the sizes of atoms of more than 40 different elements.
+The elements in the figure are represented by chemical symbols, such as H for hydrogen and He for helium.
+Of course, real atoms are much smaller than the circles representing them in the Figure below .
+Atomic size chart
+Q:
+Which element in the Figure above has the biggest atoms?
+A:
+The element in the figure with the biggest atoms is cesium (Cs).
+Although atoms are very tiny, they consist of even smaller particles.
+Three main types of particles that make up all atoms are:
+protons, which have a positive electric charge.
+electrons, which have a negative electric charge.
+neutrons, which are neutral in electric charge.
+The model in the Figure below shows how these particles are arranged in an atom.
+The particular atom represented by the model is helium, but the particles of all atoms are arranged in the same way.
+At the center of the atom is a dense area called the nucleus, where all the protons and neutrons are clustered closely together.
+The electrons constantly move around the nucleus.

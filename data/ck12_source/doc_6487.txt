@@ -1,0 +1,20 @@
+Ouch, that hurts
+Alessandro Volta developed the first “voltaic cell” in 1800 (pictured above).
+This battery consisted of alternating disks of zinc and silver with pieces of cardboard soaked in brine separating the disks.
+Since there were no voltmeters at the time (and no idea that the electric current was due to electron flow), Volta had to rely on another measure of battery strength: the amount of shock produced (it’s never a good idea to test things on yourself).
+He found that the intensity of the shock increased with the number of metal plates in the system.
+Devices with twenty plates produced a shock that was quite painful.
+It’s a good thing we have voltmeters today to measure electric current instead of the “stick your finger on this and tell me what you feel” method.
+Two variations on the basic voltaic cell are the dry cell and the lead storage battery.
+Many common batteries, such as those used in a flashlight or remote control, are voltaic dry cells.
+These batteries are called dry cells because the electrolyte is a paste.
+They are relatively inexpensive, but do not last a long time and are not rechargeable.
+Structure of a zinc carbon dry cell
+A zinc-carbon dry cell.
+In the zinc-carbon dry cell, the anode is a zinc container, while the cathode is a carbon rod through the center of the cell.
+The paste is made of manganese(IV) oxide (MnO 2 ), ammonium chloride (NH 4 Cl), and zinc chloride (ZnCl 2 ) in water.
+The half-reactions for this dry cell are:
+Anode (oxidation): \text{Zn}(s) \rightarrow \text{Zn}^{2+} + 2e^-
+Cathode (reduction): 2\text{MnO}_2(s) + 2{\text{NH}_4}^-(aq)+2e^- \rightarrow \text{Mn}_2\text{O}_3(s) + 2\text{NH}_3(aq) + \text{H}_2\text{O}(l)
+The paste prevents the contents of the dry cell from freely mixing, so a salt bridge is not needed.
+The carbon rod is a conductor only and does not undergo reduction.

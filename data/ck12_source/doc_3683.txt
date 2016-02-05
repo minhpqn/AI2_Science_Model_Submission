@@ -1,0 +1,20 @@
+Genes that are located on the same chromosome are called linked genes .
+Alleles for these genes tend to segregate together during meiosis, unless they are separated by crossing-over.
+Crossing-over occurs when two homologous chromosomes exchange genetic material during meiosis I.
+The closer together two genes are on a chromosome, the less likely their alleles will be separated by crossing-over.
+At the following link, you can watch an animation showing how genes on the same chromosome may be separated by crossing-over:
+Linkage explains why certain characteristics are frequently inherited together.
+For example, genes for hair color and eye color are linked, so certain hair and eye colors tend to be inherited together, such as blonde hair with blue eyes and brown hair with brown eyes.
+What other human traits seem to occur together?
+Do you think they might be controlled by linked genes?
+Genes located on the sex chromosomes are called sex-linked genes .
+Most sex-linked genes are on the X chromosome, because the Y chromosome has relatively few genes.
+Strictly speaking, genes on the X chromosome are X-linked genes , but the term sex-linked is often used to refer to them.
+Sex-linked traits are discussed at
+Click on the image above for more content
+Linkage can be assessed by determining how often crossing-over occurs between two genes on the same chromosome.
+Genes on different (nonhomologous) chromosomes are not linked.
+They assort independently during meiosis, so they have a 50 percent chance of ending up in different gametes.
+If genes show up in different gametes less than 50 percent of the time (that is, they tend to be inherited together), they are assumed to be on the same (homologous) chromosome.
+They may be separated by crossing-over, but this is likely to occur less than 50 percent of the time.
+The lower the frequency of crossing-over, the closer together on the same chromosome the genes are presumed to be.

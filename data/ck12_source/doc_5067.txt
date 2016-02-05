@@ -1,0 +1,20 @@
+Mitochondria, organelles specialized to carry out aerobic respiration, contain an inner membrane folded into cristae, which form two separate compartments: the inner membrane space and the matrix.
+The Krebs Cycle takes place in the matrix.
+The electron transport chain is embedded in the inner membrane and uses both compartments to make ATP by chemiosmosis .
+Mitochondria have their own DNA and ribosomes, resembling those of prokaryotic organisms.
+The double membrane nature of the mitochondria results in five distinct compartments, each with an important role in cellular respiration.
+These compartments are:
+the outer mitochondrial membrane,
+the intermembrane space (the space between the outer and inner membranes),
+the inner mitochondrial membrane,
+the cristae (formed by infoldings of the inner membrane), and
+the matrix (space within the inner membrane).
+The roles of these compartments in cellular respiration include:
+the outer mitochondrial membrane: allows for the establishment of the inter membrane space,
+the intermembrane space: holds protons that are pumped out of the matrix during electron transport,
+the inner mitochondrial membrane: organizes the electron transport chain and holds ATP synthase ,
+the cristae: expand the surface area of the inner mitochondrial membrane, enhancing its ability to produce ATP, and
+the matrix: site of ATP synthesis and the location of the Krebs cycle.
+ATP synthase :
+Ion channel and enzyme complex; chemically bonds a phosphate group to ADP, producing ATP as H + ions flow through the ion channel.
+chemiosmosis :

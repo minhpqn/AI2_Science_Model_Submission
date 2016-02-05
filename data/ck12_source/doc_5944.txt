@@ -1,0 +1,20 @@
+How about in a dozen?  In that case a dozen is 12 so 12 × 2 = 24 hydrogen atoms in a dozen water molecules.  To get the answers, (4 and 24) you had to multiply the given number of molecules by two atoms of hydrogen per molecule.  So to find the number of hydrogen atoms in a mole of water molecules, the problem could be solved using conversion factors.
+1 \ \text{mol}\ \text{H}_2\text{O} \times \frac{6.02 \times 10^{23}\ \text{molecules}\ \text{H}_2\text{O}}{1 \ \text{mol} \ \text{H}_2\text{O}} \times \frac{2 \ \text{atoms H}}{1 \ \text{molecule}\ \text{H}_2\text{O}}=1.20 \times 10^{24} \ \text{atoms H}
+The first conversion factor converts from moles of particles to the number of particles.
+The second conversion factor reflects the number of atoms contained within each molecule.
+Two water molecules
+Two water molecules contain 4 hydrogen atoms and 2 oxygen atoms.
+A mole of water molecules contains 2 moles of hydrogen atoms and 1 mole of oxygen atoms.
+Sample Problem 2:
+Atoms, Molecules, and Moles
+Sulfuric acid has the chemical formula H 2 SO 4 .  A certain quantity of sulfuric acid contains 4.89 × 10 25 atoms of oxygen.  How many moles of sulfuric acid is the sample?
+Step 1:
+List the known quantities and plan the problem.
+4.89 × 10 25 = O atoms
+1 mole = 6.02 × 10 23 molecules H 2 SO 4
+mol of H 2 SO 4 molecules
+Two conversion factors will be used.  First, convert atoms of oxygen to molecules of sulfuric acid.  Then, convert molecules of sulfuric acid to moles of sulfuric acid.
+Step 2:
+Calculate.
+4.89 \times 10^{25}\ \text{atoms O}\ \times \frac{1 \ \text{molecule}\ \text{H}_2\text{SO}_4}{4 \ \text{atoms O}} \times \frac{1 \ \text{mol}\ \text{H}_2\text{SO}_4}{6.02 \times 10^{23}\ \text{molecules}\ \text{H}_2\text{SO}4}=20.3 \ \text{mol}\ \text{H}_2\text{SO}_4
+Step 3:

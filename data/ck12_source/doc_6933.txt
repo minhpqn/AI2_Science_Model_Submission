@@ -1,0 +1,20 @@
+P_{10\Omega}=\frac{V^2_{10\Omega}}{R_{10}\Omega}=\frac{(20V)^2}{10\Omega}=40W
+^* Note:
+If you add up the power dissipated by each resistor, it equals the total power outputted, as it should–Energy is always conserved.
+Question:
+How much current is flowing through each resistor?
+Answer:
+Use Ohm’s law to calculate the current for each resistor.
+I_{90\Omega}=\frac{V_{90\Omega}}{R_{90\Omega}}=\frac{20V}{90\Omega}=0.22A \qquad I_{10\Omega}=\frac{V_{10\Omega}}{R_{10\Omega}}=\frac{20V}{10\Omega}=2.0A
+Notice that the 10\Omega resistor has the most current going through it.
+It has the least resistance to electricity so this makes sense.
+^* Note:
+If you add up the currents of the individual ‘rivers’ you get the total current of the of the circuit, as you should.
+Watch this Explanation
+Click on the image above for more content
+Three 82\ \Omega resistors and one 12\ \Omega resistor are wired in parallel with a 9\;\mathrm{V} battery.
+Draw the schematic diagram.
+What is the total resistance of the circuit?
+What does the ammeter read and which resistor is dissipating the most power?
+Given three resistors, 200\ \Omega, 300\ \Omega and 600\ \Omega and a 120\;\mathrm{V} power source connect them in a way to heat a container of water as rapidly as possible.
+Show the circuit diagram

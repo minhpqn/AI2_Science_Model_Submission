@@ -1,0 +1,20 @@
+We take advantage of the freezing point depression of salt in water by putting salt on ice to melt it.
+That’s why the truck in the Figure below is spreading salt on an icy road.
+This truck is spreading salt to unfreeze the roads
+Did you ever see anyone add a fluid to their car radiator?
+The fluid might be antifreeze, like in the Figure below .
+Antifreeze lowers the temperature of the water in the car radiator so it won’t freeze, even when the temperature falls far below 0 °C.
+For example, a 50 percent antifreeze solution won’t freeze unless the temperature goes below -37 °C.
+Antifreeze lowers the freezing temperature of the water in car radiators
+Boiling Point Elevation
+Antifreeze could also be called “antiboil” because it also raises the boiling point of the water in a car radiator.
+Hot weather combined with a hot engine can easily raise the temperature of the water in the radiator above 100 °C, which is the boiling point of pure water.
+If the water boils, it could cause the engine to overheat and become seriously damaged.
+However, if antifreeze has been added to the water, the boiling point is much higher.
+For example a 50 percent antifreeze solution has a boiling point of 129 °C.
+Unless the water gets hotter than this, it won’t boil and ruin the engine.
+When a solute dissolves in a solvent, it changes the physical properties of the solvent.
+A solute generally lowers the freezing point of a solvent, which is called freezing point depression.
+For example, spreading salt on an icy road melts the ice.
+A solute generally raises the boiling point of a solvent, which is called boiling point elevation.
+For example, adding antifreeze to the water in a car radiator prevents the water from boiling.

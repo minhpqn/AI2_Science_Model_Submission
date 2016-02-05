@@ -1,0 +1,20 @@
+The image is 3 times as far from the mirror as the object so it will be 3 times as large, or 4.5 cm tall.
+Objects Between the Center Point and the Focal Point
+Regardless of where the object is, its image's size and location can be determined using the equations given earlier in this section.
+Nonetheless, patterns emerge in these characteristics.
+We already know that the image of an object outside the center point is closer and smaller than the object.
+When an object is between the center point and the focal point, the image is larger and closer.
+These characteristics can also be determined by drawing the rays coming off of the object; this is called a  ray diagram.
+Image formed when the object is between the center point and the focal point
+Look again at the image above that was shown earlier in the lesson.
+If you consider the smaller arrow to be the object and follow the rays backward, the ray diagram makes it clear that if an object is located between the center point and focal point, the image is inverted, larger, and at a greater distance.
+Example Problem:  If an 3.00 cm tall object is held 15.00 cm away from a concave mirror with a radius of 20.00 cm, describe its image.
+Solution:  To solve this problem, we must determine the height of the image and the distance from the mirror to the image.
+To find the distance, use the mirror equation:
+Next determine the height of the image:
+Using this equation, we can determine that the height of the image is 6 cm.
+This image is a real image , which means that the rays of light are real rays.
+These are represented in the ray diagram as solid lines, while virtual rays are dotted lines.
+Objects Inside the Focal Point
+Consider what happens when the object for a concave mirror is placed between the focal point and the mirror.
+This situation is sketched at below.

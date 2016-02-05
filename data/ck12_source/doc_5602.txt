@@ -1,0 +1,20 @@
+Step 2:
+Calculate
+1 \ \text{d} \times \frac{24 \ \text{h}}{1 \ \text{d}} \times \frac{60 \ \text{min}}{1 \ \text{h}} \times \frac{60 \ \text{s}}{1 \ \text{min}}=86, 400 \ \text{s}
+Applying the first conversion factor, the “d” unit cancels and 1 × 24 = 24.
+Applying the second conversion factor, the “h” unit cancels and 24 × 60 = 1440.
+Applying the third conversion factor, the “min” unit cancels and 1440 × 60 = 86,400.
+The unit that remains is “s” for seconds.
+Step 3:
+Think about your result.
+Seconds is a much smaller unit of time than a day, so it makes sense that there are a very large number of seconds in one day.
+A conversion factor is a ratio of equivalent measurements.
+Dimensional analysis is a technique that uses the units (dimensions) of the measurement in order to correctly solve problems.
+Use the link below to answer the following questions:
+One of These Things is Not Like the Other at
+What do we always need to express measurements correctly?
+What does dimensional analysis tell you?
+How do you know that you have set the problem up incorrectly?
+How do you know that you have set the problem up correctly?
+What is a conversion factor?
+What is dimensional analysis?

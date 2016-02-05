@@ -1,0 +1,20 @@
+Energy is conserved.
+Thus one can get a large force for a small distance equal to a small force for a large distance.
+Mechanical advantage equals the distance of effort divided by the distance the object moves.
+It is also equal to the output force divided by the input force.
+You need to push a 500 kg grand piano onto a stage that is 3 m above the ground.
+If you can only apply a maximum force of 1000 N, what is the minimum distance from the stage that you should begin building your ramp?
+We should start this problem by determining the mechanical advantage required to move the piano based on the weight of the piano and the force you can apply.
+We'll define F_{out} to be the force it would take to lift the piano straight up and F_{in} to be the force you can apply.
+MA&=\frac{F_{out}}{F_{in}}\\\MA&=\frac{500\;\text{kg} * 9.8\;\text{m/s}^2}{1000\;\text{N}}\\\MA&=\frac{4900\;\text{N}}{1000\;\text{N}}\\\MA&=4.9\\\
+Now we can use this to find how long the ramp needs to be.
+Now we can just use the Pythagorean theorem to determine how far away from the stage the ramp should start.
+Watch this Explanation
+Click on the image above for more content
+A crowbar is a very handy tool to get out tough nails, demolition of a wall or breaking into or out of jail.
+It can be used from either end.
+The man shown is prying out a board.
+He is applying 30 N of force, study the picture to see how he is using it and which dimensions should be used.
+What is the Mechanical Advantage of this crowbar, shown above with its dimensions?
+How much force is being applied to the wood plank?
+A mover loads a 100-kg box into the back of a moving truck by pushing it up a ramp.

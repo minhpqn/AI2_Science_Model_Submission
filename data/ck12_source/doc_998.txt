@@ -1,0 +1,20 @@
+100 m/s is so slow compared to the speed of light, that it makes no difference in the time dilation formula.
+In order for any noticeable effect to occur, the relative velocity of the reference frames must be a significant fraction of the speed of light.
+Example Problem:
+A muon has a rest lifetime of 2.2 \times 10^{-6} \ \text{s} .
+If it travels with a speed of 0.95c relative to you, how far will you see it travel before it decays?
+Muon’s lifetime according to your reference frame
+\Delta T=\frac{\Delta t}{\sqrt{1-\frac{v^2}{c^2}}}=\frac{2.2 \times 10^{-6} \ \text{s}}{\sqrt{1-\frac{(0.95 c)^2}{c^2}}}=\frac{2.2 \times 10^{-6} \ \text{s}}{\sqrt{1-0.90}}=7.0 \times 10^{-6} \ \text{s}
+\text{distance}=(3.0 \times 10^8 \ \text{m/s})(0.95)(7.0 \times 10^{-6} \ \text{s}) = 2.0 \times 10^3 \ \text{meters }
+The Twin Paradox
+Shortly after Einstein proposed the special theory of relativity, an apparent paradox was pointed out.
+This paradox involved a pair of twins, one of whom traveled away from the earth and returned at very high speeds.
+The other twin remained at home on earth.
+Since one twin was traveling at very high speed, time for him was running slower than for the twin who remained on earth.
+Thus the traveling twin would return home younger than the twin who remained on earth.
+The paradox comes about when each twin thinks that their frame of reference was at rest and the other twin’s frame of reference was moving at high speed.
+Therefore, each twin would find the other one to be younger.
+The resolution lies in the fact that the traveling twin must accelerate at the beginning and end of the trip and this acceleration guarantees that this twin is traveling and his clock is actually running slower.
+The traveling twin will return home younger than his twin brother.
+This result was tested in 1971 with a pair of very precise clocks.
+One clock was sent around the world in high speed jet planes while the matched clock remained at rest.

@@ -1,0 +1,20 @@
+One of these red lines is one-half wavelength longer than the other, causing the two waves to hit the wall out of phase  and undergo destructive interference.
+A dark bank appears at this position.
+Diagram of single slit interference
+Just as in double slit interference, a pair of similar triangles can be constructed in the interference pattern.
+The pertinent values from these triangles are the width of the slit, w , the wavelength, λ, the distance from the central bright spot to the first dark band, x , and the distance from the center of the slit to back wall, L .
+The relationship of these four values is
+\frac{\lambda}{w}=\frac{x}{L} \ or \ \lambda=\frac{wx}{L} .
+Triangle formed in single slit interference
+Example Problem:
+Monochromatic light of wavelength 605 nm falls on a slit of width 0.095 mm.
+The slit is located 85 cm from a screen.
+How far is the center of the central bright band to the first dark band?
+Solution: x=\frac{\lambda L}{w}=\frac{(6.05 \times 10^{-7} \ m)(0.85 \ m)}{(9.5 \times 10^{-5} \ m)}=0.0054 \ m
+Interference patterns can also be produced by single slits.
+In the case of a single slit, the particles of medium at both corners of the slit act as point sources, and produce circular waves from both edges.
+The wavelength can be determined by this equation: \frac{\lambda}{w}=\frac{x}{L} \ or \ \lambda=\frac{wx}{L} .
+Click on the image above for more content
+Follow up question:
+The interference pattern appears as the slit becomes ___________ (wider, thinner).
+The same set up is used for two different single slit diffraction experiments.

@@ -1,0 +1,20 @@
+What net force F_{net} has been applied to the tractor?
+What is the normal force, F_N on the tractor?
+What is the force of gravity F_g on the tractor?
+What force has been applied to the tractor so that it moves uphill?
+What is the source of this force?
+A heavy box (mass 25 \;\mathrm{kg} ) is dragged along the floor by a kid at a  30^\circ angle to the horizontal with a force of 80 \;\mathrm{N} (which is the maximum force the kid can apply).
+Draw the free body diagram.
+What is the normal force F_N ?
+Does the normal force decrease or increase as the angle of pull increases?
+Explain.
+Assuming no friction, what is the acceleration of the box?
+Assuming it begins at rest, what is its speed after ten seconds?
+Is it possible for the kid to lift the box by pulling straight up on the rope?
+In the absence of friction, what is the net force in the x- direction if the kid pulls at a 30^\circ angle?
+In the absence of friction, what is the net force in the x- direction if the kid pulls at a 45^\circ angle?
+In the absence of friction, what is the net force in the x- direction if the kid pulls at a  60^\circ angle?
+The kid pulls the box at constant velocity at an angle of 30^\circ .
+What is the coefficient of kinetic friction \mu_K between the box and the floor?
+The kid pulls the box at an angle of 30^\circ , producing an acceleration of 2 \;\mathrm{m/s}^2 .
+What is the coefficient of kinetic friction \mu_{K} between the box and the floor?

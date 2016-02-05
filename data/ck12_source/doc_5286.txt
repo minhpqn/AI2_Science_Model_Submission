@@ -1,0 +1,20 @@
+Is it possible for both alleles to be dominant, or neither to be completely dominant?
+The answer to both of these questions is yes.
+Codominance is when two alleles are both expressed in the heterozygous individual; that is, they both affect the phenotype in separate and distinguishable ways ( Figure below ).
+The A, B alleles of the ABO blood group system are a classic example, and these have been discussed in the Non-Mendelian Inheritance concept.
+The A and B alleles are codominant with each other.
+When a person has both an A and a B allele, the person has type AB blood.
+When two persons with AB blood type have children, the children can be type A, type B, or type AB.
+There is a 1A:2AB:1B phenotype ratio instead of the 3:1 phenotype ratio found when one allele is dominant and the other is recessive.
+Bloodtype as Determined by Multiple Alleles
+I A I A Type A
+I A I B Type AB
+I A i Type A
+I A I B Type AB
+I B I B Type B
+I B i Type B
+iI A Type A
+iI B Type B
+ii Type O
+Codominant Inheritance.
+The A and B alleles are codominant.

@@ -1,0 +1,20 @@
+1 mol = 22.4 L
+density = ? g/L
+Molar mass divided by molar volume yields the gas density at STP.
+Step 2:
+Calculate.
+\frac{28.02 \ \text{g}}{1 \ \text{mol}} \times \frac{1 \ \text{mol}}{22.4 \ \text{L}}=1.25 \ \text{g} / \text{L}
+When set up with a conversion factor, the mol unit cancels, leaving g/L as the unit in the result.
+Step 3:
+Think about your result.
+The molar mass of nitrogen is slightly larger than molar volume, so the density is slightly greater than 1 g/L.
+Alternatively, the molar mass of a gas can be determined if the density of the gas at STP is known.
+Sample Problem Two:
+Molar Mass from Gas Density
+What is the molar mass of a gas whose density is 0.761 g/L at STP?
+Step 1:
+List the known quantities and plan the problem.
+N 2 = 28.02 g/mol
+1 mol = 22.4 L
+molar mass = ? g/L
+Molar mass is equal to density multiplied by molar volume.

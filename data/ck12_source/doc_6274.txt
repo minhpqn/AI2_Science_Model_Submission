@@ -1,0 +1,20 @@
+Heating curves show the phase changes that a substance undergoes as heat is continuously absorbed.
+Heating curves show the phase changes that a substance undergoes as heat is continuously absorbed.
+Heating curve of water.
+The specific heat of a substance allows us to calculate the heat absorbed or released as the temperature of the substance changes.
+It is possible to combine that type of problem with a change of state to solve a problem involving multiple steps.
+The Figure above shows ice at -30°C being converted in a five-step process to gaseous water (steam) at 140°C.
+It is now possible to calculate the heat absorbed during that entire process.
+The process and the required calculation is summarized below.
+Ice is heated from -30°C to 0°C.
+The heat absorbed is calculated by using the specific heat of ice and the equation \Delta H = c_p \times m \times \Delta T .
+Ice is melted at 0°C.
+The heat absorbed is calculated by multiplying the moles of ice by the molar heat of fusion.
+Water at 0°C is heated to 100°C.
+The heat absorbed is calculated by using the specific heat of water and the equation \Delta H = c_p \times m \times \Delta T .
+Water is vaporized to steam at 100°C.
+The heat absorbed is calculated by multiplying the moles of water by the molar heat of vaporization.
+Steam is heated from 100°C to 140°C.
+The heat absorbed is calculated by using the specific heat of steam and the equation \Delta H = c_p \times m \times \Delta T .
+Sample Problem:
+Multi-Step Problems using a Heating Curve

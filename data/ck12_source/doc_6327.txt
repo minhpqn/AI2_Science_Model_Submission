@@ -1,0 +1,20 @@
+Calculate the equilibrium constant at this temperature.
+Step 1:
+List the known values and plan the problem .
+[NO] = 0.0542 M
+[O 2 ] = 0.127 M
+[NO 2 ] = 15.5 M
+The equilibrium expression is first written according to the general form in the text.
+The equilibrium values are substituted into the expression and the value calculated.
+Step 2:
+Solve .
+K_{eq}=\frac{\left [\text{NO}_2 \right ]^2}{\left [\text{NO} \right ]^2 \left [\text{O}_2 \right ]}
+Substituting in the concentrations at equilibrium:
+K_{eq}=\frac{\left ( 15.5\right )^2}{\left (0.0542 \right )^2 \left (0.127\right )}=6.44 \times 10^5
+Step 3:
+Think about your result .
+The equilibrium concentration of the product NO 2 is significantly higher than the concentrations of the reactants NO and O 2 .
+As a result, the  K_{eq} value is much larger than 1, an indication that the product is favored at equilibrium.
+The equilibrium expression only shows those substances whose concentrations are variable during the reaction.
+A pure solid or a pure liquid does not have a concentration that will vary during a reaction.
+Therefore, an equilibrium expression omits pure solids and liquids and only shows the concentrations of gases and aqueous solutions.

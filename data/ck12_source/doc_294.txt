@@ -1,0 +1,20 @@
+Potential and kinetic energy practice problems with solutions:
+A 90.0 kg man climbs hand over hand up a rope to a height of 9.47 m.  How much potential energy does he have at the top?
+A 50.0 kg shell was fired from a cannon at earth’s surface to a maximum height of 400. m.
+What is the potential energy at maximum height?
+It then fell to a height of 100. m.
+What was the loss of PE as it fell?
+A person weighing 645 N climbs up a ladder to a height of 4.55 m.
+What work does the person do?
+What is the increase in gravitational potential energy?
+Where does the energy come from to cause this increase in PE
+potential energy:
+Otherwise known as stored energy, is the ability of a system to do work due to its position or internal structure.
+For example, gravitational potential energy is a stored energy determined by an object's position in a gravitational field while elastic potential energy is the energy stored in a spring.
+Conservation of Energy
+State the law of conservation of energy.
+Describe a closed system.
+Use the law of conservation of energy to solve problems.
+Energy is conserved during a roller coaster ride
+There are many energy conversions between potential and kinetic energy as the cars travel around this double looping roller coaster.
+Throughout the ride, however, there will always be the same total amount of energy.

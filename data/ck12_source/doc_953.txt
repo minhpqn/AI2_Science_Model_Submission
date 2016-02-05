@@ -1,0 +1,20 @@
+U-235 is the only naturally occurring fissile isotope, and it constitutes less than 1% of naturally occurring uranium.
+A fissile substance is a substance capable of sustaining a chain reaction of nuclear fission.
+It has been projected that the world's supply of U-235 will be exhausted in less than 200 years.
+It is possible, however, to convert U-238 to a fissionable isotope that will function as a fuel for nuclear reactors.
+The fissionable isotope is plutonium-239 and is produced by the following series of reactions:
+{^{238}_{\phantom{0}92}\text{U}}+{^1_0n} \rightarrow {^{239}_{\phantom{0}92}\text{U}} \rightarrow {^{\phantom{-}0}_{-1}e} + {^{239}_{\phantom{0}93}\text{Np}} \rightarrow {^{\phantom{-}0}_{-1}e} + {^{239}_{\phantom{0}94}\text{Pu}}
+The final product from this series of reactions is plutonium-239, which has a half-life of 24,000 years and is another nuclear reactor fuel.
+This series of reactions can be made to occur inside an operating nuclear reactor by replacing some of the control rods with rods of U-238.
+As the nuclear decay process proceeds inside the reactor, it produces more fuel than it uses.
+It would take about 20 such breeder reactors to produce enough fuel to operate one additional reactor.
+The use of breeder reactors would extend the fuel supply a hundred fold.
+The problem with breeder reactors, however, is that plutonium is an extremely deadly poison.
+Furthermore, unlike ordinary fission reactors, it is possible for out-of-control breeder reactors to explode.
+None of the civilian nuclear power plants in the U.S. are breeder reactors.
+A nuclear reactor is a device in which a nuclear chain reaction is carried out at a controlled rate.
+The nuclear reaction boils water into steam, the steam is used to spin a turbine, and the turbine turns an electrical generator.
+It is the uranium-235 that is fissionable (will undergo fission) and therefore, this is the uranium isotope than can be used for fuel in a nuclear reactor.
+Uranium in which the U-235 content is more than 1% is called enriched uranium and can be used as fuel in a fission reactor.
+Once the supply of U-235 is acquired, it is placed in a series of long cylindrical tubes called fuel rods.
+These fuel cylinders are bundled together with control rods made of neutron-absorbing material.

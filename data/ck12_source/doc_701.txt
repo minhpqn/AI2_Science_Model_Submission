@@ -1,0 +1,20 @@
+If the object distance is 1000.0 cm, find the image distance and the magnification.
+Solution:  \frac{1}{d_o}+\frac{1}{d_i}=\frac{1}{f} so \frac{1}{1000.}+\frac{1}{x}=\frac{1}{-20.0}
+Multiplying both sides by 1000x  yields x + 1000 = -50x  and 51x = -1000  and x = -19.6 \text{ cm} .
+Since the image distance is negative, it means the image is behind the mirror and is virtual.
+The image will be upright.
+m=\frac{-d_i}{d_o}=\frac{-(-19.6)}{1000}=0.0196 \ or \ \frac{1}{51}
+The image is reduced by a factor of 51.
+For a convex mirror, if the object is at infinity, the image will be a dot on the focal point.
+As the object moves from infinity toward the mirror, the image moves along the principal axis toward the mirror.
+When the object right next to the mirror, the image will be right next to the mirror on the other side.
+All ray diagrams for convex mirrors look essentially like the image below, with the placement of the image somewhere between the mirror and the focal point.
+Image formed by a convex mirror
+The ray tracing for convex mirrors follow this general sketch.
+Two rays leave the tip of the object, one approaches the mirror parallel and reflects as if it came from the focal point.
+The top blue dotted line shows this imaginary route.
+The second ray leaves the object tip and approaches the mirror toward the focal point but reflects parallel at the mirror.
+The green solid line shows the reflected ray and the dotted green line shows the imaginary route behind the mirror.
+Where the two dotted lines intersect is the tip of the image.
+All images in convex mirrors are upright, virtual, and diminished.
+As the object moves toward the mirror, the image also moves toward the mirror and increases in size.

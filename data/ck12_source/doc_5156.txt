@@ -1,0 +1,20 @@
+One type of gene, a pro to-oncogene, is normally a transcription factor.
+When transcription does not occur properly, detrimental effects can result.
+Regulation of Gene Expression in Cancer
+Carcinogenesis is the process by which normal cells are transformed into cancer cells.
+The process is also known as oncogenesis or tumorigenesis and it depends on both the activation of oncogenes and deactivation of tumor suppressor genes .
+Proto-oncogenes, the non-cancerous normal version of an oncogene, can be a transcription factor like c-fos, c-jun and c-myc, or a gene whose product is involved in signal transduction, leading to altered gene expression.
+When mutations cause the regulation of this process to be disturbed, cell proliferation can be enhanced leading to tumorigenesis.
+At least two separate mutations are necessary to develop cancer.
+For example, a mutation in a proto-oncogene would not necessarily lead to cancer, as normally functioning tumor suppressor genes would counteract the effects of the oncogene.
+It is the second mutation in the tumor suppressor gene that could lead to uncontrolled cell growth and possibly cancer.
+Gene expression, signal transduction, the cell cycle and oncogenes seem to have an interconnected relationship with each other inside the cell.
+Both oncogenes and tumor suppressor genes play an important role in gene regulation and cell proliferation ( Figure below ).
+As stated above, numerous oncogenes are involved in gene expression.
+Signal transduction pathways are filled with proteins involved in ultimately altering gene expression (see the Cell Communication:
+Signal Transduction (Advanced) concept).
+Anytime one of the involved proteins is altered, such as when its gene is mutated, gene expression can be altered.
+How Cancer Develops.
+This flow chart shows how a series of mutations in tumor-suppressor genes and proto-oncogenes leads to cancer.
+The products of proto-oncogenes are required for normal growth, repair and homeostasis.
+However, when these genes are mutated, they turn into oncogenes and play a role in the development of cancer.

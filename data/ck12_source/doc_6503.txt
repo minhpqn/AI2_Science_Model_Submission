@@ -1,0 +1,20 @@
+Emission of an alpha particle from the nucleus.
+Beta (β) decay is a more complicated process.
+Unlike the α-emission, which simply expels a particle, the β-emission involves the transformation of a neutron in the nucleus to a proton and an electron.
+The electron is then ejected from the nucleus.
+In the process, the atomic number increases by one while the atomic weight stays the same.
+As is the case with α-emissions, β-emissions are often accompanied by γ-radiation.
+Example of beta emission
+A typical beta decay process involves carbon-14, often used in radioactive dating techniques.
+The reaction forms nitrogen-14 and an electron:
+{^{14}_{\phantom{0}6}\text{C}} \rightarrow {^{14}_{\phantom{0}7}\text{N}} + {^{\phantom{-}0}_{-1}e}
+Again, the beta emission is usually simply indicated by the Greek letter β; memorization of the process is necessary in order to follow nuclear calculations in which the Greek letter β without further notation.
+Gamma (γ) radiation is simply energy.
+It may be released by itself or more commonly in association with other radiation events.
+There is no change of atomic number or atomic weight in a simple γ-emission.
+Often, an isotope may produce γ-radiation as a result of a transition in a metastable isotope.
+This type of isotope may just “settle,” with a shifting of particles in the nucleus.
+The composition of the atom is not altered, but the nucleus could be considered more “comfortable” after the shift.
+This shift increases the stability of the isotope from the energetically unstable (or “metastable”) isotope to a more stable form of the nucleus.
+A positron is a positive electron (a form of antimatter).
+This rare type of emission occurs when a proton is converted to a neutron and a positron in the nucleus, with ejection of the positron.

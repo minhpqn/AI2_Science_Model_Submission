@@ -1,0 +1,20 @@
+By understanding the way temperature changes with altitude, we can learn a lot about how the atmosphere works.
+Warm Air Rises
+This is really important:
+Warm air rises.
+Why does warm air rise ( Figure below )?
+Gas molecules are able to move freely.
+Gas molecules move more at higher temperatures.
+They can take up as much space as is available.
+When gas molecules are cool, they are sluggish.
+They take up less space.
+With the same number of molecules in less space, both air density and air pressure are higher.
+When gas molecules are warm, they move vigorously.
+They take up more space.
+Air density and air pressure are lower.
+Warmer, lighter air is more buoyant than the cooler air above it.
+So the warm air rises.
+The cooler air is denser than the air beneath it.
+So it sinks down.
+This is convection: warm air rises, and cool air sinks.
+Warm fluids can undergo convection as well.

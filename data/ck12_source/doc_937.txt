@@ -1,0 +1,20 @@
+Define atomic number.
+Define mass number.
+State the charge and mass of a nucleus.
+Given the atomic and mass numbers of a nuclide, find the numbers of protons, electrons, and neutrons.
+Illustration of an atom
+The nuclei of atoms contain protons and neutrons while electron clouds surrounding the nuclei contain  the electrons .
+The positively charged protons are very close together in an atomic nucleus and the repulsive force of the like charges is tremendous.
+The strong force is a type of interaction that binds together protons and neutrons.
+Without the strong force, the positively charged protons would blow the nucleus apart.
+Until 1932, the positively charged nucleus  of an atom was known to exist, but it was believed to contain only protons.
+The nucleus was known to be surrounded by enough negatively charged electrons to make the atom electrically neutral.
+Most of the atom was empty space, with its mass concentrated in the tiny nucleus.
+Twelve years earlier, Lord Ernest Rutherford, a pioneer in atomic structure, had postulated the existence of a third, neutral, sub-atomic particle, with the approximate mass of a proton, that could result from the capture of an electron by a proton.
+This postulation stimulated a search for the particle.
+However, its electrical neutrality complicated the search because almost all experimental techniques of this period measured charged particles.
+James Chadwick bombarded hydrogen atoms in paraffin with beryllium emissions.
+By comparing the energies of recoiling charged particles from different targets, he proved that the beryllium emissions contained a neutral component with a mass approximately equal to that of the proton.
+He called it the neutron in a paper published in 1932.
+Since the identification of the neutron, the model of the atomic nucleus has changed very little.
+According to this model, a nucleus is considered to be an aggregate of protons and neutrons.

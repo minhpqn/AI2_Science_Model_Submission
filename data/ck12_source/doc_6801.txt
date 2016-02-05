@@ -1,0 +1,20 @@
+\vec{L} = \vec{r} \times \vec{p} = r _\perp p = rp _\perp
+The angular momentum of a spinning object can be found in two equivalent ways.
+Just like linear momentum, one way, shown in the first equation, is to multiply the moment of inertia, the rotational analog of mass, with the angular velocity.
+The other way is simply multiplying the linear momentum by the radius, as shown in the second equation.
+\tau = \frac{\Delta L}{\Delta{t}}
+Just the same as linear momentum, the torque required to change the momentum L in t time (L/t) can be compared to the force required to change the momentum p in t time. (p/t) Torques produce a change in angular momentum with time.
+The same principles that hold with linear momentum conservation can be applied here with angular momentum conservation.
+The direction of L is given by the right hand rule.
+Simply wrap your fingers around and in the direction the object is spinning and your thumb tells you the direction the vector is pointing.
+Angular momentum can not change unless an outside torque is applied to the object.
+Recall that momentum is a vector quantity, thus the direction a spinning object is pointing can not change without an applied torque.
+Click on the image above for more content
+Watch this Explanation
+Click on the image above for more content
+You have two coins; one is a standard U.S. quarter, and the other is a coin of equal mass and size, but with a hole cut out of the center.
+Which coin has a higher moment of inertia?
+Which coin would have the greater angular momentum if they are both spun at the same angular velocity?
+A star is rotating with a period of 10.0 days.
+It collapses with no loss in mass to a white dwarf with a radius of .001 of its original radius.
+What is its initial angular velocity?

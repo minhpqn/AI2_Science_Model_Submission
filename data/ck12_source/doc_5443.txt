@@ -1,0 +1,20 @@
+Note that many of these pathways are initiated when a signal binds to its receptor outside the cell.
+Most pathways end with altered gene regulation and cell proliferation.
+The p53 tumor suppressor protein is shown at the lower section of the figure stimulating p21.
+The interrelated complexity of the pathways demonstrate the significant role these play in the cell.
+apoptosis :
+The process of programmed cell death that may occur in multicellular organisms.
+cancer :
+A disease characterized by a population of cells that grow and divide without respect to normal limits.
+carcinogenesis :
+The process by which normal cells are transformed into cancer cells; also known as oncogenesis or tumorigenesis.
+G protein (guanine nucleotide-binding protein) :
+Guanine nucleotide-binding proteins; a family of proteins involved in transmitting chemical signals outside the cell, causing changes inside the cell.
+mitogen-activated protein kinases (MAPK) :
+Serine/threonine specific protein kinases related to the cyclin-dependent kinases (CDKs); involved in directing cellular responses to a diverse array of stimuli; involved in the regulate of proliferation, gene expression, differentiation, mitosis, cell survival, and apoptosis.
+oncogene :
+Cancer promoting gene; the products of these genes result in uncontrolled cell growth and division, protection against programmed cell death, loss of respect for normal tissue boundaries, and the ability to become established in diverse tissue environments.
+p53 :
+A tumor suppressor protein involved in the regulation of the cell cycle.
+proto-oncogene :
+Gene whose product promotes cell growth and mitosis prior to cell division; normal gene within all cells; becomes an oncogene when mutated.

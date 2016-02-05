@@ -1,0 +1,20 @@
+Distinguish codominance from incomplete dominance.
+Explain an example of multiple allele traits.
+Summarize the phenotypic distribution in polygenic characteristics.
+Green, blue, brown, black, hazel, violet, or grey.
+What color are your eyes?
+Of course human eyes do not come in multi-color, but they do come in many colors.
+How do eyes come in so many colors?
+That brings us to complex inheritance patterns, known as non-Mendelian inheritance.
+Many times inheritance is more complicated than the simple patterns observed by Mendel.
+The inheritance of characteristics is not always as simple as it is for the characteristics that Mendel studied in pea plants.
+Each characteristic Mendel investigated was controlled by one gene that had two possible alleles, one of which was completely dominant to the other.
+This resulted in just two possible phenotypes for each characteristic.
+Each characteristic Mendel studied was also controlled by a gene on a different (nonhomologous) chromosome.
+As a result, each characteristic was inherited independently of the other characteristics.
+Geneticists now know that inheritance is often more complex than this.
+A characteristic may be controlled by one gene with two alleles, but the two alleles may have a different relationship than the simple dominant-recessive relationship that you have read about so far.
+For example, the two alleles may have a codominant or incompletely dominant relationship.
+The former is illustrated by the flower in Figure below , and the latter in Figure below .
+Codominance occurs when both alleles are expressed equally in the phenotype of the heterozygote.
+The red and white flower in the figure has codominant alleles for red petals and white petals.

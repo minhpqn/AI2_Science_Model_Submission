@@ -1,0 +1,20 @@
+Label the drawing with the positions and speeds at that moment.
+Sketch a position vs. time graph for both you and your brother, labeling the important points ( i.e., starting point, when you catch him, etc.)
+Sketch a speed vs. time graph for both you and your brother, labeling the important points ( i.e., starting point, when you catch him, etc.)
+You are standing at the foot of the Bank of America building in San Francisco, which is 52 floors (237 m) high.
+You launch a ball straight up in the air from the edge of the foot of the building.
+The initial vertical speed is 70 m/s. (For this problem, you may ignore your own height, which is very small compared to the height of the building.)
+How high up does the ball go?
+How fast is the ball going right before it hits the top of the building?
+For how many seconds total is the ball in the air?
+Measure how high you can jump vertically on Earth.
+Then, figure out how high you would be able to jump on the Moon, where acceleration due to gravity is 1/6^{th} that of Earth.
+Assume you launch upwards with the same speed on the Moon as you do on the Earth.
+A car is smashed into a wall during Weaverville’s July 4^{th} Destruction Derby.
+The car is going 25 m/s just before it strikes the wall.
+It comes to a stop 0.8 seconds later.
+What is the average acceleration of the car during the collision?
+A helicopter is traveling with a velocity of 12 m/s directly upward.
+Directly below the helicopter is a very large and very soft pillow.
+As it turns out, this is a good thing, because the helicopter is lifting a large man.
+When the man is 20 m above the pillow, he lets go of the rope.

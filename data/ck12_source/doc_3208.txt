@@ -1,0 +1,20 @@
+The Doppler effect is a change in the frequency of sound waves that occurs when the source of the sound waves is moving relative to a stationary listener. (It can also occur when the sound source is stationary and the listener is moving.) The Figure below shows how the Doppler effect occurs.
+The sound waves from the police car siren travel outward in all directions.
+Because the car is racing forward (to the left), the sound waves get bunched up in front of the car and spread out behind it.
+Sound waves that are closer together have a higher frequency, and sound waves that are farther apart have a lower frequency.
+The frequency of sound waves, in turn, determines the pitch of the sound.
+Sound waves with a higher frequency produce sound with a higher pitch, and sound waves with a lower frequency produce sound with a lower pitch.
+For an interactive animation of a diagram like the one below, go to the following URL.
+Diagram illustrating how the Doppler effect works.
+Experiencing the Doppler Effect
+As the car approaches listener A, the sound waves get closer together, increasing their frequency.
+This listener hears the pitch of the siren get higher.
+As the car speeds away from listener B, the sound waves get farther apart, decreasing their frequency.
+This listener hears the pitch of the siren get lower.
+You can experience the Doppler effect with a moving siren in the following animation:
+Q:
+What will the siren sound like to listener A after the police car passes him?
+A:
+The siren will suddenly get lower in pitch because the sound waves will be much more spread out and have a lower frequency.
+The Doppler effect is a change in the frequency of sound waves that occurs when the source of the sound waves is moving relative to a stationary listener.
+As the source of sound waves approaches a listener, the sound waves get closer together, increasing their frequency and the pitch of the sound.

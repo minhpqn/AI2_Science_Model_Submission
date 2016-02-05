@@ -1,0 +1,20 @@
+This process reduces the number of chromosomes by half.
+Human cells have 23 pairs of chromosomes, and each chromosome within a pair is called a homologous chromosome .
+For each of the 23 chromosome pairs, you received one chromosome from your father and one chromosome from your mother.
+Alleles are alternate forms of genes found on chromosomes.
+Homologous chromosomes have the same genes, though they may have different alleles.
+So, though homologous chromosomes are very similar, they are not identical.
+The homologous chromosomes are separated when gametes are formed.
+Therefore, gametes have only 23 chromosomes, not 23 pairs.
+Haploid vs.
+Diploid
+A cell with two sets of chromosomes is diploid , referred to as 2n , where n is the number of sets of chromosomes.
+Most of the cells in a human body are diploid.
+A cell with one set of chromosomes, such as a gamete, is haploid , referred to as n .
+Sex cells are haploid.
+When a haploid sperm ( n ) and a haploid egg ( n ) combine, a diploid zygote will be formed ( 2n ).
+In short, when a diploid zygote is formed, half of the DNA comes from each parent.
+Overview of Meiosis
+Before meiosis begins, DNA replication occurs, so each chromosome contains two sister chromatids that are identical to the original chromosome.
+Meiosis ( Figure below ) is divided into two divisions:
+Meiosis I and Meiosis II.

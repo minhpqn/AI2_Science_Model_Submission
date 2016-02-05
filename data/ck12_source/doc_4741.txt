@@ -1,0 +1,20 @@
+The aseptic technique is also used in medicine, where it is important to keep the human body free of contamination.
+Aseptic technique is used whenever bacteria or other microbes are transferred between nutrient media or in the preparation of the nutrient media.
+Some equipment that is used in the aseptic technique includes Bunsen burners, autoclaves ( Figure below ), hand and surface sanitizers, neoprene gloves, and fume hoods.
+Students of microbiology are taught the principles of aseptic technique by hands-on laboratory practice.
+Practice is essential in learning how to handle the lab tools without contaminating them.
+A worktop autoclave.
+Autoclaves commonly use steam heated to 121°C (250°F), at 103 kPa (15 psi) above atmospheric pressure.
+Solid surfaces are effectively sterilized when heated to this temperature.
+Liquids can also be sterilized by this process, though additional time is required to reach sterilizing temperature.
+In some laboratories, conditions are no more dangerous than in any other room.
+In many labs, though, additional hazards are present.
+Laboratory hazards are as varied as the subjects of study in laboratories, and might include poisons, infectious agents, flammable, explosive, or radioactive materials, moving machinery, extreme temperatures, or high voltage.
+The hazard symbols for corrosive, explosive, and flammable substances are shown in Figure below .
+In laboratories where conditions might be dangerous, safety precautions are important.
+Lab safety rules minimize a person’s risk of getting hurt, and safety equipment is used to protect the lab user from injury or to help in responding to an emergency.
+The hazard symbols for corrosive, explosive, and flammable substances.
+Immediate disposal of used needles, and other sharp equipment into a sharps container is standard procedure.
+Some safety equipment that you might find in a biology lab includes:
+Sharps Container :
+A container that is filled with used medical needles and other sharp instruments such as blades, shown in Figure above .

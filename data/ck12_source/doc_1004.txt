@@ -1,0 +1,20 @@
+Which light pulse will reach you first?
+the light from the person on the planet
+the light from the flashlight on the spaceship
+the two light pulses will reach you at the same time
+If a spaceship will shrink when it travels at a speed of 0.75 c, do we need to make design changes to accommodate passengers and crew?
+A beam of particles travel at a speed of 2.85 \times 10^8 \ \text{m/s} .
+At this speed, the particles average lifetime is measured to be 2.50 \times 10^{-8} \ \text{s} .
+What is a particle’s lifetime when they are at rest?
+A spaceship passes you at a speed of 0.80 c.
+You measure its length to be 90.0 m.
+How long would this space ship be at rest?
+If you were to travel to a planet 36 light years from earth at a speed of 0.98 c, what would you measure the distance to be?
+If the rest mass of a proton is 1.67 \times 10^{-27} \ \text{kg} , what is its mass when traveling at 0.85 c?
+At what speed will the relativistic mass of an object be exactly double its rest mass?
+How much energy would be produced if 1.00 milligram of mass were completely converted into energy?
+theory of special relativity:
+The theory proposed in 1905 by Einstein, which assumes that the laws of physics are equally valid in all non-accelerated frames of reference and that the speed of electromagnetic radiation in free space has the same value for all observers regardless of relative motion.
+theory of general relativity:
+The theory of gravitation, developed by Einstein in 1916, extending the special theory of relativity to include acceleration and leading to the conclusion that gravitational forces are equivalent to forces caused by acceleration and results in curved space.
+reference frames:

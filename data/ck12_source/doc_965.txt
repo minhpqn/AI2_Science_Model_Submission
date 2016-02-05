@@ -1,0 +1,20 @@
+\hbar is Planck’s constant divided by 2 \pi
+\psi \ (r, t)  is the wave function
+m  is the mass of the particle
+\nabla ^2 is the Laplacian operator, \frac{\partial ^2}{ \partial x^2}+ \frac{\partial ^2}{ \partial y^2}+ \frac{\partial ^2}{ \partial z^2} (these refer to partial second derivatives)
+V(r, t)  is the potential energy influencing the particle
+It should be quite clear that without years of high level mathematics, just seeing the equation is no value at all.
+Without understanding the math, the equation makes no sense.
+The stable energy levels for an electron in an electron cloud are those that have integer values in three positions in the equation.
+Schrodinger found that having integer values in these three places in the equation produced a wave function that described a standing wave.
+These three integers are called quantum numbers and are represented by the letters n , l , and m .
+Solutions to Schrödinger’s equation involve four special numbers called quantum numbers . (Three of the numbers, n , l , and m , come from Schrödinger’s equation, and the fourth one comes from an extension of the theory).
+These four numbers completely describe the energy of an electron.
+Each electron has exactly four quantum numbers, and no two electrons have the same four numbers.
+The statement that no two electrons can have the same four quantum numbers is known as the Pauli exclusion principle .
+The principal quantum number, n , is a positive integer (1, 2, 3, \ldots n) that indicates the main energy level of an electron within an atom.
+According to quantum mechanics, every principal energy level has one or more sub-levels within it.
+The number of sub-levels in a given energy level is equal to the number assigned to that energy level.
+That is, principal energy level 1 will have 1 sub-level, principal energy level 2 will have two sub-levels, principal energy level 3 will have three sub-levels, and so on.
+In any energy level, the maximum number of electrons possible is 2n^2 .
+Therefore, the maximum number of electrons that can occupy the first energy level is 2 (2 \times 1^2) .

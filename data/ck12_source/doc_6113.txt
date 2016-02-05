@@ -1,0 +1,20 @@
+Real and Ideal Gases
+An ideal gas is one that follows the gas laws at all conditions of temperature and pressure.
+To do so, the gas would need to completely abide by the kinetic-molecular theory.
+The gas particles would need to occupy zero volume and they would need to exhibit no attractive forces what so ever toward each other.
+Since neither of those conditions can be true, there is no such thing as an ideal gas.
+A real gas is a gas that does not behave according to the assumptions of the kinetic-molecular theory.
+Fortunately, at the conditions of temperature and pressure that are normally encountered in a laboratory, real gases tend to behave very much like ideal gases.
+Under what conditions then, do gases behave least ideally?
+When a gas is put under high pressure, its molecules are forced closer together as the empty space between the particles is diminished.
+A decrease in the empty space means that the assumption that the volume of the particles themselves is negligible is less valid.
+When a gas is cooled, the decrease in kinetic energy of the particles causes them to slow down.
+If the particles are moving at slower speeds, the attractive forces between them are more prominent.
+Another way to view it is that continued cooling the gas will eventually turn it into a liquid and a liquid is certainly not an ideal gas anymore (see liquid nitrogen in the Figure below ).
+In summary, a real gas deviates most from an ideal gas at low temperatures and high pressures.
+Gases are most ideal at high temperature and low pressure.
+Liquid nitrogen is at such low temperatures that it is no longer a gas
+Nitrogen gas that has been cooled to 77 K has turned to a liquid and must be stored in a vacuum insulated container to prevent it from rapidly vaporizing.
+The Figure below shows a graph of  \frac{PV}{RT} plotted against pressure for 1 mol of a gas at three different temperatures - 200 K, 500 K, and 1000 K.
+An ideal gas would have a value of 1 for that ratio at all temperatures and pressures and the graph would simply be a horizontal line.
+As can be seen, deviations from an ideal gas occur.

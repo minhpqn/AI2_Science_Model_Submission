@@ -1,0 +1,20 @@
+How many nucleotides make a codon?
+What was the first codon deciphered in the genetic code?
+What amino acid does this codon code for?
+How many possible codon combinations are there in the genetic code?
+How many stop signals are there in the genetic code?
+The genetic code is degenerate.
+Explain this statement.
+Transcribe and Translate a Gene at
+What is the genetic code?
+What are codons?
+How many codons are there?
+Use the genetic code to translate the following segment of RNA into a sequence of five amino acids:
+GUC-GCG-CAU-AGC-AAG
+The genetic code is universal, unambiguous, and redundant.
+Explain what this means.
+Translation of RNA to Protein
+Explain how the RNAs interact during translation.
+Summarize the process of translation.
+RNA to proteins.
+How?

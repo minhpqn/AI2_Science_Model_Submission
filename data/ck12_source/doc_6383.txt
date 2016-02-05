@@ -1,0 +1,20 @@
+\text{HCl}(g) \rightarrow \text{H}^+(aq) + \text{Cl}^-
+This is merely a simplification of the previous equation, but it is commonly used.
+Any hydrogen ions in an aqueous solution will be attached to water molecules as hydronium ions.
+Not all hydrogen atoms in molecular compounds are ionizable.
+In methane (CH 4 ), the hydrogen atoms are covalently bonded to carbon in bonds that are only slightly polar.
+The hydrogen atoms are not capable of ionizing and methane has no acidic properties.
+Acetic acid (CH 3 COOH) belongs to a class of acids called organic acids.
+There are four hydrogen atoms in the molecule, but only the one hydrogen that is bonded to an oxygen atom is ionizable.
+Acetic acid generates hydronium ions when dissolved in water
+The O-H bond can be ionized to yield the H + ion and the acetate ion.
+The other hydrogen atoms in this molecule are not acidic.
+The Table below lists some of the more common acids:
+H 2 SO 4
+H 3 PO 4
+CH 3 COOH
+A monoprotic acid is an acid that contains only one ionizable hydrogen.
+Hydrochloric acid and acetic acid are monoprotic acids.
+A polyprotic acid is an acid that contains multiple ionizable hydrogens.
+Most common polyprotic acids are either diprotic (such as H 2 SO 4 ) or triprotic (such as H 3 PO 4 ).
+Arrhenius acid is defined.

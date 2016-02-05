@@ -1,0 +1,20 @@
+The 50 g of aluminum is substantially more than its density, so that amount should occupy a relatively large volume.
+Density is the ratio of the mass of an object to its volume.
+Gases are less dense that either solids or liquids
+Both liquid and solid materials can have a variety of densities
+For liquids and gases, the temperature will affect the density to some extent.
+You can perform a density experiment to identify a mystery object online.
+Find this simulation at
+Are gases more or less dense that liquids or solids at room temperature?
+How does temperature affect the density of a material?
+A certain liquid sample has a volume of 14.7 mL and a mass of 22.8 grams.
+Calculate the density.
+A material with a density of 2.7 grams/mL occupies 35.6 mL.
+How many grams of the material are there?
+A certain material has a density of 19.3 g/mL.
+What is the material?
+density:
+The ratio of the mass of an object to its volume. \text{Density} = \frac{\text{mass}}{\text{volume}} .
+Density is an intensive property, meaning that it does not depend on the amount of material present in the sample.
+Accuracy and Precision
+Describe situations with varying levels of accuracy and precision.

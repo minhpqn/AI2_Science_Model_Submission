@@ -1,0 +1,20 @@
+Describe where charges reside on solid and hollow conductors.
+Describe the function of a capacitor.
+Solve capacitor problems.
+Understand the capacitance equation.
+Capacitors on a circuit board
+The circuit boards found in your computer, phone, calculator, and pretty much every other electronic device you own often look much like the one shown above.
+Many circuit boards have capacitors, including this one.
+Capacitors can be used to smooth out electrical impulses or to turn constant electric currents into a series of impulses.
+We already know that insulators are materials that do not allow electrons to flow through them easily.
+When you place excess electrons on an insulator, the electrons remain where you put them and do not move around.
+Conversely, conductors are materials that allow electrons to flow thorugh them freely.
+Since electrons repel each other, excess electrons on a conductor move to positions as far apart as possible.
+The difference can be seen in the image below, where the electrons on the insulator remain clumped near each other, while the electrons on the conductor have spread out to cover the whole surface.
+Illustration of the distribution of charge in insulators and conductors
+Consider a charged conductor and an uncharged conductor.
+When the charged conductor is touched to the uncharged conductor, as far as the electrons are concerned, it has become one large piece of conducting material.
+The electrons on the charged object will run onto the uncharged object until the density of the charge is evenly distributed over the entire surface of both objects.
+If the objects are the same size, the charge will be shared equally throughout.
+This method is occasionally used to divide a charge by half.
+The earth is also a conductor.

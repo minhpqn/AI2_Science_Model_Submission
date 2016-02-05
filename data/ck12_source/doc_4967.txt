@@ -1,0 +1,20 @@
+What pulls a signal in from vast distances?
+Some sort of signal receptor.
+This receptor is usually a protein embedded in the cell membrane.
+Once the signal binds to its receptor, some sort of outcome is initiated - the signal is transferred to the cell.
+This may be from an ion channel opening or some other process.
+A signal molecule must bind to its receptor to initiate a response.
+Receptors are proteins that bind to their signal molecule either externally (cell-surface receptors) or internally (nuclear receptors) within the cytoplasm or nucleus.
+This process is known as signal transduction , and the internal activator is the second messenger .
+Once a ligand binds to its receptor, a series of reactions are initiated.
+Cell-surface receptors are integral membrane proteins—they reach right through the phospholipid bilayer, spanning from the outside to the inside of the cell.
+These receptor proteins are specific for just one signal molecule.
+The signaling molecule acts as a ligand when it binds to a receptor protein.
+A ligand is a small molecule that binds to a larger molecule.
+Signal molecule binding causes the receptor protein to undergo a conformational change (a change in shape).
+At this point the receptor protein can interact with another molecule.
+The ligand (the signal molecule) itself does not pass through the plasma membrane.
+In eukaryotic cells, most of the intracellular proteins that are activated by a ligand binding to a receptor protein are enzymes.
+Receptor proteins are named after the type of enzyme that they interact with inside the cell.
+These enzymes include G proteins and protein kinases, likewise there are G-protein-linked receptors and tyrosine kinase receptors.
+A kinase is a protein involved in phosphorylation.

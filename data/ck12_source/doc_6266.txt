@@ -1,0 +1,20 @@
+Calculate the enthalpy change that occurs when 58.0 g of sulfur dioxide is reacted with excess oxygen.
+Step 1:
+List the known quantities and plan the problem .
+mass SO 2 = 58.0 g
+molar mass SO 2 = 64.07 g/mol
+\Delta H = -198 \text{ kJ for the reaction of } 2 \text{ mol SO}_2
+\Delta H = ? \text{ kJ}
+The calculation requires two steps.
+The mass of SO 2 is converted to moles.
+Then the mol SO 2 is multiplied by the conversion factor of \left(\frac{-198 \text{ kJ}}{2 \text{ mol SO}_2} \right) .
+Step 2:
+Solve .
+\Delta H=58.0 \text{ g SO}_2 \times \frac{1 \text{ mol SO}_2}{64.07 \text{ g SO}_2} \times \frac{-198 \text{ kJ}}{2 \text{ mol SO}_2}=-89.6 \text{ kJ}
+Step 3:
+Think about your result .
+The mass of sulfur dioxide is slightly less than 1 mol.
+Since 198 kJ is released for every 2 mol of SO 2 that reacts, the heat released when about 1 mol reacts is one half of 198.
+The 89.6 kJ is slightly less than half of 198.
+The sign of  \Delta H is negative because the reaction is exothermic.
+Calculations of energy changes in enthalpy equations are described.

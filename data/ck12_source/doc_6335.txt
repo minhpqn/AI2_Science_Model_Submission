@@ -1,0 +1,20 @@
+For changes in concentration, the system responds in such a way that the value of the equilibrium constant, K_{eq} , is unchanged.
+However, a change in temperature shifts the equilibrium and the  K_{eq} value either increases or decreases.
+As discussed in the previous section, values of  K_{eq} are dependent on the temperature.
+When the temperature of the system for the Haber-Bosch process is increased, the resultant shift in equilibrium towards the reactants means that the  K_{eq} value decreases.
+When the temperature is decreased, the shift in equilibrium towards the products means that the  K_{eq} value increases.
+Le Châtelier’s principle as related to temperature changes can be illustrated easily by the reaction in which nitrogen tetroxide is in equilibrium with nitrogen dioxide.
+\text{N}_2\text{O}_4(g)+ \text{heat} \rightleftarrows 2\text{NO}_2(g)
+Dinitrogen tetroxide (N 2 O 4 ) is colorless, while nitrogen dioxide (NO 2 ) is dark brown in color.
+When N 2 O 4 breaks down into NO 2 , heat is absorbed according to the forward reaction above.
+Therefore, an increase in temperature of the system will favor the forward reaction.
+Conversely, a decrease in temperature will favor the reverse reaction.
+Watch a video demonstrating the effect of temperature on the equilibrium between NO 2 and N 2 O 4 .
+Click on the image above for more content
+The effect of temperature on the direction of an equilibrium reaction is described.
+Read the material at the link below and do the problems:
+Which is the exothermic direction in the Haber process?
+If we put more heat energy into the system, which way will the equilibrium shift?
+How can we pull the reaction more strongly to the right?
+Effect of Pressure
+Describe the effect of pressure on an equilibrium reaction.

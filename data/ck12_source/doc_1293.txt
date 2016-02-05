@@ -1,0 +1,20 @@
+This rock has undergone shearing.
+The pencil is pointing to a line.
+Stresses forced rock on either side of that line to go in opposite directions.
+Responses to Stress
+The amount of stress on a rock may be greater than the rock’s strength.
+In that case, the rock will undergo strain or deformation ( Figure below ).
+Deep within the Earth, the pressure is very great.
+A rock behaves like a stretched rubber band.
+When the stress stops, the rock goes back to its original shape.
+If more stress is applied to the rock, it bends and flows.
+It does not return to its original shape.
+Near the surface, if the stress continues, the rock will fracture (rupture) and break.
+Graph of stress, going from elastic deformation to plastic deformation to fracture
+With increasing stress, the rock undergoes: (1) elastic deformation, (2) plastic deformation, and (3) fracture.
+Stress is the force applied to an object.
+Stresses can be confining, compression, tension, or shear.
+Rocks under stress may show strain or deformation.
+Deformation can be elastic or plastic, or the rock may fracture.
+Rocks respond to stress differently under different conditions.
+Use the resource below to answer the questions that follow.

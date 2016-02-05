@@ -1,0 +1,20 @@
+Derived SI Units
+length × width
+length × width × height
+mass × acceleration
+force × length
+Using dimensional analysis with derived units requires special care.
+When units are squared or cubed as with area or volume, the conversion factors themselves must also be squared.
+Shown below is the conversion factor for cubic centimeters and cubic meters.
+\left(\frac{1 \ \text{m}}{100 \ \text{cm}}\right)^3=\frac{1 \ \text{m}^3}{10^6 \ \text{cm}^3}=1
+Because a cube has 3 sides, each side is subject to the conversion of 1 m to 100 cm.
+Since 100 cubed is equal to 1 million (10 6 ), there are 10 6 cm 3 in 1 m 3 .
+Two convenient volume units are the liter, which is equal to a cubic decimeter, and the milliliter, which is equal to a cubic centimeter.
+The conversion factor would be:
+\left(\frac{1 \ \text{dm}}{10 \ \text{cm}}\right)^3 = \frac{1 \ \text{dm}^3}{1000 \ \text{cm}^3}=1
+There are thus 1000 cm 3 in 1 dm 3 , which is the same thing as saying there are 1000 mL in 1 L
+1000 milliliter cubes are in a liter cube
+There are 1000 cm 3 in 1 dm 3 .
+Since a cm 3 is equal to a mL and a dm 3 is equal to a L, we can say that there are 1000 mL in 1 L.
+Sample Problem:  Derived Unit Conversion
+Convert 3.6 × 10 8 mm 3 to mL.

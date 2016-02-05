@@ -1,0 +1,20 @@
+The alpha-helices and beta-sheets are folded into a compact globule structure.
+Stability is maintained through hydrogen bonds, disulfide bonds and other interactions.
+Quaternary structure is a larger assembly of several polypeptide chains, now referred to as subunits of the protein.
+The quaternary structure is stabilized by the same interactions as the tertiary structure.
+Complexes of two or more polypeptides are called multimers.
+Specifically, a dimer contains two subunits, a trimer contains three subunits, and a tetramer contains four subunits.
+Protein Structure.
+Primary protein structure is the sequence of amino acids in a single polypeptide.
+Secondary protein structure refers to internal shapes, such as alpha helices and beta pleated sheets, that a single polypeptide takes on due to bonds between atoms in different parts of the polypeptide.
+Tertiary protein structure is the overall three-dimensional shape of a protein consisting of one polypeptide.
+Quaternary protein structure is the shape of a protein consisting of two or more polypeptides.
+For a brief animation of protein structure, see www.stolaf.edu/people/giannini/flashanimat/proteins/protein%20structure.swf
+The atomic mass of proteins is measured in kilodaltons (kDa).
+One dalton (Da) is approximately equal to the mass of one proton or one neutron, so a carbon atom has a mass of approximately 12 Da.
+The molecular weights of amino acids range from 75 Da for glycine to 204 for tryptophan.
+Human proteins may have molecular weights ranging from a low of about 3.7 kDA to titian, the largest known human protein with 34,350 amino acids and a molecular weight of approximately 3,816.2 kDa.
+Functions of Proteins
+Proteins are an essential part of all organisms.
+They play many roles in living things.
+Certain proteins provide a scaffolding that maintains the shape of cells (structural proteins).

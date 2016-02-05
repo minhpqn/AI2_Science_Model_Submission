@@ -1,0 +1,20 @@
+Are all mutations bad?
+No.
+Obviously large chromosomal changes are going to have a significant effect.
+But what about single base changes?
+Many single base mutations most likely have no effect, unless they change the reading frame.
+The effects of any one mutations can vary from having no effect to having lethal consequences.
+Imagine the coding sequence (broken up into codons) TAC CCC GGG.
+This is a fairly generic coding sequence, and probably occurs many times in the human genome.
+It transcribes into the following mRNA:
+AUG GGG CCC, which would translate into start-glycine-proline.
+As glycine is encoded by four codons (GGG, GGA, GGC, GGU), any change in the third position of that codon will have no effect.
+The same is true for the codon for proline.
+If a mutation does not change the amino acid sequence in a protein, the mutation will have no effect.
+In fact, the overwhelming majority of mutations have no significant effect, since DNA repair mechanisms are able to mend most of the changes before they become permanent.
+Furthermore, many organisms have mechanisms for eliminating otherwise permanently mutated somatic cells.
+But what about changes in the other nucleotides in the sequence?
+They could have potentially dramatic effects.
+The effects depend on the outcome of the mutation.
+Obviously any change to the start codon will interrupt the start of translation.
+Turning the simple glycine into the nonpolar (and relatively large) tryptophan (UGG codon) could have dramatic effects on the function of the protein.

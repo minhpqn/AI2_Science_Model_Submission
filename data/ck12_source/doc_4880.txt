@@ -1,0 +1,20 @@
+neuron :
+An electrically excitable cell that processes and transmits information by electrical and chemical signaling; a nerve cell.
+organelle :
+A structure within the cytoplasm of a cell; may be enclosed within a membrane; performs a specific function.
+spontaneous generation :
+An obsolete principle regarding the origin of life from inanimate matter.
+structure-function relationship :
+Principle that states the function of a biological item (molecule, protein, cell) is determined by its structure.
+A cell's function is usually directly related to its structure; this is known as the structure-function relationship.
+The structure-function relationship is evident throughout biology.
+Use this resource to answer the questions that follow.
+The Theme of Structure and Function in Cells at
+What is meant by structure dictates function ?
+Describe how the structure-function relationships relates to the following:
+Describe the structure-function relationship of cells.
+Give two examples.
+Discuss the role of proteins in the structure-function relationship of cells.
+The Plasma Membrane - Advanced
+Outline the structure of the plasma membrane.
+All cells have a plasma membrane.

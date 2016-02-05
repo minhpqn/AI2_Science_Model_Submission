@@ -1,0 +1,20 @@
+Refraction occurs when waves bend as they enter a new medium at an angle.
+You can see an example of refraction in the Figure below .
+Light bends when it passes from air to water or from water to air.
+The bending of the light traveling from the fish to the man’s eyes causes the fish to appear to be in a different place from where it actually is.
+Diagram illustrating refraction
+Waves bend as they enter a new medium because they start traveling at a different speed in the new medium.
+For example, light travels more slowly in water than in air.
+This causes it to refract when it passes from air to water or from water to air.
+Q:
+Where would the fish appear to be if the man looked down at it from straight above its actual location?
+A:
+The fish would appear to be where it actually is because refraction occurs only when waves (in this case light waves from the fish) enter a new medium at an angle other than 90°.
+Did you ever notice that you can hear sounds around the corners of buildings even though you can’t see around them?
+The Figure below shows why this happens.
+As you can see from the figure, sound waves spread out and travel around obstacles.
+This is called diffraction .
+It also occurs when waves pass through an opening in an obstacle.
+All waves may be diffracted, but it is more pronounced in some types of waves than others.
+For example, sound waves bend around corners much more than light does.
+That’s why you can hear but not see around corners.

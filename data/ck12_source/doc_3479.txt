@@ -1,0 +1,20 @@
+As you view Enzyme Animation, focus on this concept:
+how enzymes function.
+How enzyme changes activation energy
+The reaction represented by this graph is a combustion reaction involving the reactants glucose (C 6 H 12 O 6 ) and oxygen (O 2 ).
+The products of the reaction are carbon dioxide (CO 2 ) and water (H 2 O).
+Energy is also released during the reaction.
+The enzyme speeds up the reaction by lowering the activation energy needed for the reaction to start.
+Compare the activation energy with and without the enzyme.
+Enzymes generally lower activation energy by reducing the energy needed for reactants to come together and react.
+For example:
+Enzymes bring reactants together so they don’t have to expend energy moving about until they collide at random.
+Enzymes bind both reactant molecules (called the substrate ), tightly and specifically, at a site on the enzyme molecule called the active site ( Figure below ).
+By binding reactants at the active site, enzymes also position reactants correctly, so they do not have to overcome intermolecular forces that would otherwise push them apart.
+This allows the molecules to interact with less energy.
+Enzymes may also allow reactions to occur by different pathways that have lower activation energy.
+The active site is specific for the reactants of the biochemical reaction the enzyme catalyzes.
+Similar to puzzle pieces fitting together, the active site can only bind certain substrates.
+Enzyme binding reactant at active site
+This enzyme molecule binds reactant molecules—called substrate—at its active site, forming an enzyme-substrate complex.
+This brings the reactants together and positions them correctly so the reaction can occur.

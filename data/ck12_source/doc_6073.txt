@@ -1,0 +1,20 @@
+All of the energy that is being put into the ice goes into the melting process and not into any increase in temperature.
+During the melting process, the two states – solid and liquid – are in equilibrium with one another.
+If the system was isolated at that point and no energy was allowed to enter or leave, the ice-water mixture at 0°C would remain.
+Temperature is always constant during a change of state.
+Continued heating of the water after the ice has completely melted will now increase the kinetic energy of the liquid molecules and the temperature will rise.
+Assuming that the atmospheric pressure is standard, the temperature will rise steadily until it reaches 100°C.
+At this point, the added energy from the heat will cause the liquid to begin to vaporize.
+As with the previous state change, the temperature will remain at 100°C while the water molecules are going from the liquid to the gas or vapor state.
+Once all the liquid has completely boiled away, continued heating of the steam (remember the container is closed) will increase its temperature above 100°C.
+The experiment described above can be summarized in a graph called a heating curve ( Figure below ):
+A heating curve summarizes the temperature change of a substance as heat is added
+In the heating curve of water, the temperature is shown as heat is continually added.
+Changes of state occur during plateaus because the temperature is constant.
+The change of state behavior of all substances can be represented with a heating curve of this type.
+The melting and boiling points of the substance can be determined by the horizontal lines or plateaus on the curve.
+Other substances would of course have melting and boiling points that are different from those of water.
+One exception to this exact form for a heating would be for a substance such as carbon dioxide which sublimes rather than melts at standard pressure.
+The heating curve for carbon dioxide would have only one plateau, at the sublimation temperature of CO 2 .
+The entire experiment could be run in reverse.
+Steam above 100°C could be steadily cooled down to 100°C, at which point it would condense to liquid water.

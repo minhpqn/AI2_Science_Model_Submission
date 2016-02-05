@@ -1,0 +1,20 @@
+This increases the reactant counts to 2 Na atoms and 2 Cl atoms.
+Then place a 2 in front of the NaNO 3 .
+The result is:
+\text{Pb(NO}_3)_2 (aq)+2\text{NaCl}(aq) \rightarrow 2\text{NaNO}_3 (aq)+\text{PbCl}_2(s)
+The new count for each atom and polyatomic ion becomes:
+1 Pb atom
+1 Pb atom
+2 NO 3 - ions
+2 NO 3 - ions
+2 Na atom
+2 Na atom
+2 Cl atoms
+2 Cl atoms
+Step 3:
+Think about your result.
+The equation is now balanced since there are equal numbers of atoms of each element on both sides of the equation.
+The process of balancing chemical equations is described.
+Get some experience in balancing chemical equations at the following web site:
+What is the law of conservation of mass?
+How did Dalton describe he profess of a chemical reaction?

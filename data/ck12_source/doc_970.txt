@@ -1,0 +1,20 @@
+A photon is a quantum of electromagnetic radiation.
+probability distribution:
+In quantum mechanics, the probability distribution is a mathematical function that gives the probability of finding a particle in any small region of space.
+Schrodinger’s equation:
+An equation describing the state and evolution of a quantum mechanical system, given boundary conditions.
+Different solutions to the equation are associated with different wave functions, usually associated with different energy levels.
+This equation is fundamental to the study of wave mechanics.
+orbital:
+The wave function of an electron in an atom or molecule, indicating the electron's probable location.
+quantum number:
+A number used when describing the energy levels available to atoms and molecules.
+An electron in an atom or ion has four quantum numbers to describe its state.
+Describe a laser and the properties of laser light.
+Laser in operation
+An U.
+S.
+Air Force scientist operates a laser in a test environment.
+The United States Air Force Research Laboratory (AFRL) conducts research on a variety of solid-state and chemical lasers.
+Most types of laser are an inherently pure source of light; they emit near-monochromatic light with a very well defined range of wavelengths.
+By careful design of the laser components, the purity of the laser light can be improved more than the purity of any other light source.

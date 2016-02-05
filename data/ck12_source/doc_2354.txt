@@ -1,0 +1,20 @@
+A control is a variable that must be held constant so it won't influence the outcome of an experiment.
+The control can be used as a standard for comparison between experiments.
+In the case of your ramp experiment, smoothness of the ramps should have been controlled by making each ramp out of the same material.
+For other examples of controls in an experiment, watch the video at the URL below.
+It is Part II of the above video bouncing balls.
+Click on the image above for more content
+Q:
+What other variables do you think might influence the outcome of your ramp experiment?
+How could these other variables be controlled?
+A:
+Other variables might include variables relating to the block.
+For example, a smoother block would be expected to go down a ramp faster than a rougher block.
+You could control variables relating to the block by using two identical blocks.
+An experiment is a controlled scientific study of specific variables.
+A variable is a factor that can take on different values.
+There must be at least two variables in any experiment: a manipulated variable and a responding variable.
+A control is a variable that must be held constant so it won’t influence the outcome of an experiment.
+Do virtual experiments with objects sliding down ramps at the following URL, and then answer the questions below.
+For the y-axis, select Y pos (position of the object relative to the starting point), and for the x-axis, select time (time elapsed since the object started moving).
+From the controls, select one variable other than delta T to be your manipulated variable.

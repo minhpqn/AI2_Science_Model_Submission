@@ -1,0 +1,20 @@
+The concentrations of each substance, indicated by the square brackets around the formula, are measured in molarity units (mol/L).
+The value of the equilibrium constant for any reaction is only determined by experiment.
+As detailed in the above section, the position of equilibrium for a given reaction does not depend on the starting concentrations and so the value of the equilibrium constant is truly constant.
+It does, however, depend on the temperature of the reaction.
+This is because equilibrium is defined as a condition resulting from the rates of forward and reverse reactions being equal.
+If the temperature changes, the corresponding change in those reaction rates will alter the equilibrium constant.
+For any reaction in which a  K_{eq} is given, the temperature should be specified.
+The equilibrium constant for a reversible reaction is described.
+Read the material at the link below and answer the following questions:
+What is a homogeneous equilibrium?
+What is a heterogeneous equilibrium?
+What goes in the numerator in an equilibrium expression?
+Why is it important to write your equilibrium equation out before setting up the equilibrium constant?
+What does the equilibrium constant tell us?
+What does it mean if the K_{eq} is > 1?
+What does it mean if the K_{eq} is < 1?
+Does the position of equilibrium depend on the starting concentrations?
+equilibrium constant (K_{eq}) :
+The ratio of the mathematical product of the concentrations of the products of a reaction to the mathematical product of the concentrations of the reactants of the reaction.
+Each concentration is raised to the power of its coefficient in the balanced chemical equation.

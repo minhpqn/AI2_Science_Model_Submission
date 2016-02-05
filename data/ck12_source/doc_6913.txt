@@ -1,0 +1,20 @@
+\frac{kq_sq_e}{r_{s\rightarrow e}^2}=\frac{kq_lq_e}{r_{e\rightarrow l}^2}
+Now we can cancel.
+The charge of the electron cancels.
+The constant k also cancels.
+We can then replace the large and small charges with the numbers.
+This leaves us with the distances.
+We can then manipulate the equation to produce a ratio of the distances.
+\frac{-3\mu\mathrm{C}}{r_{s\rightarrow e}^2}=\frac{-12\mu\mathrm{C}}{r_{e\rightarrow l}^2} \Rightarrow \frac{r_{s\rightarrow e}^2}{r_{e\rightarrow l}^2}=\frac{-12\mu\mathrm{C}}{-3\mu\mathrm{C}} \Rightarrow \frac{r_{s\rightarrow e}}{r_{e\rightarrow l}}=\sqrt{\frac{1\mu\mathrm{C}}{4\mu\mathrm{C}}}=\frac{1}{2}
+Given this ratio, we know that the electron is twice as far from the large charge ( -12\mu\mathrm{C} ) as from the small charge ( -3\mu\mathrm{C} ).
+Given that the distance between the small and large charges is 3\mathrm{m} , we can determine that the electron must be located 2\mathrm{m} away from the large charge and 1\mathrm{m} away from the smaller charge.
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+Click on the image above for more content
+Electric Hockey (PhET Simulation)
+Electric Ice Sheet (CK-12 Simulation)
+A suspended pith ball possessing +10 \ \mu \mathrm{C} of charge is placed 0.02 \;\mathrm{m} away from a metal plate possessing -6 \ \mu \mathrm{C} of charge.
+Are these objects attracted or repulsed?
+What is the force on the negatively charged object?
+What is the force on the positively charged object?

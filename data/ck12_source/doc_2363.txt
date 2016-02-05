@@ -1,0 +1,20 @@
+In 1999, NASA’s Mars Climate Orbiter, pictured here, burned up as it passed through Mars’ atmosphere.
+The satellite was programmed to orbit Mars at high altitude and gather climate data.
+Instead, the Orbiter flew too low and entered the red planet’s atmosphere.
+Why did the Orbiter fly off course?
+The answer is human error.
+The flight system software on the Orbiter was written using scientific units of measurement, but the ground crew was entering data using common English units.
+The example of the Mars Climate Orbiter shows the importance of using a standard system of measurement in science and technology.
+The measurement system used by most scientists and engineers is the International System of Units, or SI .
+There are a total of seven basic SI units, including units for length (meter) and mass (kilogram).
+SI units are easy to use because they are based on the number 10.
+Basic units are multiplied or divided by powers of ten to arrive at bigger or smaller units.
+Prefixes are added to the names of the units to indicate the powers of ten, as shown in the Table below .
+Prefixes of SI Units
+Multiply Basic Unit ×
+Basic Unit of Length = Meter (m)
+kilometer (km) = 1000 m
+decimeter (dm) = 0.1 m
+centimeter (cm) = 0.01 m
+millimeter (mm) = 0.001 m
+micrometer (µm) = 0.000001 m

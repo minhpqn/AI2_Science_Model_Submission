@@ -1,0 +1,20 @@
+There are three major scales used today.
+Scientific Dimensional Analysis
+Define dimensional analysis.
+Use dimensional analysis in solving problems.
+Many quantities can be expressed in several different ways.
+The English system measurement of 4 cups is also equal to 2 pints, 1 quart, and ¼ of a gallon.
+4 cups = 2 pints = 1 quart = 0.25 gallon
+Notice that the numerical component of each quantity is different, while the actual amount of material that it represents is the same.
+That is because the units are different.
+We can establish the same set of equalities for the metric system:
+1 meter = 10 decimeters = 100 centimeters = 100 millimeters
+The metric system’s use of powers of 10 for all conversions makes this quite simple.
+Whenever two quantities are equal, a ratio can be written that is numerically equal to 1.
+Using the metric examples above:
+\frac{1 \ \text{m}}{100 \ \text{cm}}=\frac{100 \ \text{cm}}{100 \ \text{cm}}=\frac{1 \ \text{m}}{1 \ \text{m}}=1
+The \frac{1 \ \text{m}}{100 \ \text{cm}} is called a conversion factor .
+A conversion factor is a ratio of equivalent measurements.
+Because both 1 m and 100 cm represent the exact same length, the value of the conversion factor is 1.
+The conversion factor is read as “1 meter per 100 centimeters”.
+Other conversion factors from the cup measurement example can be:

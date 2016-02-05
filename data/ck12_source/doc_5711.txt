@@ -1,0 +1,20 @@
+Electrons can be situated in one of three planes in three dimensional space around a given nucleus  (x, y, and z) .
+For a given value of the angular momentum quantum number l , there can be  (2l+1) values for m_l .
+As an example:
+l = 0  or 1
+for l=0 , \ m_l=0
+for l = 1, \ m_l = -1, \ 0, \ +1
+Principal Energy Levels and Sublevels
+Principal energy level
+Number of possible sublevels
+Possible Angular Momentum Quantum Numbers
+Orbital Designation by Principal Energy Level and Sublevel
+l = 0
+Table above shows the possible magnetic quantum number values  (m_l) for the corresponding angular momentum quantum numbers (l) of l=0, \ l=1, \ l=2, and l=3 .
+Spin Quantum Number  (m_s)
+The spin quantum number describes the spin for a given electron.
+An electron can have one of two associated spins, \left(+\frac{1}{2}\right) spin, or \left(-\frac{1}{2}\right) spin.
+An electron cannot have zero spin.
+We also represent spin with arrows \uparrow or \downarrow .
+A single orbital can hold a maximum of two electrons and each must have opposite spin.
+Quantum numbers specify the arrangements of electrons in orbitals.

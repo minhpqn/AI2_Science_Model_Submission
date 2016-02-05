@@ -1,0 +1,20 @@
+Guidance In these types of problems it is very important to realize where the application of the force is acting.
+Remember that Torque is equal to the Force multiplied by the perpendicular distance from the rotation axis.
+So if the CM is the rotation axis then there is not torque from gravity, as the distance from the rotation axis is zero.
+Also, in these types of problems, make sure to use Newton's laws in the linear form (i.e.  \Sigma F = ma  ) and also in the rotation form (i.e.  \Sigma \tau_i = I \alpha ).
+Then you can substitute in for one of the unknowns and solve for the other.
+A wooden disk of mass m and radius r has a string of negligible mass is wrapped around it.
+If the the disk is allowed to fall and the string is held so that it unravels without sliding as the disk is falling, what will be the wooden disk's acceleration?
+First we'll draw a free body diagram for the situation.
+In the diagram below the force of gravity and the tension from the string have been labeled and are drawn from they points they are acting.
+Let's start by applying Newton's second law to this object and we'll let the positive direction be downward.
+As you can see, we have two unknowns in this equation( T and a ), so we're going to use Newton's second law for rotation as our second equation and solve for T .
+The rotation axis is at the cm of the cylinder, thus there is no torque from gravity.
+Now we will substitute in values for I and \alpha .
+In order to calculate the moment of inertia of the wooden disk, we use the known formula for a disk being rotated about it's center.
+T&=\frac{\frac{1}{2}mr^2\alpha}{r} && \text{substituting for } I\\\T&=\frac{1}{2}mr^2\frac{a}{r}\frac{1}{r} && \text{substituting for } \alpha \text{ in terms of } a\\\T&=\frac{1}{2}ma && \text{simplifying the equation.}\\\
+We can now plug this back into our original Newton's second law equation from the first step.
+mg-T&=ma && \text{start with the equation from we derived in the first step}\\\mg-\frac{1}{2}ma&=ma && \text{substitute for T}\\\a&=\frac{2}{3}g && \text{simplifying and solving for a}\\\
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content

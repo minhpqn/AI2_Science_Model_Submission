@@ -1,0 +1,20 @@
+Note that glycogen and fats can also enter the glycolysis pathway.
+The second stage is the Krebs Cycle, and the third stage is the electron transport chain.
+It is during the third stage that chemiosmosis produces numerous ATP molecules.
+Illustration of an animal cell in cross section
+Glycolysis, unlike the latter two stages of cellular respiration, takes place without oxygen in the cytosol (blue) of the cell.
+For many organisms, aerobic respiration continues with the Krebs cycle and the electron transport chain in the mitochondria (green).
+To enter the mitochondria, glucose must first be lysed into smaller molecules.
+The name for Stage 1 clearly indicates what happens during that stage: glyco - refers to glucose, and - lysis means "splitting." In glycolysis, within the cytosol of the cell, a minimum of eight different enzymes break apart glucose into two 3-carbon molecules.
+The energy released in breaking those bonds is transferred to carrier molecules, ATP and NADH.
+NADH temporarily holds small amounts of energy which can be used later to build ATP.
+The 3-carbon product of glycolysis is pyruvate , or pyruvic acid ( Figure below ). (The difference between them is actually a sole hydrogen atom.
+Pyruvic acid:
+CH 3 COCOOH, pyruvate:
+CH 3 COCOO - .) Overall, glycolysis can be represented as:
+C 6 H 12 O 6 + 2NAD + + 2P i + 2ADP → 2 pyruvate + 2NADH + 2ATP
+In glycolysis, glucose (C6) is split into two 3-carbon (C3) pyruvate molecules.
+This releases energy, which is transferred to ATP.
+How many ATP molecules are made during this stage of cellular respiration?
+Glycolysis breaks the 6-carbon molecule glucose into two 3-carbon pyruvate molecules, releasing some of the chemical energy which had been stored in glucose.
+However, even this equation is deceiving.

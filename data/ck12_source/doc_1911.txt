@@ -1,0 +1,20 @@
+The third is half the size of the second.
+But when the cylinders get small, the differences are much harder to see.
+At some point, there is too little of the parent left.
+That isotope pair is no longer useful for dating.
+Radioactive decay is the breakdown of unstable elements into stable elements.
+To understand this process, recall that the atoms of all elements contain the particles protons, neutrons, and electrons.
+An element is defined by the number of protons it contains.
+All atoms of a given element contain the same number of protons.
+The number of neutrons in an element may vary.
+Atoms of an element with different numbers of neutrons are called isotopes .
+Consider carbon as an example.
+Two isotopes of carbon are shown below ( Figure below ).
+Compare their protons and neutrons.
+Both contain six protons.
+But carbon-12 has six neutrons and carbon-14 has eight neutrons.
+Diagram of carbon isotopes 12, 13, and 14
+Isotopes are named for their number of protons plus neutrons.
+If a carbon atom had seven neutrons, what would it be named?
+Almost all carbon atoms are carbon-12.
+This is a stable isotope of carbon.

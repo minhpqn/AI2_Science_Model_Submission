@@ -1,0 +1,20 @@
+These astronauts are in a plane, flying over Earth.
+How do they simulate weightlessness?
+How is a falling elevator similar to an orbiting satellite?
+Why does your weight double when the elevator is rising with an acceleration of g ?
+Why doesn’t the pen fall when you drop it while weightless?
+Sally’s mass on the earth is 50. kg.
+What is her weight on the earth?
+What is her weight on the moon?
+What is her mass on the moon?
+The radius of the planet Mercury is 2.43 × 10 6 m and its mass is 3.2 × 10 23  kg.
+Find the speed of a satellite in orbit 265,000 m above the surface.
+Find the period of the satellite.
+A geosynchronous orbit is an orbit in which the satellite remains over the same spot on the earth as the earth turns.
+This is accomplished by matching the velocity of the satellite to the velocity of the turning earth.
+The orbital radius of a geosynchronous satellite is 4.23 × 10 7 m (measured from the center of the earth).
+What is the speed of the satellite in orbit?
+What is its period?
+Joy Sheng.
+CK-12 Foundation .
+Joy Sheng.

@@ -1,0 +1,20 @@
+Linnaeus classified organisms based on obvious physical traits.
+Basically, organisms were grouped together if they looked alike.
+After Darwin published his theory of evolution in the 1800s, scientists looked for a way to classify organisms that showed phylogeny.
+Phylogeny is the evolutionary history of a group of related organisms.
+It is represented by a phylogenetic tree , like the one in Figure below .
+Phylogenetic Tree.
+This phylogenetic tree shows how three hypothetical species are related to each other through common ancestors.
+Do you see why Species 1 and 2 are more closely related to each other than either is to Species 3?
+One way of classifying organisms that shows phylogeny is by using the clade.
+A clade is a group of organisms that includes an ancestor and all of its descendants.
+Clades are based on cladistics .
+This is a method of comparing traits in related species to determine ancestor-descendant relationships.
+Clades are represented by cladograms , like the one in Figure below .
+This cladogram represents the mammal and reptile clades.
+The reptile clade includes birds.
+It shows that birds evolved from reptiles.
+Linnaeus classified mammals, reptiles, and birds in separate classes.
+This masks their evolutionary relationships.
+This cladogram classifies mammals, reptiles, and birds in clades based on their evolutionary relationships.
+Phylogeny is the evolutionary history of group of related organisms.

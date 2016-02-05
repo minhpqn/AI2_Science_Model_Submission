@@ -1,0 +1,20 @@
+Describe the features and list examples of viruses.
+What causes the common cold?
+That miserable cough and runny nose is caused by one villain: a virus.
+Viruses come in many different shapes, including the prickly balls you see here.
+They are so tiny that they can only be seen with a very powerful microscope.
+What is a Virus?
+We have all heard of viruses.
+The flu, the common cold, and many other diseases are caused by viruses.
+But what is a virus?
+Do you think viruses are living?
+Which domain do they belong to?
+Bacteria?
+Archaea?
+Eukarya?
+Are Viruses Alive?
+The answer is actually “no.” A virus is essentially DNA or RNA surrounded by a coat of protein ( Figure below ).
+It is not made of a cell , and cannot maintain a stable internal environment ( homeostasis ).
+Recall that a cell is the basic unit of living organisms.
+So if a virus is not made of at least one cell, can it be living?
+Viruses also cannot reproduce on their own—they need to infect a host cell to reproduce.

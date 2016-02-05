@@ -1,0 +1,20 @@
+On this scale, F0 tornadoes are the weakest and F5 tornadoes are the strongest.
+Percent of Tornadoes by Strength in the U.S. (1986–1995)
+Tornado Scale(F-scale rating)
+Percent of all U.S.
+Tornadoes
+Circle graphs are used to show percents (or fractions) of a whole, such as the percents of F0 to F5 tornadoes out of all tornadoes.
+Therefore, a circle graph is a good choice for the data in the table.
+The circle graph below displays these data.
+Q:
+What if the Table above on tornado strength listed the numbers of tornadoes rather than the percents of tornadoes?
+Could a circle graph be used to display these data?
+A:
+No, a circle graph can only be used to show percents (or fractions) of a whole.
+However, the numbers could be used to calculate percents, which could then be displayed in a circle graph.
+If you need a refresher on percents and fractions, go to this URL:
+Consider the data in Table below .
+It lists the number of tornadoes in the U.S. per month, averaged over the years 2009 to 2011.
+Average Number of Tornadoes in the U.S. per Month (2009–2011)
+Average Number of Tornadoes
+Line graphs are especially useful for showing changes over time, or time trends in data, such as how the average number of tornadoes varies throughout the year.

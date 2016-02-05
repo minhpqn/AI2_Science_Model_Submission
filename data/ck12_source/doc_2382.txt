@@ -1,0 +1,20 @@
+Refer to the examples on the chalkboard in the Figure below as you read the following steps.
+Follow the steps in the sequence listed here to convert a number to scientific notation.
+Follow the steps in the reverse order to convert a number from scientific notation.
+Move the decimal point left or right until you reach the last nonzero digit.
+This new decimal number is a in a × 10 b .
+Count how many places you moved the decimal point in Step 1.
+This number is b in a × 10 b .
+Did you move the decimal point left (first example in the Figure below )?
+If so, b is positive.
+Did you move the decimal point right (second example in the Figure below )?
+If so, b is negative.
+Drawing of how to use scientific notation
+These two examples show how to convert large and small numbers to scientific notation.
+Q:
+Apply the steps above to write 450,000 in scientific notation.
+A:
+The unwritten decimal point in this number follows the last zero.
+Move the decimal point from this position to the left and stop just before the last digit, giving you 4.5 for a .
+The decimal point was moved five places to the left, so b is 5.
+In scientific notation the number is 4.5 × 10 5 .

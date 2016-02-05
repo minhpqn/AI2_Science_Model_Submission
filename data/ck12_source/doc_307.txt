@@ -1,0 +1,20 @@
+temperature:
+A measurement of the average kinetic energy of the molecules in an object or system and can be measured with a thermometer or a calorimeter.
+conduction:  The transfer of thermal energy by the movement of particles that are in contact with each other.
+absolute zero:  The lowest possible temperature, at which point the atoms of a substance transmit no thermal energy - they are completely at rest.
+It is 0 degrees on the Kelvin scale, which translates to -273.15 degrees Celsius (or -459.67 degrees Fahrenheit).
+Define specific heat.
+Calculate heat transfer.
+Beehive Geyser in Yellowstone National Park
+This image is of the Beehive Geyser in Yellowstone National Park.
+Underground water is heated by the earth’s molten core and, when sufficient pressure is built up, the water shoots out of the ground in an amazing display.
+When heat flows into an object, its thermal energy increases and so does its temperature.
+The amount of temperature increase depends on three things: 1) how much heat was added, 2) the size of the object, and 3) the material of which the object is made.
+When you add the same amount of heat to the same mass of different substances, the amount of temperature increase is different.
+Each substance has a specific heat, which is the amount of heat necessary to raise one mass unit of that substance by one temperature unit.
+In the SI system, specific heat is measured in J/kg•K. (Occasionally, you may also see specific heat expressed sometimes in J/g•K).
+The specific heat of aluminum is 903 J/kg•K.
+Therefore, it requires 903 J to raise 1.00 kg of aluminum by 1.00 K.
+Specific Heat of Some Common Substances
+Specific Heat (J/kg•K)
+The amount of heat gained or lost by an object when its temperature changes can be calculated by the formula

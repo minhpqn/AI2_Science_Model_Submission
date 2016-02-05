@@ -1,0 +1,20 @@
+given: 613 mmHg
+1 atm = 760 mmHg
+101.3 kPa = 760 mmHg
+pressure = ? atm
+pressure = ? kPa
+Use conversion factors from the equivalent pressure units to convert from mmHg to atm and from mmHg to kPa.
+Step 2:
+Solve.
+613 \ \text{mmHg}\times\frac{1\ \text{atm}}{760 \ \text{mmHg}} &=0.807 \ \text{atm}\\613 \ \text{mmHg}\times\frac{101.3 \ \text{kPa}}{760 \ \text{mmHg}} &=81.7 \ \text{kPa}
+Step 3:
+Think about your result.
+The air pressure is about 80% that of standard atmospheric pressure at sea level.
+For significant figure purposes, the standard pressure of 760 mmHg has three significant figures.
+Watch the video to learn more about conversion factors:
+Click on the image above for more content
+Calculations are described for converting between different pressure units.
+Use the link below to practice conversion calculations:
+Who invented the barometer?
+One atm = ___ torr?
+14.7 psi = ___ kPa

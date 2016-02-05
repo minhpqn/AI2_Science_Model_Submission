@@ -1,0 +1,20 @@
+for more information.
+Click on the image above for more content
+KQED:
+Confocal Microscopy
+Confocal microscopy is an optical imaging technique used to increase optical resolution and contrast of a micrograph by using point illumination and a spatial pinhole to eliminate out-of-focus light in specimens that are thicker than the focal plane.
+These important features also allow confocal microscopes to collect double and triple labels(most commonly used for detecting fluorescent labels), since precise colocalizations can be performed.
+Examples of specific uses of the confocal microscope are:
+to resolve the structure of various complex three-dimensional objects, such as networks of cytoskeletal fibers in the cytoplasm of cells
+the arrangements of chromosomes and genes in a cell's nucleus during different points in the cell division cycle
+observing pollen grains whose complex cell wall can only be seen clearly using confocal microscopy
+Cutting-edge confocal microscopes, at the University of California, San Francisco are helping scientists create three-dimensional images of cells, and may help lead to new medical breakthroughs, including a treatment for Type 1 diabetes.
+For a description of this work, see
+Click on the image above for more content
+confocal microscopy :
+An optical imaging technique used to increase optical resolution and contrast of a micrograph by using point illumination and a spatial pinhole to eliminate out-of-focus light in specimens that are thicker than the focal plane.
+electron microscope :
+A microscope that uses electrons instead of light; allows a researcher to see things at very high magnification, far higher than an optical microscope can magnify.
+magnification :
+Enlarging an image of an object so that it appears much bigger than its actual size; also refers to the number of times an object is magnified.
+microscopist :

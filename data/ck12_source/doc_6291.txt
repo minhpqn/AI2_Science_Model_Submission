@@ -1,0 +1,20 @@
+The sprinter’s average running rate for the race is 9.09 m/s.
+We say that it is his average rate because he did not run at that speed for the entire race.
+At the very beginning of the race, while coming from a standstill, his rate must be slower until he is able to get up to his top speed.
+His top speed must then be greater than 9.09 m/s so that taken over the entire race, the average ends up at 9.09 m/s.
+Rate is the change of a quantity over time
+Chemical reactions can’t be measured in units of meters per second, as that would not make any sense.
+A reaction rate is the change in concentration of a reactant or product with time.
+Suppose that a simple reaction were to take place in which a 1.00 M aqueous solution of substance  A was converted to substance B .
+A(aq) \ \rightarrow \ B(aq)
+Suppose that after 20.0 seconds, the concentration of  A had dropped from 1.00 M to 0.72 M as  A was slowly being converted to B .
+We can express the rate of this reaction as the change in concentration of  A divided by the time.
+\text{rate}=-\frac{\Delta [A]}{\Delta t}=-\frac{[A]_{\text{final}}-[A]_{\text{initial}}}{\Delta t}
+A bracket around a symbol or formula means the concentration in molarity of that substance.
+The change in concentration of  A is its final concentration minus its initial concentration.
+Because the concentration of  A is decreasing over time, the negative sign is used.
+Thus, the rate for the reaction is positive and the units are molarity per second or M/s.
+\text{rate}=-\frac{0.72 \text{ M}-1.00 \text{ M}}{20.0 \text{ s}}=-\frac{-0.28 \text{ M}}{20.0 \text{ s}}=0.014 \text{ M/s}
+The molarity of  A decreases by an average rate of 0.014 M every second.
+In summary, the rate of a chemical reaction is measured by the change in concentration over time for a reactant or product.
+The unit of measurement for a reaction rate is molarity per second (M/s).

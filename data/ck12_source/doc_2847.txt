@@ -1,0 +1,20 @@
+A nuclear chain reaction is similar to a pile of wood burning.
+If you start one piece of wood burning, enough heat is produced by the burning wood to start the rest of the pile burning without any further help from you.
+You can see another example of a chain reaction at this URL:
+Click on the image above for more content
+Diagram illustrating how a chain reaction occurs
+Using Energy from Nuclear Fission
+If a nuclear chain reaction is uncontrolled, it produces a lot of energy all at once.
+This is what happens in an atomic bomb.
+However, if a nuclear chain reaction is controlled, it produces energy much more slowly.
+This is what occurs in a nuclear power plant.
+The reaction is controlled by inserting rods of nonfissioning material into the fissioning material.
+You can see this in the Figure below .
+The radiation from the controlled fission is used to heat water and turn it to steam.
+The steam is under pressure and causes a turbine to spin.
+The spinning turbine runs a generator, which produces electricity.
+Diagram illustrating how a nuclear power plant works
+Pros and Cons of Nuclear Energy
+In the U.S., the majority of electricity is produced by burning coal or other fossil fuels.
+This causes air pollution that harms the health of living things.
+The air pollution also causes acid rain and contributes to global warming.

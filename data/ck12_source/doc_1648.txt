@@ -1,0 +1,20 @@
+Explain the phases of the cell cycle.
+Do cells have a life cycle?
+Yes, just like a butterfly passes through different phases, such as caterpillar, chrysalis, and adult butterfly, there are a series of phases in a cell's life as it gets ready to divide.
+The sequence of phases leading up to cell division and then ending with cell division itself is called the cell cycle.
+The process of cell division in eukaryotic cells is carefully controlled.
+The cell cycle ( Figure below ) is the life cycle of an eukaryotic cell, with cell division at the end of the cycle.
+Like a human life cycle, which is made up of different phases, like childhood, adolescence, and adulthood, the cell cycle also occurs in a series of phases.
+The first cell cycle begins with the formation of a zygote from the fusion of a male and female sex cell ( gamete ).
+The steps of the cell cycle can be divided into two main components: interphase and the mitotic phase.
+Interphase is the stage when the cell mostly performs its “everyday” functions.
+For example, it is when a kidney cell does what a kidney cell is supposed to do.
+The cell also gets ready to divide during this time.
+The cell divides during the mitotic phase, which consists of mitosis and cytokinesis.
+Most of the cell cycle consists of interphase, the time between cell divisions.
+Interphase can be divided into three stages:
+The first growth phase (G1):
+During the G1 stage, the cell doubles in size and doubles the number of organelles.
+The synthesis phase (S):
+The DNA is replicated during this phase.
+In other words, an identical copy of all the cell’s DNA is made.

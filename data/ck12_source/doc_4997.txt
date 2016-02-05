@@ -1,0 +1,20 @@
+The loss of electrons or an increase in oxidation state by a molecule, atom, or ion.
+product :
+Substance that forms as a result of a chemical reaction.
+reactant :
+Substance involved in a chemical reaction that is present at the beginning of the reaction.
+redox reaction :
+A chemical reaction in which atom(s) have their oxidation state changed.
+redox state :
+Describes the balance between NAD + /NADH and NADP + /NADPH.
+reduction :
+The gain of electrons or a decrease in oxidation state by a molecule, atom, or ion.
+substitution reaction :
+Type of chemical reaction in which one element replaces another element in a compound.
+synthesis reaction :
+Type of chemical reaction in which elements or compounds unite to form a more complex product.
+A chemical reaction is a process that changes some chemical substances into others.
+It involves breaking and forming chemical bonds.
+Types of chemical reactions include synthesis reactions and decomposition reactions.
+Identify the roles of reactants and products in a chemical reaction.
+Describe each type of chemical reaction.

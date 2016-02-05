@@ -1,0 +1,20 @@
+In one of the experiments, yellow light is used, and in the other experiment, green light is used.
+Green light has a shorter wavelength than yellow light.
+Which of the following statements is true?
+The two experiments will have the same distance between the central bright band and the first dark band.
+The green light experiment will have a greater distance between the central bright band and the first dark band.
+The yellow light experiment will have a greater distance between the central bright band and the first dark band.
+Why are the edges of shadows often fuzzy?
+Interference occurs on the wall on which the shadow is falling.
+Light diffracts around the edges of the object casting the shadow.
+The edges of the object casting the shadow is fuzzy.
+Light naturally spreads out.
+Monochromatic, coherent light passing through a double slit will produce exactly the same interference pattern as when it passes through a single slit.
+If monochromatic light passes through a 0.050 mm slit and is projected onto a screen 0.70 m away with a distance of 8.00 mm between the central bright band and the first dark band, what is the wavelength of the light?
+A krypton ion laser with a wavelength of 524.5 nm illuminates a 0.0450 mm wide slit.
+If the screen is 1.10 m away, what is the distance between the central bright band and the first dark band?
+Light from a He-Ne laser (\lambda = 632.8 \ nm)  falls on a slit of unknown width.
+In the pattern formed on a screen 1.15 m away, the first dark band is 7.50 mm from the center of the central bright band.
+How wide is the slit?
+single slit interference:  When monochromatic, coherent light falls upon a small single slit it will produce a pattern of bright and dark fringes.
+These fringes are due to light from one side of the slit interacting (interfering) with light from the other side.

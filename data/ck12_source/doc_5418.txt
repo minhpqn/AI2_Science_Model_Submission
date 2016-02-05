@@ -1,0 +1,20 @@
+basal factor :
+A transcription factor that helps position RNA polymerase at the start of a gene.
+basal transcription complex (BTC) :
+Eukaryotic transcription complex composed of the RNA polymerase and additional proteins that are necessary for correct initiation and elongation.
+CCAAT Box :
+A cis-regulatory region located roughly 75-80 bases upstream of the transcription initiation site; has the consensus sequence GGCCAATCT.
+CCAAT-enhancer-binding protein (C/EBP) :
+A family of transcription factors that interact with the CCAAT box motif; binds DNA through a conserved basic-leucine zipper motif.
+cis-regulatory element :
+A region of DNA which regulates the expression of a gene or multiple genes located on that same strand of DNA.
+enhancer :
+A site on the DNA strand that can be bound by activator(s) in order to loop the DNA, bringing a specific promoter to the initiation complex.
+leucine zipper :
+A major structural motif of proteins capable of binding DNA; found in certain transcription factors; uses leucine residues in an α helical structure to hold two subunits together.
+Pribnow box :
+Bacterial promoter element with a consensus TATAAT sequence.
+promoter :
+A segment of DNA that allows a gene to be transcribed; segment where RNA polymerase binds to start transcription.
+regulatory protein :
+A protein involved in regulating gene expression; usually bound to a cis-regulatory element; also known as a transcription factor.

@@ -1,0 +1,20 @@
+The atom often (but not always) turns into a different element during the decay process.
+The amount of radiation given off by a certain sample of radioactive material depends on the amount of material, how quickly it decays, and the nature of the decay product.
+Big, rapidly decaying samples are most dangerous.
+The measure of how quickly a nucleus decays is given by the half-life of the nucleus.
+One half-life is the amount of time it will take for half of the radioactive material to decay.
+The type of atom is determined by the atomic number (i.e. the number of protons).
+The atomic mass of an atom is approximately the number of protons plus the number of neutrons.
+Typically, the atomic mass listed in a periodic table is an average, weighted by the natural abundances of different isotopes.
+The atomic mass number in a nuclear decay process is conserved.
+This means that you will have the same total atomic mass number on both sides of the equation.
+Charge is also conserved in a nuclear process.
+It is impossible to predict when an individual atom will decay; one can only predict the probability.
+However, it is possible to predict when a portion of a macroscopic sample will decay extremely accurately because the sample contains a vast number of atoms.
+Click on the image above for more content
+Watch this Explanation
+Click on the image above for more content
+After 6 seconds, the mass of a sample of radioactive material has reduced from 100 grams to 25 grams.
+Its half-life must be
+For any radioactive material, when does its half-life,
+First decrease and then increase?

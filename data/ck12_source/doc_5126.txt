@@ -1,0 +1,20 @@
+These are key events in the life of a cell.
+This image depicts an animal cell in the final stages of cell division.
+Essentially, the cell grows in size, the nucleus divides (mitosis), and then the cytoplasm divides (cytokinesis), forming new plasma membrane between the two genetically identical daughter cells.
+Corresponding cell division in prokaryotes is known as binary fission .
+In binary fission, the cell divides, but of course, there is no nucleus, so mitosis does not occur.
+The DNA must still replicate prior to division.
+For single-celled organisms, which includes all bacteria and single-celled eukaryotes, cell division is how that organism reproduces, creating an entirely new organism.
+In another type of eukaryotic cell division called meiosis , a cell is permanently transformed into a haploid gamete, with half as much DNA as the parent cell, and may not divide again until fertilization.
+An introductory animation of cell division and the cell cycle can be viewed at  .
+Click on the image above for more content
+binary fission :
+Asexual reproduction in prokaryotic organisms; produces two identical cells.
+cell :
+The basic unit of structure and function of all living organisms.
+cell cycle :
+A repeating series of events, during which the eukaryotic cell carries out its necessary functions, including metabolism, cellular growth, DNA replication and cell division, resulting in two genetically identical daughter cells.
+cell division :
+The process of cell formation from the division of older cells.
+chromosome :
+The coiled structure of DNA and histone proteins; allows for the precise separation of replicated DNA; forms during prophase of mitosis and meiosis.

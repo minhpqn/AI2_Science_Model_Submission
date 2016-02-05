@@ -1,0 +1,20 @@
+If the volume is constant, then V_1 = V_2 and canceling  V out of the equation leaves Gay-Lussac’s law.
+The combined gas law shows the relationships among temperature, volume, and pressure.
+\frac{P_1V_1}{T_1} = \frac{P_2V_2}{T_2}
+Work on the problems at the link below:
+What is the only thing held constant in a combined gas law problem?
+If you want to solve for the volume of a gas  (V_2) and  P_1 is greater than P_2 , would you expect  V_2 to be larger or smaller than V_1 ?
+What would be the equation for finding  P_2 given all the other parameters?
+combined gas law:
+Expresses the relationship between the pressure, volume, and absolute temperature of a fixed amount of gas.
+State Avogadro’s Law.
+Use this law to perform calculations involving quantities of gases.
+Avogadro's Law tells us that putting gas into a tire increases its pressure
+How much air do you put into a tire?
+A flat tire is not very useful.
+It does not cushion the rim of the wheel and creates a very uncomfortable ride.
+When air is added to the tire, the pressure increases as more molecules of gas are forced into the rigid tire.
+How much air should be put into a tire depends on the pressure rating for that tire.
+Too little pressure and the tire will not hold its shape.
+Too much pressure and the tire could burst.
+You have learned about Avogadro’s hypothesis: equal volumes of any gas at the same temperature and pressure contain the same number of molecules.

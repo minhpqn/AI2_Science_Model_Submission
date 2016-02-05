@@ -1,0 +1,20 @@
+The organisms are injected into the contaminated region.
+They consume the pollutant.
+Bioremediation is short for biological remediation.
+Chemical remediation can also treat water in the aquifer.
+A chemical is pumped into the aquifer.
+The chemical destroys the contaminant.
+It is much more difficult and expensive to remove the water from the aquifer and then treat it.
+The water is pumped to the surface.
+It is then cleansed using chemical or biological methods.
+It is re-injected into the aquifer.
+The contaminated rock and soil must be dug up and the pollutant destroyed.
+Then it is returned to the ground.
+This is done only in extreme cases.
+To clean groundwater: remove the pollutant source, monitor the pollutant, and perform remediation.
+Scientists test the water in many wells to see where the contaminant is.
+They do this to tell where the contaminant is.
+Over time they can tell which direction the contaminant is moving.
+Cleaning groundwater in an aquifer requires bioremediation or chemical remediation.
+Bioremediation uses microorganisms to consume a pollutant.
+Chemical remediation destroys the contaminant.

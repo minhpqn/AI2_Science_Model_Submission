@@ -1,0 +1,20 @@
+Using the quadratic formula will give you two answers; be careful to think about the answer you get - does it make sense?
+To solve the problem, we plug the speed and time into the equation for distance:
+d_{\text{horizontal}} = (0.816 \ \text{s})(56.6 \ \text{m/s}) = 46.2 \ \text{m}
+To calculate projectile motion at an angle, first resolve the initial velocity into its horizontal and vertical components.
+Analysis of projectile motion involves dealing with two motions independently.
+Vertical components will always have the acceleration of gravity acting on them.
+Vertical motion is symmetrical - the distance and time are the same in the rise as in the fall; the final velocity will have the same magnitude as the initial velocity but in the opposite direction.
+Horizontal components will never be effected by gravity; it is constant velocity motion.
+The following video shows the famous "shoot the monkey" demonstration.
+The idea is that if a cannon aimed at a monkey, and fired at exactly the moment the monkey drops, the monkey will always be hit by the cannon ball.
+The results of the demonstration may be surprising given that it seems that the projectile will miss the monkey because the monkey will fall under the cannon ball.
+Click on the image above for more content
+What is the cannon ball in this video?
+What is used as the monkey in this video?
+Does the velocity of the cannon ball matter, or will it hit the monkey at any velocity?
+A player kicks a football from ground level with a velocity of magnitude 27.0 m/s at an angle of 30.0° above the horizontal.
+Find the time the ball is in the air.
+Find the maximum height of the ball.
+Find the horizontal distance the ball travels.
+A person standing on top of a 30.0 m high building throws a ball with an initial velocity of 20. m/s at an angle of 20.0° below horizontal.

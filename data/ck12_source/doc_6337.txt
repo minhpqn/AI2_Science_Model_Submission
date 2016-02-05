@@ -1,0 +1,20 @@
+This in turn decreases the pressure and provides a relief to the original stress of a pressure increase.
+An increase in pressure on an equilibrium system favors the reaction which produces fewer total moles of gas.
+In this case, it is the forward reaction that is favored.
+A decrease in pressure on the above system could be achieved by pulling the piston outward, increasing the container volume.
+The equilibrium would respond by favoring the reverse reaction in which NH 3 decomposes to N 2 and H 2 .
+This is because the overall number of gas molecules would increases and so would the pressure.
+A decrease in pressure on an equilibrium system favors the reaction which produces more total moles of gas.
+This is summarized in the Table below .
+reaction produces fewer gas molecules
+reaction produces more gas molecules
+Like changes in concentration, the  K_{eq} value for a given reaction is unchanged by a change in pressure.
+It is important to remember when analyzing the effect of a pressure change on equilibrium that only gases are affected.
+If a certain reaction involves liquids or solids, they should be ignored.
+Calcium carbonate decomposes according to the equilibrium reaction:
+\text{CaCO}_3(s) \rightleftarrows \text{CaO}(s)+\text{O}_2(g)
+Oxygen is the only gas in the system.
+An increase in the pressure of the system slows the rate of decomposition of CaCO 3 because the reverse reaction is favored.
+When a system contains equal moles of gas on both sides of the equation, pressure has no effect on the equilibrium position, as in the formation of HCl from H 2 and Cl 2 .
+\text{H}_2(g)+\text{Cl}_2(g) \rightleftarrows 2\text{HCl}(g)
+The influence of pressure on an equilibrium system is described.

@@ -1,0 +1,20 @@
+Example Problem:
+According to the Bohr model, how many times larger is the second level hydrogen orbit compared to the first level hydrogen orbit?
+Solution: 4 times
+Rutherford, using Coulomb’s law and Newton’s laws, found that the results of his 'gold foil experiment' could be explained only if all the positive charge of the atom were concentrated in a tiny, central core, now called the nucleus.
+The atom is 10,000 times as large as the nucleus and is mostly empty space.
+The energies of light frequencies in the emission spectrum of atoms is much too small to be involved in the nucleus of atoms, therefore, any explanation of these wavelengths would have to involve the electron arrangement.
+Bohr hypothesized that the electrons were organized into stepwise energy levels within the electron cloud in a planetary model and only radiated energy when the electrons were changing from one energy level to another.
+Bohr suggested that the energy levels were quantized, that is, the energy held by the atomic electrons came in packages and only whole packages could be absorbed or emitted.
+Einstein’s theory says that each light photon has an energy of hf , where  h is Planck’s constant, and f is the frequency.
+The emission of a photon of light from an atom indicates a change in energy level for an electron such that hf = E_{higher} - E_{lower}
+The energy of an electron in a given energy level of hydrogen is calculated by
+E_n=(-2.17\times 10^{-18} \ J)\left(\frac{1}{n^2}\right) .
+Click on the image above for more content
+Follow up questions:
+Why does the Rutherford planetary model predict that the electron would collapse into the nucleus?
+Bohr used Planck’s suggestion that energy emitted by matter was not emitted in continuous quantities but in _________ bundles.
+Bohr’s calculations were based on the atoms of which element?
+Why did Rutherford suggest that the positive charge in an atomic nucleus is concentrated in a tiny region rather than spread evenly throughout the atom?
+The absorption spectrum of an element has the same frequencies as the emission spectrum.
+How does Bohr’s theory explain this?

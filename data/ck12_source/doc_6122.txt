@@ -1,0 +1,20 @@
+The pressure of the hydrogen is found by subtraction.
+Then, the volume of the gas at STP can be calculated by using the combined gas law.
+Step 2:
+Solve.
+P_{H_2}=P_{\text{Total}}-P_{H_2 O}=739.7 \text{ mmHg} -17.54 \text{ mmHg}=722.2 \text{ mmHg}
+Now the combined gas law is used, solving for V_2 , the volume of hydrogen at STP.
+V_2=\frac{P_1 \times V_1 \times T_2}{P_2 \times T_1}=\frac{722.2 \text{ mmHg} \times 2.58 \text{ L} \times 273 \text{ K}}{760 \text{ mmHg} \times 293 \text{ K}}=2.28 \text{ L } H_2
+Step 3:
+Think about your result.
+If the hydrogen gas were to be collected at STP and without the presence of the water vapor, its volume would be 2.28 L.
+This is less than the actual collected volume because some of that is water vapor.
+The conversion using STP is useful for stoichiometry purposes.
+The vapor pressure due to water in a sample can be corrected for in order to get the true value for the pressure of the gas.
+Watch the video at the link below and answer the following questions:
+Click on the image above for more content
+What was the thistle tube used for?
+How did the instructor tests for oxygen?
+Did you observe any unsafe lab practices in the video?
+What would have happened to the splint if carbon dioxide had been collected?
+Why is gas collected over water not pure?

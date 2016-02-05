@@ -1,0 +1,20 @@
+Weight is a measure of the force of gravity pulling down on an object, whereas buoyant force pushes up on an object.
+Which force is greater determines whether an object sinks or floats.
+Look at the Figure below .
+On the left, the object’s weight is the same as the buoyant force acting on it, so the object floats.
+On the right, the object’s weight is greater than the buoyant force acting on it, so the object sinks.
+Diagram illustrating why some objects float and others sink
+Because of buoyant force, objects seem lighter in water.
+You may have noticed this when you went swimming and could easily pick up a friend or sibling under the water.
+Some of the person’s weight was countered by the buoyant force of the water.
+Density and Buoyant Force
+Density, or the amount of mass in a given volume, is also related to the ability of an object to float.
+That’s because density affects weight.
+A given volume of a denser substance is heavier than the same volume of a less dense substance.
+For example, ice is less dense than liquid water.
+This explains why the giant ice berg in the Figure below is floating in the ocean.
+You can see other examples of density and buoyant force at this URL:
+Q :
+Can you think of more examples of substances that float in a fluid because they are low in density?
+A :
+Oil is less dense than water, so oil from a spill floats on ocean water.

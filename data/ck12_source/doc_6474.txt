@@ -1,0 +1,20 @@
+Electricity on the other hand, requires the passage of electrons through a conducting medium, such as a wire, in order to do work.
+This work could be lighting a light bulb or powering a refrigerator or heating a house.
+When the redox reaction is direct, those electrons cannot be made to do work.
+Instead, we must separate the oxidation process from the reduction process and force the electrons to move from one place to another in between.
+That is the key to the structure of the electrochemical cell.
+An electrochemical cell is any device that converts chemical energy into electrical energy or electrical energy into chemical energy.
+There are three components that make up an electrochemical reaction.
+There must be a solution where redox reactions can occur.
+These reactions generally take place in water to facilitate electron and ion movement.
+A conductor must exist for electrons to be transferred.
+This conductor is usually some kind of wire so that electrons can move from one site to another.
+Ions also must be able to move through some form of salt bridge that facilitates ion migration.
+Electrochemistry is defined.
+A description of an electrochemical cell is given.
+Components of an electrochemical reaction are listed.
+Read the material at the link below and answer the following questions:
+Spontaneous reactions occur in what type of system?
+Nonspontaneous reactions occur in what type of system?
+What is potential?
+How is potential measured?

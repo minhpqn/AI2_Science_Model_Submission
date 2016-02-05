@@ -1,0 +1,20 @@
+This type of feedback brings things back to normal whenever they start to become too extreme.
+The thyroid gland is a good example of this type of regulation.
+It is controlled by the negative feedback loop shown in Figure below .
+You can also watch an animation of this process at the link below.
+Regulation of the thyroid gland
+The thyroid gland is regulated by a negative feedback loop.
+The loop includes the hypothalamus and pituitary gland in addition to the thyroid.
+Here’s how thyroid regulation works.
+The hypothalamus secretes thyrotropin-releasing hormone, or TRH.
+TRH stimulates the pituitary gland to produce thyroid-stimulating hormone, or TSH.
+TSH, in turn, stimulates the thyroid gland to secrete its hormones.
+When the level of thyroid hormones is high enough, the hormones feedback to stop the hypothalamus from secreting TRH and the pituitary from secreting TSH.
+Without the stimulation of TSH, the thyroid gland stops secreting its hormones.
+Soon, the level of thyroid hormone starts to fall too low.
+What do you think happens next?
+This process is discussed at
+Click on the image above for more content
+Negative feedback also controls insulin secretion by the pancreas.
+You can interact with a feedback loop of this process at the link below.
+Positive feedback occurs when a product feeds back to increase its own production.

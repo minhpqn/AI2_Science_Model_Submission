@@ -1,0 +1,20 @@
+So what would be done if it was necessary to know the genotype?
+A testcross can be used to determine the organism's genotype.
+In a testcross, the individual with the unknown genotype is crossed with a homozygous recessive individual ( Figure below ).
+Consider the following example:
+Suppose you have a purple and white flower and purple color ( P ) is dominant to white ( p ).
+The white flower must be homozygous for the recessive allele, but the genotype of the purple flower is unknown.
+It could be either PP or Pp .
+A testcross will determine the organism's genotype.
+The unknown genotype can be determined by observing the phenotypes of the resulting offspring.
+If crossing the unknown dominant phenotype ( PP or Pp genotype) individual with the recessive phenotype individual produces only dominant phenotypes (no recessive), then the unknown individual is homozygous dominant.
+If any recessive phenotypic individuals result from the cross, then the unknown individual must carry the recessive allele, and have the heterozygous genotype.
+In the example shown here, a testcross is done to determine the genotype of a parental Agouti rat.
+Agouti ( A ) refers to a pattern of pigmentation in which individual hairs have several bands of light and dark pigment with black tips, and is the common color of the Norway rat, Rattus norvegicus .
+Agouti is the dominant phenotype, and in this example, has the genotypes AA or Aa.
+White fur color is the recessive phenotype, with a aa genotype.
+If rats with white fur result from the parental cross, then both parents must carry the recessive allele, and the unknown parent must have an Aa genotype.
+A testcross helps reveal the genotype of an organism when that organism shows the dominant trait, such as agouti coat color in rats.
+Such an organism could be homozygous dominant or heterozygous.
+Determining Missing Genotypes
+A Punnett square can also be used to determine a missing genotype based on the other genotypes involved in a cross.

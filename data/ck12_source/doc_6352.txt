@@ -1,0 +1,20 @@
+The ion product is calculated and compared to the  K_{sp} to determine if a precipitate forms.
+Step 2:
+Solve .
+The moles of each ion from the original solutions are calculated by multiplying the molarity by the volume in liters.
+\text{mol Ba}^{2+}&=0.0050 \ \text{M} \times 0.010 \ \text{L}=5.0 \times 10^{-5} \ \text{mol Ba}^{2+} \\\text{mol SO}_4^{2-}&=0.0020 \ \text{M} \times 0.020 \ \text{L}=4.0 \times 10^{-5} \ \text{mol SO}_4^{2-}
+The concentration of each ion after dilution is then calculated by dividing the moles by the final solution volume of 0.030 L.
+[\text{Ba}^{2+}] &=\frac{5.0 \times 10^{-5} \ \text{mol}}{0.030 \ \text{L}}=1.7 \times 10^{-3} \ \text{M} \\\left [\text{SO}_4^{2-}\right ] &=\frac{4.0 \times 10^{-5} \ \text{mol}}{0.030 \ \text{L}}=1.3 \times 10^{-3} \ \text{M}
+Now the ion product is calculated.
+[\text{Ba}^{2+}][\text{SO}_4^{2-}]=(1.7 \times 10^{-3})(1.3 \times 10^{-3})=2.2 \times 10^{-6}
+Since the ion product is greater than the K_{sp} , a precipitate of barium sulfate will form.
+Step 3:
+Think about your result .
+Two significant figures are appropriate for the calculated value of the ion product.
+Calculations are shown which allow the prediction of precipitate formation based on K_{sp} .
+Work the problems at the link below:
+A useful table for constants can be found here:
+What would be the equation for the ion product of BaCl 2 ?
+What happens if the ion product is less than the K_{sp} ?
+Why did we not need to calculate an ion product for NaCl?
+ion product:

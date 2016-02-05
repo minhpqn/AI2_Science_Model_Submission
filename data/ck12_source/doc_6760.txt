@@ -1,0 +1,20 @@
+Car Collision (CK-12 Simulation)
+Two blocks collide on a frictionless surface, as shown above.
+Afterwards, they have a combined mass of 10 \;\mathrm{kg} and a speed of 2.5 \;\mathrm{m/s} .
+Before the collision, one of the blocks was at rest.
+This block had a mass of 8.0 \;\mathrm{kg} .
+What was the mass and initial speed of the second block?
+In the above picture, the carts are moving on a level, frictionless track.
+After the collision all three carts stick together.
+Determine the direction and speed of the combined carts after the collision.
+The train engine and its four boxcars are coasting at 40 \;\mathrm{m/s} .
+The engine train has mass of 5,500 \;\mathrm{kg} and the boxcars have masses, from left to right, of 1,000 \;\mathrm{kg} , 1,500 \;\mathrm{kg} , 2,000 \;\mathrm{kg}, and 3,000 \;\mathrm{kg} . (For this problem, you may neglect the small external forces of friction and air resistance.)
+What happens to the speed of the train when it releases the last boxcar? ( Hint:
+Think before you blindly calculate. )
+If the train can shoot boxcars backwards at 30 \;\mathrm{m/s} relative to the train’s speed, how many boxcars does the train need to shoot out in order to obtain a speed of 58.75 \;\mathrm{m/s} ?
+In Sacramento a 4000 \;\mathrm{kg} SUV is traveling 30 \;\mathrm{m/s} south on Truxel crashes into an empty school bus, 7000 \;\mathrm{kg} traveling east on San Juan.
+The collision is perfectly inelastic.
+Find the velocity of the wreck just after collision
+Find the direction in which the wreck initially moves
+Manrico (80.0\;\mathrm{kg}) and Leonora (60.0\;\mathrm{kg}) are figure skaters.
+They are moving toward each other.

@@ -1,0 +1,20 @@
+The hydrogen is oxidized because it undergoes a partial loss of electrons.
+Even though the loss is not complete enough to form ions, the hydrogen atoms in water have less electron density near them than they did in the H 2 molecule.
+The oxygen is reduced because it undergoes a partial gain of electrons.
+The oxygen atom in water has greater electron density near it than they did in the O 2 molecule.
+Another approach to this type of problem is to go back to our earlier definitions of oxidation being gain of oxygen or loss of hydrogen and reduction being gain of hydrogen or loss of oxygen.
+This makes the decision about redox reactions much easier.
+The hydrogen is oxidized because it added oxygen to form water.
+Conversely, the oxygen is reduced because it added hydrogen to form water.
+Oxidation and reduction in molecular compounds are described.
+In each of the following reactions, state whether C is oxidized or reduced:
+\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_3 \rightarrow \text{CH}_3\text{CH=CHCH}_3
+\text{CH}_3\text{CH=CH}_2 \rightarrow \text{CH}_3\text{CH}_2\text{CH}_3
+In the following reaction, state whether O is oxidized or reduced:
+\text{CH}_3\text{CH=O} \rightarrow \text{CH}_3\text{CH}_2\text{OH}
+Where are the electrons in the hydrogen and oxygen molecules covalent bonds?
+How does oxygen gain electrons in the water molecule?
+How does hydrogen lose electrons in the water molecule?
+Give examples of corrosion processes.
+This tractor has been corroded
+Just rusting away

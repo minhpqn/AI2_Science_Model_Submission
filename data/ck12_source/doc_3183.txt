@@ -1,0 +1,20 @@
+Relate wave amplitude to wave energy.
+Describe the wavelength of transverse and longitudinal waves.
+Relate wavelength to the energy of a wave.
+Nobody really has such colorful eyes!
+The colors were added digitally after the photo was taken.
+They represent all the different colors of light.
+Light is a form of energy that travels in waves.
+Light of different colors has different wavelengths.
+Wavelength is one way of measuring the size of waves.
+It is the distance between two corresponding points on adjacent waves, and it is usually measured in meters.
+How it is measured is a little different for transverse and longitudinal waves.
+In a transverse wave, particles of the medium vibrate up and down at right angles to the direction that the wave travels.
+The wavelength of a transverse wave can be measured as the distance between two adjacent crests, or high points, as shown in the Figure below .
+Wavelength of a transverse wave
+In a longitudinal wave, particles of matter vibrate back and forth in the same direction that the wave travels.
+The wavelength of a longitudinal wave can be measured as the distance between two adjacent compressions, as shown in the Figure below .
+Compressions are the places where particles of the medium crowd close together as the energy of the wave passes through.
+Wavelength of a longitudinal wave
+At the following URL, watch the animation to see examples of wavelength.
+Also, get a feel for wavelength by playing with the wave generator.

@@ -1,0 +1,20 @@
+How does it feel to be full after a meal?
+You had a great meal, but cannot put another bite in your mouth because there is no place for it to go.
+The noble gases have the same problem – there is no room for any more electrons in their outer shells.
+They are completely full and cannot handle any more.
+Noble Gas Configurations
+Sodium, element number eleven, is the first element in the third period of the periodic table.
+Its electron configuration is 1 s 2 2 s 2 2 p 6 3 s 1 .
+The first ten electrons of the sodium atom are the inner-shell electrons and the configuration of just those ten electrons is exactly the same as the configuration of the element neon (Z = 10).
+This provides the basis for a shorthand notation for electron configurations called the noble gas configuration.
+The elements that are found in the last column of the periodic table are an important group of elements that are called the noble gases.
+They are helium, neon, argon, krypton, xenon, and radon.
+A noble gas configuration of an atom consists of the elemental symbol of the last noble gas prior to that atom, followed by the configuration of the remaining electrons.
+So for sodium, we make the substitution of [Ne] for the 1 s 2 2 s 2 2 p 6 part of the configuration.
+Sodium’s noble gas configuration becomes [Ne]3 s 1 .
+Table below shows the noble gas configurations of the third period elements.
+Electron Configurations of Third-Period Elements
+Noble Gas Electron Configuration
+[Ne]3 s 1
+[Ne]3 s 2
+[Ne]3 s 2 3 p 1

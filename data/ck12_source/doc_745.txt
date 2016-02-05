@@ -1,0 +1,20 @@
+For a given capacitor, the amount of charge, Q , acquired by each plate is proportional to the potential difference, V .
+Q is the charge in coulombs, V is the voltage in volts, and C is the particular capacitor’s constant of proportionality.
+C is also called the capacitance of the capacitor.
+The capacitance is the voltage the capacitor can reach before it discharges, allowing the voltage across the capacitor to drop to zero and the current to cross the capacitor.
+The SI unit for capacitance, according to the equation above, will be coulombs/volt, and this unit has been given the name farad (F).
+Most capacitors have capacitances in the range of one picofarad (10 -12 F) to one microfarad (10 -6 F).
+Example Problem:
+A sphere has a potential difference between it and the earth of 60.0 V when charged with 3.0×10 -6 C.
+What is the capacitance?
+Solution:
+C=\frac{Q}{V}=\frac{3.0 \times 10^{-6} \text{ coulombs}}{60.0 \text{ volts}}=5.0 \times 10^{-8} \text{ farads}
+Since electrons repel each other, when excess electrons are placed on a conductor, they will move to positions as far away from each other as possible.
+When a charged conductor is touched to an uncharged conductor, the electrons will migrate until the density of the charge becomes evenly distributed over the entire surface.
+Touching a charged object to the earth is called grounding.
+A charged conducting sphere will always have all the excess charge on its surface.
+A typical capacitor consists of a pair of parallel plates, separated by a small distance.
+Q = CV , where Q is the charge in coulombs,  V is the voltage in volts, and  C is the constant of proportionality, or capacitance.
+The video below covers capacitors.
+Use this resource to answer the three questions that follow.
+Click on the image above for more content

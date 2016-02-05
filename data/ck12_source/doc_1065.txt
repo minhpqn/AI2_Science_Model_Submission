@@ -1,0 +1,20 @@
+Identify and define latitude and longitude.
+Define the Prime Meridian.
+Understand how coordinates are used on a map.
+Summarize Global Positioning Systems.
+How could you locate this feature?
+Geologists, hikers, and many other people need to be able to say where they are.
+Or where they want to go.
+They need to be able to mark a location on a map.
+The opening photo is of Old Faithful Geyser in Yellowstone National Park.
+It is located at 44°30'N and 110°150'W.
+Let’s explore what that means.
+To describe your location, you could use a coordinate system.
+To do this you need two points.
+For example, you could use streets.
+Maybe you are at the corner of Maple Avenue and Main Street.
+Or you could use a point of reference, a distance and an angle for direction.
+If you want to meet up with a friend, you could tell him “I am two blocks due north of your apartment.” Can you identify the point of reference, the distance, and the angle?
+Most maps use a grid of lines to help you to find your location.
+This grid system is called a geographic coordinate system .
+Using this system you can define your location by two numbers, latitude and longitude.

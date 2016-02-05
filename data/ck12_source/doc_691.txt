@@ -1,0 +1,20 @@
+Images in a plane mirror are reversed left and right but are not reversed top and bottom.
+Click on the image above for more content
+Follow up questions:
+Who is the movie star whose photo appears in the video?
+Are the images in the plane mirror upside down?
+Are the images in the plane mirror reversed left and right?
+A virtual image is one:
+toward which light rays converge but do not pass through.
+from which light rays diverge but do not pass through.
+from which light rays diverge as they pass through.
+toward which light rays converge and pass through.
+with a ray normal to a mirror passing through.
+An object is 2.0 m in front of a plane mirror.
+Its image is:
+virtual, inverted, and 2.0 m behind the mirror.
+virtual, inverted, and 2.0 m in front of the mirror.
+virtual, erect, and 2.0 m in front of the mirror.
+real, erect, and 2.0 m behind the mirror.
+virtual, erect, and 2.0 m behind the mirror.
+If the angle of incidence for an object and a plane mirror is 30°, what is the angle between the object and its image?

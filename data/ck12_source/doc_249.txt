@@ -1,0 +1,20 @@
+How does the Exploratorium demonstrate the relationship between simple harmonic motion and circular motion?
+Is it convincing?
+Why don't the pendulums all swing at the same rate?
+The following website has a set of questions and answers about simple harmonic motion.
+In simple harmonic motion, when the speed of the object is maximum, the acceleration is zero.
+In SHM, maximum displacement of the mass means maximum acceleration.
+If a spring has a spring constant of 1.00 × 10 3 N/m, what is the restoring force when the mass has been displaced 20.0 cm?
+simple harmonic motion:
+A type of periodic motion where the restoring force is directly proportional to the displacement.
+restoring force:
+A force that tends to restore a system to equilibrium after displacement.
+spring constant:
+A characteristic of a spring which is defined as the ratio of the force affecting the spring to the displacement caused by it.
+amplitude:
+The maximum displacement from equilibrium that occurs in an oscillation.
+cycle:
+A complete revolution in any repeating motion.
+period:
+The time required for one complete cycle in any repeating motion.
+frequency:

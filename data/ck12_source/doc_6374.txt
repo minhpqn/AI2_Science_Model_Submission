@@ -1,0 +1,20 @@
+The natural logarithm of a number less than one is negative and so the sign of \Delta G^\circ is positive.
+The Table below summarizes the relationship of  \Delta G^\circ to K_{eq} :
+Relationship of \Delta G^\circ and K_{eq}
+Products are favored at equilibrium.
+Reactants and products are equally favored.
+Reactants are favored at equilibrium.
+Knowledge of either the standard free energy change or the equilibrium constant for a reaction allows for the calculation of the other.
+The following two sample problems illustrate each case.
+Sample Problem:
+Gibbs Free Energy and the Equilibrium Constant
+The formation of nitrogen monoxide from nitrogen and oxygen gases is a reaction that strongly favors the reactants at 25°C.
+\text{N}_2(g)+\text{O}_2(g) \rightleftarrows 2\text{NO}(g)
+The actual concentrations of each gas would be difficult to measure, and so the  K_{eq} for the reaction can more easily calculated from the \Delta G^\circ , which is equal to 173.4 kJ/mol.
+Step 1:
+List the known values and plan the problem.
+\Delta G^\circ=+173.4 \ \text{kJ} / \text{mol}
+R=8.314 \ \text{J} / \text{K} \cdot \text{mol}
+T=25^\circ \text{C}=298 \ \text{K}
+In order to make the units agree, the value of \Delta G^\circ will need to be converted to J/mol (173,400 J/mol).
+To solve for K_{eq} , the inverse of the natural logarithm, e^x , will be used.

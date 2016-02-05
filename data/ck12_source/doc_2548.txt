@@ -1,0 +1,20 @@
+Q:
+The idea that energy is transferred only in discrete units, or quanta, was revolutionary when Max Planck first proposed it in 1901.
+However, what scientists already knew about matter may have made it easier for them to accept the idea of energy quanta.
+Can you explain?
+A:
+Scientists already knew that matter exists in discrete units called atoms.
+This idea had been demonstrated by John Dalton around 1800.
+Knowing this may have made it easier for scientists to accept the idea that energy exists in discrete units as well.
+In Bohr’s atomic model, electrons move around the nucleus only at fixed distances from the nucleus based on the amount of energy they have.
+The fixed distances where electrons may orbit are called energy levels.
+Bohr arrived at his model by applying Planck’s idea of energy quanta to Rutherford’s atomic model of electrons orbiting the nucleus.
+Read the article at the following URL.
+Be sure to click through the animation at the bottom of the Web page.
+Then answer the questions below.
+What are atomic orbitals?
+How many electrons can each orbital hold?
+How are orbitals related to energy levels?
+How many electrons can be found at energy level 1?
+At energy level 2?
+How does Bohr’s atomic model build on Rutherford’s model?

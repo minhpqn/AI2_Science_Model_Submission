@@ -1,0 +1,20 @@
+We can now consider those two vectors to be the sides of a right triangle and find the length and direction of the hypotenuse using the Pythagorean Theorem and trig functions.
+c=\sqrt{38.8^2+62.8^2}=74 \ \text{N}
+\sin \ x=\frac{62.8}{74} \ \text{so} \ x=\sin^{-1} 0.84 \ \text{so} \ x=58^\circ
+The direction of the sum vector is 74 N at 58° north of east.
+Perpendicular vectors have no components in the other direction.
+For example, if a boat is floating down a river due south, and you are paddling the boat due east, the eastward vector has no component in the north-south direction and therefore, has no effect on the north-south motion.
+If the boat is floating down the river at 5 mph south and you paddle the boat eastward at 5 mph, the boat continues to float southward at 5 mph.
+The eastward motion has absolutely no effect on the southward motion.
+Perpendicular vectors have NO effect on each other.
+Example Problem:  A motorboat heads due east at 16 m/s across a river that flows due north at 9.0 m/s.
+(a) What is the resultant velocity of the boat?
+(b) If the river is 135 m wide, how long does it take the boat to reach the other side?
+(c) When the boat reaches the other side, how far downstream will it be?
+(a)  Since the two motions are perpendicular to each other, they can be assigned to the legs of a right triangle and the hypotenuse (resultant) calculated.
+c=\sqrt{a^2+b^2}=\sqrt{(16 \ \text{m/s})^2+(9.0 \ \text{m/s})^2}=18 \ \text{m/s}
+\sin \theta=\frac{9.0}{18}=0.500 \ \text{and therefore} \ \theta=30^\circ
+The resultant is 18 m/s at 30° north of east.
+(b)  The boat is traveling across the river at 16 m/s due to the motor.  The current is perpendicular and therefore has no effect on the speed across the river.  The time required for the trip can be determined by dividing the distance by the velocity.
+t=\frac{d}{v}=\frac{135 \ \text{m}}{16 \ \text{m/s}}=8.4 \ \text{s}
+(c)   The boat is traveling across the river for 8.4 seconds and therefore, it is also traveling downstream for 8.4 seconds.  We can determine the distance downstream the boat will travel by multiplying the speed downstream by the time of the trip.

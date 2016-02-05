@@ -1,0 +1,20 @@
+Splicing.
+Splicing removes introns from mRNA.
+UTR is an untranslated region of the mRNA.
+Ribonucleoproteins are nucleoproteins that contains RNA.
+Small nuclear ribonuclearproteins are involved in pre-mRNA splicing.
+One example of alternative splicing is with exon skipping.
+The D. melanogaster (fruit fly) doublesex (dsx) gene is involved in the fly's determination system.
+Pre-mRNAs from this gene contain 6 eons, numbered 1-6.
+In males, exons 1,2,3,5,and 6 are spliced together to form the mRNA, which encodes a transcriptional regulatory protein required for male development.
+In females, exons 1, 2, 3, and 4 are joined, and a polyadenylation signal in exon 4 causes cleavage of the mRNA at that point.
+The resulting mRNA is a transcriptional regulatory protein required for female development.
+Spliceosomal splicing and self-splicing involves a two-step biochemical process.
+Both steps involve reactions that occur between RNA nucleotides.
+First, the 2'-OH of a exon-intron junction nucleotide within the intron binds to the first nucleotide of the intron at the 5' splice site, forming an intermediate known as a lariat .
+Second, the 3'-OH of the released 5' exon then binds to the last nucleotide of the intron at the 3' splice site thus joining the exons and releasing the intron lariat.
+The two-step chemistry of mRNA splicing.
+5' cap Addition
+How does the mRNA know it is time to leave the nucleus?
+Once the mRNA leaves the nucleus, how does it find a ribosome?
+A signal on the front, 5’-end of the mRNA helps with both jobs.

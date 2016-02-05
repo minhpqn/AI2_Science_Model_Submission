@@ -1,0 +1,20 @@
+In fact, its velocity increases by 9.8 m/s 2 , so by 1 second after an object starts falling, its velocity is 9.8 m/s.
+By 2 seconds after it starts falling, its velocity is 19.6 m/s (9.8 m/s + 9.8 m/s), and so on.
+The acceleration of a falling object due to gravity is illustrated in the Figure below .
+For a more detailed explanation of acceleration due to gravity, watch this video:
+Click on the image above for more content
+You can compare the acceleration due to gravity on Earth, the moon, and Mars with the interactive animation called “Freefall” at this URL:
+Object falling off a cliff
+Q :
+In this diagram, the boy drops the object at time t = 0 s.
+By t = 1 s, the object is falling at a velocity of 9.8 m/s.
+What is its velocity by t = 5 s?
+What will its velocity be at t = 6 s if it keeps falling?
+A :
+Its velocity at t = 5 s is 49.0 m/s, and at t = 6 s, it will be 58.8 m/s (49.0 m/s + 9.8 m/s).
+Mass and Acceleration Due to Gravity
+What if you were to drop a bowling ball and a soccer ball at the same time from the same distance above the ground?
+The bowling ball has greater mass than the basketball, so the pull of gravity on it is greater.
+Would it fall to the ground faster?
+No, the bowling ball and basketball would reach the ground at the same time.
+The reason?

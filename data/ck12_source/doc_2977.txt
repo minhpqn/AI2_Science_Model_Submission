@@ -1,0 +1,20 @@
+Tug of war illustrating the concept of net force
+Q :
+The boys in the Figure below are about to kick the soccer ball in opposite directions.
+What will be the net force on the ball?
+In which direction will the ball move?
+Two soccer players illustrating the concept of net force
+A :
+The net force on the ball will be 50 N to the left (125 N – 75 N = 50 N), so the ball will move to the left.
+Forces Acting in the Same Direction
+If two forces act on an object in the same direction, the net force is equal to the sum of the two forces.
+This always results in a stronger force than either of the individual forces alone.
+In the Figure below , after the man on the left picks up the couch, he will push the couch to the right with a force of 25 Newtons, and the man on the right will pull the couch to the right with a force of 20 Newtons.
+The net force on the couch is 45 Newtons to the right, so that’s the way the couch will move.
+Workers illustrating the concept of net force
+The net force acting on an object is the combination of all of the individual forces acting on it.
+If two forces act on an object in opposite directions, the net force is the difference between the two forces.
+In this case, the net force is always greater than or equal to zero but less than either of the individual forces.
+If two forces act on an object in the same direction, the net force is the sum of the two forces.
+In this case, the net force is always greater than either of the individual forces.
+Practice calculating net force and determining the direction of motion by completing the worksheet at the following URL.

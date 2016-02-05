@@ -1,0 +1,20 @@
+Specific Heat (joules)
+Q:
+Metal cooking pots and pans often have wooden handles.
+Can you explain why?
+A:
+Wood has a higher specific heat than metal, so it takes more energy to heat a wooden handle than a metal handle.
+As a result, a wooden handle would heat up more slowly and be less likely to burn your hand when you touch it.
+Specific heat is a measure of how much energy it takes to raise the temperature of a substance.
+It is the amount of energy (in joules) needed to raise the temperature of 1 gram of the substance by 1 °C.
+Specific heat is a property that is specific to a given type of matter, and substances vary in their specific heat.
+Metals tend to have low specific heat.
+Water has very high specific heat.
+Watch the animation at the following URL, and then answer the questions below.
+Describe the experiment in the animation.
+Identify the independent and dependent variables.
+What variables are controlled in the experiment? ( Hint :
+What other variables might affect the outcome of the experiment?)
+Summarize the outcome of the experiment.
+Relate the outcome of the experiment to specific heat.
+What is specific heat?

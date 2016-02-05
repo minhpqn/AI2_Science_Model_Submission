@@ -1,0 +1,20 @@
+The eight stages of meiosis are summarized below.
+The stages will be described for a human cell, starting with 46 chromosomes.
+Phases of Meiosis.
+This flowchart of meiosis shows meiosis I in greater detail than meiosis II.
+Meiosis I—but not meiosis II—differs somewhat from mitosis.
+Compare meiosis I in this flowchart with the earlier figure featuring mitosis.
+How does meiosis I differ from mitosis?
+Meiosis I is referred to as a reductional division; it separates homologous chromosomes, producing two haploid cells.
+The starting diploid cell has 46 chromosomes (23 pairs of homologous chromosomes), each containing two sister chromatids attached at the centromere.
+After cytokinesis at the end of meiosis I, two haploid cells result.
+These cells contain 23 chromosomes, although each still contains two sister chromatids.
+Meiosis I separates the homologous pairs of chromosomes; one from each pair ends up in each resulting cell.
+Prophase I is the longest phase of meiosis.
+It is very similar to prophase of mitosis, but with one very significant difference.
+In Prophase I, the nuclear envelope breaks down, the chromatin condenses into chromosomes, and the centrioles begin to migrate to opposite poles of the cell, with the spindle fibers growing between them.
+During this time, the homologous chromosomes form pairs.
+These homologous chromosomes line up gene-for-gene down their entire length tetrads , allowing crossing-over to occur.
+This process is also called homologous recombination , and is an important step in creating genetic variation.
+Prophase I can be further divided into 5 distinct stages:
+Leptotene, Zygotene, Pachytene, Diplotene and Diakinesis.

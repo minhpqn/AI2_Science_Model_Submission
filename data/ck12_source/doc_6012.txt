@@ -1,0 +1,20 @@
+To figure this out, I need to know how much the shell of a walnut weighs (about 40% of the total weight of the unshelled walnut).
+I can then calculate the mass of walnuts that will give me 250 grams of shelled walnuts and then determine how many walnuts I need to buy.
+Mass to Mass Problems
+Mass-mass calculations are the most practical of all mass-based stoichiometry problems.
+Moles cannot be measured directly, while the mass of any substance can generally be easily measured in the lab.
+This type of problem is three steps and is a combination of the two previous types.
+\text{mass of} \ given \rightarrow \text{moles of} \ given \rightarrow \text{moles of} \ unknown \rightarrow \text{mass of} \ unknown
+The mass of the given substance is converted into moles by use of the molar mass of that substance from the periodic table.
+Then, the moles of the given substance are converted into moles of the unknown by using the mole ratio from the balanced chemical equation.
+Finally, the moles of the unknown are converted to mass by use of its molar mass.
+Sample Problem:
+Mass-Mass Stoichiometry
+Ammonium nitrate decomposes to dinitrogen monoxide and water according to the following equation.
+\text{NH}_4\text{NO}_3 (s) \rightarrow \text{N}_2 \text{O}(g)+2\text{H}_2\text{O}(l)
+In a certain experiment, 45.7 g of ammonium nitrate is decomposed.
+Find the mass of each of the products formed.
+Step 1:
+List the known quantities and plan the problem.
+given: 45.7 g NH 4 NO 3
+1 mol NH 4 NO 3 = 1 mol N 2 O = 2 mol H 2 O (mole ratios)

@@ -1,0 +1,20 @@
+Diffraction and Interference of Light
+Double Slit Interference
+Define diffraction of light.
+Define wave interference.
+Describe double slit interference patterns.
+Explain Thomas Young's contibutions to physics.
+Calculate the wavelength from a double slit interference pattern.
+Interference pattern in ocean waves
+When waves strike a small slit in a wall, they create circular wave patterns on the other side of the barrier.
+This is seen in the image above, where ocean waves create precise circular waves.
+The circular waves undergo constructive and destructive interference, which generates a regular interference pattern.
+Diffraction and Interference
+When a series of straight waves strike an impenetrable barrier, the waves stop at the barrier.
+However, the last particle of the medium at the back corner of the barrier will create circular waves from that point, called the point source.  This can be seen in the image below.
+This phenomenon is called  diffraction , and it occurs in liquid, sound, and light waves.
+While the waves become circular waves at the point source, they continue as straight waves where the barrier does not interfere with the waves.
+Diffraction of sound after a concrete wall
+Any two waves in the same medium undergo wave interference  as they pass each other.
+At the location where the two waves collide, the result is essentially a summation of the two waves.
+In some places, a wave crest from one source will overlap a wave crest from the other source.

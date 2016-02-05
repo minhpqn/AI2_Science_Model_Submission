@@ -1,0 +1,20 @@
+How do you make nitric acid?
+Nitric acid has many uses in the manufacture of fertilizers and explosives.
+Most nitric acid is manufactured from ammonia using a three-step process.
+The ammonia is oxidized to HNO 3 through the formation of several nitrogen oxides, finally resulting in the acid.
+Redox Reactions and Ionic Compounds
+In the course of a chemical reaction between a metal and a nonmetal, electrons are transferred from the metal atoms to the nonmetal atoms.
+For example, when zinc metal is mixed with sulfur and heated, the compound zinc sulfide is produced.
+Two valence electrons from each zinc atom are transferred to each sulfur atom.
+Zinc donates two of its valence electrons to sulfur to form zinc sulfide
+Reaction between zinc and sulfur.
+Since the zinc is losing electrons in the reaction, it is being oxidized.
+The sulfur is gaining electrons and is thus being reduced.
+An oxidation-reduction reaction is a reaction that involves the full or partial transfer of electrons from one reactant to another.
+Oxidation is the full or partial loss of electrons or the gain of oxygen.
+Reduction is the full or partial gain of electrons or the loss of oxygen.
+A redox reaction is another term for an oxidation-reduction reaction.
+Each of these processes can be shown in a separate equation called a half-reaction.
+A half-reaction is an equation that shows either the oxidation or the reduction reaction that occurs during a redox reaction.
+&\text{Oxidation:} \ \text{Zn} \rightarrow \text{Zn}^{2+}+2e^- \\& \text{Reduction:} \ \text{S}+2e^- \rightarrow \text{S}^{2-}
+It is important to remember that the two half-reactions occur simultaneously.

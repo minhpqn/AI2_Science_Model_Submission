@@ -1,0 +1,20 @@
+When you flip the switch, the electricity flows to the light through wires inside the walls.
+The electricity may have to travel many meters to reach the light, but the light still comes on as soon as you flip the switch.
+Nerve impulses travel just as fast through the network of nerves inside the body.
+The axons of many neurons are covered in a myelin sheath to allow for faster signal transmission
+The axons of many neurons, like the one shown here, are covered with a fatty layer called myelin sheath.
+The sheath covers the axon, like the plastic covering on an electrical wire, and allows nerve impulses to travel faster along the axon.
+The node of Ranvier, shown in this diagram, is any gap in the myelin sheath; it allows faster transmission of a signal.
+What Does a Neuron Look Like?
+A neuron has a special shape that lets it pass signals from one cell to another.
+A neuron has three main parts ( Figure above ):
+The cell body.
+The cell body contains the nucleus and other organelles.
+Dendrites and axons connect to the cell body, similar to rays coming off of the sun.
+Dendrites receive nerve impulses from other cells.
+Axons pass the nerve impulses on to other cells.
+A single neuron may have thousands of dendrites, so it can communicate with thousands of other cells but only one axon.
+The axon is covered with a myelin sheath , a fatty layer that insulates the axon and allows the electrical signal to travel much more quickly.
+The node of Ranvier is any gap within the myelin sheath exposing the axon, and it allows even faster transmission of a signal.
+Types of Neurons
+Neurons are usually classified based on the role they play in the body.

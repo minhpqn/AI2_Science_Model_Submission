@@ -1,0 +1,20 @@
+Identify shapes of saturated hydrocarbon molecules.
+You can tell that this sponge is saturated with water because when it is squeezed, the water pours out.
+When something is saturated with water, it already holds as much water as possible.
+Compounds called hydrocarbons, which contain only carbon and hydrogen, can also be saturated, but not with water.
+What Are Saturated Hydrocarbons?
+Saturated hydrocarbons are hydrocarbons that contain only single bonds between carbon atoms.
+They are the simplest class of hydrocarbons.
+They are called saturated because each carbon atom is bonded to as many hydrogen atoms as possible.
+In other words, the carbon atoms are saturated with hydrogen.
+You can see an example of a saturated hydrocarbon in the Figure below .
+In this compound, named ethane, each carbon atom is bonded to three hydrogen atoms.
+In the structural formula, each dash (-) represents a single covalent bond, in which two atoms share one pair of valence electrons.
+Ethane is a saturated hydrocarbon
+Q:
+What is the chemical formula for ethane?
+A:
+The chemical formula is C 2 H 6 .
+What’s in a Name?
+Saturated hydrocarbons are given the general name of alkanes .
+The name of specific alkanes always ends in – ane .

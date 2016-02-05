@@ -1,0 +1,20 @@
+A gene or piece of DNA is put in a vector , or carrier molecule, producing a recombinant DNA molecule.
+The vector is placed into a host cell, such as a bacterium.
+The gene is copied (or cloned) inside of the bacterium.
+As the bacterial DNA is copied, so is the vector DNA.
+As the bacteria divide, the recombinant DNA molecules are divided between the new cells.
+Over a 12- to 24-hour period, millions of copies of the cloned DNA are made.
+The cloned DNA can produce a protein (like insulin) that can be used in medicine or in research.
+Bacteria have small rings of DNA in the cytoplasm, called plasmids ( Figure below ).
+A plasmid is not part of the bacterial chromosome, but an additional pieced of DNA.
+When putting foreign DNA into a bacterium, the plasmids are often used as a vector.
+Viruses can also be used as vectors.
+The manipulation of the plasmid DNA, and then the insertion of the recombinant plasmid into a bacterium, is an invaluable tool in scientific research.
+Drawing of a plasmid, a DNA loop inside a bacteria
+This image shows a drawing of a plasmid.
+The plasmid has two large segments and one small segment depicted.
+The two large segments (green and blue) indicate antibiotic resistances usually used in a screening procedure.
+The antibiotic resistance segments ensure only bacteria with the plasmid will grow.
+The small segment (red) indicates an origin of replication.
+The origin of replication is where DNA replication starts, copying the plasmid.
+Recombinant DNA is the combination of DNA from two different sources.

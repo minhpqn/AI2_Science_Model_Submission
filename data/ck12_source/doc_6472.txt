@@ -1,0 +1,20 @@
+The activity series is a listing of elements in descending order of reactivity.
+An element that is higher in the activity series is capable of displacing an element that is lower on the series in a single-replacement reaction.
+This series also lists elements in order of ease of oxidation.
+The elements at the top are the easiest to oxidize, while those at the bottom are the most difficult to oxidize.
+The Table below shows the activity series together with each element’s oxidation half-reaction.
+Click on the image above to view the table
+Notice that zinc is listed above copper on the activity series, which means that zinc is more easily oxidized than copper.
+That is why copper(II) ions can act as an oxidizing agent when put into contact with zinc metal.
+Ions of any metal that is below zinc, such as lead or silver, would oxidize the zinc in a similar reaction.
+These types of reactions are called direct redox reactions because the electrons flow directly from the atoms of one metal to the cations of the other metal.
+However, no reaction will occur if a strip of copper metal is placed into a solution of zinc ions, because the zinc ions are not able to oxidize the copper.
+In other words, such a reaction is nonspontaneous.
+The activity series of metal reactivities is given.
+Parameters for spontaneous reactions between metals are described.
+Watch the video at the link below and answer the following questions:
+Click on the image above for more content
+What happened when Mg and Zn were placed in the Pb 2+ solution?
+Did the Zn strip react in the Mg 2+ solution?
+How was Ag shown to be least reactive?
+What metals are high in the activity series?

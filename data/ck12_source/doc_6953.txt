@@ -1,0 +1,20 @@
+This means that the force on the top segment of the loop will be down toward the bottom of the page, the force on the left segment will be to right, the force on the bottom segment will be toward the top of the page, and the force on the right segment will be to the left.
+The forces on the left and right segments will balance out because both segments are the same distance from the cable.
+The forces from the top and bottom section will not balance out because the wires are different distances from the cable.
+The force on the bottom segment will be stronger than the one on the top segment because the magnetic field is stronger closer to the cable, so the net force on the loop will be up, toward the top of the page.
+Now we will begin to calculate the force's magnitude by first determining the strength of the magnetic field at the bottom and top segments.
+All we really have to do is plug in the distances to each segment into the equation we already know for the magnetic field due to a current carrying wire.
+B&=\frac{\mu_oI}{2\pi r}\\B_{bottom}&=\frac{\mu_oI_1}{2\pi R}\\B_{top}&=\frac{\mu_oI_1}{2\pi 2R}\\
+Now we will calculate the net force on the loop using the equation given above.
+We'll consider up the positive direction.
+\Sigma F&=F_{bottom} - F_{top} && \text{start by summing the forces on the loop}\\\Sigma F&=I_2LB_{bottom} - I_2LB_{top} && \text{substitute in the values for each of the force terms}\\\Sigma F&=I_2L(B_{bottom} - B_{top}) && \text{factor the equation}\\\Sigma F&=I_2L(\frac{\mu_oI_1}{2\pi R} - \frac{\mu_oI_1}{2\pi 2R}) && \text{substitute in the values for the magnetic field}\\\Sigma F&=\frac{\mu_oI_1I_2L}{2\pi R}(1-\frac{1}{2}) && \text{factor the equation again}\\\Sigma F&=\frac{\mu_oI_1I_2L}{4\pi R} && \text{simplify to get the answer}\\
+Watch this Explanation
+Click on the image above for more content
+A vertical wire, with a current of 6.0 \;\mathrm{A} going towards the ground, is immersed in a magnetic field of 5.0 \;\mathrm{T} pointing to the right.
+What is the value and direction of the force on the wire?
+The length of the wire is 2.0 \;\mathrm{m} .
+A futuristic magneto-car uses the interaction between current flowing across the magneto car and magnetic fields to propel itself forward.
+The device consists of two fixed metal tracks and a freely moving metal car (see illustration above).
+A magnetic field is pointing downward with respect to the car, and has the strength of 5.00 \;\mathrm{T} .
+The car is 4.70 \;\mathrm{m} wide and has  800 \;\mathrm{A} of current flowing through it.
+The arrows indicate the direction of the current flow.

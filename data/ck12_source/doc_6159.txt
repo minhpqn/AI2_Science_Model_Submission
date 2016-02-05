@@ -1,0 +1,20 @@
+The solution equilibrium for the dissolving of sodium chloride can be represented by one of two equations.
+\text{NaCl}(s) \rightleftarrows \text{NaCl}(aq)
+While this shows the change of state back and forth between solid and aqueous solution, the preferred equation also shows the dissociation that occurs as an ionic solid dissolves.
+\text{NaCl}(s) \rightleftarrows \text{Na}^+ (aq)+\text{Cl}^-(aq)
+When the solution equilibrium point is reached and no more solute will dissolve, the solution is said to be saturated.
+A saturated solution is a solution that contains the maximum amount of solute that is capable of being dissolved.
+At 20°C, the maximum amount of NaCl that will dissolve in 100. g of water is 36.0 g.
+If any more NaCl is added past that point, it will not dissolve because the solution is saturated.
+What if more water is added to the solution instead?
+Now more NaCl would be capable of dissolving in the additional solvent.
+An unsaturated solution is a solution that contains less than the maximum amount of solute that is capable of being dissolved.
+Figure below illustrates the above process and shows the distinction between unsaturated and saturated.
+A solution that can no longer dissolve solute is saturated
+When 30.0 g of NaCl is added to 100 ml of water, it all dissolves, forming an unsaturated solution.
+When 40.0 g is added, 36.0 g dissolves and 4.0 g remains undissolved, forming a saturated solution.
+How can you tell if a solution is saturated or unsaturated?
+If more solute is added and it does not dissolve, then the original solution was saturated.
+If the added solute dissolves, then the original solution was unsaturated.
+A solution that has been allowed to reach equilibrium but which has extra undissolved solute at the bottom of the container must be saturated.
+Saturated and unsaturated solutions are defined.

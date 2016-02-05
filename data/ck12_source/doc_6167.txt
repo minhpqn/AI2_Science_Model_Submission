@@ -1,0 +1,20 @@
+Click on the image above for more content
+What affects the Henry’s law constant?
+What do you need to be careful of in the way of units?
+If we know the atmospheric pressure and the mole fraction of the gas, how do we calculate the partial pressure of the gas?
+Does pressure affect the solubility of liquids and solids?
+If you increase the pressure of a gas above the liquid, how does that affect the amount of gas dissolved in the liquid?
+What equilibrium is eventually reached?
+Henry’s Law:
+The solubility of a gas in a liquid is directly proportional to the partial pressure of the gas above the liquid.
+Perform calculations involving mass percent and volume percent solutions.
+The words dilute and concentrated are relative terms that can be vague
+How many is too much?
+There are cultures that have no numbers above three.
+Anything greater than that is simply referred to as “much” or “many”.
+We recognize how limited this form of calculation is, but we do some of the same thing.
+There are several ways to express the amount of solute in a solution in a quantitative manner.
+The concentration of a solution is a measure of the amount of solute that has been dissolved in a given amount of solvent or solution.
+A concentrated solution is one that has a relatively large amount of dissolved solute.
+A dilute solution is one that has a relatively small amount of dissolved solute.
+However, those terms are vague and we need to be able to express concentration with numbers.

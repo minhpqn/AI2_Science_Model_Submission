@@ -1,0 +1,20 @@
+They only exist in the frame of reference of the object that is moving and, even then, are theoretical.
+Physicists dealing in a moving frame of reference use centrifugal forces to ease calculations.
+For a great explanation of the difference between centrifugal and centripetal force, see this video:
+Centripetal force is the force that causes centripetal acceleration.
+Equations for centripetal force are  F_c=\frac{mv^2}{r} and F_c=\frac{4 \pi^2 rm}{T^2} .
+A video of physics students riding a roller coaster.
+Use this resource to answer the questions that follow.
+Does the roller coaster in the video have a complete circle as part of its path?
+What is it that keeps the glass of water on the tray as it swings over the student's head?
+What causes the centripetal force acting on the water in the cup?
+The roller coaster?
+A runner moving at a speed of 8.8 m/s rounds a bend with a radius of 25 m.  What is the centripetal force needed to keep this runner on the curve and what supplies this force?
+A 1000. kg car rounds a curve of 50.0 m radius on a flat road with a speed of 14.0 m/s.
+Will the car make the turn successfully if the pavement is dry and the coefficient of friction is 0.60?
+Will the car make the turn successfully if the pavement is wet and the coefficient of friction is 0.20?
+An 0.500 kg object tied to a string is swung around a person's head in a horizontal circle.  The length of the string is 1.00 m and the maximum force the string can withstand without breaking is 25.0 N.  What is the maximum speed the object may be swung without breaking the string?
+centripetal force:
+The component of force acting on a body in curvilinear motion that is directed toward the center of curvature or axis of rotation.
+Simple Harmonic Motion
+State the relationships that exist between velocity, acceleration, and displacement in simple harmonic motion.

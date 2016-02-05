@@ -1,0 +1,20 @@
+The law of reflection states that the angle of incidence equals the angle of reflection.
+These rules of reflection apply in the cases of water waves bouncing off the side of a pool, sound waves echoing off a distant cliff, or wave pulses traveling down a rope or a slinky.
+Consider the change that would occur with a light rope joined to a heavier rope.  When a wave pulse travels down the rope and encounters the media change, a reflection will occur.
+Look at the image below.
+In the top sketch, we see a lightweight (black) rope attached to a heavier rope (red).  There is a wave pulse traveling down the rope from left to right.
+When the wave pulse encounters the barrier (the change in rope weight), part of the wave moves into the new medium and part of the wave is reflected back into the old medium.
+As you can see in the bottom half of the diagram, the transmitted portion of the wave continues into the new medium right side up.
+The transmitted wave is somewhat diminished because some of the energy of the wave was reflected and also because the rope to be lifted is heavier.
+The reflected wave is also diminished because some of the energy was transmitted through the barrier.
+The reflected wave is also inverted (upside down).
+This is a general rule for mechanical waves passing from a less dense medium into a more dense medium, that is, the reflected wave will be inverted.
+Wave moving towards denser medium
+Wave reflecting off denser medium
+The situation changes when the wave is passing from a more dense medium into a less dense medium.  As you can see in the sketch below, when a wave pulse moving in denser medium encounters a media interface to a medium of less density, the reflected wave is upright rather than inverted.
+Wave passing into less dense medium
+It is also possible for a mechanical wave to encounter an impenetrable barrier, that is, a barrier which does not allow any transmission at all.  In such a case, the complete wave pulse will be reflected and the reflected wave will be inverted.
+When a wave strikes an obstacle or comes to the end of the medium it is traveling in, some part of the wave is reflected back into the original medium.
+The law of reflection states that the angle of incidence equals the angle of reflection.
+The general rule, for mechanical waves passing from a less dense medium into a more dense medium, the reflected wave will be inverted.
+When a wave pulse moving in denser medium encounters a media interface to a medium of lesser density, the reflected wave is upright rather than inverted.

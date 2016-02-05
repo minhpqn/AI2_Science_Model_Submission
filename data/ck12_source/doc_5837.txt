@@ -1,0 +1,20 @@
+Define molecular formula.
+Describe how to write molecular formulas.
+Music is a unique language like chemical formulas
+Why are music notes a unique "language"?
+There are many “universal languages” in the world.
+Musicians of every culture recognize the music embodied in a series of notes on a staff.
+This passage from a Bach cello suite could be played by any trained musician from any country, because there is agreement as to what the symbols on the page mean.  In the same way, molecules are represented using symbols that all chemists agree upon.
+A molecule is two or more atoms that have been chemically combined.
+A molecular formula is a chemical formula of a molecular compound that shows the kinds and numbers of atoms present in a molecule of the compound.
+Ammonia is a compound of nitrogen and hydrogen as shown below:
+Molecular formula of ammonia
+Note from the example that there are some standard rules to follow in writing molecular formulas.  The arrangements of the elements depend on the particular structure, so we will not concern ourselves with that point right now.  The number of atoms of each kind is indicated by a subscript following the atom.  If there is only one atom, no number is written.  If there is more than one atom of a specific kind, the number is written as a subscript following the atom.  We would not write N 3 H for ammonia, because that would mean that there are three nitrogen atoms and one hydrogen atom in the molecule, which is incorrect.
+The molecular formula does not tell us anything about the shape of the molecule or where the different atoms are.  The molecular formula for sucrose (table sugar) is C 12 H 22 O 11 .  This simply tells us the number of carbon, hydrogen, and oxygen atoms in the molecule.  There is nothing said about where the individual atoms are located.  We need a much more complicated formula (shown below) to communicate that information.
+Structural formula of sucrose
+A molecular formula tells us what atoms and how many of each type of atom are present in a molecule.
+If only one atom of a specific type is present, no subscript is used.
+For atoms that have two or more present, a subscript is written after the symbol for that atom.
+Molecular formulas do not indicate how the atoms are arranged in the molecule.
+Use the link below to answer the following questions:
+How many carbon atoms and how many hydrogen atoms are in the benzene molecule?

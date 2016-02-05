@@ -1,0 +1,20 @@
+Substitute the relevant values into the equation for force to find the answer:
+F = m × a = 50 kg × 0.8 m/s 2 = 40 kg • m/s 2 , or 40 N
+Scooter going down ramp
+Q :
+If Xander and his scooter actually had a mass of 40 kg instead of 50 kg, how much force would it take for him to accelerate at 0.8 m/s 2
+A :
+It would take only 32 N of force (40 kg × 0.8 m/s 2 ).
+At the URL below, you can review how to calculate net force from mass and acceleration and try some practice problems.
+If you want to try more challenging problems, click on the relevant links at the bottom of the Web page.
+According to Newton’s second law of motion, the acceleration of an object equals the net force acting on it divided by its mass, or \mathrm{a=\frac{F}{m}} .
+This equation for acceleration can be used to calculate the acceleration of an object when its mass and the net force acting on it are known.
+The equation for acceleration can be rewritten as F = m × a to calculate the net force acting on an object when its mass and acceleration are known.
+At the following URL, solve the six problems on page 2.
+What is the equation for calculating the acceleration of an object when its mass and the net force acting on it are known?
+Xander’s friend Corey has a skateboard that he rides at Newton’s Skate Park.
+That’s Corey doing a jump in the Figure below .
+The combined mass of Corey and his skateboard is 60 kg.
+At the top of his jump, the net force acting on him is 30 Newtons.
+What is his acceleration at that moment?
+Practice problem calculating acceleration from force and mass

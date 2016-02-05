@@ -1,0 +1,20 @@
+cytokinesis :
+Division of the cytoplasm, forming two daughter cells.
+DNA replication :
+The process of copying DNA prior to cell division (eukaryotes) or reproduction (prokaryotes).
+haploid :
+The state of a cell containing one set of chromosomes; in human gametes, one set is 23 chromosomes, n .
+meiosis :
+A type of cell division that halves the number of chromosomes; forms gametes.
+mitosis :
+The division of the nucleus into two genetically identical nuclei.
+zygote :
+A fertilized egg; the first cell of a new organism.
+Cell division is part of the life cycle of virtually all cells.
+Cell division is the process in which one cell divides to form two new cells.
+Most prokaryotic cells divide by the process of binary fission.
+In eukaryotes, cell division occurs in two major steps: mitosis and cytokinesis.
+Use this resource to answer the questions that follow.
+\rightarrow Non-Majors Biology \rightarrow Search:
+Cell Division
+Cell division has how many steps?

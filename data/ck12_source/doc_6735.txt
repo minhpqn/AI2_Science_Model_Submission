@@ -1,0 +1,20 @@
+Using the known distance the moon is from Eath, calculate the speed that the moon is moving through space in relation to Earth.
+Compare and contrast angular speed ( \omega ) and tangential speed ( v ).
+Calculate both angular speed and tangential speed.
+Students will learn the difference between angular speed ( \omega ) and tangential speed ( v ) and how to calculate both.
+\omega = 2\pi / T = 2\pi f  ;
+Relationship between period and angular frequency.
+\omega = \frac{\Delta \theta}{\Delta t} = \frac{\Delta s}{rt}= \frac{v}{r}
+v = \omega r
+When something rotates in a circle, it moves through a position angle  \theta  that runs from 0 to 2\pi radians and starts over again at 0 .
+The physical distance it moves is called the path length.
+If the radius of the circle is larger, the path length traveled is longer.
+According to the arc length formula s = r\theta  , the path length  \Delta s  traveled by something at radius  r  through an angle  \theta  is: \Delta s = r \Delta \theta \text{ [1]}
+Just like the linear velocity is the rate of change of distance, angular velocity, usually called  \omega  , is the rate of change of  \theta  .
+The direction of angular velocity is either clockwise or counterclockwise.
+Analogously, the rate of change of \omega  is the angular acceleration  \alpha  .
+For an object moving in a circle, the objects tangential speed is directly proportional to the distance it is from the rotation axis. the tangential speed (as shown in the key equations) equals this distance multiplied by the angular speed (in radians/sec).
+Question:
+A Merry Go Round is rotating once every 4 seconds.
+If you are on a horse that is 15 m from the rotation axis, how fast are you moving (i.e. what is your tangential speed)?
+v = r \omega

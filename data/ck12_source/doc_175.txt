@@ -1,0 +1,20 @@
+The toy car is about 3 inches long.
+It is 250,000 miles from the earth to the moon.
+The wooden cart has a mass of 18.654 g.
+When at rest, the pendulum points toward the center of the earth.
+Convert 76.2 kilometers to meters.
+Convert 76.2 picograms to kilograms.
+Convert 1 day into seconds.
+measurement:
+The process or the result of determining the ratio of a physical quantity, such as a length, time, temperature etc., to a unit of measurement, such as the meter, second or degree Celsius.
+the SI system of units:
+A complete metric system of units of measurement for scientists; fundamental quantities are length (meter) and mass (kilogram) and time (second) and electric current (ampere) and temperature (kelvin) and amount of matter (mole) and luminous intensity (candela).
+fundamental quantity vs derived quantity:
+In the language of measurement, quantities are quantifiable aspects of the world, such as time, distance, velocity, mass, temperature, energy, and weight, and units are used to describe their measure.
+Many of these quantities are related to each other by various physical laws, and as a result the units of some of the quantities can be expressed as products (or ratios) of powers of other units (e.g., momentum is mass times velocity and velocity is measured in distance divided by time).
+Those quantities whose units are expressed in terms of other units are regarded as derived quantities.
+Those that cannot be so expressed in terms of other units are regarded as “fundamental” quantities.
+conversion factor:
+A numerical factor used to multiply or divide a quantity when converting from one system of units to another.
+Mathematics Tools for Physics
+Convert given numbers from expanded form to scientific notation, and vice versa.

@@ -1,0 +1,20 @@
+Oklahoma City, OK
+Tampa-St.
+Petersburg, FL
+New Orleans, LA
+Fort Worth, TX
+Bar graphs are especially useful for comparing values for different things, such as the average numbers of tornadoes for different cities.
+Therefore, a bar graph is a good choice for displaying the data in the Table above .
+The bar graph below shows one way that these data could be presented.
+Q:
+What do the two axes of this bar graph represent?
+A:
+The x-axis represents cities, and the y-axis represents average numbers of tornadoes.
+Q:
+Could you switch what the axes represent?
+If so, how would the bar graph look?
+A:
+Yes; the x-axis could represent average numbers of tornadoes, and the y-axis could represent cities.
+The bars of the graph would be horizontal instead of vertical.
+The data in Table below shows the percent of all U.S. tornadoes by tornado strength for the years 1986 to 1995.
+In this table, tornadoes are rated on a scale called the F scale.

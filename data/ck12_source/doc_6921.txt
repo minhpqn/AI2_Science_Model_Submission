@@ -1,0 +1,20 @@
+Be sure to indicate the directions with arrows.
+Now take the individual electric field vectors, add them together, and draw the resultant vector.
+This is the electric field created by the two charges together.
+A proton traveling to the right moves in between the two large plates.
+A vertical electric field, pointing downwards with magnitude 3.0 \;\mathrm{N/C} , is produced by the plates.
+What is the direction of the force on the proton?
+Draw the electric field lines on the diagram.
+If the electric field is 3.0 \;\mathrm{N/C} , what is the acceleration of the proton in the region of the plates?
+Pretend the force of gravity doesn’t exist; then sketch the path of the proton.
+We take this whole setup to another planet.
+If the proton travels straight through the apparatus without deflecting, what is the acceleration of gravity on this planet?
+A molecule shown by the square object shown below contains an excess of 100 electrons.
+What is the direction of the electric field at point A, 2.0 \times 10^{-9} \;\mathrm{m} away?
+What is the value of the electric field at point A ?
+A molecule of charge 8.0 \ \mu \mathrm{C} is placed at point A .
+What are the magnitude and direction of the force acting on this molecule?
+1.1 \times 10^9 \;\mathrm{N/C}
+a. down b.
+Up 16c, 5.5 \times 10^{11} \;\mathrm{m/s}^2 e. 2.9 \times 10^8 \;\mathrm{m/s}^2
+a.

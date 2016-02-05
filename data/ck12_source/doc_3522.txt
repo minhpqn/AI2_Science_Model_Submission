@@ -1,0 +1,20 @@
+In addition to the nucleus, eukaryotic cells have many other organelles, including ribosomes and mitochondria.
+Ribosomes are present in all cells.
+Ribosomes are small organelles and are the sites of protein synthesis (or assembly).
+They are made of ribosomal protein and ribosomal RNA, and are found in both eukaryotic and prokaryotic cells.
+Unlike other organelles, ribosomes are not surrounded by a membrane.
+Each ribosome has two parts, a large and a small subunit, as shown in Figure below .
+The subunits are attached to one another.
+Ribosomes can be found alone or in groups within the cytoplasm.
+Some ribosomes are attached to the endoplasmic reticulum (ER) (as shown in Figure below ), and others are attached to the nuclear envelope.
+Subunits of a ribosome
+The two subunits that make up a ribosome, small organelles that are intercellular protein factories.
+Ribozymes are RNA molecules that catalyze chemical reactions, such as translation.
+Translation is the process of ordering the amino acids in the assembly of a protein, and translation will be discussed more in another concept.
+Briefly, the ribosomes interact with other RNA molecules to make chains of amino acids called polypeptide chains, due to the peptide bond that forms between individual amino acids.
+Polypeptide chains are built from the genetic instructions held within a messenger RNA (mRNA) molecule.
+Polypeptide chains that are made on the rough ER (discussed below) are inserted directly into the ER and then are transported to their various cellular destinations.
+Ribosomes on the rough ER usually produce proteins that are destined for the cell membrane.
+Ribosomes are found in both eukaryotic and prokaryotic cells.
+Ribosomes are not surrounded by a membrane.
+The other organelles found in eukaryotic cells are surrounded by a membrane.

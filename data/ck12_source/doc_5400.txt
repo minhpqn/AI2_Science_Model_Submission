@@ -1,0 +1,20 @@
+In fact, evolution can be genetically defined as the change allele frequencies over time.
+Mutations are the key to species evolving.
+Lets say an organism "mutates" due to a new allele for a gene that determines coat color.
+There are, theoretically, only three outcomes of that mutation:
+The "new" coat color does not allow the organism to camouflage itself.
+The organism dies and the new allele dies with it.
+The mutation has no significant effect on organism.
+The organism lives as before, passing the allele to its offspring.
+The mutation is beneficial to the organism.
+The organism can hunt and survive more efficiently than before.
+Individuals with this beneficial allele live longer and reproduce more; they are more "fit" to survive in their environment.
+This is the basis of Darwin's "survival of the fittest" philosophy.
+Soon more individuals within the population have the beneficial allele.
+Heart disease is the number one killer of Americans, and a significant health concern all over the world.
+Except for a small community in Italy.
+All humans have a gene for a protein called Apolipoprotein A1 (Apo-A1), which is part of the system that transports cholesterol through the bloodstream.
+Apo-A1 is an high density lipoprotein (HDL).
+HDLs are known as "good" cholesterol as they remove cholesterol from artery walls.
+A small community in Italy is known to have a mutant version of this protein, named Apolipoprotein A1-Milano (or Apo A1M).
+This protein is even more effective at removing cholesterol from cells and dissolving arterial plaques associated with heart disease.

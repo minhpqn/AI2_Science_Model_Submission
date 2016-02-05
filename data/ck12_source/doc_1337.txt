@@ -1,0 +1,20 @@
+Finding an earthquake epicenter using 3 seismographs
+Seismographs in Portland, San Francisco, and Salt Lake City are used to find an earthquake epicenter.
+Of course, it's been a long time since scientists drew circles to locate an earthquake epicenter.
+This is all done digitally now. but it's a great way to learn the basics of locating an epicenter.
+To find an earthquake epicenter you need at least three seismographs.
+Find the distance from each seismograph to the earthquake epicenter.
+The interception of the three circles is the epicenter.
+Use the resource below to answer the questions that follow.
+Locating an Earthquake at
+Click on the image above for more content
+What is a seismogram?
+What waves does a seismogram show?
+What is the S-P interval?
+How many data stations are required to determine the epicenter?
+What is triangulation?
+How do you determine the distance from the seismograph to the earthquake epicenter?
+How do you find the epicenter from three seismographs?
+What role does the S-P interval play in locating an earthquake epicenter?
+Scales that Represent Earthquake Magnitude
+Describe how scientists express the size and intensity of an earthquake.

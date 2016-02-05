@@ -1,0 +1,20 @@
+specific heat:  The heat required to raise a unit mass of a substance by one unit temperature interval under specified conditions, such as constant pressure: usually measured in joules per kelvin per kilogram.
+Understand the function of a calorimeter.
+Apply the law of conservation of energy to calorimeter calculations of temperature changes due to heat transfer.
+Image of a calorimeter, a useful tool that measures changes in thermal energy
+Though not particularly beautiful machines, calorimeters are incredibly useful ones.
+They are used to determine the calories (food energy) in food, as well as the average heat yield from burning various grades of coal and oil.
+The price of coal is often dependent on the heat yield from samples burned in a calorimeter.
+A calorimeter is a device used to measure changes in thermal energy or heat transfer.
+More specifically, it measures calories.
+A calorie is the amount of energy required to raise one gram of water by one degree Celsius.
+As such, the calorimeter measures the temperature change of a known amount of water.
+If a reaction is carried out in the reaction vessel, or if a measured mass of heated substance is placed in the water of the calorimeter, the change in the water temperature allows us to calculate the change in thermal energy.
+Labelled diagram of a bomb calorimeter
+The function of the calorimeter depends on the conservation of energy in a closed, isolated system.
+Calorimeters are carefully insulated so that heat transfer in or out is negligible.
+Consider the following example.
+Example Problem:  A 0.500 kg sample of water in a calorimeter is at 15.0ºC.
+A 0.0400 kg block of zinc at 115.0ºC is placed in the water.
+The specific heat of zinc is 388 J/kg•ºC.
+Find the final temperature of the system.

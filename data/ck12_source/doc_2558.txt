@@ -1,0 +1,20 @@
+For many years, scientists looked for a good way to organize the elements.
+This became increasingly important as more and more elements were discovered.
+An ingenious method of organizing elements was developed in 1869 by a Russian scientist named Dmitri Mendeleev, who is pictured below .
+Mendeleev’s method of organizing elements was later revised, but it served as a basis for the method that is still used today.
+You can learn more about Mendeleev and his work at this URL:
+Portrait of Mendeleev
+Mendeleev was a teacher as well as a chemist.
+He was writing a chemistry textbook and wanted to find a way to organize the 63 known elements so it would be easier for students to learn about them.
+He made a set of cards of the elements, similar to a deck of playing cards.
+On each card, he wrote the name of a different element, its atomic mass, and other known properties.
+Mendeleev arranged and rearranged the cards in many different ways, looking for a pattern.
+He finally found it when he placed the elements in order by increasing atomic mass.
+Q:
+What is atomic mass?
+Why might it be a good basis for organizing elements?
+A:
+Atomic mass is the mass of one atom of an element.
+It is about equal to the mass of the protons plus the neutrons in an atom.
+It is a good basis for organizing elements because each element has a unique number of protons and atomic mass is an indirect way of organizing elements by number of protons.
+Groups and Periods

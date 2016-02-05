@@ -1,0 +1,20 @@
+Notice that the unit for work in the answer is the Newton • meter (N • m).
+This is the SI unit for work, also called the joule (J) .
+One joule equals the amount of work that is done when 1 N of force moves an object over a distance of 1 m.
+Q :
+After Clarissa mows her grandmother’s lawn, she volunteers to mow a neighbor’s lawn as well.
+If she pushes the mower with the same force as before and moves it over a total of 234 meters, how much work does she do mowing the neighbor’s lawn?
+A :
+The work Clarissa does can be calculated as:
+Work = 100 N × 234 m = 23,400 N • m, or 23,400 J
+Calculating Force or Distance When Work Is Known
+The work equation given above can be rearranged to find force or distance if the other variables are known:
+After Clarissa finishes mowing both lawns, she pushes the lawn mower down the sidewalk to her own house.
+If she pushes the mower over a distance of 30 meters and does 2700 joules of work, how much force does she use?
+Substitute the known values into the equation for force:
+\text{Force}=\frac{2700 \ \text{J}}{30 \ \text{m}}=90 \ \text{N}
+Q :
+When Clarissa gets back to her house, she hangs the 200-Newton lawn mower on some hooks in the garage (see the Figure below ).
+To lift the mower, she does 400 joules of work.
+How far does she lift the mower to hang it?
+A :

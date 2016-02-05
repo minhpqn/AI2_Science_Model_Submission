@@ -1,0 +1,20 @@
+Q:
+What would happen to an atom’s charge if it were to gain extra electrons?
+A:
+If an atom were to gain extra electrons, it would have more electrons than protons.
+This would give it a negative charge, so it would no longer be neutral.
+Atoms to Ions
+Atoms cannot only gain extra electrons.
+They can also lose electrons.
+In either case, they become ions .
+Ions are atoms that have a positive or negative charge because they have unequal numbers of protons and electrons.
+If atoms lose electrons, they become positive ions, or cations.
+If atoms gain electrons, they become negative ions, or anions.
+Consider the example of fluorine (see Figure below ).
+A fluorine atom has nine protons and nine electrons, so it is electrically neutral.
+If a fluorine atom gains an electron, it becomes a fluoride ion with an electric charge of -1.
+Fluorine atom turning into fluoride ion
+Names and Symbols
+Like fluoride, other negative ions usually have names ending in –ide .
+Positive ions, on the other hand, are just given the element name followed by the word ion .
+For example, when a sodium atom loses an electron, it becomes a positive sodium ion.

@@ -1,0 +1,20 @@
+Pigments of these colors are often made with a dichromate salt (usually sodium or potassium dichromate).
+These brightly colored compounds serve as strong oxidizing agents in chemical reactions.
+Balancing Redox Equations:
+Half-Reaction Method
+Another method for balancing redox reactions uses half-reactions.
+Recall that a half-reaction is either the oxidation or reduction that occurs, treated separately.
+The half-reaction method works better than the oxidation-number method when the substances in the reaction are in aqueous solution.
+The aqueous solution is typically either acidic or basic, so hydrogen ions or hydroxide ions are present.
+In general, the half-reactions are first balanced by atoms separately.
+Electrons are included in the half-reactions.
+These are then balanced so that the number of electrons lost is equal to the number of electrons gained.
+Finally, the two half-reactions are added back together.
+The example is the oxidation of Fe 2+ ions to Fe 3+ ions by dichromate (Cr 2 O 7 2− ) in acidic solution.
+The dichromate ions are reduced to Cr 3+ ions.
+Potassium dichromate is a bright red-orange compound
+Potassium dichromate (K 2 Cr 2 O 7 )
+Step 1:
+Write the unbalanced ionic equation .
+\text{Fe}^{2+}(aq)+\text{Cr}_2\text{O}^{2-}_7(aq) \rightarrow \text{Fe}^{3+}(aq)+\text{Cr}^{3+}(aq)
+Notice that the equation is far from balanced, as there are no oxygen atoms on the right side.

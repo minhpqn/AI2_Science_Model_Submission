@@ -1,0 +1,20 @@
+How is electric potential energy related to the direction an electric charge spontaneously moves?
+What is voltage, and why is it needed for charges to flow in an electric current?
+Direct and Alternating Current
+Distinguish between direct current and alternating current.
+To use an electric appliance, you have to plug it into an outlet unless it has batteries.
+This may be all you need to know in order to use electric current.
+But did you ever wonder what electric current is or how it flows through wires inside the walls of your home?
+Electric current is a continuous flow of electric charges.
+The charges may flow in just one direction, or they may keep reversing direction.
+You can watch an animation of both types of current at this URL:
+Click on the image above for more content
+When current flows in just one direction, it is called direct current (DC) .
+The diagram below shows how direct current flows through a simple circuit.
+An example of direct current is the current that flows through a battery-powered flashlight.
+In addition to batteries, solar cells and fuel cells can also provide direct current.
+When current keeps reversing direction, it is called alternating current (AC) .
+You can see how it works in the two diagrams below.
+The current that comes from a power plant and supplies electricity to homes and businesses is alternating current.
+The current changes direction 60 times per second.
+It happens so quickly that the light bulb doesn’t have a chance to stop glowing when the reversals occur.

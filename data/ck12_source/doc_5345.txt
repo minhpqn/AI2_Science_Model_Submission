@@ -1,0 +1,20 @@
+codon :
+A sequence of three nucleotides within mRNA; encodes for a specific amino acid or termination (stop) sequence.
+mRNA :
+Messenger RNA; serves as a nucleic acid intermediate between the nucleus and the ribosomes.
+ribosome :
+A non-membrane bound organelle inside all cells; site of protein synthesis (translation).
+rRNA :
+Ribosomal RNA; together with proteins, forms ribosomes.
+stop codon :
+A codon that does not have a corresponding tRNA (does not code for an amino acid); signals the end of translation; also known as a termination codon;
+UAG, UGA, and UAA.
+transcription :
+The process of making mRNA from the information in the DNA (gene) sequence.
+translation :
+The process of synthesizing a polypeptide/protein from the information in a mRNA sequence; occurs on ribosomes.
+tRNA :
+Transfer RNA; brings an amino acid to the ribosome.
+There are three types of RNA: mRNA, tRNA, and rRNA.
+mRNA is the intermediary between the nucleus, where the DNA lives, and the cytoplasm, where proteins are made.
+rRNA and tRNA are involved in protein synthesis.

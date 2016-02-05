@@ -1,0 +1,20 @@
+She would use:
+Electrical Energy = 1.2 kilowatts × 0.2 hour = 0.24 kilowatt-hours
+You can learn much more about electrical energy use—including your own—at the URL below.
+Use the tables and other information, along with the handy electrical energy calculator, to estimate how much electrical energy you use.
+Electric power is the rate at which a device changes electric current to another form of energy.
+The SI unit of power is the watt.
+Electric power can be calculated as current times voltage.
+Electrical energy use equals the power of the appliance multiplied by the amount of time the appliance is used.
+At the following URL, review how to calculate electric power and then solve problems 1-7.
+Define electric power.
+What is the SI unit for power?
+A microwave is the only electric device in a 120-volt circuit.
+If the circuit has 7.5 amps of current, what is the electric power of the microwave?
+Calculate the electrical energy use of the microwave in question 2 if it used for 0.05 hours.
+Explain how a short circuit occurs.
+Identify safety features built into electric circuits and devices.
+List rules for using electricity safely.
+Electricity isn't really an evil cloud, but the sign makes the point that electricity is dangerous.
+Contact with electric current can cause severe burns and even death.
+Electricity can also cause serious fires.

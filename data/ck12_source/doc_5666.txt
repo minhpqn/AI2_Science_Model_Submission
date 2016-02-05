@@ -1,0 +1,20 @@
+Consider helium again.
+Most helium atoms have two neutrons in addition to two protons.
+Therefore the mass of most helium atoms is 4 atomic mass units (2 amu for the protons + 2 amu for the neutrons).
+However, some helium atoms have more or less than two neutrons.
+Atoms with the same number of protons but different numbers of neutrons are called isotopes.
+Because the number of neutrons can vary for a given element, the mass numbers of different atoms of an element may also vary.
+For example, some helium atoms have three neutrons instead of two.
+Therefore, they have a different mass number than the one given in the Figure above .
+Q:
+What is the mass number of a helium atom that has three neutrons?
+A:
+The mass number is the number of protons plus the number of neutrons.
+For helium atoms with three neutrons, the mass number is 2 (protons) + 3 (neutrons) = 5.
+Q:
+How would you represent this isotope of helium to show its atomic number and mass number?
+A:
+You would represent it by the element’s symbol and both numbers, with the mass number on top and the atomic number on the bottom:
+Elements are pure substances that make up all matter, so each one is given a unique name.
+The names of elements are also represented by unique one-, two-, or three- letter symbols.
+The number of protons in an atom is called its atomic number.

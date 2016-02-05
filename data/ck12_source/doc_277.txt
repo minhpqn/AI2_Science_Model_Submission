@@ -1,0 +1,20 @@
+Finally, we could use the formula relating power to average speed to calculate power.
+P = Fv = (13720 \ \text{N})(3.86 \ \text{m/s}) = 53,000 \ \text{W}
+If you could lift 550 pounds a foot in the air in a second, what would you be (other than very strong)?
+Ever wondered what horsepower really means, and what horses have to do with other modes of transportation?
+See how engines work in machines all around us, including the surprising ways that they're all related at
+Click on the image above for more content
+Power is defined as the rate at which work is done or the rate at which energy is transformed.
+\text{Power} = \text{Force} \times \text{velocity}
+Use the video below to answer the following questions about work and power.
+Click on the image above for more content
+What is the difference between positive and negative work?
+What are the standard units for power?
+What is horsepower?
+How many grandfather clocks could you power with the same amount of power as is used by a single light bulb?
+The following website has practice problems on work and power:
+If the circumference of an orbit for a toy on a string is 18 m and the centripetal force is 12 N, how much work does the centripetal force do on the toy when it follows its orbit for one cycle?
+A 50.0 kg woman climbs a flight of stairs 6.00 m high in 15.0 s.  How much power does she use?
+Assuming no friction, what is the minimum work needed to push a kg car 45.0 m up a 12.5° incline?
+power:  The rate at which this work is performed.
+Name the simple machines.

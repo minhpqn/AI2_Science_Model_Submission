@@ -1,0 +1,20 @@
+This is how fiber optic cables work: no light leaves the wire.
+You have some unknown material and you would like to determine it's index of refraction.
+You find that you are able to create total internal reflection when the material submerged in water, but not when submerged in cooking oil. (a) Can you give a range for the index of refraction? (b) you are able to determine the critical angle in water to be 71.8 degrees; what is the index of refraction of this material?
+(a):
+Since it is not possible to create total internal refraction when going from a material with a higher index of refraction to a lower index of refraction, we know that the index of refraction of this material must be between 1.33 (water) and 1.53 (cooking oil).
+(b):
+We can use the equation given above to determine the index of refraction of the unknown material.
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+Imagine a thread of diamond wire immersed in water.
+Can such an object demonstrate total internal reflection?
+If so, what is the critical angle?
+Draw a picture along with your calculations.
+A light source sits in a tank of water, as shown.
+If one of the light rays coming from inside the tank of water hits the surface at 35.0^\circ , as measured from the normal to the surface, at what angle will it enter the air?
+Now suppose the incident angle in the water is 80^\circ as measured from the normal.
+What is the refracted angle?
+What problem arises?
+Find the critical angle for the water-air interface.

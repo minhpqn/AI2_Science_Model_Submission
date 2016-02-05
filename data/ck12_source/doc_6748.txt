@@ -1,0 +1,20 @@
+The Big Idea
+The universe has many remarkable qualities, among them a rather beautiful symmetry: the total amount of motion in the universe is constant.
+This law only makes sense if we measure “motion” in a specific way: as the product of mass and velocity.
+This product, called momentum, can be transferred from one object to another in a collision.
+The rapidity with which momentum is exchanged over time is determined by the forces involved in the collision.
+This is the second of the five fundamental conservation laws in physics.
+The other four are conservation of energy, angular momentum, charge, and CPT. (See Feynman's Diagrams for an explanation of CPT.)
+Describe what momentum is.
+Calculate the momentum of objects and use conservation of momentum to solve basic problems.
+Students will learn what momentum is and how to calculate momentum of objects.
+In addition, students will learn how to use conservation of momentum to solve basic problems.
+p = m v \; \; \text{Momentum is equal to the objects mass multiplied by its velocity}
+\sum p_{\text{initial}} = \sum p_{\text{final}} \; \; \text{The total momentum does not change in closed systems}
+Momentum is a vector that points in the direction of the velocity vector.
+The magnitude of this vector is the product of mass and speed.
+The total momentum of the universe is always the same and is equal to zero.
+The total momentum of an isolated system never changes.
+Momentum can be transferred from one body to another.
+In an isolated system in which momentum is transferred internally, the total initial momentum is the same as the total final momentum.
+Momentum conservation is especially important in collisions, where the total momentum just before the collision is the same as the total momentum after the collision.

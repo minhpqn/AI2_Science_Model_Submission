@@ -1,0 +1,20 @@
+What must be held constant for the combined gas law to be true?
+What happens to the combined gas law if temperature, pressure, or volume are held constant?
+Combined gas law problems with solutions:
+A sample of gas has a volume of 800. mL at -23.0°C and 300.
+Torr.  What would the volume of the gas be at 227.0°C and 600.
+Torr?
+500.0 L of gas are prepared at 0.921 atm pressure and 200.0°C.
+The gas is placed into a tank under high pressure.  When the tank cools to 20.0°C, the pressure is 30.0 atm.  What is the volume of the gas under these conditions?
+What is the volume of gas at 2.00 atm and 200.0 K if its original volume was 300.
+L at 0.250 atm and 400.0 K?
+gas laws:
+A series of laws in physics that predict the behavior of an ideal gas by describing the relations between the temperature, volume, and pressure.
+The laws include Boyle's law, Charles' law, and Gay-Lussac’s law, and are combined in the combined gas law.
+Universal Gas Law
+State the universal gas law.
+State the universal gas law constant, R.
+Given three of the four unknowns in the universal gas law, solve for the fourth.
+Compressed gas tanks
+Compressed gases provide vital fuels for industry and for homes and farms in rural areas.
+Universal Gas Law

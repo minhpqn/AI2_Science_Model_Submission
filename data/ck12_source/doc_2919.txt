@@ -1,0 +1,20 @@
+A dark purple flower is crossed with a white flower of the same species, and the offspring have light purple flowers.
+What type of inheritance does this describe?
+Explain.
+What is the inheritance pattern in which both alleles are expressed?
+What is the genotype of a person with type O blood?
+What is the genotype(s) of a person with type AB blood?
+Explain the inheritance of polygenic traits.
+Describe the phenotypic distribution of polygenic traits.
+Are all people either short or tall?
+Unlike Mendel's peas, people do not all fall into two categories: short or tall.
+Most people, in fact, are somewhere in between.
+Obviously, Mendel's rules are too simple to explain the inheritance of human height.
+Another exception to Mendel’s rules is polygenic inheritance , which occurs when a trait is controlled by more than one gene.
+This means that each dominant allele "adds" to the expression of the next dominant allele.
+Usually, traits are polygenic when there is wide variation in the trait.
+For example, humans can be many different sizes.
+Height is a polygenic trait, controlled by at least three genes with six alleles.
+If you are dominant for all of the alleles for height, then you will be very tall.
+There is also a wide range of skin color across people.
+Skin color is also a polygenic trait, as are hair and eye color.

@@ -1,0 +1,20 @@
+The designers of this sign used the fact that light can reflect off of many surfaces, including water, to make the sign legible.
+It takes a bit of thought, but words can be written in such a way that their reflection is legible, even though the words themselves are not.
+Reflection of Light
+Wave reflecting off a barrier
+The Law of Reflection
+When a light ray strikes a reflecting surface, the angle of incidence (measured from the normal line) is equal to the angle of reflection (also measured from the normal line).
+This is called the Law of Reflection.
+If the reflecting surface is a very smooth surface, the reflection will be a  regular reflection, in which the light rays maintain their position relative to each other and objects will be visible and identifiable in the reflected image.
+If the reflecting surface is rough, the reflection will be a  diffuse reflection, and objects will not be visible or identifiable in the reflection.
+When you are considering the size of things on the scale of wavelengths of light, even surfaces that appear smooth may be very rough in terms of light waves, and most surfaces produce diffuse reflection.
+Comparison of the reflection off a rough and off a smooth surface
+Left and Right Reversal in a Plane Mirror
+The images that appear in a plane (flat) mirror are reversed in some ways and not reversed in other ways.  In the image below, the man's right hand is labeled.
+The same hand in the mirror image, however, looks like a left hand.
+While the left and right of the image are reversed, the top and bottom of the image are not.
+Right and left reversal in a mirror
+MIT+K12 Videos:
+Science Out Loud
+The Physics of Invisibility Cloaks
+It's not just movie magic - invisibility cloaks could be feasible, just by manipulating the crazy ways that light bounces, bends, and mixes.

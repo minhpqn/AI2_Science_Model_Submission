@@ -1,0 +1,20 @@
+In order to do this, we need some way of comparing the extent of electron flow in the various chemical systems.
+The best way to do this is to have a baseline that we use – a standard that everything can be measured against.
+For determination of half-reaction current flows and voltages, we use the standard hydrogen electrode .
+The Figure below illustrates this electrode.
+A platinum wire conducts the electricity through the circuit.
+The wire is immersed in a 1.0 M strong acid solution and H 2 gas is bubbled in at a pressure of one atmosphere and a temperature of 25°C.
+The half-reaction at this electrode is \text{H}_2 \rightarrow 2\text{H}^+ + 2 e^- .
+Standard hydrogen half-electrode
+The standard hydrogen electrode.
+Under these conditions, the potential for the hydrogen reduction is defined as exactly zero.
+We call this E^0 , the standard reduction potential.
+We can then use this system to measure the potentials of other electrodes in the half-cell.
+A metal and one of its salts (sulfate is often used) is in the second half-cell.
+We will use zinc as our example (see Figure below ).
+Standard hydrogen half-cell with zinc half-cell
+The standard hydrogen half-cell paired with a zinc half-cell.
+As we observe the reaction, we notice that the mass of solid zinc decreases during the course of the reaction.
+This suggests that the reaction occurring in that half-cell is
+\text{Zn}(s) \rightarrow \text{Zn}^{2+}(aq) + 2e^-
+So, we have the following process occurring in the cell:

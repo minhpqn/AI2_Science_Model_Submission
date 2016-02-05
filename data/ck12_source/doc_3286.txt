@@ -1,0 +1,20 @@
+Click on the image above for more content
+Schematic of a laser
+Besides entertaining a cat, laser light has many other uses.
+One use is carrying communication signals in optical fibers.
+Sounds or pictures are encoded in pulses of laser light, which are then sent through an optical fiber.
+All of the light reflects off the inside of the fiber, so none of it escapes.
+As a result, the signal remains strong even over long distances.
+More than one signal can travel through an optical fiber at the same time, as you can see in the Figure below .
+Optical fibers are used to carry telephone, cable TV, and Internet signals.
+Schematic of an optical fiber
+The optical fiber in the diagram is much larger than a real optical fiber, which is only about as wide as a human hair.
+Q:
+When lasers were invented in 1960, they were called "a solution looking for a problem.” Since then, they have been put to thousands of different uses.
+Can you name other ways that lasers are used?
+A:
+The first widespread use of lasers was the supermarket barcode scanner, introduced in 1974.
+The compact disc (CD) player was the first laser-equipped device commonly used by consumers, starting in The CD player was quickly followed by the laser printer.
+Some other uses of lasers include bloodless surgery, cutting and welding of metals, guiding missiles, thermometers, laser light shows, and acne treatments.
+Optics is the study of visible light and the ways it can be used to extend human vision and do other tasks.
+Optical instruments are based on optics.

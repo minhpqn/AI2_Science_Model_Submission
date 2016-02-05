@@ -1,0 +1,20 @@
+The darts are grouped together and have hit the bulls-eye.  This demonstrates high precision and high accuracy.  Scientists always strive to maximize both in their measurements.
+Students in a lab using volumetric flasks
+Students in a chemistry lab are making careful measurements with a series of volumetric flasks.
+Accuracy and precision are critical in every experiment.
+Accuracy is a measure of how close a measurement is to the correct or accepted value of the quantity being measured.
+Precision is a measure of how close a series of measurements are to one another.
+Take the quiz at the link below:
+What can be said about the reproducibility of precise values?
+accuracy:
+A measure of how close a measurement is to the correct or accepted value of the quantity being measured
+precision:
+A measure of how close a series of measurements are to one another.
+Precise measurements are highly reproducible, even if the measurements are not near the correct value.
+Define accepted value.
+Define experimental value.
+Define error and calculate the error given appropriate data.
+Define percent error and calculate the error given appropriate data.
+Resistors have a percent error indicated by a colored band
+How does an electrical circuit work?
+A complicated piece of electronics equipment may contain several resistors whose role is to control the voltage and current in the electrical circuit.  Too much current and the apparatus malfunctions.

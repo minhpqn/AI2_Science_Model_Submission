@@ -1,0 +1,20 @@
+When one or more of the bonding pairs of electrons is replaced with a lone pair, the molecular geometry (actual shape) of the molecule is altered.  In keeping with the A and B symbols established in the previous section, we will use E to represent a lone pair on the central atom (A).  A subscript will be used when there is more than one lone pair.  Lone pairs on the surrounding atoms (B) do not affect the geometry.
+AB 3 E:
+Ammonia, NH 3
+The ammonia molecule contains three single bonds and one lone pair on the central nitrogen atom (see Figure below ).
+Lone pair electrons in ammonia
+Lone pair electrons in ammonia.
+The domain geometry for a molecule with four electron pairs is tetrahedral, as was seen with CH 4 .  In the ammonia molecule, one of the electron pairs is a lone pair rather than a bonding pair.  The molecular geometry of NH 3 is called trigonal pyramidal (see Figure below ).
+Ammonia has a trigonal pyramidal shape
+Recall that the bond angle in the tetrahedral CH 4 molecule is 109.5°.  Again, the replacement of one of the bonded electron pairs with a lone pair compresses the angle slightly.  The H-N-H angle is approximately 107°.
+AB 2 E 2 :
+Water, H 2 O
+A water molecule consists of two bonding pairs and two lone pairs (see Figure below ).
+Lone pair electrons on a water molecule
+Lone pair electrons on water.
+As for methane and ammonia, the domain geometry for a molecule with four electron pairs is tetrahedral.  In the water molecule, two of the electron pairs are lone pairs rather than bonding pairs.  The molecular geometry of the water molecule is bent.  The H-O-H bond angle is 104.5°, which is smaller than the bond angle in NH 3 (see Figure below ).
+A water molecule has a bent shape
+AB 4 E:
+Sulfur Tetrafluoride, SF 4
+The Lewis structure for SF 4 contains four single bonds and a lone pair on the sulfur atom (see Figure below ).
+Lone pair electrons in sulfur tetrafluoride

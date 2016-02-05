@@ -1,0 +1,20 @@
+\text{ g C}_2\text{H}_6\text{O}_2 \times \frac{1 \text{ mol C}_2\text{H}_6\text{O}_2}{62.08 \text{ g C}_2\text{H}_6\text{O}_2} &= 6.44 \text{ mol C}_2\text{H}_6\text{O}_2\\\frac{6.44 \text{ mol C}_2\text{H}_6\text{O}_2}{0.500 \text{ kg H}_2\text{O}} &= 12.9 \ m \ \text{C}_2\text{H}_6\text{O}_2\\\Delta T_f=K_f \times m=-1.86^\circ \text{C/}m \times 12.9 \ m &= -24.0^\circ \text{C} \\T_f &=-24.0^\circ \text{C}
+The normal freezing point of water is 0.0°C.
+Therefore, since the freezing point decreases by 24.0°C, the freezing point of the solution is -24.0°C.
+Step 3:
+Think about your result.
+The freezing point of the water decreases by a large amount, protecting the radiator from damage due to the expansion of water when it freezes.
+There are three significant figures in the result.
+Freezing point depression is defined.
+Calculations involving freezing point depression are described.
+Solve the problems at the site below:
+How does a solute affect the freezing of water?
+How many moles of glucose would be needed to lower the freezing point of one kg of water 3.72°C?
+How many moles of NaCl would be needed to produce the same amount of lowering of temperature?
+freezing point depression:
+The difference in temperature between the freezing point of the pure solvent and that of the solution.
+molal freezing-point depression constant:
+A constant that is equal to the change in the freezing point for a 1-molal solution of a nonvolatile molecular solute.
+Boiling Point Elevation
+Define boiling point elevation.
+Calculate the boiling point of a solution when given the molal boiling-point elevation constant.

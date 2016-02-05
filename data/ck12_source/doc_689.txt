@@ -1,0 +1,20 @@
+Images in a Plane Mirror
+Describe the image produced by a plane mirror.
+Understand a virtual image.
+Identical twins that look like they are in a mirror
+Is this a picture of one girl in front of a mirror or is this a picture of twins designed to look like a mirror image?
+The writing on the shirt is properly mirror reversed, and, as in plane mirror images, the right hand of the object becomes the left hand of the image.
+However, if you look closely, you will see that in the picture one girl is wearing a ring and the other isn’t.
+Image in a Plane Mirror
+The sketch below shows how we see an image in a plane mirror.
+Plane mirrors work because the light rays create a virtual image  behind the mirror.
+Light rays from the object strike the mirror and reflect according to the law of reflection.
+When some of the light rays enter our eye, our eye and brain interpret these rays as having traveled in a straight line path.
+Therefore, our eye and brain track the light rays backward to a position from which they appear to have come.
+At this position, we see an image.
+Illustrates how an image is formed on a plane mirror
+In a plane mirror, the image will be the same size as the object and will be the same distance behind the mirror as the object is in front of the mirror.
+This image is called a virtual image because the light does not actually pass through the image.
+Example Problem:
+A person 1.80 m tall stands in front of a plane mirror.
+What is the minimum height of the mirror, and how high must its lower edge be above the floor for the person to be able to see his/her whole body?

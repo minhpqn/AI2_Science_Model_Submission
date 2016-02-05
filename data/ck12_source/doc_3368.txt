@@ -1,0 +1,20 @@
+The Figure below represents a simple doorbell.
+Like most doorbells, it has a button located by the front door.
+Pressing the button causes two electric contacts to come together and complete an electric circuit.
+In other words, the button is a switch.
+The circuit is also connected to a source of current, an electromagnet, and a clapper that strikes a bell.
+You can see an animation of a doorbell at this URL:
+Schematic illustrating how a doorbell works
+What happens when current flows through the doorbell circuit?
+The electromagnet turns on, and its magnetic field attracts the clapper.
+This causes the clapper to hit the bell, making it ring.
+Because the clapper is part of the circuit, when it moves to strike the bell, it breaks the circuit.
+Without current flowing through the circuit, the electromagnet turns off, and the clapper returns to its original position.
+When the clapper moves back to its original position, this closes the circuit again and turns the electromagnet back on.
+The electromagnet again attracts the clapper, which hits the bell once more.
+This sequence of events keeps repeating.
+Q:
+How can you stop the sequence of events so the doorbell will stop ringing?
+A:
+Stop pressing the button!
+This interrupts the circuit so no current can flow through it.

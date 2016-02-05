@@ -1,0 +1,20 @@
+Sample Problem:
+Graham’s Law
+Calculate the ratio of diffusion rates of ammonia gas (NH 3 ) to hydrogen chloride (HCl) at the same temperature and pressure.
+Step 1:
+List the known quantities and plan the problem.
+molar mass NH 3 = 17.04 g/mol
+molar mass HCl = 36.46 g/mol
+velcoity ratio  \dfrac{v_{\text{NH}_3}}{v_{\text{HCl}}}
+Substitute the molar masses of the gases into Graham’s law and solve for the ratio.
+Step 2:
+Solve.
+\frac{v_{NH_3}}{v_{HCl}}=\sqrt{\frac{36.46 \text{ g/mol}}{17.04 \text{ g/mol}}}=1.46
+The rate of diffusion of ammonia is 1.46 times faster than the rate of diffusion of hydrogen chloride.
+Step 3:
+Think about your result
+Since ammonia has a smaller molar mass than hydrogen chloride, the velocity of its molecules is greater and the velocity ratio is larger than 1.
+The processes of gas diffusion and effusion are described.
+Graham’s law relates the molecular mass of a gas to its rate of diffusion or effusion.
+Read the material on the link below and do the practice problems:
+Why can you smell food cooking when you are in the next room?

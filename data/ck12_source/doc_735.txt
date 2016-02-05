@@ -1,0 +1,20 @@
+Example Problem:
+A positive test charge of 2.0 \times 10^{-5} \ \text{C} is placed in an electric field.
+The force on the test charge is 0.60 N.
+What is the electric field intensity at the location of the test charge?
+Solution:
+E=\frac{F}{q}=\frac{0.60 \ \text{N}}{2.0 \times 10^{-5} \ \text{C}}=3.0 \times 10^4 \ \text{N/C}
+An electric field surrounds every charge and acts on other charges in the vicinity.
+The strength of the electric field is given by the symbol E , and has the unit of Newtons/coulomb .
+The equation for electric field intensity is E=\frac{F}{q} .
+The following video covers electric fields.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+What does it mean when a force is called a non-contact force?
+What symbol is used to represent electric field strength?
+What is the relationship between the direction of the electric field and the direction of the electric force?
+The weight of a proton is 1.64 \times 10^{-26} \ \text{N} .  The charge on a proton is +1.60 \times 10^{-19} \ \text{C} .  If a proton is placed in a uniform electric field so that the electric force on the proton just balances its weight, what is the magnitude and direction of the field?
+A negative charge of   2.0 \times 10^{-8} \ \text{C} experiences a force of 0.060 N to the right in an electric field.  What is the magnitude and direction of the field?
+A positive charge of  5.0 \times 10^{-4} \ \text{C} is in an electric field that exerts a force of 2.5 \times 10^{-4} \ \text{N} on it.  What is the magnitude of the electric field at the location of the charge?
+If you determined the electric field intensity in a field using a test charge of  1.0 \times 10^{-6} \ \text{C} and then repeated the process with a test charge of 2.0 \times 10^{-6} \ \text{C} , would the forces on the charges be the same?  Would you find the value for E ?
+A 0.16 C charge and a 0.04 C charge are separated by a distance of 3.0 m.  At what position between the two charges would a test charge experience an electric field intensity of zero?

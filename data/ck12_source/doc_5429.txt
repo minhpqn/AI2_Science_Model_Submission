@@ -1,0 +1,20 @@
+These factors typically switch on series of other genes, for instance, the genes needed to encode the proteins to make a leg.
+The homeobox genes were first found in the fruit fly Drosophila melanogaster in the lab of Walter Gehring at the University of Basel, Switzerland, and then in the African clawed frog Xenopus laevis in the group of Eddy De Robertis at the same institution.
+Homeobox genes have subsequently been identified in many other species, from insects to reptiles and mammals including humans.
+Homeobox genes have even been found in fungi, for example the unicellular yeasts, and in plants.
+A particular subgroup of homeobox genes are the Hox genes .
+Protein products of Hox genes function in patterning the body, providing the placement of certain body parts during development.
+In other words, Hox genes determine where limbs and other body segments will grow in a developing fetus or larva.
+Mutations in any one of these genes can lead to the growth of extra, typically non-functional body parts in invertebrates.
+The Antennapedia mutation in Drosophila results in a leg growing from the head in place of an antenna.
+A mutation in a vertebrate Hox genes usually results in miscarriage.
+Mutations in homeobox genes can produce easily visible phenotypic changes.
+An example of a homeobox mutation in Drosophila is known as antennapedia , which results in a fly with legs where the antennae should be.
+Another homeobox mutation results in a fly with a second pair of wings.
+Furthermore, the duplication of homeobox genes can produce new body segments, further demonstrating the importance of these genes.
+A gap gene controls the shape of a developing zygote early in its development.
+Many of these genes were first identified in Drosophila based on the discovery of mutant embryos and flies.
+The products of these genes, when mutated, produce gaps in a rather uniform arrangement of cells.
+These gaps will result in the loss of a body segment in the developing embryo, causing a gap in the normal body plan.
+Therefore, each gap gene is critical for the development of a section of the organism.
+Each gap gene is expressed in a vertical band or segment in the early embryo.

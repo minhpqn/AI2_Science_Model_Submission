@@ -1,0 +1,20 @@
+Determining the Rate Law from Experimental Data
+In order to experimentally determine a rate law, a series of experiments must be performed with various starting concentrations of reactants.
+The initial rate law is then measured for each of the reactions.
+Consider the reaction between nitrogen monoxide gas and hydrogen gas to form nitrogen gas and water vapor.
+2\text{NO}(g)+2\text{H}_ 2(g) \rightarrow \text{N}_ 2(g)+ 2\text{H}_ 2\text{O}(g)
+The following data were collected for this reaction at 1280°C ( Table below ).
+[H 2 ]
+Initial Rate (M/s)
+1.25 \times 10^{-5}
+5.00 \times 10^{-5}
+1.00 \times 10^{-4}
+Notice that the starting concentrations of NO and H 2 were varied in a specific way.
+In order to compare the rates of reaction and determine the order with respect to each reactant, the initial concentration of each reactant must be changed while the other is held constant.
+Comparing experiments 1 and 2 : the concentration of NO was doubled, while the concentration of H 2 was held constant.
+The initial rate of the reaction quadrupled, since \frac{5.00 \times 10^{-5}}{1.25 \times 10^{-5}}=4 .
+Therefore, the order of the reaction with respect to NO is 2.
+In other words, rate α [NO] 2 .
+Because 2^2 = 4 , the doubling of [NO] results in a rate that is four times greater.
+Comparing experiments 2 and 3 : the concentration of H 2 was doubled while the concentration of NO was held constant.
+The initial rate of the reaction doubled, since \frac{1.00 \times 10^{-4}}{5.00 \times 10^{-5}}=2 .

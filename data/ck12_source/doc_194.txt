@@ -1,0 +1,20 @@
+This change can be either positive or negative.
+A negative change, such as that in the example problem above, is sometimes called negative acceleration or deceleration.
+Average acceleration is the rate of change of velocity, or the change in velocity per unit time.
+Complete the activity found at this URL to help you understand acceleration.
+The velocity of a car increases from +2.0 m/s to +16.0 m/s in a time period of 3.5 s.
+What was the average acceleration?
+If an automobile slows from +26 m/s to +18 m/s in a period of 4.0 s, what was the average acceleration?
+If a runner increases his velocity from 0 m/s to +20 m/s in 2.0 s, what was his average acceleration?
+If a runner decreases his velocity from +20 m/s to +10 m/s in 2.0 s, what was his average acceleration?
+average acceleration:
+The change in velocity over the change in time.
+Define uniform acceleration.
+Understand and use the equation relating initial velocity, acceleration, time, and final velocity.
+Cliff divers undergo effective free fall
+After jumping, this cliff diver undergoes effective free fall.
+Cliff diving is a sport in which athletes twist and flip on their way down.
+Even with the air resistance, these divers will accelerate the whole way down.
+Acceleration that does not change in time is called uniform or constant acceleration.
+The velocity at the beginning of the time interval is called initial velocity, v_i , and the velocity at the end of the time interval is called final velocity, v_f .  In a velocity versus time graph for uniform acceleration, the slope of the line is the acceleration.
+The equation that describes the curve is v_f = v_i + at .

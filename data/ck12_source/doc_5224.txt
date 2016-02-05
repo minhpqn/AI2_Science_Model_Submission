@@ -1,0 +1,20 @@
+What is the probability that two heterozygous individuals will have offspring with attached earlobes?
+Define probability.
+Apply the term to a coin toss.
+How is gamete formation like tossing a coin?
+What does the probability equation help to determine?
+How can probability be expressed?
+Punnett Squares - Advanced
+Outline how a Punnett Square helps predict outcomes of genetic crosses.
+What do you get when you cross an apple and an orange?
+Though the above fruit may not result, it would be nice to scientifically predict what would result.
+The ability to predict the genotypes and phenotypes of offspring is important for many reasons.
+Predicting the possibility of a genetic cross is often aided by a Punnett square.
+Predicting Genotypes with Punnett Squares
+Mendel developed the law of segregation by following only a single characteristic, such as pod color, in his pea plants.
+Biologists use a diagram called a Punnett square , to help predict the probable inheritance of alleles in different crosses.
+The Punnett square is named after its developer, British geneticist Reginald C.
+Punnett.
+In a monohybrid cross , such as the one in Figure below , the Punnett square shows every possible combination when combining one maternal (mother) allele with one paternal (father) allele.
+In this example, both organisms are heterozygous for flower color Bb (purple).
+Both plants produce gametes that contain both the B and b alleles.

@@ -1,0 +1,20 @@
+Relief , or terrain, includes all the landforms of a region.
+For example, the image below shows the San Francisco Peaks in northern Arizona ( Figure below ).
+Features on the map include mountains, hills, and lava flows.
+You can recognize these features from the differences in elevation.
+3D map of San Francisco Mountain and surrounding areas
+This image was made from data of the Landsat satellite.
+It shows the topography of the San Francisco Peaks and surrounding areas.
+Elevation refers to height above average sea level.
+The topography of a region describes its highs and lows.
+Sea level is the midpoint between high and low tide.
+It can vary around Earth.
+Use the resource below to answer the questions that follow.
+Elevation at  (5:20)
+Click on the image above for more content
+Why is elevation important?
+What is digital elevation data used for?
+What is the NED?
+What is the primary source of the NED's new elevation data?
+What else is LIDAR used for?
+Why is the continued funding of this project important?

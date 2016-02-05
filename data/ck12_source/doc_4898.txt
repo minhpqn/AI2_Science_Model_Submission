@@ -1,0 +1,20 @@
+Each chromosome contains many genes.
+Humans have about 20,000 to 22,000 genes scattered among 23 chromosomes.
+Essentially, the nucleus is the control center of the cell.
+The function of the nucleus is to maintain the integrity of the genes and to control the activities of the cell by regulating gene expression.
+Gene expression is the process by which the information in a gene is "decoded" by various cell molecules to produce a functional gene product, such as a protein molecule or an RNA molecule.
+Gene expression is a highly regulated process, ensuring RNA and proteins are only produced when necessary.
+The degree of DNA coiling determines whether the chromosome strands are short and thick or long and thin.
+Between cell divisions, the DNA in chromosomes is more loosely coiled and forms long thin strands called chromatin .
+DNA is in this uncoiled form during the majority of the cell cycle, making the DNA available to the proteins involved in DNA replication and transcription.
+Before the cell divides, the chromatin coils up more tightly and form chromosomes.
+Only chromosomes stain clearly enough to be seen under a microscope.
+The word chromosome comes from the Greek word chroma (color), and soma (body) due to its ability to be stained strongly by dyes.
+The nuclear envelope is a double membrane of the nucleus that encloses the genetic material.
+It separates the contents of the nucleus from the cytoplasm.
+The nuclear envelope is made of two phospholipid bilayers, an inner membrane and an outer membrane.
+The outer membrane is continuous with the rough endoplasmic reticulum.
+Many tiny holes called nuclear pores are found in the nuclear envelope.
+These nuclear pores help to regulate the exchange of materials (such as RNA and proteins) between the nucleus and the cytoplasm.
+The nucleus of many cells also contains an organelle called a nucleolus , shown in Figure below .
+The nucleolus is mainly involved in the assembly of ribosomes.

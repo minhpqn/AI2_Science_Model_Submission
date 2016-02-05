@@ -1,0 +1,20 @@
+Orbital Filling Diagrams
+An orbital filling diagram is the more visual way to represent the arrangement of all the electrons in a particular atom.
+In an orbital filling diagram, the individual orbitals are shown as circles (or squares) and orbitals within a sublevel are drawn next to each other horizontally.
+Each sublevel is labeled by its principal energy level and sublevel.
+Electrons are indicated by arrows inside the circles.
+An arrow pointing upwards indicates one spin direction, while a downward pointing arrow indicates the other direction.
+The orbital filling diagrams for hydrogen, helium, and lithium are shown in Figure below .
+Electron filling diagrams for hydrogen, helium, and lithium
+Orbital filling diagrams for hydrogen, helium, and lithium.
+According to the Aufbau process, sublevels and orbitals are filled with electrons in order of increasing energy.
+Since the s sublevel consists of just one orbital, the second electron simply pairs up with the first electron as in helium.  The next element is lithium and necessitates the use of the next available sublevel, the 2 s .
+The filling diagram for carbon is shown in the Figure below .
+There are two 2 p electrons for carbon and each occupies its own 2 p orbital.
+Electron filling diagram for carbon
+Orbital filling diagram for carbon.
+Oxygen has four 2 p electrons.
+After each 2 p orbital has one electron in it, the fourth electron can be placed in the first 2 p orbital with a spin opposite that of the other electron in that orbital.
+Electron filling diagram for oxygen
+Orbital filling diagram for oxygen.
+Hund’s rule specifies the order of electron filling within a set of orbitals.

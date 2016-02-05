@@ -1,0 +1,20 @@
+It turns out that he was in error about this idea, but it certainly did not take away from his outstanding scientific reputation.
+DNA and RNA
+The three parts of a DNA nucleotide are assembled as shown in the Figure below .
+Structure of a DNA monomer
+Nucleotides are composed of a phosphate group, a sugar, and one of five different nitrogenous bases.
+Every DNA and RNA polymer consists of multiple nucleotides strung together into extremely long chains.
+The only variation in each nucleotide is the identity of the nitrogenous base.
+The figure above shows one example of a nitrogenous base, called adenine.
+There are only five different nitrogenous bases found in all nucleic acids.
+The four bases of DNA are adenine, thymine, cytosine, and guanine, abbreviated A, T, C, and G respectively.
+In RNA, the base thymine is not found and is instead replaced by a different base called uracil, abbreviated U.
+The other three bases are present in both DNA and RNA.
+The specific structure of DNA proved elusive to scientists for many years.
+In 1953, James Watson and Francis Crick proposed that the structure of DNA consists of two side-by-side polynucleotide chains wrapped into the shape of a double helix .
+One aspect of this structure is that each nitrogenous base on one of the DNA strands must be paired up with another base on the opposite strand.
+The Figure below illustrates the base pairing.
+Each adenine base is always paired with a thymine, while each cytosine is paired with a guanine.
+The bases fit together perfectly from one strand to the other and are also held together by hydrogen bonds.
+The A-T pairing contains two hydrogen bonds, while the C-G pairing contains three hydrogen bonds.
+The ends of each strand are labeled either 3’ or 5’ based on a numbering of the deoxyribose sugar ring.

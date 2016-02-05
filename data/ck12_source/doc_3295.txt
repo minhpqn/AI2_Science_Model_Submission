@@ -1,0 +1,20 @@
+A proton has a positive electric charge, and an electron has a negative electric charge.
+In the Figure below , you can see that positively charged protons (+) are located in the nucleus of the atom, while negatively charged electrons (-) move around the nucleus.
+Location of charges in an atom
+When it comes to electric charges, opposites attract, so positive and negative particles attract each other.
+You can see this in the Figure below .
+This attraction explains why negative electrons keep moving around the positive nucleus of the atom.
+Like charges, on the other hand, repel each other, so two positive or two negative charges push apart.
+This is also shown in the diagram.
+The attraction or repulsion between charged particles is called electric force .
+The strength of electric force depends on the amount of electric charge on the particles and the distance between them.
+Larger charges or shorter distances result in greater force.
+You can experiment with electric force with the animation at the following URL.
+Like charges repel each other
+Q:
+How do positive protons stay close together inside the nucleus of the atom if like charges repel each other?
+A:
+Other, stronger forces in the nucleus hold the protons together.
+Electric charge is a physical property of particles or objects that causes them to attract or repel each other without touching.
+Particles that have opposite charges attract each other.
+Particles that have like charges repel each other.

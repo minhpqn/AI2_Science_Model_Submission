@@ -1,0 +1,20 @@
+The contribution that gas makes to the total pressure when the gas is part of a mixture.
+Dalton’s law of partial pressures:
+The total pressure of a mixture of gases is equal to the sum of all of the partial pressures of the component gases.
+Define mole fraction.
+Perform calculations involving mole fractions.
+The changing mole fraction of sulfur dioxide is a mixed blessing
+The mixed blessing of sulfur dioxide
+Sulfur dioxide is a by-product of many processes, both natural and human-made.
+Massive amounts of this gas are released during volcanic eruptions such as the one seen above on the Big Island (Hawaii).
+Humans produce sulfur dioxide by burning coal.
+The gas has a cooling effect when in the atmosphere by reflecting sunlight back away from the earth.
+However, sulfur dioxide is also a component of smog and acid rain, both of which are harmful to the environment.
+Many efforts have been made to reduce SO 2 levels to lower acid rain production.
+An unforeseen complication: as we lower the concentration of this gas in the atmosphere, we lower its ability to cool and then we have global warming concerns.
+One way to express relative amounts of substances in a mixture is with the mole fraction.
+Mole fraction (X) is the ratio of moles of one substance in a mixture to the total number of moles of all substances.
+For a mixture of two substances,  A and B , the mole fractions of each would be written as follows:
+X_A= \frac{\text{mol} \ A}{\text{mol} \ A+\text{mol} \ B} \quad \text{and} \quad X_B=\frac{\text{mol} \ B}{\text{mol} \ A+\text{mol} \ B}
+If a mixture consists of 0.50 mol  A and 1.00 mol B , then the mole fraction of  A would be X_A=\frac{0.5}{1.5} = 0.33 .  Similarly, the mole fraction of  B would be X_B =\frac{1.0}{1.5} = 0.67 .
+Mole fraction is a useful quantity for analyzing gas mixtures in conjunction with Dalton’s law of partial pressures.

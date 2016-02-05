@@ -1,0 +1,20 @@
+For lenses, the distance from the center of the lens to the focus is f .
+Focal lengths for foci behind the lens are positive in sign.
+The distance from the center of the lens to the object in question is d_0 , where distances to the left of the lens are positive in sign.
+The distance from the center of the lens to the image is d_i .
+This number is positive for real images (formed to the right of the lens), and negative for virtual images (formed to the left of the lens).
+Lenses , made from curved pieces of glass, focus or de-focus light as it passes through.
+Lenses that focus light are called converging lenses, and these are the ones used to make telescopes and cameras.
+Lenses that de-focus light are called diverging lenses.
+Lenses can be used to make visual representations, called images
+The focal length , f , of a lens or mirror is the distance from the surface of the lens to the place where the light is focused.
+This is called the focal point or focus .
+For diverging lenses, the focal length is negative.
+For converging lens, one can find the focal point by simply holding a piece of paper near the lens until a distant image is formed.
+The distance from the paper to the lens is the focal point.
+When light rays converge behind a lens, a real image is formed.
+Real images are useful in that you can place photographic film at the physical location of the real image, expose the film to the light, and make a two-dimensional representation of the world, a photograph.
+When light rays diverge behind a lens, a virtual image is formed.
+A virtual image is a manifestation of your brain (it traces the diverging rays backwards and forms an image), like the person you see “behind” a mirror’s surface when you brush your teeth (there's obviously no real light focused behind a mirror!).
+Since virtual images aren’t actually “anywhere,” you can’t place photographic film anywhere to capture them.
+Real images are upside-down, or inverted .

@@ -1,0 +1,20 @@
+Ramp Forces and Motion (PhET Simulation)
+Nathan pulls his little brother in a wagon, using a rope inclined at 30^\circ above the horizontal.
+The wagon and brother have a total mass of 80 kg, the average coefficient of friction between the wagon wheels and the floor is 0.08, and Nathan pulls on the rope with a force of 100 N.
+Draw a force diagram for the wagon, labeling all forces.
+Calculate the horizontal and vertical components of Nathan’s pull.
+Label them on your diagram (use dotted lines for components so as not to confuse them with other forces).
+Calculate the normal force acting on the wagon. (HINT:
+It is NOT equal to the weight!
+Use your FBD above).
+Calculate the force of friction on the wagon.
+Calculate the horizontal acceleration of the wagon.
+When the 20 kg box to the right is pulled with a force of 100 N, it just starts to move (i.e. the maximum value of static friction is overcome with a force of 100 N).
+What is the value of the coefficient of static friction, \mu_S ?
+A different box, this time 5 kg in mass, is being pulled with a force of 20 N and is sliding with an acceleration of 2 \ m/s^2 .
+Find the coefficient of kinetic friction, \mu_K .
+The large box on the table is 30 \;\mathrm{kg} and is connected via a rope and pulley to a smaller 10 \;\mathrm{kg} box, which is hanging.
+The 10 \;\mathrm{kg} mass is the highest mass you can hang without moving the box on the table.
+Find the coefficient of static friction \mu_S .
+A block has a little block hanging out to its side, as shown:
+As you know, if the situation is left like this, the little block will just fall.

@@ -1,0 +1,20 @@
+Each group of three bases makes up a code word, and each code word represents one amino acid (represented here by a single letter, such as V, H, or L).
+A string of code words specifies the sequence of amino acids in a protein.
+DNA and RNA are nucleic acids.
+Nucleic acids are built of small units called nucleotides.
+The bases of DNA are adenine, guanine, cytosine and thymine.
+In RNA, thymine is replaced by uracil.
+In DNA, A always binds to T, and G always binds to C.
+The shape of the DNA molecule is known as a double helix.
+DNA contains the genetic instructions for the correct sequence of amino acids in proteins.
+RNA uses the information in DNA to assemble the correct amino acids and help make the protein.
+Use this resource to answer the questions that follow.
+What is DNA? at
+Why is DNA referred to as the "instructions"?
+Where is DNA located in the cell?
+What do A, C, G and T refer to?
+How can only four letters tell the cell what to do?
+What is a gene?
+Identify the three parts of a nucleotide.
+What is DNA?
+What are complementary base pairs?

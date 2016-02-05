@@ -1,0 +1,20 @@
+A certain alcohol has a specific heat of 0.57 \ cal/g^\circ C and a melting point of -114^\circ C .
+You have a 150 g cup of liquid alcohol at 22^\circ C and then you drop a 10 g frozen piece of alcohol at -114^\circ C into it.
+After some time the alcohol cube has melted and the cup has come to a common temperature of 7^\circ C .
+What is the latent heat of fusion (i.e. the ‘ L ’ in the Q = mL equation) for this alcohol?
+Make a sketch of the graph of the alcohol’s temperature vs. time
+Make a sketch of the graph of the water’s temperature vs. time
+800,000 cal or 3360 kJ
+150 cal (630 J)
+same as a!
+0.027 \ cal/g^\circ C \ (0.11 \ J/g^\circ C)
+0.44 \ cal/g^\circ C
+1600 cal (6720 J)
+1800 cal (7560 J)
+Gas Pressure and Force
+Explain the basics of pressure and force, how pressure varies with altitude in our atmosphere, and the ideal gas law.
+Students will learn the basics of pressure and force, how pressure varies with altitude in our atmosphere, and the ideal gas law, which connects the concepts of volume, pressure, temperature, and the number of particles that compose a gas.
+P = F / A && \text{pressure equals the force divided by the area of application} \\\P = P_0 e^\frac{-h} {a} && \text{exponential model for atmospheric pressure}
+PV = NkT && \text{Ideal Gas Law}
+An ideal gas is a gas where the atoms are treated as point-particles and assumed to never collide or interact with each other.
+If you have N molecules of such a gas at temperature T and volume V , the pressure can be calculated from this formula.

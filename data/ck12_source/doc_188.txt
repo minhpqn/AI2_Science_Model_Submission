@@ -1,0 +1,20 @@
+If John walks once around the block, what distance does he travel?
+If John walks once around the block, what is his final displacement?
+Joanna's house is 8000 feet due west of her school.
+If her house is assigned the position of zero and her school is assigned the position of +8000, what would be Joanna's position if she walked 100 feet west of her house?
+distance:
+The space between two objects but this is not adequate when considering the  distance travelled .
+The distance travelled cannot be negative and can never get smaller – in this sense, distance is the total length of path traversed by the moving body irrespective of direction.
+displacement:  The vector from the initial position to a subsequent position assumed by a body.
+Explain the difference between speed and velocity.
+Define the concept of average velocity.
+Determine how to calculate average velocity using the equation, v_{\text{av}}=\frac{\Delta x}{\Delta t}
+Test Pilot Neil Armstrong is seen standing next to the X-15 ship after a research flight
+Test Pilot Neil Armstrong (later to become a famous astronaut) is seen here next to the X-15 ship after a research flight.
+The servo-actuated ball nose, seen at Armstrong's right hand, provided accurate measurement of air speed at hypersonic speeds.
+The X-15 was flown over a period of nearly 10 years, and set the world's unofficial speed record of 4,250 mph.
+In ordinary language, the words speed and velocity both refer to how fast an object is moving, and are often used interchangeably.
+In physics, however, they are fundamentally different.
+Speed  is the magnitude of an object's motion, with no regard for the direction.
+Velocity , on the other hand, includes direction.
+It is a vector, and thus must have a magnitude and a direction.

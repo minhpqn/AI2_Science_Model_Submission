@@ -1,0 +1,20 @@
+Chromatography is the separation of a mixture by passing it in solution or suspension or as a vapor (as in gas chromatography) through a medium in which the components move at different rates.
+Thin-layer chromatography is a special type of chromatography used for separating and identifying mixtures that are or can be colored, especially pigments.
+Distillation is an effective method to separate mixtures comprised of two or more pure liquids.
+Distillation is a purification process where the components of a liquid mixture are vaporized and then condensed and isolated.
+In simple distillation, a mixture is heated and the most volatile component vaporizes at the lowest temperature.
+The vapor passes through a cooled tube (a condenser), where it condenses back into its liquid state.
+The condensate that is collected is called distillate.
+Diagram of a distillation apparatus
+In the Figure above , we see several important pieces of equipment.
+There is a heat source, a test tube with a one-hole stopper attached to a glass elbow and rubber tubing.
+The rubber tubing is placed into a collection tube which is submerged in cold water.
+There are other more complicated assemblies for distillation that can also be used, especially to separate mixtures, which are comprised of pure liquids with boiling points that are close to one another.
+Evaporation is a technique used to separate out homogenous mixtures where there is one or more dissolved solids.
+This method drives off the liquid components from the solid components.
+The process typically involves heating the mixture until no more liquid remains, Prior to using this method, the mixture should only contain one liquid component, unless it is not important to isolate the liquid components.
+This is because all liquid components will evaporate over time.
+This method is suitable to separate a soluble solid from a liquid.
+In many parts of the world, table salt is obtained from the evaporation of sea water.
+The heat for the process comes from the sun.
+Salt is formed from evaporating saltwater

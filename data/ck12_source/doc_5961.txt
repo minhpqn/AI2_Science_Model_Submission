@@ -1,0 +1,20 @@
+percent O = ? %
+Subtract to find the mass of oxygen in the compound.
+Divide each element’s mass by the mass of the compound to find the percent by mass.
+Step 2:
+Calculate.
+\text{Mass of oxygen}&=20.00 \ \text{g} - 16.07 \ \text{g}=3.93 \ \text{g O} \\\% \ \text{Zn}&=\frac{16.07 \ \text{g Zn}}{20.00 \ \text{g}} \times 100 \%=80.35 \% \ \text{Zn} \\\% \ \text{O}&=\frac{3.93 \ \text{g O}}{20.00 \ \text{g}} \times 100 \%=19.65 \% \ \text{O} \\
+Step 3:
+Think about your result.
+The calculations make sense because the sum of the two percentages adds up to 100%.  By mass, the compound is mostly zinc.
+Percent Composition from a Chemical Formula
+The percent composition of a compound can also be determined from the formula of the compound.  The subscripts in the formula are first used to calculate the mass of each element in one mole of the compound.
+That is divided by the molar mass of the compound and multiplied by
+\% \ \text{by mass }=\frac{\text{mass of element in} \ 1 \ \text{mol}}{\text{molar mass of compound}}\times 100 \%
+The percent composition of a given compound is always the same as long as the compound is pure.
+Sample Problem Two:
+Percent Composition from Chemical Formula
+Dichlorineheptoxide (Cl 2 O 7 ) is a highly reactive compound used in some organic synthesis reactions.  Calculate the percent composition of dichlorineheptoxide.
+Step 1:
+List the known quantities and plan the problem.
+mass of Cl in 1 mol Cl 2 O 7 = 70.90 g

@@ -1,0 +1,20 @@
+Schematic of a warm water heating system
+Q:
+Look closely at the hot-water heating system in the Figure above .
+The radiator is a coiled pipe through which hot water flows.
+What happens to the water as it flows through the radiator?
+Why is each radiator connected to two pipes?
+Why can’t water flow directly from one radiator to another through a single pipe?
+A:
+The radiator is where most of the energy transfer occurs.
+Water passes through such a great length of pipe in the radiator that it transfers a lot of thermal energy to the radiator.
+As the water transfers thermal energy, it gets cooler.
+The cool water flows into a return pipe rather than going directly to another radiator because the cool water no longer has enough thermal energy to heat a room.
+Warm-Air Heating System
+A warm-air heating system uses thermal energy to heat air and then forces the warm air through a system of ducts and registers.
+You can see a this type of heating system in the Figure below .
+The air is heated in a furnace that burns fuel such as natural gas, propane, or heating oil.
+After the air gets warm, a fan blows it through the ducts and out through the registers that are located in each room.
+Warm air blowing out of a register moves across the room, pushing cold air out of the way.
+The cold air enters a return register across the room and returns to the furnace with the help of another fan.
+In the furnace, the cold air is heated, and the cycle repeats.

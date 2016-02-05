@@ -1,0 +1,20 @@
+principal axis:  The principal axis for a mirror is line passing through the center of the surface of a spherical mirror and through the center of curvature of the mirror.
+mirror equation:  \frac{1}{d_o}+\frac{1}{d_i}=\frac{1}{f} .
+magnification equation:  m=-\frac{d_i}{d_o} .
+Images in a Convex Mirror
+Understand the difference between concave and covex mirrors.
+Use ray diagrams to explain why convex mirrors form only virtual images.
+Use the mirror and equation and the magnification equation with convex mirrors.
+A car rearview mirror is a convex mirror
+Convex mirrors provide a wide angle view and they provide an upright image.
+Wide angle images have benefits in rearview mirrors, in-store customer monitors, and for viewing large areas like intersections and parking lots.
+Images in a Convex Mirror
+In  convex mirrors , the reflecting surface is on the outside of the sphere, making the center of curvature and the focal point on the opposite side of the mirror from the object.
+Since the focal point is on the opposite side of the mirror from the object, the focal length is assigned a negative number.
+Light rays that come to the mirror aimed at the focal point on the back side will be reflected parallel to the principal axis.
+In the sketch, blue rays approach the mirror as if they would continue through the mirror toward the focal point (dotted blue lines).
+They reflect along the purple lines parallel to the principal axis.
+Light rays reflecting off a convex mirror
+Similarly, light rays that approach the mirror parallel to the principal axis reflect as if they came from the focal point.
+Example Problem:
+A convex mirror has a radius of curvature of 40.0 cm.

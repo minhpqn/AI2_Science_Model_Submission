@@ -1,0 +1,20 @@
+An overview of DNA can be seen at
+Click on the image above for more content
+As you view DNA, focus on the following concept:
+the structure and role of DNA.
+Structure of Nucleic Acids
+Each nucleotide consists of three smaller molecules:
+If you look at Figure below , you will see that the sugar of one nucleotide binds to the phosphate group of the next nucleotide.
+These two molecules alternate to form the backbone of the nucleotide chain.
+This backbone is known as the sugar-phosphate backbone.
+The nitrogen bases in a nucleic acid stick out from the backbone.
+There are four different types of bases: cytosine (C), adenine (A), guanine (G), and either thymine (T) in DNA, or uracil (U) in RNA.
+In DNA, bonds form between bases on the two nucleotide chains and hold the chains together.
+Each type of base binds with just one other type of base: cytosine always binds with guanine, and adenine always binds with thymine.
+These pairs of bases are called complementary base pairs
+Structure of a nucleic acid
+Nucleic Acid.
+Sugars and phosphate groups form the backbone of a polynucleotide chain.
+Hydrogen bonds between complementary bases hold two polynucleotide chains together.
+The binding of complementary bases allows DNA molecules to take their well-known shape, called a double helix , which is shown in Figure below .
+A double helix is like a spiral staircase.

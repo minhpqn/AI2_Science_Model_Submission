@@ -1,0 +1,20 @@
+A 5.00\;\mathrm{kg} firecracker explodes into two parts: one part has a mass of 3.00 \;\mathrm{kg} and moves at a velocity of 25.0 \;\mathrm{m/s} towards the west.
+The other part has a mass of 2.00 \;\mathrm{kg} .
+What is the velocity of the second piece as a result of the explosion?
+A firecracker lying on the ground explodes, breaking into two pieces.
+One piece has twice the mass of the other.
+What is the ratio of their speeds?
+While driving in your pickup truck down Highway 280 between San Francisco and Palo Alto, an asteroid lands in your truck bed!
+Despite its 220 \;\mathrm{kg} mass, the asteroid does not destroy your 1200\;\mathrm{kg} truck.
+In fact, it landed perfectly vertically.
+Before the asteroid hit, you were going 25 \;\mathrm{m/s} .
+After it hit, how fast were you going?
+An astronaut is 100\;\mathrm{m} away from her spaceship doing repairs with a 10.0 \;\mathrm{kg} wrench.
+The astronaut’s total mass is 90.0 \;\mathrm{kg} and the ship has a mass of 1.00 \times10^4\;\mathrm{kg} .
+If she throws the wrench in the opposite direction of the spaceship at 10.0 \;\mathrm{m/s} how long would it take for her to reach the ship?
+Answers to Selected Problems
+v_1 = 2v_2
+a. 90 \;\mathrm{sec}
+Explain the meaning of impulse force.
+Calculate the impulse and the impulse force in various situations.
+Students will learn the meaning of impulse force and how to calculate both impulse and impulse force in various situations.

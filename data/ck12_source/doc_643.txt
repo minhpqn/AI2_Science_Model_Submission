@@ -1,0 +1,20 @@
+Consider a gigantic tub filled with water as shown below.
+A column of water with a cross-sectional area of 1.00 m 2 is designated.
+If we multiply the cross-sectional area by the height of the column, we get the volume of water in this column.
+We can then multiply this volume by the density of water, 1000. kg/m 3 , and get the mass of water in the column.
+We then multiply this mass by the acceleration due to gravity,  g , to get the weight of the water in this column.
+Volume of water in a column
+The pressure exerted by this force would be exerted over the area at the bottom of the column.
+P=\frac{F}{A}=\frac{\rho gh A}{A}=\rho g h
+Therefore, the pressure of a column of fluid is proportional to the density of the fluid and to the height of the column of fluid above the level.
+This is the pressure due to the fluid itself.
+If an external pressure is exerted at the surface, this must also be taken into account.
+Example Problem:
+The surface of the water in a storage tank is 30.0 m above a water faucet in the kitchen of a house.
+Calculate the water pressure at the faucet.
+Solution:
+The pressure of the atmosphere acts equally at the surface of the water in the storage tank and on the water leaving the faucet – so it will have no effect.
+The pressure caused by the column of water will be:
+P=\rho gh=(1000.\ kg/m^3)(9.80 \ m/s^2)(30.0 \ m)=294, 000 \ Pa
+The pressure of the earth’s atmosphere, as with any fluid, increases with the height of the column of air.
+In the case of earth’s atmosphere, there are some complications.

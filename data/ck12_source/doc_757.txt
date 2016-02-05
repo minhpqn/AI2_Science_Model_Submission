@@ -1,0 +1,20 @@
+How much current is supplied to the resistance?
+How many joules of energy is provided by the heater in 10.0 s?
+I=\frac{V}{R}=\frac{120.0 \ V}{25.0 \ \Omega}=4.8 \ A
+E = I^2Rt = (4.8 \ A)^2(25.0 \ \Omega)(10.0 \ s) = 5760 \ \text{joules}
+Think again about the power grid.
+When electricity is transmitted over long distances, some amount of energy is lost in overcoming the resistance in the transmission lines.
+We know the equation for the power dissipated is given by P = I^2R .
+The energy loss can be minimized by choosing the material with the least resistance for power lines, but changing the current also has significant effects.
+Consider a reduction of the current by a power of ten:
+How much power is dissipated when a current of 10.0 A passes through a power line whose resistance is 1.00 Ω?
+P = I^2R = (10.0 \ A)^2(1.00 \ \Omega) = 100. \ \text{Watts}
+How much power is dissipated when a current of 1.00 A passes through a power line whose resistance is 1.00 Ω?
+P = I^2R = (1.00 \ A)^2(1.00 \ \Omega) = 1.00 \ \text{Watts}
+The power loss is reduced tremendously by reducing the magnitude of the current through the resistance.
+Power companies must transmit the same amount of energy over the power lines but keep the power loss minimal.
+They do this by reducing the current.
+From the equation P = VI , we know that the voltage must be increased to keep the same power level.
+Even though the companies that supply electrical energy are often called “power” companies, they are actually selling energy.
+Your electricity bill is based on energy, not power.
+The amount of energy provided by electric current can be calculated by multiplying the watts (J/s) by seconds to yield joules.

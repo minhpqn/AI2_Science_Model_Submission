@@ -1,0 +1,20 @@
+How many meters are in 3.7 km?
+How many kg in 12980 g?
+conversion factor:
+A ratio of equivalent measurements.
+dimensional analysis:
+A technique that uses the units (dimensions) of the measurement in order to correctly solve problems.
+Metric Unit Conversions
+Use dimensional analysis to carry out metric unit conversions.
+Runners on a track
+How can a number of track laps be converted to a distance in meters?
+You are training for a 10-kilometer run by doing laps on a 400-meter track.
+You ask yourself “How many times do I need to run around this track in order to cover ten kilometers?” (more than you realize).
+By using dimensional analysis, you can easily determine the number of laps needed to cover the 10 k distance.
+Metric Unit Conversions
+The metric system’s many prefixes allow quantities to be expressed in many different units.
+Dimensional analysis is useful to convert from one metric system unit to another.
+Sample Problem:
+Metric Unit Conversions
+A particular experiment requires 120 mL of a solution.
+The teacher knows that he will need to make enough solution for 40 experiments to be performed throughout the day.

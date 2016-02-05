@@ -1,0 +1,20 @@
+We can add vectors mathematically using trig functions, the law of cosines, or the Pythagorean theorem.
+If the vectors to be added are at right angles to each other, such as the example above, we would assign them to the sides of a right triangle and calculate the sum as the hypotenuse of the right triangle.
+We would also calculate the direction of the sum vector by using an inverse sin or some other trig function.
+Suppose, however, that we wish to add two vectors that are not at right angles to each other.
+Let’s consider the vectors in the following images.
+Two vectors on a north-south, east-west grid, one originating between north and east, one originating between north and west
+The two vectors we are to add are a force of 65 N at 30° north of east and a force of 35 N at 60° north of west.
+We know that vectors in the same dimension can be added by regular arithmetic.
+Therefore, we can resolve each of these vectors into components that lay on the axes as pictured below.
+The  resolution of vectors  reduces each vector to a component on the north-south axis and a component on the east-west axis.
+Sum of two vectors on a north-south, east-west grid, creating a triangle for each vector
+After resolving each vector into two components, we can now mathematically determine the magnitude of the components.
+Once we have done that, we can add the components in the same direction arithmetically.
+This will give us two vectors that are perpendicular to each other and can be the legs of a right triangle.
+The east-west component of the first vector is (65 N)(cos 30°) = (65 N)(0.866) = 56.3 N north
+The north-south component of the first vector is (65 N)(sin 30°) = (65 N)(0.500) = 32.5 N north
+The east-west component of the second vector is (35 N)(cos 60°) = (35 N)(0.500) = 17.5 N west
+The north-south component of the second vector is (35 N)(sin 60°) = (35 N)(0.866) = 30.3 N north
+The sum of the two east-west components is 56.3 N - 17.5 N = 38.8 N east
+The sum of the two north-south components is 32.5 N + 30.3 N = 62.8 N north

@@ -1,0 +1,20 @@
+The ligands that bind to these receptors include light-sensitive compounds, odors, hormones, and neurotransmitters.
+The ligands for G-protein linked receptors come in different sizes, from small molecules to large proteins.
+When a ligand binds to the receptor, it causes a conformational change in the receptor, which allows it to act as a guanine nucleotide exchange factor.
+The receptor can then activate an associated G-protein by exchanging its bound GDP for a GTP.
+The G-protein's α subunit, together with the bound GTP, can then dissociate from the β and γ subunits to further affect intracellular signaling proteins.
+Many times the activated G-protein-linked receptor will then activate cyclic AMP (cAMP) , which acts as the second messenger in initiating a cascade of reactions.
+The process of how a G-protein linked receptor works is outlined in Figure below .
+How a G-protein linked receptor works with the help of a G-protein.
+In panel C, the second messenger cAMP can be seen moving away from the enzyme.
+G-Protein Linked Receptors
+A ligand such as a hormone (small, purple molecule) binds to the G protein-linked receptor (red molecule).
+Before ligand binding, the inactive G-protein (yellow molecule) has GDP bound to it.
+The receptor changes shape and activates the G-protein and a molecule of GTP replaces the GDP.
+The G-protein moves across the membrane then binds to and activates the enzyme (green molecule).
+This then triggers the next step in the pathway to the cell's response.
+After activating the enzyme, the G-protein returns to its original position.
+The second messenger of this signal transduction is cAMP, as shown in C.
+The sensing of the external and internal environments at the cellular level relies on signal transduction.
+Defects in signal transduction pathways can contribute or lead to many diseases, including cancer and heart disease.
+This highlights the importance of signal transductions to biology and medicine.

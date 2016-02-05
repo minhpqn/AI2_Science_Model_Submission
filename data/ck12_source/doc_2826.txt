@@ -1,0 +1,20 @@
+You can watch a video about the three types at this URL:  .
+alpha particle (2 protons and 2 neutrons) + energy
+beta particle (1 electron or 1 positron) + energy
+energy (gamma ray)
+Both alpha and beta decay change the number of protons in an atom’s nucleus, thereby changing the atom to a different element.
+In alpha decay, the nucleus loses two protons.
+In beta decay, the nucleus either loses a proton or gains a proton.
+In gamma decay, no change in proton number occurs, so the atom does not become a different element.
+Q:
+If the radioactive element polonium (Po) undergoes alpha decay, what element does it become?
+A:
+From the periodic table, the atomic number of polonium is 84, so it has 84 protons.
+If it loses two protons through alpha decay, it will have 82 protons.
+Atoms with 82 protons are the element lead (Pb).
+Dangers of Radioactive Decay
+The charged particles and energy emitted during radioactive decay can harm living things, but the three types of radioactive decay aren’t equally dangerous.
+That’s because they differ in how far they can travel and what they can penetrate.
+You can see this in the Figure below and in the animation at the following URL:
+Radiation has different levels of penetration
+Alpha particles can travel only a few centimeters through air.

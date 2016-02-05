@@ -1,0 +1,20 @@
+With more energy, the particles move faster.
+You can see this in the simulation at the URL below.
+Drag the bar to increase the temperature, and you’ll be amazed at how fast the particles zigzag around inside the box!
+If the speedy particles had more room, they would spread out and the volume of the gas would increase.
+Q:
+Now that you know how a gas behaves when it is heated, can you explain how hot air causes a balloon to inflate?
+A:
+As the air heats, its particles spread out and occupy more space, causing the balloon to inflate.
+According to Charles’ law, when the pressure of a gas is held constant, increasing its temperature increases its volume.
+Heating a gas gives its particles more energy so they move faster.
+If the speedy particles have room to spread out, the volume of the gas will increase.
+Do the activity on Charles’ law at the following URL.
+Be sure to answer the questions at the end of the activity.
+State how increasing the temperature of a gas changes its volume, assuming pressure is held constant.
+With the help of his dad, a boy in the Figure below blew up a bunch of balloons outside on a hot, sunny day.
+The outdoor temperature was 26°C.
+Then the boy took the balloons inside his air-conditioned house, where the temperature was 20°C.
+What do you think happened to the balloons after they had been inside the cool house for a while?
+Explain.
+State Amontons’ law.

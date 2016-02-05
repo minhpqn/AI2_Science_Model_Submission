@@ -1,0 +1,20 @@
+Compare and contrast thermal energy and temperature.
+Explain how an object with a higher temperature can have less thermal energy than an object with a lower temperature.
+Explain how temperature is measured and how a thermometer works.
+Describe three temperature scales, and show how to convert temperatures from one scale to another.
+This boy has a fever, and it makes him feel miserable.
+He feels achy and really tired.
+He also feels hot because his temperature is higher than normal.
+He has a thermometer in his mouth to measure his temperature.
+What Is Temperature?
+No doubt you already have a good idea of what temperature is.
+You might say that it’s how warm or cool something feels.
+In physics, temperature is defined as the average kinetic energy of the particles of matter.
+When particles of matter move more quickly, they have more kinetic energy, so their temperature is higher.
+With a higher temperature, matter feels warmer.
+When particles move more slowly, they have less kinetic energy on average, so their temperature is lower.
+With a lower temperature, matter feels cooler.
+How a Thermometer Measures Temperature
+Many thermometers measure temperature with a liquid that expands when it gets warmer and contracts when it gets cooler.
+Look at the common household thermometer pictured in the Figure below .
+The red liquid rises or falls in the glass tube as the temperature changes.

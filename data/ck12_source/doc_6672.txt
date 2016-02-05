@@ -1,0 +1,20 @@
+What is the area of the square now?
+Include a sketch.
+A rectangular solid has a square face with sides 5 \;\mathrm{cm} in length, and a length of 10 \;\mathrm{cm} .
+What is the volume of the solid in \;\mathrm{cm}^3 ?
+Sketch the object, including the dimensions in your sketch.
+As you know, a cube with each side 4 \;\mathrm{m} in length has a volume of 64 \;\mathrm{m}^3 .
+Each side of the cube is now doubled in length.
+What is the ratio of the new volume to the old volume?
+Why is this ratio not simply 2 ?
+Include a sketch with dimensions.
+What is the ratio of the mass of the Earth to the mass of a single proton? (See equation sheet.)
+A spacecraft can travel 20 \;\mathrm{km/s} .
+How many km can this spacecraft travel in 1 hour \;\mathrm{(h)} ?
+8:1, each side goes up by 2 \;\mathrm{cm} , so it will change by
+3.5 \times 10^{51}:1
+Convert units from metric to English system and vice versa using dimensional analysis.
+Students will learn how to convert units from metric to English system and vice versa using dimensional analysis.
+1\ \text{meter} & = 3.28\ \text{feet} && \\\1\ \text{mile} & = 1.61 \text{~kilometers} && \\\1\ \text{lb. (1\ pound)} & = 4.45\ \text{Newtons}
+The key to converting units is to multiply by a clever factor of one.
+You can always multiply by 1, because it does not change the number.

@@ -1,0 +1,20 @@
+Answer:
+In order to calculate voltage across a resistor, use Ohm’s law.
+V_{90\:\Omega} &= I_{90\:\Omega}R_{90\:\Omega}=(0.2\:A)(90\:\Omega)=18\:V\\\V_{10\:\Omega} &= I_{10\:\Omega}R_{10\:\Omega}=(0.2\:A)(10\:\Omega)=2\:V
+^* Note:
+If you add up the voltages across the individual resistors you will obtain the total voltage of the circuit, as you should.
+Further note that with the voltages we can use the original form of the Power equation (P=IV) , and we should get the same results as above.
+P_{90\:\Omega} &= I_{90\:\Omega}V_{90\:\Omega}=(18\:V)(0.2\:A)=3.6\:W\\\P_{10\:\Omega} &= I_{10\:\Omega}V_{10\:\Omega}=(2.0\:V)(0.2\:A)=0.4\:W
+Watch this Explanation
+Click on the image above for more content
+Regarding the circuit below.
+If the ammeter reads 2\;\mathrm{A} , what is the voltage?
+How many watts is the power supply supplying?
+How many watts are dissipated in each resistor?
+Five resistors are wired in series.
+Their values are  10 \Omega ,  56 \Omega  ,  82 \Omega  ,  120 \Omega  and  180 \Omega  .
+If these resistors are connected to a 6 V battery, what is the current flowing out of the battery?
+If these resistors are connected to a 120 V power supply, what is the current flowing out of the battery?
+In order to increase current in your circuit, which two resistors would you remove?
+Given the resistors above and a 12 V battery, how could you make a circuit that draws 0.0594 A?
+Answers to Selected Problems

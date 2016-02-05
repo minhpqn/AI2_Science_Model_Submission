@@ -1,0 +1,20 @@
+Colored translucent and transparent materials appear the way they do because of the way they transmit light
+The color of light that strikes an object may also affect the color that the object appears.
+For example, if only blue light strikes green leaves, the blue light is absorbed and no light is reflected.
+Q:
+What color do you see if an object absorbs all of the light that strikes it?
+A:
+When all of the light is absorbed, none is reflected, so the object looks black.
+But black isn’t a color of light.
+Black is the absence of light.
+The Colors We See
+The human eye can distinguish only red, green, and blue light.
+These three colors are called the primary colors of light.
+All other colors of light can be created by combining the primary colors.
+Look at the Venn diagram below .
+Red and green light combine to form yellow light.
+Red and blue light combine to form magenta light, and blue and green light combine to form cyan light.
+Yellow, magenta, and cyan are called the secondary colors of light.
+Look at the center of the diagram, where all three primary colors of light combine.
+The result is white light.
+You can explore the colors of visible light and how they combine at this URL:

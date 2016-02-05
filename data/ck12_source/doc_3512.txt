@@ -1,0 +1,20 @@
+Distinguish between integral and peripheral membrane proteins.
+Describe the structure and function of the membrane proteins.
+Summarize the Fluid Mosaic Model.
+Can anything or everything move in or out of the cell?
+No.
+It is the semipermeable plasma membrane that determines what can enter and leave the cell.
+So, if not everything can cross the membrane, how do certain things get across?
+The plasma membrane contains molecules other than phospholipids, primarily other lipids and proteins.
+The green molecules in Figure below , for example, are the lipid cholesterol.
+Molecules of cholesterol help the plasma membrane keep its shape.
+Many of the proteins in the plasma membrane assist other substances in crossing the membrane.
+The plasma membranes also contain certain types of proteins.
+A membrane protein is a protein molecule that is attached to, or associated with, the membrane of a cell or an organelle.
+Membrane proteins can be put into two groups based on how the protein is associated with the membrane.
+Integral membrane proteins are permanently embedded within the plasma membrane.
+They have a range of important functions.
+Such functions include channeling or transporting molecules across the membrane.
+Other integral proteins act as cell receptors.
+Integral membrane proteins can be classified according to their relationship with the bilayer:
+Transmembrane proteins span the entire plasma membrane.

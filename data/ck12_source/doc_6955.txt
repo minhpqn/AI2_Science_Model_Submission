@@ -1,0 +1,20 @@
+Answers to Selected Problems
+Down the page; 60 \;\mathrm{N}
+a.
+To the right, 1.88 \times 10^4 \;\mathrm{N} b. 91.7 \;\mathrm{m/s} c.
+It should be doubled
+East 1.5 \times 10^4 \;\mathrm{A}
+a. 8 \times 10^{-7} \;\mathrm{T} b. 1.3 \times 10^{-6} \;\mathrm{C}
+a. 1.2 \times 10^{-6} \;\mathrm{T}, +z b. 1.5 \times 10^{-17} \;\mathrm{N}, -y
+Describe the concept of flux and calculate the induced voltage.
+Apply Lenz law to determine the direction of the induced current in a loop of wire.
+Students will learn how to determine the flux and how to calculate the induced voltage.
+In addition, Students will learn Lenz law and how to use it to determine the direction of the induced current in a loop of wire.
+\Phi = N \vec{B} \cdot \vec{A} &&\text{ Electromagnetic Flux}
+emf = -\frac{\Delta \Phi}{\Delta t}&& \text{Faraday's Law of Induction}
+To understand induction, we need to introduce the concept of electromagnetic flux .
+If you have a closed, looped wire of area A (measured in  \mathrm{m^2}  ) and N loops, and you pass a magnetic field B through, the magnetic flux \Phi is given by the formula below.
+Again, the relative direction of the loops and the field matter; this relationship is preserved by creating an 'area vector': a vector whose magnitude is equal to the area of the loop and whose direction is perpendicular to the plane of the loop.
+The directions' influence can then be conveniently captured through a dot product: \Phi = N \vec{B} \cdot \vec{A} &&\text{ Electromagnetic Flux}
+The units of magnetic flux are \text{T} \times \mathrm{m^2} , also known as Webers \text{(Wb)} .
+In the example above, there are four loops of wire (N = 4) and each has area \pi r^2 (horizontally hashed).

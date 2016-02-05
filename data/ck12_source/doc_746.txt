@@ -1,0 +1,20 @@
+What do capacitors do?
+What are the units of capacitance?
+What is the formula for capacitance?
+Additional Practice Questions:
+We have a large charged hollow sphere with a small hole in one side.
+The charge on the sphere is 1.00 C.
+We insert another conducting sphere through the hole on an insulating stick and touch the inside of the charged hollow sphere and bring the second sphere outside the large sphere.
+What will be the charge on the second sphere?
+Why does a charged object lose its charge when it is touched to the ground?
+If a charged rubber rod is placed on a wooden table, the rubber rod will keep its charge for a long time.
+Why doesn’t the rod lose its charge immediately?
+Both a 3.3×10 -6 F and a 6.8×10 -6 F capacitor are connected across a 15.0 V potential difference.
+Which capacitor has a greater charge and what is that charge?
+The two plates of a capacitor hold +2.5×10 -3 C and -2.5×10 -3 C of charge when the potential difference is 950 V.
+What is the capacitance?
+The potential difference between two parallel wires in air is V.
+They hold equal and opposite charges of 9.5×10 -11 C.
+What is the capacitance of the two wires?
+How much charge flows from a 12.0 V battery when it is connected to a 9.00 microfarad capacitor?
+grounding:

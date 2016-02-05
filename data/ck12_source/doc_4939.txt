@@ -1,0 +1,20 @@
+Diffusion will continue until the concentration gradient has been eliminated.
+Since diffusion moves materials from an area of higher concentration to the lower, it is described as moving solutes "down the concentration gradient." The end result of diffusion is an equal concentration, or equilibrium , of molecules on both sides of the membrane.
+At equilibrium, movement of molecules does not stop.
+At equilibrium, there is equal movement of materials in both directions.
+If a molecule can pass freely through a cell membrane, it will cross the membrane by diffusion ( Figure below ).
+The inside of the plasma membrane is hydrophobic, so certain molecules cannot easily pass through the membrane.
+Recall the semipermeable nature of the lipid bilayer.
+Molecules that cannot easily pass through the bilayer include ions and small hydrophilic molecules, such as glucose, and macromolecules, including proteins and RNA.
+Examples of molecules that can easily diffuse across the plasma membrane include carbon dioxide and oxygen gas.
+These molecules diffuse freely in and out of the cell, along their concentration gradient.
+Though water is a polar molecule, it can also diffuse through the plasma membrane.
+The diffusion of water through the cell membrane is of such importance to the cell that it is given a special name, osmosis .
+Molecules move from an area of high concentration to an area of lower concentration until an equilibrium is met.
+The molecules continue to cross the membrane at equilibrium, but at equal rates in both directions.
+concentration gradient :
+Difference in the concentrations of a molecule across two distinct areas, such as a cell membrane.
+diffusion :
+The movement of molecules from an area of high concentration of the molecules to an area with a lower concentration.
+equilibrium :
+State of equal concentration of a molecule, such as on both sides of the cell membrane.

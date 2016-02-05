@@ -1,0 +1,20 @@
+c = f \lambda &&  ;
+Wave equation for light
+c = 3 \times 10^8 \text{m/s}
+When charged particles accelerate , changing electric and magnetic fields radiate outward.
+The traveling electric and magnetic fields of an accelerating (often oscillating) charged particle are known as electromagnetic radiation or light.
+When using the wave equation for light keep in mind that light always travels at the speed of light.
+So plug in c for v in the wave equation.
+The color of light that we observe is a measure of the wavelength of the light: the longer the wavelength, the redder the light.
+The spectrum of electromagnetic radiation can be roughly broken into the following ranges:
+10^{-11} \;\mathrm{m} and shorter
+10^{-11} \;\mathrm{m} - 10^{-8} \;\mathrm{m}
+10^{-8} \;\mathrm{m} - 10^{-7} \;\mathrm{m}
+\sim 4\times10^{-7} \;\mathrm{m} (400 \;\mathrm{nm})^*
+\sim 450 \;\mathrm{nm}
+\sim 500 \;\mathrm{nm}
+\sim 650 \;\mathrm{nm}
+10^{-6} \;\mathrm{m} - 1 \;\mathrm{mm}
+1 \;\mathrm{mm} - 10 \;\mathrm{cm}
+Larger than 10 \;\mathrm{cm}
+Which has a higher frequency, green light or microwaves?

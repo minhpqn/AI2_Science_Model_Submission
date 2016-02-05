@@ -1,0 +1,20 @@
+Transmembrane proteins are found in all types of biological membranes.
+Integral monotopic proteins are permanently attached to the membrane from only one side.
+Some integral membrane proteins are responsible for cell adhesion (sticking of a cell to another cell or surface).
+On the outside of cell membranes and attached to some of the proteins are carbohydrate chains that act as labels that identify the cell type.
+Shown in Figure below are two different types of membrane proteins and associated molecules.
+Peripheral membrane proteins are proteins that are only temporarily associated with the membrane.
+They can be easily removed, which allows them to be involved in cell signaling.
+Peripheral proteins can also be attached to integral membrane proteins, or they can stick into a small portion of the lipid bilayer by themselves.
+Peripheral membrane proteins are often associated with ion channels and transmembrane receptors.
+Most peripheral membrane proteins are hydrophilic.
+Types of proteins contained in the plasma membrane
+Some of the membrane proteins make up a major transport system that moves molecules and ions through the polar phospholipid bilayer.
+The Fluid Mosaic Model
+In 1972 S.J.
+Singer and G.L.
+Nicolson proposed the now widely accepted Fluid Mosaic Model of the structure of cell membranes.
+The model proposes that integral membrane proteins are embedded in the phospholipid bilayer, as seen in Figure above .
+Some of these proteins extend all the way through the bilayer, and some only partially across it.
+These membrane proteins act as transport proteins and receptors proteins.
+Their model also proposed that the membrane behaves like a fluid, rather than a solid.

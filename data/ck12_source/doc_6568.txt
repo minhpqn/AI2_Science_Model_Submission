@@ -1,0 +1,20 @@
+Patient receiving anesthesia
+Just Breathe Deeply
+Organic compounds can be used for a wide variety of applications.
+One organic compound is halothane, an alkyl halide.
+This material is used as a general anesthetic for surgical procedures.
+When it was first developed in 1956, it was very popular, but has had limited use more recently because of toxicity issues, especially liver damage.
+Halothane is now used mainly as an anesthetic for children since the risk of harm is much less in these patients.
+A substitution reaction is a reaction in which one or more atoms replace another atom or group of atoms in a molecule.
+Alkyl halides are formed by the substitution of a halogen atom for a hydrogen atom.
+When methane reacts with chlorine gas, ultraviolet light can act as a catalyst for the reaction.
+\text{CH}_4(g) + \text{Cl}_2(g) \xrightarrow{\text{UV light}} \text{CH}_3\text{Cl}(g)+\text{HCl}(g)
+The reaction produces chloromethane and hydrogen chloride.
+When the mixture is allowed to react for longer periods of time further substitution reactions may occur.
+\text{CH}_3\text{Cl}(g)+\text{Cl}_2(g) \xrightarrow{\text{UV light}} \text{CH}_2\text{Cl}_2(g)+\text{HCl}(g)
+The product above is dichloromethane.
+Further substitution produces trichloromethane and tetrachloromethane, commonly called carbon tetrachloride.
+A mixture of products occurs in the reaction, with the relative amounts dependent upon the time that the reaction is allowed to proceed.
+Chlorofluorocarbons are produced by reacting chloroalkanes with hydrofluoric acid (HF) because the fluorine atom bonds preferentially to the carbon.
+\text{CCl}_4(g)+\text{HF}(g) \xrightarrow{\text{SbF}_5} \text{CCl}_3\text{F}(g)+\text{HCl}(g)
+The fluorine atom substitutes for a chlorine atom in the reaction.

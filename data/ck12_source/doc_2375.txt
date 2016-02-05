@@ -1,0 +1,20 @@
+Volume is expressed in cubed units, such as cm 3 or m 3 .
+Q:
+A certain derived quantity is expressed in the units kg/m 3 .
+Which derived quantity is it?
+A:
+The derived quantity is density, which is mass (kg) divided by volume (m 3 ).
+Derived quantities are quantities that are calculated from two or more measurements.
+They include area, volume, and density.
+The area of a rectangular surface is calculated as its length multiplied by its width.
+The volume of a rectangular solid is calculated as the product of its length, width, and height.
+The density of an object is calculated as its mass divided by its volume.
+A given derived quantity is always expressed in the same type of units.
+For example, area is always expressed in squared units, such as cm 2 .
+Read about derived quantities at this URL, and then answer the questions below.
+Identify six fundamental units in physical science.
+What is speed?
+How is it calculated?
+What are its SI units? ( Hint:
+The symbol Δ represents a difference, or change, in a unit.
+For example, Δt represents a change in time.)

@@ -1,0 +1,20 @@
+Basic schematic of a generator
+Q:
+What might happen to the current produced by an electric generator if the poles of the magnet kept reversing?
+A:
+The direction of the current would also keep reversing.
+In other words, the electric generator would generate alternating current.
+From Kinetic to Electrical Energy
+Generators may be set up to produce either direct or alternating current.
+Generators in cars and most power plants produce alternating current.
+Regardless of the type of current, all generators change kinetic energy to electrical energy.
+A car generator produces electricity with some of the kinetic energy of the turning crankshaft.
+The electricity is used to run the car’s lights, power windows, radio, and other electric devices.
+Some of the electricity is stored in the car’s battery to provide electrical energy when the car isn’t running.
+A power plant generator produces electricity with the kinetic energy of a turning turbine.
+The energy to turn the turbine may come from burning fuel, falling water, or some other energy source.
+You can see how falling water is used to generate electricity in a hydroelectric power plant in the Figure below .
+Schematic of a dam providing hydroelectric power
+Q:
+The water flowing through the dam and over the turbine has kinetic energy because it is moving.
+Where does the water get the energy to move?

@@ -1,0 +1,20 @@
+The magnetic field is pointing at an angle  \theta  to the area vector.
+If the magnetic field has magnitude  B  , the flux through the loops will equal 4 \cos \theta B \pi r^2 .
+Think of the magnetic flux as the part of the “bundle” of magnetic field lines “held” by the loop that points along the area vector.
+If the magnetic flux through a loop or loops changes, electrons in the wire will feel a force, and this will generate a current .
+The induced voltage (also called electromotive force, or emf ) that they feel is equal to the change in flux \triangle \Phi divided by the amount of time \triangle t that change took.
+This relationship is called Faraday’s Law of Induction: emf = -\frac{\Delta \Phi}{\Delta t}&& \text{Faraday's Law of Induction}
+The direction of the induced current is determined as follows: the current will flow so as to generate a magnetic field that opposes the change in flux.
+This is called Lenz’s Law.
+Note that the electromotive force described above is not actually a force, since it is measured in Volts and acts like an induced potential difference.
+It was originally called that since it caused charged particles to move --- hence electromotive --- and the name stuck (it's somewhat analogous to calling an increase in a particle's gravitational potential energy difference a gravitomotive force).
+For practical (Ohm's Law, etc) purposes it can be treated like the voltage from a battery.
+Since only a changing flux can produce an induced potential difference, one or more of the variables in equation [5] must be changing if the ammeter in the picture above is to register any current.
+Specifically, the following can all induce a current in the loops of wire:
+Changing the direction or magnitude of the magnetic field.
+Changing the loops' orientation or area.
+Moving the loops out of the region with the magnetic field.
+You are dragging a circular loop of wire of radius .25 m across a table at a speed of 2 m/s.
+There is a 2 m long region of the table where there is a constant magnetic field of magnitude 5 T pointed out of the table.
+As you drag the loop across the table, what will be the induced Emf (a) as the loop enters the field (b) while it is in the field and (c) as it exits the field.
+(a):

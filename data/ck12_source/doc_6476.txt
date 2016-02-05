@@ -1,0 +1,20 @@
+An electrode is a conductor in a circuit that is used to carry electrons to a nonmetallic part of the circuit.
+The nonmetallic part of the circuit is the electrolyte solutions in which the electrodes are placed.
+A metal wire connects the two electrodes.
+A switch opens or closes the circuit.
+A porous membrane is placed between the two half-cells to complete the circuit.
+The various electrochemical processes that occur in a voltaic cell occur simultaneously.
+It is easiest to describe them in the following steps, using the above zinc-copper cell as an example.
+Zinc atoms from the zinc electrode are oxidized to zinc ions.
+This happens because zinc is higher than copper on the activity series and so is more easily oxidized.
+\text{Zn}(s) \rightarrow \text{Zn}^{2+}(aq)+2e^-
+The electrode at which oxidation occurs is called the anode .
+The zinc anode gradually diminishes as the cell operates due to the loss of zinc metal.
+The zinc ion concentration in the half-cell increases.
+Because of the production of electrons at the anode, it is labeled as the negative electrode.
+The electrons that are generated at the zinc anode travel through the external wire and register a reading on the voltmeter.
+They continue to the copper electrode.
+Electrons enter the copper electrode where they combine with the copper(II) ions in the solution, reducing them to copper metal.
+\text{Cu}^{2+}(aq)+2e^- \rightarrow \text{Cu}(s)
+The electrode at which reduction occurs is called the cathode .
+The cathode gradually increases in mass because of the production of copper metal.

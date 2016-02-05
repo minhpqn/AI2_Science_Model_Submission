@@ -1,0 +1,20 @@
+Bond type is predicated on the difference in electronegativity of the two elements involved in the bond.
+Nonpolar Covalent Bonds
+A bond in which the electronegativity difference is less than 1.7 is considered to be mostly covalent in character.  However, at this point we need to distinguish between two general types of covalent bonds.  A nonpolar covalent bond is a covalent bond in which the bonding electrons are shared equally between the two atoms.  In a nonpolar covalent bond, the distribution of electrical charge is balanced between the two atoms.
+Chlorine gas has a nonpolar covalent bond
+A nonpolar covalent bond is one in which the distribution of electron density between the two atoms is equal.
+The two chlorine atoms share the pair of electrons in the single covalent bond equally, and the electron density surrounding the Cl 2 molecule is symmetrical.  Also note that molecules in which the electronegativity difference is very small (<0.4) are also considered nonpolar covalent.  An example would be a bond between chlorine and bromine (\Delta EN = 3.0 - 2.8 = 0.2) .
+Polar Covalent Bonds
+A bond in which the electronegativity difference between the atoms is between 0.4 and 1.7 is called a polar covalent bond.  A polar covalent bond is a covalent bond in which the atoms have an unequal attraction for electrons and so the sharing is unequal.  In a polar covalent bond, sometimes simply called a polar bond, the distribution of electrons around the molecule is no longer symmetrical.
+Electron density in hydrogen fluoride
+In the polar covalent bond of HF, the electron density is unevenly distributed.
+There is a higher density (red) near the fluorine atom, and a lower density (blue) near the hydrogen atom.
+An easy way to illustrate the uneven electron distribution in a polar covalent bond is to use the Greek letter delta (\delta) .
+Delta symbols can be used to indicate polarity
+Use of δ to indicate partial charge.
+The atom with the greater electronegativity acquires a partial negative charge, while the atom with the lesser electronegativity acquires a partial positive charge.  The delta symbol is used to indicate that the quantity of charge is less than one.  A crossed arrow can also be used to indicate the direction of greater electron density.
+A crossed arrow can be used to indicate polarity
+Use of crossed arrow to indicate polarity.
+The electronegativity of an atom determines how strongly it attracts electrons to itself.
+The polarity of a bond is affected by the electronegativity values of the two atoms involved in that bond.
+Take the quiz on the right-hand side of this page:

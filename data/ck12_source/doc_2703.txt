@@ -1,0 +1,20 @@
+A colorless solid compound named potassium hydroxide (KOH) forms, and hydrogen gas (H 2 ) is set free.
+The equation for the reaction is:
+2K + 2H 2 O → 2KOH + H 2
+In this reaction, a potassium ion replaces one of the hydrogen atoms in each molecule of water.
+Potassium is a highly reactive group 1 alkali metal, so its reaction with water is explosive.
+You can watch the reaction occurring at this URL:
+Q:
+Find potassium in the periodic table of the elements.
+What other element might replace hydrogen in water in a similar replacement reaction?
+A:
+Another group 1 element, such as lithium or sodium, might be involved in a similar replacement reaction with water.
+Double Replacement Reactions
+A double replacement reaction occurs when two ionic compounds exchange ions.
+This produces two new ionic compounds.
+A double replacement reaction can be represented by the general equation:
+AB + CD → AD + CB
+AB and CD are the two reactant compounds, and AD and CB are the two product compounds that result from the reaction.
+During the reaction, the ions B and D change places.
+Q:
+Could the product compounds be DA and BC?

@@ -1,0 +1,20 @@
+Some scientists argued that electromagnetic radiation consists of particles that shoot around like tiny bullets.
+Other scientists argued that electromagnetic radiation consists of waves, like sound waves or water waves.
+Until the early 1900s, most scientists thought that electromagnetic radiation is either one or the other and that scientists on the other side of the argument were simply wrong.
+Q:
+Do you think electromagnetic radiation is a wave or a particle?
+A:
+Here’s a hint: it may not be a question of either-or.
+Keep reading to learn more.
+A New Theory
+In 1905, the physicist Albert Einstein developed a new theory about electromagnetic radiation.
+The theory is often called the wave-particle theory .
+It explains how electromagnetic radiation can behave as both a wave and a particle.
+Einstein argued that when an electron returns to a lower energy level and gives off electromagnetic energy, the energy is released as a discrete “packet” of energy.
+We now call such a packet of energy a photon .
+According to Einstein, a photon resembles a particle but moves like a wave.
+You can see this in the Figure below .
+The theory posits that waves of photons traveling through space or matter make up electromagnetic radiation.
+Diagram illustrating how photons are created
+Energy of a Photon
+A photon isn’t a fixed amount of energy.

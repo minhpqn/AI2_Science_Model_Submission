@@ -1,0 +1,20 @@
+A polymer is a large molecule formed of many smaller molecules covalently bonded in a repeating pattern.
+The small molecules which make up the polymer are called monomers .
+Polymers generally form either from an addition reaction or a condensation reaction.
+An addition polymer is a polymer formed by chain addition reactions between monomers that contain a double bond.
+Molecules of ethene can polymerize with each other under the right conditions to form the polymer called polyethylene.
+Net reaction for the formation of polyethylene
+The letter  n stands for the number of monomers that are joined in repeated fashion to make the polymer and can have a value in the hundreds or even thousands.
+Mechanism of the synthesis of polyethylene
+The reactions above show the basic steps to form an addition polymer:
+Initiation - a free radical initiator (X * ) attacks the carbon-carbon double bond (first step above).
+The initiator can be something like hydrogen peroxide.
+This material can easily split to form two species with a free electron attached to each:
+H-O-O-H → 2 H-O•.
+This free radical attacks a carbon-carbon double bond.
+One of the pi electrons forms a single bond with the initiator while the other pi electron forms a new free radical on the carbon atom.
+Propagation - the new free radical compound interacts with another alkene, continuing the process of chain growth (second step above).
+Termination occurs whenever two free radicals come in contact with one another (not shown).
+The two free electrons form a covalent bond and the free radical on each molecule no longer exists.
+Polyethylene can have different properties depending on the length of the polymer chains and on how efficiently they pack together.
+Some common products made from different forms of polyethylene include plastic bottles, plastic bags, and harder plastic objects such as milk crates.

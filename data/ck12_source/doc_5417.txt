@@ -1,0 +1,20 @@
+These domains are further discussed in the Regulation of Gene Expression:
+Transcription Factors (Advanced) concept.
+Mechanisms of Transcriptional Regulation
+Transcription of a gene by RNA polymerase can be regulated by at least five mechanisms:
+Specificity factors are proteins that alter the specificity of RNA polymerase for a promoter or set of promoters, making it more or less likely to bind to the promoter and begin transcription.
+Repressors are proteins that bind to non-coding sequences on the DNA that are close to or overlap the promoter region, impeding RNA polymerase's progress along the strand.
+Basal factors are transcription factors that help position RNA polymerase at the start of a gene.
+Enhancers are sites on the DNA strand that are bound by activators in order to loop the DNA, bringing a specific promoter to the initiation complex.
+An initiation complex is composed of RNA polymerase and numerous trans-acting factors.
+Activators are proteins that enhance the interaction between RNA polymerase and a particular promoter.
+As the organism grows more sophisticated, gene regulation becomes more complex, though prokaryotic organisms possess some highly regulated systems.
+Some human genes are controlled by many activators and repressors working together.
+Obviously, a mutation in a cis-regulatory region, such as the promoter, can greatly affect the proper expression of a gene.
+It may keep the gene permanently off, such that no protein can be made, or it can keep the gene permanently on, such that the corresponding protein is constantly made.
+Both of these can have detremental effects on the cell.
+Regulation of Transcription.
+Regulatory proteins bind to regulatory elements to control transcription.
+The regulatory elements are embedded within the DNA.
+activator :
+A protein that enhances the interaction between RNA polymerase and a particular promoter.

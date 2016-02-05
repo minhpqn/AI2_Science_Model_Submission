@@ -1,0 +1,20 @@
+If you have a compass and you find north, you can then know any other direction.
+See the directions, such as east, south, west, etc., on a compass rose
+Picture of a compass and a compass rose
+(a) A compass is a device that is used to determine direction.
+The needle points to Earth’s magnetic north pole. (b) A compass rose shows the four major directions, plus intermediates between them.
+A compass needle lines up with Earth’s magnetic north pole.
+This is different from Earth’s geographic north pole, also called true north.
+The geographic north pole is the top of an imaginary line.
+This line is the axis around which Earth rotates.
+The geographic north pole is much like the spindle of a spinning top.
+The location of the geographic north pole does not change.
+However, the magnetic north pole shifts in location over time.
+Depending on where you live, you can correct for the difference between the two poles when you use a map and a compass ( Figure below ).
+Earth’s magnetic north pole is about 11 degrees offset from its geographic north pole
+Earth’s magnetic north pole is about 11 degrees offset from its geographic north pole.
+Some maps have a double compass rose.
+This allows users to make the corrections between magnetic north and true north.
+An example is a nautical chart that boaters use to chart their positions at sea ( Figure below ).
+Nautical maps include a double compass rose that shows both magnetic directions and geographic compass directions
+Nautical maps include a double compass rose that shows both magnetic directions (inner circle) and geographic compass directions (outer circle).

@@ -1,0 +1,20 @@
+With this activity, you cannot afford trial and error – the first miss might be the last trial.
+Projectile Motion for an Object Launched at an Angle
+When an object is projected from rest at an upward angle, its initial velocity can be resolved into two components.
+These two components operate independently of each other.
+The upward velocity undergoes constant downward acceleration which will result in it rising to a highest point and then falling backward to the ground.
+The horizontal motion is constant velocity motion and undergoes no changes due to gravity.The analysis of the motion involves dealing with the two motions independently.
+Parabolic path of an object launched at an angle
+Example Problem:
+A cannon ball is fired with an initial velocity of m/s at an angle of 45° above the horizontal.  What maximum height will it reach and how far will it fly horizontally?
+Solution:
+The first step in the analysis of this motion is to resolve the initial velocity into its vertical and horizontal components.
+v_{\text{i}-\text{up}} = (100. \ \text{m/s})(\sin 45^\circ) = (100. \ \text{m/s})(0.707) = 70.7 \ \text{m/s}
+v_{\text{i}-\text{horizontal}} = (100. \ \text{m/s})(\cos 45^\circ) = (100. \ \text{m/s})(0.707) = 70.7 \ \text{m/s}
+We will deal with the vertical motion first.
+The vertical motion is symmetrical.
+As the object rises to its highest point and then falls back down, it will travel the same distance in each direction, and take the same amount of time.
+This is often hard to accept, but the amount of time the object takes to come to a stop at its highest point is the same amount of time it takes to return to where it was launched from.
+Similarly, the initial velocity upward will be the same magnitude (opposite in direction) as the final velocity when it returns to its original height.
+There are several ways we could approach the upward motion.
+We could calculate the time it would take gravity to bring the initial velocity to rest.

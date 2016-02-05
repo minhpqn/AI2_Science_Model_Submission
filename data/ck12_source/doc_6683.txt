@@ -1,0 +1,20 @@
+Slope = v_{avg} = \frac{\Delta x}{\Delta t}
+Note :
+Slope of the tangent line for a particular point in time = the instantaneous velocity
+For a graph of velocity vs. time.
+The slope is the rise over the run, where the rise is the change in velocity and the run is the time. thus,
+Slope = a_{avg} = \frac{\Delta v}{\Delta t}
+Note :
+Slope of the tangent line for a particular point in time = the instantaneous acceleration
+One must first read a graph correctly.
+For example on a position vs. time graph (thus the position is graphed on the y-axis and the time on the x-axis) for a given a data point, go straight down from it to get the time and straight across to get the position.
+If there is constant acceleration the graph x vs. t produces a parabola.
+The slope of the x vs. t graph equals the instantaneous velocity.
+The slope of a v vs. t graph equals the acceleration.
+The slope of the graph v vs. t can be used to find acceleration; the area of the graph v vs. t can be used to find displacement.
+Welcome to calculus!
+What is a Graph
+Click on the image above for more content
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content

@@ -1,0 +1,20 @@
+Watch this Explanation
+Click on the image above for more content
+Click on the image above for more content
+Click on the image above for more content
+What changes about a wave in the Doppler effect:
+Frequency?
+Wavelength?
+Speed?
+Is it correct to say that if an ambulance is moving towards you the speed of the sound from its siren is faster than normal?
+Discuss.
+A friend plays an A note (440\;\mathrm{Hz}) on her flute while hurtling toward you in her imaginary space craft at a speed of 40\;\mathrm{m/s} .
+What frequency do you hear just before she rams into you?
+Assume the speed of sound to be 343 m/s.
+How fast would a student playing an A note (440\;\mathrm{Hz}) have to move towards you in order for you to hear a G note (784\;\mathrm{Hz}) ?
+Assume the speed of sound to be 343 m/s
+Describe how sound is produced and how it travels through the air to then register a signal in the brain.
+Students will learn how sound is produced and how it travels through the air to then register a signal in the brain.
+T = \frac{1}{f} ; period and frequency are inversely related
+v \approx 331.4 \ m/s + 0.6 \ T ;
+The speed of sound in air, where T is the temperature of the air in Celsius

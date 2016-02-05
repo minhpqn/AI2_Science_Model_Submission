@@ -1,0 +1,20 @@
+The electrical potential difference in a uniform electric field is given as  V = Ed .
+The work done moving a charge against the field can be found by W = Vq .
+The following video covers potential difference and electric potential.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+If you do work to move a charged object in an electric field, where does the work go?
+Points A and B in an electric field have a difference in potential energy.  This difference in electrical potential energy is called ___________________.
+Practice problems about electric potential energy with answers:
+Two large parallel plates are 0.00630 m apart and the voltage across them is 10.0 volts.
+What is the electric field strength between the plates?
+The potential difference between points A and B in an electric field is 25.0 volts.
+How much work is required to transfer 10.0 coulombs of charge from A to B?
+10.0 J of work are required to transfer 2.00 coulombs of charge from point X to point Y in an electric field.  What is the difference in potential between these two points?
+The electric field between two parallel plates connected to a 45 V battery (which produces a 45 V difference in potential between the plates) is 1500 N/C.
+How far apart are the plates?
+How much kinetic energy will an electron gain if it accelerates through a potential difference of 23,000 volts in a cathode ray tube?
+electric potential difference :
+The difference in electric potential energy between two points in an electric field; the work that has to be done in transferring a unit positive charge from one point to the other, measured in volts.
+voltmeter:
+An instrument for measuring potential differences in volts.

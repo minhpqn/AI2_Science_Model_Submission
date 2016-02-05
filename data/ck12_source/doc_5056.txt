@@ -1,0 +1,20 @@
+The process begins with a molecule of glucose, which has six carbon atoms.
+What happens to each of these atoms of carbon?
+However, releasing energy within cells does not produce light or intense heat.
+Cells run on chemical energy – specifically, the small amount temporarily stored in ATP molecules.
+Cellular respiration transfers chemical energy from a "deliverable" fuel molecule – glucose – to many "usable" molecules of ATP.
+Like oxygen, glucose is delivered by your blood to your cells.
+If ATP were delivered to cells, more than 60,221,417,930,000,000,000,000,000 of these large molecules (which contain relatively small amounts of energy) would clog your capillaries each day.
+Pumping them across cell membranes would "cost" a great deal of energy.
+A molecule of glucose contains a larger amount of chemical energy in a smaller package.
+Therefore, glucose is much more convenient for bloodstream delivery, but too "powerful" to work within the cell.
+The process of cellular respiration uses oxygen to help transfer the chemical energy from glucose to ATP, which can be used to do work in the cell.
+This chemical equation expresses what we have worked out:
+As with burning, we must trace what happens to atoms during cellular respiration.
+You can readily see that when the carbon atoms in glucose are combined with oxygen, they again form carbon dioxide.
+And when the hydrogen atoms in glucose are oxidized, they form water, as in burning.
+You can detect these products of cellular respiration in your breath on a cold day (as water condensation) and in the lab (BTB turns yellow when you blow into it through a straw).
+This equation accounts for the energy transfer and the carbon, hydrogen, and oxygen atoms, but it does not show the "raw materials" or reactants which build ATP.
+Recall that the energy temporarily stored in ATP is released for use when the bond between the second and third phosphates is broken.
+The resulting ADP can be recycled within the cell by recombining it with inorganic phosphate (P i ).
+Like recharging batteries, cells recycle ATP and ADP (and AMP) molecules by combining them with inorganic phosphate.

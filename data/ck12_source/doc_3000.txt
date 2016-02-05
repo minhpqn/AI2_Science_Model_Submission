@@ -1,0 +1,20 @@
+You can see an animated version of this diagram at:
+The moon orbits the earth
+Orbital motion occurs whenever an object is moving forward and at the same time is pulled by gravity toward another object.
+The forward velocity of the object combines with acceleration due to gravity toward the other object.
+The result is a circular or oval path called an orbit, in which one object keeps moving around the other.
+Because of the relatively great gravity of the sun, Earth orbits the sun.
+The moon orbits Earth rather than the sun because it is much closer to Earth.
+At the following URL, experiment with the gravity-and-orbit simulator.
+Set different initial velocities for the cannon ball and observe whether the cannon ball crashes, escapes from Earth, or is set into orbit.
+Then answer the questions below.
+Which range of initial velocities for the cannon ball puts it into orbit?
+What happens to the cannon ball if its initial velocity is less than this range?
+What happens to the cannon ball if its initial velocity is greater than this range?
+Define orbit and orbital motion, and explain why orbital motion occurs.
+In addition to the moon, artificial satellites also orbit Earth.
+What factors do you think must be taken into account to ensure that a satellite keeps orbiting Earth rather than falling back to Earth’s surface?
+Earth is closer to nearby planets including Venus and Mars than it is to the sun.
+Why don’t these other planets pull Earth toward them and cause it to veer off its orbit around the sun.
+Define elasticity and elastic force.
+Give examples of the use of elastic force.

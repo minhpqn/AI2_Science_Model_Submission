@@ -1,0 +1,20 @@
+An ICE table is set up in order to determine the concentrations of HCOOH and HCOO - at equilibrium.
+All concentrations are then substituted into the  K_a expression and the  K_a value is calculated.
+Step 2:
+Solve.
+[\text{H}^+]=10^{-\text{pH}}=10^{-2.04}=9.12 \times 10^{-3} \ \text{M}
+Since each formic acid molecule that ionizes yields one H + ion and one formate ion (HCOO - ), the concentrations of H + and HCOO - are equal at equilibrium.
+We assume that the initial concentrations of each ion are zero, resulting in the following ICE table.
+[H + ]
+[HCOO − ]
+Now substituting into the  K_a expression gives:
+K_a=\frac{[\text{H}^+][\text{HCOO}^-]}{[\text{HCOOH}]}=\frac{(9.12 \times 10^{-3})(9.12 \times 10^{-3})}{0.491}=1.7 \times 10^{-4}
+Step 3:
+Think about your result .
+The value of  K_a is consistent with that of a weak acid.
+Two significant figures are appropriate for the answer, since there are two digits after the decimal point in the reported pH.
+Similar steps can be taken to determine the  K_b of a base.
+For example, a 0.750 M solution of the weak base ethylamine (C 2 H 5 NH 2 ) has a pH of 12.31.
+\text{C}_2\text{H}_5\text{NH}_2+ \text{H}_2\text{O} \rightleftarrows \text{C}_2\text{H}_5\text{NH}^+_3 + \text{OH}^-
+Since one of the products of the ionization reaction is the hydroxide ion, we need to first find the [OH − ] at equilibrium.
+The pOH is 14 - 12.31 = 1.69.

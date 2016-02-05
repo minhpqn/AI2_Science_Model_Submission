@@ -1,0 +1,20 @@
+a. 5.4 \;\mathrm{mV} b. 1.4 \times 10^{-8} \;\mathrm{A} c. 7.3 \times 10^{-11} \;\mathrm{W} , not a lot d. 2.6 \times 10^{-7} \;\mathrm{J}
+a. 192 \ \Omega b. 0.42 \;\mathrm{W}
+a. 12300 W b. 256 A
+Resistors in Series
+Analyze and solve problems involving circuits with resistors in series.
+Students will learn how to analyze and solve problems involving circuits with resistors in series.
+R_{total} = R_1 + R_2 + R_3 + \ldots
+Resistors in Series:
+All resistors are connected end to end.
+There is only one river, so they all receive the same current.
+But since there is a voltage drop across each resistor, they may all have different voltages across them.
+The more resistors in series the more rocks in the river, so the less current that flows.
+A circuit is wired up with two resistors in series.
+Both resistors are in the same ‘river’, so both have the same current flowing through them.
+Neither resistor has a direct connection to the power supply so neither has 20V across it.
+But the combined voltages across the individual resistors add up to 20V.
+Question:
+What is the total resistance of the circuit?
+Answer:
+The total resistance is R_{total}=R_1+R_2=90 \;\Omega+10 \;\Omega=100 \;\Omega

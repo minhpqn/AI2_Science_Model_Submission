@@ -1,0 +1,20 @@
+This shows that the reaction can go both ways.
+How would you represent the reversible reaction in which hydrogen and oxygen gases combine to produce water?
+A:
+The chemical equation would be:
+H 2 + O 2 \rightleftharpoons H 2 O
+In a reversible reaction, both forward and reverse directions of the reaction generally occur at the same time.
+While reactants are reacting to produce products, products are reacting to produce reactants.
+Often, a point is reached at which forward and reverse directions of the reaction occur at the same rate.
+When this happens, there is no overall change in the amount of reactants and products, even though the reactions keep occurring in both directions.
+This point is called equilibrium .
+The term equilibrium means “state of balance,” and it is used to refer to a state of balance between any opposing changes.
+You can see an animation of a chemical reaction reaching equilibrium at this URL:
+Irreversible chemical reactions can occur in only one direction.
+The reactants can change to the products, but the products cannot change back to the reactants.
+Reversible chemical reactions can occur in both directions.
+The reactants can change to the products, and the products can also change back to the reactants.
+Equilibrium occurs when forward and reverse directions of a reversible reaction occur at the same rate so there is no overall change in the amounts of reactants and products.
+Watch the video about chemical equilibrium at the following URL, and then answer the questions below.
+Click on the image above for more content
+What is the reversible reaction presented in the video?

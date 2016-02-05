@@ -1,0 +1,20 @@
+\text{height} = (v_{\text{up}-\text{ave}})(t_{\text{up}}) = (2.04 \ \text{m/s})(0.416 \ \text{s}) = 0.849 \ \text{m}
+t_{\text{total trip}} = (2)(0.416 \ \text{s}) = 0.832 \ \text{s}
+d_{\text{horizontal}} = (0.832 \ \text{s})(1.82 \ \text{m/s}) = 1.51 \ \text{m}
+Example Problem:
+Suppose a cannon ball is fired downward from a 50.0 m high cliff at an angle of 45° with an initial velocity of 80.0 m/s.
+How far horizontally will it land from the base of the cliff?
+Solution:
+In this case, the initial vertical velocity is downward and the acceleration due to gravity will increase this downward velocity.
+v_{\text{i}-\text{down}} = (80.0 \ \text{m/s})(\sin 45^\circ) = (80.0 \ \text{m/s})(0.707) = 56.6 \ \text{m/s}
+v_{\text{i}-\text{hor}} = (80.0 \ \text{m/s})(\cos 45^\circ) = (80.0 \ \text{m/s})(0.707) = 56.6 \ \text{m/s}
+d = v_{\text{i}-\text{down}} t + \frac{1}{2} at^2
+50.0 = 56.6t + 4.9t^2
+Changing to standard quadratic form yields  4.9t^2 + 56.6t - 50.0 = 0
+This equation can be solved with the quadratic formula.
+The quadratic formula will produce two possible solutions for t :
+t=\frac{-b+\sqrt{b^2-4ac}}{2a} and t=\frac{-b-\sqrt{b^2-4ac}}{2a}
+t=\frac{-56.6+\sqrt{(56.6)^2-(4)(4.9)(-50)}}{(2)(4.9)}=0.816 \ \text{s}
+The other solution to the quadratic formula is -12.375 s.
+Clearly, the cannon ball doesn't take -12 seconds to fly.
+Therefore, we take the positive answer.

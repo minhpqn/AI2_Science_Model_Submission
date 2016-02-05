@@ -1,0 +1,20 @@
+TPA :
+A phorbol ester and a potent tumor promoter known to activate the signal transduction enzyme protein kinase C.
+transcription factor :
+A protein involved in regulating gene expression; usually bound to a cis-regulatory element on the DNA; also known as a regulatory protein or a trans-acting factor.
+zinc finger :
+A major structural motif of proteins capable of binding DNA; characterized by the coordination of zinc ions that stabilize the protein structure.
+Transcription factors are proteins that bind to regulatory elements on the DNA.
+The TATA binding protein is one of the more common transcription factors, binding to the TATA box.
+DNA-protein interactions include conserved motifs, including the helix-loop-helix domain.
+Sp1 and AP-1 are two of the original transcription factors identified.
+Use this resource to answer the questions that follow.
+Transcription Factor at
+Describe the role of a transcription factor.
+Generally describe how a transcription factor functions.
+What is a basal transcription factor?
+Give an example.
+What is a homeotic gene?
+Describe the antennapedia mutation.
+What is a transcription factor?
+Describe types of DNA-protein interactions.

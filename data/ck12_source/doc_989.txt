@@ -1,0 +1,20 @@
+interstellar medium:
+Material, mostly hydrogen gas, other gases, and dust, occupying the space between the stars and providing the raw material for the formation of new stars.
+nebula:
+A visible, thinly spread cloud of interstellar gas and dust.
+Some nebulae are the remnants of a supernova explosion, others are gravity-induced condensations of the gases in the interstellar medium which in certain cases may become a site for the formation of new stars.
+The term was formerly used of any hazy, seemingly cloud like object, including what are now recognized as other galaxies beyond the Milky Way; it is restricted now to actual clouds of gas and dust within our own galaxy.
+accretion:
+The accumulation of dust and gas into larger bodies such as stars, planets and moons.
+protostar:
+A cloud of interstellar gas and dust that gradually collapses, forming a hot dense core,and evolves into a star once nuclear fusion can occur in the core.
+red giant:
+A red giant is a star in an intermediate stage of evolution, characterized by a large volume, low surface temperature, and reddish hue.
+supernova:
+The explosion of a star, possibly caused by gravitational collapse, during which the star's luminosity increases by as much as 20 magnitudes and most of the star's mass is blown away at very high velocity, sometimes leaving behind an extremely dense core.
+neutron star:
+A star that has collapsed under its own gravity to a diameter of about 10 to 15 km.
+It is composed mostly of neutrons, has a mass of between 1.4 and about 3 times that of the sun, and a density in excess of  1 \times 10^{17} kilograms per cubic meter.
+pulsar:
+One of several hundred known celestial objects, generally believed to be rapidly rotating neutron stars, that emit pulses of radiation, especially radio waves, with a high degree of regularity.
+black hole:

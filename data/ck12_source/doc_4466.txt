@@ -1,0 +1,20 @@
+For example, the virus called hepatitis B causes liver cancer.
+UV radiation is the leading cause of skin cancer.
+The radioactive gas known as radon causes lung cancer.
+Tobacco smoke contains dozens of carcinogens, including nicotine and formaldehyde.
+Exposure to tobacco smoke is the leading cause of lung cancer.
+Some chemicals that were previously added to foods, such as certain dyes, are now known to cause cancer.
+Cooking foods at very high temperatures also causes carcinogens to form (see Figure below ).
+Barbecued foods are cooked at very high temperatures.
+This may cause carcinogens to form.
+How Cancer Occurs
+Mutations that lead to cancer usually occur in genes that control the cell cycle.
+These include tumor-suppressor genes and proto-oncogenes.
+Tumor-suppressor genes normally prevent cells with damaged DNA from dividing.
+Mutations in these genes prevent them from functioning normally.
+As a result, cells with damaged DNA are allowed to divide.
+Proto-oncogenes normally help control cell division.
+Mutations in these genes turn them into oncogenes.
+Oncogenes promote the division of cells with damaged DNA.
+Cells that divide uncontrollably may form a tumor , or abnormal mass of cells.
+Tumors may be benign or malignant.

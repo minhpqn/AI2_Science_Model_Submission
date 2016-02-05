@@ -1,0 +1,20 @@
+This measurement is called the percent yield.
+To compute the percent yield, it is first necessary to determine how much of the product should be formed based on stoichiometry.
+This is called the theoretical yield , the maximum amount of product that could be formed from the given amounts of reactants.
+The actual yield is the amount of product that is actually formed when the reaction is carried out in the laboratory.
+The percent yield is the ratio of the actual yield to the theoretical yield, expressed as a percentage.
+\text{Percent Yield} =\frac{\text{Actual Yield}}{\text{Theoretical Yield}} \times 100\%
+Percent yield is very important in the manufacture of products.
+Much time and money is spent improving the percent yield for chemical production.
+When complex chemicals are synthesized by many different reactions, one step with a low percent yield can quickly cause a large waste of reactants and unnecessary expense.
+Typically, percent yields are understandably less than 100% because of the reasons indicated earlier.
+However, percent yields greater than 100% are possible if the measured product of the reaction contains impurities that cause its mass to be greater than it actually would be if the product was pure.
+When a chemist synthesizes a desired chemical, he or she is always careful to purify the products of the reaction.
+Sample Problem:
+Calculating the Theoretical Yield and the Percent Yield
+Potassium chlorate decomposes upon slight heating in the presence of a catalyst according to the reaction below:
+2\text{KClO}_3(s) \rightarrow 2\text{KCl}(s)+3\text{O}_2(g)
+In a certain experiment, 40.0 g KClO 3 is heated until it completely decomposes.
+What is the theoretical yield of oxygen gas?
+The experiment is performed and the oxygen gas is collected and its mass is found to be 14.9 g.
+What is the percent yield for the reaction?

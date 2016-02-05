@@ -1,0 +1,20 @@
+Chemical Reaction Rate
+Define reaction rate.
+Calculate reaction rate when given time and change in concentration.
+Both acceleration and final speed are important in determining overall velocity
+Two for the price of one!
+Drag racing is a sport where two cars start from a dead stop and drive as fast as they can down a quarter-mile strip.
+At the end of the strip are timers that determine both elapsed time (how long did it take for them to cover the quarter mile) and top speed (how fast were they going as they went through the timer chute).
+Both pieces of data are important.
+One car may accelerate faster and get ahead that way, while the other care may be slower off the line, but can get up to a higher top speed at the end of the run.
+Chemical Reaction Rate
+Chemical reactions vary widely in the speeds with which they occur.
+Some reactions occur very quickly.
+If a lighted match is brought in contact with lighter fluid or another flammable liquid, it erupts into flame instantly and burns fast.
+Other reactions occur very slowly.
+A container of milk in the refrigerator will be good to drink for weeks before it begins to turn sour.
+Millions of years were required for dead plants under Earth’s surface to accumulate and eventually turn into fossil fuels such as coal and oil.
+Chemists need to be concerned with the rates at which chemical reactions occur.
+Rate is another word for speed.
+If a sprinter takes 11.0 s to run a 100 m dash, his rate or speed is given by the distance traveled divided by the time.
+\text{speed}=\frac{\text{distance}}{\text{time}}=\frac{100 \text{ m}}{11.0 \text{ s}}=9.09 \text{ m/s}

@@ -1,0 +1,20 @@
+Graphical Methods of Vector Addition
+Differentiate between scalars and vectors.
+Graphically add vectors in one dimension by placing the vectors head to toe on a number line.
+Graphically add vectors in two dimensions by placing them head to toe on a two-dimensional coordinate system.
+This man shooting a basketball requires a subconscious understanding of vectors
+Successfully shooting a basketball requires a subconscious understanding of the vectors involved in how the basketball moves through the air.
+The vertical and horizontal vectors must be perfectly organized if the ball is to pass through the basket.
+Graphical Methods Vector Addition
+In physics, a quantity, such as mass, length, or speed that is completely specified by its magnitude and has no direction is called a scalar .  A vector , on the other hand, is a quantity possessing both magnitude and direction.
+A vector quantity is typically represented by an arrow-tipped line segment.
+The length of the line, drawn to scale, represents the magnitude of the quantity.
+The direction of the arrow indicates the direction of the vector.
+Not only can vectors be represented graphically, but they can also be added graphically.
+For one dimensional vector addition , the first vector is placed on a number line with the tail of the vector on the origin.  The second vector is placed with its tail exactly on the arrow head of the first vector.  The sum of the two vectors is the vector that begins at the origin and ends at the arrow head of the final added vector.
+Consider the following two vectors.
+The top number line shows a vector with magnitude 11 in the positive direction and the bottom number line shows a vector with magnitude -3
+The red vector has a magnitude of 11 in the positive direction on the number line.
+The blue vector has a magnitude of -3, indicating 3 units in the negative direction on the number line.
+In order to add these two vectors, we place one of the vectors on a number line and then the second vector is placed on the same number line such that its origin is on the arrow head of the first vector.
+One number line with one vector with magnitude 11 in the positive direction and another vector overlapping with magnitude -3

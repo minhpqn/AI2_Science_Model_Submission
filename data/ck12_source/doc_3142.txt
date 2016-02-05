@@ -1,0 +1,20 @@
+It’s easy to convert temperatures between the Kelvin and Celsius scales.
+Each 1-degree change on the Kelvin scale is equal to a 1-degree change on the Celsius scale.
+Therefore, to convert a temperature from Celsius to Kelvin, just add 273 to the Celsius temperature.
+For example, 10 °C equals 283 Kelvin.
+Q:
+How would you convert a temperature from Kelvin to Celsius?
+A:
+You would subtract 273 from the Kelvin temperature.
+For example, a temperature of 300 Kevin equals 27 °C.
+Converting between Celsius and Fahrenheit is more complicated.
+The following conversion factors can be used:
+Celsius → Fahrenheit : (°C × 1.8) + 32 = °F
+Fahrenheit → Celsius : (°F - 32) ÷ 1.8 = °C
+For example, to convert 10 °C to Fahrenheit, use the first conversion factor:
+(10 °C × 1.8) + 32 = 50 °F
+Q:
+The weather forecaster predicts a high temperature today of 86 °F.
+What will the temperature be in Celsius?
+A:
+To convert 86 °F to Celsius, use the second conversion factor:

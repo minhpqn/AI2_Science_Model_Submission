@@ -1,0 +1,20 @@
+Look again at the five pulley systems to ensure this is true.
+A pulley system
+Example Problem:   Consider the pulley system sketched above.  Given that the resistance force is 8500.
+N, find
+(a) the IMA.
+(b) the ideal effort force required to list this weight.
+(c) the distance the weight will rise if the effort force moves 1.0 m.
+(d) the AMA if the actual effort force is 2000.
+N.
+(a) Since the effort strand moves in the opposite direction of the resistance, it is not a supporting strand.  Therefore, there are 5 supporting strands and that makes the IMA = 5.
+(b) \text{Effort force}=\frac{\text{resistance force}}{\text{IMA}}=\frac{8500 \ \text{N}}{5}=1700 \ \text{N}
+(c) Since the IMA is 5, the resistance distace will be 1/5 of the effort distance: the resistance distance is 1.0m/5 = 0.20 m
+(d) \text{AMA}=\frac{\text{resistance force}}{\text{effort force}}=\frac{8500 \ \text{N}}{2000 \ \text{N}}=4.25
+Wheel and Axle
+Just like it sounds, a  wheel and axle  is composed of two connected cylinders of different diameters.
+Since the wheel has a larger radius (distance) than the axle, the axle will always have a larger force than the wheel.
+The ideal mechanical advantage of a wheel and axle is dependent on the ratio between the radii:
+An inclined plane is also a simple machine.
+The resistance is the weight of the box resting on the inclined plane.
+In order to lift this box straight up, the effort force would need to be equal to its weight.

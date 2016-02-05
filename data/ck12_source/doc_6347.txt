@@ -1,0 +1,20 @@
+\text{molar solubility} \qquad \frac{0.533 \ \cancel{\text{g}}}{\text{L}} \times \frac{1 \ \text{mol}}{245.20 \ \cancel{\text{g}}}=2.17 \times 10^{-3} \ \text{M}
+The dissociation equation shows that for every mole of PbF 2 that dissociates, 1 mol of Pb 2+ and 2 mol of F − are produced.
+Therefore, at equilibrium the concentrations of the ions are:
+[\text{Pb}^{2+}]=2.17 \times 10^{-3} \ \text{M} \quad \text{and} \quad [\text{F}^-]=2 \times 2.17 \times 10^{-3}=4.35 \times 10^{-3} \ \text{M}
+Substitute into the expression and solve for the K_{sp} .
+K_{sp}=(2.17 \times 10^{-3})(4.35 \times 10^{-3})^2=4.11 \times 10^{-8}
+Step 3:
+Think about your result .
+The solubility product constant is significantly less than 1 for a nearly insoluble compound such as PbF 2 .
+Molar solubility calculations are described.
+Calculations of  K_{sp} using molar solubility are described.
+Read the material at the link below and do the problems at the end:
+What are the solution requirements for determining molar solubility?
+Why do we need to convert mass to molarity to determine K_{sp} ?
+What  K_{sp} values would you expect for very insoluble compounds?
+molar solubility:
+The number of moles of solute in one liter of saturated solution.
+Conversion of Ksp to Solubility
+Perform calculations converting  K_{sp} to solubility.
+Heavy metals can be removed by precipitation with carbonates and sulfates

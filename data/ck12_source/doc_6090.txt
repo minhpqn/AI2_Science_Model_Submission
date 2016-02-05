@@ -1,0 +1,20 @@
+The gas molecules are moving and are a certain distance apart from one another.
+An increase in pressure pushes the molecules closer together, reducing the volume.
+If the pressure is decreased, the gases are free to move about in a larger volume.
+Robert Boyle states that PV is constant at a given temperature
+Mathematically, Boyle’s law can be expressed by the equation:
+P \times V = k
+The  k is a constant for a given sample of gas and depends only on the mass of the gas and the temperature.
+The Table below shows pressure and volume data for a set amount of gas at a constant temperature.
+The third column represents the value of the constant  (k) for this data and is always equal to the pressure multiplied by the volume.
+As one of the variables changes, the other changes in such a way that the product of  P \times V always remains the same.
+In this particular case, that constant is 500 atm · ml.
+P \times V = k (\text{atm} \cdot \text{mL})
+A graph of the data in the table further illustrates the inverse relationship nature of Boyle’s Law (see Figure below ).
+Volume is plotted on the x -axis, with the corresponding pressure on the y -axis.
+The pressure of a gas decreases as its volume increases
+The pressure of a gas decreases as the volume increases, making Boyle’s law an inverse relationship.
+Boyle’s Law can be used to compare changing conditions for a gas.
+We use P_1 and  V_1 to stand for the initial pressure and initial volume of a gas.
+After a change has been made,  P_2 and  V_2 stand for the final pressure and volume.
+The mathematical relationship of Boyle’s Law becomes:

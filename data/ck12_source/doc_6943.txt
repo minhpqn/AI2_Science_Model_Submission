@@ -1,0 +1,3 @@
+In these lessons students will gain a strong conceptual footing of electricity.
+In addition, they will learn how to solve circuit problems containing resistors wired in all different ways.
+Power, efficiency and internal resistance are also explored and students learn to solve problems involving these concepts as well.

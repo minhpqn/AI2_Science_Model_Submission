@@ -1,0 +1,20 @@
+Sample Problem:
+Calorimetry and Enthalpy Changes
+In an experiment, 25.0 mL of 1.00 M HCl at 25.0°C is added to 25.0 mL of 1.00 M NaOH at 25.0°C in a foam cup calorimeter.
+A reaction occurs and the temperature rises to 32.0°C.
+Calculate the enthalpy change (\Delta H) in kJ for this reaction.
+Assume the densities of the solutions are 1.00 g/mL and that their specific heat is the same as that of water.
+Step 1:
+List the known quantities and plan the problem .
+c_p= 4.18 \text{ J/g}^\circ \text{C}
+V_{\text{final}}= 25.0 \text{ mL} + 25.0 \text{ mL}= 50.0 \text{ mL}
+\Delta T= 32.0^\circ \text{C}-25.0^\circ \text{C}= 7.0^\circ \text{C}
+Density = 1.00 g/mL
+\Delta H= ? \text{ kJ}
+The volume and density can be used to find the mass of the solution after mixing.
+Then calculate the change in enthalpy by using \Delta H = q_{\text{sys}}= -q_{\text{surr}}= -(m \times cp \times \Delta T)
+Step 2:
+Solve .
+m&=50.0 \text{ ml} \times \frac{1.00 \text{ g}}{\text{mL}}=50.0 \text{ g} \\\Delta H &=-(m \times c_p \times \Delta T)=-(50.0 \text{ g} \times 4.18 \text{ J/g}^\circ \text{C} \times 7.0^\circ \text{C})=-1463 \text{ J}=-1.5 \text{ kJ}
+Step 3:
+Think about the result .

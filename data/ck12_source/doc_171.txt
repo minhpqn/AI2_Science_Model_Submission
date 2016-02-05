@@ -1,0 +1,20 @@
+Understand unit conversions in the SI system.
+The control panel of the space shuttle Atlantis displays dozens of measurements
+Measurements are a basic necessity in science.
+Scientists have designed thousands of different tools to help in the vital process of measuring.
+In this image of the control panel of the space shuttle Atlantis, we see dozens of readouts from measuring systems.
+We already know that observations are an important part of the scientific method.
+Hypotheses are accepted or rejected based on how well they explain observations.
+Some observations, such as "the plant turned brown" are qualitative ; these observations have no associated numbers.
+A quantitative observation includes numbers, and is also called a measurement.
+A measurement is obtained by comparing an object to some standard.
+Any observation is useful to a scientist, but quantitative observations are commonly considered more useful.
+Even if the measurement is an estimate, scientists usually make quantitative measurements in every experiment.
+Consider the following pair of observations.
+When the volume of a gas is decreased, its pressure is increased.
+When the volume of a gas is reduced from 2.0 liters to 1.0 liter, the pressure increases from 3.0 atm to 6.0 atm.
+A great deal more information, and more useful information, is available in the second observation.
+Since accurate measurement is a vital tool for doing science, a consistent set of units for measurement is necessary.
+Physicists throughout the world use the International System of Units (also called the SI system).
+The SI system is basically the metric system, which is convenient because units of different size are related by powers of 10.
+The system has physical standards for length, mass, and time.

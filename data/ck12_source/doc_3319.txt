@@ -1,0 +1,20 @@
+Explain why electric current doesn’t flow through rubber.
+Jon can see the conductor of the power cord for an electric lamp.
+Should he use the lamp?
+Why or why not?
+Explain Ohm’s law.
+Use Ohm’s law to calculate current from voltage and resistance.
+Look at the water spraying out of this garden hose.
+You have to be careful using water around power tools and electric outlets because water can conduct an electric current.
+But in some ways, water flowing through a hose is like electric current flowing through a wire.
+Introducing Ohm’s Law
+For electric current to flow through a wire, there must be a source of voltage.
+Voltage is a difference in electric potential energy.
+As you might have guessed, greater voltage results in more current.
+As electric current flows through matter, particles of matter resist the moving charges.
+This is called resistance, and greater resistance results in less current.
+These relationships between electric current, voltage, and resistance were first demonstrated in the early 1800s by a German scientist named Georg Ohm, so they are referred to as Ohm’s law.
+Ohm’s law can be represented by the following equation.
+Current(amps) = \mathrm{\frac{Voltage(volts)}{Resistance(ohms)}}
+Understanding Ohm’s Law
+Ohm’s law may be easier to understand with an analogy.

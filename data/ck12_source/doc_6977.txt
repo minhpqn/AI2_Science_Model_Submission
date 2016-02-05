@@ -1,0 +1,20 @@
+We call this value c .
+Light can never travel at any other speed.
+Although when light travels through materials, due to scattering and absorption it appears that light is going slightly slower (see refraction lesson for more detail).
+A light year is the amount of distance light covers in a time of one year.
+The value of one light year is simply the speed of light multiplied by the number of seconds in a year and is roughly equal to  9.4 \times 10^{15} \text{m}  .
+Viewing distant stars is looking back in time.
+The stars we see are many thousands of light years away, which means the light takes many thousands of years to reach us.
+Thus the stars we see in the sky are how they looked thousands of years ago.
+Question How long after texting your friend on Mars will he receive it?
+Answer Mars is a distance of  3.1 \times 10^{11} \text{m} .
+Thus, using the equation t = \frac{D}{c} = \frac{3.1 \times 10^{11} \text{m}}{3 \times 10^8 \text{m/s}} = 1033 seconds or about 17 minutes.
+Our sun is 8 “light minutes” from earth.
+Using the speed of light as c calculate the earth-sun distance in m , then convert it to miles (one mile = 1609 m)
+The nearest galaxy to our Milky Way is the Andromeda Galaxy, 2 million light years away.
+How far away is the Andromeda Galaxy in miles?
+The Canis Major Dwarf galaxy is  2.364 \times 10^{20} \text{m}
+How far is it in light years?
+If the galaxy were to disappear, how long until we notice it vanish on Earth?
+Light does not travel infinitely fast – its speed in a vacuum is 3 \times 10^8 \text{m/s}  .
+We measure very large astronomical distances in “light years” (LY) – the distance light travels in one year.

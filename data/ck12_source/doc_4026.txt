@@ -1,0 +1,20 @@
+List five.
+Viruses in Research and Medicine
+Identify how viruses are used in research and medicine.
+Distinguish between a viral vector and a phage.
+Distinguish between viral therapy and gene therapy.
+Can viruses be helpful, or just harmful?
+Viruses are extensively used in research and medicine to both understand basic biology and to improve human health.
+Imagine having a tool that is able to inject its DNA into a host cell.
+The possibilities of using such a tool are endless.
+That tool would be a virus.
+Viruses in Research
+Viruses are an extremely important tool in the study of molecular and cellular biology.
+Since viruses infect cells by moving their genetic material into the host cell's nucleus, they are helpful in the investigation of the functions of cells.
+For example, the use of viruses in research has helped our understanding of the basics of molecular genetics, such as DNA replication, transcription, RNA processing, translation, protein transport, and immunology.
+Viruses and Medicine
+Geneticists often use viruses as vectors to introduce genes into cells that they are studying.
+A viral vector is a tool commonly used by molecular biologists to place genetic material into cells.
+To be a useful viral vector, the virus is modified so that it will not cause disease, and it will infect only certain types of cells.
+Phages are often used as vectors to genetically modify bacteria.
+In a similar fashion, viral therapy uses viruses to genetically modify diseased cells and tissues.

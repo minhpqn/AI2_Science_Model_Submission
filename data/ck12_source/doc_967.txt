@@ -1,0 +1,20 @@
+When the azimuthal quantum number l=1 , the sub-level = p .
+When the azimuthal quantum number l=2 , the sub-level = d .
+When the azimuthal quantum number l=3 , the sub-level = f .
+Quantum mechanics also tells us how many orbitals are in each sub-level.
+In Bohr’s model, an orbit was a circular path that the electron followed around the nucleus.
+In quantum mechanics, an orbital is defined as an area in the electron cloud where the probability of finding the electron is high.
+The number of orbitals in an energy level is equal to the square of the principal quantum number.
+Hence, energy level 1 will have 1 orbital (1 2 ), energy level 2 will have 4 orbitals (2 2 ), energy level 3 will have 9 orbitals (3 2 ), and energy level 4 will have 16 orbitals (4 2 ).
+The  s sub-level has only one orbital.
+Each of the  p sub-levels has three orbitals.
+The  d sub-levels have five orbitals, and the  f sub-levels have seven orbitals.
+If we wished to assign the number of orbitals to the unused sub-levels,  g would have nine orbitals and h would have eleven.
+You might note that the number of orbitals in the sub-levels increases by odd numbers (1, 3, 5, 7, 9, 11, \ldots) .
+As a result, the single orbital in energy level 1 is the  s orbital.
+The four orbitals in energy level 2 are a single  2s orbital and three  2p orbitals.
+The nine orbitals in energy level 3 are a single  3s orbital, three  3p orbitals, and five  3d orbitals.
+The sixteen orbitals in energy level 4 are the single  4s orbital, three  4p orbitals, five  4d orbitals, and seven  4f orbitals.
+Principal Energy Level (n)
+Number of Orbitals Present
+s \quad \ p \quad \ d \quad \ f

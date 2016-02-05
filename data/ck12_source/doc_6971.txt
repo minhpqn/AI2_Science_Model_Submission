@@ -1,0 +1,20 @@
+Q(t)&=Q_oe^{\frac{-t}{\tau}} && \text{start with the equation give above}\\\.1Q_o&=Q_oe^{\frac{-t}{\tau}} && \text{substitute } .1Q_o \text{ for } Q(t) \text{ because that's the charge at the time we want to find}\\\.1&=e^{\frac{-t}{\tau}} && \text{simplify the equation}\\\t&=-\tau\ln(.1) && \text{solve for time}\\\t&=-RC\ln(.1) && \text{substitute in the value for } \tau\\\t&=-100\;\Omega * 500\;\mu\text{F} * \ln(.1) && \text{substitute in all the known values}\\\t&=.12\;\text{s}\\\
+(b):
+Solving the second part of this problem will be a two step process.
+We will use the capacitance and the voltage drop to determine how much charge was originally on the capacitor ( Q_o ).
+Q_o&=CV\\\Q_o&=500\;\mu\text{F} * 12\;\text{V}\\\Q_o&=.006\;\text{C}\\\
+Now we can plug in the time we found in part A to the equation for charge as a function of time.
+Q(t)&=Q_oe^{\frac{-t}{\tau}}\\\Q(.12\;\text{s})&=.006\;\text{C}e^{\frac{-.12\;\text{s}}{100\;\Omega * 500\;\mu\text{F}}}\\\Q(.12\;\text{s})&=5.44*10^{-4}\;\text{C}\\\
+Watch this Explanation
+Click on the image above for more content
+Design a circuit that would allow you to determine the capacitance of an unknown capacitor.
+The power supply (i.e. the voltage source) in the circuit below provides 10\;\mathrm{V} .
+The resistor is 200 \Omega and the capacitor has a value of 50 \mu \mathrm{F} .
+What is the voltage across the capacitor immediately after the power supply is turned on?
+What is the voltage across the capacitor after the circuit has been hooked up for a long time?
+Marciel, a bicycling physicist, wishes to harvest some of the energy he puts into turning the pedals of his bike and store this energy in a capacitor.
+Then, when he stops at a stop light, the charge from this capacitor can flow out and run his bicycle headlight.
+He is able to generate 18\;\mathrm{V} of electric potential, on average, by pedaling (and using magnetic induction).
+If Mars wants to provide 0.5 A of current for 60 seconds at a stop light, how big a 18\;\mathrm{V} capacitor should he buy (i.e. how many farads)?
+How big a resistor should he pass the current through so the RC time is three minutes?
+A simple circuit consisting of a 39 \mu \mathrm{F} and a 10 \text{k} \Omega  resistor.

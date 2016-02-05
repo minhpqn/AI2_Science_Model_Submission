@@ -1,0 +1,20 @@
+The theory at that time relied on hybrid orbitals to explain all aspects of bonding.  The problem was that the theory gave incorrect prediction of bond angles for many compounds.  They developed a new approach based on earlier work by other scientists that incorporated a consideration of electron pairs in predicting three-dimensional structure.
+The valence shell is the outermost electron-occupied shell of an atom.  The valence shell holds the electrons that are involved in bonding and are the electrons shown in a Lewis structure.  The acronym VSEPR stands for the valence-shell electron pair repulsion model.  The model states that electron pairs will repel each other such that the shape of the molecule will adjust so that the valence electron-pairs stay as far apart from each other as possible.
+Molecules can be systematically classified according to the number of bonding pairs of electrons as well as the number of nonbonding or lone pairs around the central atom.
+For the purposes of the VSEPR model, a double or triple bond is no different in terms of repulsion than a single bond.
+VSEPR theory allows more accurate predictions of molecular shape.
+Use the link below to answer the following questions:
+When was the VSEPR model first proposed?
+What is the basic theory behind the model?
+What is the significance of this theory?
+Who did the major work in developing the VSEPR theory?
+Where are the electrons that are involved in bonding?
+What is the basic idea behind the VSEPR theory?
+valence shell:
+The outermost electron-occupied shell of an atom.
+valence-shell electron pair repulsion (VSEPR):
+Electron pairs will repel each other such that the shape of the molecule will adjust so that the valence electron-pairs stay as far apart from each other as possible.
+Molecular Shapes:
+No Lone Pairs on Central Atom
+Describe molecules whose shapes are influenced by VSEPR theory.
+Repulsion in an electroscope is like repulsion between electron pairs

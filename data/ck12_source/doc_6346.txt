@@ -1,0 +1,20 @@
+\frac{4.2 \times 10^{-4} \ \cancel{\text{g}}}{\text{L}} \times \frac{1 \ \text{mol}}{99.41 \ \cancel{\text{g}}}=4.2 \times 10^{-6} \ \text{mol/L} \ (\text{M})
+Solubility data can be used to calculate the  K_{sp} for a given compound.
+The following steps need to be taken.
+Convert from solubility to molar solubility.
+Use the dissociation equation to determine the concentration of each of the ions in mol/L.
+Apply the K_{sp} equation.
+Sample Problem:
+Calculating  K_{sp} from Solubility
+The solubility of lead(II) fluoride is found experimentally to be 0.533 g/L.
+Calculate the  K_{sp} for lead(II) fluoride.
+Step 1:
+List the known quantities and plan the problem .
+solubility of PbF 2 = 0.533 g/L
+molar mass = 245.20 g/mol
+K_{sp} of PbF 2 = ?
+The dissociation equation for PbF 2 and the corresponding  K_{sp} expression
+\text{PbF}_2(s) \rightleftarrows \text{Pb}^{2+}(aq)+2\text{F}^-(aq) && K_{sp}=[\text{Pb}^{2+}][\text{F}^-]^2
+The steps above will be followed to calculate the  K_{sp} for PbF 2 .
+Step 2:
+Solve .

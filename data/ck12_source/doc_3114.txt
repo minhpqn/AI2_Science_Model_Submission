@@ -1,0 +1,20 @@
+This gives her potential energy.
+Gravitational Potential Energy
+Potential energy due to the position of an object above Earth’s surface is called gravitational potential energy.
+Like the diver on the diving board, anything that is raised up above Earth’s surface has the potential to fall because of gravity.
+You can see another example of people with gravitational potential energy in the Figure below .
+You can also watch a cartoon introduction to gravitational potential energy by playing video #10 at this URL:
+Both the sled and the gymnast have gravitational potential energy
+Gravitational potential energy depends on an object’s weight and its height above the ground.
+It can be calculated with the equation:
+Gravitational potential energy (GPE) = weight × height
+Consider the little girl on the sled, pictured in the Figure above .
+She weighs 140 Newtons, and the top of the hill is 4 meters higher than the bottom of the hill.
+As she sits at the top of the hill, the child’s gravitational potential energy is:
+GPE = 140 N × 4 m = 560 N • m
+Notice that the answer is given in Newton • meters (N • m), which is the SI unit for energy.
+A Newton ∙ meter is the energy needed to move a weight of 1 Newton over a distance of 1 meter.
+A Newton • meter is also called a joule (J).
+Q:
+The gymnast on the balance beam pictured in the Figure above weighs 360 Newtons.
+If the balance beam is 1.2 meters above the ground, what is the gymnast’s gravitational potential energy?

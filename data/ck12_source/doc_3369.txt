@@ -1,0 +1,20 @@
+An electric motor is a device that uses an electromagnet to change electrical energy to kinetic energy.
+You can see a simple diagram of an electric motor in the Figure below .
+The motor contains an electromagnet that is connected to a shaft.
+When current flows through the motor, the electromagnet rotates, causing the shaft to rotate as well.
+The rotating shaft moves other parts of the device.
+For example, in an electric fan, the rotating shaft turns the blades of the fan.
+You can make a very simple electric motor by following the instructions at this URL:
+Schematic of an electromagnetic motor
+Why does the motor’s electromagnet rotate?
+The electromagnet is located between the north and south poles of two permanent magnets.
+When current flows through the electromagnet, it becomes magnetized, and its poles are repelled by the like poles of the permanent magnets.
+This causes the electromagnet to rotate toward the unlike poles of the permanent magnets.
+A device called a commutator then changes the direction of the current so the poles of the electromagnet are reversed.
+The reversed poles are again repelled by the poles of the permanent magnets, which have not reversed.
+This causes the electromagnet to continue to rotate.
+These events keep repeating, so the electromagnet rotates continuously.
+You can see an animation of an electric motor in action at this URL:
+Electromagnetic devices are devices that contain electromagnets.
+Examples of electromagnetic devices include doorbells and any devices that have electric motors, such as electric fans.
+The electromagnet in a doorbell attracts the clapper, which hits the bell and makes it ring.

@@ -1,0 +1,20 @@
+Glucose is an important simple sugar that cells use as their primary source of energy.
+Its molecular formula is C 6 H 12 O 6 .
+Since each of the subscripts is divisible by 6, the empirical formula for glucose is CH 2 O.
+When chemists analyze an unknown compound, often the first step is to determine its empirical formula.
+There are a great many compounds whose molecular and empirical formulas are the same.
+If the molecular formula cannot be simplified into a smaller whole-number ratio, as in the case of H 2 O or P 2 O 5 , then the empirical formula is also the molecular formula.
+How would we determine an empirical formula for a compound?
+Let’s take a compound composed of carbon, hydrogen, and oxygen.
+We can analyze the relative amounts of each element in the compound.
+When we get a percent figure for each element, we now know how many grams of each are in 100 grams of the original material.
+This allows us to determine the number of moles for each element.
+The ratios can then be reduced to small whole numbers to give the empirical formula.
+If we wanted a molecular formula, we would need to determine the molecular weight of the compound.
+The empirical formula tells the lowest whole-number ratio of elements in a compound.
+The empirical formula does not show the actual number of atoms.
+Use the link below to answer the following questions:
+How is an empirical formula calculated?
+How is the number of moles determined from the percent composition?
+Define “empirical formula.”
+Why is C 6 H 12 O 6 not considered to be an empirical formula for glucose?

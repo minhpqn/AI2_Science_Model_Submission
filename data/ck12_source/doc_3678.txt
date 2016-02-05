@@ -1,0 +1,20 @@
+ENCODE:
+The Encyclopedia of DNA Elements
+In September 2012, ENCODE, The Enc yclopedia o f D NA E lements, was announced.
+ENCODE was a colossal project, involving over 440 scientists in 32 labs the world-over, whose goal was to understand the human genome.
+It had been thought that about 80% of the human genome was "junk" DNA.
+ENCODE has established that this is not true.
+Now it is thought that about 80% of the genome is active.
+In fact, much of the human genome is regulatory sequences, on/off switches that tell our genes what to do and when to do it.
+Dr.
+Eric Green, director of the National Human Genome Research Institute of the National Institutes of Health which organized this project, states, "It's this incredible choreography going on, of a modest number of genes and an immense number of ... switches that are choreographing how those genes are used."
+It is now thought that at least three-quarters of the genome is involved in making RNA, and most of this RNA appears to help regulate gene activity.
+Scientists have also identified about 4 million sites where proteins bind to DNA and act in a regulatory capacity.
+These new findings demonstrate that the human genome has remarkable and precise, and complex, controls over the expression of genetic information within a cell.
+See ENCODE data describes function of human genome at for additional information.
+The human genome consists of about 3 billion base pairs of DNA.
+In 2003, the Human Genome Project finished sequencing all 3 billion base pairs.
+Use this resource to answer the questions that follow.
+\rightarrow Non-Majors Biology \rightarrow Search:
+Human Genome Project
+What were 3 goals of the Human Genome Project?

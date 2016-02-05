@@ -1,0 +1,20 @@
+What Is a Machine?
+A machine is any device that makes work easier by changing a force.
+Work is done whenever a force moves an object over a distance.
+The amount of work done is represented by the equation:
+Work = Force x Distance
+When you use a machine, you apply force to the machine.
+This force is called the input force.
+The machine, in turn, applies force to an object.
+This force is called the output force.
+The output force may or may not be the same as the input force.
+The force you apply to the machine is applied over a given distance, called the input distance.
+The force applied by the machine to the object is also applied over a distance, called the output distance.
+The output distance may or may not be the same as the input distance.
+How Machines Make Work Easier
+Contrary to popular belief, machines do not increase the amount of work that is done.
+They just change how the work is done.
+Machines make work easier by increasing the amount of force that is applied, increasing the distance over which the force is applied, or changing the direction in which the force is applied.
+For a humorous introduction to machines and how they make work easier, watch video chapters 1–3 at the following URL:
+Q :
+If a machine increases the force applied, what does this tell you about the distance over which the force is applied by the machine:

@@ -1,0 +1,20 @@
+Radar stands for ra dio d etection and r anging.
+In police radar, a radar gun sends out short bursts of microwaves.
+The microwaves reflect back from oncoming vehicles and are detected by a receiver in the radar gun.
+The frequency of the reflected waves is used to compute the speed of the vehicles.
+Radar is also used for tracking storms, detecting air traffic, and other purposes.
+Radar can be used to measure the speed of moving cars
+Q:
+How are reflected microwaves used to determine the speed of oncoming cars (see Figure above )?
+A:
+As the car approaches the radar gun, the reflected microwaves get bunched up in front of the car.
+Therefore, the waves the receiver detects have a higher frequency than they would if they were being reflected from a stationary object.
+The faster the car is moving, the greater the increase in the frequency of the waves.
+This is an example of the Doppler effect, which can also occur with sound waves.
+Electromagnetic waves vary in their wavelength, frequency, and energy.
+The full range of electromagnetic waves makes up the electromagnetic spectrum.
+Microwaves are electromagnetic waves with relatively long wavelengths and low frequencies.
+They are used for microwave ovens, cell phones, and radar.
+A cell phone encodes the sounds of the caller’s voice in microwaves by changing the frequency of the waves.
+The encoded microwaves then travel through the air to a cell tower and eventually to the receiver of the person being called.
+The receiver decodes the microwaves and changes them back to sounds.

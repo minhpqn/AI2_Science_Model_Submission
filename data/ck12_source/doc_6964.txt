@@ -1,0 +1,20 @@
+The new capacitance will just be 80x the original capacitance because that is the dielectric constant of water.
+We can use this to calculate how much charge can be stored on the submerged capacitor.
+Q&=80CV\\Q&=80*5.5*10^{-11}\:\text{F} * 12\:\text{V}\\Q&=5.31*10^{-8}\:\text{F}\\
+As you can see, the capacitance of these plates is pretty small.
+Most capacitors have very thin, but very long metal sheets that are rolled up into a cylinder and separated by only a few millimeters; this provides a much greater capacitance in a much smaller volume.
+Watch this Explanation
+Click on the image above for more content
+Capacitor Lab (PhET Simulation)
+Design a parallel plate capacitor with a capacitance of 100\;\mathrm{mF} .
+You can select any area, plate separation, and dielectric substance that you wish.
+Show, by means of a sketch illustrating the charge distribution, that two identical parallel-plate capacitors wired in parallel act exactly the same as a single capacitor with twice the area.
+A certain capacitor can store 5\;\mathrm{C} of charge if you apply a voltage of 10\;\mathrm{V} .
+How many volts would you have to apply to store 50\;\mathrm{C} of charge in the same capacitor?
+Why is it harder to store more charge?
+A capacitor is charged and then unhooked from the battery.
+A dielectric is then inserted using an insulating glove.
+Does the electric field between plates increase or decrease?
+Why?
+did it take negative work, no work or positive work when the dielectric was inserted? (.e. did it get ‘sucked in’ or did you have to ‘push it in’ or neither) Explain.
+The capacitor is now reattached to the battery

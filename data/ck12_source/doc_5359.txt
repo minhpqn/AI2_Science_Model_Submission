@@ -1,0 +1,20 @@
+Eukaryotic mRNA Processing
+Following transcription an mRNA is produced.
+However, newly transcribed eukaryotic mRNA is not ready for translation.
+This mRNA requires extensive processing, and so is known as pre-mRNA .
+The modification processes include splicing, the addition of a 5’ cap, editing, and polyadenylation.
+Once these process have occurred, the mature mRNA can be exported through the nuclear pore to the cytoplasm.
+Humans have approximately 22,000 genes, yet make many more proteins.
+How?
+A process called alternative splicing allows one mRNA to produce many polypeptides.
+To understand this concept, the structure of the pre-mRNA must be discussed.
+Eukaryotic pre-mRNA contains introns and exons.
+An exon is the region of a gene that contains the code for producing a protein.
+Most genes contain many exons, with each exon containing the information for a specific portion of a complete protein.
+In many species, a gene's exons are separated by long regions of DNA that have no identified function.
+These long regions are introns , and must be removed prior to translation.
+Splicing is the process by which introns are removed ( Figure below ).
+Sometimes a process called alternative splicing allows pre-mRNA messages to be spliced in several different configurations, allowing a single gene to encode multiple proteins.
+Splicing is usually performed by an RNA-protein complex called the spliceosome , but some RNA molecules have their own catalytic activity and are capable of acting like enzymes to catalyze their own splicing.
+Bacterial mRNAs do not have introns.
+For an animation of RNA splicing, see

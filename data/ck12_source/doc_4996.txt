@@ -1,0 +1,20 @@
+This can be either a simple redox process, such as the oxidation of carbon into carbon dioxide or the reduction of carbon by hydrogen into methane, or a complex process such as the oxidation of glucose through a series of complex electron transfer processes during cellular respiration.
+Oxidation is the loss of electrons or an increase in oxidation state by a molecule, atom, or ion.
+Reduction is the gain of electrons or a decrease in oxidation state by a molecule, atom, or ion.
+Redox Reactions in Biology
+Many important biological processes involve redox reactions, which frequently store and release energy.
+For example, photosynthesis involves the reduction of carbon dioxide into glucose and the oxidation of water into oxygen.
+This process stores the energy of sunlight in the bonds of sugars.
+The reverse reaction, cellular respiration, converts the energy in glucose into ATP.
+Cellular respiration involves the oxidation of glucose to carbon dioxide and the reduction of oxygen gas to water.
+This process depends on the reduction of NAD + to the electron carrier NADH, and the reverse oxidation of NADH to NAD + .
+The reduction of NAD + leads to the formation of a proton (H + ) gradient, which drives the synthesis of ATP.
+NADH (nicotinamide adenine dinucleotide) and NADPH (Nicotinamide adenine dinucleotide phosphate) are electron carriers in biological systems.
+The term redox state is often used to describe the balance between NAD + /NADH and NADP + /NADPH (Nicotinamide adenine dinucleotide phosphate).
+chemical reaction :
+A process that changes some chemical substances into other chemical substances.
+combustion reaction :
+Type of chemical reaction in which a compound or element burns in oxygen.
+decomposition reaction :
+Type of chemical reaction in which a compound is broken down into smaller compounds or elements.
+oxidation :

@@ -1,0 +1,20 @@
+The spindle plays an essential role moving chromosomes and in the separation of sister chromatids.
+The spindle starts to form during prophase of mitosis.
+Kinetochores on the spindle attach to the centromeres of sister chromatids.
+As plant cells have some structural differences compared to an animal cell, an additional stage prior to prophase is necessary.
+In plant cells only, prophase is preceded by a preprophase stage.
+Plant cells have a large central vacuole encompassing the center of the cell.
+Prior to the division of the nucleus, the nucleus must migrate to the center of the plant cell.
+To accomplish this, the cell forms a phragmosome , a sheet of cytoplasm that bisects the middle of the cell.
+The phragmosome suspends the cell nucleus in the center of the cell in preparation for prophase.
+Additionally, during this phase the plane of cell division is established.
+The accurate control of division planes, which establishes the placement of the future cell wall, is crucial for the correct structure of plant tissues and organs.
+The mitotic spindle also starts to form during preprophase in plant cells.
+Unlike animal cells, plant cells do not have centrosomes to organize their mitotic spindles.
+Instead, in these cells, the nuclear envelope acts as a microtubule organizing center (MTOC) for spindle formation.
+The preprophase spindle forms by self-assembly of microtubules in the cytoplasm surrounding the nuclear envelope.
+During early prometaphase , the nuclear membrane disintegrates and microtubule spindles invade the center of the cell.
+Also during this phase, the spindle attaches to the centromere of each chromatid.
+Specifically, the spindle attaches to the kinetochore , a protein structure on the centromere where the spindle fibers attach.
+During metaphase , the centromeres of the chromosomes line up along the metaphase plate or equatorial plane, in essence the approximate middle of the cell.
+This orientation of the chromosomes at the equator of the cell helps to ensure proper chromosome separation.

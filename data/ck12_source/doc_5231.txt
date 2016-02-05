@@ -1,0 +1,20 @@
+Possible a medium sized brown apple.
+Or you may still get mostly small red or large green apples, but possible some small green and large red apples.
+A dihybrid cross involves two traits, such as color and size.
+Dihybrid Crosses and Punnett Squares
+Punnett Squares and Dihybrid Crosses
+The Punnett square also allows the determination of genotypes and phenotypes from dihybrid crosses .
+However, this process works only if the genes are independent of each other, that is, they are not linked, and they segregate independently of each other during meiosis.
+In other words, the inheritance of an allele of one gene does not effect the inheritance of an allele from another gene.
+This is usually true for alleles of genes on different chromosomes, or genes that are not close together on the same chromosome.
+Genes that are close together on the same chromosome may not segregate independently of each other during meiosis, and are known as linked genes.
+Dihybrid crosses are more complicated than monohybrid crosses because more combinations of alleles are possible.
+For example, tracking the inheritance of pod color and pod form in a Punnett square requires that we track four alleles.
+R is the dominant allele for green pod color and r is the recessive allele for yellow pods.
+Y is the dominant allele for flat pod form and y is the recessive allele for constricted pod form.
+If two pea plants are crossed, and one is true-breeding for green flat pods ( RRYY ), the other is true-breeding for yellow constricted pods ( rryy ), then all of the F 1 generation will be heterozygous for both traits ( RrYy ).
+Figure below , shows the dihybrid cross of the dihybrid P generation and the F 1 generation.
+Those F 1 individuals will have gametes with four possible combinations of alleles:
+RY, Ry, rY and ry.
+If these individuals are allowed to self-pollinate, then 16 combinations of alleles are possible upon combination of gametes.
+According to Mendel's Second Law, the Law of Independent Assortment , the inheritance of one trait will not affect the inheritance of another, meaning that alleles of each gene separate independently during gamete formation.

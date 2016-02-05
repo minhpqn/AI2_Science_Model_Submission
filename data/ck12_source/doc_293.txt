@@ -1,0 +1,20 @@
+(a) What is the potential energy of the ball?
+(b) If the ball is released, how fast will it be traveling at the bottom of its arc?
+Diagram of a pendulum
+Solution:
+You can use trigonometry to find the vertical height of the ball in the pulled back position.  This vertical height is found to be 0.877 m.
+PE = mgh = (7.58 \ kg)(9.80 \ m/s^2)(0.877 \ m) = 65.1 \ J
+When the ball is released, the  PE will be converted into  KE as the ball swings through the arc.
+KE = \frac{1}{2} \ mv^2 = 65.1 \ J
+v=\sqrt{\frac{(2)(65.1 \ kg \cdot m^2/s^2)}{7.58 \ kg}}=4.14 \ m/s
+Stored energy is called potential energy.
+Energy may be stored by holding an object elevated in a gravitational field or by holding it while a force is attempting to move it.
+Potential energy may be converted to kinetic energy.
+The formula for gravitational potential energy is PE = mgh .
+In the absence of friction or bending, work done on an object must become either potential energy or kinetic energy or both.
+The following video discusses types of energy.
+Use this resource to answer the questions that follow.
+Click on the image above for more content
+What is the definition of energy?
+Name two types of potential energy.
+How is energy transferred from one object to another?

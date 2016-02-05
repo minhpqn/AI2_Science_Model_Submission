@@ -1,0 +1,20 @@
+Volume is a third way to measure the amount of matter, after item count and mass.  With liquids and solids, volume varies greatly depending on the density of the substance.  This is because solid and liquid particles are packed close together with very little space in between the particles.  However, gases are largely composed of empty space between the actual gas particles (see Figure below ).
+Gas particles are small compared to the empty space between them
+Gas particles are very small compared to the large amounts of empty space between them.
+In 1811, Amedeo Avogadro explained that the volumes of all gases can be easily determined.
+Avogadro’s hypothesis states that equal volumes of all gases at the same temperature and pressure contain equal numbers of particles.  Since the total volume that a gas occupies is made up primarily of the empty space between the particles, the actual size of the particles themselves is nearly negligible.  A given volume of a gas with small light particles such as hydrogen (H 2 ) contains the same number of particles as the same volume of a heavy gas with large particles such as sulfur hexafluoride, SF 6 .
+Gases are compressible, meaning that when put under high pressure, the particles are forced closer to one another.  This decreases the amount of empty space and reduces the volume of the gas.  Gas volume is also affected by temperature.  When a gas is heated, its molecules move faster and the gas expands.  Because of the variation in gas volume due to pressure and temperature changes, the comparison of gas volumes must be done at one standard temperature and pressure.  Standard temperature and pressure (STP) is defined as 0°C (273.15 K) and 1 atm pressure.
+The molar volume of a gas is the volume of one mole of a gas at STP.  At STP, one mole (6.02 × 10 23 representative particles) of any gas occupies a volume of 22.4 L ( Figure below ).
+Avogadro's hypothesis states that one mole of gas at STP occupies 22.4 liters
+A mole of any gas occupies 22.4 L at standard temperature and pressure (0°C and 1 atm).
+The Figure below illustrates how molar volume can be seen when comparing different gases.
+Samples of helium (He), nitrogen (N 2 ), and methane (CH 4 ) are at STP.  Each contains 1 mole or 6.02 × 10 23 particles.  However, the mass of each gas is different and corresponds to the molar mass of that gas: 4.00 g/mol for He, 28.0 g/mol for N 2 , and 16.0 g/mol for CH 4 .
+Avogadro's hypothesis means that  one mole of neon, nitrogen, or methane occupies 22.4 liters at STP
+Avogadro’s hypothesis states that equal volumes of any gas at the same temperature and pressure contain the same number of particles.
+At standard temperature and pressure, 1 mole of any gas occupies 22.4 L.
+Equal volumes of gases at the same conditions contain the same number of particles.
+Standard temperature and pressure are defined.
+Use the link below to answer the following questions:
+What was the volume of each gas that was weighed?
+What did the experiment find?
+What was the relationship between gas weight and molecular weight?

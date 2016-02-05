@@ -1,0 +1,20 @@
+virtual image:
+An image that cannot be projected onto a screen.
+You can only see the image by looking into the mirror or lens forming the image.
+The light that forms a virtual image does NOT pass through the image position.
+Images in a Concave Mirror
+Define the focal point and focal length.
+Explain the rules of ray tracing in concave mirrors.
+Define spherical aberration.
+Predict real or virtual images based object position for concave mirror.
+Locate concave mirror images with ray diagrams.
+Calculate image position and magnification using the mirror equation.
+Concave mirror of the Hubble Space Telescope
+Concave mirrors are used in a number of applications.
+They form upright, enlarged images, and are therefore useful in makeup application or shaving.
+They are also used in flashlights and headlights because they project parallel beams of light, and in telescopes because they focus light to produce greatly enlarged images.
+The photograph above shows the grinding of the primary mirror in the Hubble space telescope.
+The Hubble Space Telescope is a reflecting telescope with a mirror approximately eight feet in diameter, and was deployed from the Space Shuttle Discovery on April 25, 1990.
+Image in a Concave Mirror
+Reflecting surfaces do not have to be flat.
+The most common curved mirrors are spherical.

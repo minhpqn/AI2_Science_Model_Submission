@@ -1,0 +1,20 @@
+Change the –e at the end of the name of the alkane to –al .
+Nomenclature of aldehydes
+For ketones, R and R’ must be carbon chains, of either the same or different lengths.
+The steps for naming ketones, followed by two examples, are shown below.
+Name the parent compound by finding the longest continuous chain that contains the carbonyl group.
+Change the –e at the end of the name of the alkane to –one .
+Number the carbon atoms in the chain in a way that the carbonyl group has the lowest possible number.
+Add the numerical prefix into the name before the name of the ketone.
+Use a hyphen between the number and the name of the ketone.
+Nomenclature of ketones
+Properties of Aldehydes and Ketones
+Aldehydes and ketones can work weak hydrogen bonds with water through the carbonyl oxygen atom.
+The lower members of both series (3 carbons or fewer) are soluble in water in all proportions.
+As the length of the carbon chain increases, water solubility decreases.
+Similar to ethers, neither aldehydes nor ketones can hydrogen bond with themselves.
+As a result, their boiling points are generally lower than those of alcohols.
+Unlike alkanes however, aldehydes and ketones are polar molecules due to the more electronegative oxygen atom.
+The dipole-dipole interactions are stronger than the dispersion forces present in alkanes.
+The boiling points of aldehydes and ketones are intermediate between those of alkanes and alcohols.
+For example, the boiling point of ethane is -89°C, ethanal is 20°C, and ethanol is 78°C.

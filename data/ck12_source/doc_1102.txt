@@ -1,0 +1,20 @@
+The radio telescope at the Arecibo Observatory in Puerto Rico
+The radio telescope at the Arecibo Observatory in Puerto Rico.
+A group of radio telescopes can be linked together with a computer.
+The telescopes observe the same object.
+The computer then combines the data from each telescope.
+This makes the group function like one single telescope.
+An example is pictured below ( Figure below ).
+The Very Large Array in New Mexico consists of 27 radio telescopes
+The Very Large Array in New Mexico consists of 27 radio telescopes.
+To learn more about radio telescopes and radio astronomy in general, go to  .
+Telescopes on Earth all have one big problem: incoming light must pass through the atmosphere.
+This blocks some wavelengths of radiation.
+Also, motion in the atmosphere distorts light.
+You see this when you see stars twinkling in the night sky.
+Many observatories are built on high mountains.
+There is less air above the telescope, so there is less interference from the atmosphere.
+Space telescopes avoid problems from the atmosphere completely since they orbit outside the atmosphere.
+The Hubble Space Telescope ( Figure below ) is the best known space telescope.
+Hubble began operations in 1994.
+Since then, it has provided huge amounts of data.

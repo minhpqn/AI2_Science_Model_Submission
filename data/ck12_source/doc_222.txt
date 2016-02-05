@@ -1,0 +1,20 @@
+Scalars are quantities, such as mass, length, or speed, that are completely specified by magnitude and have no direction.
+Vectors are quantities possessing both magnitude and direction and can be represented by an arrow; the direction of the arrow indicates the direction of the quantity and the length of the arrow is proportional to the magnitude.
+Vectors that are in one dimension can be added arithmetically.
+Vectors that are in two dimensions are added geometrically.
+When vectors are added graphically, graphs must be done to scale and answers are only as accurate as the graphing.
+Use this resource to answer the following questions about adding vectors
+Click on the image above for more content
+What is a resultant?
+What are the steps necessary to add vectors in two dimensions?
+On the following number line, add the vector 7.5 m/s and the vector -2.0 m/s.
+A number line
+On a sheet of graph paper, add a vector that is 4.0 km due east and a vector that is 3.0 km due north.
+scalar:
+A quantity, such as mass, length, or speed, that is completely specified by its magnitude and has no direction.
+vector:
+A quantity possessing both magnitude and direction, represented by an arrow the direction ofwhich indicates the direction of the quantity and the length of which is proportional to the magnitude.
+vector addition:
+The process of finding one vector that is equivalent to the result of the successive application of two or more given vectors.
+Resolving Vectors into Axial Components
+Describe the independence of perpendicular vectors.

@@ -1,0 +1,20 @@
+Click on the image above for more content
+Click on the image above for more content
+You have a 5 \mu \mathrm{F} capacitor.
+How much voltage would you have to apply to charge the capacitor with 200\;\mathrm{C} of charge?
+Once you have finished, how much potential energy are you storing here?
+If all this energy could be harnessed to lift 100 lbs. into the air, how high would you be lifted?
+A certain capacitor can store 500\;\mathrm{J} of energy (by storing charge) if you apply a voltage of 15\;\mathrm{V} .
+How many volts would you have to apply to store 1000\;\mathrm{J} of energy in the same capacitor? (Important: why isn’t the answer to this just 30\;\mathrm{V} ?)
+Marciel, a bicycling physicist, wishes to harvest some of the energy he puts into turning the pedals of his bike and store this energy in a capacitor.
+Then, when he stops at a stop light, the charge from this capacitor can flow out and run his bicycle headlight.
+He is able to generate 18\;\mathrm{V} of electric potential, on average, by pedaling (and using magnetic induction).
+If Mars wants to provide 0.5 A of current for 60 seconds at a stop light, what should the capacitance of his capacitor be?
+Answers to Selected Problems
+a. 4 \times 10^7 \;\mathrm{V} b. 4 \times 10^9 \;\mathrm{J} c.
+About  9000 \;\mathrm{km}
+21 \;\mathrm{V}, \;\mathrm{V} is squared.
+Capacitors in Series and Parallel
+Apply the equations governing capacitors hooked up in series and parallel.
+Students will understand and apply the equations governing capacitors hooked up in series and parallel.
+C_{\text{parallel}} &= C_1 + C_2 + C_3 + \dots && \text{[5] Capacitors in parallel add like resistors in series}\\\frac{1}{C_{\text{series}}} &= \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3}+ \dots && \text{[6] Capacitors in series add like resistors in parallel}

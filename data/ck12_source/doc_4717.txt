@@ -1,0 +1,20 @@
+it must be consistent with a pre-existing theory.
+The pre-existing theory must have been experimentally verified, though it may often show a pre-existing theory to be wrong in an exact sense,
+it must be supported by many strands of evidence rather than a single foundation, ensuring that it is a good approximation or even completely correct.
+Also, a theory is generally only taken seriously if it:
+allows for changes to be made as new data is discovered, rather than claiming absolute certainty,
+is the most straight forward explanation, and makes the fewest assumptions about a phenomenon (commonly called “passing the Occam's razor test”).
+This is true of such established theories as those of special relativity, general relativity, quantum mechanics, plate tectonics, and evolution.
+Theories considered scientific ideally meet all of these extra criteria as well.
+In summary, to meet the status of a scientific theory, the theory must be falsifiable or testable.
+Examples of scientific theories in different areas of science include:
+Astronomy :
+Big Bang Theory
+Biology :
+Cell Theory;
+Theory of Evolution;
+Germ Theory of Disease
+Chemistry :
+Atomic Theory;
+Kinetic Theory of Gases
+Physics :

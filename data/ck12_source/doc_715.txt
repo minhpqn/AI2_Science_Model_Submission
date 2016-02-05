@@ -1,0 +1,20 @@
+An interference pattern consists of alternating bright and dark lines; the bright lines are called fringes.
+In a double slit experiment, the wavelength can be calculated using this equation: \lambda=\frac{xd}{L}
+Click on the image above for more content
+Follow up questions:
+When the amplitude of waves add, it is called _________________ interference.
+When the amplitude of waves subtract, it is called _________________ interference.
+What do we call the phenomenon of light bending around a corner?
+Destructive interference in waves occurs when
+two troughs overlap.
+crests and troughs align.
+two crests overlap.
+a crest and a trough overlap.
+Bright bands in interference patterns result from
+In a double slit experiment with slits 1.00 \times 10^{-5} \ m apart, light casts the first bright band 3.00 \times 10^{-2} \ m from the central bright spot.
+If the screen is 0.650 m away, what is the wavelength of this light?
+Violet light falls on two slits separated by 1.90 \times 10^{-5} \ m .
+A first order bright line appears 13.2 mm from the central bright spot on a screen 0.600 m from the slits.
+What is the wavelength of the violet light?
+Suppose in the previous problem, the light was changed to yellow light with a wavelength of 5.96 \times 10^{-7} \ m  while the slit separation and distance from screen to slits remained the same.
+What would be the distance from the central bright spot to the first order line?

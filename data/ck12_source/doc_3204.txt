@@ -1,0 +1,20 @@
+The same amount of energy is spread over a greater area, so the intensity and loudness of the sound is less.
+This explains why even loud sounds fade away as you move farther from the source.
+Sound wave intensity in relation to distance from source
+This diagram represents just a small section of the total area of sound waves spreading out from a source.
+Sound waves actually travel away from the source in all directions.
+Q:
+Why can low-amplitude sounds like whispers be heard only over short distances?
+A:
+The sound waves already have so little energy that spreading them out over a wider area quickly reduces their intensity below the level of hearing.
+Loudness refers to how loud or soft a sound seems to a listener.
+The loudness of sound is determined, in turn, by the intensity, or amount of energy, in sound waves.
+The unit of intensity is the decibel (dB).
+As decibel levels get higher, sound waves have greater intensity and sounds are louder.
+For every 10-decibel increase in the intensity of sound, loudness is 10 times greater.
+Intensity of sound results from two factors: the amplitude of the sound waves and how far they have traveled from the source of the sound.
+Review sound intensity, loudness, and decibels at the following URL.
+Then answer the Check Your Understanding questions at the bottom of the Web page.
+Be sure to check your answers.
+Define loudness and intensity of sound.
+How are the two concepts related?

@@ -1,0 +1,20 @@
+Initiation in Prokaryotes
+The initiation of translation in prokaryotes involves the assembly of the ribosome and addition of the first amino acid, methionine.
+The 30S ribosomal subunit attaches to the mRNA.
+Next, the specific methionine tRNA is brought into the P.
+The anticodon of this tRNA will bind to the AUG (start) codon on the mRNA.
+This is the only time a tRNA will be brought into the P site; all successive tRNA’s will be brought to the A site as translation continues.
+The 50S ribosomal subunit then binds to the 30S subunit, completing the ribosome.
+Initiation in Eukaryotes
+The initiation of protein translation in eukaryotes is similar to that of prokaryotes with some minor modifications.
+The 5' cap and 3' poly(A) tail are involved in the recruitment of the ribosome.
+In eukaryotes the ribosome scans along the mRNA for the first start methionine codon.
+Translation may begin at all AUG codons, however only an in-frame AUG will produce a functional polypeptide.
+The tRNAs with attached amino acids are delivered to the ribosome by proteins called elongation factors (EF-Tu in bacteria, eEF-1 in eukaryotes), which aid in decoding the mRNA codon sequence.
+For an animation of translation, see
+Elongation is fairly similar between prokaryotes and eukaryotes.
+As translation begins, the start tRNA is sitting on the AUG codon in the P site of the ribosome, so the next codon available to accept a tRNA is at the A site.
+Elongation proceeds after initiation with the binding of an tRNA to the A site.
+The next tRNA binds to the codon, bringing the appropriate amino acid to the ribosome, and a peptide bond joins between the start methionine and the next amino acid.
+This reaction is catalyzed by the ribosome.
+The new polypeptide chain is released from the initial tRNA.

@@ -1,0 +1,20 @@
+See for additional information.
+Profiles of missing persons are also maintained in CODIS.
+The true power of STR analysis is in its statistical power of discrimination.
+Because the 13 loci are independently assorted, the laws of probabilities can be applied.
+This means that if someone has the genotype of ABC at three independent loci, then the probability of having that specific genotype is the probability of having type A times the probability of having type B times the probability of having type C.
+This has resulted in the ability to generate match probabilities of 1 in a quintillion (1 with 18 zeros after it) or more, that is, the chance of two samples matching by coincidence is greater than the number of people on the planet, or the number of people that have ever lived.
+The CODIS loci analyzed by STR analysis.
+Notice they are spread over 14 chromosomes, and that two are on the X and Y chromosomes.
+The development of PCR has enabled STR analysis to become the method of choice for DNA identification.
+Prior to PCR, other methods were utilized.
+These include restriction fragment length polymorphism (RFLP) analysis and Southern blot analysis.
+RFLP Analysis:
+Restriction Fragment Length Polymorphism
+Prior to the development of PCR, restriction enzyme digestion of DNA followed by Southern blot analysis was used for DNA fingerprinting.
+This analysis is based on the polymorphic nature of restriction enzyme sites among different individuals, hence restriction fragment length polymorphisms (RFLP) are formed after digestion of DNA with these enzymes.
+A Southern blot , named after its inventor Edwin Southern, is a method used to check for the presence of a specific DNA sequence in a DNA sample.
+Once an individual’s DNA is digested with a specific restriction enzyme, the resulting fragments are analyzed by Southern blot analysis.
+These fragments will produce a specific pattern for that individual.
+Southern blotting is also used for other molecular biology procedures, including gene identification and isolation.
+Other blotting methods that employ similar principles have been developed.

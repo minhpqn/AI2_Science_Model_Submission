@@ -1,0 +1,20 @@
+Were there other resonance points that could have been heard?
+If so what would be the length of the wavelength?
+(d) What are the inherent errors in this experiment?
+Peter is playing tones by blowing across the top of a glass bottle partially filled with water.
+He notices that if he blows softly he hears a lower note, but if he blows harder he hears higher frequencies. (a) In the 120 cm long tubes below draw three diagrams showing the first three harmonics produced in the tube.
+Please draw the waves as transverse even though we know sound waves are longitudinal (reason for this, obviously, is that it is much easier to draw transverse waves rather than longitudinal).
+Note that the tube is CLOSED at one end and OPEN at the other. (b) Calculate the frequencies of the first three harmonics played in this tube, if the speed of sound in the tube is 340 m/s. (c) The speed of sound in carbon dioxide is lower than in air.
+If the bottle contained CO2 instead of air, would the frequencies found above be higher or lower?
+Knowing that the pitch of your voice gets higher when you inhale helium, what can we say about the speed of sound in He .
+(b) 131 Hz, 262 Hz, 393 Hz; formula is same as closed at both ends
+Discuss in class
+(b) 70.8 Hz, 213 Hz, 354 Hz (c) voice gets lower pitch.
+Speed of sound in He must be faster by same logic.
+Describe how standing waves form through constructive interference.
+Solve standing wave problems where either both ends are constrained or neither of the ends are constrained.
+Students will learn how standing waves form through constructive interference and how to solve standing wave problems where either both ends are constrained or neither of the ends are constrained.
+Standing waves for a string restricted at both ends or unrestricted at both ends
+f_n = \frac{n v}{2L} \; \text{ ; n is an integer}
+A typical standing wave is shown below.
+This is the motion of a simple jump-rope.

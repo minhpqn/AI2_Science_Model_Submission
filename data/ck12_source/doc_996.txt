@@ -1,0 +1,20 @@
+Suppose then, that you repeat the throw except this time, you toss the ball while the car is moving toward your brother at 10 m/s.
+This time, the ball will move, relative to you, with a velocity of 10 m/s but it will move, relative to your brother, with a velocity of 20 m/s.
+In this case, the velocity of the source of the ball is added to the velocity of the ball to get the velocity relative to a stationary observer.
+Common sense would tell us that if we did this same experiment with light, that is, shine a flashlight off the hood of a moving car in the same direction the car is moving, the velocity of the light relative to a stationary observer would be increased by the velocity of the car.
+In fact, such an increase in the speed of light has never been found.
+In fact, in experiments carried out to test for the effect of the movement of the source on the speed of light (Michelson-Morley), the results indicate that the speed of light is completely unaffected by the motion of the source.
+It appears that the speed of light in a vacuum is constant regardless of relative motion.
+Hence, the suggestion in postulate 2.
+The speed of light in a vacuum is the same for all observers regardless of their relative motion or the motion of the source of the light.
+The special theory of relativity copes with the results of the Michelson-Morley experiments much better than does classical mechanics, but it also has some surprising consequences.
+For example, according to the theory of special relativity,
+Two events that occurred simultaneously for one observer were not simultaneous for another observer if the two observers had relative motion to each other. (Relativity of simultaneity).
+Clocks in a moving frame of reference tick more slowly than an observer’s “stationary” clock. (Time dilation).
+Objects are measured to be shorter in the direction that they are moving with respect to a stationary observer. (Length contraction).
+E = mc^2 , energy and mass are equivalent and transmutable. (Mass-energy equivalence).
+No physical object can travel faster than the speed of light in a vacuum. (Maximum speed is finite).
+Photon bouncing off a mirror in a stationary rocket
+Suppose we are in a rocket ship sitting at rest on the earth and we turn on an overhead light.
+The light will travel downward (and all other directions as well) and land on the table below.
+The observer in the rocket ship can measure the distance traveled to the table, the time required for the light to arrive on the table and an average velocity for the light.

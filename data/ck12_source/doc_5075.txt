@@ -1,0 +1,20 @@
+To make ATP, energy must be "transported" - first from glucose to NADH, and then somehow passed to ATP.
+How is this done?
+With an electron transport chain, the third stage of aerobic respiration.
+This third stage uses energy to make energy.
+The Electron Transport Chain:
+ATP for Life in the Fast Lane
+At the end of the Krebs Cycle, energy from the chemical bonds of glucose is stored in diverse energy carrier molecules: four ATPs, but also two FADH 2 and ten NADH molecules.
+The primary task of the last stage of cellular respiration, the electron transport chain , is to transfer energy from the electron carriers to even more ATP molecules, the “batteries” which power work within the cell.
+Pathways for making ATP in stage 3 of aerobic respiration closely resemble the electron transport chains used in photosynthesis.
+In both electron transport chains, energy carrier molecules are arranged in sequence within a membrane so that energy-carrying electrons cascade from one to another, losing a little energy in each step.
+In both photosynthesis and aerobic respiration, the energy lost is harnessed to pump hydrogen ions into a compartment, creating an electrochemical gradient or chemiosmotic gradient across the enclosing membrane.
+And in both processes, the energy stored in the chemiosmotic gradient is used with ATP synthase to build ATP.
+For aerobic respiration, the electron transport chain or “respiratory chain” is embedded in the inner membrane of the mitochondria ( Figure below ).
+The FADH 2 and NADH molecules produced in glycolysis and the Krebs Cycle, donate high-energy electrons to energy carrier molecules within the membrane.
+As they pass from one carrier to another, the energy they lose is used to pump hydrogen ions into the mitochondrial intermembrane space, creating an electrochemical gradient.
+Hydrogen ions flow “down” the gradient – from outer to inner compartment – through the ion channel/enzyme ATP synthase, which transfers their energy to ATP.
+Note the paradox that it requires energy to create and maintain a concentration gradient of hydrogen ions that are then used by ATP synthase to create stored energy (ATP).
+In broad terms, it takes energy to make energy.
+Coupling the electron transport chain to ATP synthesis with a hydrogen ion gradient is chemiosmosis , first described by Nobel laureate Peter D.
+Mitchell.

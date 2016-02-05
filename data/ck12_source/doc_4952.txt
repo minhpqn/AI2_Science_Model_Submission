@@ -1,0 +1,20 @@
+Active transport in which solutes are moved against their concentration gradients; fueled by ATP.
+redox energy :
+Energy that is either stored or released by redox reactions.
+secondary active transport :
+Active transport in which one substance moves along its electrochemical gradient, allowing a different substance to move against its own electrochemical gradient; also known as cotransport.
+symport :
+The secondary active transport process of transporting two or more different molecules or ions across a phospholipid membrane in the same direction.
+symporter :
+An integral membrane protein involved in secondary active transport; transports two or more different molecules or ions across a phospholipid membrane in the same direction.
+Active transport moves molecules across a cell membrane from an area of lower concentration to an area of higher concentration.
+Active transport requires the use of energy.
+The active transport of small molecules or ions across a cell membrane is generally carried out by transport proteins that are found in the membrane.
+During antiport and symport two substances are cotransported.
+Diffusion, Osmosis and Active Transport at
+Click on the image above for more content
+What is active transport?
+Describe the main difference between primary and secondary active transport.
+Explain antiport and symport.
+The Sodium-Potassium Pump - Advanced
+Explain how different types of active transport occur.

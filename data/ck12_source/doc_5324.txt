@@ -1,0 +1,20 @@
+Describe the importance of the finding that in DNA, the amount of adenine and thymine were about the same and that the amount of guanine and cytosine were about the same.
+How do these four structures form DNA?
+In an extremely elegant model, that's how.
+The model of DNA predicts how the DNA sequence can code for proteins, and how the molecule can be replicated.
+But one initial significant step was to understand the base-pairing rules.
+It was known that DNA is composed of nucleotides , each of which contains a nitrogen-containing base, a five-carbon sugar (deoxyribose), and a phosphate group.
+In these nucleotides, there is one of the four possible bases: adenine (A), guanine (G), cytosine (C), or thymine (T) ( Figure below ).
+Adenine and guanine are purine bases, and cytosine and thymine are pyrimidine bases.
+Chemical structure of the four nitrogenous bases in DNA.
+Notice how the purines (A and G) are composed of two ring structures, whereas the pyrimidines (T and C) are composed of one ring structure.
+The DNA of all species has the same four nitrogen bases.
+Erwin Chargaff (1905-2002), an Austrian-American biochemist from Columbia University, analyzed the base composition of the DNA of various species.
+This led him to propose two main rules that have been appropriately named Chargaff's rules .
+Chargaff determined that in DNA, the amount of one base, a purine, always approximately equals the amount of a particular second base, a pyrimidine.
+Specifically, that in any double-stranded DNA the number of guanine units equals approximately the the number of cytosine units and the number of adenine units equals approximately the number of thymine units.
+Human DNA is 30.9% A and 29.4% T, 19.9% G and 19.8% C.
+The rule constitutes the basis of base pairs in the DNA double helix:
+A always pairs with T, and G always pairs with C.
+He also demonstrated that the number of purines (A+G) always approximates the number of pyrimidines (T+C), an obvious consequence of the base-pairing nature of the DNA double helix.
+In 1947 Chargaff showed that the composition of DNA, in terms of the relative amounts of the A, C, G and T bases, varied from one species to another.

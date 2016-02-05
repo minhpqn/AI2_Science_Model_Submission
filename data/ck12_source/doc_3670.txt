@@ -1,0 +1,20 @@
+Therefore, the parent with purple flowers must have the genotype Bb .
+Punnett Square for Two Characteristics
+When you consider more than one characteristic at a time, using a Punnett square is more complicated.
+This is because many more combinations of alleles are possible.
+For example, with two genes each having two alleles, an individual has four alleles, and these four alleles can occur in 16 different combinations.
+This is illustrated for pea plants in Figure below .
+In this cross, known as a dihybrid cross , both parents are heterozygous for pod color ( Gg ) and pod form ( Ff ).
+Punnett square for two characteristics
+Punnett Square for Two Characteristics.
+This Punnett square represents a cross between two pea plants that are heterozygous for two characteristics.
+G represents the dominant allele for green pod color, and g represents the recessive allele for yellow pod color.
+F represents the dominant allele for full pod form, and f represents the recessive allele for constricted pod form.
+A Punnett square is a chart that allows you to determine the expected percentages of different genotypes in the offspring of two parents.
+A Punnett square allows the prediction of the percentages of phenotypes in the offspring of a cross from known genotypes.
+A Punnett square can be used to determine a missing genotype based on the other genotypes involved in a cross.
+Click on the image above for more content
+Use this resource to answer the questions that follow.
+\rightarrow Non-Majors Biology \rightarrow Search:
+The Punnett Square
+What is a Punnett square?

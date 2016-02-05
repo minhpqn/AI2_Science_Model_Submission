@@ -1,0 +1,20 @@
+A switch is flipped connecting the circuit to a 12 V battery.
+How long until the capacitor has 2/3 of the total charge across it?
+How long until the capacitor has 99% of the total charge across it?
+What is the total charge possible on the capacitor?
+Will it ever reach the full charge in part c.?
+Derive the formula for V(t) across the capacitor.
+Draw the graph of V vs. t for the capacitor.
+Draw the graph of V vs. t for the resistor.
+If you have a 39 \mu \mathrm{F} capacitor and want a time constant of 5 seconds, what resistor value is needed?
+Answers to Selected Problems
+a. 0 V b. 10 V
+3.3 \;\mathrm{F} b. 54 \ \Omega
+a. 0.43 seconds b. 1.8 seconds c.  4.7 \times 10^{-4} \text{C} d.
+No, it will asymptotically approach it. e.
+The graph is same shape as the Q(t) graph.
+It will rise rapidly and then tail off asymptotically towards 12 V. f.
+The voltage across the resistor is 12 V minus the voltage across the capacitor.
+Thus, it exponentially decreases approaching the asymptote of 0 V.
+about 128 \text{k} \Omega
+Solve capacitor circuits.

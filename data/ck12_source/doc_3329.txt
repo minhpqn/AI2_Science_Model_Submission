@@ -1,0 +1,20 @@
+Q:
+A common cause of electric hazards and fires is a short circuit.
+Do you know what a short circuit is?
+A:
+As its name suggests, a short circuit is damage that allows electric current to travel through a shorter loop than it should.
+To find out how this can occur and why it is dangerous, keep reading.
+How a Short Circuit Occurs
+Did you ever see an old appliance with a damaged cord, like the old shown in the Figure below ?
+A damaged electric cord can cause a severe shock if it allows current to pass from the cord to a person who touches it.
+A damaged cord can also cause a short circuit.
+A short circuit occurs when electric current follows a shorter path than the intended loop of the circuit.
+An electric cord contains two wires: one that carries current from the outlet to the appliance and one that carries current from the appliance back to the outlet.
+If the two wires in a damaged cord come into contact with each other, current flows from one wire to the other and bypasses the appliance.
+This may cause the wires to overheat and start a fire.
+Frayed cords are dangerous
+Electric Safety Features
+Because electricity can be so dangerous, safety features are built into modern electric circuits and devices.
+They include three-prong plugs, circuit breakers, and GFCI outlets.
+You can read about these three safety features in the Figure below .
+You can learn more about electric safety features in the home by watching the video at this URL:

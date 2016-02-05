@@ -1,0 +1,20 @@
+Kaposi's sarcoma : a type of cancer that is caused by Kaposi's sarcoma-associated herpesvirus (KSHV).
+Life cycle of HIV
+Lifecycle of HIV.
+The image at bottom right is an SEM of HIV budding from cultured lymphocyte.
+The many round bumps on the cell surface are sites of assembly and budding of virions.
+An HIV Infection
+An HIV infection of a CD4 cell can be summarized as follows:
+First, the viral particle attaches to the CD4 receptor and other associated receptors on the cell membrane.
+The viral envelope then fuses with the cell membrane, and the viral capsid moves into the cell.
+Once the viral capsid enters the cell, reverse transcriptase frees the single-stranded RNA from the viral proteins and copies it into a complementary strand of DNA.
+This process of reverse transcription is error-prone and it is during this step that mutations may occur.
+Such mutations may cause drug resistance.
+The reverse transcriptase then makes a complementary DNA strand to form a double-stranded viral DNA (vDNA).
+The vDNA is then moved into the cell nucleus.
+The integration of the viral DNA into the host cell's genome is carried out by another viral enzyme called integrase .
+This integrated viral DNA may then lie dormant, during the latent stage of the HIV infection.
+Clinical latency for HIV can vary between two weeks and 20 years.
+To actively produce viruses, certain cellular transcription factors need to be present.
+These transcription factors are plentiful in activated T cells.
+This means that those cells most likely to be killed by HIV are those currently fighting infection.

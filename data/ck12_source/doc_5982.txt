@@ -1,0 +1,20 @@
+Why don’t we change the subscripts in order to balance an equation?
+balanced equation:
+A chemical equation in which mass is conserved and there are equal numbers of atoms of each element on both sides of the equation.
+coefficient:
+A small whole number placed in front of a formula in an equation in order to balance it.
+Define combination reaction.
+Write products of combination reactions when given the reactants.
+A wheel contains a wheel rim and a tire, which is an example of a combination reaction
+How useful is a wheel rim?
+A wheel rim is not very useful by itself.
+Driving on the rim can damage it and make for a very rough ride.
+When the rim is combined with a tire, the product can be put on a car and used for a safe and comfortable ride.
+The two separate items have combined to make something that improves the car ride.
+A combination reaction is a reaction in which two or more substances combine to form a single new substance.
+Combination reactions can also be called synthesis reactions.
+The general form of a combination reaction is:
+A+B \rightarrow AB
+One combination reaction is two elements combining to form a compound.
+Solid sodium metal reacts with chlorine gas to produce solid sodium chloride.
+2\text{Na}(s)+\text{Cl}_2 (g) \rightarrow 2\text{NaCl}(s)

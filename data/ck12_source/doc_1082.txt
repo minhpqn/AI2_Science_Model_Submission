@@ -1,0 +1,20 @@
+Greenland looks almost as big the United States.
+Because Greenland is closer to the pole, the continent's shape and size are greatly increased.
+The United States is closer to its true dimensions.
+Why is this true?
+In a Mercator projection, all compass directions are straight lines.
+This makes it a good type of map for navigation.
+The top of the map is north, the bottom is south, the left side is west and the right side is east.
+However, because it is a flat map of a curved surface, a straight line on the map is not the shortest distance between the two points it connects.
+Instead of a cylinder, you could wrap the flat paper into a cone.
+Conic map projections use a cone shape to better represent regions near the poles ( Figure below ).
+Conic projections are best where the cone shape touches the globe.
+This is along a line of latitude, usually the Equator.
+A conic map projection wraps Earth with a cone shape rather than a cylinder
+A conic map projection wraps Earth with a cone shape rather than a cylinder.
+What if you want a different approach?
+Let's say you don't want to wrap a flat piece of paper around a round object.
+You could put a flat piece of paper right on the area that you want to map.
+This type of map is called a gnomonic map projection ( Figure below ).
+The paper only touches Earth at one point.
+The sizes and shapes of countries near that point are good.

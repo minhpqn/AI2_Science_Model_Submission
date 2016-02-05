@@ -1,0 +1,20 @@
+Portrait of Daniel Gabriel Fahrenheit
+Daniel Gabriel Fahrenheit.
+The Celsius scale of the metric system is named after Swedish astronomer Anders Celsius (1701-1744).
+The Celsius scale sets the freezing point and boiling point of water at 0°C and 100°C respectively.
+The distance between those two points is divided into 100 equal intervals, each of which is one degree.
+Another term sometimes used for the Celsius scale is “centigrade” because there are 100 degrees between the freezing and boiling points of water on this scale.
+However, the preferred term is “Celsius.”
+Portrait of Andres Celsius
+The Kelvin temperature scale is named after Scottish physicist and mathematician Lord Kelvin (1824-1907).
+It is based on molecular motion, with the temperature of 0 K, also known as absolute zero, being the point where all molecular motion ceases.
+The freezing point of water on the Kelvin scale is 273.15 K, while the boiling point is 373.15 K.
+Notice that here is no “degree” used in the temperature designation.
+Unlike the Fahrenheit and Celsius scales where temperatures are referred to as “degrees F” or “degrees C,” we simply designated temperatures in the Kelvin scale as kelvins.
+Portrait of Lord Kelvin
+As can be seen by the 100 kelvin difference between the two, a change of one degree on the Celsius scale is equivalent to the change of one kelvin on the Kelvin scale.
+Converting from one scale to another is easy, as you simply add or subtract 273.
+Comparison between the Celsius and Kelvin scales
+Comparison between Kelvin and Celsius temperature scales.
+Temperature is a measure of the average kinetic energy of the particles in matter.
+The Fahrenheit scale defines the freezing point of water as 32°F and the boiling point as 212°F.

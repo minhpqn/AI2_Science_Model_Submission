@@ -1,0 +1,20 @@
+It is the second mutation in the tumor suppressor gene that could lead to uncontrolled cell growth and possibly cancer.
+Gene expression, signal transduction, the cell cycle and oncogenes seem to have an interconnected relationship with each other inside the cell.
+Both oncogenes and tumor suppressor genes play an important role in gene regulation and cell proliferation ( Figure below ).
+As stated above, numerous oncogenes are involved in gene expression.
+Signal transduction pathways are filled with proteins involved in ultimately altering gene expression (see the Cell Communication:
+Signal Transduction (Advanced) concept).
+Anytime one of the involved proteins is altered, such as when its gene is mutated, gene expression can be altered.
+How Cancer Develops.
+This flow chart shows how a series of mutations in tumor-suppressor genes and proto-oncogenes leads to cancer.
+The products of proto-oncogenes are required for normal growth, repair and homeostasis.
+However, when these genes are mutated, they turn into oncogenes and play a role in the development of cancer.
+Proto-oncogenes may be growth factors, transcription factors, or other proteins involved in regulation.
+A very common oncogene, ras , is normally a regulatory GTPase that switches a signal transduction chain on and off.
+Ras and Ras-related proteins are products of oncogenes found in 20% to 30% of human tumors.
+The transcription factor myc is an oncogene often seen mutated in Burkitt’s lymphoma, a rare type of lymphoma, a cancer of the lymphocytes.
+Ras is a G protein , a regulatory GTP hydrolase that cycles between an activated and inactivated form.
+When a growth factor binds to its receptor on the outside of the cell, a signal is relayed to Ras.
+As a G protein, Ras is activated when GTP is bound to it.
+The active Ras then passes the signal to a series of protein kinases, regulatory proteins that eventually activate transcription factors to alter gene expression and produce proteins that stimulate the cell cycle ( Figure below ).
+One important recipient of Ras signaling is the mitogen-activated protein kinases (MAPK) .

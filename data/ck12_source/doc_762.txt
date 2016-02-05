@@ -1,0 +1,20 @@
+The problem with fuses is they only work once.
+Every time you blow a fuse, you have to replace it with a new one.
+Like a fuse, a  circuit breaker  opens the circuit if the current reaches unsafe levels.
+Unlike a fuse, however, a circuit breaker can be used over and over again.
+The basic circuit breaker consists of a simple  switch , connected to an electromagnet.
+The diagram below shows a typical basic circuit breaker design.
+Diagram of a circuit breaker
+The red wire is the electrical circuit and is closed when the two contact points are connected.  When the switch is in the on position, electricity can flow through the red circuit, through the electromagnet, and out into the rest of the circuit.
+The electricity magnetizes the electromagnet.
+Increasing the current boosts the electromagnet's magnetic force, while decreasing the current reduces the magnetic force.
+When the current reaches an unsafe level, the electromagnet's magnetic field becomes strong enough to act on the soft iron bar, which is holding the left red wire in contact.
+When the soft iron bar is pulled down, the spring attached to the left red wire will lift the wire and break the circuit, causing the electricity to shut off.
+Once the circuit is broken, the electromagnet no longer emits a magnetic field, and the system can be reset by pushing the reset button.
+The reset button pushes the left red wire back in contact with the right red wire and also re-engages the soft iron bar that holds the contact in place.
+More advanced circuit breakers use electronic components (semiconductor devices) to monitor current levels rather than simple electrical devices.
+These elements are a lot more precise, and they shut down the circuit more quickly, but they are also a lot more expensive.
+For this reason, most houses still use conventional electric circuit breakers.
+When circuit breakers pop open due to excessive current, you do not have to replace the circuit breaker, you simply push a reset button.
+Of course, if the reason that the circuit breaker popped open is still present (like a short circuit), the circuit will simply pop open again when you reset it.
+When a circuit breaker pops open, you should determine the reason it opened and fix the problem before resetting the circuit breaker.

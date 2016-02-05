@@ -1,0 +1,20 @@
+Do alcohols dissociate in water?
+Do polyatomic ions dissociate when dissolved in water?
+Write the equation for the dissociation of KBr in water.
+Write the equation for the dissociation of NH 4 Cl in water.
+dissociation:  The separation of ions that occurs when a solid ionic compound dissolves.
+Strong and Weak Electrolytes
+Define strong electrolyte.
+Define weak electrolyte.
+Explain how to write equations for a weak electrolyte in solution.
+A car battery contains the strong electrolyte sulfuric acid
+Can car batteries be hazardous?
+Car batteries, like the one shown above, are used around the world to provide the power to start car engines.  One essential component of car batteries is the strong electrolyte sulfuric acid.  In the battery, this material ionizes into hydrogen ions and sulfate ions.
+As the battery is used, the concentrations of these ions decrease.
+Older batteries had openings in the top where new sulfuric acid could be added to replenish the supply.  Today, batteries are sealed to prevent leakage of the hazardous sulfuric acid.
+Strong and Weak Electrolytes
+Some polar molecular compounds are nonelectrolytes when they are in their pure state, but become electrolytes when they are dissolved in water.  Hydrogen chloride (HCl) is a gas in its pure molecular state and is a nonelectrolyte.  However, when HCl is dissolved in water, it conducts a current well because the HCl molecule ionizes into hydrogen and chloride ions.
+HCl( g ) → H + ( aq ) + Cl - ( aq )
+When HCl is dissolved into water, it is called hydrochloric acid.
+Ionic compounds and some polar compounds are completely broken apart into ions and thus conduct a current very well.  A strong electrolyte is a solution in which a large fraction of the dissolved solute exists as ions.
+Some other polar molecular compounds become electrolytes upon being dissolved into water, but do not ionize to very great extent.  Gaseous nitrous acid ionizes in solution into hydrogen ions and nitrite ions, but does so very weakly.  Aqueous nitrous acid is composed of only about 5% ions and 95% intact nitrous acid molecules.  A weak electrolyte is a solution in which only a small fraction of the dissolved solute exists as ions.  The equation showing the ionization of a weak electrolyte utilizes a double arrow indicating an equilibrium between the reactants and products.

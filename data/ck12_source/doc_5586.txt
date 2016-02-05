@@ -1,0 +1,20 @@
+You can learn more about prefixes at
+There are a couple of odd little practices with the use of metric abbreviations.
+Most abbreviations are lower-case.
+We use “m” for meter and not “M”.
+However, when it comes to volume, the base unit “liter” is abbreviated as “L” and not “l”.
+So we would write 3.5 milliliters as 3.5 mL.
+As a practical matter, whenever possible you should express the units in a small and manageable number.
+If you are measuring the weight of a material that weighs 6.5 kg, this is easier than saying it weighs 6500 g or 0.65 dag.
+All three are correct, but the kg units in this case make for a small and easily managed number.
+However, if a specific problem needs grams instead of kilograms, go with the grams for consistency.
+Metric prefixes derive from Latin or Greek terms.
+The prefixes are used to make the units manageable.
+Do the online metric system crossword puzzle at
+Click on “metric system” to get to the puzzle
+What is the prefix for “thousand”?
+What is the prefix for 0.01?
+How would you write 500 milliliters?
+How many decimeters in one meter?
+You have a mass that weighs 1.2 hectograms.
+How many grams does it weigh?

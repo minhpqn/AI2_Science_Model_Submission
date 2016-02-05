@@ -1,0 +1,20 @@
+A cis-regulatory element may be located in a gene’s promoter region, in an intron, or in the 3' region.
+A regulatory protein , or a transcription factor , is a protein involved in regulating gene expression.
+It is usually bound to a cis-regulatory element.
+Regulatory proteins often must be bound to a cis-regulatory element to switch a gene on (activator), or to turn a gene off (repressor).
+Common cis-regulatory elements include the TATA box, Pribnow box and CCAAT box.
+More about transcription factors will be discussed in the Regulation of Gene Expression:
+Transcription Factors (Advanced) concept.
+The TATA Box
+The TATA box is a cis-regulatory element found in the promoter region of genes in archaea and eukaryotes.
+It is a highly conserved sequence, believed to have remained consistent throughout much of the evolution.
+Approximately 24% of human genes contain a TATA box within the core promoter.
+The TATA box has the core DNA sequence 5'-TATAAA-3' or a slight variant.
+It is usually located 25 base pairs upstream of the transcription start site.
+During transcription, the TATA binding protein binds to the TATA box.
+This protein helps unwind the DNA double helix, allowing RNA polymerase II to bind and begin transcription.
+However, prior to RNA polymerase binding to the promoter, the TATA binding protein interacts with other factors to form TFIID, a general transcription factor that is part of the RNA polymerase II preinitiation complex.
+TFIIA binds to the upstream part of TFIID while TFIIB binds to the downstream part of TFIID.
+Now RNA polymerase recognizes this multi-protein complex and binds to it, along with various other transcription factors, initiating transcription.
+RNA polymerase moves along the DNA strand, leaving TFIID and TFIIA bound to the TATA box where they can then facilitate the binding of additional RNA polymerase II molecules.
+The complex of RNA polymerase II and various transcription factors is known as a basal transcriptional complex (BTC) .

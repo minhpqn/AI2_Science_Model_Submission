@@ -1,0 +1,20 @@
+mol SO 2 → mol O 2 → g O 2
+Step 2:
+Solve.
+4.60 \text{ mol SO}_2 \times \frac{3 \text{ mol O}_2}{2 \text{ mol SO}_2} \times \frac{32.00 \text{ g O}_2}{1 \text{ mol O}_2}=221 \text{ g O}_2
+Step 3:
+Think about your result.
+According to the mole ratio, 6.90 mol O 2 is produced with a mass of 221 g.
+The answer has three significant figures because the given number of moles has three significant figures.
+Calculations involving conversions of mass to moles and moles to mass are described.
+Work problems 11-20 at the link below:
+In the first problem, what would happen if you multiply grams Sn by 118.69 grams/mole Sn?
+Why is a balanced equation needed?
+Does the physical form of the material matter for these calculations?
+mass-mole calculations: mass of given  \rightarrow moles of given  \rightarrow moles of unknown
+mole-mass calculations: moles of given  \rightarrow moles of unknown  \rightarrow mass of unknown
+Perform calculations involving the determination of the mass of product based on the given mass of the reactant.
+Calculating the mass of nails you need requires stoichiometry
+How many walnuts are needed to equal 250 grams?
+I want to send 250 grams of shelled walnuts to a friend (don’t ask why – just go with the question).
+How many walnuts in shells do I need to buy?

@@ -1,0 +1,20 @@
+Chromosome, gene, locus and alleles are all related.
+What is the different between a gene and a locus?
+Between a gene and an allele?
+Chromosomes are composed of genes located at specific loci.
+And genes have different alleles.
+If genes did not have different alleles, we would genetically be all the same.
+What does that mean?
+Mendelian Theory and Molecular Genetics
+Mendel was perhaps lucky in that the characteristics he chose to study in the pea plants had a relatively simple pattern of inheritance.
+These characteristics were determined by one gene for which there were exactly two alleles .
+One of these alleles was dominant and the other recessive.
+Had any of these characteristics been determined by more than one gene, he may not have been able to develop such amazing insight into inheritance.
+Unknowingly, he also analyzed characteristics that were not linked, that is, there were not inherited together; the inheritance of one trait did not effect the inheritance of any other trait.
+Keep in mind that Mendel did not know of DNA, chromosomes, genes, loci or alleles, and described his findings in terms of heritable factors.
+Nor did he know of meiosis or linked genes.
+In many instances, the relationship between genes and inheritance is more complex than that which Mendel found.
+Nevertheless, geneticists have since found that Mendel’s findings can be applied to many organisms.
+For example, there are clear patterns of Mendelian inheritance in humans.
+These include the inheritance of normal characteristics and characteristics that occur less often.
+Easily observable Mendelian traits in humans include free ear lobes (in most people the ear lobes hang free (dominant), whereas the attached earlobe is recessive), hitchhiker's thumb (a straight thumb is dominant, while a bent thumb is recessive), widow's peak (a hairline with a distinct point in the middle of the forehead is dominant, while a straight hairline is recessive), dimpled chin (a cleft in the chin is dominant, whereas the absence of a cleft is recessive), and mid-digital hair (hair on any middle segments of the fingers is dominant).

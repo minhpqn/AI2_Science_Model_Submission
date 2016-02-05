@@ -1,0 +1,20 @@
+What do the dark areas in an X-ray image represent?
+A:
+The dark areas represent materials that do not absorb X-rays.
+Instead, the X-rays pass through these areas.
+For example, in the X-ray image pictured in the Figure above , the bag doesn't show up because X-rays pass through the soft cloth, but not the dense objects inside.
+Dangers of X-Rays
+Because X-rays are so energetic, they can penetrate many substances, including living cells.
+Therefore, too much X-ray exposure can be dangerous.
+It may damage cells and cause cancer.
+If you’ve had dental X-rays, you may have noticed that a heavy apron was placed over your body to protect it from stray X-rays.
+Protective aprons like this are made of lead, which X-rays can’t pass through.
+Electromagnetic waves vary in their frequencies and wavelengths, and waves with higher frequencies have greater energy.
+The electromagnetic spectrum represents the full range of frequencies of electromagnetic waves.
+X-rays are high-frequency electromagnetic waves with more energy than any other electromagnetic waves except gamma rays.
+X-rays are used to make images of bones and teeth inside the body and to see inside luggage at airports.
+X-rays can penetrate the body, damage cells, and cause cancer.
+Watch the animation about X-rays at the following URL.
+Then fill in the blanks in the paragraph below.
+An X-ray machine has a cathode and an anode.
+The cathode releases __________, which are attracted to the anode.

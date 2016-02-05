@@ -1,0 +1,20 @@
+Light passes from water into a block of transparent plastic.
+The angle of incidence from the water is 31^\circ  and the angle of refraction in the block is 27^\circ .  What is the index of refraction for the plastic?
+The index of refraction of water is 1.36.  What is the speed of light in water?
+If the speed of light in a piece of plastic is 2.00 \times 10^8 \ m/s , what is the index of refraction for the plastic?
+refraction :
+The change of direction of a ray of light or sound in passing obliquely from one medium into another in which its wave velocity is different.
+optically dense:
+Refers to the ability of a material to slow the light waves.
+The greater the optical density of a material, the greater the slowing effect.
+Snell’s Law:
+For a light ray incident on the interface of two media, the sine of the angle of incidence times the index of refraction of the first medium is equal to the sine of the angle of refraction times the index of refraction of the second medium.
+index of refraction:
+The ratio of the speed of light in a vacuum to the speed of light in a medium under consideration.
+mirage:
+An optical phenomenon that creates the illusion of water, often with inverted reflections of distant objects, and results from the refraction of light by alternate layers of hot and cool air.
+Total Internal Reflection
+Describe total internal reflection.
+Use the critical angle to determine when total internal reflection will occur.
+Total internal reflection in a fiber optic cable
+Total internal reflection allows the light to travel down the optical fiber and not pass through the sides of the tube.  The light continuously reflects from the inside of the tube and eventually comes out the end.

@@ -1,0 +1,20 @@
+lac operon :
+An operon required for the transport and metabolism of lactose in E. coli.
+leader peptide :
+Translation product of a bacterial attenuator sequence; not part of a structural gene.
+operator :
+A region of prokaryotic DNA where a repressor protein binds.
+operon :
+A region of prokaryotic DNA with a promoter, an operator, and one or more genes that encode proteins needed to perform a certain task.
+repressor :
+A protein that binds to non-coding sequences on the DNA (operator) that are close to or overlap the promoter region, impeding RNA polymerase's progress along the strand.
+trp operon :
+An operon that codes for the components for production of the amino acid tryptophan.
+Prokaryotic genes are arranged in operons, regions of DNA with a promoter, an operator, and one or more genes that encode proteins needed to perform a certain task.
+The regulation of the lac operon is a key example of prokaryotic gene regulation.
+When lactose is present, RNA polymerase binds to the promoter and the operon is turned on; when lactose is unavailable, the lac repressor binds to the operator and the operon is turned off.
+The trp operon is an example of negative regulation.
+The trp operon is also regulated by attenuation, a process involving RNA secondary structures.
+Use this resource to answer the questions that follow.
+Genes can be turned on and off at
+How do bacteria break large sugars into smaller ones?

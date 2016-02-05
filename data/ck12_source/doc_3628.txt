@@ -1,0 +1,20 @@
+This is known as random fertilization.
+All of these mechanisms working together result in an amazing amount of potential variation.
+Each human couple, for example, has the potential to produce more than 64 trillion genetically unique children.
+No wonder we are all different!
+See Sources of Variation at for additional information.
+Crossing-over occurs during prophase I, and it is the exchange of genetic material between non-sister chromatids of homologous chromosomes.
+Recall during prophase I, homologous chromosomes line up in pairs, gene-for-gene down their entire length, forming a configuration with four chromatids, known as a tetrad .
+At this point, the chromatids are very close to each other and some material from two chromatids switch chromosomes, that is, the material breaks off and reattaches at the same position on the homologous chromosome ( Figure below ).
+This exchange of genetic material can happen many times within the same pair of homologous chromosomes, creating unique combinations of genes.
+This process is also known as recombination .
+Crossing-over in meiosis
+Crossing-over.
+A maternal strand of DNA is shown in red.
+A paternal strand of DNA is shown in blue.
+Crossing over produces two chromosomes that have not previously existed.
+The process of recombination involves the breakage and rejoining of parental chromosomes (M, F).
+This results in the generation of novel chromosomes (C1, C2) that share DNA from both parents.
+Independent Assortment and Random Fertilization
+In humans, there are over 8 million configurations in which the chromosomes can line up during metaphase I of meiosis.
+It is the specific processes of meiosis, resulting in four unique haploid cells, that result in these many combinations.

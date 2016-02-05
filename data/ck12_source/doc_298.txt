@@ -1,0 +1,20 @@
+The performer’s feet touch the ground 9.00 m below where the rope is tied.
+How fast is the performer moving at the bottom of the arc?
+A skier starts from rest at the top of a 45.0 m hill, coasts down a  30^\circ slope into a valley, and continues up to the top of a 40.0 m hill.  Both hill heights are measured from the valley floor.  Assume the skier puts no effort into the motion (always coasting) and there is no friction.
+How fast will the skier be moving on the valley floor?
+How fast will the skier be moving on the top of the 40.0 m hill?
+A 2.00 kg ball is thrown upward at some unknown angle from the top of a 20.0 m high building.
+If the initial magnitude of the velocity of the ball is 20.0 m/s, what is the magnitutde of the final velocity when it strikes the ground?
+Ignore air resistance.
+If a 2.00 kg ball is thrown straight upward with a KE of 500 J, what maximum height will it reach?
+Neglect air resistance.
+conservation of energy:
+An empirical law of physics (meaning it cannot be derived), states that the total amount of energy within an isolated system is constant.
+Although energy can be transformed from one form into another, energy cannot be created or destroyed
+closed system:
+Means it cannot exchange any of heat, work, or matter with the surroundings.
+mechanical energy:
+The sum of potential energy and kinetic energy.
+Elastic and Inelastic Collisions
+Describe the difference between elastic and inelastic collisions and indicate what is conserved in each case.
+Solve problems involving elastic collisions using both the conservation of momentum and the conservation of kinetic energy.

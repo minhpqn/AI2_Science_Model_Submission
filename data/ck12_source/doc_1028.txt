@@ -1,0 +1,20 @@
+To explain the difference between correlation and causation, let’s look at an example.
+Sugar consumption in the United States has been rising for decades ( Figure below ).
+There is a positive correlation between sugar consumption and rising average global temperatures.
+American sugar consumption over time
+American consumption of sugar, 1970-2009.
+Is the rise in sugar consumption causing the rise in global temperatures?
+Is the rise in global temperatures causing the rise in sugar consumption?
+These two things aren't impossible, but they are extremely unlikely.
+There’s no mechanism for one to increase the other.
+Here there is correlation, not causation.
+To establish causation we need to know how one would cause the other.
+Fossil Fuel Burning Causes Temperatures to Rise
+Here is a brief outline of the way an increase in CO 2 can increase global temperatures.
+This is a logical step-by-step argument.
+There is no part of this explanation that goes beyond the evidence.
+Greenhouse gases in the atmosphere trap heat.
+CO 2 is a greenhouse gas.
+Burning fossil fuels releases CO 2 into the atmosphere.
+The more greenhouse gases there are in the atmosphere, the more heat can be trapped.
+The more heat that’s trapped, the warmer average global temperatures are.

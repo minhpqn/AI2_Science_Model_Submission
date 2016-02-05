@@ -1,0 +1,20 @@
+Mo and Jo have been traveling through the galaxy for eons when they arrive at the planet Remulak.
+Wanting to measure the gravitational field strength of the planet they drop Mo’s lava lamp from the top deck of their spacecraft, collecting the velocity-time data shown below.
+(a) Plot a velocity-time graph using the axes above.
+Put numbers, labels and units on your axes.
+Then draw a best-fit line (use a ruler) and use that line to find the gravitational field strength of Remulak.
+Explain below how you did that.
+(b) Mo and Jo go exploring and drop a rock into a deep canyon – it hits the ground in 8.4 s.
+How deep is the canyon?
+(c) If the rock has a mass of 25 g and makes a hole in the ground 1.3 cm deep, what force does the ground exert to bring it to a stop?
+(d) Mo and Jo observe the shadows of their lava lamps at different positions on the planet and determine (a la Eratosthenes, the Greek astronomer, around 200 B.C.) that the radius of Remulak is 4500 km.
+Use that and your result for g to find the mass of Remulak.
+Answer to 5
+5a. \sim 3.4 \ m/s^2
+5b. \sim 120 \ m
+5c. \sim 800 \ N
+5d. \sim 10^{23} \ kg
+Gravity and Space Problems
+Apply the universal law of gravity equation in order to determine the parameters of orbits.
+Students will learn to apply the universal law of gravity equation in order to determine the parameters of orbits.
+v = \frac{2 \pi r}{T}

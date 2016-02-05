@@ -1,0 +1,20 @@
+How is it that so many planes are able to fly without running into each other?
+The flight path of a commercial airliner is carefully regulated by the Federal Aviation Administration.
+Each airplane must maintain a distance of five miles from another plane flying at the same altitude and 2,000 feet above and below another aircraft (1,000 feet if the altitude is less than 29,000 feet).
+So, each aircraft only has certain positions it is allowed to maintain while it flies.
+As we explore quantum mechanics, we see that electrons have similar restrictions on their locations.
+We can apply our knowledge of quantum numbers to describe the arrangement of electrons for a given atom.
+We do this with something called electron configurations .
+They are effectively a map of the electrons for a given atom.
+We look at the four quantum numbers for a given electron and then assign that electron to a specific orbital.
+For any value of n , a value of  l=0 places that electron in an s orbital .
+This orbital is spherical in shape:
+Picture of s orbitals
+From Table below we see that we can have three possible orbitals when l=1 .
+These are designated as p orbitals and have dumbbell shapes.
+Each of the p orbitals has a different orientation in three-dimensional space.
+Picture of p orbitals
+When l=2 ,  m_l values can be -2, -1, 0, +1, +2 for a total of five d orbitals .
+Note that all five of the orbitals have specific three-dimensional orientations.
+Picture of d orbitals
+The most complex set of orbitals are the f orbitals .

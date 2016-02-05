@@ -1,0 +1,20 @@
+Students will learn how to properly think about efficiency and how to calculate the efficiency of electrical devices.
+P = V \cdot I  ;
+Power in electricity is the voltage multiplied by the current
+E = P \cdot \Delta t \;  ; the electrical energy used is equal to the power dissipated multiplied by the time the circuit is running
+Eff = \frac{P_{out}}{P_{in}}  ;
+Efficiency is the Power out divided by the Power input
+Assuming same time periods:
+Eff = \frac{E_{out}}{E_{in}} = \frac{Work}{E_{in}}
+Conservation of Energy & Electrical Efficiency:
+Electrical energy is useful to us mostly because it is easy to transport and can be easily converted to or from other forms of energy.
+Of course, conversion involves waste, typically as heat.
+Electrical energy consumed can be determined by multiplying power by time (E = P \Delta t) .
+Recall the equations for mechanical and thermal energy/work (PE=mgh, KE=1/2mv^2, Q=mc \Delta T) .
+An important idea is the efficiency of an electrical device: the fraction of electrical energy consumed that goes into doing useful work (E_{out}/E_{in}) , expressed as a percentage.
+You use a 100 W electric motor to lift a 10 kg mass 5 m, and it takes 20 s.
+The electrical energy consumed is E_{elec} = P \cdot t = (100 \ W) (20 \ s) = 2000 \ J
+The work done is against gravity, so we use PE = mgh = (10 \ kg) (10 \ m/s^2) (5 \ m) = 500 \ J
+The efficiency is E_{out}/E_{in} = (500 \ J) / (2000 \ J) = 0.25 = 25\% \ \text{efficient}
+Watch this Explanation
+Click on the image above for more content

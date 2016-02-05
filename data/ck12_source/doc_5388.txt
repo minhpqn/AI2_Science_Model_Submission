@@ -1,0 +1,20 @@
+As this example shows, a frameshift mutation can dramatically change how the codons in mRNA are read.
+This can have a drastic effect on the protein product.
+For a cell or organism to maintain homeostasis, the proteins work in a highly defined and regulated manner.
+It may take just one protein not working correctly to interrupt homeostasis.
+A protein having more or less activity than normal, or a different activity or function, may be enough to interrupt homeostasis.
+Mutations that may result in altered function of the gene product or protein are loss-of-function and gain-of-function mutations, as well as dominant negative mutations.
+Loss-of-function mutations result in a gene product or protein having less or no function.
+These mutations are usually recessive as a dominant normal gene can overcome the effects of the mutation.
+A null allele has a complete loss of function.
+This will result in reduced dosage (amount) of a normal gene product in heterozygous individuals.
+This reduced dosage may result in a normal phenotype.
+Haploinsufficiency results in when a reduced dosage of a normal gene product does not produce a normal phenotype.
+An example of a null allele is the O allele in the human A, B and O blood type system.
+A and B refer to antigens on the surface of red blood cells.
+The alleles for the A-antigen and B-antigen are co-dominant; if both are present, then both are expressed resulting in type AB blood.
+The O blood type allele is a single base change mutated version of the A-antigen allele, resulting in no antigen expressed.
+As no protein product is produced, the allele for the O blood type is a null allele.
+Gain-of-function mutations result in the gene product or protein having a new and abnormal function and usually result in a dominant phenotype.
+Examples of gain of function mutations occur in the thyroid hormone receptor gene.
+The thyroid hormones, triiodothyronine (T3) and thyroxine (T4), are necessary for maintaining an appropriate basal metabolic rate and affect essentially every tissue in the body.

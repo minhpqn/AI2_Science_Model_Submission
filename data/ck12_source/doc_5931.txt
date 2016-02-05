@@ -1,0 +1,20 @@
+Describe hybridization of electrons in sigma and pi bonds.
+Like electrons, humans can't be put into the same place
+How many people do you think are squeezed on this street?
+Our minds can handle two electrons interacting with one another in a sphere of space.
+But then we start putting in double bonds and triple bonds.
+The way we draw these bonds on paper suggests we are squeezing more electrons into the same space, and that doesn’t work.
+Electrons don’t like to be pushed together (especially since they all have negative charges that repel one another).
+So we need a more complex picture that works for all these electrons.
+Sigma and Pi Bonds
+The hybridization model helps explain molecules with double or triple bonds (see Figure below ).  Ethene (C 2 H 4 ) contains a double covalent bond between the two carbon atoms and single bonds between the carbon atoms and the hydrogen atoms.  The entire molecule is planar.
+Geometry of an ethene molecule
+Geometry of ethene molecule.
+As can be seen in the Figure above , the electron domain geometry around each carbon independently is trigonal planar.  This corresponds to sp 2 hybridization.  Previously, we saw carbon undergo sp 3 hybridization in a CH 4 molecule, so the electron promotion is the same for ethene, but the hybridization occurs only between the single s orbital and two of the three p orbitals.  Thus generates a set of three sp 2 hybrids along with an unhybridized 2p z orbital.  Each contains one electron and so is capable of forming a covalent bond.
+Hybridization in ethene
+Hybridization in ethene.
+The three sp 2 hybrid orbitals lie in one plane, while the unhybridized 2p z orbital is oriented perpendicular to that plane.
+The bonding in C 2 H 4 is explained as follows.  One of the three sp 2 hybrids forms a bond by overlapping with the identical hybrid orbital on the other carbon atom.  The remaining two hybrid orbitals form bonds by overlapping with the 1s orbital of a hydrogen atom.  Finally, the 2p z orbitals on each carbon atom form another bond by overlapping with one another sideways.
+It is necessary to distinguish between the two types of covalent bonds in a C 2 H 4 molecule.  A sigma bond ( \sigma bond) is a bond formed by the overlap of orbitals in an end-to-end fashion, with the electron density concentrated between the nuclei of the bonding atoms.  A pi bond ( \pi bond) is a bond formed by the overlap of orbitals in a side-by-side fashion with the electron density concentrated above and below the plane of the nuclei of the bonding atoms.  The Figure below shows the two types of bonding in C 2 H 4 .
+The sp 2 hybrid orbitals are purple and the p z orbital is blue.
+Three sigma bonds are formed from each carbon atom for a total of six sigma bonds total in the molecule.

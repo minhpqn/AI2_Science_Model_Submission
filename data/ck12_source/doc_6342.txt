@@ -1,0 +1,20 @@
+Since the mole ratio of  A:B is 1:1, as [A]  decreases by the amount x , the  [B] increases by the amount x .
+We set up an analysis called ICE , which stands for Initial, Change, and Equilibrium.
+The values in the table represent molar concentrations.
+& \qquad \qquad \qquad \ \ \underline{\;\;
+A \qquad \qquad B \; \; \; \; \; \; \; \;\;\;} \\& \text{Initial} \qquad \qquad \ \ 1.0 \qquad \quad \ \ 1.0 \\ & \text{Change}\qquad \quad \ \ -x \qquad \quad \ +x \\ & \text{Equilibrium} \qquad 1.0 -x \qquad 1.0 +x
+At the new equilibrium position, the values for  A and  B as a function of  x can be set equal to the value of the K_{eq} .
+Then, one can solve for x .
+K_{eq}=2.0=\frac{\left [ B \right ]}{\left [ A \right ]}=\frac{1.0 + x}{1.0 - x}
+Solving for x :
+2.0(1.0-x) &=1.0 + x \\2.0 - 2.0 x &=1.0+x \\3.0 x &=1.0 \\x &=0.33
+This value for  x is now plugged back in to the Equilibrium line of the table and the final concentrations of  A and  B after the reaction is calculated.
+\left [ A \right ]&=1.0-x=0.67 \text{ M} \\\left [ B \right ]&=1.0+x=1.33 \text{ M}
+The value of  K_{eq} has been maintained since \frac{1.33}{0.67}=2.0 .
+This shows that even though a change in concentration of one of the substances in equilibrium causes a shift in the equilibrium position, the value of the equilibrium constant does not change.
+Maintenance of the constant  K_{eq} for a reaction is described.
+Read the material at the link below and answer the following questions:
+What concentration units should be used?
+What quantities should you use for equilibrium problems?
+What must the change in each quantity agree with?
+What is “ x ”?

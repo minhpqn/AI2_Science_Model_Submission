@@ -1,0 +1,20 @@
+We will divide the process into two basic sets of reactions, known as the light reactions, which of course uses sunlight, and the Calvin cycle, which uses carbon dioxide.
+As you study the details, refer frequently to the chemical equation of photosynthesis.
+In the first stage, you’ll discover how chloroplasts transform light energy, and why we owe our ability to breathe to plants!
+chlorophyll :
+The primary pigment of photosynthesis; found in the thylakoid membranes of chloroplasts.
+chloroplast :
+The organelle of photosynthesis; site of photosynthesis.
+electron carrier :
+Molecules that accept and temporarily hold high-energy electrons.
+electron transport chain :
+Series of electron-transport molecules that pass high-energy electrons from molecule to molecule and capture their energy.
+grana (singular: granum ):
+Structure within the chloroplast; consists of stacks of sac-like thylakoid membranes.
+photosystems :
+Group of molecules, including chlorophyll, in the thylakoid membrane of a chloroplast; captures light energy.
+pigment molecules :
+Molecules that absorb specific wavelengths (colors) of light.
+stroma :
+Space outside the thylakoid membranes of a chloroplast; site of the Calvin cycle of photosynthesis.
+Theory of Endosymbiosis :

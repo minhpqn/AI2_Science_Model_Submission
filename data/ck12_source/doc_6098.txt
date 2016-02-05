@@ -1,0 +1,20 @@
+P_2=\frac{3.00 \text{ atm} \times 1118 \text{ K}}{298 \text{ K}}=11.3 \text{ atm}
+Step 3:
+Think about your result.
+The pressure increases dramatically due to large increase in temperature.
+Pressure and temperature at constant volume are directly proportional.
+Work on the problems found at the web site below:
+Explain Gay-Lussac’s Law in terms of the kinetic-molecular theory.
+What would a graph of pressure vs. temperature show us?
+What is the difference in containers in Charles’ Law and Gay-Lussac’s Law?
+Gay-Lussac’s law:
+The pressure of a given mass of gas varies directly with the absolute temperature of the gas, when the volume is kept constant.
+Combined Gas Law
+State the combined gas law.
+Use the law to calculate parameters in general gas problems.
+A refrigerator uses the combined gas law to dissipate heat
+What keeps things cold?
+The modern refrigerator takes advantage of the gas laws to remove heat from a system.
+Compressed gas in the coils (see above) is allowed to expand.
+This expansion lowers the temperature of the gas and transfers heat energy from the material in the refrigerator to the gas.
+As the gas is pumped through the coils, the pressure on the gas compresses it and raises the gas temperature.

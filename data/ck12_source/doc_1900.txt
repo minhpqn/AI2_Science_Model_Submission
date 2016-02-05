@@ -1,0 +1,20 @@
+The principle of cross-cutting relationships states that a fault or intrusion is younger than the rocks that it cuts through.
+The fault cuts through all three sedimentary rock layers (A, B, and C) and also the intrusion (D).
+So the fault must be the youngest feature.
+The intrusion (D) cuts through the three sedimentary rock layers, so it must be younger than those layers.
+By the law of superposition, C is the oldest sedimentary rock, B is younger and A is still younger.
+The full sequence of events is:
+Layer C formed.
+Layer B formed.
+Layer A formed.
+After layers A-B-C were present, intrusion D cut across all three.
+Fault E formed, shifting rocks A through C and intrusion D.
+Weathering and erosion created a layer of soil on top of layer A.
+The oldest rock units lie beneath the younger ones.
+By the principle of cross-cutting relationships (and common sense), we know that something must exist before something else can cut across it.
+The history of a section of rocks can be deciphered using the principles outlined in this concept.
+Use the resource below to answer the questions that follow.
+Stratigraphic Cross Section—Interpreting the Geology at
+Click on the image above for more content
+Look at that geologic cross section.
+Do you think it's possible to determine the geological processes that led to the creation of those rocks in those locations in those orders?

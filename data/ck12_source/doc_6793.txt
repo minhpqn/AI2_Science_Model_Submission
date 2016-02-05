@@ -1,0 +1,20 @@
+Calculate the moment of inertia for rotation around the pivot point, which is supported by the rope with the least tension. (This will be a compound moment of inertia made of three components.)
+Calculate the instantaneous angular acceleration assuming the rope of greatest tension breaks.
+A horizontal beam of weight 60 \;\mathrm{N} and 1.4 \;\mathrm{m} in length has a 100 \;\mathrm{N} weight on the end.
+It is supported by a cable, which is connected to the horizontal beam at an angle of 37 degrees at 1.0 \;\mathrm{m} from the wall.
+Further support is provided by the wall hinge, which exerts a force of unknown direction, but which has a vertical (friction) component and a horizontal (normal) component.
+Find the tension in the cable.
+Find the two components of the force on the hinge (magnitude and direction).
+Find the coefficient of friction of wall and hinge.
+On a busy intersection a 3.00 \;\mathrm{m} beam of 150 \;\mathrm{N} is connected to a post at an angle upwards of 20.0 degrees to the horizontal.
+From the beam straight down hang a 200 N sign 1.00 \;\mathrm{m} from the post and a 500\;\mathrm{N} signal light at the end of the beam.
+The beam is supported by a cable, which connects to the beam 2.00 \;\mathrm{m} from the post at an angle of 45.0 degrees measured from the beam; also by the hinge to the post, which has horizontal and vertical components of unknown direction.
+Find the tension in the cable.
+Find the magnitude and direction of the horizontal and vertical forces on the hinge.
+Find the total moment of inertia around the hinge as the axis.
+Find the instantaneous angular acceleration of the beam if the cable were to break.
+The medieval catapult consists of a 200 \;\mathrm{kg} beam with a heavy ballast at one end and a projectile of 75.0 \;\mathrm{kg} at the other end.
+The pivot is located 0.5 \;\mathrm{m} from the ballast and a force with a downward component of 550 \;\mathrm{N} is applied by prisoners to keep it steady until the commander gives the word to release it.
+The beam is 4.00 \;\mathrm{m} long and the force is applied 0.900 \;\mathrm{m} from the projectile end.
+Consider the situation when the beam is perfectly horizontal.
+Draw a free-body diagram labeling all torques.

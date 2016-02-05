@@ -1,0 +1,20 @@
+This is shown as paths (A) and (B).
+If the cannonball is launched at a fast speed, Earth curves away at the same rate that the cannonball falls.
+The cannonball then goes into a circular orbit, as in path (C).
+If the cannonball is launched even faster, it could go into an elliptical orbit (D).
+It might even leave Earth’s gravity and go into space (E).
+Isaac Newton cannonball orbit
+Isaac Newton explained how a cannonball fired from a high point with enough speed could orbit Earth.
+Unfortunately, Newton’s idea would not work in real life.
+A cannonball launched at a fast speed from Mt.
+Everest would burn up in the atmosphere.
+However, a rocket can launch straight up, then steer into orbit.
+It won't burn up in the atmosphere.
+So a rocket can carry a satellite above the atmosphere and then release the satellite into orbit.
+Satellites have different views depending on their orbit.
+Satellites may be put in a low orbit.
+These satellites orbit from north to south over the poles.
+These satellites view a different part of Earth each time they circle.
+Imaging and weather satellites need this type of view.
+Satellites may be placed so that they orbit at the same rate the Earth spins.
+The satellite then remains over the same location on the surface.

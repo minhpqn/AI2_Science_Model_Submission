@@ -1,0 +1,20 @@
+When higher kinetic energy molecules collide with lower kinetic energy molecules, kinetic energy is passed from the molecules with more kinetic energy to those with less kinetic energy.
+In this way, heat always flows from hot to cold and heat will continue to flow until the two objects have the same temperature.
+The movement of heat from one object to another by molecular collision is called conduction .
+Heat is the energy that flows as a result of a difference in temperature.  We use the symbol  Q for heat.
+Heat, like all forms of energy, is measured in joules.
+The temperature of an object is a measurement of the average kinetic energy of all the molecules of the object.  You should note the difference between heat and temperature.
+Heat is the sum of all the kinetic energies of all the molecules of an object, while temperature is the average kinetic energy of the molecules of an object.
+If an object was composed of exactly three molecules and the kinetic energies of the three molecules are 50 J, 70 J, and 90 J, the heat would be 210 J and the temperature would be 70 J.
+The terms hot and cold refer to temperature.
+A hot object has greater average kinetic energy but may not have greater total kinetic energy.
+Suppose you were to compare a milliliter of water near the boiling point with a bathtub full of water at room temperature.
+The bathtub contains a billion times as many water molecules, and therefore has a higher total kinetic energy and more heat.
+Nonetheless, we would consider the bathtub colder because its average kinetic energy, or temperature, is lower.
+Temperature Scales:
+Celsius and Kelvin
+A thermometer is a device used to measure temperature.
+It is placed in contact with an object and allowed to reach thermal equilibrium with the object (they will have the same temperature).
+The operation of a thermometer is based on some property, such as volume, that varies with temperature.
+The most common thermometers contain liquid mercury, or some other liquid, inside a sealed glass tube.
+The liquid expands and contracts faster than the glass tube.

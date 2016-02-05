@@ -1,0 +1,20 @@
+Eventually, his fame led to an offer from King Frederick II of Denmark & Norway to fund the construction of an astronomical observatory.
+The island of Van was chosen and in 1576, construction began.
+Tycho Brahe spent twenty years there, making observations on celestial bodies.
+During his life, Tycho Brahe did not accept Copernicus’ model of the universe.
+He attempted to combine it with the Ptolemaic model.
+As a theoretician, Tycho was a failure but his observations and the data he collected was far superior to any others made prior to the invention of the telescope.
+After Tycho Brahe’s death, his assistant, Johannes Kepler used Tycho Brahe’s observations to calculate his own three laws of planetary motion.
+In 1600, Johannes Kepler (1571 – 1630) began working as Tycho’s assistant.
+They recognized that neither the Ptolemaic (geocentric) or Copernican (heliocentric) models could predict positions of Mars as accurately as they could measure them.
+Tycho died in 1601 and after that Kepler had full access to Tycho’s data.
+He analyzed the data for 8 years and tried to calculate an orbit that would fit the data, but was unable to do so.
+Kepler later determined that the orbits were not circular but elliptical.
+Kepler’s Laws of Planetary Motion
+The orbits of the planets are elliptical.
+An imaginary line connecting a planet and the sun sweeps out equal areas during equal time intervals. (Therefore, the earth’s orbital speed varies at different times of the year.
+The earth moves fastest in its orbit when closest to the sun and slowest when farthest away.) Kepler’s Second Law of Planetary Motion was calculated for Earth, then the hypothesis was tested using data for Mars, and it worked!
+Kepler’s Third Law of Planetary Motion showed the relationship between the size of a planet’s orbit radius, R  ( \frac{1}{2} the major axis), and its orbital period, T .
+R^2 = T^3 This law is true for all planets if you use astronomical units (that is, distance in multiples of earth’s orbital radium and time in multiples of earth years).
+Kepler’s three laws replaced the cumbersome epicycles to explain planetary motion with three mathematical laws that allowed the positions of the planets to be predicted with accuracies ten times better than Ptolemaic or Copernican models.
+Galileo and Newton

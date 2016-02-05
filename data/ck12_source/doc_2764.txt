@@ -1,0 +1,20 @@
+A spiral staircase can be used as a model for a DNA molecule.
+DNA is a nucleic acid.
+Q:
+DNA is such a well-known molecule that you probably know something about it already.
+What do you know about DNA, and why do you think this molecule is so “famous”?
+A:
+You many know that DNA contains genes.
+It is so “famous” because it explains how we inherit traits from our parents and pass them on to our offspring.
+What Are Nucleic Acids?
+Nucleic acids are one of four classes of biochemical compounds. (The other three classes are carbohydrates, proteins, and lipids.) Nucleic acids include RNA (ribonucleic acid) as well as DNA (deoxyribonucleic acid).
+Both types of nucleic acids contain the elements carbon, hydrogen, oxygen, nitrogen, and phosphorus.
+Q:
+Which of the elements in DNA is not identified with any other class of biochemical compounds?
+A:
+All biochemical compounds contain carbon, hydrogen, and oxygen; and proteins as well as nucleic acids contain nitrogen.
+Phosphorus is the only element that is identified with nucleic acids.
+Nucleic acids consist of chains of small molecules called nucleotides, which are held together by covalent bonds.
+The structure of a nucleotide is shown in the Figure below .
+Each nucleotide consists of:
+a phosphate group, which contains phosphorus and oxygen (PO 4 ).

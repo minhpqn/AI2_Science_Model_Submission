@@ -1,0 +1,20 @@
+As the waves pass through each other, the crests and troughs cancel each other out to produce a wave with zero amplitude.
+You can see an animation of destructive interference at this URL:
+Diagram illustrating destructive interference
+Waves may reflect off an obstacle that they are unable to pass through.
+When waves are reflected straight back from an obstacle, the reflected waves interfere with the original waves and create standing waves .
+These are waves that appear to be standing still.
+Standing waves occur because of a combination of constructive and destructive interference.
+You can see animations of standing waves at the URLs below.
+Q :
+How could you use a rope to produce standing waves?
+A :
+You could tie one end of the rope to a fixed object, such as doorknob, and move the other end up and down to generate waves in the rope.
+When the waves reach the fixed object, they are reflected back.
+The original waves and the reflected waves interfere to produce a standing wave.
+Try it yourself and see if the waves appear to stand still.
+Wave interference is the interaction of waves with other waves.
+Constructive interference occurs when the crests of one wave overlap the crests of the other wave, causing an increase in wave amplitude.
+Destructive interference occurs when the crests of one wave overlap the troughs of the other wave, causing a decrease in wave amplitude.
+When waves are reflected straight back from an obstacle, the reflected waves interfere with the original waves and create standing waves.
+Review wave interference at the following URL.

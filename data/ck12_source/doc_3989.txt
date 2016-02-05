@@ -1,0 +1,20 @@
+This flowchart helps to determine if a species is an autotroph or a heterotroph, a phototroph or a chemotroph
+This flowchart helps to determine if a species is an autotroph or a heterotroph, a phototroph or a chemotroph.
+For example, “Obtain carbon elsewhere?” asks if the source of carbon is another organism.
+If the answer is “yes”, the organism is heterotrophic.
+If the answer is “no,” the organisms is autotrophic.
+Prokaryotes fulfill their carbon and energy needs in various ways.
+They may be photoautotrophs, chemoautotrophs, photoheterotrophs, or chemoheterotrophs.
+Use this resource to answer the questions that follow.
+Prokaryotic Metabolism at
+What is the difference between phototrophs and chemotrophs?
+What do autotrophic prokaryotes use to make organic molecules?
+How do heterotrophic prokaryotes obtain carbon?
+What are chemolitoautotrophs?
+Describe metabolism of most prokaryotes.
+Define phototrophic and chemotrophic organisms.
+What are photoautotrophs?
+What are photoheterotrophs?
+Describe the range of prokaryote habitats.
+Define obligate aerobes.
+Compare obligate anaerobes to facultative anaerobic organisms.

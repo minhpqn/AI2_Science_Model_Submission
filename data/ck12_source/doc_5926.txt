@@ -1,0 +1,20 @@
+A molecule of hydrogen fluoride (HF).
+In essence, any covalent bond results from the overlap of atomic orbitals.  This idea forms the basis for a quantum mechanical theory called valence bond (VB) theory.  In valence bond theory , the electrons in a molecule are assumed to occupy atomic orbitals of the individual atoms and a bond results from overlap of those orbitals.
+Electrons occupy atomic orbitals.
+Covalent bonds result from the overlap of atomic orbitals.
+View the presentation at the link below and take the quizzes.
+Where are electrons according to valence bond theory?
+How do covalent bonds form?
+Do the orbitals of the two electrons involved in the bond need to be the same?
+valence bond theory:
+The electrons in a molecule are assumed to occupy atomic orbitals of the individual atoms and a bond results from overlap of those orbitals.
+Hybrid Orbitals - sp3
+Describe sp 3 hybridization and covalent bond formation.
+In order to understand hybridizat​ion, we must look using a new model
+Do you recognize this plant?
+If we were walking on the beach, the plants shown above would look very different.  They would be short and sticking out of the sand.
+When we see them this way, we do not immediately recognize them as beach plants.  Often we need to look at the world around us in different ways to understand things better.
+Hybrid Orbitals – sp 3
+The bonding scheme described by valence bond theory must account for molecular geometries as predicted by VSEPR theory.  To do that, we must introduce a concept called hybrid orbitals.
+sp 3 Hybridization
+Unfortunately, overlap of existing atomic orbitals ( s , p , etc.) is not sufficient to explain some of the bonding and molecular geometries that are observed.  Consider the element carbon and the methane (CH 4 ) molecule.  A carbon atom has the electron configuration of 1s 2 2s 2 2p 2 , meaning that it has two unpaired electrons in its 2p orbitals, as shown in the Figure below .

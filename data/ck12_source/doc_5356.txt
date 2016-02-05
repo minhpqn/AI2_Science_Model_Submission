@@ -1,0 +1,20 @@
+Though both involve the detachment of the RNA from the DNA template, how this occurs is surprisingly distinct.
+Bacteria use two different strategies for transcription termination, Rho-dependent and Rho-independent termination.
+In Rho-dependent termination , a protein factor called "Rho" destabilizes the RNA-DNA hybrid, releasing the newly synthesized mRNA from the elongation complex.
+In Rho-independent termination, RNA transcription stops when the newly synthesized RNA molecule forms a hairpin loop followed by a run of uracils.
+This structure is the signal for the detachment of the RNA from the DNA.
+The DNA is now ready for translation.
+The termination of transcription in eukaryotes is less well understood.
+The RNA polymerase transcribes a polyadenylation signal.
+Polyadenylation is the addition of a string of A’s to the mRNA’s 3’ end and will be discussed in the Protein Synthesis: mRNA (Advanced) concept.
+However, soon after the transcription of this signal, proteins cut the RNA transcript free from the RNA polymerase and the enzyme eventually falls off the DNA.
+This process produces a pre-mRNA, an mRNA that is not quite ready to be translated.
+Steps of Transcription.
+Transcription occurs in the three steps - initiation, elongation, and termination - shown here.
+abortive initiation :
+Refers to the release of truncated transcripts during the early stages of transcription.
+activator :
+A protein that enhances the interaction between RNA polymerase and a particular promoter.
+core promoter :
+The minimal portion of the promoter required to properly initiate transcription.
+elongation :

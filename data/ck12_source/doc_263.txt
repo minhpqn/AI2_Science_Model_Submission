@@ -1,0 +1,20 @@
+With the longer period of time for the force to act, the necessary force is reduced to one-tenth of what was needed before.
+Extending the period of time over which a force acts in order to lessen the force is a common practice in design.
+Padding in shoes and seats allows the time to increase.
+The front of automobiles are designed to crumple in an accident; this increases the time the car takes to stop.
+Similarly, barrels of water or sand in front of abutments on the highway and airbags serve to slow down the stoppage time.
+These changes all serve to decrease the amount of force it takes to stop the momentum in a car crash, which consequently saves lives.
+Example Problem:
+An 0.15 kg baseball is thrown horizontally at 40. m/s and after it is struck by a bat, it is traveling at -40. m/s.
+(a) What impulse did the bat deliver to the ball?
+(b) If the contact time of the bat and bat was 0.00080 seconds, what was the average force the bat exerted on the ball?
+(c) Calculate the average acceleration of the ball during the time it was in contact with the bat.
+Solution:  We can calculate the change in momentum and give the answer as impulse because we know that the impulse is equal to the change in momentum.
+p=m \Delta v&=(0.15 \ \text{kg})(-40. \ \text{m/s}-40. \ \text{m/s})\\&=(0.15 \ \text{kg})(-80. \ \text{m/s})=-12 \ \text{kg} \cdot \text{m/s}
+The minus sign indicates that the impulse was in the opposite direction of the original throw.
+(b) F=\frac{\Delta mv}{t}=\frac{-12 \ \text{kg} \cdot \text{m/s}}{0.00080 \ \text{s}}=-15000 \ \text{N}
+Again, the negative sign indicates the force was in the opposite direction of the original throw.
+(c) a=\frac{F}{m}=\frac{-15000 \ \text{N}}{0.15 \ \text{kg}}=-100,000 \ \text{m/s}^2
+The product of the mass and velocity of an object is called momentum, given by the equation  \rho = mv .
+Momentum is a vector quantity that has the same direction as the velocity of the object.
+The quantity of force multiplied by the time it is applied is called impulse.

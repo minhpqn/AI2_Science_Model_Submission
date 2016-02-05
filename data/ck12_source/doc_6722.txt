@@ -1,0 +1,20 @@
+\mathrm{Common~Forces}\begin{cases}F_g = m g & \text{Gravity}\\\F_N & \text{Normal force: acts perpendicular to surfaces}\\\F_T & \text{Force of tension in strings and wires}\\\F_{sp}= -k \Delta x = & \text{Force of spring} \Delta x \text{from equilibrium}\end{cases}
+\text{Force Sums} \begin{cases}F_{\text{net}} = \sum_{i} F_i = m a & \text{Net force is the vector sum of all the forces}\\\F_{\text{net,}x} = \sum_{i} {F_{ix}} = m{a}_{x} & \text{Horizontal components add also}\\\F_{\text{net,}y} = \sum_{i} {F_{iy}} = m{a}_{y} & \text{As do vertical ones}\end{cases}
+\text{Static and Kinetic Friction'}\begin{cases}f_s \le \mu_s | F_N| & \text{Opposes potential motion of surfaces in contact}\\\f_k = \mu_k | F_N| & \text{Opposes motion of surfaces in contact}\end{cases}
+Ultimately, many of these “contact” forces are due to attractive and repulsive electromagnetic forces between atoms in materials.
+Problem Solving for Newton’s Laws, Step-By-Step
+Figure out which object is “of interest.”
+If you're looking for the motion of a rolling cart, the cart is the object of interest.
+If the object of interest is not moving, that's OK, don't panic yet.
+Draw a sketch!
+This may help you sort out which object is which in your problem.
+Identify all the forces acting on the object and draw them on object. (This is a free-body diagram --FBD)
+If the object has mass and is near the Earth, the easiest (and therefore, first) force to write down is the force of gravity, pointing downward, with value mg .
+If the object is in contact with a flat surface, it means there is a normal force acting on the object.
+This normal force points away from and is perpendicular to the surface.
+There may be more than one normal force acting on an object.
+For instance, if you have a bologna sandwich, remember that the slice of bologna feels normal forces from both the slices of bread!
+If a rope, wire, or cord is pulling on the object in question, you've found yourself a tension force.
+The direction of this force is in the same direction that the rope is pulling.
+Don't worry about any forces acting on other objects.
+For instance, if you have a bologna sandwich as your object of interest, and you're thinking about the forces acting on the slice of bologna, don't worry about the force of gravity acting on either piece of bread.

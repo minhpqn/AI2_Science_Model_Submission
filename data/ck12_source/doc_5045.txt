@@ -1,0 +1,20 @@
+These plants close their stomata during the day (by closing their guard cells) and open them only in the cooler and more humid nighttime hours.
+Leaf structure differs slightly from that of C-4 plants, but the fixation pathways are similar.
+The family of plants in which this pathway was discovered gives the pathway its name, Crassulacean Acid Metabolism, or CAM ( Figure below ).
+CAM photosynthesis is an adaptation to arid conditions in some plants.
+CAM photosynthesis is a two-step process: part occurs during the day and part at night.
+At night, when the stomata are open, CO 2 can enter the leaf cell, but the light reactions of photosynthesis cannot take place, so ATP and NADPH can't be made.
+The carbon dioxide is fixed in the cytoplasm of mesophyll cells by a PEP reaction similar to that of C-4 pathway, PEP carboxylase combines CO 2 and PEP, making oxalacetate, which is subsequently transformed into malate.
+But, unlike the C-4 plant, the resulting malate is not immediately passed on to the Calvin Cycle but are stored in vacuoles for later use.
+The next day, after the sun comes out and the light reactions restart making ATP and NADPH, malate is released from the vacuoles of the mesophyll cells and enters the stroma of the chloroplasts where an enzyme releases the CO 2 , which then enters into the Calvin Cycle.
+How Does the Calvin Cycle Store Energy in Sugar?
+As Melvin Calvin discovered, carbon fixation is the first step of a cycle.
+Like an electron transport chain, the Calvin Cycle, shown in Figure below , transfers energy in small, controlled steps.
+Each step pushes molecules uphill in terms of energy content.
+Recall that in the electron transfer chain, excited electrons lose energy to NADPH and ATP.
+In the Calvin Cycle, NADPH and ATP formed in the light reactions lose their stored chemical energy to build glucose.
+Use the diagram below to identify the major aspects of the process:
+the general cycle pattern
+the major reactants
+Overview of the Calvin Cycle Pathway.
+First, notice where carbon is fixed by the enzyme Rubisco.

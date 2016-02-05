@@ -1,0 +1,20 @@
+Why was fixing this so important?
+Why did they move the bullet being dropped to 360 ft away?
+What was the final result?
+What are some possible reasons that the bullets didn't hit the ground at exactly the same time?
+If a bullet is fired from a high powered rifle at the exact time a duplicate bullet is dropped by hand near the barrel of the rifle, which bullet will hit the ground first?
+the one dropped straight down
+the one fired horizontally
+both will hit the ground at the same time
+A cannon is fired from the edge of a small cliff.  The height of the cliff is 80.0 m.  The cannon ball is fired with a perfectly horizontal velocity of 80.0 m/s.  How far will the cannon ball fly horizontally before it strikes the ground?
+A cliff diver running 3.60 m/s dives out horizontally from the edge of a vertical cliff and reaches the water below 2.00 s later.  How high is the cliff and how far from the base of the cliff did the diver hit the water?
+projectile motion:
+A form of motion where a particle (called a projectile) is thrown obliquely near the earth's surface, & it moves along a curved path under the action of gravity.
+The path followed by a projectile motion is called its trajectory.
+Projectile motion only occurs when there is one force applied at the beginning of the trajectory after which there is no interference apart from gravity.
+trajectory:  The path followed by an object in projectile motion.
+Projectile Motion for an Object Launched at an Angle
+Calculate height and range of projectiles launched at an angle.
+Understand the independence of vertical and horizontal motion.
+Understanding the physics before a human cannonball launch is very important
+In the case of the human cannonball shown, all the vector and gravitational calculations must be worked out perfectly before the first practice session.

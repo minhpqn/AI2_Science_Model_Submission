@@ -1,0 +1,20 @@
+This process, the use of energy to phosphorylate ADP and produce ATP is also known as oxidative phosphorylation.
+The third stage of cellular respiration uses the energy stored during the earlier stages in NADH and FADH 2 to make ATP.
+Electron transport chains embedded in the mitochondrial inner membrane capture high-energy electrons from the carrier molecules and use them to concentrate hydrogen ions in the intermembrane space.
+Hydrogen ions flow down their electrochemical gradient back into the matrix through ATP synthase channels which capture their energy to convert ADP to ATP.
+Notice that the process regenerated NAD + , supplying the electron acceptor molecule needed in glycolysis.
+After passing through the electron transport chain, low-energy electrons and low-energy hydrogen ions combine with oxygen to form water.
+Thus, oxygen’s role is to drive the entire set of ATP-producing reactions within the mitochondrion by accepting “spent” hydrogens.
+Oxygen is the final electron acceptor; no part of the process - from the Krebs Cycle through electron transport chain – can happen without oxygen.
+The electron transport chain can convert the energy from one glucose molecule’s worth of FADH 2 and NADH + H + into as many as 34 ATP.
+When the four ATP produced in glycolysis and the Krebs Cycle are added, the total 0f 38 ATP fits the overall equation for aerobic cellular respiration:
+A summary of the electron transport chain can be viewed at
+Click on the image above for more content
+Aerobic respiration is complete.
+If oxygen is available, cellular respiration transfers the energy from one molecule of glucose to 38 molecules of ATP, releasing carbon dioxide and water as waste. “Deliverable” food energy has become energy which can be used for work within the cell – transport within the cell, pumping ions and molecules across membranes, and building large organic molecules.
+Can you see how this could lead to “life in the fast lane” compared to anaerobic respiration (glycolysis alone)?
+An overall summary of this process can be seen at
+Click on the image above for more content
+ATP synthase :
+Ion channel and enzyme complex; chemically bonds a phosphate group to ADP, producing ATP as H + ions flow through the ion channel.
+chemiosmosis :

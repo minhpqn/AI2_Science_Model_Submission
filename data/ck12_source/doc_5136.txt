@@ -1,0 +1,20 @@
+When a cell is using the information within a gene, the segment of DNA containing that gene is unwound as chromatin , exposing the double helix to the cell machinery needed to use that information.
+Prior to cell division, the DNA must duplicate itself in a process called DNA replication.
+This ensures that each resulting cell receives a complete set of the organism’s genome.
+But how is the replicated DNA divided up evenly?
+This will be discussed in an additional concept.
+What guarantees that each new cell will receive a complete set of DNA?
+It was the identification of chromosomes that allowed this process to be characterized.
+As a eukaryotic cell prepares to divide, the DNA and associated proteins (histones) coil into a chromosome ( Figure below ).
+The DNA copies itself prior to this process, so the chromosome that forms consists of two identical chromatids, known as sister chromatids , identical copies of DNA.
+The two chromatids are attached at a region called the centromere.
+The chromatids separate from each other when the nucleus divides just prior to cell division.
+Thus, each new cell that results after cell division will have the complete compliment of genetic material, identical to the original, or parent, cell.
+In human cells, this amounts to 46 chromosomes.
+These chromosomes come in pairs (one from each pair inherited from each parent).
+So these 46 chromosomes are actually two sets of 23 chromosomes each.
+For an animation of how the DNA coils into a chromosome, see
+(left) The DNA double helix wraps around proteins (2) and tightly coils a number of times to form a chromosome (5).
+This figure shows the complexity of the coiling process.
+The red dot shows the location of the centromere, where the microtubules attach during mitosis and meiosis. (right) A representation of a condensed eukaryotic chromosome, as seen after the DNA has been copied.
+The chromosome is made of two identical, or sister, chromatids held together by a centromere.

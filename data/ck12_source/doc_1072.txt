@@ -1,0 +1,20 @@
+Polar Coordinate System
+You can also use a polar coordinate system.
+Your location is marked by an angle and distance from some reference point.
+The angle is usually the angle between your location, the reference point, and a line pointing north.
+The distance is given in meters or kilometers.
+To find your location or to move from place to place, you need a map, a compass, and some way to measure your distance, such as a range finder.
+Suppose you need to go from your location to a marker that is 20°E and 500 m from your current position.
+You must do the following:
+Use the compass and compass rose on the map to orient your map with north.
+Use the compass to find which direction is 20°E.
+Walk 500 meters in that direction to reach your destination.
+Polar coordinates are used in a sport called orienteering.
+People who do orienteering use a compass and a map with polar coordinates.
+Participants find their way along a course across wilderness terrain ( Figure below ).
+They move to various checkpoints along the course.
+The winner is the person who completes the course in the fastest time.
+A topographic map like one that you might use for the sport of orienteering
+A topographic map like one that you might use for the sport of orienteering.
+Direction is expressed as north, south, east, or west, or some gradation between them.
+A compass can be used to indicate direction.

@@ -1,0 +1,20 @@
+PV \propto T \ or \ \frac{PV}{T}=\text{constant}
+A commonly used form of the combined gas law states that, for a sample of gas, the ratio of the product of the original pressure and volume to the original temperature will equal the ratio of the product of a new pressure and volume to the new temperature, or
+This equation is useful when operating with the same sample of gas, and given five of the variables, to solve for the sixth.
+When solving problems with temperature in them, the calculations require that temperatures be in Kelvin.
+Be careful to convert to Kelvin when given temperatures in Celsius.
+Example Problem:
+A sample of gas has a volume of 2.00 L and a pressure of 0.750 kPa when its temperature is 25°C.
+If the volume is expanded to 4.00 L and the pressure reduced to 0.500 kPa, what must the temperature become?
+Solution:
+The relationships between volume and temperature and pressure and temperature expressed in the gas laws are only true when the kinetic energy of the molecules are directly proportional to the temperature.  Therefore, when dealing with all gas laws, the temperatures must be expressed in Kelvin.
+P_1&=0.750 \ kPa \qquad P_2=0.500 \ kPa \\V_1&=2.00 \ L \qquad \quad \ \ V_2=4.00 \ L \\T_1&=298 \ K \qquad \quad \ \ T_2=?
+T_2=\frac{P_2V_2T_1}{P_1V_1}=\frac{(0.500 \ kPa)(4.00 \ L)(298 \ K)}{(0.750 \ kPa)(2.00 \ L)}=397 \ K
+For a given quantity of gas, it has been found experimentally that the volume of the gas is inversely proportional to the pressure applied to the gas when the temperature is kept constant.
+Boyle’s Law is V \propto \frac{1}{P} \ \text{at constant} \ T .
+Charles’ Law is V \propto T \ \text{at constant} \ P .
+Gay-Lussac’s law states that at constant volume, the pressure of a gas is directly proportional to the absolute temperature, P \propto T \ \text{at constant} \ V .
+These three gas laws can be combined into a so-called combined gas law,  \frac{P_1V_1}{T_1}=\frac{P_2V_2}{T_2} .
+The following video covers the combined gas law.
+Use this resource to answer the questions that follow.
+Click on the image above for more content

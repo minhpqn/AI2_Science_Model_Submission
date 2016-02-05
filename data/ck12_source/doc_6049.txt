@@ -1,0 +1,20 @@
+Evaporation is the conversion of a liquid to its vapor below the boiling temperature of the liquid.
+If the water is instead kept in a closed container, the water vapor molecules do not have a chance to escape into the surroundings and so the water level does not change.
+As some water molecules become vapor, an equal number of water vapor molecules condense back into the liquid state.
+Condensation is the change of state from a gas to a liquid.
+Evaporation occurs when liquid turns into gas, while condensation occurs when gas turns into liquid
+Evaporation (A) and condensation (B).
+In order for a liquid molecule to escape into the gas state, the molecule must have enough kinetic energy to overcome the intermolecular attractive forces in the liquid.
+Recall that a given liquid sample will have molecules with a wide range of kinetic energies.
+Liquid molecules that have this certain threshold kinetic energy escape the surface and become vapor.
+As a result, the liquid molecules that remain now have a lower average kinetic energy.
+As evaporation occurs, the temperature of the remaining liquid decreases.
+You have observed the effects of evaporative cooling.
+On a hot day, the water molecules in your perspiration absorb body heat and evaporate from the surface of your skin.
+The evaporating process leaves the remaining perspiration cooler, which in turn absorbs more heat from your body.
+A given liquid will evaporate more quickly when it is heated.
+This is because the heating process results in a greater fraction of the liquid’s molecules having the necessary kinetic energy to escape the surface of the liquid.
+The Figure below shows the kinetic energy distribution of liquid molecules at two temperatures.
+The numbers of molecules that have the required kinetic energy to evaporate are shown in the shaded area under the curve at the right.
+The higher temperature liquid (T 2 ) has more molecules that are capable of escaping into the vapor phase than the lower temperature liquid (T 1
+As temperature increases, the proportion of molecules that have sufficient energy to evaporate increases

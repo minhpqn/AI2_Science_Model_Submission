@@ -1,0 +1,20 @@
+The following 10 points summarize photosynthesis.
+6CO 2 + 6H 2 O + Light Energy → C 6 H 12 O 6 + 6O 2
+Autotrophs store chemical energy in carbohydrate food molecules they build themselves.
+Most autotrophs make their "food" through photosynthesis using the energy of the sun.
+Photosynthesis occurs in the chloroplast, an organelle specific to plant cells.
+The light reactions of photosynthesis occur in the thylakoid membranes of the chloroplast.
+Electron carrier molecules are arranged in electron transport chains that produce ATP and NADPH, which temporarily store chemical energy.
+The light reactions capture energy from sunlight, which they change to chemical energy that is stored in molecules of NADPH and ATP.
+The light reactions also release oxygen gas as a waste product.
+The reactions of the Calvin cycle add carbon (from carbon dioxide in the atmosphere) to a simple five-carbon molecule called RuBP.
+The Calvin cycle reactions use chemical energy from NADPH and ATP that were produced in the light reactions.
+The final product of the Calvin cycle is glucose.
+What is photosynthesis?
+The process of using the energy in sunlight to make food (glucose).
+But of course it is much more complex than that simple statement.
+Photosynthesis is a multistep biochemical pathway that uses the energy in sunlight to fix carbon dioxide, transferring the energy into carbohydrates, and releasing oxygen in the process.
+What is NADPH?
+Nicotinamide adenine dinucleotide phosphate, an energy carrier molecule produced in the light reactions of photosynthesis.
+NADPH is the reduced form of the electron acceptor NADP + .
+At the end of the light reactions, the energy from sunlight is transferred to NADP + , producing NADPH.

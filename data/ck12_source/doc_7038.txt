@@ -1,0 +1,20 @@
+Explain.
+How many atoms decay in the second 8 minutes?
+What is the ratio of the number of atoms that decay in the first 8 minutes to the number of atoms that decay in the second 8 minutes?
+How long would you have to wait until the decay rate drops to 1 % of its value in the first 8 minutes?
+Hidden in your devious secret laboratory are 5.0 grams of radioactive substance A and 5.0 grams of radioactive substance B.
+Both emit alpha-radiation.
+Quick tests determine that substance A has a half-life of 4.2 days and substance B has a half-life of 310 days.
+How many grams of substance A and how many grams of substance B will you have after waiting 30 days?
+Which sample (A or B) is more dangerous at this point (i.e., after the 30 days have passed)?
+The half-life of a certain radioactive material is 4 years.
+After 24 years, how much of a 75 g sample of this material will remain?
+The half life of ^{53}\mathrm{Ti} is 33.0 seconds.
+You begin with 1000\;\mathrm{g} of ^{53}\mathrm{Ti} .
+How much is left after 99.0 seconds?
+You want to determine the half-life of a radioactive substance.
+At the moment you start your stopwatch, the radioactive substance has a mass of 10 \;\mathrm{g} .
+After 2.0 minutes, the radioactive substance has 0.5 grams left.
+What is its half-life?
+There are two equal amounts of radioactive material.
+One has a short half-life and the other has a very long half-life.

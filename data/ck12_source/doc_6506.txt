@@ -1,0 +1,20 @@
+Both of these units are concerned with the disintegration rate of the radioactive isotope and give no indication of dosage to the target material.
+Exposure gives an indication of the amount of radiation that travels through the air.
+Two factors influence the amount of exposure a person may receive – time and intensity.
+Acute exposure indicates a large amount of radiation received over a short period of time.
+Chronic exposure deals with lower levels of exposure over a longer period of time.
+Dose equivalence combines the amount of radiation received and the medical effect of that radiation.
+Calculations of exposure and dose equivalence are complicated and will not be pursued at this time.
+Measurement of exposure to radioactivity is important for anyone who deals with radioactive materials on a regular basis.
+Perhaps the simplest device is a personal dosimeter – a film badge that will fog up when exposed to radiation.
+The amount of fogging is proportional to the amount of radiation present.
+These devices are not very sensitive to low levels of radiation.
+More sensitive systems use crystals that respond in some way to radioactivity by registering the number of emissions in a given time.
+These systems tend to be more sensitive and more reliable than film badges.
+Dosimeters help measure personal exposure to radiation
+A Geiger counter provides a sensitive means of detecting radioactivity.
+A tube is filled with an inert gas, which will conduct electricity when radiation enters it.
+When a charged particle comes into the tube, it changes the electrical potential between the anode and the cathode.
+This change in potential in the tube produces a change in voltage in the electrical circuit and registers as a count.
+Geiger counters are fairly inexpensive and reliable, so they are useful in a wide range of applications.
+More complicated types of counters are also available, but are generally used in sophisticated experiments.

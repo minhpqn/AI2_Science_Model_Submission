@@ -1,0 +1,20 @@
+We have ballet and opera as well as choral music.
+Jazz has a different set of characteristics from classical and different styles of performance.
+Each type of music can be described and compared to other types on the basis of certain common qualities like notes, chords, and melodic styles.
+The elements in the periodic table could be considered to be similar to types of music.  Each set of elements has its unique set of properties, with different sets of elements having some common characteristics in terms of electron arrangements.  We can see patterns of electronic structure and reactivity in the periodic table that allow us to understand better the behavior of individual elements.
+Periods and Blocks
+There are seven horizontal rows of the periodic table, called periods .
+The length of each period is determined by the number of electrons that are capable of occupying the sublevels that fill during that period, as seen in the Table below .
+Period Length and Sublevels in the Periodic Table
+Number of elements in period
+Sublevels in order of fill
+2 s 2 p
+3 s 3 p
+4 s 3 d 4 p
+5 s 4 d 5 p
+6 s 4 f 5 d 6 p
+7 s 5 f 6 d 7 p
+Recall that the four different sublevels each consist of a different number of orbitals.
+The s sublevel has one orbital, the p sublevel has three orbitals, the d sublevel has five orbitals, and the f sublevel has seven orbitals.
+In the first period, only the 1 s sublevel is being filled.
+Since all orbitals can hold two electrons, the entire first period consists of just two elements.

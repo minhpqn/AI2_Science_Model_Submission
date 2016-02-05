@@ -1,0 +1,20 @@
+To get a better feel for projectile motion, try these interactive animations:
+(Click on the applet “Cannon.”)
+Projectile motion is movement of an object in a curved path toward the ground because it has both a horizontal force and the downward force of gravity acting on it.
+Examples of objects that have projectile motion include arrows and cannon balls.
+Play the game at the following URL by shooting the cannon at a stationary target.
+Experiment with three variables—cannon power, height of barrel, and angle of barrel—until you find at least three different combinations of variables that allow the cannon ball to hit the target.
+Record the values for the three combinations of variables.
+Then summarize what you learned by doing the activity.
+What is projectile motion?
+When does it occur?
+How might knowledge of projectile motion help you shoot baskets in basketball?
+Define orbital motion and explain why it occurs.
+Describe the orbits of Earth around the sun and the moon around Earth.
+As you can see in this NASA photo, Earth is tiny compared with the massive sun.
+The sun’s gravity is relatively strong because the force of gravity between two objects is directly proportional to their masses.
+Gravity between the sun and Earth pulls Earth toward the sun, but Earth never falls into the sun.
+Instead, it constantly revolves around the sun, making one complete revolution every 365 days.
+Q :
+Why doesn’t the sun’s gravity pull Earth down to the surface of the sun?
+A :

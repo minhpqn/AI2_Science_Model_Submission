@@ -1,0 +1,20 @@
+3.75 \times 10^{12}
+6.00 \times 10^{12}
+Not enough information
+Solve problems involving Coulomb's Law.
+Students will learn how to solve problems involving Coulomb's Law.
+F = \frac{k q_1 q_2}{r^2}\begin{cases}k & \text{The electric constant,}\ k = 8.987 \times 10^9 \ \mathrm{N \cdot m^2 C^{-2}}. \\\q_1, \ q_2 & \text{Magnitude of the charges, units of Coulombs (C)}\\\r & \text{Distance between charges, m}\end{cases}
+The Coulomb Force Law states that any two charged particles (q_1,q_2)  --- with charge measured in units of Coulombs --- at a distance  r  from each other will experience a force of repulsion or attraction along the line joining them equal to:
+\vec{F_e} &= \frac{kq_1q_2}{r^2} && \text{The Coulomb Force [1]}\intertext{Where} k &= 8.987 \times 10^9 \ \mathrm{N \cdot m^2 \cdot C^{-2}} && \text{The Electric Constant}
+This looks a lot like the Law of Universal Gravitation, which deals with attraction between objects with mass.
+The big difference is that while any two masses experience mutual attraction , two charges can either attract or repel each other, depending on whether the signs of their charges are alike:
+Like gravitational (and all other) forces, Coulomb forces add as vectors.
+Thus to find the force on a charge from an arrangement of charges, one needs to find the vector sum of the force from each charge in the arrangement.
+Question :
+Two negatively charged spheres (one with -12\mu\mathrm{C} ; the other with -3\mu\mathrm{C} ) are 3\mathrm{m} apart.
+Where could you place an electron so that it will be suspended in space between them with a net force of zero (for this problem we will ignore the force of repulsion between the two charges because they are held in place)?
+Answer :
+Consider the diagram above; here  r_{s\rightarrow e}  is the distance between the electron and the small charge, while \vec{F}_{s\rightarrow e}  is the force the electron feels due to it.
+For the electron to be balanced in between the two charges, the forces of repulsion caused by the two charges on the electron would have to be balanced.
+To do this, we will set the equation for the force exerted by two charges on each other equal and solve for a distance ratio.
+We will denote the difference between the charges through the subscripts "s" for the smaller charge, "e" for the electron, and "l" for the larger charge.

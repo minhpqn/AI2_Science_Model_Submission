@@ -1,0 +1,20 @@
+The three light rays traveling into the concave lens shown above travel away from each other.
+For this reason, concave lens are also called diverging lenses.
+As a result of this light divergence, concave lenses create only virtual images.
+Images in Double Concave Lenses
+Every  concave lens causes all rays to diverge.
+Rays that approach the lens parallel to the principal axis refract as if they came from the focal point.
+Light rays passing through a concave lens
+As you can see in the figure above, the light rays hit the lens and refract away from each other.
+Since none of these rays will intersect, a real image cannot exist.
+Instead, all images created by a double concave lens are virtual images.
+Like in all ray diagrams, images can be found using two rays.
+Image formed by a concave lens
+The first ray, shown above, begins from the tip of the image and travels to the lens parallel to the principal axis.
+Within the lens, this ray is refracted away from the principal axis such that the virtual ray (shown as a dotted line) travels back to the focal point.
+The second ray also leaves from the tip of the object, and travels straight through the center of the lens.
+The image will be where these two rays intersect - one real and one virtual.
+Since one ray is a virtual ray, the image will always be virtual, as well as upright and diminished.
+Like for convex lenses, the lens equation and magnification equations can be used to calculate image size and distance for double concave lenses.
+When using the lens equation with a concave lens, however, the focal length must be assigned a negative value.
+A concave lens causes all rays to diverge.

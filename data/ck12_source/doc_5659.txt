@@ -1,0 +1,20 @@
+Alpha particles, a type of natural radioactive particle, are positively charged particles with a mass about four times that of a hydrogen atom.
+Picture of Rutherford's gold foil experiment
+(A) The experimental setup for Rutherford’s gold foil experiment:
+A radioactive element that emitted alpha particles was directed toward a thin sheet of gold foil that was surrounded by a screen which would allow detection of the deflected particles. (B) According to the plum pudding model (top) all of the alpha particles should have passed through the gold foil with little or no deflection.
+Rutherford found that a small percentage of alpha particles were deflected at large angles, which could be explained by an atom with a very small, dense, positively-charged nucleus at its center (bottom).
+According to the accepted atomic model, in which an atom’s mass and charge are uniformly distributed throughout the atom, the scientists expected that all of the alpha particles would pass through the gold foil with only a slight deflection or none at all.
+Surprisingly, while most of the alpha particles were indeed undeflected, a very small percentage (about 1 in 8000 particles) bounced off the gold foil at very large angles.
+Some were even redirected back toward the source.
+No prior knowledge had prepared them for this discovery.
+In a famous quote, Rutherford exclaimed that it was “as if you had fired a 15-inch [artillery] shell at a piece of tissue paper and it came back and hit you.”
+Rutherford needed to come up with an entirely new model of the atom in order to explain his results.
+Because the vast majority of the alpha particles had passed through the gold, he reasoned that most of the atom was empty space.
+In contrast, the particles that were highly deflected must have experienced a tremendously powerful force within the atom.
+He concluded that all of the positive charge and the majority of the mass of the atom must be concentrated in a very small space in the atom’s interior, which he called the nucleus.
+The nucleus is the tiny, dense, central core of the atom and is composed of protons and neutrons.
+Rutherford’s atomic model became known as the nuclear model .
+In the nuclear atom, the protons and neutrons, which comprise nearly all of the mass of the atom, are located in the nucleus at the center of the atom.
+The electrons are distributed around the nucleus and occupy most of the volume of the atom.
+It is worth emphasizing just how small the nucleus is compared to the rest of the atom.
+If we could blow up an atom to be the size of a large professional football stadium, the nucleus would be about the size of a marble.

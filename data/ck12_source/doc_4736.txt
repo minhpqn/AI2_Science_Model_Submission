@@ -1,0 +1,20 @@
+An SI prefix is a name or symbol that is put before a unit of measure (or its symbol) to form a decimal or a multiple of the unit.
+For example, kilo - is a multiple of a thousand and milli - is a multiple of a thousandth, so there are one thousand millimeters in a meter, and one thousand meters in a kilometer .
+All prefixes are multiples of 10, as you can see from the SI Prefixes Table below .
+The prefixes are never combined; a millionth of a kilogram is a milligram not a microkilogram .
+Factor of 10
+trillion (thousand billion)
+billion (thousand million)
+International System of Units (SI) :
+The modern form of the metric system; a system of units of measurement devised around seven base units and the convenience of the number ten.
+SI prefixes :
+A name or symbol that is put before a unit of measure (or its symbol) to form a decimal or a multiple of the unit.
+The measurements that scientists use are based on the International System of Units (SI), which is form of the metric system.
+Based on multiples of ten, it is the world's most widely used system of units, both in science and business.
+Use this resource to answer the questions that follow.
+International System of Units at
+When was the SI system established?
+What is the SI system based on?
+What is SI?
+Why is it important that scientists use common units of measurement?
+Which one of the following units of measurement would be the most appropriate in determining the mass of a banana?

@@ -1,0 +1,20 @@
+At 8:00 AM, a bomb exploded in mid-air.
+Which of the following is true of the pieces of the bomb after explosion? (Select all that apply.)
+The vector sum of the momenta of all the pieces is zero.
+The total kinetic energy of all the pieces is zero.
+The chemical potential energy of the bomb has been converted entirely to the kinetic energy of the pieces.
+Energy is lost from the system to sound, heat, and a pressure wave.
+You are at rest on your bicycle at the top of a hill that is 20 \;\mathrm{m} tall.
+You start rolling down the hill.
+At the bottom of the hill you have a speed of 22 \;\mathrm{m/s} .
+Your mass is 80 \;\mathrm{kg} .
+Assuming no energy is gained by or lost to any other source, which of the following must be true?
+The wind must be doing work on you.
+You must be doing work on the wind.
+No work has been done on either you or the wind.
+Not enough information to choose from the first three.
+A stationary bomb explodes into hundreds of pieces.
+Which of the following statements best describes the situation?
+The kinetic energy of the bomb was converted into heat.
+The chemical potential energy stored in the bomb was converted into heat and gravitational potential energy.
+The chemical potential energy stored in the bomb was converted into heat and kinetic energy.

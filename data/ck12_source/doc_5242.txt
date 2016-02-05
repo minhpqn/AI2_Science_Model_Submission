@@ -1,0 +1,20 @@
+A and B refer to two carbohydrates found on the surface of red blood cells.
+There is not an O carbohydrate.
+Type O red blood cells do not have either type A or B carbohydrates on their surface.
+As the alleles I A and I B are dominant over i , a person who is homozygous recessive ( ii ) will not have type A or type B blood, but will have type O blood.
+Homozygous dominant I A I A or heterozygous I A i have type A blood, and homozygous dominant I B I B or heterozygous I B i have type B blood.
+I A I B individuals have type AB blood, because the A and B alleles are codominant.
+Type A and type B parents can have a type AB child.
+Type A and a type B parent can also have a child with Type O blood, if they are both heterozygous ( I B i , I A i ).
+The Table below shows how the different combinations of the blood group alleles can produce the four blood groups, A, AB, B, and O.
+Bloodtype as Determined by Multiple Alleles
+I A I A Type A
+I A I B Type AB
+I A i Type A
+I A I B Type AB
+I B I B Type B
+I B i Type B
+iI A Type A
+iI B Type B
+ii Type O
+ABO blood group :

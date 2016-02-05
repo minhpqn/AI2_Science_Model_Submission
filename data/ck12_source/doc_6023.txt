@@ -1,0 +1,20 @@
+One of the guest brings twenty brownies for dessert.
+The decision about serving dessert is easy: two brownies are placed on every plate.
+If someone wants more brownies, they will have to wait until they go to the store.
+There are only enough brownies for everyone to have two.
+Determining the Limiting Reactant
+In the real world, amounts of reactants and products are typically measured by mass or by volume.
+It is first necessary to convert the given quantities of each reactant to moles in order to identify the limiting reactant.
+Sample Problem:
+Determining the Limiting Reactant
+Silver metal reacts with sulfur to form silver sulfide according to the following balanced equation:
+2\text{Ag}(s)+\text{S}(s) \rightarrow \text{Ag}_2\text{S}(s)
+What is the limiting reactant when 50.0 g Ag is reacted with 10.0 g S?
+Step 1:
+List the known quantities and plan the problem.
+given: 50.0 g Ag
+given: 10.0 g S
+Use the atomic masses of Ag and S to determine the number of moles of each present.
+Then, use the balanced equation to calculate the number of moles of sulfur that would be needed to react with the number of moles of silver present.
+Compare this result to the actual number of moles of sulfur present.
+Step 2:

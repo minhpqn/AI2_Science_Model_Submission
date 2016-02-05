@@ -1,0 +1,20 @@
+Carry out mathematical operations in scientific notation.
+Identify the number of significant figures in given measurements.
+Carry proper significant figures through math operations.
+Computers like the CSIRAC were developed to aid scientists with complex mathematical operations
+Scientists today use computers to aid with many complex mathematical operations used in science.
+Computers take and store measurement readings and can save hours, days, or even years of mathematical calculations.
+The image is of the CSIRAC (Council for Scientific and Industrial Research Automatic Computer), Australia's first digital computer, first run in November 1949.
+A modern laptop has more computing power than this room-filling computer did.
+Mathematics Tool Kit
+What Is the Place of Mathematics in Physics?
+There is certainly a lot of math in physics, but the concepts and theories of physics cannot be derived from only mathematics.
+If you wish to build a complex mechanical structure, it is pointless to begin without wrenches and screwdrivers.
+To build mechanical structures, you must have tools.
+One of the primary tools for working in physics is mathematics.
+This particular physics resource requires algebra, geometry, and trigonometry, but higher-level physics courses also require calculus.
+In fact, calculus was invented by Isaac Newton specifically to solve physics problems; most advanced calculus problems are actually physics problems.
+In the "Definition of Physics," it was noted that physics deals with objects as small as sub-atomic particles and as large as galaxies.
+It should be clear that physicists deal with extremely small numbers - like the mass of a lead atom: 0.00000000000000000000034 g - and extremely large numbers - like the distance from our galaxy to the Andromeda galaxy: 2.5 million light years, which is approximately 25,000,000,000,000,000,000 km!
+These numbers are difficult to write and even more difficult to calculate with.
+It is much more convenient to write and calculate with such extreme numbers if they are written in scientific notation .

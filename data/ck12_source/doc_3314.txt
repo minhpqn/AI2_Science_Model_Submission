@@ -1,0 +1,20 @@
+Electricity flowing through a wire is like water flowing through a hose.
+More water can flow through a wide hose than a narrow hose.
+In a similar way, more current can flow through a wide wire than a narrow wire.
+A longer wire has more resistance than a shorter wire.
+Current must travel farther through a longer wire, so there are more chances for it to collide with particles of matter.
+A cooler wire has less resistance than a warmer wire.
+Cooler particles have less kinetic energy, so they move more slowly.
+Therefore, they are less likely to collide with moving electrons in current.
+Materials called superconductors have virtually no resistance when they are cooled to extremely low temperatures.
+You can learn more about superconductors at this URL:
+Is Resistance Good or Bad?
+Resistance can be helpful or just a drain on electrical energy.
+If the aim is to transmit electric current through a wire from one place to another, then resistance is a drawback.
+It reduces the amount of electrical energy that is transmitted because some of the current is absorbed by particles of matter.
+On the other hand, if the aim is to use electricity to produce heat or light, then resistance is useful.
+When particles of matter absorb electrical energy, they change it to heat or light.
+For example, when electric current flows through the tungsten wire inside an incandescent light bulb like the one in the Figure below , the tungsten resists the flow of electric charge.
+It absorbs electrical energy and converts some of it to light and heat.
+What’s wrong with this picture? (Hint:
+How does current get to the light bulb?)

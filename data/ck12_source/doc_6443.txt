@@ -1,0 +1,20 @@
+Oxidation and reduction must happen together.
+Neither can happen alone in a reaction.
+Reduction can also be considered as a gain of hydrogen.
+The reverse of the ethanol → acetaldehyde reaction shown above is a reduction reaction:
+\text{CH}_3\text{CHO} + 2\text{H atoms} \rightarrow \text{CH}_3\text{CH}_2\text{OH}
+Oxidation and reduction are defined in terms of reactions with oxygen.
+Oxidation and reduction reactions must occur together.
+Answer the questions at the following link:
+Give a definition of oxidation in terms of oxygen.
+Give a definition of reduction in terms of oxygen.
+Characterize the following reaction in terms of the definitions of oxidation and reduction: \text{CH}_4(g)+2\text{O}_2(g) \rightarrow \text{CO}_2(g)+2\text{H}_2\text{O}(g)
+oxidation:
+A process in which a substance was reacted with oxygen to produce one or more oxides or a reaction involving the loss of hydrogen.
+reduction:
+Removal of oxygen from a substance or the addition of hydrogen to a substance.
+Redox Reactions and Ionic Compounds
+Define oxidation and reduction in terms of electron transfers.
+Write half-reactions for an oxidation-reduction process.
+Give examples of redox reactions.
+Nitric acid is created by the oxidation of ammonia

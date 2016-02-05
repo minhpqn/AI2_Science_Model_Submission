@@ -1,0 +1,20 @@
+Why do some drops fall faster instead of slower when you increase the voltage?
+In another universe, where the unit for charge is the “mork,” a physicist performed the Millikan oil drop experiment and measured the following charges on a series of oil drops.
+2.62 \times 10^{-13} mork
+5.14 \times 10^{-13} mork
+3.93 \times 10^{-13} mork
+6.55 \times 10^{-13} mork
+1.31 \times 10^{-13} mork
+Which of the following is the best choice for the charge on an electron in morks?
+2.62 \times 10^{-13} mork
+6.55 \times 10^{-13} mork
+1.31 \times 10^{-13} mork
+1.6 \times 10^{-13} mork
+None of these.
+An oil drop weighs 1.9 \times 10^{-15} \ N and is suspended in an electric field of  6.0 \times 10^3 \ N/C .
+What is the charge on the drop?
+How many excess electrons does it carry?
+Millikan oil drop experiment:
+The purpose of Robert Millikan's oil-drop experiment (1909) was to measure the electric charge of the electron.
+He did this by carefully balancing the gravitational and electric forces on tiny charged droplets of oil suspended between parallel charged metal plates.
+Describe charge sharing and grounding.

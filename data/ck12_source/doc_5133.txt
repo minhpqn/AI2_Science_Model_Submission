@@ -1,0 +1,20 @@
+Live healthy red cells
+Shown are cells in various stages of their cell cycle.
+Numerous dividing cells are evident.
+The formation of gametes , an organism’s reproductive cells, such as sperm and egg cells, involves a completely different method of cell division, called meiosis .
+This cell division ensures that each gamete receives a haploid number (half the amount) of chromosomes.
+cell cycle :
+A repeating series of events, during which the eukaryotic cell carries out its necessary functions, including metabolism, cellular growth, DNA replication and cell division, resulting in two genetically identical daughter cells.
+chromosome :
+The coiled structure of DNA and histone proteins; allows for the precise separation of replicated DNA; forms during prophase of mitosis and meiosis.
+cytokinesis :
+Division of the cytoplasm, forming two daughter cells.
+diploid :
+The state of a cell containing two sets of chromosomes; in human somatic cells, two sets is 46 (23 pairs) chromosomes, 2n
+DNA replication :
+The process of copying DNA prior to cell division (eukaryotes) or reproduction (prokaryotes).
+eukaryotic :
+From an organism that has cells containing a nucleus and other membrane-bound organelles; eukaryote.
+eukaryotic cell :
+Typical of multi-celled organisms; have membrane bound organelles; usually larger than prokaryotic cells.
+gamete :

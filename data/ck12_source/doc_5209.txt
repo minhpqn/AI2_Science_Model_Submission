@@ -1,0 +1,20 @@
+An allele in an alternative form of a gene, and a gene is a segment of DNA that has the information to encode a polypeptide or RNA molecule.
+Mendel called these "heritable factors" or "heritable units," as, during Mendel's time, DNA had not yet been identified.
+In modern terms, these hypotheses are:
+There are different versions of genes .
+These different versions account for variations in characteristics.
+For example, there is a “yellow-pod” allele and a “green pod” allele of the gene for pod color.
+The blending inheritance hypothesis was discredited by Mendel’s allele hypothesis.
+When two different alleles (heritable factors) are inherited together, one may be expressed, while the effect of the other may be “silenced.” In the case of pod color, the allele for green pods is always expressed and is dominant .
+The allele for yellow pods, which is not expressed, is recessive .
+For instance, if a plant inherits a “yellow-pod” allele and a “green pod” allele, it will have only green pods.
+For each characteristic, an organism inherits two alleles (heritable factors), one from each parent.
+Mendel noted that offspring could inherit their traits from either parent.
+In the case of the expressed trait, it did not matter whether it was the male gamete or female gamete that supplied the gene.
+When gametes are formed, the two alleles (heritable factors) of each gene are separated ( Figure below ).
+During meiosis, each male or female gamete receives one allele for a trait.
+When the male and female gametes are fused at fertilization, the resulting zygote contains two alleles of each gene.
+Keep in mind that Mendel developed this hypothesis without knowledge of meiosis.
+Alleles on homologous chromosomes are randomly separated during gamete formation.
+Upon fertilization, the fusion of a male and female gametes results in new combinations of alleles in the resulting zygote.
+Random Segregation of Alleles

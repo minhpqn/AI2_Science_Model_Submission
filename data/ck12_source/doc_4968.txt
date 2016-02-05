@@ -1,0 +1,20 @@
+Tyrosine kinase receptors bind many polypeptide growth factors, cytokines, and hormones.
+Once the ligand is bound, these receptors specifically phosphorylate tyrosine amino acids, activating the signal transduction process inside the cell.
+A G-protein linked receptor is a receptor that works with the help of a protein called a G-protein.
+A G-protein gets its name from the molecule to which it is attached, guanosine triphosphate (GTP), or guanosine diphosphate (GDP).
+The GTP molecule is similar to ATP.
+Once G proteins or protein kinase enzymes are activated by a receptor protein - after the ligand binds to its receptor - they create molecules called second messengers.
+A second messenger is a small molecule that starts a change inside a cell in response to the binding of a specific signal to a receptor protein.
+Some second messenger molecules include small molecules called cyclic nucleotides, such as cyclic adenosine monophosphate (cAMP) and cyclic guanosine monophosphate (cGMP).
+Calcium ions (Ca 2+ ) also act as secondary messengers.
+Secondary messengers are a part of signal transduction pathways.
+Two-component signal transduction system.
+This process begins with the stimulus binding to its receptor.
+Shown here is a cell-surface receptor.
+The signal in then transduced to the inside of the cell.
+Some receptors bind the ligand internally.
+In this case, the ligand must be able to enter the cell.
+These receptors usually interact with steroid and thyroid hormones.
+Once the ligand binds to the receptor, the receptor becomes activated, and the whole complex enters the nucleus, hence these receptors are known as nuclear receptors.
+In the nucleus, the activated receptor acts as a transcription factor, where it interacts with other proteins to regulate the expression of specific genes, thereby controlling the development, homeostasis, and metabolism of the organism.
+cell-surface receptor :

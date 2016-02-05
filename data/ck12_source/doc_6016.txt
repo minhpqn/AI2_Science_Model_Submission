@@ -1,0 +1,20 @@
+Think about your result.
+Because the coefficients of the O 2 and the CO 2 are larger than that of the C 3 H 8 , the volumes for those two gases are greater.
+Note that total volume is not necessarily conserved in a reaction because moles are not necessarily conserved.
+In this reaction, 6 total volumes of reactants become 7 total volumes of products.
+Calculations of volume-volume ratios are based on Avogadro’s hypothesis.
+Pressures and temperatures of the gases involved need to be the same.
+Read the material and work the Example One practice problems at the link below:
+What is Avogadaro’s hypothesis?
+How much volume is occupied by one mole of a gas at STP?
+In the sample problem above, assume we combust 1.3 L of propane.
+How much CO 2 will be produced?
+volume-volume stoichiometry:
+At the same pressure and temperature, equal volumes of gases contain the same number of molecules.
+Mass-Volume and Volume-Mass Stoichiometry
+Perform mass-to-volume and volume-to-mass calculations involving gases.
+Air bags fill using sodium azide, which needs to be calculated using stoichiometry
+How much azide is needed to fill an air bag?
+Cars and many other vehicles have air bags in them.
+In case of a collision, a reaction is triggered so that the rapid decomposition of sodium azide produces nitrogen gas, filling the air bag.
+If too little sodium azide is used, the air bag will not fill completely and will not protect the person in the vehicle.

@@ -1,0 +1,20 @@
+Each small circle in the diagram represents one carbon atom.
+For example, citric acid is a six carbon molecule, and OAA (oxaloacetate) is a four carbon molecule.
+Follow what happens to the carbon atoms as the cycle proceeds.
+In one turn through the cycle, how many molecules are produced of ATP?
+How many molecules of NADH and FADH 2 are produced?
+Before the Krebs cycle begins, pyruvic acid, which has three carbon atoms, is split apart and combined with an enzyme known as CoA, which stands for coenzyme A.
+The product of this reaction is a two-carbon molecule called acetyl-CoA.
+The third carbon from pyruvic acid combines with oxygen to form carbon dioxide, which is released as a waste product.
+High-energy electrons are also released and captured in NADH.
+Steps of the Krebs Cycle
+The Krebs cycle itself actually begins when acetyl-CoA combines with a four-carbon molecule called OAA (oxaloacetate) (see Figure above ).
+This produces citric acid, which has six carbon atoms.
+This is why the Krebs cycle is also called the citric acid cycle .
+After citric acid forms, it goes through a series of reactions that release energy.
+The energy is captured in molecules of NADH, ATP, and FADH 2 , another energy-carrying compound.
+Carbon dioxide is also released as a waste product of these reactions.
+The final step of the Krebs cycle regenerates OAA, the molecule that began the Krebs cycle.
+This molecule is needed for the next turn through the cycle.
+Two turns are needed because glycolysis produces two pyruvic acid molecules when it splits glucose.
+Watch the OSU band present the Krebs cycle:  .

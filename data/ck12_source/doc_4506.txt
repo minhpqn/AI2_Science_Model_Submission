@@ -1,0 +1,20 @@
+Nerve impulses are electrical in nature.
+They result from a difference in electrical charge across the plasma membrane of a neuron.
+How does this difference in electrical charge come about?
+The answer involves ions , which are electrically charged atoms or molecules.
+When a neuron is not actively transmitting a nerve impulse, it is in a resting state, ready to transmit a nerve impulse.
+During the resting state, the sodium-potassium pump maintains a difference in charge across the cell membrane (see Figure below ).
+It uses energy in ATP to pump positive sodium ions (Na + ) out of the cell and potassium ions (K + ) into the cell.
+As a result, the inside of the neuron is negatively charged compared to the extracellular fluid surrounding the neuron.
+This is due to many more positively charged ions outside the cell compared to inside the cell.
+This difference in electrical charge is called the resting potential.
+Sodium Potassium pump
+The sodium-potassium pump maintains the resting potential of a neuron.
+A nerve impulse is a sudden reversal of the electrical charge across the membrane of a resting neuron.
+The reversal of charge is called an action potential.
+It begins when the neuron receives a chemical signal from another cell.
+The signal causes gates in sodium ion channels to open, allowing positive sodium ions to flow back into the cell.
+As a result, the inside of the cell becomes positively charged compared to the outside of the cell.
+This reversal of charge ripples down the axon very rapidly as an electric current (see Figure below ).
+You can watch a detailed animation of an action potential at this link:
+An action potential speeds along an axon in milliseconds.

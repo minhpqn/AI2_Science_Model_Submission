@@ -1,0 +1,20 @@
+Example:  If an automobile with a velocity of 4.0 m/s accelerates at a rate of 4.0 m/s 2 for 2.5 s, what is the final velocity?
+v_f = v_i + at = 4.0 \ \text{m/s} + (4.0 \ \text{m/s}^2)(2.5 \ \text{s}) = 4.0 \ \text{m/s} + 10. \ \text{m/s} = 14 \ \text{m/s}
+Example:  If a cart slows from 22.0 m/s with an acceleration of -2.0 m/s 2 , how long does it require to get to 4 m/s?
+t=\frac{v_f-v_i}{a}=\frac{-18 \ \text{m/s}}{-2.0 \ \text{m/s}^2}=9.0 \ \text{s}
+Acceleration that does not change in time is uniform, or constant, acceleration.
+The equation relating initial velocity, final velocity, time, and acceleration is v_f = v_i + at .
+Based on the knowledge you already have, fill in these three graphs, assuming an object begins at x = -10m, v i  = 0m/s, and a = 0.5m/s 2 .
+Let the top graph show position in meters (blue arrow), the middle graph show velocity in meters per second (red arrow), and the bottom graph show acceleration in meters per second squared (green arrow).
+The labels across the bottom (0 to 20) are time, in seconds.
+Download this activity, and use it to answer the questions below about the relationships between position, velocity, and acceleration.
+Familiarize yourself with the program.
+Then, set the initial position to -10m, the velocity to 0 m/s, and the acceleration to 0.5 m/s 2 .
+Run the program, and look at the graphs the program produces.
+How do they compare to the graphs you predicted?
+For each graph, explain why it looks as it does.
+Given the velocity and acceleration graphs given here, draw the man's position graph.
+Assume he starts at 0 m.
+Given the position and velocity graphs given here, draw the acceleration graph.
+Assume the man starts at 0 m/s 2 .
+If an object has zero acceleration, does that mean it has zero velocity?  Give an example.

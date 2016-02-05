@@ -1,0 +1,20 @@
+Therefore, if you know the mass of an object, you can calculate its weight using this equation:
+F = m × 9.8 m/s 2
+Q :
+Sam has a mass of 50 kilograms.
+What is his weight in Newtons?
+A :
+You can calculate Sam’s weight in Newtons by substituting his mass in kilograms into the weight formula:
+F = m × 9.8 m/s 2 = 50 kg × 9.8 m/s 2 = 490 kg *bull; m/s 2 , or 490 N
+You’re probably more familiar with weight in pounds (lb) than in Newtons.
+One Newton equals 0.225 pounds.
+In other words, there are 0.225 pounds per Newton.
+You can use this ratio to convert Newtons to pounds.
+Q :
+What is Sam’s weight in pounds?
+A :
+In pounds, Sam’s weight is 490 N x 0.225 lb/N = 110 lb.
+Weight is a measure of the force of gravity pulling down on an object.
+It depends on the object’s mass and the acceleration due to gravity, which is 9.8 m/s 2 on Earth.
+The formula for calculating weight is F = m × 9.8 m/s 2 , where F is the object’s weight in Newtons (N) and m is the object’s mass in kilograms.
+The Newton is the SI unit for weight, and 1 Newton equals 0.225 pounds.

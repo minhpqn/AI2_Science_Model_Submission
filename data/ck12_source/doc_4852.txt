@@ -1,0 +1,20 @@
+The microscope literally opened up an amazing new dimension in the natural sciences, and became a critical tool in the progress of biology.
+Magnifying glasses had been in use since the 1300s, but the use of lenses to see very tiny objects was a slowly-developing technology.
+The magnification power of early microscopes was very limited by the glass quality used in the lenses and the amount of light reflected off the object.
+These early light microscopes had poor resolution and a magnification power of about 10 times.
+Compare this to the over 200 times magnification that Leeuwenhoek was able to achieve by carefully grinding his own lenses.
+However, in time the quality of microscopes was much improved with better lighting and resolution.
+It was through the use of light microscopes that the first discoveries about the cell and the cell theory (1839) were developed.
+The Figure below is an example of an early light microscope used by Robert Hooke (1665), the microscopist who was the first to discover cells.
+However, by the end of the 19 th century, light microscopes had begun to hit resolution limits, and microscopy became a significant tool in the biological sciences.
+Resolution is a measure of the clarity of an image; it is the minimum distance that two points can be separated by and still be distinguished as two separate points.
+Because light beams have a physical size, it is difficult to see an object that is about the same size as the wavelength of light.
+Objects smaller than about 0.2 micrometers appear fuzzy, and objects below that size just cannot be seen.
+Light microscopes were still useful, but most organelles and tiny cell structures were invisible to the light microscope.
+(A) English Scientist and Microscopist Robert Hooke’s light microscope. (B) Modern electron microscope.
+In the 1930s, a new system was developed that could use a beam of electrons to resolve very tiny dimensions at the molecular level.
+Electron microscopes , one of which is shown in Figure above , have been used to produce images of molecules and atoms.
+They have been used to visualize the tiny sub-cellular structures that were invisible to light microscopes.
+Many of the discoveries made about the cell since the 1950s have been made with electron microscopes.
+The first electron microscope was the transmission electron microscope (TEM) .
+The TEM works on the same principle as an optical microscope , but uses electrons instead of light and electromagnets in the place of glass lenses.

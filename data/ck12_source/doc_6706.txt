@@ -1,0 +1,20 @@
+Watch this Explanation
+Click on the image above for more content
+Try the following simulation to apply these principles.
+When hit from behind in a car crash, a passenger can suffer a neck injury called whiplash .
+Explain in terms of inertia how this occurs, and how headrests can prevent the injury.
+A cheetah can outrun a gazelle in a short straight race, but the gazelle can escape with its life by zigzagging.
+The cheetah is more massive than the gazelle – explain how this strategy works.
+If your hammer develops a loose head, you can tighten it by banging it on the ground.
+A little physics secret though – it’s better to bang the hammer head up rather than head down .
+Explain, using inertia.
+If a man weighs 140 lb. on Earth, what is his weight in Newtons and his mass in kg?
+The passenger's head will remain at rest for the split second when the seat exerts a big force on the passenger's back causing a "whiplash" on your neck.
+This is an example of newton's first law because your head is not acted on by an unbalanced force while the rest of your body is.
+A head rest causes your head to accelerate with the rest of your body.
+The cheetah must exert a bigger force to change directions than the gazelle because the cheetah has more inertia.
+This extra force needed for the cheetah to change directions allows the gazelle to get away.
+The head of the hammer has more inertia than the tail.
+So when you bang the hammer "head up" the head exerts a large force on the rest of the hammer in order to come to a stop.
+620 N, 62 kg (using 10 m/s/s for acceleration of gravity
+Newton's Second Law

@@ -1,0 +1,20 @@
+These are the same percentages that Mendel got in his first experiment.
+Determining Missing Genotypes
+A Punnett square can also be used to determine a missing genotype based on the other genotypes involved in a cross.
+Suppose you have a parent plant with purple flowers and a parent plant with white flowers.
+Because the b allele is recessive, you know that the white-flowered parent must have the genotype bb .
+The purple-flowered parent, on the other hand, could have either the BB or the Bb genotype.
+The Punnett square in Figure below shows this cross.
+The question marks (?) in the chart could be either B or b alleles.
+Test cross with a Punnett square
+Punnett Square:
+Cross Between White-Flowered and Purple-Flowered Pea Plants.
+This Punnett square shows a cross between a white-flowered pea plant and a purple-flowered pea plant.
+Can you fill in the missing alleles?
+What do you need to know about the offspring to complete their genotypes?
+Can you tell what the genotype of the purple-flowered parent is from the information in the Punnett square?
+No; you also need to know the genotypes of the offspring in row 2.
+What if you found out that two of the four offspring have white flowers?
+Now you know that the offspring in the second row must have the bb genotype.
+One of their b alleles obviously comes from the white-flowered ( bb ) parent, because that’s the only allele this parent has.
+The other b allele must come from the purple-flowered parent.

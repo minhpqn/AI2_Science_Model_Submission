@@ -1,0 +1,20 @@
+Explain the significance of a concentration gradient.
+Define passive transport.
+List the three main kinds of passive transport.
+What will eventually happen to these dyes?
+They will all blend together.
+The dyes will move through the water until an even distribution is achieved.
+The process of moving from areas of high amounts to areas of low amounts is called diffusion.
+Probably the most important feature of a cell’s phospholipid membranes is that they are selectively permeable or semipermeable .
+A membrane that is selectively permeable has control over what molecules or ions can enter or leave the cell, as shown in Figure below .
+The permeability of a membrane is dependent on the organization and characteristics of the membrane lipids and proteins.
+In this way, cell membranes help maintain a state of homeostasis within cells (and tissues, organs, and organ systems) so that an organism can stay alive and healthy.
+Illustrates how a cell's selectively permeable membrane only allows certain molecules through
+A selectively permeable membrane allows certain molecules through, but not others.
+Transport Across Membranes
+The molecular make-up of the phospholipid bilayer limits the types of molecules that can pass through it.
+For example, hydrophobic (water-hating) molecules, such as carbon dioxide (CO 2 ) and oxygen (O 2 ), can easily pass through the lipid bilayer, but ions such as calcium (Ca 2+ ) and polar molecules such as water (H 2 O) cannot.
+The hydrophobic interior of the phospholipid bilayer does not allow ions or polar molecules through because these molecules are hydrophilic , or water loving.
+In addition, large molecules such as sugars and proteins are too big to pass through the bilayer.
+Transport proteins within the membrane allow these molecules to pass through the membrane, and into or out of the cell.
+This way, polar molecules avoid contact with the nonpolar interior of the membrane, and large molecules are moved through large pores.

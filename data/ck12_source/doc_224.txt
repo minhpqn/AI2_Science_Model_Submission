@@ -1,0 +1,20 @@
+An automobile travels a displacement of 75 km 45° north of east.  How far east does it travel and how far north does it travel?
+axial component:
+A component situated in or on an axis.
+resolution of vectors:
+Any vector directed at an angle to the horizontal (or the vertical) can be thought of as having two parts (or components) that lie on the axes (one horizontal and one vertical).  The process of identifying these two components is known as the resolution of the vector.
+Here you'll learn how to add two vectors with either the triangle method or the parallelogram method.
+Adding Vectors in Two Dimensions
+In the following image, vectors  A and  B represent the two displacements of a person who walked 90. m east and then 50. m north.
+We want to add these two vectors to get the vector sum of the two movements.
+Graph of two vectors, representing two displacements of a person who walked 90 mi east and then 50 mi north
+The graphical process for adding vectors in two dimensions is to place the tail of the second vector on the arrow head of the first vector as shown above.
+The sum of the two vectors is the vector that begins at the origin of the first vector and goes to the ending of the second vector, as shown below.
+Two vectors representing two displacements of a person who walked 90 mi east and then 50 mi north, with the third vector connecting the two, creating a triangle indicating the sum
+If we are using totally graphic means of adding these vectors, the magnitude of the sum can be determined by measuring the length of the sum vector and comparing it to the original standard.
+We then use a compass to measure the angle of the summation vector.
+If we are using calculation, we first determine the inverse tangent of 50 units divided by 90 units and get the angle of 29° north of east.
+The length of the sum vector can then be determined mathematically by the Pythagorean theorem,  a^2 + b^2 = c^2 .  In this case, the length of the hypotenuse would be the square root of (8100 + 2500), or 103 units.
+If three or four vectors are to be added by graphical means, we would continue to place each new vector head to toe with the vectors to be added until all the vectors were in the coordinate system.
+The resultant, or sum, vector would be the vector from the origin of the first vector to the arrowhead of the last vector; the magnitude and direction of this sum vector would then be measured.
+Mathematical Methods of Vector Addition

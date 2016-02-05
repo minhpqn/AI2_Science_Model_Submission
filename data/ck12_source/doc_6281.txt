@@ -1,0 +1,20 @@
+Step 2:
+Solve .
+amount of ethanol used: \frac{1.55 \text{ g}}{46.1 \text{ g/mol}} = 0.0336 \ \text{moles}
+energy generated: 4.184 \text{ J/g}^\circ \text{C} \times 200 \text{ g} \times 55^\circ \text{C} = 46024 \text{ J} = 46.024 \text{ kJ}
+molar heat of combustion: \frac{46.024 \text{ kJ}}{0.0336 \text{ moles}}=1369 \text{ kJ/mol}
+Step 3:
+Think about your result:
+The burning of ethanol produces a significant amount of heat.
+The molar heat of combustion is defined.
+Calculations using the molar heat of combustion are described.
+Watch the video at the link below (heat of combustion of almond) and answer the following questions:
+Why was the pellet pressed?
+How did the scientist guarantee that excess oxygen was present?
+Why as there a several minute wait before igniting the bomb?
+Write the reaction for the combustion of ethanol in oxygen?
+What would be the limiting reagent in the reaction?
+If you made an error in weighing the ethanol and added less than you planned on, would the heat of combustion result be higher or lower?
+molar heat of combustion:
+The heat released when one mole of a substance is completely burned.
+Hess's Law of Heat Summation

@@ -1,0 +1,20 @@
+The process of amino acid assembly takes place in the ribosome.
+This structure consists of two subunits containing ribosomal RNA that enclose the mRNA and catalyze the formation of the amide linkages in the growing protein in a process known as translation .
+When protein synthesis is complete, the two subunits dissociate and release the completed protein chain.
+The process of protein synthesis is fairly fast.
+Amino acids are added to the growing peptide chain at a rate of about 3-5 amino acids per second.
+A small protein (100-200 amino acids) can be produced in a minute or less.
+Overview of translation
+Role of ribosome in protein synthesis
+The steps in protein synthesis are described.
+Watch the video at the link below and answer the following questions:
+What is the initiating amino acid?
+How does the ribosome move when a new amino acid enters?
+What happens to each tRNA after it delivers its amino acid?
+What is transcription?
+What is translation?
+What molecule gets the amino acid in the sequence at the proper time?
+transcription:
+The production of an mRNA strand from DNA.
+translation:
+Manufacture of proteins by the ribosome.
