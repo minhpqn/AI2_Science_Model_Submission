@@ -1,6 +1,8 @@
 # The Allen AI Science Challenge
 Pham Quang Nhat Minh
 
+Competition homepage: [https://www.kaggle.com/c/the-allen-ai-science-challenge](https://www.kaggle.com/c/the-allen-ai-science-challenge).
+
 ## Hardware requirement
 We run the model on Mac OS enviroment. Memory: 16GB, 2.6 GHz Core i7.
 
