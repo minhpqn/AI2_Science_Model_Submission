@@ -1,4 +1,4 @@
-package CorenlpProcess;
+require './code/xml2simple.pl';
 use File::Path qw/mkpath/;
 use File::Basename;
 use Carp qw/confess/;
@@ -6,31 +6,25 @@ use Getopt::Long;
 use strict;
 use warnings;
 
-# corenlp_preprocess.pl
-# preprocess data with stanford_corenlp
-# Stanford CoreNLP version: 3.5.2
-# Reference: http://nlp.stanford.edu/software/corenlp.shtml
+# Process .xml files one by one and convert to a combined .elem file
+# Do not need to make a big .xml file
 
-# 
-# History
-# ----------------------------
-# 2016/01/26    add openie in preprocessing
-# 2015/10/14    start implementation
-#
-
-__PACKAGE__->main() unless caller;
+main();
 
 sub _usage {
     print "usage: [Options] datafile tmpdir\n";
     print " [Options]\n";
+    print "   --without_parsing\n";
     print "   --validation\n";
     exit;
 }
 
 sub main {
     my $validation;
+    my $without_parsing;
     GetOptions(
-        "validation" => \$validation,
+        "without_parsing" => \$without_parsing,
+        "validation"      => \$validation,
     );
     $validation = 0 unless ($validation);
 
@@ -48,27 +42,20 @@ sub main {
         mkpath($workdir);
     }
     
-    my $output = "$datafile.xml";
     my $file_list = "$workdir/list.txt";
-    get_list_file($datafile, $workdir, $file_list, $validation);
-    run_stanford_corenlp( {filelist => $file_list,
-                           outputDirectory => $workdir} );
-    combine_parsed_results($datafile, $output, $workdir, $validation);
+    if ( !$without_parsing ) {
+        get_list_file($datafile, $workdir, $file_list, $validation);
+        run_stanford_corenlp( {filelist => $file_list,
+                               outputDirectory => $workdir} );
+    }
+    combine_parsed_results($datafile, $workdir, $validation);
 }
 
-# Combine results parsed by stanford-corenlp into one file
+# Combine results parsed by stanford-corenlp into one .elem file
 sub combine_parsed_results {
-    my ($datafile, $output, $workdir, $validation) = @_;
+    my ($datafile, $workdir, $validation) = @_;
 
     my @chars = qw(A B C D);
-
-    open FOUT, '>:encoding(UTF-8)', $output
-        or die "Error writing $output";
-
-    print FOUT '<?xml version="1.0" encoding="UTF-8"?>';
-    print FOUT "\n";
-    print FOUT "<examples>\n";
-    
     open FI, '<', $datafile or die "Error reading $datafile";
     while (my $line = <FI>) {
         chomp($line);
@@ -83,60 +70,46 @@ sub combine_parsed_results {
         }
 
         $gold = 'X' if (!defined $gold);
-
-        print FOUT " <example id=\"$id\" answer=\"$gold\">\n";
-        print FOUT "  <question>\n";
-        print FOUT "   <text>$q</text>\n";
-        my $qxml = get_parsed_content("$workdir/$id.txt.xml");
-        print FOUT "$qxml\n";
-        print FOUT "  </question>\n";
-
+        
+        my $qsentences = get_sentences("$workdir/$id.txt.xml");
+        print_sentences( $id, 'Q', $qsentences);
+        
         for my $i (0..$#chars) {
-            print FOUT "  <answer id=\"$chars[$i]\">\n";
-            print FOUT "   <text>$answers[$i]</text>\n";
-            my $axml = get_parsed_content("$workdir/$id\_$chars[$i].txt.xml");
-            print FOUT "$axml\n";
-            print FOUT "  </answer>\n";
+            my $sentences = get_sentences("$workdir/$id\_$chars[$i].txt.xml");
+            print_sentences( $id, $chars[$i], $sentences );
         }
-        print FOUT " </example>\n";
     }
-    
     close FI;
-
-    print FOUT "</examples>\n";
-    close FOUT;
 }
 
-# Get parsed content between two tags <sentences> and </sentences>
-sub get_parsed_content {
-    my ($filename) = @_;
-    
-    open FIN, '<:encoding(UTF-8)', $filename
-        or die "Error reading $filename";
+# return a list of sentences from an .xml file
+sub get_sentences {
+    my ( $xmlfile ) = @_;
+    my $parser = XML::LibXML->new;
+    my $doc = $parser->parse_file($xmlfile)
+        or die "Error reading $xmlfile\n";
 
-    my @lines;
-    my $flag = 0;
-    while (my $line = <FIN>) {
-        chomp($line);
-        if ($line =~ /<sentences>/) {
-            push @lines, $line;
-            $flag = 1;
-            next;
-        }
-        elsif ($line =~ /<\/sentences>/) {
-            push @lines, $line;
-            $flag = 0;
-            next;
-        }
+    my $docu_node = $doc->getElementsByTagName('document')->[0];
+    my $sentences_node = $docu_node->getElementsByTagName('sentences')->[0];
+    my @sentence_nodes = $sentences_node->getElementsByTagName('sentence');
 
-        if ($flag) {
-            push @lines, $line;
-        }
+    my $sentences = [];
+    for my $sent_node ( @sentence_nodes ) {
+        my $sent = XML2Simple::get_a_sentence($sent_node);
+        push @$sentences, $sent;
     }
+    
+    return $sentences;
+}
 
-    close FIN;
+sub print_sentences {
+    my ( $id, $type, $sentences ) = @_;
 
-    return join("\n", @lines);
+    for my $i (0..$#$sentences) {
+        my $sent = $sentences->[$i];
+        my $row = join("\t", $id, $type, $i+1, $sent);
+        print "$row\n";
+    }
 }
 
 sub run_stanford_corenlp {
@@ -165,13 +138,6 @@ sub run_stanford_corenlp {
     my $props = './code/corenlp.properties';
     my $comd = "java -classpath $CLASSPATH/stanford-corenlp-3.6.0.jar:$CLASSPATH/stanford-corenlp-3.6.0-models.jar:$CLASSPATH/xom.jar:$CLASSPATH/joda-time.jar:$CLASSPATH/jollyday.jar:$CLASSPATH/ejml-0.23.jar:$CLASSPATH/slf4j-api.jar:$CLASSPATH/slf4j-simple.jar:$CLASSPATH/stanford-openie.jar:$CLASSPATH/stanford-openie-models.jar -Xmx3g edu.stanford.nlp.pipeline.StanfordCoreNLP -outputDirectory $output_directory -outputExtension .xml -props $props -filelist $filelist";
     system($comd);
-}
-
-sub write_to {
-    my ($a_string, $file) = @_;
-    open FOUT, '>:encoding(UTF-8)', $file or die "$file\n";
-    print FOUT "$a_string";
-    close FOUT;
 }
 
 # Get the list of text files for questions & multiple answers
@@ -208,27 +174,12 @@ sub get_list_file {
     close FOUT;
 }
 
-# Write sentences of data file into the output
-sub get_text_data {
-    my ($datafile, $textfile) = @_;
-
-    open FIN, '<', $datafile or die "Error reading $datafile";
-    open FOUT, '>', $textfile or die "Error writing $textfile";
-
-    while (my $line = <FIN>) {
-        chomp($line);
-        next if $line =~ /^id/;
-
-        my ($id, $q, $gold, @answers) = split("\t", $line);
-        print FOUT join("\n", $q, @answers);
-        print FOUT "\n";
-    }
-
+sub write_to {
+    my ($a_string, $file) = @_;
+    open FOUT, '>:encoding(UTF-8)', $file or die "$file\n";
+    print FOUT "$a_string";
     close FOUT;
-    close FIN;
 }
-
-
 
 
 

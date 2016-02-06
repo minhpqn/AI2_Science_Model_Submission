@@ -1,6 +1,6 @@
 package XML2Simple;
 use Getopt::Long;
-use XML::libXML;
+use XML::LibXML;
 use Data::Dumper;
 use strict;
 use warnings;

@@ -36,14 +36,10 @@ echo "Input file: $inputFile"
 echo "Preprocess inputFile using Stanford CoreNLP version 3.6.0..."
 if [ $with_label -eq 1 ]
 then
-    perl code/corenlp_preprocess.pl $inputFile ./tmp
+    perl code/corenlp_text_analysis.pl $inputFile ./tmp > $inputFile.elem
 else
-    perl code/corenlp_preprocess.pl --validation $inputFile ./tmp
+    perl code/corenlp_text_analysis.pl --validation $inputFile ./tmp > $inputFile.elem
 fi
-
-echo "Convert .xml file to .elem file..."
-perl code/xml2simple.pl $inputFile.xml > $inputFile.elem
-echo "---------------------------------"
 
 echo "Building queries for search engine"
 perl code/build_lucene_query.pl $inputFile.elem
